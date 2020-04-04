@@ -1,0 +1,53 @@
+{
+  "name": "reps-archive",
+  "version": "0.0.1",
+  "license": "MPL",
+  "author": "Michael Kohler <me@michaelkohler.info>",
+  "scripts": {
+    "start": "DEBUG=* node index.js",
+    "eslint": "eslint .",
+    "test": "nyc ava"
+  },
+  "dependencies": {
+    "async": "^3.1.0",
+    "debug": "^4.1.1"
+  },
+  "devDependencies": {
+    "@ava/babel": "^1.0.1",
+    "@michaelkohler/eslint-config-base": "^6.8.20",
+    "@michaelkohler/eslint-config-node": "^6.8.20",
+    "@michaelkohler/eslint-config-test": "^6.8.20",
+    "ava": "^3.5.1",
+    "eslint": "^6.8.0",
+    "nyc": "^15.0.1"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "nyc": {
+    "check-coverage": true,
+    "statements": 90,
+    "branches": 66,
+    "functions": 90,
+    "lines": 90,
+    "include": [
+      "lib/**/*.js"
+    ],
+    "all": true,
+    "reporter": [
+      "text-summary",
+      "lcov"
+    ]
+  },
+  "ava": {
+    "files": [
+      "tests/**/*.test.js"
+    ],
+    "timeout": "10s",
+    "babel": {
+      "compileAsTests": [
+        "tests/**/*.js"
+      ]
+    }
+  }
+}

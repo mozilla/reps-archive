@@ -1,0 +1,14 @@
+{
+  "env": {
+      "node": true
+  },
+  "extends": "@michaelkohler/eslint-config-test",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "rules": {
+    "filenames/match-regex": 0,
+    "node/no-unsupported-features/es-syntax": 0,
+    "promise/always-return": 0
+  }
+}
