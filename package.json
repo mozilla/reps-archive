@@ -4,12 +4,13 @@
   "license": "MPL",
   "author": "Michael Kohler <me@michaelkohler.info>",
   "scripts": {
-    "start": "DEBUG=* node index.js",
+    "start": "DEBUG=reps-archive:* node index.js",
     "eslint": "eslint .",
     "test": "nyc ava"
   },
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.0",
+    "axios": "^0.19.2",
     "debug": "^4.1.1"
   },
   "devDependencies": {

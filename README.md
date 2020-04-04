@@ -15,10 +15,10 @@ npm ci
 Now you can run the script:
 
 ```
-FETCH=true npm start
+npm start
 ```
 
-You can leave off `FETCH="true"` if you already have a local file with the data.
+You can add `FETCH="true"` if you want to update the data, but note that this takes several hours to complete. We will run this fetch again before we shut down the Reps Portal. Until then the data is from around April 4th.
 
 Deploying a new build to gh-pages
 ------
