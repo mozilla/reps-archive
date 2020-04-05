@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="../style.css">
+
 <h1>{{rep.first_name}} {{rep.last_name}}</h1>
 
 <table>
@@ -21,12 +23,12 @@
 
 <h2>Activities</h2>
 <table>
-  <th>
-    <td>Date</td>
-    <td>Type</td>
-    <td>Initiative</td>
-    <td>Description</td>
-  </th>
+  <tr>
+    <th>Date</th>
+    <th>Type</th>
+    <th>Initiative</th>
+    <th>Description</th>
+  </tr>
   {{#activities}}
     <tr>
       <td>{{report_date}}</td>
