@@ -7,7 +7,8 @@
     "clean": "rm -rf dist/index.html dist/events dist/reps",
     "start": "npm run clean && DEBUG=reps-archive:* node index.js",
     "eslint": "eslint .",
-    "test": "nyc ava"
+    "test": "nyc ava",
+    "deploy": "npm run start && gh-pages -d dist"
   },
   "dependencies": {
     "async": "^3.2.0",
@@ -22,6 +23,7 @@
     "@michaelkohler/eslint-config-test": "^6.8.20",
     "ava": "^3.5.1",
     "eslint": "^6.8.0",
+    "gh-pages": "^2.2.0",
     "mocked-env": "^1.3.2",
     "nock": "^12.0.3",
     "nyc": "^15.0.1",
