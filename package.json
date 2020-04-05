@@ -11,7 +11,8 @@
   "dependencies": {
     "async": "^3.2.0",
     "axios": "^0.19.2",
-    "debug": "^4.1.1"
+    "debug": "^4.1.1",
+    "mustache": "^4.0.1"
   },
   "devDependencies": {
     "@ava/babel": "^1.0.1",
@@ -31,11 +32,11 @@
   "nyc": {
     "check-coverage": true,
     "statements": 90,
-    "branches": 66,
+    "branches": 85,
     "functions": 90,
     "lines": 90,
     "include": [
-      "index.js",
+      "gather.js",
       "lib/**/*.js"
     ],
     "all": true,
