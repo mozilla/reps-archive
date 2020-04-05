@@ -41,16 +41,25 @@ const events = [
     name: 'CV Event',
     description: 'Some CV event',
     remo_url: 'https://reps.mozilla.org/e/cv-event/',
+    owner: {
+      display_name: 'Foo',
+    },
   },
   {
     name: 'SUMO Event',
     description: 'Some SUMO event',
     remo_url: 'https://reps.mozilla.org/e/sumo-event/',
+    owner: {
+      display_name: 'Bar',
+    },
   },
   {
     name: 'l10n Event',
     description: 'Some l10n event',
     remo_url: 'https://reps.mozilla.org/e/l10n-event/',
+    owner: {
+      display_name: 'Foo',
+    },
   },
 ];
 
@@ -60,18 +69,27 @@ const expectedEvents = [
     description: 'Some CV event',
     remo_url: 'https://reps.mozilla.org/e/cv-event/',
     urlName: 'cv-event',
+    owner: {
+      display_name: 'Foo',
+    },
   },
   {
     name: 'SUMO Event',
     description: 'Some SUMO event',
     remo_url: 'https://reps.mozilla.org/e/sumo-event/',
     urlName: 'sumo-event',
+    owner: {
+      display_name: 'Bar',
+    },
   },
   {
     name: 'l10n Event',
     description: 'Some l10n event',
     remo_url: 'https://reps.mozilla.org/e/l10n-event/',
     urlName: 'l10n-event',
+    owner: {
+      display_name: 'Foo',
+    },
   },
 ];
 

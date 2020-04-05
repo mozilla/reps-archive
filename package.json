@@ -4,7 +4,8 @@
   "license": "MPL",
   "author": "Michael Kohler <me@michaelkohler.info>",
   "scripts": {
-    "start": "DEBUG=reps-archive:* node index.js",
+    "clean": "rm -rf dist/*",
+    "start": "npm run clean && DEBUG=reps-archive:* node index.js",
     "eslint": "eslint .",
     "test": "nyc ava"
   },

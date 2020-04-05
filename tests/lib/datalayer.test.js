@@ -17,22 +17,22 @@ test.afterEach.always((t) => {
   t.context.sandbox.restore();
 });
 
-test.serial('should return sorted Reps', async (t) => {
-  const reps = await datalayer.getReps();
+test.serial('should return sorted Reps', (t) => {
+  const reps = datalayer.getReps();
   t.deepEqual(reps, fixture.expectedReps);
 });
 
-test.serial('should return all events', async (t) => {
-  const events = await datalayer.getEvents();
+test.serial('should return all events', (t) => {
+  const events = datalayer.getEvents();
   t.deepEqual(events, fixture.expectedEvents);
 });
 
-test.serial('should return all events for Rep', async (t) => {
-  const events = await datalayer.getEventsForRep();
-  t.deepEqual(events, fixture.expectedEvents);
+test.serial('should return all events for Rep', (t) => {
+  const events = datalayer.getEventsForRep('Foo');
+  t.deepEqual(events, [fixture.expectedEvents[0], fixture.expectedEvents[2]]);
 });
 
-test.serial('should return activities', async (t) => {
-  const activities = await datalayer.getActivitiesForRep();
+test.serial('should return activities', (t) => {
+  const activities = datalayer.getActivitiesForRep();
   t.deepEqual(activities, fixture.activities);
 });

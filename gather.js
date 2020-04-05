@@ -9,6 +9,7 @@ const path = require('path');
 const datalayer = require('./lib/datalayer');
 const fetch = require('./lib/fetch');
 const overview = require('./lib/overview');
+const rep = require('./lib/rep');
 
 const BASE_URL = 'https://reps.mozilla.org/api/remo/v1';
 const REPS_URL = `${BASE_URL}/users`;
@@ -43,6 +44,7 @@ async function start() {
   await datalayer.loadDataIntoMemory();
   await createFolders();
   await overview.generateOverview();
+  await rep.generateProfiles();
 }
 
 async function createFolders() {

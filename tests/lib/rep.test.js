@@ -4,23 +4,23 @@ import fs from 'fs';
 import path from 'path';
 import fixture from '../fixtures/data';
 import datalayer from '../../lib/datalayer';
-import overview from '../../lib/overview';
+import rep from '../../lib/rep';
 
 test.beforeEach((t) => {
   t.context.sandbox = sinon.createSandbox();
   t.context.sandbox.stub(fs.promises, 'writeFile');
-  t.context.sandbox.stub(datalayer, 'getReps').returns(fixture.expectedReps);
-  t.context.sandbox.stub(datalayer, 'getEvents').returns(fixture.expectedEvents);
+  t.context.sandbox.stub(datalayer, 'getReps').returns([fixture.reps[0]]);
+  t.context.sandbox.stub(datalayer, 'getEventsForRep').returns(fixture.expectedEvents);
 });
 
 test.afterEach.always((t) => {
   t.context.sandbox.restore();
 });
 
-test.serial('should render overview', async (t) => {
-  await overview.generateOverview();
+test.serial('should render rep profile', async (t) => {
+  await rep.generateProfiles();
   const [, generatedContent] = fs.promises.writeFile.getCall(0).args;
-  const overviewFixturePath = path.join(__dirname, '../fixtures/overview.html');
+  const overviewFixturePath = path.join(__dirname, '../fixtures/rep.html');
   const overviewFixture = await fs.promises.readFile(overviewFixturePath, 'utf-8');
   t.is(generatedContent, overviewFixture);
 });
