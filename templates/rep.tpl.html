@@ -1,5 +1,16 @@
 <h1>{{rep.first_name}} {{rep.last_name}}</h1>
 
+<table>
+  <tr><td>Bio</td><td>{{{rep.bio}}}</td></tr>
+  <tr><td>Username</td><td>{{rep.display_name}}</td></tr>
+  <tr><td>Mentor</td><td>{{rep.mentor.display_name}}</td></tr>
+  <tr><td>Date joined</td><td>{{rep.date_joined_program}}</td></tr>
+  <tr><td>City, Country/Region</td><td>{{rep.city}}, {{rep.country}}</td></tr>
+  <tr><td>Functional Areas</td><td><ul>{{#rep.functional_areas}}<li>{{name}}</li>{{/rep.functional_areas}}</ul></td></tr>
+  <tr><td>Groups</td><td><ul>{{#rep.groups}}<li>{{name}}</li>{{/rep.groups}}</ul></td></tr>
+  <tr><td>Mobilising Skills</td><td><ul>{{#rep.mobilising_skills}}<li>{{name}}</li>{{/rep.mobilising_skills}}</ul></td></tr>
+  <tr><td>Mobilising Interests</td><td><ul>{{#rep.mobilising_interests}}<li>{{name}}</li>{{/rep.mobilising_interests}}</ul></td></tr>
+</table>
 
 <h2>Events</h2>
 <ul>

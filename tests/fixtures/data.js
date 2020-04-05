@@ -36,6 +36,51 @@ const expectedReps = [
   },
 ];
 
+const detailRep = {
+  'first_name': 'Michael',
+  'last_name': 'Kohler',
+  'display_name': 'michaelkohler',
+  'date_joined_program': '2012-11-13',
+  'date_left_program': null,
+  'city': 'Berlin',
+  'region': 'Berlin',
+  'country': 'Germany',
+  'twitter_account': 'KohlerSolutions',
+  'jabber_id': '',
+  'irc_name': 'mkohler:mozilla.org',
+  'wiki_profile_url': 'https://wiki.mozilla.org/User:Michaelkohler',
+  'irc_channels': 'Mozilla Reps, mozilla.ch, and many others',
+  'linkedin_url': '',
+  'facebook_url': '',
+  'diaspora_url': '',
+  'functional_areas': [{
+    'name': 'Advocacy and policy',
+  }, {
+    'name': 'Apps',
+  }],
+  'mobilising_skills': [],
+  'mobilising_interests': [{
+    'name': 'Browser Extensions',
+  }, {
+    'name': 'Testing',
+  }],
+  'bio': 'Since November 2012 I am a Mozilla Rep, building communities in Berlin (since April 2018) and I have helped building the \'Mozilla Switzerland\' community in the past before moving to Berlin.',
+  'mentor': {
+    'first_name': 'Henrik',
+    'last_name': 'Mitsch',
+    'display_name': 'hmitsch',
+    '_url': 'https://reps.mozilla.org/api/remo/v1/users/101/',
+  },
+  'mozillians_profile_url': 'https://mozillians.org/en-US/u/mkohler',
+  'timezone': 'Europe/Berlin',
+  'groups': [{
+    'name': 'Rep',
+  }, {
+    'name': 'Mentor',
+  }],
+  'remo_url': 'https://reps.mozilla.org/u/michaelkohler/',
+};
+
 const events = [
   {
     name: 'CV Event',
@@ -112,6 +157,7 @@ module.exports = {
   reps,
   repsString: JSON.stringify(reps),
   expectedReps,
+  detailRep,
   events,
   eventsString: JSON.stringify(events),
   expectedEvents,

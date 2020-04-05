@@ -9,7 +9,7 @@ import rep from '../../lib/rep';
 test.beforeEach((t) => {
   t.context.sandbox = sinon.createSandbox();
   t.context.sandbox.stub(fs.promises, 'writeFile');
-  t.context.sandbox.stub(datalayer, 'getReps').returns([fixture.reps[0]]);
+  t.context.sandbox.stub(datalayer, 'getReps').returns([fixture.detailRep]);
   t.context.sandbox.stub(datalayer, 'getEventsForRep').returns(fixture.expectedEvents);
 });
 
