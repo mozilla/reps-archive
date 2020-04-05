@@ -2,6 +2,13 @@
 <h2>All Reps</h2>
 <ul>
   {{#allReps}}
-    <li><a href="events/{{display_name}}">{{first_name}} {{last_name}}</a></li>
+    <li><a href="reps/{{display_name}}">{{first_name}} {{last_name}}</a></li>
   {{/allReps}}
+</ul>
+
+<h2>All Events</h2>
+<ul>
+  {{#allEvents}}
+    <li><a href="events/{{urlName}}">{{start}} - {{name}}</a></li>
+  {{/allEvents}}
 </ul>

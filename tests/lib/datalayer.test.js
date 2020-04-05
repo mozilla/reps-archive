@@ -24,12 +24,12 @@ test.serial('should return sorted Reps', async (t) => {
 
 test.serial('should return all events', async (t) => {
   const events = await datalayer.getEvents();
-  t.deepEqual(events, fixture.events);
+  t.deepEqual(events, fixture.expectedEvents);
 });
 
 test.serial('should return all events for Rep', async (t) => {
   const events = await datalayer.getEventsForRep();
-  t.deepEqual(events, fixture.events);
+  t.deepEqual(events, fixture.expectedEvents);
 });
 
 test.serial('should return activities', async (t) => {

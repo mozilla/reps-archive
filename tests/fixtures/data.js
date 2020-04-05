@@ -40,14 +40,38 @@ const events = [
   {
     name: 'CV Event',
     description: 'Some CV event',
+    remo_url: 'https://reps.mozilla.org/e/cv-event/',
   },
   {
     name: 'SUMO Event',
     description: 'Some SUMO event',
+    remo_url: 'https://reps.mozilla.org/e/sumo-event/',
   },
   {
     name: 'l10n Event',
     description: 'Some l10n event',
+    remo_url: 'https://reps.mozilla.org/e/l10n-event/',
+  },
+];
+
+const expectedEvents = [
+  {
+    name: 'CV Event',
+    description: 'Some CV event',
+    remo_url: 'https://reps.mozilla.org/e/cv-event/',
+    urlName: 'cv-event',
+  },
+  {
+    name: 'SUMO Event',
+    description: 'Some SUMO event',
+    remo_url: 'https://reps.mozilla.org/e/sumo-event/',
+    urlName: 'sumo-event',
+  },
+  {
+    name: 'l10n Event',
+    description: 'Some l10n event',
+    remo_url: 'https://reps.mozilla.org/e/l10n-event/',
+    urlName: 'l10n-event',
   },
 ];
 
@@ -72,6 +96,7 @@ module.exports = {
   expectedReps,
   events,
   eventsString: JSON.stringify(events),
+  expectedEvents,
   activities,
   activitiesString: JSON.stringify(activities),
 };

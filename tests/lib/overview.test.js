@@ -10,6 +10,7 @@ test.beforeEach((t) => {
   t.context.sandbox = sinon.createSandbox();
   t.context.sandbox.stub(fs.promises, 'writeFile');
   t.context.sandbox.stub(datalayer, 'getReps').resolves(fixture.expectedReps);
+  t.context.sandbox.stub(datalayer, 'getEvents').resolves(fixture.expectedEvents);
 });
 
 test.afterEach.always((t) => {
