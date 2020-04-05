@@ -32,7 +32,7 @@ test.serial('should return all events for Rep', (t) => {
   t.deepEqual(events, [fixture.expectedEvents[0], fixture.expectedEvents[2]]);
 });
 
-test.serial('should return activities', (t) => {
-  const activities = datalayer.getActivitiesForRep();
-  t.deepEqual(activities, fixture.activities);
+test.serial('should return activities for Rep', (t) => {
+  const activities = datalayer.getActivitiesForRep('Foo');
+  t.deepEqual(activities, [fixture.activities[0], fixture.activities[2]]);
 });

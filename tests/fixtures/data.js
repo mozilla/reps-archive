@@ -141,15 +141,30 @@ const expectedEvents = [
 const activities = [
   {
     activity: 'Attended Event',
-    description: 'I did something!',
+    initiative: 'Common Voice',
+    activity_description: 'I did something!',
+    report_date: '2020-01-01',
+    user: {
+      display_name: 'Foo',
+    },
   },
   {
-    name: 'Worked on Project Planning',
-    description: 'I did it!',
+    activity: 'Worked on Project Planning',
+    initiative: 'Common Voice',
+    activity_description: 'I did it!',
+    report_date: '2020-01-01',
+    user: {
+      display_name: 'Bar',
+    },
   },
   {
-    name: 'Created Bug',
-    description: 'I filed it!',
+    activity: 'Created Bug',
+    initiative: 'Common Voice',
+    activity_description: 'I filed it!',
+    report_date: '2020-01-01',
+    user: {
+      display_name: 'Foo',
+    },
   },
 ];
 

@@ -18,3 +18,21 @@
     <li><a href="events/{{urlName}}.html">{{start}} - {{name}}</a></li>
   {{/events}}
 </ul>
+
+<h2>Activities</h2>
+<table>
+  <th>
+    <td>Date</td>
+    <td>Type</td>
+    <td>Initiative</td>
+    <td>Description</td>
+  </th>
+  {{#activities}}
+    <tr>
+      <td>{{report_date}}</td>
+      <td>{{activity}}</td>
+      <td>{{initiative}}</td>
+      <td>{{activity_description}}</td>
+    </tr>
+  {{/activities}}
+</ul>
