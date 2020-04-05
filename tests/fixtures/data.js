@@ -138,6 +138,34 @@ const expectedEvents = [
   },
 ];
 
+const detailEvent = {
+  'name': 'Reps Council Weekly Meeting 2020-3-31',
+  'description': 'Reps Council Weekly Meeting 2020-3-31',
+  'start': '2020-03-31T17:30:00Z',
+  'end': '2020-03-31T18:25:00Z',
+  'timezone': 'Asia/Kolkata',
+  'city': 'india',
+  'region': 'india',
+  'country': 'India',
+  'lat': -6.14716845358,
+  'lon': 106.744687542,
+  'owner': {
+    'first_name': 'Mayur',
+    'last_name': 'Patil',
+    'display_name': 'yomanpatil',
+    '_url': 'https://reps.mozilla.org/api/remo/v1/users/1839/',
+  },
+  'external_link': 'https://example.com/external',
+  'initiative': 'Mozilla Reps Council',
+  'categories': [{
+    'name': 'Community support / participation',
+  }],
+  'estimated_attendance': 6,
+  'planning_pad_url': 'https://example.com/planning',
+  'hashtag': '',
+  'remo_url': 'https://reps.mozilla.org/e/reps-council-weekly-meeting-2020-3-31/',
+};
+
 const activities = [
   {
     activity: 'Attended Event',
@@ -176,6 +204,7 @@ module.exports = {
   events,
   eventsString: JSON.stringify(events),
   expectedEvents,
+  detailEvent,
   activities,
   activitiesString: JSON.stringify(activities),
 };

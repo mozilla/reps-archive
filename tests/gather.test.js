@@ -5,6 +5,7 @@ import fs from 'fs';
 import datalayer from '../lib/datalayer';
 import overview from '../lib/overview';
 import rep from '../lib/rep';
+import event from '../lib/event';
 import fetch from '../lib/fetch';
 import gather from '../gather';
 
@@ -15,6 +16,7 @@ test.beforeEach((t) => {
   t.context.sandbox.stub(datalayer, 'loadDataIntoMemory');
   t.context.sandbox.stub(overview, 'generateOverview');
   t.context.sandbox.stub(rep, 'generateProfiles');
+  t.context.sandbox.stub(event, 'generateEvents');
 });
 
 test.afterEach.always((t) => {
@@ -94,6 +96,17 @@ test.serial('should generate profiles', async (t) => {
 
   await gather.start();
   t.true(rep.generateProfiles.calledOnce);
+
+  restore();
+});
+
+test.serial('should generate events', async (t) => {
+  const restore = mockedEnv({
+    FETCH: undefined,
+  });
+
+  await gather.start();
+  t.true(event.generateEvents.calledOnce);
 
   restore();
 });

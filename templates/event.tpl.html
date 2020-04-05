@@ -1,0 +1,15 @@
+<h1>{{event.name}}</h1>
+
+<table>
+  <tr><td>Organized by</td><td>{{event.owner.first_name}} {{event.owner.last_name}}</td></tr>
+  <tr><td>Start</td><td>{{event.start}}</td></tr>
+  <tr><td>End</td><td>{{event.end}}</td></tr>
+  <tr><td>Timezone</td><td>{{event.timezone}}</td></tr>
+  <tr><td>Description</td><td>{{{event.description}}}</td></tr>
+  <tr><td>City, Country/Region</td><td>{{event.city}}, {{event.country}}</td></tr>
+  <tr><td>External Link</td><td><a href="{{{event.external_link}}}">{{{event.external_link}}}</a></td></tr>
+  <tr><td>Planning Link</td><td><a href="{{{event.planning_pad_url}}}">{{{event.planning_pad_url}}}</a></td></tr>
+  <tr><td>Initiative</td><td>{{event.initiative}}</td></tr>
+  <tr><td>Estimated attendance</td><td>{{event.estimated_attendance}}</td></tr>
+  <tr><td>Categories</td><td><ul>{{#event.categories}}<li>{{name}}</li>{{/event.categories}}</ul></td></tr>
+</table>
