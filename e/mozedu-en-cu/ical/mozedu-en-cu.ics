@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5123
+CLASS:PUBLIC
+DTSTAMP:20200407T181538Z
+DTSTART:20160309T180000Z
+DTEND:20160309T210000Z
+LOCATION:Sala 1 Facultad de Ciencias\, Mexico City\, Mexico
+SUMMARY:MozEdu en CU
+DESCRIPTION:Dar a conocer las tecnologías de Mozilla\, además de hacer s
+ aber a toda la gente que tienen derechos en la Web y que deben exigir que 
+ se respeten\, y que Mozilla está de su lado en esta misión.\n\nExpandir 
+ el interés de las personas sobre estas tecnologías y al mismo tiempo atr
+ aer a más colaboradores con diferentes niveles para hacer crecer la comun
+ idad en colaboradores.\n\nFacultades Objetivo:\n\nIngeniería\nCiencias\nC
+ ontaduría y Administración
+URL:https://reps.mozilla.org/e/mozedu-en-cu/
+SEQUENCE:3
+X-COORDINATES-LAT:19.324140215
+X-COORDINATES-LON:-99.1813287738
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

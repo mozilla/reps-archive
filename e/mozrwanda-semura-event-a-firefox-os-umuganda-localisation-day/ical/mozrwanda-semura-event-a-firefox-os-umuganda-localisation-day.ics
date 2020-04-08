@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3588
+CLASS:PUBLIC
+DTSTAMP:20200407T180004Z
+DTSTART:20150328T090000Z
+DTEND:20150328T140000Z
+LOCATION:KLAB\, Kigali\, Rwanda
+SUMMARY:MozRwanda SEMURA Event (A Firefox Os Umuganda Localisation Day)
+DESCRIPTION:Mozilla Rwanda Community and the KLab community will join toge
+ ther on 28th March 2015\, Umuganda Day\, to translate Firefox OS and Firef
+ ox into Kinyarwanda and French Language. So far FirefoxOS translation into
+ Kinyarwanda is at 16%. We will be meeting other Rwandans to push the trans
+ lations to completion and also recruit new mozillians as our community gro
+ ws bigger.
+URL:https://reps.mozilla.org/e/mozrwanda-semura-event-a-firefox-os-umugand
+ a-localisation-day/
+SEQUENCE:5
+X-COORDINATES-LAT:-1.94647303146
+X-COORDINATES-LON:30.0919901021
+X-COUNTRY-CODE:rw
+END:VEVENT
+
+END:VCALENDAR

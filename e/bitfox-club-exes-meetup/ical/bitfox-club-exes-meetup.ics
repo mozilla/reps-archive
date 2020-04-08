@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5905
+CLASS:PUBLIC
+DTSTAMP:20200407T174137Z
+DTSTART:20160921T010000Z
+DTEND:20160921T030000Z
+LOCATION:BITS Edu Campus\,Vadodara\, Vadodara\, India
+SUMMARY:BITFox Club Exes Meetup
+DESCRIPTION:- News and detailing about Mozilla India Restructuring Meetup 
+ happened in Pune with total new structure\n- Reactivation of club and rest
+ ructuring of club as well\n- Planning Roadmap of our club\n- Clearing out 
+ all doubts regarding MinM and get suggestions
+URL:https://reps.mozilla.org/e/bitfox-club-exes-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:22.299843855
+X-COORDINATES-LON:73.1928634504
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

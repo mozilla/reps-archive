@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3324
+CLASS:PUBLIC
+DTSTAMP:20200407T182354Z
+DTSTART:20150207T033000Z
+DTEND:20150207T110000Z
+LOCATION:Rajagiri School of engineering and technology\, Ernakulam\, India
+SUMMARY:WebMaker / FxOS App Day at RSET
+DESCRIPTION:WebMaker mainly focuses on college students and getting them f
+ amiliarized with Thimble hacking\, X-ray goggles\, Popcorn maker video mak
+ ing and app maker. \n\nFirefox OS Mini App day which focusses on the lates
+ t revolutionary Firefox OS-helping students get started with App Developme
+ nt It also aims at encouraging people to contribute to the Mozilla in thei
+ r respective field of interest and Also get them in touch with various Moz
+ illa Projects and help them to start contributing to the community.
+URL:https://reps.mozilla.org/e/webmaker-fxos-app-day-at-rset/
+SEQUENCE:11
+X-COORDINATES-LAT:9.99318868261
+X-COORDINATES-LON:76.3574380873
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

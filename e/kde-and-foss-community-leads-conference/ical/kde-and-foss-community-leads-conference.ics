@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9039
+CLASS:PUBLIC
+DTSTAMP:20200407T170252Z
+DTSTART:20200117T033000Z
+DTEND:20200119T133000Z
+LOCATION:MAIT\, New Delhi\, India
+SUMMARY:KDE and FOSS Community Leads Conference
+DESCRIPTION:KDE and FOSS Leads Community Conference will be held in Mahara
+ ja Agrasen Institute of Technology\, located in Rohini\, Delhi\, India. It
+  will generate even more interest and participation by creating a fertile 
+ environment for people to get started with KDE\, Qt and FOSS through numer
+ ous talks\, hands-on sessions and demonstrations. Attendees will be mostly
+  the leads of other communities so that we are able to interact together a
+ nd get ideas on new Technology.
+URL:https://reps.mozilla.org/e/kde-and-foss-community-leads-conference/
+SEQUENCE:1
+X-COORDINATES-LAT:28.7288043357
+X-COORDINATES-LON:77.0368652232
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

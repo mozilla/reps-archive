@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4906
+CLASS:PUBLIC
+DTSTAMP:20200407T182504Z
+DTSTART:20151215T061500Z
+DTEND:20151215T101500Z
+LOCATION:Nepal College of IT\, Kathmandu\, Nepal
+SUMMARY:NOSK meets Jonas and Siri
+DESCRIPTION:Jonas and Siri are debian developer and designer who are here 
+ in Nepal to meet other OSS people in Nepal.
+URL:https://reps.mozilla.org/e/nosk-meets-jonas-and-siri/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6726104693
+X-COORDINATES-LON:85.3386783598
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

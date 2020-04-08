@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@895
+CLASS:PUBLIC
+DTSTAMP:20200407T182243Z
+DTSTART:20130622T120000Z
+DTEND:20130622T220000Z
+LOCATION:La Maison Buffet -  Av Eng Luiz Vieira\, 555\, Papicu\, Fortaleza
+ \, Brazil
+SUMMARY:JSConf BR 2013
+DESCRIPTION:Brazillian edition of one of the most known JavaScript events 
+ around the world.\n\nJSConf BR will host a single line of great presentati
+ ons about JS\, including Mozilla&#39;s CTO\, Brendan Eich\, who is also the JS
+  creator and keeps developing the language.\n\nIt&#39;s the first edition of t
+ he JSConf franchise to take place in Brazil and it&#39;s organized by developm
+ ent communities members. \n\nThere&#39;re more information about the JSConf ev
+ ents in http://jsconf.com/.
+URL:https://reps.mozilla.org/e/jsconf-br-2013/
+SEQUENCE:4
+X-COORDINATES-LAT:-3.74093054925
+X-COORDINATES-LON:-38.4899139404
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

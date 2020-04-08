@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3959
+CLASS:PUBLIC
+DTSTAMP:20200407T180523Z
+DTSTART:20150612T090000Z
+DTEND:20150612T130000Z
+LOCATION:Spicy Restaurant &amp; Party Center\, Sylhet\, Bangladesh
+SUMMARY:Firefox Growth MozCoffee in Sylhet
+DESCRIPTION:We will discuss about Firefox Growth and Mozilla&#39;s future even
+ ts in Sylhet\;\nAs the SOP[1] 30 Mozillians will be having coffee and ligh
+ t food while discussing about the agendas of this event\; \n\nPlease have 
+ a look at the planning pad for details\;\n\n\n\n[1]https://wiki.mozilla.or
+ g/ReMo/SOPs/MozCoffee
+URL:https://reps.mozilla.org/e/firefox-growth-mozcoffee-in-sylhet/
+SEQUENCE:2
+X-COORDINATES-LAT:24.9057226
+X-COORDINATES-LON:91.8715774
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

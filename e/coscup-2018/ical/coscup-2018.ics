@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8211
+CLASS:PUBLIC
+DTSTAMP:20200407T175112Z
+DTSTART:20180811T000000Z
+DTEND:20180812T090000Z
+LOCATION:International Building (IB)\, NTUST\, Taipei\, Taiwan
+SUMMARY:COSCUP 2018
+DESCRIPTION:COSCUP is an annual conference held by Taiwanese Open source c
+ ommunity participants since 2006. It&#39;s a major force of Free software move
+ ment advocacy in Taiwan. The event is often held with talks\, sponsor and 
+ communities booths\, and Birds of a feather. In addition to international 
+ speakers\, many Taiwanese local Open Source contributors often give their 
+ talks here. The chief organizer\, staffs\, and speakers are all volunteers
+ .
+URL:https://reps.mozilla.org/e/coscup-2018/
+SEQUENCE:0
+X-COORDINATES-LAT:25.0130038153
+X-COORDINATES-LON:121.54020058
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

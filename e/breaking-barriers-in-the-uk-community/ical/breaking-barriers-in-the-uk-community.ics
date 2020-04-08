@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4326
+CLASS:PUBLIC
+DTSTAMP:20200407T174434Z
+DTSTART:20150817T100000Z
+DTEND:20150817T160000Z
+LOCATION:Mozilla London Office\, London\, United Kingdom
+SUMMARY:Breaking Barriers in the UK Community
+DESCRIPTION:#MozLunch with the London staff for research/group interview o
+ n barriers to integration of staff into a wider Mozilla community\, led by
+  tad.
+URL:https://reps.mozilla.org/e/breaking-barriers-in-the-uk-community/
+SEQUENCE:3
+X-COORDINATES-LAT:51.5102910737
+X-COORDINATES-LON:-0.127082705585
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

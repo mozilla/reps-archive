@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1787
+CLASS:PUBLIC
+DTSTAMP:20200407T180629Z
+DTSTART:20140329T100000Z
+DTEND:20140329T150000Z
+LOCATION:City Center\, Stari Bar\, Montenegro
+SUMMARY:Spread the word through Bar #FirefoxOS
+DESCRIPTION:Spread the word through Bar #FirefoxOS is part of the project 
+ named Spread the word through Montenegro\, and we are planning to visit ei
+ ght cities\, and to talk to people about FirefoxOS\, show them how it work
+ s\, and what it is all about.
+URL:https://reps.mozilla.org/e/spread-the-word-through-bar-firefoxos/
+SEQUENCE:1
+X-COORDINATES-LAT:42.0896772868
+X-COORDINATES-LON:19.1269969905
+X-COUNTRY-CODE:me
+END:VEVENT
+
+END:VCALENDAR

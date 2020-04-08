@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6043
+CLASS:PUBLIC
+DTSTAMP:20200407T174251Z
+DTSTART:20161119T060000Z
+DTEND:20161119T170000Z
+LOCATION:Grand Hotel Italia\, Clausemburgo\, Romania
+SUMMARY:CodeCamp Cluj
+DESCRIPTION:CodeCamp is your local IT community &amp; conference in Cluj\, aim
+ ing for better communication among the IT people. It started small in 2008
+  in Iasi and it grew organically\, continuously fulfilling the community d
+ emand. It now consists of 10 parallel tracks with 60 sessions and almost 2
+ 000 participants. Alex and Ioana are speaking there\, and Mozilla Romania 
+ members will be in attendance. Mozilla Romania is curating a track for the
+  conference!
+URL:https://reps.mozilla.org/e/codecamp-cluj-1/
+SEQUENCE:1
+X-COORDINATES-LAT:46.7528265738
+X-COORDINATES-LON:23.6059169771
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

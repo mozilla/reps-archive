@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9119
+CLASS:PUBLIC
+DTSTAMP:20200407T181227Z
+DTSTART:20200316T020000Z
+DTEND:20200316T060000Z
+LOCATION:TBD\, new delhi\, India
+SUMMARY:Mozilla Delhi Retrospective Community Meetup
+DESCRIPTION:This is a community gathering event. We are going to discuss p
+ revious events and things we have done. Identify the weaknesses and things
+  to improve. Gather new ideas and plan future events and tasks can be done
+ .\nWe will talk about the upcoming Mozilla Event.\n#mozilla #mozillrep #Mo
+ zPacers
+URL:https://reps.mozilla.org/e/mozilla-delhi-retrospective-community-meetu
+ p/
+SEQUENCE:3
+X-COORDINATES-LAT:25.0
+X-COORDINATES-LON:0.0
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

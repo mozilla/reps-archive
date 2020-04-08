@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2786
+CLASS:PUBLIC
+DTSTAMP:20200407T182123Z
+DTSTART:20140930T110000Z
+DTEND:20140930T210000Z
+LOCATION:Universidade Regional Integrada do Alto Uruguai e das Missões\, 
+ Erechim\, Brazil
+SUMMARY:Semana Acadêmica do Curso de Ciência da Computação - URI Erech
+ im
+DESCRIPTION:Apresentação de uma palestra &#34;Web APIs - A web como platafor
+ ma&#34;\, falando sobre as principais APIs e como elas são partes fundamentai
+ s da construção do sitema operacional móvel Firefox OS.\n\n////////////
+ ///////////////////////////////////////////////////////////////////\n\n&#34;We
+ b APIs - The web as a platform&#34; presentation will take place at this event
+ \, touching points such as main APIs and how they are the base for the con
+ struction of a solid mobile operating system such as Firefox OS.
+URL:https://reps.mozilla.org/e/semana-academica-do-curso-de-ciencia-da-com
+ putacao-1/
+SEQUENCE:12
+X-COORDINATES-LAT:-27.6521919429
+X-COORDINATES-LON:-52.2653095724
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

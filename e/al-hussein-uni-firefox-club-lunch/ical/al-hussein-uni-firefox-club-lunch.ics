@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4658
+CLASS:PUBLIC
+DTSTAMP:20200407T174833Z
+DTSTART:20151117T070000Z
+DTEND:20151117T140000Z
+LOCATION:Al-Hussein Bin Talal University\, Maan\, Jordan
+SUMMARY:Al-Hussein uni Firefox club lunch
+DESCRIPTION:This is a Marketing Event to lunch a Firefox Club at Ma&#39;am cit
+ y\, this will be our first present at this university\, we have been forma
+ lly invited by the dean of Engineering Department.\n\nWe already have just
+  one FSA there at the university\, Al-Hussein Bin Talal University is a pu
+ blic coeducational university located in the heart of the southern region\
+ , 210 km from the Capital Amman.about 9 km to the northwest of Ma&#39;an city 
+ in the southern region of Jordan.
+URL:https://reps.mozilla.org/e/al-hussein-uni-firefox-club-lunch/
+SEQUENCE:5
+X-COORDINATES-LAT:30.1846510591
+X-COORDINATES-LON:35.7555485
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

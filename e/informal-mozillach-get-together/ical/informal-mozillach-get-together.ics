@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9092
+CLASS:PUBLIC
+DTSTAMP:20200407T170244Z
+DTSTART:20200219T180000Z
+DTEND:20200219T210000Z
+LOCATION:Altes Tramdepot Bern\, Bern\, Switzerland
+SUMMARY:Informal MozillaCH get-together
+DESCRIPTION:We&#39;re gonna meet again after some time\, and catch up on lates
+ t news.
+URL:https://reps.mozilla.org/e/informal-mozillach-get-together/
+SEQUENCE:2
+X-COORDINATES-LAT:46.9475077907
+X-COORDINATES-LON:7.45970106116
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

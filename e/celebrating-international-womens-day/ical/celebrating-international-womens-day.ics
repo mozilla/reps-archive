@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5193
+CLASS:PUBLIC
+DTSTAMP:20200407T174438Z
+DTSTART:20160306T113000Z
+DTEND:20160306T133000Z
+LOCATION:Red Hat\, Pune\, Pune\, India
+SUMMARY:Celebrating International Women&#39;s Day
+DESCRIPTION:On the occasion of International Women&#39;s Day\, we are planning
+  to celebrate womanhood through a small gathering...some women-centric dis
+ cussion and a small cake-cutting ceremony to mark the celebration.
+URL:https://reps.mozilla.org/e/celebrating-international-womens-day/
+SEQUENCE:8
+X-COORDINATES-LAT:18.5111108306
+X-COORDINATES-LON:73.857563
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

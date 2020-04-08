@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7918
+CLASS:PUBLIC
+DTSTAMP:20200407T170231Z
+DTSTART:20180510T140000Z
+DTEND:20180512T010000Z
+LOCATION:Rice University\, Houston\, United States
+SUMMARY:Mozilla Global Sprint @ Houston/Rice University
+DESCRIPTION:Mozilla’s Global Sprint is a fun\, two-day collaborative hac
+ kathon. A diverse network of educators\, engineers\, artists\, scientists\
+ , and many others come together in person and online to build projects for
+  a healthy Internet.
+URL:https://reps.mozilla.org/e/mozilla-global-sprint-houston-rice-universi
+ ty/
+SEQUENCE:1
+X-COORDINATES-LAT:29.7173941
+X-COORDINATES-LON:-95.4040199
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

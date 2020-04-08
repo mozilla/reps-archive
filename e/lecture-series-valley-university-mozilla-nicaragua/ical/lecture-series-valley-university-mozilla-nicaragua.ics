@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9101
+CLASS:PUBLIC
+DTSTAMP:20200407T164939Z
+DTSTART:20200206T150000Z
+DTEND:20200206T170000Z
+LOCATION:Managua\, Universidad del Valle.\, Managua\, Nicaragua
+SUMMARY:Lecture Series Valley University &amp; Mozilla Nicaragua
+DESCRIPTION:Engineering Faculty invites you to:\nConference Cycle\nTopic 1
+ : Common Voice Mozilla\nTaught by Ing. Ibel Zúniga.\nTopic 2: WebVR The e
+ volution of Aframe (Virtual Reality)\nTaught by Ing. David Blanchard.
+URL:https://reps.mozilla.org/e/lecture-series-valley-university-mozilla-ni
+ caragua/
+SEQUENCE:1
+X-COORDINATES-LAT:12.1243402681
+X-COORDINATES-LON:-86.2829804423
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

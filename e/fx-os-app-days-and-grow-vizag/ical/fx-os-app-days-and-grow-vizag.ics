@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4907
+CLASS:PUBLIC
+DTSTAMP:20200407T181558Z
+DTSTART:20160129T043000Z
+DTEND:20160130T103000Z
+LOCATION:M V G R College of Engineering\, Visakhapatnam\, Vizag\, India
+SUMMARY:Fx-OS App Days  and Grow Vizag
+DESCRIPTION:This event will target the College Students of the whole city.
+ The event is basically to spread awareness about Firefox Mobile OS\, Mozil
+ la Mission and Firefox Browser among the students and also the crontributi
+ on pathways so that they can start contributing in various projects of Moz
+ illa like Firefox mobile OS app development\,SUMO\, Bugzilla.
+URL:https://reps.mozilla.org/e/fx-os-app-days-and-grow-vizag/
+SEQUENCE:3
+X-COORDINATES-LAT:27.4974196055
+X-COORDINATES-LON:77.6857781401
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2282
+CLASS:PUBLIC
+DTSTAMP:20200407T174527Z
+DTSTART:20140528T073000Z
+DTEND:20140528T140000Z
+LOCATION:Sydney\, World Trade center\, Klarabergsviadukten 70.\, Stockholm
+ \, Sweden
+SUMMARY:Nätverksmöte med digitala bibliotekstjänster (Digibib)
+DESCRIPTION:At the event there will be talks about Media &amp; Information Lit
+ eracy\, Digital Inclusion and Digital Reference in libraries. Workshop on 
+ Mozilla Web Literacy Map to show how it fits into the work carried through
+  in Swedish libraries. Library world needs to adopt new methods for digita
+ l inclusion and new models for collaborations with the web. Web Literacy M
+ ap can be a useful to map the digital skills and figure out the main areas
+  in which libraries needs to offer help and guidance to people.
+URL:https://reps.mozilla.org/e/natverksmote-med-digitala-bibliotekstjanste
+ r-digibib/
+SEQUENCE:2
+X-COORDINATES-LAT:59.3250385397
+X-COORDINATES-LON:18.068876263
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

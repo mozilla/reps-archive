@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5506
+CLASS:PUBLIC
+DTSTAMP:20200407T175301Z
+DTSTART:20160723T123000Z
+DTEND:20160723T213000Z
+LOCATION:uptaeb\, Barquisimeto\, Venezuela
+SUMMARY:Mozilla Day
+DESCRIPTION:The main objective of Mozilla Day is to bring together contrib
+ utors and users to deliver a series of lectures on the Mozilla projects an
+ d general topics of the web
+URL:https://reps.mozilla.org/e/mozilla-day-2/
+SEQUENCE:4
+X-COORDINATES-LAT:10.0548041078
+X-COORDINATES-LON:-69.3572874076
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

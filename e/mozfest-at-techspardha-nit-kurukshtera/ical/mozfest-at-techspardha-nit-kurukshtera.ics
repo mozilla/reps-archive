@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1995
+CLASS:PUBLIC
+DTSTAMP:20200407T182002Z
+DTSTART:20140329T043000Z
+DTEND:20140329T123000Z
+LOCATION:NIT Kurukshetra\, Thanesar\, India
+SUMMARY:MozFest at TechSpardha NIT Kurukshtera
+DESCRIPTION:Mozilla event at NIT Kurukshetra as part of the tech fest Tech
+ Spardha. \n1) Introduction to Open Source and Mozilla.\n2) Tools &amp; Version
+  Control Systems.\n3) Building an HTML5 webapp\n4) Contest on the HTML5
+URL:https://reps.mozilla.org/e/mozfest-at-techspardha-nit-kurukshtera/
+SEQUENCE:2
+X-COORDINATES-LAT:29.9752512389
+X-COORDINATES-LON:76.8573696612
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

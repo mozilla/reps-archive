@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9020
+CLASS:PUBLIC
+DTSTAMP:20200407T164935Z
+DTSTART:20200131T183000Z
+DTEND:20200201T183000Z
+LOCATION:NIT Hamirpur\, Hamirpur\, India
+SUMMARY:Build Web Extensions @ Electrothon  2020
+DESCRIPTION:Electrothon is a student-run national level hackathon which wi
+ ll be a 2-day event from 1 February\, 2020 to 2 February\, 2020  organized
+  by the Society for the Promotion of Electronics Culture of the National I
+ nstitute of Technology\, Hamirpur (H.P.)\nThe Hackathon – ‘Electrothon
+ ’\, aims to build an environment where people from different backgrounds
+  come together and Discover wild ideas\, Share experiences\, Fuel their wo
+ rks and Celebrate technology.
+URL:https://reps.mozilla.org/e/build-web-extensions-electrothon-2020/
+SEQUENCE:0
+X-COORDINATES-LAT:31.6721614197
+X-COORDINATES-LON:76.5005950816
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

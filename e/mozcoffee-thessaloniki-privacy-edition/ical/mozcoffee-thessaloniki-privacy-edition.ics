@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6202
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20170107T160000Z
+DTEND:20170107T180000Z
+LOCATION:LambdaSpace.gr\, Ionos Dragoumi 39\, 6th floor\, Thessaloniki\, G
+ reece
+SUMMARY:MozCoffee Thessaloniki - Privacy edition
+DESCRIPTION:Gathering of the Mozilla aficionados in Thessaloniki.
+URL:https://reps.mozilla.org/e/mozcoffee-thessaloniki-privacy-edition/
+SEQUENCE:1
+X-COORDINATES-LAT:40.6375015461
+X-COORDINATES-LON:22.9406098723
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6073
+CLASS:PUBLIC
+DTSTAMP:20200407T181644Z
+DTSTART:20161117T061500Z
+DTEND:20161117T111500Z
+LOCATION:Orchid College\, Kathmandu\, Nepal
+SUMMARY:Explore yourself with opensource
+DESCRIPTION:A clone of &#34;FOSS KA KURA&#34; that has been organized by FOSS Nepa
+ l Community in the past.
+URL:https://reps.mozilla.org/e/explore-yourself-with-opensource/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6942947
+X-COORDINATES-LON:85.3352393
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

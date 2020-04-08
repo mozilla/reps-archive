@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4179
+CLASS:PUBLIC
+DTSTAMP:20200407T180030Z
+DTSTART:20150613T090000Z
+DTEND:20150712T160000Z
+LOCATION:KLab\, Kigali\, Rwanda
+SUMMARY:Mozilla Webmaker Rwanda Phase 2 and 3
+DESCRIPTION:Webmaker and Local Content Creation research in Rwanda
+URL:https://reps.mozilla.org/e/mozilla-webmaker-rwanda-phase-1-and-2/
+SEQUENCE:1
+X-COORDINATES-LAT:-1.65961889452
+X-COORDINATES-LON:29.8677978292
+X-COUNTRY-CODE:rw
+END:VEVENT
+
+END:VCALENDAR

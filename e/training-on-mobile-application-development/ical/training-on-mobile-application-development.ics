@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1303
+CLASS:PUBLIC
+DTSTAMP:20200407T183024Z
+DTSTART:20130914T033000Z
+DTEND:20130915T113000Z
+LOCATION:Vadamaradchi\, Jaffna\, Vavuniya\, jaffna\, Sri Lanka
+SUMMARY:Training on Mobile Application Development
+DESCRIPTION:Aim:\nIntroduce Mobile Application Development technologies\nI
+ ntroduce HTML 5\, Bootstrap and PhoneGap\n\nTarget group:\nNorthern Provin
+ ce ICT Teachers who teach ICT to grade 9-13 students.\n\nThis is a hands o
+ n training and more than 100 teachers are expected to attend this training
+ \n\nThis workshop is jointly organized by department of education\, Northe
+ rn Province and the Yarl IT Hun
+URL:https://reps.mozilla.org/e/training-on-mobile-application-development/
+SEQUENCE:1
+X-COORDINATES-LAT:9.49240815377
+X-COORDINATES-LON:79.8486328125
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

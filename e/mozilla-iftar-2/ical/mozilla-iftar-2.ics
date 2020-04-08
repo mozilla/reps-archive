@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1101
+CLASS:PUBLIC
+DTSTAMP:20200407T175145Z
+DTSTART:20130726T153000Z
+DTEND:20130726T190000Z
+LOCATION:Cappuccino Mansoura\, Mansoura\, Egypt
+SUMMARY:Mozilla Iftar
+DESCRIPTION:Iftar (Arabic: إفطار‎)\, refers to the evening meal whe
+ n Muslims break their fast during the Islamic month of Ramadan. Iftar is o
+ ne of the religious observances of Ramadan and is often done as a communit
+ y\, with people gathering to break their fast together. Iftar is done righ
+ t after Maghrib (sunset) time.
+URL:https://reps.mozilla.org/e/mozilla-iftar-2/
+SEQUENCE:3
+X-COORDINATES-LAT:31.0517574922
+X-COORDINATES-LON:31.3879394531
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

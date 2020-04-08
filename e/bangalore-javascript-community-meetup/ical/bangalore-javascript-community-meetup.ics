@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1227
+CLASS:PUBLIC
+DTSTAMP:20200407T174429Z
+DTSTART:20130831T050000Z
+DTEND:20130831T080000Z
+LOCATION:Apigee No. 17/2\, 2nd B Cross\, 7th Main\, Off 80 Feet Road\, Ban
+ galore 560034\, India
+SUMMARY:Bangalore Javascript Community Meetup
+DESCRIPTION:Bangalore Javascript community meetup to discuss lil deep abou
+ t various mobile operating systems and its features. Mozilla&#39;s participati
+ on will be on Firefox Mobile Operating System.
+URL:https://reps.mozilla.org/e/bangalore-javascript-community-meetup/
+SEQUENCE:6
+X-COORDINATES-LAT:12.9620704182
+X-COORDINATES-LON:77.5687980652
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

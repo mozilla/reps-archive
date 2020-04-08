@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7413
+CLASS:PUBLIC
+DTSTAMP:20200407T182336Z
+DTSTART:20180226T180000Z
+DTEND:20180226T210000Z
+LOCATION:Reidvale Nabourhood Centre\, Glasgow\, United Kingdom
+SUMMARY:Mega Mondays
+DESCRIPTION:I am going to be doing a talk at a group about Mozilla and the
+  benifits of using firefox
+URL:https://reps.mozilla.org/e/mega-mondays/
+SEQUENCE:2
+X-COORDINATES-LAT:55.8579290125
+X-COORDINATES-LON:-4.21652023499
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

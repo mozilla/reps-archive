@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3710
+CLASS:PUBLIC
+DTSTAMP:20200407T175313Z
+DTSTART:20150328T023000Z
+DTEND:20150329T143000Z
+LOCATION:Online Based Event\, Chennai\, India
+SUMMARY:Online Firefox OS l10n Contribution
+DESCRIPTION:This event is mainly focused to bring New Contributors to Fire
+ fox OS apps.\n\nVarious contributors around India joining hands to make it
+  happen.\n\nCoordinators\n\nHindi - Raj Suthar \nBengali - Sukanta Pal\nTa
+ mil - Khaleel Jageer\nMalayalam- Rigin Oommen\nTelugu - Veera Manikanta
+URL:https://reps.mozilla.org/e/online-firefox-os-l10n-contribution/
+SEQUENCE:12
+X-COORDINATES-LAT:12.7823393701
+X-COORDINATES-LON:80.1177978516
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4143
+CLASS:PUBLIC
+DTSTAMP:20200407T175729Z
+DTSTART:20150909T000000Z
+DTEND:20150911T070000Z
+LOCATION:SMX Convention Center\, Pasay City\, Philippines
+SUMMARY:Philippine Youth Congress on Information Technology (Y4IT) 2015
+DESCRIPTION:Established in 2003\, the Youth Congress on Information Techno
+ logy (formerly known as the Philippine Youth Congress on Information Techn
+ ology)—commonly known as Y4iT—is an annual information technology even
+ t in the Philippines\, organized by the UP System Information Technology F
+ oundation (UPSITF).
+URL:https://reps.mozilla.org/e/philippine-youth-congress-on-information-te
+ chnology-y4it/
+SEQUENCE:7
+X-COORDINATES-LAT:14.532428308
+X-COORDINATES-LON:120.981564045
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

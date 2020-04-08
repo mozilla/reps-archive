@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@78
+CLASS:PUBLIC
+DTSTAMP:20200407T182231Z
+DTSTART:20120823T160000Z
+DTEND:20120823T200000Z
+LOCATION:SUNY Albany Uptown Campus\, Albany\, United States
+SUMMARY:SUNY Albany - Welcome to Campus!
+DESCRIPTION:A welcome-back-to-campus event for everybody at SUNY Albany (w
+ ell\, just a few people who happen to be around). Basically\, it&#39;s going t
+ o be a swagfest (left over from the MozCoffee NYC Fail).
+URL:https://reps.mozilla.org/e/suny-albany-welcome-to-campus/
+SEQUENCE:0
+X-COORDINATES-LAT:42.6864103234
+X-COORDINATES-LON:-73.818898201
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7949
+CLASS:PUBLIC
+DTSTAMP:20200407T181901Z
+DTSTART:20180818T080000Z
+DTEND:20180818T112000Z
+LOCATION:ZONE INDUSTRIELLE\, YOPOUGON\, ABIDJAN\, Ivory Coast
+SUMMARY:MozSpace Level 1
+DESCRIPTION:Habillez votre navigateur avec les webextensions.\nLa confére
+ nce a pour but de montrer différentes manières d&#39;habillées votre naviga
+ teur Firefox avec les webExtensions\, présentée aux informaticiens\, des
+  travailleurs\, étudiants.
+URL:https://reps.mozilla.org/e/mozspace-level-1/
+SEQUENCE:5
+X-COORDINATES-LAT:5.3913309
+X-COORDINATES-LON:-3.9909684
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

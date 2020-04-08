@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2587
+CLASS:PUBLIC
+DTSTAMP:20200407T175043Z
+DTSTART:20140810T033000Z
+DTEND:20140810T123000Z
+LOCATION:JRC Convention Centre\, Hyderabad\, India
+SUMMARY:Generation WE
+DESCRIPTION:Is all about Technology\, Cultural Understanding and Entrepren
+ eurship. Mozilla has a space reserved besides Microsoft\, Twitter\, etc wh
+ ere almost 1000 young technology evangelists participate.
+URL:https://reps.mozilla.org/e/generation-we/
+SEQUENCE:3
+X-COORDINATES-LAT:17.3571922738
+X-COORDINATES-LON:78.5220336914
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

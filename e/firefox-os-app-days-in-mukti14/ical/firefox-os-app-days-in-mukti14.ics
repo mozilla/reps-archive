@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1592
+CLASS:PUBLIC
+DTSTAMP:20200407T182303Z
+DTSTART:20140201T043000Z
+DTEND:20140202T113000Z
+LOCATION:NIT Durgapur\, Duragpur\, India
+SUMMARY:Firefox OS App Days in MUKTI&#39;14
+DESCRIPTION:Promote Fireofox OS and conducting App Development Workshop fo
+ r Firefox OS
+URL:https://reps.mozilla.org/e/firefox-os-app-days-in-mukti14/
+SEQUENCE:18
+X-COORDINATES-LAT:23.5340025009
+X-COORDINATES-LON:87.3369855879
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

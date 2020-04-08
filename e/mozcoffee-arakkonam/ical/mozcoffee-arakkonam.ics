@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3824
+CLASS:PUBLIC
+DTSTAMP:20200407T181538Z
+DTSTART:20150705T080000Z
+DTEND:20150705T120000Z
+LOCATION:mcdonalds valasaravakkam\, Tiruvallur\, India
+SUMMARY:MozCoffee Chennai
+DESCRIPTION:Meetup of new Mozilla enthusiasts\, volunteers\,FSA&#39;s in Chenn
+ ai. This event will focus on planning upcoming events of local community\,
+ community development and other related areas.
+URL:https://reps.mozilla.org/e/mozcoffee-arakkonam/
+SEQUENCE:16
+X-COORDINATES-LAT:13.048598612
+X-COORDINATES-LON:80.183898923
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

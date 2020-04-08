@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1910
+CLASS:PUBLIC
+DTSTAMP:20200407T175249Z
+DTSTART:20140328T043000Z
+DTEND:20140329T113000Z
+LOCATION:BESU\, Shibpur\, Haora\, India
+SUMMARY:ProgramIIEST
+DESCRIPTION:A totally dev-centric event organized by Mozilla Kolkata Commu
+ nity mainly focusing on RUST programming language\, Open Badges and Person
+ a and their applications.
+URL:https://reps.mozilla.org/e/programiiest/
+SEQUENCE:18
+X-COORDINATES-LAT:22.5551877556
+X-COORDINATES-LON:88.3059825897
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

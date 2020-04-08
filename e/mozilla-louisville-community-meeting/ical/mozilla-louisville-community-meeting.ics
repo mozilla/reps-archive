@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@201
+CLASS:PUBLIC
+DTSTAMP:20200407T165844Z
+DTSTART:20121005T000000Z
+DTEND:20121005T030000Z
+LOCATION:LVL1 Hackerspace (814 East Broadway)\, Louisville\, United States
+SUMMARY:Mozilla Louisville Community Meeting
+DESCRIPTION:We are a group of 2 people working on setting up Mozilla Louis
+ ville Community.\n\nDue to this\, we are hosting the first official Mozill
+ a Louisville Community meeting.\n\nThis meeting aims to gather people who 
+ already are Mozilla contributors (in one way or another)\, who want to con
+ tribute to a variety of Mozilla projects\, get directly involved in Mozill
+ a and especially help us built the community here in Louisville.
+URL:https://reps.mozilla.org/e/mozilla-louisville-community-meeting/
+SEQUENCE:0
+X-COORDINATES-LAT:38.2439944529
+X-COORDINATES-LON:-85.7389998436
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

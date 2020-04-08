@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7122
+CLASS:PUBLIC
+DTSTAMP:20200407T174125Z
+DTSTART:20171015T043000Z
+DTEND:20171015T113000Z
+LOCATION:Crayolas Lab\, Pune\, Pune\, India
+SUMMARY:Mozilla Pune Community VR Hackathon
+DESCRIPTION:A full day of VR workshop for VR enthusiasts
+URL:https://reps.mozilla.org/e/mozilla-pune-community-vr-hackathon/
+SEQUENCE:3
+X-COORDINATES-LAT:18.5190545448
+X-COORDINATES-LON:73.8532394169
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

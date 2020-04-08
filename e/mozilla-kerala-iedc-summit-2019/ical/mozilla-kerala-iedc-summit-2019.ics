@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8713
+CLASS:PUBLIC
+DTSTAMP:20200407T170232Z
+DTSTART:20191019T023000Z
+DTEND:20191019T143000Z
+LOCATION:Sahrdaya College of Engineering and Technology\,College Road\, PB
+  NO 17\, Kodakara\, Kerala 680684\, Thrissur\, India
+SUMMARY:Mozilla @ Kerala IEDC Summit 2019
+DESCRIPTION:Kerala&#39;s Largest Summit for aspiring Student Entrepreneurs\nTh
+ e Innovation Entrepreneurship development centres are small incubators phy
+ sically available at Engineering\, Polytechnic\, Management and Arts &amp; Sci
+ ence colleges which promotes Innovation and entrepreneurship from the coll
+ ege level. Kerala Startup Mission is supporting 214 IEDC across the state 
+ which helps the students to come up with innovative ideas and work within 
+ the IEDC and start their entrepreneurial journey.
+URL:https://reps.mozilla.org/e/mozilla-kerala-iedc-summit-2019/
+SEQUENCE:4
+X-COORDINATES-LAT:10.5262662872
+X-COORDINATES-LON:76.2127876212
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

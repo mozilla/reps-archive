@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4455
+CLASS:PUBLIC
+DTSTAMP:20200407T180112Z
+DTSTART:20141117T090000Z
+DTEND:20141119T170000Z
+LOCATION:CapeTown International Convention Center\, Cape Town\, South Afri
+ ca
+SUMMARY:AfricaCom 2014
+DESCRIPTION:AfricaCom – the biggest  tech event in Africa that gathers t
+ ogether senior decision-makers from the entire digital ecosystem.\n\n    A
+ ttended by 10\,000 of the smartest\, most switched-on digital movers and s
+ hakers in Africa\n    Supported by 350+ of the biggest-hitting speakers in
+  the digital world in Africa and beyond\n    Chosen by 375+ of the world
+ ’s most innovative\, forward-thinking telecom brands to showcase their s
+ olutions and services
+URL:https://reps.mozilla.org/e/africacom-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:-33.9828452369
+X-COORDINATES-LON:18.5595694184
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

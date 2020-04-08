@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5476
+CLASS:PUBLIC
+DTSTAMP:20200407T174311Z
+DTSTART:20161126T030000Z
+DTEND:20161126T120000Z
+LOCATION:News Cred\, Banani Model Town\, Bangladesh
+SUMMARY:Mozilla QA Bangladesh: Woman in QA
+DESCRIPTION:A event to inspire woman to contribute in QA
+URL:https://reps.mozilla.org/e/mozilla-qa-bangladesh-woman-in-qa-1/
+SEQUENCE:11
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5726
+CLASS:PUBLIC
+DTSTAMP:20200407T175718Z
+DTSTART:20160806T180000Z
+DTEND:20160806T220000Z
+LOCATION:Rua Conselheiro Ribas\, 136 - Aparecida\, Santos - SP\, Santos\, 
+ Brazil
+SUMMARY:Caiçara - Rio Mozilla Club Meetup
+DESCRIPTION:more info ASAP http://riomozillaclub.org/
+URL:https://reps.mozilla.org/e/caicara-rio-mozilla-club-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:-23.9759613798
+X-COORDINATES-LON:-46.3117260933
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

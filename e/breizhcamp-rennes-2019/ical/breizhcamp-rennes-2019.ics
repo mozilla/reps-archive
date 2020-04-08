@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8443
+CLASS:PUBLIC
+DTSTAMP:20200407T181213Z
+DTSTART:20190320T090000Z
+DTEND:20190322T170000Z
+LOCATION:University of Rennes 1\, Rennes\, France
+SUMMARY:BreizhCamp Rennes 2019
+DESCRIPTION:The BreizhCamp is 3 days of conference in Rennes. Created in 2
+ 011 on the initiative of BreizhJUG\, we are currently planning the 9th edi
+ tion. The BreizhCamp offers to meet a community of developers and experts\
+ , with a la carte content on more than 100 topics presented. Each particip
+ ant is free to follow the topics that have caught his attention or to pref
+ er the workshops to put into practice the knowledge acquired.
+URL:https://reps.mozilla.org/e/breizhcamp-rennes-2019/
+SEQUENCE:2
+X-COORDINATES-LAT:48.0767944898
+X-COORDINATES-LON:-2.09234632552
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

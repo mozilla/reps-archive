@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5222
+CLASS:PUBLIC
+DTSTAMP:20200407T174608Z
+DTSTART:20160402T150000Z
+DTEND:20160402T200000Z
+LOCATION:University of Cundinamarca\, Fusagasugá\, Colombia
+SUMMARY:FlisolFusagasugá 2016
+DESCRIPTION:The flisol (FLISoL) is the largest in Latin America broadcast 
+ event free software. It is carried out since 2005.\n\nIts main objective i
+ s to promote the use of free software\, making known to the general public
+  its philosophy\, scope\, progress and development.
+URL:https://reps.mozilla.org/e/flisolfusagasuga-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:5.34719399646
+X-COORDINATES-LON:-73.7942719468
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

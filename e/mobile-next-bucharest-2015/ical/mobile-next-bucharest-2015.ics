@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3732
+CLASS:PUBLIC
+DTSTAMP:20200407T175300Z
+DTSTART:20150424T070000Z
+DTEND:20150424T150000Z
+LOCATION:TBD\, Bucharest\, Romania
+SUMMARY:Mobile:Next Bucharest 2015
+DESCRIPTION:I will be giving a presentation on the topic of using Firefox 
+ OS for your wearable devices.
+URL:https://reps.mozilla.org/e/mobile-next-bucharest-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:44.4360678766
+X-COORDINATES-LON:26.1005859822
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1561
+CLASS:PUBLIC
+DTSTAMP:20200407T174939Z
+DTSTART:20131120T210000Z
+DTEND:20131121T010000Z
+LOCATION:Shopping Dom Pedro\, Campinas\, Brazil
+SUMMARY:2013-11 Campinas MozCoffee
+DESCRIPTION:For now\, just a gathering of mozillians in Campinas for food 
+ and chat.
+URL:https://reps.mozilla.org/e/1st-campinas-mozcoffee/
+SEQUENCE:3
+X-COORDINATES-LAT:-22.848329969
+X-COORDINATES-LON:-47.0631591082
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

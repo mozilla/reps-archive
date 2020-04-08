@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6059
+CLASS:PUBLIC
+DTSTAMP:20200407T183741Z
+DTSTART:20170120T140000Z
+DTEND:20170220T170000Z
+LOCATION:University of Buea\, Buea\, Cameroon
+SUMMARY:MozCaffe and Mozactivate event
+DESCRIPTION:this event is to organize My first Mozcaffe as a rep and also 
+ to organize a Mozactivate event in Buea.\nIt is going to be the first of i
+ ts kind for Mozilla- Cameroon and Mozilla Buea.
+URL:https://reps.mozilla.org/e/mozcaffe-and-mozactivate-event/
+SEQUENCE:8
+X-COORDINATES-LAT:4.14985700515
+X-COORDINATES-LON:9.18238449027
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

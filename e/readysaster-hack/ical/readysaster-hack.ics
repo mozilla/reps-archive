@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2156
+CLASS:PUBLIC
+DTSTAMP:20200407T173803Z
+DTSTART:20140510T010000Z
+DTEND:20140511T100000Z
+LOCATION:12/F Smart Tower\, 6799 Ayala Avenue\, Makati City\, Makati City\
+ , Philippines
+SUMMARY:Readysaster Hack
+DESCRIPTION:Global initiative called Code for Resilience http://codeforres
+ ilience.org/\, a project of the World\nBank’s Global Facility for Disast
+ er Reduction and Recovery (GFDRR) which aims to build communities’ resil
+ ience to natural disasters through innovative uses of information and comm
+ unication technologies (ICTs). The Manila leg of Code for Resilience will 
+ focus on creating locally relevant solutions to DRM challenges with the us
+ e of inclusive technology and open data from partner government agencies.
+URL:https://reps.mozilla.org/e/readysaster-hack/
+SEQUENCE:7
+X-COORDINATES-LAT:14.547015665
+X-COORDINATES-LON:121.01552403
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

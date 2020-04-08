@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@698
+CLASS:PUBLIC
+DTSTAMP:20200407T182619Z
+DTSTART:20130423T060000Z
+DTEND:20130423T130000Z
+LOCATION:Nairobits School of Digital Design\, Nairobi\, Kenya
+SUMMARY:Nairobits Class 2013 webmakers
+DESCRIPTION:Descriprion: Planning to hold a webmaker event at Nairobits Sc
+ hool of Digital Design for the class of 2013. The event will be geared tow
+ ards \n\ndevelopment of web apps. We are going to center the presentations
+  on javascript\, CSS3 and HTML5 and marrying all to come up with working w
+ eb \n\napps. The objective is to get more people in Kenya developing apps 
+ destined for the Firefox OS platform. Part of the presentations will be \n
+ \ndeploying web apps to the firefox market place. 
+URL:https://reps.mozilla.org/e/nairobits-class-2013-webmakers/
+SEQUENCE:5
+X-COORDINATES-LAT:-1.30725961228
+X-COORDINATES-LON:36.8151855469
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

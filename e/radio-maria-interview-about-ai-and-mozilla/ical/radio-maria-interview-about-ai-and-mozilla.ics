@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9146
+CLASS:PUBLIC
+DTSTAMP:20200407T164939Z
+DTSTART:20200308T090000Z
+DTEND:20200308T100000Z
+LOCATION:Radio Maria\, Managua\, Managua\, Nicaragua
+SUMMARY:Radio Maria interview about AI and Mozilla
+DESCRIPTION:On March 8\, 2020 Members of the Mozilla Nicaragua community w
+ ill be participating in an online interview for &#34;Radio María&#34; (https://ww
+ w.radiomaria.org.ni/) in which we will be talking about Artificial Intelli
+ gence\, its use and what Mozilla is doing about it.
+URL:https://reps.mozilla.org/e/radio-maria-interview-about-ai-and-mozilla/
+SEQUENCE:0
+X-COORDINATES-LAT:12.1396929317
+X-COORDINATES-LON:-86.278034756
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9136
+CLASS:PUBLIC
+DTSTAMP:20200407T173242Z
+DTSTART:20200319T000000Z
+DTEND:20200322T090000Z
+LOCATION:Lifelong Learning Institute\, Singapore\, Singapore
+SUMMARY:FOSSASIA OpenTech Summit Singapore
+DESCRIPTION:The FOSSASIA Summit is the premier Free and Open Source techno
+ logy event in Asia for developers\, start-ups\, and contributors. Projects
+  at FOSSASIA range from open hardware\, to design\, graphics and software.
+  FOSSASIA was established in 2009. Previous events took place in Vietnam\,
+  Thailand\, Cambodia\, China and India.
+URL:https://reps.mozilla.org/e/fossasia-opentech-summit-singapore/
+SEQUENCE:0
+X-COORDINATES-LAT:1.2768260821
+X-COORDINATES-LON:104.000793435
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

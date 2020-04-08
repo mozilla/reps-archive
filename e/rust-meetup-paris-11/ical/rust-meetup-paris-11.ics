@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3231
+CLASS:PUBLIC
+DTSTAMP:20200407T174551Z
+DTSTART:20151215T174500Z
+DTEND:20151215T220000Z
+LOCATION:MozSpace\, 16bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Rust Meetup Paris #11
+DESCRIPTION:Mozilla and the Rust community are proud to invite you to disc
+ over Rust! Rustaceans of all skill levels are welcome\, or even if you are
+  just curious about the language. We&#39;re looking forward to exploring the w
+ onders of Rust with everybody!
+URL:https://reps.mozilla.org/e/rust-meetup-paris-11/
+SEQUENCE:8
+X-COORDINATES-LAT:48.8719550029
+X-COORDINATES-LON:2.34123837952
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

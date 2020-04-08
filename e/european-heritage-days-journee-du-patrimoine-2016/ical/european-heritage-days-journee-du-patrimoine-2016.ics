@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5594
+CLASS:PUBLIC
+DTSTAMP:20200407T173659Z
+DTSTART:20160917T080000Z
+DTEND:20160918T160000Z
+LOCATION:Mozilla\, Paris\, France
+SUMMARY:European heritage days / Journée du Patrimoine 2016
+DESCRIPTION:the Paris office is a historic building. It opens again office
+ s to visit this site classified as many people during the weekend. Our vol
+ ontaires engaged with about 20% of Them talking about Mozilla\, Firefox...
+ . In addition the 9th Association will make history tours
+URL:https://reps.mozilla.org/e/european-heritage-days-journee-du-patrimoin
+ e-2016/
+SEQUENCE:4
+X-COORDINATES-LAT:48.8555293141
+X-COORDINATES-LON:2.32369992882
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

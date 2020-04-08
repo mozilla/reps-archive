@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1191
+CLASS:PUBLIC
+DTSTAMP:20200407T165849Z
+DTSTART:20131029T170000Z
+DTEND:20131030T170000Z
+LOCATION:Reddit.com\, N/A\, United States
+SUMMARY:Reddit IAmA 2
+DESCRIPTION:An online Q&amp;A session between Reddit users\, and any Mozillian
+ s interested. This will be held on October 29\, to align with the Firefox 
+ 25 launch.
+URL:https://reps.mozilla.org/e/reddit-iama-2/
+SEQUENCE:34
+X-COORDINATES-LAT:24.5271348226
+X-COORDINATES-LON:-36.5625
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

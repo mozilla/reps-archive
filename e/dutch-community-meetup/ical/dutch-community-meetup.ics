@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@625
+CLASS:PUBLIC
+DTSTAMP:20200407T174344Z
+DTSTART:20130427T070000Z
+DTEND:20130427T210000Z
+LOCATION:Seats2Meet: Meeting Plaza Utrecht - Moreelsepark 65 3511 EP Utrec
+ ht\, Utrecht\, Netherlands
+SUMMARY:Dutch community meetup
+DESCRIPTION:Meeting to build a better Dutch community.
+URL:https://reps.mozilla.org/e/dutch-community-meetup/
+SEQUENCE:16
+X-COORDINATES-LAT:52.0900676899
+X-COORDINATES-LON:5.11340618134
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

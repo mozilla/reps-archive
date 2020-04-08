@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7228
+CLASS:PUBLIC
+DTSTAMP:20200407T171704Z
+DTSTART:20171107T110000Z
+DTEND:20171107T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta Selatan\, Indonesia
+SUMMARY:MozKopdar: Firefox Quantum and Firefox Rocket Launching
+DESCRIPTION:This episode of MozKopdar is quite special. We hold a special 
+ MozKopdar/MozCoffee event talking about upcoming Firefox Quantum and the l
+ aunching of Firefox Quantum with Dave Slate\, Jeff Griffith and Joe Chang.
+URL:https://reps.mozilla.org/e/mozkopdar-firefox-quantum-and-firefox-rocke
+ t-launching/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.23490211036
+X-COORDINATES-LON:106.820926577
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5142
+CLASS:PUBLIC
+DTSTAMP:20200407T165853Z
+DTSTART:20160514T073000Z
+DTEND:20160515T160000Z
+LOCATION:University of Arts Tirana\, Tirana\, Albania
+SUMMARY:OSCAL&#39;16 - Open Source Conference Albania 2016
+DESCRIPTION:OSCAL (Open Source Conference Albania) is the first internatio
+ nal annual conference in Albania organised to promote software freedom\, o
+ pen source software\, free culture and open knowledge. \n\nThe third editi
+ on of the conference will take place at 14 and 15 May 2016 in Tirana\, gat
+ hering free libre open source technology users\, developers\, academics\, 
+ governmental agencies and people who share the idea that software should b
+ e free and open for the local community and government.
+URL:https://reps.mozilla.org/e/oscal16-open-source-conference-albania-2016
+ /
+SEQUENCE:13
+X-COORDINATES-LAT:41.3176935223
+X-COORDINATES-LON:19.8199636638
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

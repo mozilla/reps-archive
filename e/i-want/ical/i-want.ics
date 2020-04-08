@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2354
+CLASS:PUBLIC
+DTSTAMP:20200407T180628Z
+DTSTART:20140614T090000Z
+DTEND:20140614T130000Z
+LOCATION:Bijelo Polje\, Bijelo Polje\, Montenegro
+SUMMARY:I want
+DESCRIPTION:Event is organized for youth of north Montenegro. Audience is 
+ people from 18 to 30\, plus people from varius organizations. The main pur
+ pose is to offer chance to youth to be volunteers\, to be involved. We can
+  recruit a lot of people\, currently I am talking with 5-6 people from las
+ t fair\, where they were interested in what do we do\, and how to get invo
+ lved.
+URL:https://reps.mozilla.org/e/i-want/
+SEQUENCE:2
+X-COORDINATES-LAT:43.0341167506
+X-COORDINATES-LON:19.7469981909
+X-COUNTRY-CODE:me
+END:VEVENT
+
+END:VCALENDAR

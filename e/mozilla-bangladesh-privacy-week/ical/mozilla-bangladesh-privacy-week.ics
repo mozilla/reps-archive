@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5069
+CLASS:PUBLIC
+DTSTAMP:20200407T175458Z
+DTSTART:20160128T120000Z
+DTEND:20160204T170000Z
+LOCATION:Ba\, Banani Model Town\, Bangladesh
+SUMMARY:Mozilla Bangladesh Privacy Week
+DESCRIPTION:To celebrate Privacy Day\, Inspired by Mozilla India\, Mozilla
+  Bangladesh is organizing Week long  activities on Privacy. We are initiat
+ ing our &#34;Privacy Week&#34; at the end of today&#39;s very &#34;Data Privacy Day&#34;\; our
+  week starts 28th Jan and shall end on 4th Feb 2016. In this Privacy Week 
+ we will be reaching everyone around us to share our thoughts about Privacy
+  and help everyone to learn about privacy in our daily life as well as in 
+ our Digital Life.
+URL:https://reps.mozilla.org/e/mozilla-bangladesh-privacy-week/
+SEQUENCE:1
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4881
+CLASS:PUBLIC
+DTSTAMP:20200407T181940Z
+DTSTART:20151107T143000Z
+DTEND:20151107T180000Z
+LOCATION:Av. Arenales 1555 - Lince\, Lima\, Lince\, Peru
+SUMMARY:MozMeetup Edición AntiStartup
+DESCRIPTION:Tech speakers. We will talk about Mobile apps\, How to create 
+ a tech enterprise and the new Firefox and Firefox OS.
+URL:https://reps.mozilla.org/e/mozmeetup-edicion-antistartup/
+SEQUENCE:3
+X-COORDINATES-LAT:-12.0783310198
+X-COORDINATES-LON:-77.0364822148
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9112
+CLASS:PUBLIC
+DTSTAMP:20200407T174122Z
+DTSTART:20200502T150000Z
+DTEND:20200502T210000Z
+LOCATION:TBD\, Huehuetenango\, Guatemala
+SUMMARY:FLISoL Huehuetenango
+DESCRIPTION:FLISoL\, an acronym for Latin American Free Software Installfe
+ st\, is the biggest event for spreading the word about Free Software\, and
+  will held its 16th edition this year in more than 200 cities across Latin
+  America. In Guatemala\, the event will take place in Huehuetenango and it
+  will have the participation of the Mozilla Guatemala community. Besides t
+ alking about Mozilla&#39;s mission\, WoMoz\, Common Voice and Privacy are some
+  of the topics that will be covered at this event.
+URL:https://reps.mozilla.org/e/flisol-huehuetenango-1/
+SEQUENCE:0
+X-COORDINATES-LAT:15.3184231
+X-COORDINATES-LON:-91.5286821
+X-COUNTRY-CODE:gt
+END:VEVENT
+
+END:VCALENDAR

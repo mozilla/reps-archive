@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4602
+CLASS:PUBLIC
+DTSTAMP:20200407T181952Z
+DTSTART:20151127T100000Z
+DTEND:20151128T120000Z
+LOCATION:BR 101 na Avenida David Jonas Fadini\, S/Nº - IFBA Campus Enápo
+ lis\, Eunapolis\, Brazil
+SUMMARY:IFBA 2015 Informatics Week
+DESCRIPTION:The conference is sponsored by the Federal Of Education Instit
+ ute\, Science And Bahia Technology - IFBA\, Campus Eunápolis in the state
+  of Bahia\, the Information Technology Week is an event that opens up spac
+ e for discussion and reflection on the use of Free Software in today&#39;s soc
+ iety as well to promote integration and appreciation of the subject.
+URL:https://reps.mozilla.org/e/ifba-2015-informatics-week/
+SEQUENCE:6
+X-COORDINATES-LAT:-16.3720408238
+X-COORDINATES-LON:-39.5731601719
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

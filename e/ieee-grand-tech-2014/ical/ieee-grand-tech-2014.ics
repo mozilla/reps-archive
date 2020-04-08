@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3175
+CLASS:PUBLIC
+DTSTAMP:20200407T171715Z
+DTSTART:20141129T100000Z
+DTEND:20141129T160000Z
+LOCATION:oasis 500\, Amman\, Jordan
+SUMMARY:IEEE Grand Tech 2014
+DESCRIPTION:this event held by IEEE jordan \, i will be a speaker in the e
+ vent i will talk about mozilla \, localization \, firefox OS \, webmaker .
+URL:https://reps.mozilla.org/e/ieee-grand-tech-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:32.5378218811
+X-COORDINATES-LON:35.8675002912
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

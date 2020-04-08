@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5295
+CLASS:PUBLIC
+DTSTAMP:20200407T181601Z
+DTSTART:20160514T140000Z
+DTEND:20160514T210000Z
+LOCATION:TDB\, Managua\, Nicaragua
+SUMMARY:Flisol 2016 Nicaragua
+DESCRIPTION:The flisol (FLISoL) is the software broadcast event and Latin 
+ America&#39;s largest free culture. This year we plan to participate in the ev
+ ent with a stand\, talks and promote material related to the web
+URL:https://reps.mozilla.org/e/flisol-2016-nicaragua/
+SEQUENCE:4
+X-COORDINATES-LAT:12.1254722598
+X-COORDINATES-LON:-86.2708361156
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

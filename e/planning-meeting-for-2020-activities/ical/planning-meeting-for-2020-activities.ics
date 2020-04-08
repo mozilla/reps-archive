@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9089
+CLASS:PUBLIC
+DTSTAMP:20200407T164939Z
+DTSTART:20200209T140000Z
+DTEND:20200209T150000Z
+LOCATION:Casa del cafe central\, los robles\, Managua\, Nicaragua
+SUMMARY:Planning meeting for 2020 activities
+DESCRIPTION:We will gather to plan the next events of the community in the
+  next months\, we will also discuss the inclusion of the new projects of t
+ he global community\, prepare new strategies and implementation of these p
+ rojects and campaigns of mozilla firefoz
+URL:https://reps.mozilla.org/e/planning-meeting-for-2020-activities/
+SEQUENCE:0
+X-COORDINATES-LAT:12.1022073379
+X-COORDINATES-LON:-86.2516611814
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@116
+CLASS:PUBLIC
+DTSTAMP:20200407T182702Z
+DTSTART:20121018T050000Z
+DTEND:20121020T050000Z
+LOCATION:Singkawang &amp; Pontianak\, Borneo\, Indonesia
+SUMMARY:Mozilla goes to Borneo
+DESCRIPTION:And i&#39;m taking the opportunity to held MozKopDar at Borneo (Ka
+ limantan). We will held the event at 2 different city there\, which is Pon
+ tianak and Singkawang. We will visit 3 schools to give presentation about 
+ &#34;Internet with Mozilla Firefox&#34;. And do MozKopDar at 2 cafes.
+URL:https://reps.mozilla.org/e/mozilla-goes-to-borneo/
+SEQUENCE:0
+X-COORDINATES-LAT:0.0109863280577
+X-COORDINATES-LON:109.341430664
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

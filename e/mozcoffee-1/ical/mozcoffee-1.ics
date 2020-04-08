@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3194
+CLASS:PUBLIC
+DTSTAMP:20200407T183634Z
+DTSTART:20141222T120000Z
+DTEND:20141222T140000Z
+LOCATION:StarBucks\, Doha\, Qatar
+SUMMARY:MozCoffee
+DESCRIPTION:This is intended to be the first official meet up of the Qatar
+  Community. We plan to see the opportunities as well as the scope and area
+ s where we can utilize to spread the Mozilla happiness around.
+URL:https://reps.mozilla.org/e/mozcoffee-1/
+SEQUENCE:2
+X-COORDINATES-LAT:25.3248049639
+X-COORDINATES-LON:51.5306389327
+X-COUNTRY-CODE:qa
+END:VEVENT
+
+END:VCALENDAR

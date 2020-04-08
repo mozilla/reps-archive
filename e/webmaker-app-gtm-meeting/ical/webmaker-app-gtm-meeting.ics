@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4002
+CLASS:PUBLIC
+DTSTAMP:20200407T165858Z
+DTSTART:20150614T010000Z
+DTEND:20150614T100000Z
+LOCATION:Ibis Tamarin\, Jalan KH Wahid Hasyim\,\, Jakarta\, Indonesia
+SUMMARY:Webmaker App GTM Meeting
+DESCRIPTION:Webmaker app GTM planning meeting with Webmaker contributors f
+ rom all over Indonesia. William Quiviger will give the special training.
+URL:https://reps.mozilla.org/e/webmaker-app-gtm-meeting/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.18736162998
+X-COORDINATES-LON:106.826666951
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

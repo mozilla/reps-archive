@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8396
+CLASS:PUBLIC
+DTSTAMP:20200407T170228Z
+DTSTART:20190215T033000Z
+DTEND:20190216T113000Z
+LOCATION:Symbiosis Institute of Computer Studies and Research\, Atur Centr
+ e\, Gokhale Cross Road\, Model Colony\, Pune - 411016.\, Pune\, India
+SUMMARY:gnuNify 2019
+DESCRIPTION:gnuNify is a gathering of FREE and OPEN MINDS\, organised by t
+ he students of SICSR (Symbiosis Institute of Computer Studies and Research
+ ). Initiated in 2003\, gnuNify has witnessed many eminent personalities fr
+ om the world of Open Source. It  has several workshops\, talks\, community
+  meetups\, hackathons\, seminars completely on open-source.
+URL:https://reps.mozilla.org/e/gnunify-2019/
+SEQUENCE:2
+X-COORDINATES-LAT:18.533396
+X-COORDINATES-LON:73.833628
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6778
+CLASS:PUBLIC
+DTSTAMP:20200407T174559Z
+DTSTART:20170819T130000Z
+DTEND:20170819T140000Z
+LOCATION:TBD\, Gama\, Brazil
+SUMMARY:III ESL
+DESCRIPTION:The III ESL - Meeting of Free Software\, aims to install\, dem
+ onstrate and disseminate Free Software to the population\; GNU \\ Linux\, 
+ as an operating system\, as well as in the use of educational tools and ec
+ ological awareness through lectures\, mini courses\, workshops\, installat
+ ion\, and the event is completely free.
+URL:https://reps.mozilla.org/e/iii-esl/
+SEQUENCE:13
+X-COORDINATES-LAT:-15.880331226
+X-COORDINATES-LON:-47.5869141519
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

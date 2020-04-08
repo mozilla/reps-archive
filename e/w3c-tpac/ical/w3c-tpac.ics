@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1479
+CLASS:PUBLIC
+DTSTAMP:20200407T183319Z
+DTSTART:20131111T020000Z
+DTEND:20131111T110000Z
+LOCATION:Shenzhen Wuzhou Guest House\, Shenzhen\, China
+SUMMARY:W3C TPAC
+DESCRIPTION:TPAC —the W3C Combined Technical Plenary / Advisory Committe
+ e Meetings Week— brings together W3C Groups\, the Advisory Board\, the T
+ AG and the Advisory Committee for an exciting week of coordinated work. Th
+ ere are also events co-located with TPAC 2013 that may interest participan
+ ts.
+URL:https://reps.mozilla.org/e/w3c-tpac/
+SEQUENCE:3
+X-COORDINATES-LAT:22.5431462996
+X-COORDINATES-LON:114.085762025
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

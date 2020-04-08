@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5189
+CLASS:PUBLIC
+DTSTAMP:20200407T175903Z
+DTSTART:20160310T103000Z
+DTEND:20160310T123000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:MozCoffee on Connected Devices in the Philippines
+DESCRIPTION:As we pivot focus of Firefox OS from smartphones to Connected 
+ Devices\, we are inviting everyone to a MozCoffee to discuss Mozilla&#39;s app
+ roach to Internet of Things (IoT). We want to hear your thoughts and ideas
+  about Connected Devices in the Philippine setup.
+URL:https://reps.mozilla.org/e/mozcoffee-on-connected-devices-in-the-phili
+ ppines/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5466435394
+X-COORDINATES-LON:121.015445665
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

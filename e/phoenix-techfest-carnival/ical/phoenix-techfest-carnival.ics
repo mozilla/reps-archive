@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1698
+CLASS:PUBLIC
+DTSTAMP:20200407T175827Z
+DTSTART:20140222T043000Z
+DTEND:20140223T113000Z
+LOCATION:Future Institute of Engineering and Management\, Sonarpur Station
+  Rd\, Sonarpur\, Kolkata\, India
+SUMMARY:Phoenix Techfest &amp; Carnival 2014
+DESCRIPTION:PHOENIX 2014 which is scheduled to be held on 22nd to 25th Feb
+ ruary\, 2014. Being an inter-college fest of national level\, it provides 
+ a huge platform for budding engineers and creative talents across the coun
+ try. Phoenix usually features various events based on different engineerin
+ g branches as well as based on pure sciences. It was also comprises of man
+ y non-technical events meant to promote the creativity inside people. The 
+ fest cum carnival is open to any student from any institute.
+URL:https://reps.mozilla.org/e/phoenix-techfest-carnival/
+SEQUENCE:69
+X-COORDINATES-LAT:22.4351449517
+X-COORDINATES-LON:88.4571347223
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

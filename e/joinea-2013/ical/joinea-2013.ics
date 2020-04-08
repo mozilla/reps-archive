@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1204
+CLASS:PUBLIC
+DTSTAMP:20200407T183128Z
+DTSTART:20130906T120000Z
+DTEND:20130908T220000Z
+LOCATION:Faculty of Exact Sciences\, National University of Misiones\, Ap
+ óstoles\, Argentina
+SUMMARY:Joinea 2013
+DESCRIPTION:Joinea (V Jornada de Integración\, Extensión y Actualizació
+ n de estudiantes de informática) it&#39;s an annual encounter for CS and IT s
+ tudents\, to be held on September 6th\, 7th\, and 8th.\n\nOn it&#39;s fifth ed
+ ition it&#39;s going to have... US! Me and Javier (@javfox)\, spreading the wo
+ rd about Mozilla and introducing Firefox OS both on my Keon and my Samsung
+  S2.
+URL:https://reps.mozilla.org/e/joinea-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:-27.9142638112
+X-COORDINATES-LON:-55.7551002502
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

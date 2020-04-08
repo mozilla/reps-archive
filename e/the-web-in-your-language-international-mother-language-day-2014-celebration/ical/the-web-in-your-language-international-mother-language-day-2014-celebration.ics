@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1763
+CLASS:PUBLIC
+DTSTAMP:20200407T173408Z
+DTSTART:20150220T040000Z
+DTEND:20150220T110000Z
+LOCATION:Dhaka\, Dhaka\, Bangladesh
+SUMMARY:The web in your language - International Mother Language Day 2014 
+ celebration.
+DESCRIPTION:We&#39;ve been at the brink of 100% l10n milestone for major Mozil
+ la Product\, with exception of infrequent strings updates from various eng
+ ineering teams. It&#39;s time to shift the focus of localization into a differ
+ ent angel\, a paradigm shift indeed for bn_BD locale. Increasing awareness
+  and uses of technology in Mother tongue. Training various Mozilla Localiz
+ ation tools and process and uses of technique to keep translation consiste
+ nce and the process of standardization throughout Mozilla Projects.
+URL:https://reps.mozilla.org/e/the-web-in-your-language-international-moth
+ er-language-day-2014-celebration/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7040562681
+X-COORDINATES-LON:90.3299559653
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

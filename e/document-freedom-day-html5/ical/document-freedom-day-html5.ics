@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@628
+CLASS:PUBLIC
+DTSTAMP:20200407T180332Z
+DTSTART:20130323T120000Z
+DTEND:20130323T160000Z
+LOCATION:Room 2201\, Faculty of Cybernetics\, ASE\, Bucharest\, Romania
+SUMMARY:Document Freedom Day by Ceata in Bucharest\, Romania
+DESCRIPTION:Fundația Ceata organizes an event in Bucharest with the occas
+ ion of Document Freedom Day. I will be present at the event to speak about
+  the open web and HTML5.
+URL:https://reps.mozilla.org/e/document-freedom-day-html5/
+SEQUENCE:1
+X-COORDINATES-LAT:44.4476523304
+X-COORDINATES-LON:26.0970246792
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1377
+CLASS:PUBLIC
+DTSTAMP:20200407T183404Z
+DTSTART:20131026T040000Z
+DTEND:20131027T090000Z
+LOCATION:COEX\, Seoul\, South Korea
+SUMMARY:DevOn 2013
+DESCRIPTION:Mozilla Korea Community will participate DevOn conference of D
+ aum Communication. In Mozilla Korea booth\, we will introduce Mozilla and 
+ Mozilla products to developers. There will be a session about Firefox OS a
+ nd WebApp buildings.
+URL:https://reps.mozilla.org/e/devon-2013/
+SEQUENCE:6
+X-COORDINATES-LAT:37.5111896602
+X-COORDINATES-LON:127.059373856
+X-COUNTRY-CODE:kr
+END:VEVENT
+
+END:VCALENDAR

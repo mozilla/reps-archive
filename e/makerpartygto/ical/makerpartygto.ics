@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2951
+CLASS:PUBLIC
+DTSTAMP:20200407T182601Z
+DTSTART:20141107T040000Z
+DTEND:20141108T040000Z
+LOCATION:Universitas Negeri Gorontalo\, Gorontalo\, Indonesia
+SUMMARY:MakerPartyGTO
+DESCRIPTION:MakerPartyGTO will be use Hive Pop-up concept. This MakerParty
+ GTO is supported by Relawan TIK Gorontalo and Universitas Negeri Gorontalo
+URL:https://reps.mozilla.org/e/makerpartygto/
+SEQUENCE:4
+X-COORDINATES-LAT:0.556087406049
+X-COORDINATES-LON:123.055286765
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

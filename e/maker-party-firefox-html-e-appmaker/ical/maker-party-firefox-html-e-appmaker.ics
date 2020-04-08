@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4114
+CLASS:PUBLIC
+DTSTAMP:20200407T175720Z
+DTSTART:20150825T110000Z
+DTEND:20150825T150000Z
+LOCATION:Rua Doutor Sebastião Augusto de Castro\, Campinas - SP\, Brasil\
+ , Campinas\, Brazil
+SUMMARY:Maker Party: Firefox\, HTML e Appmaker
+DESCRIPTION:Maker Party 2015 from Webmaker Club Campinas will focus on pro
+ moting  Firefox and functionality\, HTML learning and operation of mobile 
+  applications with Mozilla Webmaker tools.\n\n&#34;O Clube Webmaker Campinas 
+ é um projeto da EMEF Pe. Leão Vallerié\, que tem como parceria o Mozill
+ a Webmaker\, onde é ensinado web para professores\, alunos\, coordenadore
+ s\, diretores e a comunidade.  - Meu nome é Geraldo Barros\, sou técnico
+  em informática e mentor do Webmaker.&#34;
+URL:https://reps.mozilla.org/e/maker-party-firefox-html-e-appmaker/
+SEQUENCE:5
+X-COORDINATES-LAT:-22.939190497
+X-COORDINATES-LON:-47.1947665213
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

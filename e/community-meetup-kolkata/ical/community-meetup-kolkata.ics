@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4102
+CLASS:PUBLIC
+DTSTAMP:20200407T175605Z
+DTSTART:20150829T093000Z
+DTEND:20150830T113000Z
+LOCATION:Meetup space\, Barasat\, India
+SUMMARY:Community Meetup Kolkata
+DESCRIPTION:Two days event completely focused on mozilla contribution and 
+ networking\, contributors from different place\,towns and cities all over 
+ West Bengal. This is annual event with clear ambition to unite our efforts
+  to build a better community\, As we are growing tremendously and had some
+  very successful and productive events for almost all Mozilla Projects.Thi
+ s meetup includes Community structuring\, Community recognition\,Planning 
+ 2015-16 events \, Creating new task force in Kolkata etc.
+URL:https://reps.mozilla.org/e/community-meetup-kolkata/
+SEQUENCE:8
+X-COORDINATES-LAT:22.444033419
+X-COORDINATES-LON:88.4365081787
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7472
+CLASS:PUBLIC
+DTSTAMP:20200407T174123Z
+DTSTART:20180317T030000Z
+DTEND:20180317T100000Z
+LOCATION:Cummins College of Engineering\, Pune\, India
+SUMMARY:Rust Hacks at Cummins
+DESCRIPTION:Rust Session by Mehul Patel at Cummins College.
+URL:https://reps.mozilla.org/e/rust-at-cummins/
+SEQUENCE:9
+X-COORDINATES-LAT:18.486559
+X-COORDINATES-LON:73.816053
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

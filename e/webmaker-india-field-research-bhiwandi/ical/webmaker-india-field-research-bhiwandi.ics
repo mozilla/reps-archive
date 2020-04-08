@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3354
+CLASS:PUBLIC
+DTSTAMP:20200407T175024Z
+DTSTART:20150115T023000Z
+DTEND:20150115T113000Z
+LOCATION:KMES Campus\, Bhiwandi\, India
+SUMMARY:Webmaker India Field Research (Bhiwandi)
+DESCRIPTION:Mozilla Foundation will be doing field research in India. This
+  research project is about learning how people use the web today. As part 
+ of our non profit work at the Foundation\, we are creating a product calle
+ d Webmaker\, which aims to turn consumers of the web into creators. The in
+ formation we collect while traveling will help us understand how we can lo
+ wer the bar for content creation on the web\, and how we can develop progr
+ ams to drive digital inclusion.
+URL:https://reps.mozilla.org/e/webmaker-india-field-research-bhiwandi/
+SEQUENCE:2
+X-COORDINATES-LAT:19.3026075922
+X-COORDINATES-LON:73.0532160401
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

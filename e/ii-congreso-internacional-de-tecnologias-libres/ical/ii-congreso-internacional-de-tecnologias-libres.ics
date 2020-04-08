@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@111
+CLASS:PUBLIC
+DTSTAMP:20200407T174838Z
+DTSTART:20121004T160000Z
+DTEND:20121005T220000Z
+LOCATION:UNASUR\, Asuncion\, Paraguay
+SUMMARY:II Congreso internacional de Tecnologias Libres
+DESCRIPTION:This is an event where they meet several exponents of communic
+ ation technology\, open source technologies and this time with internation
+ al participation
+URL:https://reps.mozilla.org/e/ii-congreso-internacional-de-tecnologias-li
+ bres/
+SEQUENCE:0
+X-COORDINATES-LAT:-25.2902582064
+X-COORDINATES-LON:-57.6068115234
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

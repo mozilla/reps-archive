@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4774
+CLASS:PUBLIC
+DTSTAMP:20200407T175721Z
+DTSTART:20151126T100000Z
+DTEND:20151126T140000Z
+LOCATION:Rua Dr. Maurício Lourenção Seber\, 90 - Parque Floresta (Escol
+ a Estadual Hugo Penteado Teixeira)\, Campinas\, Brazil
+SUMMARY:Mozilla&#39;s Day in E. E. Hugo Penteado Teixeira
+DESCRIPTION:Mozilla&#39;s Day in the State School Hugo Penteado Teixeira will 
+ be a morning full of programming and experience with Mozilla&#39;s products\, 
+ we will do an overview of Mozilla Firefox\, knowing your configuration pan
+ el\, customization\, add-ons and Firefox Hello\, workshops web programming
+  learning about HTML and CSS with X-Ray Goggles and Thimble\, and to final
+ ize&#39;ll learn tips and how to create strong and secure passwords for use on
+  web accounts.
+URL:https://reps.mozilla.org/e/mozillas-day-in-e-e-hugo-penteado-teixeira/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.9591062497
+X-COORDINATES-LON:-47.2004148959
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

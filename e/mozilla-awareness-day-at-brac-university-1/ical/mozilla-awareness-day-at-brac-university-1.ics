@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5221
+CLASS:PUBLIC
+DTSTAMP:20200407T174319Z
+DTSTART:20160313T110000Z
+DTEND:20160313T130000Z
+LOCATION:BRAC University\, Mohakhali\, Bangladesh
+SUMMARY:Mozilla Awareness Day at BRAC University
+DESCRIPTION:BRAC University Firefox Club is going to let freshers know abo
+ ut Mozilla manifesto\, philosophy of open web\, privacy and how to contrib
+ ute.  \n\nFacilitator: Pranjol Chakraborti and Fahia Nasnin Mim\, Lead ad 
+ Co-Lead of BRACU Firefox Club
+URL:https://reps.mozilla.org/e/mozilla-awareness-day-at-brac-university-1/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7806648139
+X-COORDINATES-LON:90.4071874917
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

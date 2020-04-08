@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4578
+CLASS:PUBLIC
+DTSTAMP:20200407T174235Z
+DTSTART:20160118T033000Z
+DTEND:20160119T103000Z
+LOCATION:YITS\, Tirupati\, Tirupati\, India
+SUMMARY:Firefox OS App Days @Tirupati
+DESCRIPTION:Mozilla Tirupati Community is one of the active community in M
+ ozilla India started a few months ago. As Mozilla is the first open source
+  community in the region\, Students from different universities and develo
+ pers are very interested to contribute for Mozilla.\n\nSo as to welcome th
+ em into code contributions\, and to make them well aware of the areas of c
+ ontribution many events are organized and this Firefox OS App days is goin
+ g to be the biggest event till now in this community.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-tirupati/
+SEQUENCE:11
+X-COORDINATES-LAT:13.6355135313
+X-COORDINATES-LON:79.397934
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

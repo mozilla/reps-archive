@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@562
+CLASS:PUBLIC
+DTSTAMP:20200407T165652Z
+DTSTART:20130224T043000Z
+DTEND:20130224T133000Z
+LOCATION:#india channel on irc.mozilla.org \, Virtual\, India
+SUMMARY:Firefox OS in Hindi
+DESCRIPTION:Localization of Firefox OS and other mozilla modules in Hindi 
+ language.\nParticipants have to stay online on irc in #india channel on ir
+ c.mozilla.org server and choose one module from the Firefox OS.\n\nAll are
+  welcome to attend in this sprint. \nplease feel free to contact and colla
+ brate with us.\nAny other suggestions regarding the sprint are welcome.\n\
+ n\n\nvolunteers from Dr. B.C Roy Engg. College\n1)Biraj Karmakar\n2)Sayan 
+ Chowdhury\n3) Umesh Agarwal\n
+URL:https://reps.mozilla.org/e/firefox-os-in-hindi/
+SEQUENCE:0
+X-COORDINATES-LAT:13.9234038977
+X-COORDINATES-LON:-63.28125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3977
+CLASS:PUBLIC
+DTSTAMP:20200407T174258Z
+DTSTART:20151016T130000Z
+DTEND:20151017T230000Z
+LOCATION:Ruta N / CALLE 34 NO. 32 - 41\, Medellin\, Colombia
+SUMMARY:JSConf Colombia
+DESCRIPTION:JSCONF.CO returns for its second conference in Medellin\, Colo
+ mbia on October 16 - 17\, 2015. This year’s conference will be a full da
+ y event with a second day of workshops. We are expecting JavaScripters\, d
+ esigners and other programmers from all over the world.
+URL:https://reps.mozilla.org/e/jsconf-colombia/
+SEQUENCE:1
+X-COORDINATES-LAT:6.25759744931
+X-COORDINATES-LON:-75.5735321052
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

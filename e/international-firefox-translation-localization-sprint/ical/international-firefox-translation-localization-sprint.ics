@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1264
+CLASS:PUBLIC
+DTSTAMP:20200407T182523Z
+DTSTART:20130907T160000Z
+DTEND:20130907T190000Z
+LOCATION:651 W. 40 N. Orem\, UT &amp; throughout Mexico\, Orem\, United States
+SUMMARY:International Firefox Translation/Localization Sprint
+DESCRIPTION:This will be a highly collaborative Firefox translation sprint
+  between the Mozilla Utah and Mozilla Mexico communities\, in an effort to
+  help Mozilla Mexico to update the es-MX version of Firefox desktop. There
+  will be food\, fun\, Spanish\, Firefox\, and more fun!
+URL:https://reps.mozilla.org/e/international-firefox-translation-localizat
+ ion-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:40.2977267086
+X-COORDINATES-LON:-111.711387634
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

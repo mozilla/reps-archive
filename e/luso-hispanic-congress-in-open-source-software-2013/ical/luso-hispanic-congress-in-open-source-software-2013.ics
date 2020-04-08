@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1232
+CLASS:PUBLIC
+DTSTAMP:20200407T175645Z
+DTSTART:20130927T090000Z
+DTEND:20130928T180000Z
+LOCATION:Campus Universitario\, Albacete\, Spain
+SUMMARY:Luso-Hispanic Congress in Open Source Software 2013
+DESCRIPTION:Once a year the Open Source community in Spain meets in a spec
+ ial\ninterest event called &#39;Luso-Hispanic Congress in Open Source Software
+ &#39;.\nIn Previous editions\, held in Madrid\, Barcelona\, Valencia\, Zaragoz
+ a and Mérida\, it was a great success\, exceeding expectations in both th
+ e quality of speakers and the number of visitors who attended the event.\n
+ The event will be a great place to find out the latest news about the Open
+  Source\, new features\, and to hear about case studies.
+URL:https://reps.mozilla.org/e/luso-hispanic-congress-in-open-source-softw
+ are-2013/
+SEQUENCE:5
+X-COORDINATES-LAT:38.978644
+X-COORDINATES-LON:-1.854329
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

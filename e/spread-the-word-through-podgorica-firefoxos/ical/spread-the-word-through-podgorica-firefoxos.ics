@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1785
+CLASS:PUBLIC
+DTSTAMP:20200407T180629Z
+DTSTART:20140315T100000Z
+DTEND:20140315T150000Z
+LOCATION:City Center\, Titograd\, Montenegro
+SUMMARY:Spread the word through Podgorica #FirefoxOS
+DESCRIPTION:Spread the word through Podgorica #FirefoxOS is part of the pr
+ oject named Spread the word through Montenegro\, and we are planning to vi
+ sit eight cities\, and to talk to people about FirefoxOS\, show them how i
+ t works\, and what it is all about.
+URL:https://reps.mozilla.org/e/spread-the-word-through-podgorica-firefoxos
+ /
+SEQUENCE:3
+X-COORDINATES-LAT:42.4370084776
+X-COORDINATES-LON:19.2715501768
+X-COUNTRY-CODE:me
+END:VEVENT
+
+END:VCALENDAR

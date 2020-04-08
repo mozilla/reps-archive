@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4387
+CLASS:PUBLIC
+DTSTAMP:20200407T174310Z
+DTSTART:20150919T120000Z
+DTEND:20150919T150000Z
+LOCATION:Food Court Restaurant - Haruna Towers Ntinda\, Kampala\, Uganda
+SUMMARY:MozCafe Kampala
+DESCRIPTION:This is part of a series of our monthly MozCafe meetups. As a 
+ community\, we are restructuring our community into functional areas so th
+ at we can find better ways to be more effective and create impact.\n\nThe 
+ purpose of this MozCafe is to account for accountability\, evaluate our se
+ lves and track progress and see if you are making progress with the variou
+ s functional areas.\n\nThese are some of the functional areas we have crea
+ ted\; Firefox OS\, Localization\, WoMoz\, MDN\, and Webmaker.
+URL:https://reps.mozilla.org/e/mozcafe-kampala-3/
+SEQUENCE:2
+X-COORDINATES-LAT:0.295896965728
+X-COORDINATES-LON:32.5993651897
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

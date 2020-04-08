@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1277
+CLASS:PUBLIC
+DTSTAMP:20200407T180512Z
+DTSTART:20130824T090000Z
+DTEND:20130824T140000Z
+LOCATION:Ka5aN Social Cafe\, Sarajevo\, Bosnia and Herzegovina
+SUMMARY:Bosnian SUMO team meetup
+DESCRIPTION:A meetup of the Bosnian SUMO team in order to do some team bui
+ lding\, review what we have achieved so far and plan our next steps.
+URL:https://reps.mozilla.org/e/bosnian-sumo-team-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:43.8644079751
+X-COORDINATES-LON:18.4105753899
+X-COUNTRY-CODE:ba
+END:VEVENT
+
+END:VCALENDAR

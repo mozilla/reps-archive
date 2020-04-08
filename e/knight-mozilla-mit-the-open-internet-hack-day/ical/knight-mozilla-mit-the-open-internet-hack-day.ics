@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2459
+CLASS:PUBLIC
+DTSTAMP:20200407T174355Z
+DTSTART:20140621T070000Z
+DTEND:20140622T070000Z
+LOCATION:MIT Media Lab\, Cambridge\, United States
+SUMMARY:Knight-Mozilla-MIT &#34;The Open Internet&#34; Hack Day
+DESCRIPTION:&#34;The Knight-Mozilla OpenNews project is sponsoring at 24-hour 
+ as a lead-in to the 2014 MIT-Knight Civic Media Conference. While the conf
+ erence is invite-only\, the hack day is open to talented developers\, desi
+ gners\, journalists\, and open web advocates who want to spend their weeke
+ nd working with others to build amazing things.&#34;
+URL:https://reps.mozilla.org/e/knight-mozilla-mit-the-open-internet-hack-d
+ ay/
+SEQUENCE:3
+X-COORDINATES-LAT:42.3603983812
+X-COORDINATES-LON:-71.0874381066
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4078
+CLASS:PUBLIC
+DTSTAMP:20200407T181538Z
+DTSTART:20150705T143000Z
+DTEND:20150705T160000Z
+LOCATION:IRC + Google Hangout\, India\, India
+SUMMARY:Let&#39;s learn Webmaker for Android!
+DESCRIPTION:* An on-line event for learning about Webmaker for Android App
+ .\n\n* Webmaker is a tool to help smartphone users of any skill level read
+ \, write and participate on the Web. The app makes creating original conte
+ nt in your local language simple — you can drag\, drop and personalize p
+ hotos\, text and more to build unique projects like interactive scrapbooks
+ \, comic strips\, games and memes.
+URL:https://reps.mozilla.org/e/lets-learn-webmaker-for-android/
+SEQUENCE:4
+X-COORDINATES-LAT:22.6309128047
+X-COORDINATES-LON:79.3886715174
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

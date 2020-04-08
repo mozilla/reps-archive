@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2829
+CLASS:PUBLIC
+DTSTAMP:20200407T174554Z
+DTSTART:20140918T173000Z
+DTEND:20140918T220000Z
+LOCATION:Bull &amp; Castle Bar and Resturant\, Mansion House A\, Ireland
+SUMMARY:Moz Ireland: Monthly Gathering
+DESCRIPTION:Another month\, another gathering!\n\nMoving on from our last 
+ gathering in August\, we will be having a gathering on Thursday 18th of Se
+ ptember. This gathering will be held at FX Buckley’s Bull &amp; Castle Bar a
+ nd Restaurant from 7pm. We will be located upstairs\, just look out for Mo
+ zilla/Firefox T Shirts!
+URL:https://reps.mozilla.org/e/moz-ireland-monthly-gathering/
+SEQUENCE:3
+X-COORDINATES-LAT:53.3434641818
+X-COORDINATES-LON:-6.26991766709
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

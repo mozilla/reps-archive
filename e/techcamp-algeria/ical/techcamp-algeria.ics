@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1294
+CLASS:PUBLIC
+DTSTAMP:20200407T174918Z
+DTSTART:20130928T080000Z
+DTEND:20130929T170000Z
+LOCATION:TBD\, Ouargla\, Algeria
+SUMMARY:TechCamp Algeria
+DESCRIPTION:TechCamps are two day interactive conferences that pair leader
+ s in the technology community with local and regional civil society organi
+ zations to provide training\, resources and assistance that enable partici
+ pants to harness the latest technologies to build their capacity to serve.
+  TechCamps connect the organizations and entities that are working hard to
+  solve social problems with technologists that show them how to use access
+ ible\, low-cost technology solutions.
+URL:https://reps.mozilla.org/e/techcamp-algeria/
+SEQUENCE:1
+X-COORDINATES-LAT:31.9148675033
+X-COORDINATES-LON:5.3173828125
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

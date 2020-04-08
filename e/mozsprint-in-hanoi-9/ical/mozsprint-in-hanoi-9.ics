@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1399
+CLASS:PUBLIC
+DTSTAMP:20200407T182640Z
+DTSTART:20131016T020000Z
+DTEND:20131016T050000Z
+LOCATION:Community Space\, Hanoi\, Vietnam
+SUMMARY:MozSprint in Hanoi #9
+DESCRIPTION:- Do l10n on Firefox and Firefox OS\, test on Aurora and Keon\
+ n- Create a Vietnamese input method for Firefox OS\n- Understand the devel
+ opment process
+URL:https://reps.mozilla.org/e/mozsprint-in-hanoi-9/
+SEQUENCE:1
+X-COORDINATES-LAT:21.0138088098
+X-COORDINATES-LON:105.819105506
+X-COUNTRY-CODE:vn
+END:VEVENT
+
+END:VCALENDAR

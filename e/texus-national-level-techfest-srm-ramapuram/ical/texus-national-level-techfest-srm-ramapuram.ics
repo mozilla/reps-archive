@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7457
+CLASS:PUBLIC
+DTSTAMP:20200407T181242Z
+DTSTART:20180309T043000Z
+DTEND:20180309T103000Z
+LOCATION:SRM Institute of Science and Technology\, Ramapuram\, Chennai.\, 
+ Chennai\, India
+SUMMARY:TEXUS - National Level Techfest [SRM RAMAPURAM]
+DESCRIPTION:TEXUS is a National Level Tech Fest organized by Department of
+  Computer Science and Engineering\, SRM Institute of Science and Technolog
+ y\, Ramapuram\, Chennai. \nMozilla Community will be hosting a VR Station 
+ to showcase various live demo sessions on WebVR using A-Frame. This will i
+ nclude Example Sessions like A-Painter\, 360&#39; View\, A- Blast and many mor
+ e.
+URL:https://reps.mozilla.org/e/texus-national-level-techfest-srm-ramapuram
+ /
+SEQUENCE:2
+X-COORDINATES-LAT:13.0371989217
+X-COORDINATES-LON:80.1817965487
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

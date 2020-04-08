@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6618
+CLASS:PUBLIC
+DTSTAMP:20200407T181245Z
+DTSTART:20170520T140000Z
+DTEND:20170520T220000Z
+LOCATION:Sonsonate\, El salvador\, SonSonate\, El Salvador
+SUMMARY:Mozilla developer Edition
+DESCRIPTION:Talk about mozilla technologies\, introduction for open gl 2\,
+  A frame and rust.
+URL:https://reps.mozilla.org/e/mozilla-developer-edition/
+SEQUENCE:0
+X-COORDINATES-LAT:13.7184570934
+X-COORDINATES-LON:-89.7644376755
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

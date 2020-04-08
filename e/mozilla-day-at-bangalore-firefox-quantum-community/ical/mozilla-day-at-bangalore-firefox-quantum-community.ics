@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7270
+CLASS:PUBLIC
+DTSTAMP:20200407T165326Z
+DTSTART:20171217T093000Z
+DTEND:20171217T113000Z
+LOCATION:Red Hat\, Bangalore\, Bangalore\, India
+SUMMARY:Mozilla Day at Bangalore: Firefox Quantum &amp; Community
+DESCRIPTION:A community day at Mozilla Bangalore community to discuss abou
+ t Firefox Quantum\, events of the previous year and a road-map planning se
+ ssion for the next year! This event is also to co-ordinate the efforts of 
+ all Tech Speakers in Bangalore and ensure that all these efforts are in sy
+ nc with the needs of the local community.
+URL:https://reps.mozilla.org/e/mozilla-day-at-bangalore-firefox-quantum-co
+ mmunity/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9344765163
+X-COORDINATES-LON:77.6014868615
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

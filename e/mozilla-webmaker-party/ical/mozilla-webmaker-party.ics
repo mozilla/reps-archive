@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3008
+CLASS:PUBLIC
+DTSTAMP:20200407T183235Z
+DTSTART:20141024T090000Z
+DTEND:20141024T110000Z
+LOCATION:Jinan University\,Shenzhen\, Nanshan/Shenzhen\, China
+SUMMARY:Mozilla Webmaker Party
+DESCRIPTION:First Webmaker event in an university to understand and explor
+ e Webmkaker and join the Mozilla worldwide community
+URL:https://reps.mozilla.org/e/mozilla-webmaker-party/
+SEQUENCE:2
+X-COORDINATES-LAT:22.5379769771
+X-COORDINATES-LON:113.916243911
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8691
+CLASS:PUBLIC
+DTSTAMP:20200407T174130Z
+DTSTART:20190715T183000Z
+DTEND:20190722T182500Z
+LOCATION:TBD\, Dhanbad\, India
+SUMMARY:L10n Sprint
+DESCRIPTION:This sprint is mainly focused on Hindi localization as well as
+  all pending review. We will me promoting to localizer based on there qaul
+ ity of localization.
+URL:https://reps.mozilla.org/e/l10n-sprint/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7919420384
+X-COORDINATES-LON:86.3884162903
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2385
+CLASS:PUBLIC
+DTSTAMP:20200407T174203Z
+DTSTART:20140705T070000Z
+DTEND:20140711T170000Z
+LOCATION:Esplanade Charles de Gaulle\, Montpellier\, France
+SUMMARY:Rencontres Mondiales du Logiciel Libre 2014
+DESCRIPTION:RMLL or LSM in English (for Libre Software Meeting) is more th
+ an 200 conferences along 5 days made by worldwide speakers. It has been mo
+ re than 10 years since the LSM started to put themselves at the disposal o
+ f Libre communities\, professionals and general public ! Sharing of knowle
+ dge\, freedom of information\, community spirit\, discussions\, technologi
+ cal progress : every year the Libre Software Meeting (LSM) follows the Lib
+ re philosophy.
+URL:https://reps.mozilla.org/e/rencontres-mondiales-du-logiciel-libre-2014
+ -1/
+SEQUENCE:10
+X-COORDINATES-LAT:43.6099692019
+X-COORDINATES-LON:3.87811088003
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

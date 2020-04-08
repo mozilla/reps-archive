@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@419
+CLASS:PUBLIC
+DTSTAMP:20200407T173811Z
+DTSTART:20121210T100000Z
+DTEND:20121215T100000Z
+LOCATION:ADEF\, Cairo\, Egypt
+SUMMARY: CC Arab World Regional Meeting
+DESCRIPTION:The event talk about free licenses in the Arab World in severa
+ l fields like Music\, Cinema\, Photography\, etc not just IT field.\nOur r
+ ole in the event to help attendees to know about Mozilla work\, vision\, m
+ ission and Mozilla projects. Also\, we will recruit new Mozillians to work
+  with us in our communities in the MENA region.\nWe will try to make some 
+ fun corners for Mozilla to make the attendees more excited and have fun wi
+ th Mozilla Reps in the event. We have lots of awesome ideas will be make.
+URL:https://reps.mozilla.org/e/cc-arab-world-regional-meeting/
+SEQUENCE:0
+X-COORDINATES-LAT:30.0156724182
+X-COORDINATES-LON:31.281337738
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

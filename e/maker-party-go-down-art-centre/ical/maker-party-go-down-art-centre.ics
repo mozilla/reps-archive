@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1143
+CLASS:PUBLIC
+DTSTAMP:20200407T175851Z
+DTSTART:20130906T070000Z
+DTEND:20130907T013000Z
+LOCATION:The Go Down Art Centre Nairobi\, Nairobi\, Kenya
+SUMMARY:Maker Party _ Go Down Art Centre
+DESCRIPTION:I will be teaching teenage youths\, most of whom are digital d
+ esign students and are familiar with web technologies and tools but are de
+ finitely not gurus or experts in this field. We are hoping to add somethin
+ g useful to their learning life\, something that will ease or maybe smooth
+ -en everything\, using the awesome web leaning tools developed by the Mozi
+ lla Webmaker Community.
+URL:https://reps.mozilla.org/e/maker-party-go-down-art-centre/
+SEQUENCE:6
+X-COORDINATES-LAT:-1.30725961228
+X-COORDINATES-LON:36.7163085938
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

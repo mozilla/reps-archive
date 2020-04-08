@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8274
+CLASS:PUBLIC
+DTSTAMP:20200407T174107Z
+DTSTART:20181216T010000Z
+DTEND:20181216T040000Z
+LOCATION:KGISL Tech Park\, Coimbatore\, Coimbatore\, India
+SUMMARY:L10n and SUMO\, Coimbatore
+DESCRIPTION:Main focus of this event is to give an introduction about vari
+ ous Mozilla l10n projects and bring new contributors to Mozilla Tamil Nadu
+  community. We are planning to conduct small events of this type around ma
+ ny colleges in Tamil Nadu.\n\n\nOrganisers:\n    Selva Makilan\n    Mohamm
+ ed Ammar
+URL:https://reps.mozilla.org/e/l10n-and-sumo-coimbatore/
+SEQUENCE:3
+X-COORDINATES-LAT:11.1024146826
+X-COORDINATES-LON:76.9856243133
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

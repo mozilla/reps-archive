@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7707
+CLASS:PUBLIC
+DTSTAMP:20200407T165055Z
+DTSTART:20180428T130000Z
+DTEND:20180428T150000Z
+LOCATION:Eat\, 1st Floor\, One New Change\, London\, EC4M 9AF\, City of Lo
+ ndon\, United Kingdom
+SUMMARY:MozCoffee London - Special onboarding event.
+DESCRIPTION:This month we&#39;re heading directly east of St Paul&#39;s Cathedral\
+ , to cafe EAT. 14:00 - 16:00 BST.\n\nIf you&#39;re brand new\, or you&#39;ve been 
+ around the track a few times -- you&#39;re all encouraged to join us.\n\nThis 
+ event will focus entirely on helping you find the info &amp; resources you nee
+ d PLUS building our processes\, documentation\, &amp; FAQ&#39;s helping newbies th
+ at come after you.\n\nIt won&#39;t be all work. We&#39;ll have awesome conversatio
+ ns about the Open Web and a good old laugh.
+URL:https://reps.mozilla.org/e/mozcoffee-london-special-onboarding-event/
+SEQUENCE:5
+X-COORDINATES-LAT:51.513956791
+X-COORDINATES-LON:-0.0955581667222
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

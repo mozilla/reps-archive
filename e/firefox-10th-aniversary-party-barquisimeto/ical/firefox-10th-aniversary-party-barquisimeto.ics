@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3004
+CLASS:PUBLIC
+DTSTAMP:20200407T175303Z
+DTSTART:20141109T163000Z
+DTEND:20141109T193000Z
+LOCATION:Colegio de Contadores Públicos del Estado Lara\, Barquisimeto\, 
+ Venezuela
+SUMMARY:Firefox 10th Anniversary Party Barquisimeto
+DESCRIPTION:Join us to celebrate the 10th aniversary of our favorite brows
+ er Firefox!\n\nThe aim of this event is to bring together all Mozillians o
+ f the region where it is held\, talk\, chat\, tell stories\, have some fun
+ \, take the opportunity to contact the Mozilla community of the region and
+  also to meet members of Mozilla Venezuela\, if you are interested in join
+ ing the community simply takes this opportunity to do so and meet the most
+  cheerful and pleasant community of all :)
+URL:https://reps.mozilla.org/e/firefox-10th-aniversary-party-barquisimeto/
+SEQUENCE:13
+X-COORDINATES-LAT:10.0625325009
+X-COORDINATES-LON:-69.3221894506
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

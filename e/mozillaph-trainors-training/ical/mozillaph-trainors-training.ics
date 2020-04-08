@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2306
+CLASS:PUBLIC
+DTSTAMP:20200407T175859Z
+DTSTART:20140612T010000Z
+DTEND:20140612T040000Z
+LOCATION:Palet Express\, Pasay City\, Philippines
+SUMMARY:MozillaPH Trainers Training
+DESCRIPTION:This session is intended for current and future MozillaPH spea
+ kers. Learn the ropes of how to effective plan and deliver a seminar or wo
+ rkshop based on a former university professor and author of K+12 textbooks
+ .
+URL:https://reps.mozilla.org/e/mozillaph-trainors-training/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5468127269
+X-COORDINATES-LON:121.015847683
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

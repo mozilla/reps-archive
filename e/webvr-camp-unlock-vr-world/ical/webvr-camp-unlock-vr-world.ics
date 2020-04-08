@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7404
+CLASS:PUBLIC
+DTSTAMP:20200407T174625Z
+DTSTART:20180210T043000Z
+DTEND:20180210T113000Z
+LOCATION:IMS\, Ghaziabad\, India
+SUMMARY:WebVR Camp - Unlock VR World
+DESCRIPTION:Virtual Reality development is a mainstream technology and pop
+ ular learning now a days. This event will be focusing on teaching and deve
+ loping virtual reality experiences using A-Frame which is a web framework 
+ for building virtual reality experiences\, making it easy for anyone to ge
+ t involved with virtual reality.  A-Frame is used extensively by the Mozil
+ la VR team to prototype and experiment with WebVR.
+URL:https://reps.mozilla.org/e/webvr-camp-unlock-vr-world/
+SEQUENCE:3
+X-COORDINATES-LAT:28.670092824
+X-COORDINATES-LON:77.4103159894
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

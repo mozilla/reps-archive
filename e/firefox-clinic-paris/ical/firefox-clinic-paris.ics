@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@192
+CLASS:PUBLIC
+DTSTAMP:20200407T180448Z
+DTSTART:20121117T090000Z
+DTEND:20121118T180000Z
+LOCATION:Cité des sciences et de l&#39;industrie\, Paris\, France
+SUMMARY:Firefox Clinic Paris
+DESCRIPTION:sessions of in person\, in depth support to Firefox/Thunderbir
+ d users that&#39;ll need help with their browser/mailer in Paris\,\n\n
+URL:https://reps.mozilla.org/e/firefox-clinic-paris/
+SEQUENCE:0
+X-COORDINATES-LAT:48.8974842058
+X-COORDINATES-LON:2.38564252853
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

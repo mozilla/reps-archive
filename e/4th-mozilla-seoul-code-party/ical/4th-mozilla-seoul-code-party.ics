@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1976
+CLASS:PUBLIC
+DTSTAMP:20200407T183344Z
+DTSTART:20140314T100000Z
+DTEND:20140314T210000Z
+LOCATION:5F\, Ilshin Bldg. Hannamdong\, Seoul\, South Korea
+SUMMARY:4th Mozilla Seoul Code Party
+DESCRIPTION:Mozilla Seoul Code Party is community event to recruit new vol
+ unteers in Korea. Our leaders introduce activities of translation of SuMo\
+ , MDN documents and Mozilla Hacks articles\, Firefox OS app development. P
+ articipants can do together with leaders in practice.
+URL:https://reps.mozilla.org/e/4th-mozilla-seoul-code-party/
+SEQUENCE:8
+X-COORDINATES-LAT:37.5371499158
+X-COORDINATES-LON:127.005358815
+X-COUNTRY-CODE:kr
+END:VEVENT
+
+END:VCALENDAR

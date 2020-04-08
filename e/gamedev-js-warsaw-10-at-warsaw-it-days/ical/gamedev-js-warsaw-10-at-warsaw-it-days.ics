@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8480
+CLASS:PUBLIC
+DTSTAMP:20200407T174529Z
+DTSTART:20190326T092500Z
+DTEND:20190326T115500Z
+LOCATION:Warsaw University of Technology\, Warsaw\, Poland
+SUMMARY:Gamedev.js Warsaw #10 at Warsaw IT Days
+DESCRIPTION:Organized a special edition of our HTML5 Gamedev meetup - this
+  time at the Warsaw University of Technology during the Warsaw IT Days.
+URL:https://reps.mozilla.org/e/gamedev-js-warsaw-10-at-warsaw-it-days/
+SEQUENCE:0
+X-COORDINATES-LAT:52.2216961131
+X-COORDINATES-LON:21.0089950555
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

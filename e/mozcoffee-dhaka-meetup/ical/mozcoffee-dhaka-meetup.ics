@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3274
+CLASS:PUBLIC
+DTSTAMP:20200407T180531Z
+DTSTART:20150131T090000Z
+DTEND:20150131T120000Z
+LOCATION:Bishwo Shahitto Kendro\, Bangla Motor\, Dhaka\, Dhaka\, Banglades
+ h
+SUMMARY:MozCoffee Dhaka meetup
+DESCRIPTION:This is the first community meetup of year 2015. This is the g
+ reat opportunity to meet the community members each other at start of the 
+ year to discuss\, plan share the ideas each other at community. Also this 
+ is the perfect occasion for share the experiences of Portland coincidental
+  work week (Mozlandia) participants to the community members.
+URL:https://reps.mozilla.org/e/mozcoffee-dhaka-meetup/
+SEQUENCE:5
+X-COORDINATES-LAT:23.7448013766
+X-COORDINATES-LON:90.3946700691
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2392
+CLASS:PUBLIC
+DTSTAMP:20200407T165710Z
+DTSTART:20140909T230000Z
+DTEND:20140912T130000Z
+LOCATION:SMX Convention Center\, Pasay City\, Philippines
+SUMMARY:12th Philippine Youth Congress on Information Technology (Y4iT)
+DESCRIPTION:University of the Philippines IT Development Center is the org
+ anizer of Y4iT 2014\, returns on a bigger scale with its theme Harnessing 
+ the Power of Me on September 10 to 11\, 2014 at the SMX Convention Center 
+ in Pasay City. Y4iT will be having a more exciting program with new a set 
+ of resource speakers and commodious venue\, which means more exciting cong
+ ress anticipated to bring in 30\,000 delegates!
+URL:https://reps.mozilla.org/e/12th-philippine-youth-congress-on-informati
+ on-technology-y4it/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5319306652
+X-COORDINATES-LON:120.981559395
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

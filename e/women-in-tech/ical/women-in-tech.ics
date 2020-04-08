@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9017
+CLASS:PUBLIC
+DTSTAMP:20200407T170255Z
+DTSTART:20200210T090000Z
+DTEND:20200210T120000Z
+LOCATION:Wooton Curepipe\, Curepipe\, Mauritius
+SUMMARY:Women in tech
+DESCRIPTION:I have been invited to give a talk about Mozilla and digital a
+ rchiving to a group of women working in science and who also form part of 
+ the Organization for Women in Science for the Developing World. Firefox wi
+ ll also be used  as the main browser to view the digital collections creat
+ ed.
+URL:https://reps.mozilla.org/e/women-in-tech/
+SEQUENCE:0
+X-COORDINATES-LAT:-20.3398418748
+X-COORDINATES-LON:57.5613999358
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

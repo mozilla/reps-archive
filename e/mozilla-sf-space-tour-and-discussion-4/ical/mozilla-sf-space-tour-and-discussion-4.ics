@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2656
+CLASS:PUBLIC
+DTSTAMP:20200407T174451Z
+DTSTART:20140814T023000Z
+DTEND:20140814T040000Z
+LOCATION:Mozilla San Francisco\, San Francisco\, United States
+SUMMARY:Mozilla SF Space tour and discussion
+DESCRIPTION:A tour of Mozilla&#39;s San Francisco Space and a discussion with 
+ students about Mozilla.
+URL:https://reps.mozilla.org/e/mozilla-sf-space-tour-and-discussion-4/
+SEQUENCE:5
+X-COORDINATES-LAT:37.7893178672
+X-COORDINATES-LON:-122.389100075
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

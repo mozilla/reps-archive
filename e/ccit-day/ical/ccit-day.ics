@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3859
+CLASS:PUBLIC
+DTSTAMP:20200407T174902Z
+DTSTART:20150514T080000Z
+DTEND:20150514T100000Z
+LOCATION:Arab academy for science\, technology &amp; maritime transport at  El
+ -Farsi hall.\, Al Iskandariyah\, Egypt
+SUMMARY:CCIT Day
+DESCRIPTION:Target people: Computer science department students.\n\nEvent 
+ Goals:\n1. Invite students to join Firefox student ambassadors program.\n2
+ . Participate in the ceremony held by the college.\n3. Tell people a brief
+  about Mozilla and its history.\n\nNote: in the event the FSA club &#34;Firefo
+ x Student Club at AAST&#34; will be honored by the university of being selecte
+ d the club of the month by Mozilla https://blog.mozilla.org/studentambassa
+ dors/2015/05/06/fsa-firefox-club-of-the-month-april-2015/
+URL:https://reps.mozilla.org/e/ccit-day/
+SEQUENCE:6
+X-COORDINATES-LAT:31.3100685782
+X-COORDINATES-LON:30.0645768638
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

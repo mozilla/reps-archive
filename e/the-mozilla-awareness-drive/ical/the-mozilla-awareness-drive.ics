@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2466
+CLASS:PUBLIC
+DTSTAMP:20200407T181855Z
+DTSTART:20140801T210000Z
+DTEND:20140825T160000Z
+LOCATION:Around the US\, Latonia\, United States
+SUMMARY:The Mozilla Awareness Drive
+DESCRIPTION:&#39;The Mozilla Awareness Drive&#39; - A journey to raise awareness r
+ egarding the Mozilla community around the US. To accomplish this\, I will 
+ travel around all the lower 48 States\, meeting with the locals along the 
+ way and have interactions regarding our community\, our activities and als
+ o share information on various topics to them.\n\nhttps://etherpad.mozilla
+ .org/lPBSnt1EAm\n\nhttps://medium.com/@prashishh/how-mozdrive-started-af56
+ d4be8a82\n\nhttp://prashish.me/2014/07/28/mozdrive/
+URL:https://reps.mozilla.org/e/the-mozilla-awareness-drive/
+SEQUENCE:5
+X-COORDINATES-LAT:38.9907259227
+X-COORDINATES-LON:-84.4614261389
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

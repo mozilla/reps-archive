@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5914
+CLASS:PUBLIC
+DTSTAMP:20200407T180243Z
+DTSTART:20161001T050000Z
+DTEND:20161001T100000Z
+LOCATION:Mozilla Philippines Community Space Manila\, Makati City\, Philip
+ pines
+SUMMARY:Firefox Test Pilot Sprint
+DESCRIPTION:An event part of the Activate Campaign focusing first in the T
+ est Pilot to help attendees understand what Test Pilot is and how they cou
+ ld contribute using Test Pilot.
+URL:https://reps.mozilla.org/e/firefox-test-pilot-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5467997457
+X-COORDINATES-LON:-238.984236896
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

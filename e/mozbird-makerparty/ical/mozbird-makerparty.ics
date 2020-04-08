@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1757
+CLASS:PUBLIC
+DTSTAMP:20200407T175024Z
+DTSTART:20140809T053000Z
+DTEND:20140809T083000Z
+LOCATION:Konkan Gyanpeeth College of Engineering\, Karjat\, Karjat\, India
+SUMMARY:Introduction to Mozilla @ KGCE
+DESCRIPTION:The event will consist of talks\, focused on introducing the w
+ orld of FOSS and Mozilla to the students. The students will gain insights 
+ into Mozilla&#39;s mission to keep the power of the Web in people hands and al
+ so the numerous projects which Mozilla is working on. The students will be
+  introduced to Mozilla&#39;s new mobile operating system - Firefox OS\, ahead 
+ of its forthcoming launch in India. The students will also be guided on th
+ e different ways of contributing to the Mozilla projects like Firefox.
+URL:https://reps.mozilla.org/e/mozbird-makerparty/
+SEQUENCE:19
+X-COORDINATES-LAT:18.6844098263
+X-COORDINATES-LON:73.7680649757
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

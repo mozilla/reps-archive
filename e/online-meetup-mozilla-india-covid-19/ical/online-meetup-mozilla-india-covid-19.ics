@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9159
+CLASS:PUBLIC
+DTSTAMP:20200407T163644Z
+DTSTART:20200325T133000Z
+DTEND:20200325T153000Z
+LOCATION:TBD\, Online (over Zoom)\, India
+SUMMARY:Online Meetup Mozilla India - COVID-19
+DESCRIPTION:Discussion about COVID-19. How can Mozillians add value during
+  COVID-19?
+URL:https://reps.mozilla.org/e/online-meetup-mozilla-india-covid-19/
+SEQUENCE:1
+X-COORDINATES-LAT:22.4245703548
+X-COORDINATES-LON:79.4824200869
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

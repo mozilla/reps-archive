@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4172
+CLASS:PUBLIC
+DTSTAMP:20200407T175200Z
+DTSTART:20150829T010000Z
+DTEND:20150829T100000Z
+LOCATION:Institut Teknologi Bandung\, Bandung\, Indonesia
+SUMMARY:Open House Unit ITB 2015
+DESCRIPTION:Open House Unit (OHU) ITB 2015 is an annual event organized by
+  ITB\, where they give a space for community to create a booth to introduc
+ e ITB students about their community for recruiting new member to facilita
+ te every ITB students based on their interest. Mozilla Indonesia will runs
+  a Mozilla Booth on that event aims to recruite more people who interested
+  in joining Firefox Student Ambassadors
+URL:https://reps.mozilla.org/e/open-house-unit-itb-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.89051542779
+X-COORDINATES-LON:107.610390185
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

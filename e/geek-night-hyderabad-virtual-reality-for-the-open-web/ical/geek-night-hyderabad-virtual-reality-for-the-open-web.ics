@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6899
+CLASS:PUBLIC
+DTSTAMP:20200407T164111Z
+DTSTART:20170906T130000Z
+DTEND:20170906T150000Z
+LOCATION:ThoughtWorks Hyderabad\, Hyderabad\, India
+SUMMARY:Geek Night Hyderabad: Virtual Reality for the Open Web
+DESCRIPTION:A-Frame is a web framework for building virtual reality (VR) e
+ xperiences. This Mozilla-supported framework is powerful\, open source\, a
+ nd is easy to learn. In this talk\, we will explore the intro to trends in
+  Virtual Reality and how one can create VR scenes for Web with visual 3D i
+ nspector without any coding and then doing the same with coding. We will l
+ ook into cool demos of VR scenes created by Mozilla VR community.\n\nSpeak
+ ers: Ranjith Raj Vasam\, Ram Gurumukhi &amp; Deepak Upendra
+URL:https://reps.mozilla.org/e/geek-night-hyderabad-virtual-reality-for-th
+ e-open-web/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4430503358
+X-COORDINATES-LON:78.3569365181
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

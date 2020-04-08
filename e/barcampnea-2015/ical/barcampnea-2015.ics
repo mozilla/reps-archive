@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3797
+CLASS:PUBLIC
+DTSTAMP:20200407T182744Z
+DTSTART:20150530T120000Z
+DTEND:20150530T210000Z
+LOCATION:UTN - FRRe - French 414\, Resistencia\, Argentina
+SUMMARY:BarcampNEA 2015
+DESCRIPTION:The biggest IT and community related event of this region. \nB
+ arcampNEA has been the central event of Argentina North East Region. With 
+ a variety of talks (in Barcamp format) that includes development\, design\
+ , OSS\, entrepreneurship\, etc.\n\nPablo Terradillos will assist to this e
+ vent to give a talk about FirefoxOS development and Mozilla&#39;s development 
+ echosystem. \nFirefoxOS has been released a few weeks ago on Argentina.
+URL:https://reps.mozilla.org/e/barcampnea-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:-27.4511248388
+X-COORDINATES-LON:-58.9794688227
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

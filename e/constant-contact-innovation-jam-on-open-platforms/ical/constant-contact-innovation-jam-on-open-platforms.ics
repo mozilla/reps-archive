@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2503
+CLASS:PUBLIC
+DTSTAMP:20200407T174355Z
+DTSTART:20140707T170000Z
+DTEND:20140707T180000Z
+LOCATION:Constant Contact\, Waltham\, United States
+SUMMARY:Constant Contact Innovation Jam on Open Platforms
+DESCRIPTION:Constant Contact has an internal innovation jam for exposing i
+ ts employees to new ideas and platforms for stimulating creativity\, innov
+ ation\, and growth. They&#39;ve invited me to come and talk about Mozilla&#39;s ap
+ proach around Openness.
+URL:https://reps.mozilla.org/e/constant-contact-innovation-jam-on-open-pla
+ tforms/
+SEQUENCE:4
+X-COORDINATES-LAT:42.4186397723
+X-COORDINATES-LON:-71.2582032682
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3392
+CLASS:PUBLIC
+DTSTAMP:20200407T174834Z
+DTSTART:20150201T200000Z
+DTEND:20150203T200000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, India
+SUMMARY:Indic Language Mozilla Hackathon -- Bangalore
+DESCRIPTION:A meetup of Indic language localizers with Mozilla localizatio
+ n drivers to bring existing l10n projects up-to-date\, discuss localizatio
+ n sustainability for each locale\, and the local community&#39;s goals for loc
+ alization in 2015.
+URL:https://reps.mozilla.org/e/indic-language-mozilla-hackathon-bangalore/
+SEQUENCE:5
+X-COORDINATES-LAT:12.9631778225
+X-COORDINATES-LON:77.6140687465
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

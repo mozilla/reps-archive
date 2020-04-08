@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8954
+CLASS:PUBLIC
+DTSTAMP:20200407T182914Z
+DTSTART:20191128T033000Z
+DTEND:20191128T073000Z
+LOCATION:TBD\, Balangoda\, Sri Lanka
+SUMMARY:Campus Club Initiation &amp; Introduction to Cyber Security
+DESCRIPTION:Sabaragamuwa University is doing a event in Introduction to Cy
+ ber Security.
+URL:https://reps.mozilla.org/e/campus-club-initiation-introduction-to-cybe
+ r-security/
+SEQUENCE:2
+X-COORDINATES-LAT:6.71097561288
+X-COORDINATES-LON:80.7901691793
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

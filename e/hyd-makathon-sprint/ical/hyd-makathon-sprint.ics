@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2687
+CLASS:PUBLIC
+DTSTAMP:20200407T174450Z
+DTSTART:20140906T043000Z
+DTEND:20140906T073000Z
+LOCATION:Mahal Crazy\, Opposite Nectar Garden\, Madhapur\, Hyderabad\, Hyd
+ erabad\, India
+SUMMARY:Hyd Makathon Sprint
+DESCRIPTION:Show off you maker skills !! This event is a full day makers s
+ print\, where we will work on few themes and build best of makes. This is 
+ a kind of hackathon using Webmaker Tools.
+URL:https://reps.mozilla.org/e/hyd-makathon-sprint/
+SEQUENCE:13
+X-COORDINATES-LAT:17.3698625851
+X-COORDINATES-LON:78.4606929123
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2047
+CLASS:PUBLIC
+DTSTAMP:20200407T182148Z
+DTSTART:20140430T180000Z
+DTEND:20140430T190000Z
+LOCATION:Faculty of Technology and Metallurgy - Skopje\, Skopje\, Macedoni
+ a\, F.Y.R. of
+SUMMARY:First Info Meeting of the Firefox Student Club at FCSE\, Skopje
+DESCRIPTION:Introducing the Firefox Student Club as a result of the Mozill
+ a Student Ambassadors program\, its goals and plans\; presenting the Missi
+ on and vision of Mozilla foundation.\n\nDuring the event students will hav
+ e a chance to become members of this club.
+URL:https://reps.mozilla.org/e/first-info-meeting-of-the-firefox-student-c
+ lub-at-fcse-skopje/
+SEQUENCE:10
+X-COORDINATES-LAT:42.0047413939
+X-COORDINATES-LON:21.4100428816
+X-COUNTRY-CODE:mk
+END:VEVENT
+
+END:VCALENDAR

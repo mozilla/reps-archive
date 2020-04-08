@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4943
+CLASS:PUBLIC
+DTSTAMP:20200407T182429Z
+DTSTART:20160130T100000Z
+DTEND:20160130T160000Z
+LOCATION:Fermentuse Space\, Abidjan\, Ivory Coast
+SUMMARY:Saturday Doc
+DESCRIPTION:A monthly meeting to document the Web\, discover MDN\, meet th
+ e Mozilla contributors community.\n\nJust bring your good mood and your co
+ mputer
+URL:https://reps.mozilla.org/e/saturday/
+SEQUENCE:1
+X-COORDINATES-LAT:5.38785067504
+X-COORDINATES-LON:-3.96741557139
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

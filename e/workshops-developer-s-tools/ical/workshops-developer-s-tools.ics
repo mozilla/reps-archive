@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8852
+CLASS:PUBLIC
+DTSTAMP:20200407T173900Z
+DTSTART:20190930T140000Z
+DTEND:20190930T160000Z
+LOCATION:Cité Ebenezer\, morofé Yamoussoukro\, Yamoussoukro\, Ivory Coas
+ t
+SUMMARY:Workshops - Developer&#39;s Tools
+DESCRIPTION:Introduction to Firefox Developer&#39;s Tools
+URL:https://reps.mozilla.org/e/workshops-developer-s-tools/
+SEQUENCE:2
+X-COORDINATES-LAT:6.76082079687
+X-COORDINATES-LON:-5.24082158692
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

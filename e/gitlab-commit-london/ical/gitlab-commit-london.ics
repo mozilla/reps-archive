@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8792
+CLASS:PUBLIC
+DTSTAMP:20200407T174122Z
+DTSTART:20191009T080000Z
+DTEND:20191009T170000Z
+LOCATION:The Brewery\, London\, United Kingdom
+SUMMARY:GitLab Commit London
+DESCRIPTION:The inaugural GitLab Commit will bring together GitLab users f
+ or a day of learning\, networking\, and inspiration. Hear speakers from NA
+ SA\, Delta\, Goldman Sachs\, T-Mobile\, and more talk about how they are d
+ riving innovation forward within their organizations. Experts in continuou
+ s integration\, continuous delivery\, Kubernetes\, DataOps\, and security 
+ will provide cutting-edge insight into the latest DevOps technologies.
+URL:https://reps.mozilla.org/e/gitlab-commit-london/
+SEQUENCE:2
+X-COORDINATES-LAT:51.5206301
+X-COORDINATES-LON:-0.0937828
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

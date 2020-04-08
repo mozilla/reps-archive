@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3217
+CLASS:PUBLIC
+DTSTAMP:20200407T173408Z
+DTSTART:20150220T080000Z
+DTEND:20150220T110000Z
+LOCATION:FREPD\, Dhaka University\, Bangladesh
+SUMMARY:WoMoz BD Meet up 2015
+DESCRIPTION:After the recruitment of many WoMozs to the WoMoz BD team for 
+ the past months\, MozBD will now start co-ordinating WoMoz-related events 
+ to our community calendar\, which will be discussed in this meet-up. This 
+ type of event will be held twice in a year to plan for next 6 months.
+URL:https://reps.mozilla.org/e/womoz-bd-meet-up-2015/
+SEQUENCE:7
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

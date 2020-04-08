@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4949
+CLASS:PUBLIC
+DTSTAMP:20200407T174404Z
+DTSTART:20151220T060000Z
+DTEND:20151220T090000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, India
+SUMMARY:Bi-Monthly IoT Meet
+DESCRIPTION:Developers from the IoT space gather for a meetup once in two 
+ months.
+URL:https://reps.mozilla.org/e/bi-monthly-iot-meet/
+SEQUENCE:1
+X-COORDINATES-LAT:12.8082305728
+X-COORDINATES-LON:77.6748043299
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

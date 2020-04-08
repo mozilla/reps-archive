@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4367
+CLASS:PUBLIC
+DTSTAMP:20200407T181536Z
+DTSTART:20150905T023000Z
+DTEND:20150905T103000Z
+LOCATION:Sathayabama University\, Chennai\, Chennai\, India
+SUMMARY:Maker Party - TechnoSummit 2015
+DESCRIPTION:September 5\, also celebrating Teacher&#39;s day. We would love to
+  teach the students about the open web and other technologies.\nThis is in
+  tribute to A.P.J Abdul Kalam\, One who always lived teaching.\n\nWe&#39;ll ha
+ ve several stalls each of which will display and teach students to learn a
+ nd make use of new technologies. \n\nSome of the technologies that will be
+  up for making as well as display would be Drones\, 3D Printing\, Firefox 
+ OS &amp; Android App dev\, Webmaker App for Android\, Internet Security etc.
+URL:https://reps.mozilla.org/e/maker-party-technosummit-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:12.8712299867
+X-COORDINATES-LON:80.2169249207
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@734
+CLASS:PUBLIC
+DTSTAMP:20200407T173742Z
+DTSTART:20130516T114500Z
+DTEND:20130516T204500Z
+LOCATION:Centro Britanico Brasileiro\, Sao Paulo\, Brazil
+SUMMARY:Tableless Conference 2013
+DESCRIPTION:At Tableless Conference\, you hear about Firefox OS\, strong m
+ obile development with HTML5\, JavaScript and other technologies\, UX\, De
+ sign and more. The idea is to address issues that often the professional f
+ ront-end ignoring end. We want you to become a better trader. In a profess
+ ional irreplaceable.
+URL:https://reps.mozilla.org/e/tableless-conference/
+SEQUENCE:7
+X-COORDINATES-LAT:-23.563958
+X-COORDINATES-LON:-46.697677
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

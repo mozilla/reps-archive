@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9042
+CLASS:PUBLIC
+DTSTAMP:20200407T173242Z
+DTSTART:20200122T130000Z
+DTEND:20200122T140000Z
+LOCATION:MozillaPH Slack\, Makati City\, Philippines
+SUMMARY:MozillaPH L10n Team Meeting for Jan 2020
+DESCRIPTION:Monthly meeting of localizers in the Philippines.
+URL:https://reps.mozilla.org/e/mozillaph-l10n-team-meeting-for-jan-2020/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5491474123
+X-COORDINATES-LON:121.013634681
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

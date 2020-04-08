@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8802
+CLASS:PUBLIC
+DTSTAMP:20200407T171615Z
+DTSTART:20190921T053000Z
+DTEND:20190921T083000Z
+LOCATION:Gokhale Education Society&#39;s R. H. Sapat College of Engineering\, 
+ Management Studies and Research\, Nashik\, India
+SUMMARY:Rust Hacks Nashik
+DESCRIPTION:Interested to learn about System Programming? We are hosting a
+  quick intro on Rust - most loved and wanted language by Developers accord
+ ing to Stack Overflow Developer Survey 2019.
+URL:https://reps.mozilla.org/e/rust-hacks-nashik/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9303200316
+X-COORDINATES-LON:73.5871580243
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8891
+CLASS:PUBLIC
+DTSTAMP:20200407T170253Z
+DTSTART:20191020T043000Z
+DTEND:20191020T113000Z
+LOCATION:91 Springboard\, 7th block\, Koramangala\, Bangalore\, India
+SUMMARY:Hacktoberfest Bangalore 2019
+DESCRIPTION:Hacktoberfest® is open to everyone in our global community. W
+ hether you’re a developer\, student learning to code\, event host\, or c
+ ompany of any size\, you can help drive growth of open source and make pos
+ itive contributions to an ever-growing community. All backgrounds and skil
+ l levels are encouraged to complete the challenge.
+URL:https://reps.mozilla.org/e/hacktoberfest-bangalore-1/
+SEQUENCE:5
+X-COORDINATES-LAT:12.93556
+X-COORDINATES-LON:77.62314
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

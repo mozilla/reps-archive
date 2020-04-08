@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7185
+CLASS:PUBLIC
+DTSTAMP:20200407T165146Z
+DTSTART:20171210T170000Z
+DTEND:20171214T170000Z
+LOCATION:Hilton and JW Mariott Austin\, Austin\, United States
+SUMMARY:Mozilla All Hands Austin 2017
+DESCRIPTION:An all company meeting that includes multiple team meetings\, 
+ happening in the same city\, at the same time + several opportunities to g
+ et together as one big group as well as with other teams. Then\, on the la
+ st day\, we have a fun social event for all\, Mozilla-style!
+URL:https://reps.mozilla.org/e/mozilla-all-hands-austin-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:30.1815391204
+X-COORDINATES-LON:262.316894084
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

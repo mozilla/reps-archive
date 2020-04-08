@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5577
+CLASS:PUBLIC
+DTSTAMP:20200407T181223Z
+DTSTART:20160703T043000Z
+DTEND:20160703T103000Z
+LOCATION:Tiljala Shed Park Circus\, Kolkata\, India
+SUMMARY:One Web
+DESCRIPTION:I am creating this event on behalf of Ranodeep Saha of Kolkata
+  community. \n\nThis is an event to spread the word of Web Literacy and ma
+ ke the community active and doing something for the betterment of the soci
+ ety. We are doing a contribution for MLN which was quite discussed in the 
+ London all hands.
+URL:https://reps.mozilla.org/e/one-web/
+SEQUENCE:2
+X-COORDINATES-LAT:22.5015616863
+X-COORDINATES-LON:88.4315185994
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1719
+CLASS:PUBLIC
+DTSTAMP:20200407T180037Z
+DTSTART:20140228T070000Z
+DTEND:20140228T130000Z
+LOCATION:TBD\, Nairobi\, Kenya
+SUMMARY:Firefox Apps Day Nairobi
+DESCRIPTION:Promote Firefox OS and do some hacking for Firefox Apps where 
+ the Participants will develop apps for Firefox OS and get them Published i
+ nto the Marketplace.
+URL:https://reps.mozilla.org/e/firefox-apps-day/
+SEQUENCE:13
+X-COORDINATES-LAT:-1.292066
+X-COORDINATES-LON:36.821946
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

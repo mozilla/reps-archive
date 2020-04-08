@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6779
+CLASS:PUBLIC
+DTSTAMP:20200407T174137Z
+DTSTART:20170722T043000Z
+DTEND:20170722T123000Z
+LOCATION:91springboard\, Turbhe\, Navi Mumbai\, India
+SUMMARY:Rust Mumbai
+DESCRIPTION:Rust is a new systems programming language developed by Mozill
+ a. This event is for open hacking and (co)learning of Rust (Programming La
+ nguage). Rustacians of all skill levels are welcome. Never wrote a single 
+ line of Rust\, but interested in the language? Don&#39;t worry\, most of us ar
+ e just starting off.
+URL:https://reps.mozilla.org/e/rust-mumbai/
+SEQUENCE:2
+X-COORDINATES-LAT:19.0693
+X-COORDINATES-LON:73.0199
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

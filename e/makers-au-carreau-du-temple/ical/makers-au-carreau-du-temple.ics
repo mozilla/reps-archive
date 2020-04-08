@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5043
+CLASS:PUBLIC
+DTSTAMP:20200407T181928Z
+DTSTART:20160227T120000Z
+DTEND:20160228T180000Z
+LOCATION:Carreau du temple\, rue Dupetit-Thouars\, Paris\, France
+SUMMARY:Makers au Carreau du Temple
+DESCRIPTION:This is public event dedicated to the Makers. at the Carreau d
+ u Temple\, Paris. The staturday and sunday are dedicated to the young publ
+ ic. We have been invited to this event to make some Webmaker workshop to c
+ hildren and have a booth for presenting Webmaker (and other mozilla produc
+ t if question are posed).\n\nWe will held at least two workshop in the aft
+ ernoon.
+URL:https://reps.mozilla.org/e/makers-au-carreau-du-temple/
+SEQUENCE:3
+X-COORDINATES-LAT:48.8719622949
+X-COORDINATES-LON:2.34122854454
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

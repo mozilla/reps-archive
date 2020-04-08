@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2347
+CLASS:PUBLIC
+DTSTAMP:20200407T183606Z
+DTSTART:20140612T130000Z
+DTEND:20140612T170000Z
+LOCATION:Pune\, Pune\, India
+SUMMARY:Firefox OS App Day Workshop - Pune
+DESCRIPTION:Conduct Firefox OS Apps Development Workshop to students of th
+ e Cummins College\,Pune. Attendees will be taught on how to tap the Firefo
+ x OS&#39; full potential in creating mobile apps using tools readily available
+  to them.Educate and inspire developers to work on apps and submit them to
+  the Marketplace.Create opportunities for local developers to showcase the
+ ir apps.
+URL:https://reps.mozilla.org/e/firefox-os-app-day-workshop-pune/
+SEQUENCE:1
+X-COORDINATES-LAT:18.4926333545
+X-COORDINATES-LON:73.9084625244
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

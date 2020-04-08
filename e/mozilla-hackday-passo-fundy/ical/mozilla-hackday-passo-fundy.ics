@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@282
+CLASS:PUBLIC
+DTSTAMP:20200407T182046Z
+DTSTART:20121027T150000Z
+DTEND:20121027T190000Z
+LOCATION:Rua Senhador Pinheiro\, 304\, Passo Fundo\, Brazil
+SUMMARY:Mozilla Hackday Passo Fundy
+DESCRIPTION:This hackday was organized by Passo Fundo&#39;s community during S
+ ENITI (www.seniti.com.br). We could talk about FirefoxOS to lots of people
+  and also we were able to make a great noise by donnating a Firefox cake t
+ o the coffe break time! :)
+URL:https://reps.mozilla.org/e/mozilla-hackday-passo-fundy/
+SEQUENCE:0
+X-COORDINATES-LAT:-30.1451271834
+X-COORDINATES-LON:-51.328125
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

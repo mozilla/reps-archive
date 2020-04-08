@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9046
+CLASS:PUBLIC
+DTSTAMP:20200407T180632Z
+DTSTART:20200129T120000Z
+DTEND:20200129T140000Z
+LOCATION:DILo Malang\, Malang\, Indonesia
+SUMMARY:MozKopdarMLG - International Privacy Day
+DESCRIPTION:Mozilla Indonesia akan kembali mengadakan MozKopdar Malang pad
+ a bulan Januari 2020 ini. \n\nAkan ada diskusi-diskusi menarik tentang Int
+ ernet Health Report\, fitur-fitur terbaru Firefox Lite dan tentunya pentin
+ gnya privasi kita sebagai user bersama Mozilla Rep Arief Bayu Purwanto.\n\
+ nAlamat : Telkom Kayutangan\, Jl. Jenderal Basuki Rahmat No.7-9\, Kauman\,
+  Kec. Klojen\, Kota Malang\, Jawa Timur 65119\n\nPIC : Arief Bayu (+62 822
+  3344 6784)\n\nSampai berjumpa!
+URL:https://reps.mozilla.org/e/mozkopdarmlg-international-privacy-day/
+SEQUENCE:0
+X-COORDINATES-LAT:-7.98037642808
+X-COORDINATES-LON:112.63004002
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

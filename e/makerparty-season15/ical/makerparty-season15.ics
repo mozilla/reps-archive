@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3910
+CLASS:PUBLIC
+DTSTAMP:20200407T182614Z
+DTSTART:20150715T190000Z
+DTEND:20150715T230000Z
+LOCATION:Fremont\, Fremont\, United States
+SUMMARY:MakerParty Season&#39;15
+DESCRIPTION:This maker party helps the new contributors to know about make
+ r party and how to conduct maker parties in there community and explaining
+  about the webMaker tools.
+URL:https://reps.mozilla.org/e/makerparty-season15/
+SEQUENCE:1
+X-COORDINATES-LAT:37.5563546
+X-COORDINATES-LON:-121.9656549
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

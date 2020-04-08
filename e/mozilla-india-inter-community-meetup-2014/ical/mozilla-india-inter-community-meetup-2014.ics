@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1929
+CLASS:PUBLIC
+DTSTAMP:20200407T174959Z
+DTSTART:20140404T023000Z
+DTEND:20140406T123000Z
+LOCATION:TBD\, Begumpet Airport\, India
+SUMMARY:Mozilla India Inter-Community Meetup 2014
+DESCRIPTION:Pan-India Mozilla Community Meetup is planned to bring togethe
+ r active and core contributors across the country to reinforce the relatio
+ nships inside the community\, discuss about all the contribution areas\, s
+ hare practices\, improve and build a plan to grow as a community.
+URL:https://reps.mozilla.org/e/mozilla-india-inter-community-meetup-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:17.4208740458
+X-COORDINATES-LON:78.4476299284
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

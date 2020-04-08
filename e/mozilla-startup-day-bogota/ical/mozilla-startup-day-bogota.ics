@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3870
+CLASS:PUBLIC
+DTSTAMP:20200407T174822Z
+DTSTART:20150613T130000Z
+DTEND:20150614T130000Z
+LOCATION:universidad minuto de DIOS\, Bogota\, Colombia
+SUMMARY:Mozilla Startup Day - Bogotá
+DESCRIPTION:This event is a mix between a Hackathon and Startups. We will 
+ share an space\, experiences\, videos and food building apps for FirefoxOS
+ . Important Bring your laptop (Linux\, Mac or Windows and device (s)). \n\
+ nTopics:\n\nLean Canavas model - Startups\nAppMaker Prototypes\nFirefoxOS 
+ development\nWebapps on Android
+URL:https://reps.mozilla.org/e/mozilla-startup-day-bogota/
+SEQUENCE:7
+X-COORDINATES-LAT:4.63765263057
+X-COORDINATES-LON:-74.066894534
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

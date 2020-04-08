@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3577
+CLASS:PUBLIC
+DTSTAMP:20200407T175414Z
+DTSTART:20150321T043000Z
+DTEND:20150322T110000Z
+LOCATION:Government Engineering College\, Barton Hill\, Thiruvananthapuram
+ \, India
+SUMMARY:Barton Hill App Days | Two Day FxOs Hackathon
+DESCRIPTION:A two day Hackathon for Mozilla&#39;s new mobile operating system 
+ FirefoxOS. This event will help students to get familiarize with all the a
+ spects of Firefox OS\, Web Apps\, Web APIs. Also it will be a great opport
+ unity for students to create quality apps and submit to marketplace.
+URL:https://reps.mozilla.org/e/barton-hill-app-days-two-day-fxos-hackathon
+ /
+SEQUENCE:7
+X-COORDINATES-LAT:8.49186517718
+X-COORDINATES-LON:76.9253045
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

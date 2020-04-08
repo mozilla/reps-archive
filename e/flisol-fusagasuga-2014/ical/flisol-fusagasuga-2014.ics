@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2010
+CLASS:PUBLIC
+DTSTAMP:20200407T175504Z
+DTSTART:20140412T130000Z
+DTEND:20140412T230000Z
+LOCATION:Universidad de Cundinamarca\, Fusagasugá\, Colombia
+SUMMARY:Flisol Fusagasugá 2014
+DESCRIPTION:FLISOL is an event created to promote the free software genera
+ l use\, and create interactions between users and developers. FLISOL happe
+ ns simultaneously in several countries of Latin America. In Colombia sever
+ al cities will host the FLISOL\, this time we will attend the FLISOL event
+  in Bogotá\, Ibagué and Fusagasugá.
+URL:https://reps.mozilla.org/e/flisol-fusagasuga-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:4.33733576734
+X-COORDINATES-LON:-74.3621792794
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

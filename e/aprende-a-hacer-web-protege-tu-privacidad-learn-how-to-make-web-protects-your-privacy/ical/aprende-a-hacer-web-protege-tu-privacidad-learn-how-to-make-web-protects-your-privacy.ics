@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5575
+CLASS:PUBLIC
+DTSTAMP:20200407T182126Z
+DTSTART:20160620T220000Z
+DTEND:20160625T000000Z
+LOCATION:Universidad del Claustro de Sor Juana\, Mexico City\, Mexico
+SUMMARY:Aprende a hacer web\, protege tu privacidad / Learn how to make we
+ b\, protects your privacy
+DESCRIPTION:En este taller se habrá sobre la privacidad\, la vigilancia y
+  la seguridad\, se emplearán los siguientes materiales: https://learning.
+ mozilla.org/activities/protect-your-data/ el cual estoy localizando al esp
+ añol. / \nThis workshop will be on privacy\, surveillance and security\, 
+ the following materials were used: https://learning.mozilla.org/activities
+ /protect-your-data/ which I translated into Spanish.
+URL:https://reps.mozilla.org/e/aprende-a-hacer-web-protege-tu-privacidad-l
+ earn-how-to-make-web-protects-your-privacy/
+SEQUENCE:0
+X-COORDINATES-LAT:19.42659976
+X-COORDINATES-LON:-99.1362622977
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

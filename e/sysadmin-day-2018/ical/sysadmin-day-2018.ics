@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7911
+CLASS:PUBLIC
+DTSTAMP:20200407T174823Z
+DTSTART:20180720T120000Z
+DTEND:20180720T190000Z
+LOCATION:Ankert\, Budapest\, Hungary
+SUMMARY:Sysadmin Day 2018
+DESCRIPTION:Also we will promote open source values as outlined in the Moz
+ illa Manifesto: Ensure the Internet is a global public resource\, open and
+  accessible to all.\nWe are going to promote Firefox and Nightly usage foc
+ using on enterprise values and Common Voice.\nYearly meeting of System adm
+ inistrators and other techies. As in the past few years we are going to re
+ presenting communities and programs such as Mozilla\, LibreOffice\, Linux 
+ Mint and Fedora\,
+URL:https://reps.mozilla.org/e/sysadmin-day-2018/
+SEQUENCE:6
+X-COORDINATES-LAT:47.5014589879
+X-COORDINATES-LON:19.059696436
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

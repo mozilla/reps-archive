@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4243
+CLASS:PUBLIC
+DTSTAMP:20200407T174119Z
+DTSTART:20150915T070000Z
+DTEND:20150915T100000Z
+LOCATION:SMK 1 Batang\, Semarang\, Indonesia
+SUMMARY:#MozBelajar Pendamping LKS 2015 di tingkat Jawa Tengah
+DESCRIPTION:An event to introduce the newly launched Webmaker App to stude
+ nts in SMK 1 Batang. There will be Webmaker App downloading session and ha
+ nds on workshop in making projects using the app. This event is organized 
+ as part of Webmaker App Launch initiatives in Indonesia.
+URL:https://reps.mozilla.org/e/mozbelajar-sma-9-semarang/
+SEQUENCE:3
+X-COORDINATES-LAT:-7.00105987057
+X-COORDINATES-LON:110.422639847
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

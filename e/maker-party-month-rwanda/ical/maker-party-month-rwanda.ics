@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2509
+CLASS:PUBLIC
+DTSTAMP:20200407T180030Z
+DTSTART:20140829T120000Z
+DTEND:20141011T120000Z
+LOCATION:KIST\, Lycee High School\, Green Hills Acadmy\, Kigali\, Rwanda
+SUMMARY:Maker Party Month\, Rwanda
+DESCRIPTION:An opportunity to teach Rwanda the web and Webmaking tools.
+URL:https://reps.mozilla.org/e/maker-party-month-rwanda/
+SEQUENCE:9
+X-COORDINATES-LAT:-1.95247044037
+X-COORDINATES-LON:30.0577812188
+X-COUNTRY-CODE:rw
+END:VEVENT
+
+END:VCALENDAR

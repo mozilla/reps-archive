@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8788
+CLASS:PUBLIC
+DTSTAMP:20200407T170215Z
+DTSTART:20190921T103000Z
+DTEND:20190922T103000Z
+LOCATION:IIIT Hyderabad\, Gachibowli\, Hyderabad\, Telangana 500032\, Hyde
+ rabad\, India
+SUMMARY:Internet Health Hackathon
+DESCRIPTION:Hackathon based on &#39;Internet Health Report 2019&#39; by Mozilla. I
+ nvolves discussions\, actions plans.
+URL:https://reps.mozilla.org/e/interhealth-hackathon/
+SEQUENCE:5
+X-COORDINATES-LAT:17.4032937
+X-COORDINATES-LON:78.3546419
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

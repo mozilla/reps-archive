@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8952
+CLASS:PUBLIC
+DTSTAMP:20200407T170247Z
+DTSTART:20191203T020000Z
+DTEND:20191223T015500Z
+LOCATION:Online/Virtually - US - Canada - Brazil\, US - Canada - Brazil\, 
+ Canada
+SUMMARY:Respond Campaign - US\, Canada\, and Brazil
+DESCRIPTION:Mozilla is launching major updates to its new Android web brow
+ ser Firefox Preview. We need your help to support all the enthusiastic new
+  users. Our primary focus will be to reply to users using the Respond tool
+  and assisting users on SUMO (SUpport.MOzilla.org) and on Twitter. This ev
+ ent will be a virtual meetup and is limited to contributors in the United 
+ States\, Canada\, and Brazil regions. More information below.
+URL:https://reps.mozilla.org/e/respond-campaign-us-canada-and-brazil/
+SEQUENCE:4
+X-COORDINATES-LAT:20.8683910186
+X-COORDINATES-LON:-45.3164041042
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

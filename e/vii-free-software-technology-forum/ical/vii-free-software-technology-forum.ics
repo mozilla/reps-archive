@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4188
+CLASS:PUBLIC
+DTSTAMP:20200407T183704Z
+DTSTART:20150916T120000Z
+DTEND:20150919T010000Z
+LOCATION:Rua XV de Novembro\, 1299 - Centro\, Curitiba - PR\, 80060-000\, 
+ Curitiba\, Brazil
+SUMMARY:VII Fórum de Tecnologia em Software Livre
+DESCRIPTION:Free Software Technology Forum (FTSL) is an annual event spons
+ ored by the Federal Data Processing Service (SERPRO). Considered the large
+ st and most important of Curitiba Free Software event and Region aims the 
+ dissemination of new technologies based on free software\, as well as the 
+ exchange of experiences with communities\, universities and public and pri
+ vate companies\, through lectures\, panels / roundtables and workshops / s
+ hort courses.
+URL:https://reps.mozilla.org/e/vii-free-software-technology-forum/
+SEQUENCE:8
+X-COORDINATES-LAT:-25.4307308941
+X-COORDINATES-LON:-49.2718391411
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

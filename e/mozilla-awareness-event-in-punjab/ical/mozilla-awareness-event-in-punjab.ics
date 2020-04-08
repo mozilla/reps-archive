@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3301
+CLASS:PUBLIC
+DTSTAMP:20200407T174820Z
+DTSTART:20150124T043000Z
+DTEND:20150124T123000Z
+LOCATION:TBD\, Punjab\, India
+SUMMARY:Mozilla Awareness Event in Punjab
+DESCRIPTION:To create Awareness Event in Punjab about Mozilla and its loca
+ lized product of Punjabi
+URL:https://reps.mozilla.org/e/mozilla-awareness-event-in-punjab/
+SEQUENCE:2
+X-COORDINATES-LAT:18.312810844
+X-COORDINATES-LON:73.9160156147
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

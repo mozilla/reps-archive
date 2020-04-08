@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5204
+CLASS:PUBLIC
+DTSTAMP:20200407T174238Z
+DTSTART:20160409T140000Z
+DTEND:20160410T140000Z
+LOCATION:Porfirio Díaz 205-A\, Col. Miguel Alemán\,  Oaxaca\, Oax. C.P. 
+ 68120\, Oaxaca de Juarez\, Mexico
+SUMMARY:L10n:Meetings/2016 Oaxaca hackathon
+DESCRIPTION:Localizers for the languages of the México will be meeting to
+ gether to localize projects together\, meet with localization drivers\, an
+ d discuss the use of Firefox and other Mozilla projects in their local lan
+ guages. At this hackathon\, active Mozillians working on l10n will receive
+  training on the latest projects within those functional areas plus commun
+ ity growth within both l10n.
+URL:https://reps.mozilla.org/e/l10n-meetings-2016-oaxaca-hackathon/
+SEQUENCE:1
+X-COORDINATES-LAT:17.0487361713
+X-COORDINATES-LON:-96.7214155215
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

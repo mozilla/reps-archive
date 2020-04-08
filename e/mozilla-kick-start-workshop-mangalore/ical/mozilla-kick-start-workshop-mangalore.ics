@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5723
+CLASS:PUBLIC
+DTSTAMP:20200407T174146Z
+DTSTART:20160924T043000Z
+DTEND:20160925T103000Z
+LOCATION:Mangalore\, Mangalore\, India
+SUMMARY:Mozilla Kick start workshop\, Mangalore
+DESCRIPTION:A workshop for college-level students at Mangalore regarding O
+ pen Web and contributing to Mozilla. The main goal of this event is to cat
+ er to students near Mangalore region and give them some exposure about ope
+ n source contributions and Mozilla&#39;s initiatives. \n\nThe two outcomes for
+  this event are to help build a sustained Mozilla community presence at Ma
+ ngalore and activate contributions across two major Mozilla pathways - IoT
+  and Web dev.
+URL:https://reps.mozilla.org/e/mozilla-kick-start-workshop-mangalore/
+SEQUENCE:15
+X-COORDINATES-LAT:12.9214894096
+X-COORDINATES-LON:74.842396
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

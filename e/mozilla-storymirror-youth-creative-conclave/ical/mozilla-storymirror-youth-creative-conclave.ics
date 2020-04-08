@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5770
+CLASS:PUBLIC
+DTSTAMP:20200407T170243Z
+DTSTART:20161005T043000Z
+DTEND:20161008T113000Z
+LOCATION:SRCC \, Delhi\, New Delhi\, India
+SUMMARY:Mozilla @StoryMirror Youth Creative Conclave
+DESCRIPTION:StoryMirror is an organization with a vision to build a networ
+ k for all the creative people in the world.\n\nThey are planning to penetr
+ ate the youth and help them shape up their talents. Hence they are organiz
+ ing a very unique artistic conclave to be held in two colleges of Delhi Un
+ iversity for 4 days consecutively. Our Goal is to organise multiple worksh
+ ops and also keep a stall at the event so that we achieve the goals that w
+ e have drafted and planned.
+URL:https://reps.mozilla.org/e/mozilla-storymirror-youth-creative-conclave
+ /
+SEQUENCE:5
+X-COORDINATES-LAT:28.6255144488
+X-COORDINATES-LON:77.2043609619
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

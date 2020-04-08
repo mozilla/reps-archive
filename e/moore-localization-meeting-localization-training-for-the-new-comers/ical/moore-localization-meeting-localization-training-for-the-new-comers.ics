@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4989
+CLASS:PUBLIC
+DTSTAMP:20200407T180124Z
+DTSTART:20160104T083000Z
+DTEND:20160104T113000Z
+LOCATION:Institut Burkinabè des arts et métier\, Ouagadougou\, Burkina F
+ aso
+SUMMARY:Mooré localization meeting : Localization training for the new co
+ mers
+DESCRIPTION:The Mooré langage localization team of the Burkina Faso commu
+ nity have planed a meeting to train news members to the technics of locali
+ zation.
+URL:https://reps.mozilla.org/e/moore-localization-meeting-localization-tra
+ ining-for-the-new-comers/
+SEQUENCE:2
+X-COORDINATES-LAT:12.3989554113
+X-COORDINATES-LON:-1.50614118567
+X-COUNTRY-CODE:bf
+END:VEVENT
+
+END:VCALENDAR

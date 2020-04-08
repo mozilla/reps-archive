@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3897
+CLASS:PUBLIC
+DTSTAMP:20200407T175302Z
+DTSTART:20150716T123000Z
+DTEND:20150716T223000Z
+LOCATION:UNEFA LARA\, Barquisimeto\, Venezuela
+SUMMARY:Dia Mozilla en la UNEFA
+DESCRIPTION:The main objective of Mozilla&#39;s Day is to bring together contr
+ ibutors and users to deliver a series of lectures on the Mozilla projects 
+ and general topics of the web\, Just as an activity to develop tools webma
+ ker.
+URL:https://reps.mozilla.org/e/dia-mozilla-en-la-unefa/
+SEQUENCE:7
+X-COORDINATES-LAT:10.0648644518
+X-COORDINATES-LON:-69.3447532655
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

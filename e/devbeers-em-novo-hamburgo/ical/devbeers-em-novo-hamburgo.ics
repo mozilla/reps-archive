@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6146
+CLASS:PUBLIC
+DTSTAMP:20200407T182111Z
+DTSTART:20161216T210000Z
+DTEND:20161217T000000Z
+LOCATION:O Lorde Pub\, Novo Hamburgo\, Brazil
+SUMMARY:DevBeers em Novo Hamburgo
+DESCRIPTION:DevBeers is a developers meeting created to exchange knowledge
+  about technology\, tendencies and pratices while drinking beer.
+URL:https://reps.mozilla.org/e/devbeers-em-novo-hamburgo/
+SEQUENCE:1
+X-COORDINATES-LAT:-29.6730938149
+X-COORDINATES-LON:-51.1078578886
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

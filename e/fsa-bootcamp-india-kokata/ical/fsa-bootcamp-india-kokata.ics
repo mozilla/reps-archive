@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3792
+CLASS:PUBLIC
+DTSTAMP:20200407T175605Z
+DTSTART:20150712T043000Z
+DTEND:20150712T113000Z
+LOCATION:Meetup space\, Kolkata\, India
+SUMMARY:FSA Bootcamp  | Kolkata
+DESCRIPTION:we are planning a bootcamp for FSA&#39;s in Kolkata at\nthe commun
+ ity space. This will be more of a training camp to understandabout the pro
+ gram\, club lead training\, activities to get involved incontribution area
+ s. This will also help us structure better bootcamps.
+URL:https://reps.mozilla.org/e/fsa-bootcamp-india-kokata/
+SEQUENCE:9
+X-COORDINATES-LAT:22.5638427677
+X-COORDINATES-LON:88.3415222727
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

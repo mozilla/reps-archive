@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3993
+CLASS:PUBLIC
+DTSTAMP:20200407T175312Z
+DTSTART:20150611T000000Z
+DTEND:20150611T010000Z
+LOCATION:Kabir Nagar\,jalandhar\, Jalandhar\, India
+SUMMARY:Grow Mozilla\,Grow Punjab : Teach the web
+DESCRIPTION:After an amazing Maker Party at Jalandhar and an initiative ta
+ ken to Grow Mozilla Community in Punjab\, here is another amazing event or
+ ganized while keeping in mind the initiative we took: Grow Mozilla Punjab 
+ and our 3 golden words: \n Quality\, Productivity and Awesomeness.\n\nThis
+  event will mark the starting of MozJalandhar Summer Campaign on #Teachthe
+ Web and #FoxYeah. \n.
+URL:https://reps.mozilla.org/e/grow-mozilla-grow-punjab-teach-the-web/
+SEQUENCE:1
+X-COORDINATES-LAT:31.3243856545
+X-COORDINATES-LON:75.5819965
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

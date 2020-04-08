@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3561
+CLASS:PUBLIC
+DTSTAMP:20200407T174534Z
+DTSTART:20150626T020000Z
+DTEND:20150627T100000Z
+LOCATION:Hong Kong Science Park\, Shatin\, Hong Kong\, Hong Kong
+SUMMARY:Hong Kong Open Source Conference 2015
+DESCRIPTION:Annual International Open Source Conference in Hong Kong. \n\n
+ MozTW and Mozilla Hong Kong members are going to developing Mozilla presen
+ t in HKOSC\, with related sessions/workshops and a Mozilla demonstration b
+ ooth. \n\nWe will encouraging and recruiting contributors and students in 
+ Hong Kong and China to joining Mozilla community\, and grow Mozillians in 
+ Greater China region.
+URL:https://reps.mozilla.org/e/hong-kong-open-source-conference-2015/
+SEQUENCE:7
+X-COORDINATES-LAT:22.4257253313
+X-COORDINATES-LON:114.211880923
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

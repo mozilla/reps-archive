@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5752
+CLASS:PUBLIC
+DTSTAMP:20200407T182126Z
+DTSTART:20161022T140000Z
+DTEND:20161022T230000Z
+LOCATION:TelmexHub\, Mexico City\, Mexico
+SUMMARY:WOMOZ LATAM EN MÉXICO
+DESCRIPTION:Event promoted by Mozillian women in Latin America. Increase t
+ he percentage of women in tech events\, whom rather than just attend the e
+ vent will be empowered with the tools and begin to develop software and ha
+ rdware related to a more open web and available to everyone\, with partici
+ pation open to the public\, but mainly to tech communities within the resp
+ ective countries. Also seeks the inclusion of women on the Mozilla communi
+ ty with a positive and active participation towards it.
+URL:https://reps.mozilla.org/e/womoz-latam-en-mexico/
+SEQUENCE:2
+X-COORDINATES-LAT:19.4302919543
+X-COORDINATES-LON:-99.1367940904
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9098
+CLASS:PUBLIC
+DTSTAMP:20200407T174126Z
+DTSTART:20200229T043000Z
+DTEND:20200229T083000Z
+LOCATION:The Third Space\, Rajkot\, Rajkot\, India
+SUMMARY:The Hackers Meetup Rajkot
+DESCRIPTION:This event is fully focused on Cyber Security research of Inde
+ pendent security researchers. who finds vulnerability\, gain knowledge and
+  try to do something out of the box with his enthusiasm\, hard work and lo
+ ve for security.
+URL:https://reps.mozilla.org/e/the-hackers-meetup-rajkot/
+SEQUENCE:0
+X-COORDINATES-LAT:22.3027489585
+X-COORDINATES-LON:70.8013772947
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

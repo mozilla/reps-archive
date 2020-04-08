@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2695
+CLASS:PUBLIC
+DTSTAMP:20200407T173625Z
+DTSTART:20140913T010000Z
+DTEND:20140913T090000Z
+LOCATION:Auditorium STIKOM Surabaya\, Surabaya\, Indonesia
+SUMMARY:Webmaker Training Day Surabaya 2014
+DESCRIPTION:This event will empower Reps\, FSA\, local teachers and lectur
+ ers in around Surabaya to grow webmaking communities in their neighborhood
+ . It will help them to mentor other makers and educators so that they can 
+ run their own webmaking events.
+URL:https://reps.mozilla.org/e/webmaker-training-day-surabaya-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.37352987945
+X-COORDINATES-LON:124.335923195
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8974
+CLASS:PUBLIC
+DTSTAMP:20200407T170231Z
+DTSTART:20200111T033000Z
+DTEND:20200111T113000Z
+LOCATION:TBD\, Kochi\, India
+SUMMARY:Kerala Rustacean Meetup
+DESCRIPTION:Agenda\n• Introduction to rust-lang\n• Building memory saf
+ e program\, a workshop on rust-lang\n• Launching Kerala Rustacean commun
+ ity and Rusty Jan (Month long virtual coding sessions and competitions)
+URL:https://reps.mozilla.org/e/kerala-rustacean-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:9.96321491907
+X-COORDINATES-LON:76.3937987387
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

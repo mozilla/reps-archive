@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8267
+CLASS:PUBLIC
+DTSTAMP:20200407T174133Z
+DTSTART:20181215T010000Z
+DTEND:20181215T040000Z
+LOCATION:Enova\, Córdoba 56\, Roma Norte\, 06700 Cuauhtémoc\, Ciudad de 
+ México\, Mexico
+SUMMARY:Posada de Comunidades
+DESCRIPTION:It is a night where all the communities that are located in Me
+ xico City meet\, within the technical area\, where they present\, future p
+ lans\, new technologies and presentation of small communities.
+URL:https://reps.mozilla.org/e/posada-de-comunidades/
+SEQUENCE:3
+X-COORDINATES-LAT:19.3664980762
+X-COORDINATES-LON:-99.1437415
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

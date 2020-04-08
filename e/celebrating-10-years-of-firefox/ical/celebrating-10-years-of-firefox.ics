@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3107
+CLASS:PUBLIC
+DTSTAMP:20200407T182329Z
+DTSTART:20141117T180000Z
+DTEND:20141117T210000Z
+LOCATION:Koncept 37\, Skopje\, Macedonia\, F.Y.R. of
+SUMMARY:Celebrating 10 years of Firefox
+DESCRIPTION:A gathering of the community to celebrate 10 years of Firefox.
+  Sort of a mozcoffee event. We may have cake too.
+URL:https://reps.mozilla.org/e/celebrating-10-years-of-firefox/
+SEQUENCE:3
+X-COORDINATES-LAT:41.9996381346
+X-COORDINATES-LON:21.41280055
+X-COUNTRY-CODE:mk
+END:VEVENT
+
+END:VCALENDAR

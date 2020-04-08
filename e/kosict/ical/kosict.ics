@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4656
+CLASS:PUBLIC
+DTSTAMP:20200407T165853Z
+DTSTART:20151029T070000Z
+DTEND:20151030T160000Z
+LOCATION:42.603949592367584\,21.131139993667603\, Pristina\, Albania
+SUMMARY:KosICT15
+DESCRIPTION:KosICT is a Regional Conference in Information and Communicati
+ ons Technology\, which each year intends to cover the global trending topi
+ cs of ICT by gathering international\, regional and local speakers.This ye
+ ar’s KosICT doesn’t fall short of the precedent the three past edition
+ s have set for it. The topics are interesting and relevant in the local an
+ d global market. Topics such as The Internet of Things and Virtual Reality
+  will be presented among other topics that relate to the future of IT.
+URL:https://reps.mozilla.org/e/kosict/
+SEQUENCE:2
+X-COORDINATES-LAT:42.6214968282
+X-COORDINATES-LON:20.9923095256
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

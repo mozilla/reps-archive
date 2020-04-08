@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@403
+CLASS:PUBLIC
+DTSTAMP:20200407T175005Z
+DTSTART:20120707T010000Z
+DTEND:20120707T090000Z
+LOCATION:Allana Institute of Mgmt Sciences \,Azam Campus\, Pune\, India
+SUMMARY:mozfestpune
+DESCRIPTION:Summer Code Party for spreading web literacy.\n\nUse of Awesom
+ e webmaker tools like Thimble\, Popcorn and X-Ray Goggles.\n\n1.Campus hav
+ ing 500 Computer systems\,so we will create a Firefox install team to inst
+ all Firefox on every machine in campus.\n\n2.AIMS campus having more than 
+ 450 Its students from computer science and application streams.\n3.Finding
+  URDU language contributors for localization. 4.Finding Student Reps from 
+ the campus.
+URL:https://reps.mozilla.org/e/mozfestpune/
+SEQUENCE:1
+X-COORDINATES-LAT:18.505086914
+X-COORDINATES-LON:73.875246048
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

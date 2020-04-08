@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1455
+CLASS:PUBLIC
+DTSTAMP:20200407T175826Z
+DTSTART:20131110T033000Z
+DTEND:20131110T113000Z
+LOCATION:Hotel Hindustan International\,\, Kolkata\, India
+SUMMARY:Firefox OS App Day in a Box\, Kolkata
+DESCRIPTION:The event will comprise of showcasing Mozilla tools especially
+  Firefox OS\, Firefox OS Simulator and developing apps for Firefox OS. Par
+ ticipants will be encouraged to come up with prototypes of their app ideas
+  or finish any app they were working on.
+URL:https://reps.mozilla.org/e/firefox-os-appdays-kolkata/
+SEQUENCE:22
+X-COORDINATES-LAT:22.541887843
+X-COORDINATES-LON:88.3475117685
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

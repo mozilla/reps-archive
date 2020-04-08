@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4865
+CLASS:PUBLIC
+DTSTAMP:20200407T182338Z
+DTSTART:20151203T150000Z
+DTEND:20151203T170000Z
+LOCATION:Online (IRC Moznet server\, #learn_web_and_software_development I
+ RC channel\, Covington\, United States
+SUMMARY:Another Web Development Python Event
+DESCRIPTION:Second event about how Python pertains to Web Development. Thi
+ s event will go into further detail about how to use Python in Web Develop
+ ment.
+URL:https://reps.mozilla.org/e/another-web-development-python-event/
+SEQUENCE:1
+X-COORDINATES-LAT:37.7912467447
+X-COORDINATES-LON:-80.0205230992
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

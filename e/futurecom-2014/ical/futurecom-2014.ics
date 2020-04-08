@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2926
+CLASS:PUBLIC
+DTSTAMP:20200407T180616Z
+DTSTART:20141014T123000Z
+DTEND:20141016T150000Z
+LOCATION:Transamerica Expo\, Sao Paulo\, Brazil
+SUMMARY:Futurecom 2014
+DESCRIPTION:The largest and most qualified event of ICT in Latin America. 
+ The purpose of Futurecom is to gather Market Forces and offer to Companies
+  and Professional participants a stimulating environment for Business Deve
+ lopment and Networking.
+URL:https://reps.mozilla.org/e/futurecom-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.648063109
+X-COORDINATES-LON:-46.7185714246
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

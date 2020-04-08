@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3315
+CLASS:PUBLIC
+DTSTAMP:20200407T182502Z
+DTSTART:20150220T010000Z
+DTEND:20150220T023000Z
+LOCATION:Startup Dojo (379 N University Ave. Provo\, UT)\, Provo\, United 
+ States
+SUMMARY:Mozilla Utah - Girl Develop It WebMaker Party
+DESCRIPTION:The Mozilla - GDI Webmaker Party is part of the celebration pu
+ t on by the Utah Mozillians to celebrate the two year anniversary of Mozil
+ la Utah.\n\nWe are teaming up with GDI Salt Lake City to share with their 
+ members the awesome resources available through Mozilla to teach the web. 
+ We will go over three of the tools offered through Webmaker that we love a
+ nd think are awesome!\n\n• X-ray Goggles \n\n• Thimble\n\n• FirefoxO
+ S Apps via AppMaker\n\nHope to see you there!
+URL:https://reps.mozilla.org/e/mozilla-utah-girl-develop-it-webmaker-party
+ /
+SEQUENCE:3
+X-COORDINATES-LAT:40.2387622069
+X-COORDINATES-LON:-111.658407301
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@767
+CLASS:PUBLIC
+DTSTAMP:20200407T183341Z
+DTSTART:20130428T060000Z
+DTEND:20130428T160000Z
+LOCATION:Budapest\, Millenáris B Épület (Nagycsarnok)\, Budapest\, Hung
+ ary
+SUMMARY:Veletech 2013
+DESCRIPTION:Companies: Alcatel\, BlackBerry\, Cooler Master\, First Comput
+ er\, G-Form\, GoPro\, Hangbarlang\, HTC\, Huawei\, LG\, Media-Tech\, Micro
+ soft\, Mozilla (Firefox OS)\, MSI\, Nokia\, Olympus\, Samsung\, Sony\, Spe
+ edshop\, TDK\, WayteQ\nSupporters: ASUS\, Telenor\nPresentations\, app sho
+ wcases\, ITsec\, focusing on mobile. One of the largest mobile conference 
+ for end users.
+URL:https://reps.mozilla.org/e/veletech-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:47.5121862805
+X-COORDINATES-LON:19.0241575241
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

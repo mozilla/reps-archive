@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6156
+CLASS:PUBLIC
+DTSTAMP:20200407T174124Z
+DTSTART:20170304T033000Z
+DTEND:20170305T103000Z
+LOCATION:JNTU Kakinada\, Kakinada\, India
+SUMMARY:Rust Hackathon [ JNTU -K ]
+DESCRIPTION:This event is a Hackathon being held at JNTU-K University as p
+ art of their Technical Fest of 2017. This Hackathon is mainly focused on R
+ ust language\, its uses and how can it be used as a contribution path for 
+ Mozilla.
+URL:https://reps.mozilla.org/e/iot-makeathon-jntu/
+SEQUENCE:9
+X-COORDINATES-LAT:16.959380035
+X-COORDINATES-LON:82.232607007
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

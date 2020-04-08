@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7278
+CLASS:PUBLIC
+DTSTAMP:20200407T165247Z
+DTSTART:20180119T043000Z
+DTEND:20180119T073000Z
+LOCATION:Radharaman Institute Of Technology &amp; Science Bhopal\, Bhopal\, In
+ dia
+SUMMARY:Experiencing Virtual World with WebVR
+DESCRIPTION:This event will be organized under the Activate Mozilla campai
+ gn that supports the current organizational goals and would encourage mobi
+ lization of the community by predominantly focusing on WebVR development u
+ sing A-Frame framework. Event to build WebVR community in MozMPCG and lear
+ n A-Frame framework.
+URL:https://reps.mozilla.org/e/experiencing-virtual-world-with-webvr/
+SEQUENCE:8
+X-COORDINATES-LAT:23.2507674361
+X-COORDINATES-LON:77.4016106129
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

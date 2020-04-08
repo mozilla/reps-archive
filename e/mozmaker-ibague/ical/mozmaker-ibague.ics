@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4316
+CLASS:PUBLIC
+DTSTAMP:20200407T174259Z
+DTSTART:20150915T180000Z
+DTEND:20150916T000000Z
+LOCATION:Sena # 45\, Ibagué\, Colombia
+SUMMARY:MozMaker - Ibagué
+DESCRIPTION:In celebration of the Maker Party movement\, we are organizing
+  a Maker Party in Armenia\, where the attendees can have a learn about Web
+ maker project. We will focus on the various tools of Webmaker and creating
+  teaching kits. At the end of the training session attendees will be more 
+ confident in creating their own maker parties and teach the others. Teache
+ rs will learn how to use Webmaker tools in their classes and how to make i
+ t a great resource with different students.
+URL:https://reps.mozilla.org/e/mozmaker-ibague/
+SEQUENCE:0
+X-COORDINATES-LAT:4.43557720106
+X-COORDINATES-LON:-75.2035503389
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

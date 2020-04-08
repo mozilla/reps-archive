@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1148
+CLASS:PUBLIC
+DTSTAMP:20200407T175540Z
+DTSTART:20130822T120000Z
+DTEND:20130822T140000Z
+LOCATION:Federal University of Rio de janeiro\, Rio de janeiro\, Brazil
+SUMMARY:Keynote:    Mozilla: Projects for the Open Web
+DESCRIPTION:Talk to the IT studentes about the Mozilla&#39;s projects and how 
+ to join us to support the Mozilla&#39;s mission.
+URL:https://reps.mozilla.org/e/keynote-mozilla-projects-for-the-open-web/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.8405054952
+X-COORDINATES-LON:-43.2365441322
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3340
+CLASS:PUBLIC
+DTSTAMP:20200407T170250Z
+DTSTART:20150402T040000Z
+DTEND:20150404T120000Z
+LOCATION:Stamford University Bangladesh\, 744\, Satmosjid Road\, Dhanmondi
+ \, Dhaka-1209\, Bangladesh\, Tejgaon\, Bangladesh
+SUMMARY:Mozilla Awareness Booth @ Stamford University
+DESCRIPTION:Stamford University Firefox Club has plans for this Spring &#39;14
+  semester\, which starts with the Mozilla Awareness Booth. The booth will 
+ serve as a prelude to coming events such as Firefox OS Apps Training Day a
+ nd Mozilla Contributor Mentoring day. In the awareness booth\, We will be 
+ talking to the interested people about Mozilla and it&#39;s philosophy\, Firef
+ ox Student Ambassadors and how to get connected to Mozilla Bangladesh comm
+ unity
+URL:https://reps.mozilla.org/e/mozilla-awareness-booth-stamford-university
+ /
+SEQUENCE:8
+X-COORDINATES-LAT:23.7490900522
+X-COORDINATES-LON:90.3695368758
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

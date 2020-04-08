@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9111
+CLASS:PUBLIC
+DTSTAMP:20200407T170214Z
+DTSTART:20200223T093000Z
+DTEND:20200223T133000Z
+LOCATION:Mum&#39;s Cafe\, 8\, Anand Nagar Society\, Opposite Mahadev Temple La
+ ne Jetalpur\, Urmi Cross Rd\, Alkapuri\, Vadodara\, Gujarat 390007\, Vadod
+ ara\, India
+SUMMARY:Coffee with Council
+DESCRIPTION:Mozilla Gujarat is back with one more meetup where Mozillians 
+ will be meeting to plan a contribution roadmap for 2020. This meetup is ve
+ ry special because we&#39;ll be having a very special guest directly from Mozi
+ lla Reps Council: Md Shahbaz Alam who&#39;ll be sharing stories from Mozilla A
+ ll Hands. Get yourself ready to meet your MozFam!
+URL:https://reps.mozilla.org/e/coffee-with-council/
+SEQUENCE:2
+X-COORDINATES-LAT:22.3020590836
+X-COORDINATES-LON:73.172992944
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

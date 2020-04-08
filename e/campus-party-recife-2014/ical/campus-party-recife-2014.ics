@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2481
+CLASS:PUBLIC
+DTSTAMP:20200407T183610Z
+DTSTART:20140723T110000Z
+DTEND:20140727T210000Z
+LOCATION:Centro de Convenções de Pernambuco (Recife/PE)\, Recife\, Brazi
+ l
+SUMMARY:Campus Party Recife 2014
+DESCRIPTION:Campus Party Recife is the local version of Campus Party Brasi
+ l that happens in the northern region of Brazil. Its smaller than its nati
+ on wide sibling but it still attracts thousands of attendees.\n\nAs other 
+ Campus Party events\, its segmented into multiple thematic tracks focusing
+  on development\, free open source software\, robotics\, gaming\, social n
+ etworks\, astronomy and more.
+URL:https://reps.mozilla.org/e/campus-party-recife-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:-8.06285533082
+X-COORDINATES-LON:-35.1679685712
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

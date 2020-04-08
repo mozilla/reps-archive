@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3179
+CLASS:PUBLIC
+DTSTAMP:20200407T181223Z
+DTSTART:20141218T113000Z
+DTEND:20141220T123000Z
+LOCATION:Hycinth hotel Trivananthapuram\, Thiruvananthapuram\, India
+SUMMARY:Swatantra 2014
+DESCRIPTION:Swatantra  is a Free Software event\, “Freedom First!” org
+ anized by Government to highlight Kerala&#39;s achievements in the domain of F
+ ree Software\, as well as to bring together the community to discuss prior
+ ities and action items.
+URL:https://reps.mozilla.org/e/swatantra-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:8.50018821828
+X-COORDINATES-LON:76.9337654044
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

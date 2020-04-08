@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@912
+CLASS:PUBLIC
+DTSTAMP:20200407T182913Z
+DTSTART:20130520T143000Z
+DTEND:20130520T153000Z
+LOCATION:#wfs-inida\,\, server http://webchat.freenode.net\, India
+SUMMARY:Localization Hackathon@ WFS India
+DESCRIPTION:The wfs-india and cultural freedom day is going to host Locali
+ zation Hackathon on 20th may\, 2013 on #wfs-india channel on http://webcha
+ t.freenode.net server for the promotion of women in free and open source w
+ orld.\n\nAnybody who wants to get a quick start in localization and having
+  no programming experience can attend it. After that start contributing to
+  open source and make your self feel proud.
+URL:https://reps.mozilla.org/e/localization-hackathon-wfs-india/
+SEQUENCE:2
+X-COORDINATES-LAT:22.5937260639
+X-COORDINATES-LON:82.96875
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1784
+CLASS:PUBLIC
+DTSTAMP:20200407T174236Z
+DTSTART:20140215T080000Z
+DTEND:20140216T170000Z
+LOCATION:Mozilla Paris Space\, Paris\, France
+SUMMARY:Mozilla Reps Leadership Meetup 2014
+DESCRIPTION:The Mozilla Reps Leadership are the Council and Module Peers. 
+ The Council provides the general vision of the program and oversees day-to
+ -day operations globally. Currently\, 7 volunteers and 2 paid staff sit on
+  the council. The Peers oversee the Council and provide input and vision o
+ n the program in general.
+URL:https://reps.mozilla.org/e/mozilla-reps-leadership-meetup-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:48.8718826704
+X-COORDINATES-LON:2.34083175572
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

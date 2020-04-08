@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8998
+CLASS:PUBLIC
+DTSTAMP:20200407T180201Z
+DTSTART:20191226T130000Z
+DTEND:20200107T120000Z
+LOCATION:Optimus Co working space\, Mansurah\, Egypt
+SUMMARY:Graphic And UI Design Training - Round 5
+DESCRIPTION:Target: Beginners \n\nContent: \n1-Introduction to Graphic Des
+ ign \n2-Introduction to Brand Identity Design \n3-Introduction to Art Dire
+ ction \n4-Introduction to User Interface Design (UI) for web \n5-Introduct
+ ion to User Interface Design (UI) for mobile
+URL:https://reps.mozilla.org/e/graphic-and-ui-design-training-round-5/
+SEQUENCE:0
+X-COORDINATES-LAT:31.0460554864
+X-COORDINATES-LON:31.3601079304
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

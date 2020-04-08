@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@685
+CLASS:PUBLIC
+DTSTAMP:20200407T182625Z
+DTSTART:20130416T070000Z
+DTEND:20130416T090000Z
+LOCATION:NaiLab\, Nairobi\, Kenya
+SUMMARY:Nairobi MozCoffee
+DESCRIPTION:This will be the second meetup for Mozilla Reps in Nairobi inc
+ luding 2 volunteers from the coast.It will be a meeting to review our prog
+ ress throughout the year and the success of the events held so far. Also a
+  briefing on what is going on with Firefox OS\, Firefox Flix and Webmaker.
+  We will also plan on any upcoming events to be held.
+URL:https://reps.mozilla.org/e/nairobi-mozcoffee/
+SEQUENCE:0
+X-COORDINATES-LAT:-1.29885038002
+X-COORDINATES-LON:36.7916250229
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

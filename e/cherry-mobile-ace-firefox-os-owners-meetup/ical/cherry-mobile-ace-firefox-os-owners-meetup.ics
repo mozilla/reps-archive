@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3209
+CLASS:PUBLIC
+DTSTAMP:20200407T175932Z
+DTSTART:20150109T103000Z
+DTEND:20150109T123000Z
+LOCATION:Mozilla Community Space Manila (MozSpaceMNL)\, Makati City\, Phil
+ ippines
+SUMMARY:Cherry Mobile Ace (Firefox OS) Users Meetup
+DESCRIPTION:Gathering of Cherry Mobile ACE (Powered by Firefox OS) owners 
+ in the Philippines.
+URL:https://reps.mozilla.org/e/cherry-mobile-ace-firefox-os-owners-meetup/
+SEQUENCE:5
+X-COORDINATES-LAT:14.5467352728
+X-COORDINATES-LON:121.015844822
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

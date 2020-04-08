@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2676
+CLASS:PUBLIC
+DTSTAMP:20200407T175024Z
+DTSTART:20140906T043000Z
+DTEND:20140907T133000Z
+LOCATION:Symbiosis Institute of Computer Studies &amp; Research\, Pune\, India
+SUMMARY:MakerParty Pune
+DESCRIPTION:A grand mix of Hive and MakerParty Event formats into a single
+  event to conclude all Maker Party activities in India. Mark Surman\, the 
+ Director of the Mozilla Foundation would also be coming over for this even
+ t.\n\nThis woud be a two day event including a community training session 
+ on the second day to plan Webmaker events in India post Maker Party.
+URL:https://reps.mozilla.org/e/makerparty-pune-1/
+SEQUENCE:11
+X-COORDINATES-LAT:18.5333168834
+X-COORDINATES-LON:73.8336775302
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

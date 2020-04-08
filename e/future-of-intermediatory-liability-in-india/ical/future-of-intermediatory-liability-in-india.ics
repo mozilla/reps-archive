@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9024
+CLASS:PUBLIC
+DTSTAMP:20200407T170233Z
+DTSTART:20200117T113000Z
+DTEND:20200117T143000Z
+LOCATION:India Islamic Cultural Centre\, New Delhi\, India
+SUMMARY:Future of Intermediatory Liability in India
+DESCRIPTION:Future of Intermediatory Liability in India organised by softw
+ are freedom law centre
+URL:https://reps.mozilla.org/e/future-of-intermediatory-liability-in-india
+ /
+SEQUENCE:0
+X-COORDINATES-LAT:34.0611925187
+X-COORDINATES-LON:74.8392105103
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

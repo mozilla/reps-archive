@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2985
+CLASS:PUBLIC
+DTSTAMP:20200407T175236Z
+DTSTART:20141213T090000Z
+DTEND:20141213T170000Z
+LOCATION:O2 Flagship Store\, Hohestr. 65\, Cologne\, Germany\, Cologne\, G
+ ermany
+SUMMARY:Firefox OS Awareness Day Germany
+DESCRIPTION:We will meet and educate people about Firefox OS and its avail
+ ability in Germany.\n\nOur goal is to make people aware of Firefox OS and 
+ its possibilites. We will also demo it in the O2 Flagship Store and show i
+ t to a lot of people who have never seen it before.
+URL:https://reps.mozilla.org/e/firefox-os-awareness-day-germany/
+SEQUENCE:4
+X-COORDINATES-LAT:50.9377654127
+X-COORDINATES-LON:6.95756721427
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

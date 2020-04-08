@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6316
+CLASS:PUBLIC
+DTSTAMP:20200407T174232Z
+DTSTART:20170506T070000Z
+DTEND:20170507T030000Z
+LOCATION:16 Bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Firefox Nightly Workshop in Paris
+DESCRIPTION:The purpose of this Nightly workshop is to provide a general o
+ verview of Nightly and how you can get involved. We will balance some pres
+ entation with some live work\, in order to provide a balanced learning opp
+ ortunity. \n\nThis is an invite only event\, due to space and budget const
+ raints.
+URL:https://reps.mozilla.org/e/firefox-nightly-workshop-in-paris/
+SEQUENCE:3
+X-COORDINATES-LAT:48.8716374446
+X-COORDINATES-LON:2.34086072436
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

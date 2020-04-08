@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6796
+CLASS:PUBLIC
+DTSTAMP:20200407T165147Z
+DTSTART:20170825T110000Z
+DTEND:20170825T220000Z
+LOCATION:Barra Shopping Sul\, Porto Alegre\, Brazil
+SUMMARY:BrazilJS 2017 - Porto Alegre
+DESCRIPTION:BrazilJS is the largest javascript focused conference in the w
+ orld. Mozilla had a booth there and was the adamantium level sponsor of th
+ e event. We had multiple speakers and a lot of interaction.
+URL:https://reps.mozilla.org/e/braziljs-2017-porto-alegre/
+SEQUENCE:2
+X-COORDINATES-LAT:-30.1102856939
+X-COORDINATES-LON:-51.1464844644
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

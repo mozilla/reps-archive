@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1314
+CLASS:PUBLIC
+DTSTAMP:20200407T182522Z
+DTSTART:20131016T230000Z
+DTEND:20131017T020000Z
+LOCATION:2420 Wilkinson Student Center\, BYU Campus\, Provo\, United State
+ s
+SUMMARY:International Firefox Translation/Localization Sprint
+DESCRIPTION:Mozilla Utah will be putting on an international tranlation sp
+ rint for speakers of any language. The primary goal is to complete the es-
+ MX Firefox desktop l10n work. We&#39;ll also focuss on other languages in Utah
+  and have them translate their first strings or support articles. Those fr
+ om Mozilla Utah will be one location and will work with l10n teams who hav
+ e languages represented amongst us on IRC and Skype.
+URL:https://reps.mozilla.org/e/international-firefox-translation-localizat
+ ion-sprint-1/
+SEQUENCE:6
+X-COORDINATES-LAT:40.2488739993
+X-COORDINATES-LON:-111.647572517
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

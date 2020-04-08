@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5224
+CLASS:PUBLIC
+DTSTAMP:20200407T174318Z
+DTSTART:20160311T080000Z
+DTEND:20160311T100000Z
+LOCATION:FENI COMPUTER INSTITUTE\, FENI\, Bangladesh
+SUMMARY:Privacy Talk at FCI
+DESCRIPTION:(Actual date: 10 March 2016) FCI Firefox Club is going to let 
+ freshers know about  privacy.\nIt is going to teach about awareness on web
+  privacy to participation &amp; \nSupport open web of Mozilla mission &amp; vision
+ ..\n\nFacilitator: Samad Talukdar\, Lead of FCI Firefox Club..  \n\nBlog: 
+ https://samadtalukdarfsa.wordpress.com/2016/03/11/privacy-talk-at-fci/
+URL:https://reps.mozilla.org/e/privacy-talk-at-fci/
+SEQUENCE:3
+X-COORDINATES-LAT:23.0098579804
+X-COORDINATES-LON:91.3993513584
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

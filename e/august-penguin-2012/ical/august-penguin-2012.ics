@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9
+CLASS:PUBLIC
+DTSTAMP:20200407T175155Z
+DTSTART:20120803T050000Z
+DTEND:20120803T110000Z
+LOCATION:Haifa Auditorium\, Haifa\, Israel
+SUMMARY:August Penguin 2012
+DESCRIPTION:August Penguin is the annual free/open source software confere
+ nce organized by the community and Hamakor organization. As done in previo
+ us years\, we are going to be there and have a booth\, and expect to be an
+  attraction to the event attendees\, which are mostly loyal to opensource 
+ and the Mozilla spirit and do their best to spread Mozilla on their places
+ .
+URL:https://reps.mozilla.org/e/august-penguin-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:32.803602999
+X-COORDINATES-LON:34.98498559
+X-COUNTRY-CODE:il
+END:VEVENT
+
+END:VCALENDAR

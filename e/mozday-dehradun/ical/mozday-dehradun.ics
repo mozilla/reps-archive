@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1764
+CLASS:PUBLIC
+DTSTAMP:20200407T180226Z
+DTSTART:20140222T043000Z
+DTEND:20140222T093000Z
+LOCATION:Dev Bhoomi Group Of Institutions\, Dehradun\, India
+SUMMARY:MozDay@Dehradun
+DESCRIPTION:Mozilla Mission for  students of Dehradun. Awareness about Loc
+ alization. Awareness about SUMO Localization\,Mozilla codebase . Hand-on s
+ ession on Mozilla Webmaker tools. Demo on FirefoxOS. Awareness about FOSS.
+  How we can contribute in FOSS. Recruiting new FSA. Encouraging WoMoz. Enc
+ ouraging FSA to give presentation.
+URL:https://reps.mozilla.org/e/mozday-dehradun/
+SEQUENCE:6
+X-COORDINATES-LAT:30.1887494135
+X-COORDINATES-LON:75.4341626912
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9144
+CLASS:PUBLIC
+DTSTAMP:20200407T164423Z
+DTSTART:20200410T033000Z
+DTEND:20200411T143000Z
+LOCATION:Jaypee University of Engineering and Technology\, Guna\, India
+SUMMARY:Tachyon&#39;20
+DESCRIPTION:It is the annual technical festival of Jaypee University of en
+ gineering and technology. The two-day extravaganza is filled with numerous
+  workshops and JUET Hacks3.0 which is the third iteration of a 36-hour hac
+ kathon.\n\nAfter 5 successful and enjoyable tech fests\, we are here prese
+ nting our 6th Grand Tech Event Tachyon.\n\nTachyon 2020 has been initiated
+  by the Mozilla Phoenix Club.
+URL:https://reps.mozilla.org/e/tachyon-20/
+SEQUENCE:3
+X-COORDINATES-LAT:24.4348
+X-COORDINATES-LON:77.1606
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

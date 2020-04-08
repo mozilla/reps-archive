@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5990
+CLASS:PUBLIC
+DTSTAMP:20200407T181222Z
+DTSTART:20161030T053000Z
+DTEND:20161030T093000Z
+LOCATION:Meetup Space\, Barasat\, India
+SUMMARY:e10s and Featured Add-ons testing
+DESCRIPTION:This is for participants with an interest or passion for add-o
+ ns content from a user experience perspective. You do not need any particu
+ lar technical skills\, but rather an ability to install add-ons and test t
+ heir features to ensure the content works as expected with multiprocess Fi
+ refox.
+URL:https://reps.mozilla.org/e/e10s-and-featured-add-ons-testing/
+SEQUENCE:4
+X-COORDINATES-LAT:22.6875182237
+X-COORDINATES-LON:88.1906890869
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

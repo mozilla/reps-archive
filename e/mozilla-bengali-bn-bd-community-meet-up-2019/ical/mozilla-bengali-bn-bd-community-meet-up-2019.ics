@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8288
+CLASS:PUBLIC
+DTSTAMP:20200407T171704Z
+DTSTART:20190329T030000Z
+DTEND:20190330T110000Z
+LOCATION:TBD\, TBD\, Bangladesh
+SUMMARY:Mozilla Bengali bn-BD Community Meet-up 2019
+DESCRIPTION:Since localization is a unique contribution area requiring the
+  development of certain skills to be successful\, regular community meetup
+ s help communities to establish best practices among themselves on how to 
+ translate content across their Mozilla localizations. These meetups increa
+ se localization consistency for users\, build relevant skills in volunteer
+ s for their future success\, and provide training for veteran and new loca
+ lizers on changes to the localization process.
+URL:https://reps.mozilla.org/e/mozilla-bengali-bn-bd-community-meet-up-201
+ 9/
+SEQUENCE:4
+X-COORDINATES-LAT:23.7061322733
+X-COORDINATES-LON:90.417265892
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

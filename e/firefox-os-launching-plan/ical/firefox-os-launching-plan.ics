@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@943
+CLASS:PUBLIC
+DTSTAMP:20200407T182532Z
+DTSTART:20130604T140000Z
+DTEND:20130704T230000Z
+LOCATION:HackBo\, Bogotá\, Colombia
+SUMMARY:Firefox OS Launching plan
+DESCRIPTION:Colombia is one of the key countries for Firefox OS. In order 
+ to plan a good launching campaign\, we will work full time  for a month an
+ d an space to work is necesary. \n\nThe plan is to build a campaign and a 
+ brainstorming with some ideas to use in Velezuela\, Brazil\, Spain and Pol
+ and too (if it is possible). \n\nThe space will be used by Fredy Pulido an
+ d Gloria Meneses poermanently\, Dany Javier Bautista and Sandra Guevara oc
+ asionally. Jefferson Duran and Giovanny Góngora will work online.
+URL:https://reps.mozilla.org/e/firefox-os-launching-plan/
+SEQUENCE:3
+X-COORDINATES-LAT:4.6313397475
+X-COORDINATES-LON:-74.065784812
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

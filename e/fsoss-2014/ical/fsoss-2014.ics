@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2842
+CLASS:PUBLIC
+DTSTAMP:20200407T174941Z
+DTSTART:20141023T130000Z
+DTEND:20141024T210000Z
+LOCATION:Seneca College\, Toronto\, N York\, Canada
+SUMMARY:FSOSS 2014
+DESCRIPTION:2014 will see the thirteenth iteration of the Free Software an
+ d Open Source Symposium hosted by Seneca College’s Centre for Developmen
+ t of Open Technology. Hosted at the Seneca@York campus\, the conference is
+  a venue for the discussion of open source issues and the development of o
+ pen source technologies and ideas.
+URL:https://reps.mozilla.org/e/fsoss-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:43.7110265599
+X-COORDINATES-LON:-79.4042816176
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

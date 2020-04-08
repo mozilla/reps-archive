@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1199
+CLASS:PUBLIC
+DTSTAMP:20200407T182415Z
+DTSTART:20130907T120000Z
+DTEND:20130907T150000Z
+LOCATION:Hive Colab\, Kampala\, Uganda
+SUMMARY:MozCafe Kampala
+DESCRIPTION:A meet up for mozillians\,volunteers and all well wishers seek
+ ing to know more about mozilla as well as expanding the community and impr
+ oving knowledge of the open web.
+URL:https://reps.mozilla.org/e/mozcafe-kampala-1/
+SEQUENCE:14
+X-COORDINATES-LAT:0.0
+X-COORDINATES-LON:33.046875
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

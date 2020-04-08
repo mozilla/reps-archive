@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4931
+CLASS:PUBLIC
+DTSTAMP:20200407T174240Z
+DTSTART:20160123T090000Z
+DTEND:20160123T170000Z
+LOCATION:Centre Equinoxe\, La Riche\, France
+SUMMARY:Ubuntu Party La Riche
+DESCRIPTION:Ubuntu Party délocalisée à La Riche\, à côté de Tours.\n
+ \nVenez découvrir les activités des contributeurs Mozilla sur le stand e
+ t au cours de la conférence.
+URL:https://reps.mozilla.org/e/ubuntu-party-la-riche/
+SEQUENCE:4
+X-COORDINATES-LAT:47.3867276036
+X-COORDINATES-LON:0.659711122426
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

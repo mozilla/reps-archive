@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1093
+CLASS:PUBLIC
+DTSTAMP:20200407T175448Z
+DTSTART:20130730T163000Z
+DTEND:20130730T215500Z
+LOCATION:&#34;TBD&#34;\, Warsaw\, Poland
+SUMMARY:Mobile Warsaw
+DESCRIPTION:An event organized once a month for mobile developers. Two spe
+ akers\, ca. 100 attendees\, discussions with beer.
+URL:https://reps.mozilla.org/e/mobile-warsaw/
+SEQUENCE:3
+X-COORDINATES-LAT:52.2353693319
+X-COORDINATES-LON:21.001739502
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

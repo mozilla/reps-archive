@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1818
+CLASS:PUBLIC
+DTSTAMP:20200407T173807Z
+DTSTART:20140329T050000Z
+DTEND:20140329T090000Z
+LOCATION:Palet Express\, Molave Building 2231 Chino Roces Ave.\, Makati\, 
+ Philippines
+SUMMARY:Maker Party WoMoz
+DESCRIPTION:In celebration of the women&#39;s month\, the Mozilla Philippines 
+ Community brings you an all-girl Maker Party where women can learn how the
+ y contribute to the Webmaker project by creating teaching kits\, helping w
+ ith the localization of Webmaker.org and creating other projects on Thimbl
+ e and Popcorn together.
+URL:https://reps.mozilla.org/e/womoz-maker-party/
+SEQUENCE:7
+X-COORDINATES-LAT:14.545670385
+X-COORDINATES-LON:121.01525867
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

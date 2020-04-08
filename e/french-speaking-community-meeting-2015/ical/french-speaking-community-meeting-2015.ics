@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3695
+CLASS:PUBLIC
+DTSTAMP:20200407T174541Z
+DTSTART:20150424T220000Z
+DTEND:20150425T220000Z
+LOCATION:16\, bis boulevard Montmartre\, Paris\, France
+SUMMARY:French-speaking Community Meeting 2015
+DESCRIPTION:A structuring weekend community where everyone can find their 
+ place and choose where to contribute. A bit like a forum assos\, we presen
+ t the different possibilities.
+URL:https://reps.mozilla.org/e/french-speaking-community-meeting-2015/
+SEQUENCE:5
+X-COORDINATES-LAT:48.8721381272
+X-COORDINATES-LON:2.34128692744
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

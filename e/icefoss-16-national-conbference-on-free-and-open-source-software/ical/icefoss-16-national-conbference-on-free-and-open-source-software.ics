@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5755
+CLASS:PUBLIC
+DTSTAMP:20200407T174134Z
+DTSTART:20160819T033000Z
+DTEND:20160820T113000Z
+LOCATION:FISAT\, Angamaly\, India
+SUMMARY:ICEFOSS 16 : National Conference on Free and Open Source Software
+DESCRIPTION:ICE-FOSS (ICEFOSS is a Conference for Enthusiasts of Free and 
+ Open Source Software) is a Free Software Conference organized by Free Soft
+ ware Cell in  Federal Institute of Science And Technology\, Angamaly\, Ker
+ ala\n\nICEFOSS 2016\, scheduled on August 19\,20 2016 includes Workshops a
+ nd Talks covering different aspects of Free Software. ICEFOSS 2016 is the 
+ fifth edition of this conference.
+URL:https://reps.mozilla.org/e/icefoss-16-national-conbference-on-free-and
+ -open-source-software/
+SEQUENCE:4
+X-COORDINATES-LAT:10.1902278986
+X-COORDINATES-LON:76.3942680415
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@98
+CLASS:PUBLIC
+DTSTAMP:20200407T182646Z
+DTSTART:20120915T110000Z
+DTEND:20120915T170000Z
+LOCATION:O3ONE Gallery\, Belgrade\, Serbia
+SUMMARY:Software Freedom Day 2012 - Serbia
+DESCRIPTION:We will gather on September 15th in O3ONE (Ozon) Gallery to ce
+ lebrate SFD. \n\nMozilla Serbia community\, with other FLOSS communites fr
+ om Serbia is organizing an event to introduce people intro FLOSS\, local c
+ ommunties and popular free and opensource software.\n\nAfter that there wi
+ ll be social gathering and debate over snacks and drinks. \n\nMore info ab
+ out event is on URL above..
+URL:https://reps.mozilla.org/e/software-freedom-day-serbia/
+SEQUENCE:1
+X-COORDINATES-LAT:44.8093652728
+X-COORDINATES-LON:20.4641389847
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

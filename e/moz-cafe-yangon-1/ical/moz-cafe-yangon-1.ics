@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@619
+CLASS:PUBLIC
+DTSTAMP:20200407T180237Z
+DTSTART:20130309T103000Z
+DTEND:20130309T123000Z
+LOCATION:InnYa Lake\, Yangon\, Myanmar
+SUMMARY:Moz Cafe [ Yangon ]
+DESCRIPTION:We are gathering again. This time place is a little clumsy cal
+ led &#34; InnYa&#34; Kan Baung !\n\nWe have things to share about #mozilla #firefo
+ x #people #localization #technology #hacks #code #development !\n\nCOME AN
+ D JOIN US.\n\nContact Person is Tin Aung Linn.\nPhone Numer is 09421025141
+URL:https://reps.mozilla.org/e/moz-cafe-yangon-1/
+SEQUENCE:0
+X-COORDINATES-LAT:16.8354327594
+X-COORDINATES-LON:96.1355638504
+X-COUNTRY-CODE:mm
+END:VEVENT
+
+END:VCALENDAR

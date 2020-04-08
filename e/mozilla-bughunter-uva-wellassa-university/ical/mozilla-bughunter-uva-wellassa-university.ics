@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8613
+CLASS:PUBLIC
+DTSTAMP:20200407T174610Z
+DTSTART:20190528T123000Z
+DTEND:20190528T143000Z
+LOCATION:Uva Wellasa University of Sri Lanka\, Badulla\, Sri Lanka
+SUMMARY:Mozilla BugHunter - Uva Wellassa University
+DESCRIPTION:One of the few parallel Beta Testing Bug Hunter Events suppose
+ d to be held in in Sri Lanka.\nThis particular event will be organized by 
+ the mozilla Campus Club of Uva Wellassa University with the support and gu
+ idance of mozilla Sri Lanka Community.
+URL:https://reps.mozilla.org/e/mozilla-bughunter-uva-wellassa-university/
+SEQUENCE:1
+X-COORDINATES-LAT:6.9819585
+X-COORDINATES-LON:81.0740513
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

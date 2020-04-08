@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6942
+CLASS:PUBLIC
+DTSTAMP:20200407T171520Z
+DTSTART:20170916T033000Z
+DTEND:20170916T123000Z
+LOCATION:Hindustain University Community Space\, Chennai\, India
+SUMMARY:MozillaTN SFD Extension Hackathon
+DESCRIPTION:Extension Hackathon event
+URL:https://reps.mozilla.org/e/mozillatn-sfd-extension-hackathon/
+SEQUENCE:5
+X-COORDINATES-LAT:13.0097618736
+X-COORDINATES-LON:80.2108969689
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

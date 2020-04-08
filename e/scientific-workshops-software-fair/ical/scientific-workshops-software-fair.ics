@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2273
+CLASS:PUBLIC
+DTSTAMP:20200407T173813Z
+DTSTART:20140516T120000Z
+DTEND:20140516T203000Z
+LOCATION:ISMI\, Boyeros\, Cuba
+SUMMARY:Scientific Workshops. Software Fair
+DESCRIPTION:It is a National event and Mozilla Cuba Community was invited 
+ to participate at the Software Fair with a stand.\n\nWe will be talking an
+ d teaching about Mozilla\, Firefox\, Firefox OS\, the Open Web\, WebApps\,
+   Development\, Add-ons\, etc.
+URL:https://reps.mozilla.org/e/scientific-workshops-software-fair/
+SEQUENCE:1
+X-COORDINATES-LAT:23.0102645101
+X-COORDINATES-LON:-82.4521508218
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

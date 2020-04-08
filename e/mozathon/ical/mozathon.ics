@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6060
+CLASS:PUBLIC
+DTSTAMP:20200407T174124Z
+DTSTART:20170107T123000Z
+DTEND:20170108T033000Z
+LOCATION:Collab House\, Hyderabad\, Hyderabad\, India
+SUMMARY:Mozathon
+DESCRIPTION:This event is to bring people with different interests at one 
+ place be it Technical(WebVR\,Rust/MDN)/Non-Technical(writing content\,loca
+ lizing content\,social media\,support and Design) we have people from diff
+ erent areas who can up hill the graph of contribution to the next level.Ba
+ sically we want to introduce a new term to this event rather than many bor
+ ing hackathons and we name it as &#34;Mozathon&#34; which enables the hack for the
+  growth of Mozilla India.
+URL:https://reps.mozilla.org/e/mozathon/
+SEQUENCE:4
+X-COORDINATES-LAT:17.3943264932
+X-COORDINATES-LON:78.4980466962
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

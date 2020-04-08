@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3909
+CLASS:PUBLIC
+DTSTAMP:20200407T180526Z
+DTSTART:20150528T103000Z
+DTEND:20150528T113000Z
+LOCATION:Chilli&#39;s Ice Cream Parlour\, Rajshahi\, Bangladesh
+SUMMARY:Rajshahi AppDev&#39;s Meetup
+DESCRIPTION:RUET is one of the very first Universities in Bangladesh that 
+ was lucky enough to get a AppTrain Day. But\, it is sad that We&#39;re losing 
+ Devs from RUET because of the communication lag and some of Devs lag prope
+ r guide line so they loose interest over creating apps. We&#39;ll try to fill 
+ up the gaps we&#39;ve found as much as we can.  \n\nInitially meant for RUET A
+ pp devs\, we thought inviting all of the Devs and beta testers (QA) is a c
+ ooler idea.
+URL:https://reps.mozilla.org/e/rajshahi-appdevs-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:24.3702987446
+X-COORDINATES-LON:88.602678895
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

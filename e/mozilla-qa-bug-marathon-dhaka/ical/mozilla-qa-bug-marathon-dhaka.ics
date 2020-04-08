@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5244
+CLASS:PUBLIC
+DTSTAMP:20200407T180526Z
+DTSTART:20160519T180000Z
+DTEND:20160520T180000Z
+LOCATION:Independent University\, Bangladesh\, Dhanmondi\, Bangladesh
+SUMMARY:Mozilla QA: Bug Marathon\, Dhaka
+DESCRIPTION:Mozilla QA Bangladesh community has been working actively in T
+ estday\, Bug Triage Day &amp; Bug Verification Day from last 1 year. Over last
+  1 year\, we had found many interested people who showed their interest in
+  QA and they stayed back by continuing their contribution in QA.\n\nThis e
+ vent is an opportunity for all the QA contributors in Bangladesh to grow u
+ p their skills\, Learn new things regarding Bug Day contribution and join 
+ our ongoing efforts in Bug Days!
+URL:https://reps.mozilla.org/e/mozilla-qa-bug-marathon-dhaka/
+SEQUENCE:8
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

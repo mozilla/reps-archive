@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3523
+CLASS:PUBLIC
+DTSTAMP:20200407T174257Z
+DTSTART:20150324T120000Z
+DTEND:20150324T160000Z
+LOCATION:JKUAT Mombasa\, Mombasa\, Kenya
+SUMMARY:FSA\, Reps &amp; Mozillians Meet-up
+DESCRIPTION:This will be the first meet-up amongst Mozilla Mombasa Reps\, 
+ Firefox Student Ambassadors from 5 universities and core volunteers of the
+  Mozilla Mombasa team to discuss on the establishment of the respective Cl
+ ubs\, community building and to share ideas on events and activities for t
+ he months of April\, May and June 2015.
+URL:https://reps.mozilla.org/e/fsa-reps-mozillians-meet-up/
+SEQUENCE:3
+X-COORDINATES-LAT:-4.06975460762
+X-COORDINATES-LON:39.67918396
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

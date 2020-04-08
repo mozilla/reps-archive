@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3079
+CLASS:PUBLIC
+DTSTAMP:20200407T175114Z
+DTSTART:20141205T133000Z
+DTEND:20141205T213000Z
+LOCATION:TBD\, Caripito\, Venezuela
+SUMMARY:Firefox OS Workshop UPTNM Ludovico Silva
+DESCRIPTION:In this workshop I will be giving a talk on development\, inte
+ grating new partners for mozilla\, application developers with local conte
+ nt for the platform firefoxos\, disseminate new web technologies for an op
+ en web\, this university still has not been given any event mozilla and th
+ ere are students with good potential
+URL:https://reps.mozilla.org/e/firefox-os-workshop-uptnm-ludovico-silva/
+SEQUENCE:3
+X-COORDINATES-LAT:10.1126256753
+X-COORDINATES-LON:-63.1018283218
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

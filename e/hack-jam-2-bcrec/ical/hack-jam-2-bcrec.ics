@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1246
+CLASS:PUBLIC
+DTSTAMP:20200407T182303Z
+DTSTART:20130925T043000Z
+DTEND:20130925T120000Z
+LOCATION:BCREC\, Durgapur\, India
+SUMMARY:Hack Jam 2 @BCREC
+DESCRIPTION:After the great success of Hack Jam @BCREC\, we are going to o
+ rganize this event. Webmaker project Introduction and Demo on FirefoxOS an
+ d Hands on session - Draw your idea for web/app/popcorn Let&#39;s Party - Hand
+ s on session with webmaker tools Remix Websites with the X-Ray Goggles. Ha
+ ck the Web with Thimble.
+URL:https://reps.mozilla.org/e/hack-jam-2-bcrec/
+SEQUENCE:7
+X-COORDINATES-LAT:22.5937260639
+X-COORDINATES-LON:85.078125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

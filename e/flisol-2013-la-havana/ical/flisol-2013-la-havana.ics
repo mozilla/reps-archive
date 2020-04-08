@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@905
+CLASS:PUBLIC
+DTSTAMP:20200407T181946Z
+DTSTART:20130427T140000Z
+DTEND:20130427T210000Z
+LOCATION:Central Palace of Computing\, La Havana\, Cuba
+SUMMARY:FLISoL 2013 La Havana
+DESCRIPTION:The FLISoL (Latino American Festival of Installation of Free S
+ oftware) is an event that promote the use and share free software.
+URL:https://reps.mozilla.org/e/flisol-2013-la-havana/
+SEQUENCE:1
+X-COORDINATES-LAT:36.0313317763
+X-COORDINATES-LON:-30.5859375
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

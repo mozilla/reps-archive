@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8229
+CLASS:PUBLIC
+DTSTAMP:20200407T182428Z
+DTSTART:20181029T130000Z
+DTEND:20181029T190000Z
+LOCATION:Stockholm Public Library Hornstull\, Stockholm\, Sweden
+SUMMARY:Glass Room Experience @ Stockholm Public Library - Hornstull
+DESCRIPTION:A pop up exhibition\, courtesy of Tactical Tech Collective wit
+ h support from Mozilla - about online privacy in an age of big data\, IoT 
+ and AI. We run the exhibition in the Hornstull library in conjunction with
+  an authours talk on the recently published book &#34;Internet is Broken - Sil
+ icon Valley and the Crisis of Democracy&#34; by Martin Gelin and Karin Petters
+ sion. The book is nominated to one of Sweden&#39;s most prestigious literary a
+ wards &#34;Augustpriset&#34; so we are expecting a lot of attention.
+URL:https://reps.mozilla.org/e/glass-room-experience-stockholm-public-libr
+ ary-hornstull/
+SEQUENCE:1
+X-COORDINATES-LAT:59.3161976884
+X-COORDINATES-LON:18.0346813198
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1974
+CLASS:PUBLIC
+DTSTAMP:20200407T180511Z
+DTSTART:20140226T160000Z
+DTEND:20140226T210000Z
+LOCATION:Skype\, Sarajevo\, Bosnia and Herzegovina
+SUMMARY:February SUMO localization sprint
+DESCRIPTION:An online event where the Bosnian SUMO team will gather and wo
+ rk intensively on localizing SUMO articles into Bosnian language.
+URL:https://reps.mozilla.org/e/february-sumo-localization-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:43.8568804137
+X-COORDINATES-LON:18.4061962364
+X-COUNTRY-CODE:ba
+END:VEVENT
+
+END:VCALENDAR

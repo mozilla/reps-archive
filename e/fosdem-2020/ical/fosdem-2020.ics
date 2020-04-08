@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9086
+CLASS:PUBLIC
+DTSTAMP:20200407T165131Z
+DTSTART:20200131T230000Z
+DTEND:20200201T230000Z
+LOCATION:Avenue Paul Héger 10\, Brussels\, Belgium
+SUMMARY:FOSDEM 2020
+DESCRIPTION:FOSDEM is a free and non-commercial event organised by the com
+ munity for the community. The goal is to provide free and open source soft
+ ware developers and communities a place to meet to:\n\n    get in touch wi
+ th other developers and projects\;\n    be informed about the latest devel
+ opments in the free software world\;\n    attend interesting talks and pre
+ sentations on various topics by project leaders and committers\;
+URL:https://reps.mozilla.org/e/fosdem-2020/
+SEQUENCE:2
+X-COORDINATES-LAT:50.8156
+X-COORDINATES-LON:4.3833
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

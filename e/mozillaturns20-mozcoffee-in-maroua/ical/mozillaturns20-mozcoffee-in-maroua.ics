@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7600
+CLASS:PUBLIC
+DTSTAMP:20200407T171717Z
+DTSTART:20180331T100000Z
+DTEND:20180331T120000Z
+LOCATION:Maroua\, Maroua\, Cameroon
+SUMMARY:MozCoffee #MozillaTurns20 in Maroua
+DESCRIPTION:On March 31st join us in celebrating 20 years of Mozilla! This
+  anniversary join Mozillians all around the world by celebrating twenty ou
+ r years of collective work building a better internet.
+URL:https://reps.mozilla.org/e/mozillaturns20-mozcoffee-in-maroua/
+SEQUENCE:1
+X-COORDINATES-LAT:10.4942932225
+X-COORDINATES-LON:14.2829588056
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

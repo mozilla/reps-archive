@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8787
+CLASS:PUBLIC
+DTSTAMP:20200407T170248Z
+DTSTART:20190614T020000Z
+DTEND:20190615T100000Z
+LOCATION:Hong Kong Science Park\, Shatin\, Hong Kong\, Hong Kong
+SUMMARY:Hong Kong Open Source Conference 2019
+DESCRIPTION:Mozillians presents on Hong Kong Open Source Conference 2019 f
+ or the development of Mozilla projects.
+URL:https://reps.mozilla.org/e/hong-kong-open-source-conference-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:22.4261030209
+X-COORDINATES-LON:114.211244345
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

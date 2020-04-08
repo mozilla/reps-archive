@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2762
+CLASS:PUBLIC
+DTSTAMP:20200407T174450Z
+DTSTART:20140920T120000Z
+DTEND:20140921T220000Z
+LOCATION:New York Hall Of Science\, Corona\, United States
+SUMMARY:Hive India at Maker Faire New York 2014
+DESCRIPTION:Maker Faire 2014 is a huge Maker culture celebration run by Ma
+ ke Magazine. Mozilla Webmaker and Hive are a sponsor and running a Webmake
+ r tent. Hive India will be represented as part of the Hive Network tent.
+URL:https://reps.mozilla.org/e/hive-india-at-maker-faire-new-york-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:42.6817624111
+X-COORDINATES-LON:-75.8327637613
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

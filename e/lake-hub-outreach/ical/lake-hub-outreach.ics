@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@924
+CLASS:PUBLIC
+DTSTAMP:20200407T180006Z
+DTSTART:20131019T080000Z
+DTEND:20131019T090000Z
+LOCATION:Mega City\, Kisumu\, Kenya
+SUMMARY:Lake Hub outreach
+DESCRIPTION:This is an event that shall be organized by reps residing in K
+ enya in conjuction with Lakehub. Lake hub is a group of techies comprised 
+ of students from various universities around a city called Kisumu in Kenya
+ . To get a synopsis\,Kisumu is 400KM from the capital city of Kenya\, Nair
+ obi.
+URL:https://reps.mozilla.org/e/lake-hub-outreach/
+SEQUENCE:9
+X-COORDINATES-LAT:-0.0996922943631
+X-COORDINATES-LON:34.757502079
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

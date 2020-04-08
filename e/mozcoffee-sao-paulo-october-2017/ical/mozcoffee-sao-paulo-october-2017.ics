@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6999
+CLASS:PUBLIC
+DTSTAMP:20200407T165146Z
+DTSTART:20171021T130000Z
+DTEND:20171021T150000Z
+LOCATION:Al. Barão de Limeira\, 539 - Santa Cecília – SENAI Santa Cec
+ ília\, São Paulo\, Brazil
+SUMMARY:MozCoffee São Paulo – October 2017
+DESCRIPTION:Our third meeting of volunteers from the region of São Paulo 
+ focused on the planning of campaigns and/or projects.
+URL:https://reps.mozilla.org/e/mozcoffee-sao-paulo-october-2017/
+SEQUENCE:12
+X-COORDINATES-LAT:-23.5365517
+X-COORDINATES-LON:-46.6463027
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

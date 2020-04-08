@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6397
+CLASS:PUBLIC
+DTSTAMP:20200407T174138Z
+DTSTART:20170317T140000Z
+DTEND:20170317T160000Z
+LOCATION:Sheroes&#39; Hangout\, Fatehabad Road\, Tajganj\, Agra\, India
+SUMMARY:Mozilla UP Community Orientation | Agra
+DESCRIPTION:MozUP is having an orientation session for the newbies around 
+ here where new contributors who signed up can get oriented and aspiring co
+ ntributors can get to know about the contribution areas.
+URL:https://reps.mozilla.org/e/mozilla-up-community-orientation-agra/
+SEQUENCE:2
+X-COORDINATES-LAT:27.1561059042
+X-COORDINATES-LON:77.9901120812
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

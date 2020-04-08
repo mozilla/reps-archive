@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5469
+CLASS:PUBLIC
+DTSTAMP:20200407T180243Z
+DTSTART:20160507T050000Z
+DTEND:20160507T090000Z
+LOCATION:Mozilla Philippines Community Manila\, Makati City\, Philippines
+SUMMARY:FSAPH Training Session 1
+DESCRIPTION:Training session for FSA&#39;s to develop their leadership skills 
+ and event management knowledge that they could use in their own campuses.
+URL:https://reps.mozilla.org/e/fsa-training-session-1/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5469899
+X-COORDINATES-LON:121.0152876
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

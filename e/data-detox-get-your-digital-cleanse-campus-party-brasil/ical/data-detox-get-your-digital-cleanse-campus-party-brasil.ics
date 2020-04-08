@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7386
+CLASS:PUBLIC
+DTSTAMP:20200407T165145Z
+DTSTART:20180203T170000Z
+DTEND:20180203T190000Z
+LOCATION:Pavilhão de Exposições do Anhembi – Av. Olavo Fontoura\, 120
+ 9\, São Paulo\, Brazil
+SUMMARY:Data Detox – Get your digital cleanse workshop @Campus Party Bra
+ sil
+DESCRIPTION:Fight toxic data buildup and eliminate anxiety over shared onl
+ ine info. In a few easy steps\, you’ll be on your way to a healthier and
+  more in-control digital self.
+URL:https://reps.mozilla.org/e/data-detox-get-your-digital-cleanse-campus-
+ party-brasil/
+SEQUENCE:4
+X-COORDINATES-LAT:-23.516579
+X-COORDINATES-LON:-46.643271
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

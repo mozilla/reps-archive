@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2
+CLASS:PUBLIC
+DTSTAMP:20200407T173811Z
+DTSTART:20120811T150000Z
+DTEND:20120811T190000Z
+LOCATION:Al-dewan restaurant and cafe\, Gaza\, Occupied Palestinian Territ
+ ory
+SUMMARY:Mozilla Iftar
+DESCRIPTION:Iftar : is the meal eaten by Muslims to break their fast after
+  sunset every day during Ramadan. \\\\\\/// Mozilla Iftar : is an Iftar to
+  be held in order to attract new developers and users and present the Mozi
+ lla&#39;s visions and missions to them. a group of discussions between 30 pers
+ on will be held after the meal for more than 3 hours and it&#39;ll cover many 
+ topics . \n\n
+URL:https://reps.mozilla.org/e/mozilla-iftar/
+SEQUENCE:0
+X-COORDINATES-LAT:31.5222425769
+X-COORDINATES-LON:34.445271492
+X-COUNTRY-CODE:ps
+END:VEVENT
+
+END:VCALENDAR

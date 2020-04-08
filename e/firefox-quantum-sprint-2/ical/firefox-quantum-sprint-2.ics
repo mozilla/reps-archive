@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7059
+CLASS:PUBLIC
+DTSTAMP:20200407T183742Z
+DTSTART:20171007T043000Z
+DTEND:20171007T073000Z
+LOCATION:Cummins College of Engineering\, Pune\, Pune\, India
+SUMMARY:Firefox Quantum Sprint
+DESCRIPTION:Event Flow:\n1.Introduction talk\n2.Participants install Night
+ ly for Desktop\n3.Once you have finished testing a website\, report it and
+  other steps.\n\nReasons to Attend:\n1.Get your hands dirty in checking th
+ e unreleased version of the new upcoming Firefox57version\, before the upd
+ ate is released officially.\n2. Help us make it better\, by reporting the 
+ issues you face as a consumer.\n3. Build a Network.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-2/
+SEQUENCE:2
+X-COORDINATES-LAT:18.3510499022
+X-COORDINATES-LON:73.9965811372
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

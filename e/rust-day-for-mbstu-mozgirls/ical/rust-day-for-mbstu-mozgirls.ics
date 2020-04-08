@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6934
+CLASS:PUBLIC
+DTSTAMP:20200407T183810Z
+DTSTART:20170929T053000Z
+DTEND:20170929T103000Z
+LOCATION:MBSTU\, Tangail\, Dhaka\, Bangladesh
+SUMMARY:Rust day for MBSTU MozGirls
+DESCRIPTION:Girls are far behind in contributing to code and open source a
+ t MBSTU. Based on the previous experience in Rust event at MBSTU\, this ev
+ ent is focused to put those girls at work learning\, creating and sharing 
+ some awesome code stuff in RUST.\n\nRust being the safe programming langua
+ ge for coders of all expertise levels\, requires mass acknowledgment and a
+ wareness throughout the developer and learner community. Minimum requireme
+ nt is C/C++/Python programming to spread the Rust words
+URL:https://reps.mozilla.org/e/rust-day-for-mbstu-mozgirls/
+SEQUENCE:0
+X-COORDINATES-LAT:24.2365491556
+X-COORDINATES-LON:89.8913412087
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

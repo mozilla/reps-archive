@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3537
+CLASS:PUBLIC
+DTSTAMP:20200407T174244Z
+DTSTART:20150327T174000Z
+DTEND:20150327T182000Z
+LOCATION:Via Vito Volterra\, 60\, Rome\, Italy
+SUMMARY:Meetup@Codemotion Rome
+DESCRIPTION:Codemotion is the biggest technical conference\, open to all l
+ anguages and technologies\, for developers in Italy and Spain and one of t
+ he hugest in Europe\, with an international network of 30.000 developers a
+ nd 300 speakers from all over the world and from the most important IT rea
+ lities.
+URL:https://reps.mozilla.org/e/codemotion-rome/
+SEQUENCE:4
+X-COORDINATES-LAT:41.8543778292
+X-COORDINATES-LON:12.470740556
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

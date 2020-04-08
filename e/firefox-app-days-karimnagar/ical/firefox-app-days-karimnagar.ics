@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1691
+CLASS:PUBLIC
+DTSTAMP:20200407T175522Z
+DTSTART:20140130T023000Z
+DTEND:20140131T063000Z
+LOCATION:Vaageswari College of Engineering\, Karimnagar\, India
+SUMMARY:Firefox App Days Karimnagar
+DESCRIPTION:A 24 hour Hackathon at Vaageswari College of Engineering\, Kar
+ imanagar. Where the Participants will develop apps for Firefox OS and get 
+ them Published into the Marketplace and also to inculcate the power of Ope
+ n Source among Students.
+URL:https://reps.mozilla.org/e/firefox-app-days-karimnagar/
+SEQUENCE:2
+X-COORDINATES-LAT:18.3488093669
+X-COORDINATES-LON:79.1659069026
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

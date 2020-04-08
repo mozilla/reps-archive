@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@977
+CLASS:PUBLIC
+DTSTAMP:20200407T182426Z
+DTSTART:20130622T100000Z
+DTEND:20130624T100000Z
+LOCATION:Mozilla Paris office\, Paris\, France
+SUMMARY:MDN sprint -  June
+DESCRIPTION:MDN sprints are a chance for web developers to learn about web
+  technologies and improve the resources on MDN along the way.\n\nThis spri
+ nt is timed to overlap with the MozFr community meeting\, to enable member
+ s of that community to participate if they want.
+URL:https://reps.mozilla.org/e/mdn-sprint-june/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8719203067
+X-COORDINATES-LON:2.34120368958
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

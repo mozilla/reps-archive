@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5305
+CLASS:PUBLIC
+DTSTAMP:20200407T175740Z
+DTSTART:20160214T110000Z
+DTEND:20160214T150000Z
+LOCATION:CBD\, Nairobi\, Kenya
+SUMMARY:Project Whistle Brainstorm Meetup
+DESCRIPTION:This meetup is being held to brainstorm around the creation of
+  Whistle\, a tool to help manage cross platform communication for the Mozi
+ lla community in Kenya and hopefully beyond
+URL:https://reps.mozilla.org/e/project-whistle-brainstorm-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:-1.28332254461
+X-COORDINATES-LON:36.8227787025
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

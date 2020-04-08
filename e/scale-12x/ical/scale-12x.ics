@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1360
+CLASS:PUBLIC
+DTSTAMP:20200407T174913Z
+DTSTART:20140221T200000Z
+DTEND:20140223T200000Z
+LOCATION:Hilton Los Angeles\, Los Angeles\, United States
+SUMMARY:SCALE 12x
+DESCRIPTION:SCALE 12X – the 12th annual Southern California Linux Expo 
+ – takes place on Feb. 21-23\, 2014\, at the Hilton Los Angeles Airport h
+ otel. As the first-of-the-year Linux/Open Source software expo in North Am
+ erica\, SCALE 12X expects to host more than 100 exhibitors this year\, alo
+ ng with nearly a 80 sessions\, tutorials and special events\n\nSCALE is a 
+ community run open-source and free software conference held annually in Lo
+ s Angeles.
+URL:https://reps.mozilla.org/e/scale-12x/
+SEQUENCE:3
+X-COORDINATES-LAT:34.0446944222
+X-COORDINATES-LON:-118.21975708
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

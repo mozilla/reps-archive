@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4024
+CLASS:PUBLIC
+DTSTAMP:20200407T173409Z
+DTSTART:20150710T110000Z
+DTEND:20150715T130000Z
+LOCATION:TBD\, Dhaka\, Chittagong\, Sylhet and more\, Bangladesh
+SUMMARY:MozIftar Bangladesh 2015
+DESCRIPTION:Iftar is a religious culture for Muslim society. For sharing i
+ deas &amp; discuss different issues Iftar is a great way to communicate. For l
+ ast three years we have arranged MozIftar in Dhaka\, Chittagong\, Sylhet &amp;
+  Rajshahi. This year we are planning for arranging more cities including t
+ hese cities. In Bangladesh this year we have two upcoming launching for We
+ bmaker and Firefox for Android (Fennec). This events will surly create a g
+ reat impact to make these launching successful.
+URL:https://reps.mozilla.org/e/moziftar-bangladesh-2015/
+SEQUENCE:9
+X-COORDINATES-LAT:23.8695913917
+X-COORDINATES-LON:90.3997746575
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

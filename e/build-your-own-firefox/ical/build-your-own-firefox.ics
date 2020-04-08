@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3610
+CLASS:PUBLIC
+DTSTAMP:20200407T173727Z
+DTSTART:20150308T080000Z
+DTEND:20150308T110000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, Bangalore\, India
+SUMMARY:[CoreDev v0] Build Your Own Firefox
+DESCRIPTION:REMOTE PARTICIPANTS WELCOME! Remotees\, join http://goo.gl/FVS
+ fHO &amp; keep an eye on FB event https://www.facebook.com/events/975388472479
+ 123/ (for just-in-time updates). It doesn&#39;t matter where (which city/count
+ ry) your&#39;re from\, as long as the time (08:00 UTC) works for you.
+URL:https://reps.mozilla.org/e/build-your-own-firefox/
+SEQUENCE:4
+X-COORDINATES-LAT:12.9633873661
+X-COORDINATES-LON:77.6143882871
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

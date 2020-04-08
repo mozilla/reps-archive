@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4452
+CLASS:PUBLIC
+DTSTAMP:20200407T180043Z
+DTSTART:20151130T090000Z
+DTEND:20151130T120000Z
+LOCATION:Olabisi Onabanjo University Ago Iwoye Ogun State.\, Ago Iwoye\, N
+ igeria
+SUMMARY:Stumbling in a Box - Mozilla Nigeria  (OOU )
+DESCRIPTION:This would be a GeoLocation Sprint at the Olabisi Onabanjo Uni
+ versity  where we will talk about the Mozilla Location Service.ways to Con
+ tribute to Mozilla and free and open projects introduction to stumbling to
+ ols that bring knowledge to participants on how to gather geolocation info
+ rmation in their cities. After which\, participants will gather informatio
+ n and upload it to the Mozilla servers. The participant would be encourage
+ d to contribute more to the Mozilla Geolocation service.
+URL:https://reps.mozilla.org/e/stumbling-in-a-box-mozilla-nigeria-oou/
+SEQUENCE:3
+X-COORDINATES-LAT:6.78776217958
+X-COORDINATES-LON:3.9207916148
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

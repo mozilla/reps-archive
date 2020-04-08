@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7089
+CLASS:PUBLIC
+DTSTAMP:20200407T183743Z
+DTSTART:20171007T040000Z
+DTEND:20171007T093000Z
+LOCATION:WebDINO Japan Community Space\, Tokyo\, Japan
+SUMMARY:Firefox Quantum Sprint in Tokyo
+DESCRIPTION:This is a Tokyo version of Firefox Quantum Sprint event.\nhttp
+ s://firefoxsprint.mozilla.community/\n\n1:00 PM to 5:00PM Participants wil
+ l install Firefox Nightly to test Firefox Quantum. We will test top 100 We
+ b pages for compatibility test.\n\nAlso\, the event invites new people via
+  social account to get more people interested in our community based activ
+ ities.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-in-tokyo/
+SEQUENCE:2
+X-COORDINATES-LAT:35.689793636
+X-COORDINATES-LON:139.78255266
+X-COUNTRY-CODE:jp
+END:VEVENT
+
+END:VCALENDAR

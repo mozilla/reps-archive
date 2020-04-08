@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2348
+CLASS:PUBLIC
+DTSTAMP:20200407T175417Z
+DTSTART:20140615T113000Z
+DTEND:20140615T153000Z
+LOCATION:Hotel Gokulam Park\, Kochin\, Kochi\, India
+SUMMARY:MozCoffee@Kochi
+DESCRIPTION:MozCoffee for contributors in Kerala. This event will focus on
+  planning upcoming events of local community and introduce new contributor
+ s to the community. Also\, we are focusing on new WoMoz volunteers this ti
+ me. Moreover its getting to know better\, build a better relationship betw
+ een the community members so as to work efficiently.
+URL:https://reps.mozilla.org/e/mozcoffee-kochi/
+SEQUENCE:8
+X-COORDINATES-LAT:9.99463605338
+X-COORDINATES-LON:76.2900485694
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

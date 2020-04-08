@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1017
+CLASS:PUBLIC
+DTSTAMP:20200407T180312Z
+DTSTART:20130801T073000Z
+DTEND:20130801T100000Z
+LOCATION:Gălăciuc Camp\, Gălăciuc\, Romania
+SUMMARY:Using open Web technologies to build mobile apps
+DESCRIPTION:The workshop is dedicated to attendees at the InfoEducatie nat
+ ional contest (infoeducatie.ro) which take place on 28 July - 3 August 201
+ 3 on Galaciuc\, Vrancea. Annual\, this contest\, gather many high school s
+ tudents (between 150 and 200 people in total) from all Romanian important 
+ schools.\nIn our workshop we will talk about Mozilla&#39;s technologies\, will
+  introduce the Firefox OS and preview phones developed and talk about how 
+ to be involved and contribute to Mozilla.
+URL:https://reps.mozilla.org/e/using-open-web-technologies-to-build-mobile
+ -apps/
+SEQUENCE:6
+X-COORDINATES-LAT:45.7751861835
+X-COORDINATES-LON:26.5649414062
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

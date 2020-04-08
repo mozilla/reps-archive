@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8186
+CLASS:PUBLIC
+DTSTAMP:20200407T171616Z
+DTSTART:20181101T043000Z
+DTEND:20181101T083000Z
+LOCATION:Neotech Faculty of Diploma Engineering\, Vadodara.\, India
+SUMMARY:Introduction to Mozilla Pontoon by  l10n-gu Team
+DESCRIPTION:This will be an introductory session organized by l10n-gu Team
+  at Vadodara city. \n\nThe session will include\; \n\n* Introduction\n* Ho
+ w to get started \n* Why it&#39;s important and what it means to you? \n* Q/A
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-pontoon-by-l10n-gu-
+ team/
+SEQUENCE:1
+X-COORDINATES-LAT:23.0062675943
+X-COORDINATES-LON:72.5363158062
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

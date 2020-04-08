@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2006
+CLASS:PUBLIC
+DTSTAMP:20200407T181905Z
+DTSTART:20140322T120000Z
+DTEND:20140322T150000Z
+LOCATION:VTŠ Subotica - Visoka tehnička škola strukovnih studija (Colle
+ ge of Applied Sciences)\, Subotica\, Serbia
+SUMMARY:Serbian AMO l10n marathon
+DESCRIPTION:Serbian Verbatim l10n team is organizing localization marathon
+  at VTŠ Subotica\, where we will try to localize as much as we can in 3 h
+ ours. We are going to localize AMO project from Verbatim. Since we have ne
+ w contributors\, at the start\, Aleksandra and I will give a little guidan
+ ce on how to localize using Verbatim.
+URL:https://reps.mozilla.org/e/serbian-amo-l10n-marathon/
+SEQUENCE:5
+X-COORDINATES-LAT:46.0943864137
+X-COORDINATES-LON:19.6616556644
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

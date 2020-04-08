@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1293
+CLASS:PUBLIC
+DTSTAMP:20200407T182522Z
+DTSTART:20131109T150000Z
+DTEND:20131109T230000Z
+LOCATION:Holiday Inn\, Merida\, Mexico
+SUMMARY:Hackathon Merida Firefox OS
+DESCRIPTION:The goal of the App Day is to introduce Firefox OS and Firefox
+  Marketplace\, and share knowledge about the tools available to help devel
+ opers get started building apps to submit to the Marketplace. Learn\, Hack
+  and Celebrate the Firefox OS\, Mozilla&#39;s open source operating system for
+  the mobile web.
+URL:https://reps.mozilla.org/e/hackathon-merida-firefox-os/
+SEQUENCE:1
+X-COORDINATES-LAT:20.9853626342
+X-COORDINATES-LON:-89.6147274971
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

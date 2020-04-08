@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@961
+CLASS:PUBLIC
+DTSTAMP:20200407T182522Z
+DTSTART:20130730T170000Z
+DTEND:20130804T170000Z
+LOCATION:BBVA Bancomer center\, Distrito Federal\, Mexico
+SUMMARY:Campus Party México 2013
+DESCRIPTION:Technical presentation and develop apps for Firefox OS
+URL:https://reps.mozilla.org/e/campus-party-mexico-2014/
+SEQUENCE:10
+X-COORDINATES-LAT:19.3614375848
+X-COORDINATES-LON:-99.2646503448
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

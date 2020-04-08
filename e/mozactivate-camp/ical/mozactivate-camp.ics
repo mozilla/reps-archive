@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7914
+CLASS:PUBLIC
+DTSTAMP:20200407T170255Z
+DTSTART:20181001T050000Z
+DTEND:20181004T120000Z
+LOCATION:CNF de Reduit\, Campus Numérique de la Francophonie\, Mauritius
+SUMMARY:WebVR Camp
+DESCRIPTION:This is a 4-day hacks workshop which will help participants to
+  get started with WebVR technologies (VR\,AR\,MX) . This event will be org
+ anised and hosted by the Agence Universitaire de la Francophonie (AUF) thr
+ ough it&#39;s Mauritius branch - Campus Numérique de la Francophonie. About 2
+ 0 participants with different profiles from different institutions will be
+  initiated to the Mozilla technologies. This workshop will be facilitated 
+ a Mozilla Tech Speaker.
+URL:https://reps.mozilla.org/e/mozactivate-camp/
+SEQUENCE:4
+X-COORDINATES-LAT:-20.235630198
+X-COORDINATES-LON:57.4987363798
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

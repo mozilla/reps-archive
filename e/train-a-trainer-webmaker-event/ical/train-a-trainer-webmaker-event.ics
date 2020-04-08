@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2424
+CLASS:PUBLIC
+DTSTAMP:20200407T180112Z
+DTSTART:20140813T070000Z
+DTEND:20140813T180000Z
+LOCATION:Cillas Conference Center\, Bulawayo\, Zimbabwe
+SUMMARY:Maker Party Bulawayo
+DESCRIPTION:A webmaker training event aimed at empowering aspiring mentors
+  on how to teach the web and contribute to Mozilla&#39;s goal of building an I
+ nternet that&#39;s safe and knowable.
+URL:https://reps.mozilla.org/e/train-a-trainer-webmaker-event/
+SEQUENCE:4
+X-COORDINATES-LAT:-20.1702705575
+X-COORDINATES-LON:28.6131593585
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

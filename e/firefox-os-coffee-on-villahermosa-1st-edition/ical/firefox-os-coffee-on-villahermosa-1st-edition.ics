@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1492
+CLASS:PUBLIC
+DTSTAMP:20200407T182114Z
+DTSTART:20131107T020000Z
+DTEND:20131107T060000Z
+LOCATION:Tanjarina Café\, Villahermosa\, Villahermosa\, Mexico
+SUMMARY:Firefox OS Coffee on Villahermosa (1st edition)
+DESCRIPTION:We&#39;re going to have a meeting with a small group of people at 
+ a local Coffee on Villahermosa to show Firefox OS and make some demos.\n\n
+ The idea is to begin creating community about Firefox OS and eventually re
+ ach some app developers interested in the OS in Villahermosa.\n\nThe Coffe
+ &#39;s owner is a Free Software fan\, so I think places like this one are part
+ icularly good hosts.
+URL:https://reps.mozilla.org/e/firefox-os-coffee-on-villahermosa-1st-editi
+ on/
+SEQUENCE:1
+X-COORDINATES-LAT:17.9733101238
+X-COORDINATES-LON:-92.9400869681
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

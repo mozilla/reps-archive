@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@210
+CLASS:PUBLIC
+DTSTAMP:20200407T181129Z
+DTSTART:20130126T050000Z
+DTEND:20130126T060000Z
+LOCATION:Institute of Science and Technology(IST) Campus\, Dhaka\, Banglad
+ esh
+SUMMARY:Mozilla@IST
+DESCRIPTION:We (Bangladesh Community) invites you to our event &#34;Mozilla@IS
+ T&#34; event at Institute of Science and Technology(IST) Campus\, Dhaka\, Bang
+ ladesh.\n\nFirefox OS and apps have been the talk of the town during the w
+ hole January in Bangladesh. Both Bengali and English Newspapers were cover
+ ing the news. So our event&#39;s key topic - &#34;Firefox OS and apps development&#34;
+ .
+URL:https://reps.mozilla.org/e/mozcampaign-ist/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7521081212
+X-COORDINATES-LON:90.3702306747
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

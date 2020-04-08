@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6040
+CLASS:PUBLIC
+DTSTAMP:20200407T171701Z
+DTSTART:20161122T070000Z
+DTEND:20161122T170000Z
+LOCATION:Radisson Blu Hotel Lietuva\, Vilnius\, Lithuania
+SUMMARY:Verslas 2017
+DESCRIPTION:The biggest business newspaper and magazine in Lithuania\, Ver
+ slo Žinios\, organised annual conference for business leaders.
+URL:https://reps.mozilla.org/e/verslas-2017/
+SEQUENCE:3
+X-COORDINATES-LAT:54.6951238485
+X-COORDINATES-LON:25.27507925
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

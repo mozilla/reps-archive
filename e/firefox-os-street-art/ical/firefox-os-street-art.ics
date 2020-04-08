@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1155
+CLASS:PUBLIC
+DTSTAMP:20200407T173725Z
+DTSTART:20130811T140000Z
+DTEND:20130811T180000Z
+LOCATION:Cra15 con Calle 82\, Bogotá\, Colombia
+SUMMARY:Firefox OS Street Art
+DESCRIPTION:Join us! Have fun\, share and celebrate  with us: Firefox OS i
+ s here\, Colombia is the first country in LatAm launching this awesome Ope
+ rative System for you!
+URL:https://reps.mozilla.org/e/firefox-os-street-art/
+SEQUENCE:1
+X-COORDINATES-LAT:4.66779398656
+X-COORDINATES-LON:-74.0564346313
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

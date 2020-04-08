@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8363
+CLASS:PUBLIC
+DTSTAMP:20200407T170346Z
+DTSTART:20190223T150000Z
+DTEND:20190223T210000Z
+LOCATION:Managua\, Managua\, Nicaragua
+SUMMARY:First Activity mozillians 2019 - Nicaragua
+DESCRIPTION:Actividad de bienvenida 2019 con colaboradores de la comunidad
+  y personas invitadas para comentar diversos temas acerca de mozilla y sus
+  campañas.
+URL:https://reps.mozilla.org/e/first-activity-mozillians-2019-nicaragua/
+SEQUENCE:1
+X-COORDINATES-LAT:12.2076011329
+X-COORDINATES-LON:-86.1357414722
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

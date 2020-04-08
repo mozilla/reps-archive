@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3847
+CLASS:PUBLIC
+DTSTAMP:20200407T182114Z
+DTSTART:20150508T000000Z
+DTEND:20150509T000000Z
+LOCATION:UAM Iztapalapa\, Mexico City\, Mexico
+SUMMARY:FLISOL UAM Iztapalapa
+DESCRIPTION:El Festival Latinoamericano de Instalación de Software Libre 
+ (FLISoL) es el evento de difusión de Software Libre más grande en Latino
+ américa. Se realiza desde el año 2005 y desde el 2008 se adoptó su real
+ ización el 4to Sábado de abril de cada año. Este año se realizara en l
+ a UAM-I el primer viernes sábado del ciclo escolar (sábado de la Semana 
+ 1)\, los cuales corresponden al 8 y 9 de Mayo.
+URL:https://reps.mozilla.org/e/flisol-uam-iztapalapa/
+SEQUENCE:0
+X-COORDINATES-LAT:19.3602292573
+X-COORDINATES-LON:-99.0729146451
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

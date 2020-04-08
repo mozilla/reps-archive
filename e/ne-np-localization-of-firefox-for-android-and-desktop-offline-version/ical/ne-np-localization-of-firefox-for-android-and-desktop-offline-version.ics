@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5714
+CLASS:PUBLIC
+DTSTAMP:20200407T181215Z
+DTSTART:20160909T091500Z
+DTEND:20160911T101500Z
+LOCATION:SAP Falcha\, Babarmahal\, Kathmandu\, Kathmandu\, Nepal
+SUMMARY:ne_NP Localization of Firefox for Android (And Desktop) [Offline V
+ ersion]
+DESCRIPTION:As discussed with localization drivers\, this event is a conse
+ cutive event after an online localization sprint. These events have the fo
+ llowing goals\n\na) Find and Involve Volunteers to Finish Firefox for Andr
+ oid localization.\n\nb) Find a way to retain the volunteers \n\nc) Focus a
+  bit more on Quality of localization in such a way that a volunteer focusi
+ ng on quality will have higher ranking.\n\nd) Use the information gathered
+  during Review of the localization to start creating a Style Guide.
+URL:https://reps.mozilla.org/e/ne-np-localization-of-firefox-for-android-a
+ nd-desktop-offline-version/
+SEQUENCE:2
+X-COORDINATES-LAT:27.6908987766
+X-COORDINATES-LON:85.324524164
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

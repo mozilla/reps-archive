@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3364
+CLASS:PUBLIC
+DTSTAMP:20200407T174849Z
+DTSTART:20150101T080000Z
+DTEND:20150101T170000Z
+LOCATION:Tenes\, Chlef\, ALGERIA\, Tenes\, Algeria
+SUMMARY:Maker Party Chlef
+DESCRIPTION:Maker party chlef\, will be held at the orphans center of Tene
+ s CHLEF\, ALGERIA\, we will try to teach kids 8-15 years to code.\nPlaying
+  games\, and learning how to code and how games are made.\nMozilla Algeria
+  is the Algeria Community of Mozilla Foundation\, spreading the world of O
+ pen web and Mozilla Mission.
+URL:https://reps.mozilla.org/e/maker-party-chlef/
+SEQUENCE:0
+X-COORDINATES-LAT:36.5138672556
+X-COORDINATES-LON:1.33108519949
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

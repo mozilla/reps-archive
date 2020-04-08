@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4022
+CLASS:PUBLIC
+DTSTAMP:20200407T180522Z
+DTSTART:20150614T093000Z
+DTEND:20150614T113000Z
+LOCATION:Sylhet Engineering College\, Sylhet\, Sylhet\, Bangladesh
+SUMMARY:Mozilla Club Initiative at Sylhet Engineering College
+DESCRIPTION:The event will be held as an introduction for the students of 
+ the college to know about Mozilla&#39;s Mission\, what does Mozilla do for the
+  Open Web\,\nHow can one contribute to the Mozilla Projects focusing more 
+ on Open source aspects.\n\nThis event was organized by Mahmudul Haque Yami
+ n \, a great leader :)
+URL:https://reps.mozilla.org/e/mozilla-club-initiative-at-sylhet-engineeri
+ ng-college/
+SEQUENCE:4
+X-COORDINATES-LAT:24.5986740976
+X-COORDINATES-LON:91.7019529591
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

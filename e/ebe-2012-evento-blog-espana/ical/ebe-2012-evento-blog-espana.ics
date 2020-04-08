@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@195
+CLASS:PUBLIC
+DTSTAMP:20200407T173900Z
+DTSTART:20121102T110000Z
+DTEND:20121105T110000Z
+LOCATION:Hotel Barcelo\, Seville\, Spain
+SUMMARY:EBE 2012 (Evento Blog España)
+DESCRIPTION:EBE is the biggest event for bloggers in Spain. Every year web
+  professionals and web-lovers join to share their experiences and knowledg
+ e. Is more than a networking event\, is where the Internet speaks spanish.
+ \nThis year 3.000 people are expected to attend the event.
+URL:https://reps.mozilla.org/e/ebe-2012-evento-blog-espana/
+SEQUENCE:0
+X-COORDINATES-LAT:37.4100166761
+X-COORDINATES-LON:-5.99578857422
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3271
+CLASS:PUBLIC
+DTSTAMP:20200407T165854Z
+DTSTART:20150228T080000Z
+DTEND:20150301T160000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:Mozilla Weekend Tirana 2015
+DESCRIPTION:This is the second edition of the event inspired by the sucess
+  of the first Mozilla Weekend in February 2014. \nMozilla Weekend aims to 
+ bring the community closer together by working\, socializing and sharing i
+ deas. \n\nIt also aims into bringing interested people into the community 
+ and showing them what Mozilla is about\, in order to grow the local commun
+ ity even more It will be held in a well located university in Tirana\, for
+  2 days\, 5 hours a day.
+URL:https://reps.mozilla.org/e/mozilla-weekend-tirana-2015/
+SEQUENCE:5
+X-COORDINATES-LAT:41.3220079363
+X-COORDINATES-LON:19.8145287039
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

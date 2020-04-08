@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2653
+CLASS:PUBLIC
+DTSTAMP:20200407T182432Z
+DTSTART:20140807T170000Z
+DTEND:20140807T220000Z
+LOCATION:Bewleys Cafe\, Grafton Street\, Dublin\, Rathfarnham\, Ireland
+SUMMARY:Mozilla Ireland Gathering
+DESCRIPTION:One of Mozilla’s Contributor Engagement Managers will be joi
+ ning us in person and is only available this coming week. So with that\, w
+ e will be having a gathering at the Bewleys Cafe on Grafton Street from 6:
+ 30pm this Thursday.\n\nThis will be a chance for all Irish Mozillians to m
+ eet up and enjoy some awesome coffee and discuss Mozilla and Open Source a
+ nd if you know anyone who might be interested in getting involved\, bring 
+ them along!
+URL:https://reps.mozilla.org/e/mozilla-ireland-gathering/
+SEQUENCE:5
+X-COORDINATES-LAT:53.341680003
+X-COORDINATES-LON:-6.26027977469
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

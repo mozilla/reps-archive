@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8886
+CLASS:PUBLIC
+DTSTAMP:20200407T174128Z
+DTSTART:20191024T140000Z
+DTEND:20191024T220000Z
+LOCATION:101 S Independence Mall E\, Philadelphia\, United States
+SUMMARY:WebVR @ LibertyJS 2019
+DESCRIPTION:In this event you will learn WebVR development using A-Frame f
+ ramework (one of emerging future technologies by Mozilla). This event is f
+ or participants who already know HTML
+URL:https://reps.mozilla.org/e/webvr-libertyjs-2019/
+SEQUENCE:0
+X-COORDINATES-LAT:39.9515738094
+X-COORDINATES-LON:-75.1578712533
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2735
+CLASS:PUBLIC
+DTSTAMP:20200407T182538Z
+DTSTART:20140926T033000Z
+DTEND:20140926T063000Z
+LOCATION:University of Colombo School of Computing\, 35\, Reid Avenue\, Co
+ lombo 07\, Sri Lanka
+SUMMARY:Firefox Club in UCSC
+DESCRIPTION:Following topics will be cover during the event.\n\nntroductio
+ n to Mozilla\nFirefox Desktop\nFirefoxOS\nWebMaker\nHow to contribute\nMoz
+ illa Sri Lanka\nFirefox Student Ambassador Program\nEstablishing Firefox C
+ lub
+URL:https://reps.mozilla.org/e/firefox-club-in-ucsc/
+SEQUENCE:1
+X-COORDINATES-LAT:6.90185497945
+X-COORDINATES-LON:79.8611835837
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

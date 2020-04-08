@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1704
+CLASS:PUBLIC
+DTSTAMP:20200407T173625Z
+DTSTART:20140210T120000Z
+DTEND:20140210T140000Z
+LOCATION:Double Dipps Coffee Mulyosari Jl. Mulyosari\, Ruko Central Park B
+ lok AA-2\, Surabaya\, Surabaya\, Indonesia
+SUMMARY:MozKopdarSUB Februari 2014
+DESCRIPTION:Monthly small meet up for Mozillians in Surabaya. This event w
+ ill get news about Firefox\, Firefox OS\, Mozilla\, FSA and etc.
+URL:https://reps.mozilla.org/e/mozkopdarsub/
+SEQUENCE:5
+X-COORDINATES-LAT:-7.26604682598
+X-COORDINATES-LON:112.796393842
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

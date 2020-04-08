@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2944
+CLASS:PUBLIC
+DTSTAMP:20200407T175042Z
+DTSTART:20141110T040000Z
+DTEND:20141110T090000Z
+LOCATION:Chandigarh College Of Engineering and Technology\, Chandigarh\, I
+ ndia
+SUMMARY:Mini-Camp Punjab
+DESCRIPTION:We are organizing this event for all passionate people in and 
+ around Punjab\, to tell them about the community as well as to motivate th
+ em for individual contributions to the Mozilla&#39;s projects and to the commu
+ nity. The main focus of this event is to build &amp; grow the Mozilla Communit
+ y in Punjab and encourage more and more newbie volunteers to join the miss
+ ion\, ensure productivity and quality in the contributions and plan for th
+ e future events &amp; goals for the Mozilla Community Punjab.
+URL:https://reps.mozilla.org/e/mini-camp-punjab/
+SEQUENCE:10
+X-COORDINATES-LAT:30.7356773776
+X-COORDINATES-LON:76.7605139507
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6122
+CLASS:PUBLIC
+DTSTAMP:20200407T174148Z
+DTSTART:20170110T053000Z
+DTEND:20170110T113000Z
+LOCATION:MCR Community Space\, Jaipur\, India
+SUMMARY:MozConnect MCR
+DESCRIPTION:MozConnect\, Connected Devices is the main initiative of this 
+ event. Participants will be familiar with the Connected devices and it&#39;s c
+ ontribution pathways. Will also be focused on recruiting new FSAs.
+URL:https://reps.mozilla.org/e/mozconnect-mcr/
+SEQUENCE:2
+X-COORDINATES-LAT:26.8957409967
+X-COORDINATES-LON:75.8334732056
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

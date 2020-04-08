@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5087
+CLASS:PUBLIC
+DTSTAMP:20200407T181223Z
+DTSTART:20160304T043000Z
+DTEND:20160304T083000Z
+LOCATION:ISM Dhanbad\, Dhanbad\, India
+SUMMARY:MozSetup@ISM
+DESCRIPTION:This is the first Mozilla event at ISM\,Dhanbad. The event is 
+ a stepping stone to building and engaging with a big developer community f
+ rom eastern part of India.The event will focus on connected devices and a 
+ hack-a-thon around how FirefoxOS is changing the IoT ecosystem.
+URL:https://reps.mozilla.org/e/mozsetup-ism/
+SEQUENCE:7
+X-COORDINATES-LAT:25.5749421083
+X-COORDINATES-LON:85.2761993464
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

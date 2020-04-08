@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3120
+CLASS:PUBLIC
+DTSTAMP:20200407T182502Z
+DTSTART:20141210T003000Z
+DTEND:20141210T033000Z
+LOCATION:BYU Campus - Wilkinson Student Center Room 3380\, Provo\, United 
+ States
+SUMMARY:Mozilla Utah December Localization Sprint
+DESCRIPTION:Join us to make the Web more accessible around the globe by lo
+ calizing it into your language and introduce localization to bilingual Uta
+ hns across the state. All languages welcome!\n\nWe won&#39;t just be localizin
+ g Firefox\, but if you&#39;re interested in Privacy\, Security\, Web Dev\, or 
+ other Mozilla projects\, please join us!\n\nWe will be in room 3380 of the
+  Wilkinson Student Center on BYU Campus.\n\nLunch will be provided. Laptop
+ s or Android devices are necessary.
+URL:https://reps.mozilla.org/e/mozilla-december-l10n-sprint/
+SEQUENCE:6
+X-COORDINATES-LAT:40.2489169902
+X-COORDINATES-LON:-111.646966338
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3057
+CLASS:PUBLIC
+DTSTAMP:20200407T175115Z
+DTSTART:20141128T123000Z
+DTEND:20141128T213000Z
+LOCATION:Universidad Nacional Experimental de Guayana\, Ciudad Guayana\, V
+ enezuela
+SUMMARY:Webmaker Party Ciudad Guayana
+DESCRIPTION:the event will be attended by students who are beginning the c
+ areer of computer engineering at the local university. These people undert
+ ake websites with Webmaker tool and making videos with popcorn\, then the 
+ pages will be uploaded to great webmaker. This event is the first webmaker
+  party in Puerto Ordaz Venezuela
+URL:https://reps.mozilla.org/e/webmaker-party-ciudad-guayana/
+SEQUENCE:4
+X-COORDINATES-LAT:8.29756440987
+X-COORDINATES-LON:-62.6898195595
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

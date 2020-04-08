@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2851
+CLASS:PUBLIC
+DTSTAMP:20200407T175320Z
+DTSTART:20140923T120000Z
+DTEND:20140923T160000Z
+LOCATION:MakerSpace Bekasi\, Bekasi\, Indonesia
+SUMMARY:Flashing the Flatfish - IDMoz
+DESCRIPTION:Flashing the Flatfish device with bootloader update (version 2
+ .0) @ MakerSpaceBKS
+URL:https://reps.mozilla.org/e/flashing-the-flatfish-idmoz/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.25183125264
+X-COORDINATES-LON:106.977441787
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

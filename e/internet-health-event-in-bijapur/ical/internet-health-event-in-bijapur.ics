@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8199
+CLASS:PUBLIC
+DTSTAMP:20200407T174129Z
+DTSTART:20180808T043000Z
+DTEND:20180809T103000Z
+LOCATION:Darbar college\, Bijapur\, India
+SUMMARY:Internet Health event in Bijapur
+DESCRIPTION:The event was focussed around Internet Health. Mozilla produce
+ d the Internet Health Report. It is an independent\, open source compilati
+ on of data\, research and stories that show how the Internet is evolving a
+ cross five issues. Shreyas is a member of the Internet Health Report Commi
+ ttee and represents India. He spoke about the Internet Health Report and t
+ he various issues that affect the Internet.
+URL:https://reps.mozilla.org/e/internet-health-event-in-bijapur/
+SEQUENCE:1
+X-COORDINATES-LAT:13.2181103408
+X-COORDINATES-LON:77.2587890178
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

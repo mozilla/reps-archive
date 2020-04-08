@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5137
+CLASS:PUBLIC
+DTSTAMP:20200407T174238Z
+DTSTART:20160223T080000Z
+DTEND:20160223T150000Z
+LOCATION:Microsoft México\, Mexico City\, Mexico
+SUMMARY:Microsoft and Open Source Influencers Open Day México
+DESCRIPTION:Microsoft and Open Source Influencers Open Day México
+URL:https://reps.mozilla.org/e/microsoft-and-open-source-influencers-open-
+ day-mexico/
+SEQUENCE:1
+X-COORDINATES-LAT:19.3662336921
+X-COORDINATES-LON:-99.2644822602
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

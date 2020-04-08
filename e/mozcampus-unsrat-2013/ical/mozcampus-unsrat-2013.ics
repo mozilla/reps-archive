@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@330
+CLASS:PUBLIC
+DTSTAMP:20200407T182702Z
+DTSTART:20130222T010000Z
+DTEND:20130222T100000Z
+LOCATION:Fakultas Hukum UNSRAT &amp; Pasca Sarjana Ilmu Perairan UNSRAT\, Mana
+ do\, Indonesia
+SUMMARY:MozKampusMDC UNSRAT 2013
+DESCRIPTION:Mozilla goes to University of Sam Ratulangie\, Manado - North 
+ Sulawesi
+URL:https://reps.mozilla.org/e/mozcampus-unsrat-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:1.36217634666
+X-COORDINATES-LON:125.15625
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

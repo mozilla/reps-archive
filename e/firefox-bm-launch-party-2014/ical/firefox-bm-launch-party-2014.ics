@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2049
+CLASS:PUBLIC
+DTSTAMP:20200407T175332Z
+DTSTART:20140510T100000Z
+DTEND:20140510T133000Z
+LOCATION:House (Gtower) 199\, Jalan Tun Razak\, Kuala Lumpur\, Malaysia
+SUMMARY:Firefox BM Launch Party 2014
+DESCRIPTION:This event is about outreach Malaysian internet users regardin
+ g what had been done by the Mozilla L10n (ms) Team whom had put their hear
+ t onto this project and made this launching possible while approaching peo
+ ple and introduce them to the local project taking consideration that some
+  of them might join in the team to help in the betterment quality of Mozil
+ la localized products. Gratitude and appreciation for the whole l10n team 
+ and people who had lend us their forces and knowledge&#39;s.
+URL:https://reps.mozilla.org/e/firefox-bm-launch-party-2014/
+SEQUENCE:13
+X-COORDINATES-LAT:3.15938818066
+X-COORDINATES-LON:101.71986562
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

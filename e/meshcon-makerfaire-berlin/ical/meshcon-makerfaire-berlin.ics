@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4615
+CLASS:PUBLIC
+DTSTAMP:20200407T174531Z
+DTSTART:20151003T080000Z
+DTEND:20151003T160000Z
+LOCATION:Postbahnhof\, Strasse der Pariser Kommune 8\, Berlin\, Berlin\, G
+ ermany
+SUMMARY:Meshcon@Makerfaire Berlin
+DESCRIPTION:Meshcon@Makerfaire Berlin
+URL:https://reps.mozilla.org/e/meshcon-makerfaire-berlin/
+SEQUENCE:0
+X-COORDINATES-LAT:52.5151740526
+X-COORDINATES-LON:13.4175653465
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1689
+CLASS:PUBLIC
+DTSTAMP:20200407T180027Z
+DTSTART:20140322T070000Z
+DTEND:20140322T160000Z
+LOCATION:The Community Center\, Alexandra\, South Africa
+SUMMARY:HTML5 CSS3 Web Development - The Potential for Youth Employment in
+  the townships of SA.
+DESCRIPTION:The event will be for up to 1000 youth gathered from about 4 t
+ ownships on HMTL5 and CSS3\, speakers will give participants insight in to
+  show these and other web technologies will revolutionize the internet and
+  the way we work\, live and earn
+URL:https://reps.mozilla.org/e/html5-css3-web-development-the-potential-fo
+ r-youth-employment-in-the-townships-of-sa/
+SEQUENCE:5
+X-COORDINATES-LAT:-25.4965869712
+X-COORDINATES-LON:28.4178543091
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

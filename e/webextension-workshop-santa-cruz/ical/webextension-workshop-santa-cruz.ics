@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7515
+CLASS:PUBLIC
+DTSTAMP:20200407T173911Z
+DTSTART:20180428T130000Z
+DTEND:20180428T220000Z
+LOCATION:Bush avenue\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:WebExtension Workshop Santa Cruz
+DESCRIPTION:In the morning we will teach all about web extensions for Fire
+ fox and Firefox Android\, later\, in the afternoon all the people work in 
+ the creation of Extensions for finalize the workshop with products made.\n
+ The event will be held in the Science Computer Faculty of  UAGRM Santa Cru
+ z\, Bolivia.
+URL:https://reps.mozilla.org/e/webextension-workshop-santa-cruz/
+SEQUENCE:6
+X-COORDINATES-LAT:-17.7760701121
+X-COORDINATES-LON:-63.1950799227
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

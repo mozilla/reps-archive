@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9120
+CLASS:PUBLIC
+DTSTAMP:20200407T174127Z
+DTSTART:20200228T043000Z
+DTEND:20200228T073000Z
+LOCATION:Guru Gobind Sinh Polytechnic\, Nashik\, India
+SUMMARY:The Hackers Meetup Nashik
+DESCRIPTION:This event is fully focused on Cyber Security research of Inde
+ pendent security researchers. who finds vulnerability\, gain knowledge and
+  try to do something out of the box with his enthusiasm\, hard work and lo
+ ve for security.
+URL:https://reps.mozilla.org/e/the-hackers-meetup-nashik/
+SEQUENCE:0
+X-COORDINATES-LAT:20.0013314137
+X-COORDINATES-LON:73.7861394865
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3631
+CLASS:PUBLIC
+DTSTAMP:20200407T181422Z
+DTSTART:20150321T120000Z
+DTEND:20150321T210000Z
+LOCATION:Raul Hacker Clube\, Salvador\, Brazil
+SUMMARY:Firefox Day
+DESCRIPTION:Firefox Day is an event to learn more about Mozilla\, its miss
+ ion and some of its projects such as Firefox Browser and Firefox OS. This 
+ event will serve to inspire the public and to answer questions and recruit
+  new volunteers.\n\nThe event has talking sessions and hand-on workshops (
+ sprints)
+URL:https://reps.mozilla.org/e/firefox-day-2/
+SEQUENCE:2
+X-COORDINATES-LAT:-13.0295335589
+X-COORDINATES-LON:-38.3759763837
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

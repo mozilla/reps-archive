@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@497
+CLASS:PUBLIC
+DTSTAMP:20200407T175005Z
+DTSTART:20130215T043000Z
+DTEND:20130217T113000Z
+LOCATION:Symbiosis Institute of Computer Studies &amp; Research\, Pune\, India
+SUMMARY:Community India Meetup
+DESCRIPTION:Mozilla India Inter-Community Meetup at GNUnify\, Pune.\n\n
+URL:https://reps.mozilla.org/e/community-india-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:18.5333482483
+X-COORDINATES-LON:73.8336610794
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

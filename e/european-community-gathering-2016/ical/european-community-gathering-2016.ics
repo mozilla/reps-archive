@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5803
+CLASS:PUBLIC
+DTSTAMP:20200407T174243Z
+DTSTART:20160910T070000Z
+DTEND:20160911T160000Z
+LOCATION:Betahaus\, Berlin\, Germany
+SUMMARY:European Community Gathering 2016
+DESCRIPTION:A gathering of Mozillians based in Europe who are mobilizing c
+ ommunities\, bringing people into contributing to our mission\, and helpin
+ g them strengthen the impact of their contribution.
+URL:https://reps.mozilla.org/e/european-community-gathering-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:52.5025461495
+X-COORDINATES-LON:13.4122817509
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

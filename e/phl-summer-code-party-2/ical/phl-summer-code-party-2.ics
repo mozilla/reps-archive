@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@66
+CLASS:PUBLIC
+DTSTAMP:20200407T181848Z
+DTSTART:20120821T060000Z
+DTEND:20120821T100000Z
+LOCATION:Figaro Coffee\, SM City Santa Rosa\, Santa Rosa\, Philippines
+SUMMARY:PHL Summer Code Party 2
+DESCRIPTION:A follow up event to the successful kickoff last June 23\, and
+  commemoration of one of Philippines&#39; national heroes.\n\nThis targets col
+ lege students and professionals mostly living in the city and nearby towns
+ .\n\nIt aims to:\n- promote and encourage more Webmaker events in the loca
+ l community\n- teach website hacking through the use of tools like Hackasa
+ urus\, Thimble and X-Ray Goggles\n- recruit more students to Student Reps 
+ program\n- expand the local User and Contributor Engagement Teams 
+URL:https://reps.mozilla.org/e/phl-summer-code-party-2/
+SEQUENCE:0
+X-COORDINATES-LAT:14.3129991482
+X-COORDINATES-LON:121.098690033
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

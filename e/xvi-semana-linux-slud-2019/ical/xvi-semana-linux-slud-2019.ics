@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8744
+CLASS:PUBLIC
+DTSTAMP:20200407T170336Z
+DTSTART:20190826T130000Z
+DTEND:20190901T000000Z
+LOCATION:Universidad Distrital. Facultad de Ingeniería Carrera 8 #40 - 73
+ \, Bogota\, Colombia
+SUMMARY:XVI Semana Linux SLUD 2019
+DESCRIPTION:La Semana Linux es un evento anual de visibilidad nacional\, o
+ rganizado por el Grupo GNU Linux de la Universidad Distrital (GLUD)\, en e
+ l cual se da a conocer el Software Libre y sus ventajas para el progreso t
+ ecnológico de la sociedad\, aquí convergen estudiantes\, profesores\, ex
+ pertos y usuarios finales interesados en familiarizarse con el uso del Sof
+ tware Libre y su filosofía.
+URL:https://reps.mozilla.org/e/xvi-semana-linux-slud-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:4.63010639448
+X-COORDINATES-LON:-74.0654239658
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

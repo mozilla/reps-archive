@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3645
+CLASS:PUBLIC
+DTSTAMP:20200407T174905Z
+DTSTART:20150411T070000Z
+DTEND:20150413T150000Z
+LOCATION:Rashad El-Badrawy Hall\, Faculty of Engineering\, Al Mansurah\, E
+ gypt
+SUMMARY:CAT Scope 14
+DESCRIPTION:CAT Scope is a 3 or 4 days conference\, organized by the CAT R
+ eloaded Team where pure technical sessions are held by highly experienced 
+ Engineers and Computer Lovers.\n\nThese sessions are mainly focused on IT\
+ , Computer Science and some sessions may be talking about soft-skills.\n\n
+ Scope sessions range from novices to gurus level. Some sessions may contai
+ n only an overview of a technology\, and some may be like a detailed tutor
+ ial or a workshop
+URL:https://reps.mozilla.org/e/cat-scope-14/
+SEQUENCE:2
+X-COORDINATES-LAT:31.0407256266
+X-COORDINATES-LON:31.3583414554
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

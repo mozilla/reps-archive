@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5444
+CLASS:PUBLIC
+DTSTAMP:20200407T174823Z
+DTSTART:20160803T150000Z
+DTEND:20160806T190000Z
+LOCATION:Székesfehérvár\, Székesfehérvár\, Hungary
+SUMMARY:Fezen 2016\, Festival
+DESCRIPTION:This is a festival where we can reach youngsters.\n* We are go
+ ing to promote Firefox (desktop\, mobil)\, Servo\, Thunderbird\n* Since th
+ ere is lots of young peple there we will promote OpenBadges\n* Safe intern
+ et usage\n* Get feedbacks\n* Recuit new members\, student ambassadors\n* P
+ romoting other free softwares (Linux distributions) and communities too li
+ ke OpenStreetMap
+URL:https://reps.mozilla.org/e/fezen-2016-festival/
+SEQUENCE:6
+X-COORDINATES-LAT:46.2484230315
+X-COORDINATES-LON:20.1618547412
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

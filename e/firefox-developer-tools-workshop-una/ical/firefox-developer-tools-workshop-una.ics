@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3061
+CLASS:PUBLIC
+DTSTAMP:20200407T174242Z
+DTSTART:20141103T230000Z
+DTEND:20141104T013000Z
+LOCATION:Universidad Nacional\, San Jose\, Costa Rica
+SUMMARY:Firefox Developer Tools Workshop - UNA
+DESCRIPTION:We&#39;re doing a small workshop for a group of college students\,
+  showing them how the Firefox developer tools work and giving them some ti
+ me to experiment with them.
+URL:https://reps.mozilla.org/e/firefox-developer-tools-workshop-una/
+SEQUENCE:3
+X-COORDINATES-LAT:9.9724741382
+X-COORDINATES-LON:-84.131128907
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

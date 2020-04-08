@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1619
+CLASS:PUBLIC
+DTSTAMP:20200407T175133Z
+DTSTART:20131109T110000Z
+DTEND:20131109T130000Z
+LOCATION:Oliva\, Chisinau\, Moldova
+SUMMARY:Firefox 9th Birthday Party
+DESCRIPTION:Firefox Birthday Party in Chisinau to celebrate 9 years of saf
+ e Internet browsing experience with Firefox.
+URL:https://reps.mozilla.org/e/firefox-9th-birthday-party-1/
+SEQUENCE:2
+X-COORDINATES-LAT:47.0465842361
+X-COORDINATES-LON:28.8620982156
+X-COUNTRY-CODE:md
+END:VEVENT
+
+END:VCALENDAR

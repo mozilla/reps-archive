@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2408
+CLASS:PUBLIC
+DTSTAMP:20200407T180010Z
+DTSTART:20140719T080000Z
+DTEND:20140719T120000Z
+LOCATION:Telkomsel Grapari\, Gedung Wahana Bakti Pos Lt.2\, Bandung\, Indo
+ nesia
+SUMMARY:Ngabuburit bareng Mozilla: L10N Workshop Bandung
+DESCRIPTION:Ngabuburit* with Mozilla: L10N Workshop Bandung.\n\nIn this ev
+ ent\, participants will learn how to contribute to Mozilla by localizing i
+ ts projects to Bahasa Indonesia\, Basa Sunda\, or other languages in Indon
+ esia. In the end of the event\, organizers and participants will have an i
+ ftar together (break our ramadhan fast for the day).\n\n*)ngabuburit: an I
+ ndonesian slang word for time-killing activity meant to wait for iftar tim
+ e.
+URL:https://reps.mozilla.org/e/ngabuburit-bareng-mozilla-l10n-workshop-ban
+ dung/
+SEQUENCE:15
+X-COORDINATES-LAT:-6.90938657076
+X-COORDINATES-LON:107.617670775
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

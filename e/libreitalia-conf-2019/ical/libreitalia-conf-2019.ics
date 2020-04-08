@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8466
+CLASS:PUBLIC
+DTSTAMP:20200407T165022Z
+DTSTART:20190511T070000Z
+DTEND:20190511T160000Z
+LOCATION:Università degli Studi di Palermo\, Palermo\, Italy
+SUMMARY:LibreItalia Conf 2019
+DESCRIPTION:The six Italian Conference created by Libre Italia
+URL:https://reps.mozilla.org/e/libreitalia-conf-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:38.1161884015
+X-COORDINATES-LON:13.3695731149
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

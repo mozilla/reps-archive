@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1084
+CLASS:PUBLIC
+DTSTAMP:20200407T182557Z
+DTSTART:20131019T020000Z
+DTEND:20131020T100000Z
+LOCATION:University of Technology (ICT)\, Phnom Penh\, Cambodia
+SUMMARY:BarCamp Phnom Penh 6
+DESCRIPTION:is a set of events that bring together IT professionals\,\ninn
+ ovators\, businesses\, NGOs and students\nunder their own agenda\nto netwo
+ rk\, create synergies and\ncatch up the state-of-the-art of technology.
+URL:https://reps.mozilla.org/e/barcamp-phnom-penh-6/
+SEQUENCE:4
+X-COORDINATES-LAT:11.5702903168
+X-COORDINATES-LON:104.897959828
+X-COUNTRY-CODE:kh
+END:VEVENT
+
+END:VCALENDAR

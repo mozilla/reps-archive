@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7612
+CLASS:PUBLIC
+DTSTAMP:20200407T165054Z
+DTSTART:20190706T110000Z
+DTEND:20190706T210000Z
+LOCATION:Pride in London Parade route\, Westminster\, United Kingdom
+SUMMARY:Pride in London 2019
+DESCRIPTION:Pride in London is a huge celebration for LGBTQIA people\, the
+ ir friends\, families\, and allies.\n\nThis event page is to show our inte
+ ntion of marking a presence in 2019\, build and register support\, and fac
+ ilitate discussion on what this will look like.\n\nAn extended series of e
+ vents culminating the Pride in London Parade\, in which around 1 Million p
+ eople line London&#39;s streets to celebrate a diverse community.\n\nDate TBD 
+ on completion of the 2018 event (July 7 2018)
+URL:https://reps.mozilla.org/e/pride-in-london-2019/
+SEQUENCE:0
+X-COORDINATES-LAT:51.5080335173
+X-COORDINATES-LON:-0.128009319742
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

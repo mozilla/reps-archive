@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6105
+CLASS:PUBLIC
+DTSTAMP:20200407T165853Z
+DTSTART:20161203T160000Z
+DTEND:20161203T190000Z
+LOCATION:Prishtina Hackerspace\, Pristina\, Albania
+SUMMARY:Mozilla Meetup 2016  -  FLOSSK
+DESCRIPTION:Mozilla Meetup will be series of events focused to help develo
+ ping the local community and engage new contributors.\n\nWe are going to t
+ alk about:\n- What is Mozilla?\n- How you can be part of Mozilla\n- Presen
+ tation of http://whatcanidoformozilla.org/\n- Introduction to the Repo pro
+ gram and how to get involved
+URL:https://reps.mozilla.org/e/mozilla-meetup-2016-flossk/
+SEQUENCE:0
+X-COORDINATES-LAT:42.6553164125
+X-COORDINATES-LON:21.1680367962
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

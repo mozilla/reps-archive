@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8979
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20200104T183000Z
+DTEND:20200203T183000Z
+LOCATION:Jaypee University of Engineering and Technology\, Guna\, India
+SUMMARY:Winter of Code
+DESCRIPTION:Winter of Code is a platform where technology enthusiasts come
+  together and contribute to tools that solve real-life problems. With the 
+ efforts of the whole Mozilla Phoenix Club team\, we are proud to announce 
+ MPC WoC\, the first Winter Open Source Hackathon of JUET.
+URL:https://reps.mozilla.org/e/winter-of-code/
+SEQUENCE:3
+X-COORDINATES-LAT:24.4348
+X-COORDINATES-LON:77.1606
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

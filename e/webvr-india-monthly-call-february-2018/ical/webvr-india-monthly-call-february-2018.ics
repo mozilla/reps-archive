@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7436
+CLASS:PUBLIC
+DTSTAMP:20200407T174626Z
+DTSTART:20180218T163000Z
+DTEND:20180218T173000Z
+LOCATION:Hangout and YouTube live\, Salem\, India
+SUMMARY:WebVR India Monthly Call February 2018
+DESCRIPTION:Monthly meeting to discuss and plan strategies for WebVR commu
+ nity in India.
+URL:https://reps.mozilla.org/e/webvr-india-monthly-call-february-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:11.6568979393
+X-COORDINATES-LON:78.1804275513
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

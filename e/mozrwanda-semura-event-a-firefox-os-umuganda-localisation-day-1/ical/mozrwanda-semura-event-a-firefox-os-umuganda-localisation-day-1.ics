@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4064
+CLASS:PUBLIC
+DTSTAMP:20200407T180029Z
+DTSTART:20160213T120000Z
+DTEND:20160430T140000Z
+LOCATION:KLab\, Kigali\, Rwanda
+SUMMARY:MOZILLA RWANDA L10n 2016
+DESCRIPTION:Mozilla Rwanda Community and the KLab community will be meetin
+ g every last Saturday of the month for 3 months\, Umuganda Day\, to transl
+ ate Firefox OS and Firefox into Kinyarwanda Language. \n\nNew dates\nSatur
+ day February 13th 2pm-6pm\nSaturday March 19th 2pm-6pm\nSaturday April 23r
+ d 2pm - 6pm
+URL:https://reps.mozilla.org/e/mozrwanda-semura-event-a-firefox-os-umugand
+ a-localisation-day-1/
+SEQUENCE:13
+X-COORDINATES-LAT:-1.9270347828
+X-COORDINATES-LON:30.1251014796
+X-COUNTRY-CODE:rw
+END:VEVENT
+
+END:VCALENDAR

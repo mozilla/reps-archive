@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@237
+CLASS:PUBLIC
+DTSTAMP:20200407T174838Z
+DTSTART:20121016T170000Z
+DTEND:20121016T200000Z
+LOCATION:Facultad Polutecnica FP-UNE\, Ciudad del Este\, Paraguay
+SUMMARY:Onibus Hacker en Ciudad del este
+DESCRIPTION:Onibus Hacker is a laboratory on four wheels where hackers of 
+ all sorts board by a common desire: to occupy Brazilian cities with politi
+ cal actions.
+URL:https://reps.mozilla.org/e/onibus-hacker-en-ciudad-del-este/
+SEQUENCE:0
+X-COORDINATES-LAT:-25.4900404328
+X-COORDINATES-LON:-54.6742773056
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

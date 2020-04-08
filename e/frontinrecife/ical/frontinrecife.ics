@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1429
+CLASS:PUBLIC
+DTSTAMP:20200407T182240Z
+DTSTART:20131214T110000Z
+DTEND:20131214T200000Z
+LOCATION:Faculdade Marista\, Rua Itatiaia\, 318\, Apipucos\, Recife\, Braz
+ il
+SUMMARY:FrontInRecife
+DESCRIPTION:Let us together make a great day\, dedicated to improving our 
+ knowledge related to front-end development\, together with great speakers 
+ from local and national. This year we will talk about SEO\, Responsive\, c
+ ross-platform mobile web\, HTML\, JavaScript\, CSS. See you there!
+URL:https://reps.mozilla.org/e/frontinrecife/
+SEQUENCE:12
+X-COORDINATES-LAT:-8.05833730476
+X-COORDINATES-LON:-34.8974275589
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

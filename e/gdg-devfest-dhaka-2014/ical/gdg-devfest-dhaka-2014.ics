@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3159
+CLASS:PUBLIC
+DTSTAMP:20200407T173408Z
+DTSTART:20141129T033000Z
+DTEND:20141129T130000Z
+LOCATION:United International University\, Dhaka\, Bangladesh
+SUMMARY:GDG DevFest Dhaka 2014
+DESCRIPTION:Hello Geeks! For the first time the Devfest is going to held a
+ t the same time in Dhaka\,Khulna and Rajshahi. \n\nInternet of Things\, An
+ droid Wear\, Cloud\, Security and other crazy stuffs are going to blow you
+ r mind! And the first ever design sprint in Bangladesh will be also presen
+ ted here.\n\nAs a Mozilla Rep\, I\, Tanha Islam will have a speech on woMo
+ z\, Firefox OS and open web!\nJoin us if you are around Dhaka.\nRegister f
+ rom here: http://bit.ly/DevFest14
+URL:https://reps.mozilla.org/e/gdg-devfest-dhaka-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7489943042
+X-COORDINATES-LON:90.369561553
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

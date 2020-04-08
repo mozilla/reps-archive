@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7432
+CLASS:PUBLIC
+DTSTAMP:20200407T174051Z
+DTSTART:20180624T043000Z
+DTEND:20180625T093000Z
+LOCATION:Pune\, Pune\, India
+SUMMARY:Privacy &amp; Security FG Roadmap
+DESCRIPTION:After the success of privacy month campaign\, the team wants t
+ he momentum to grow and keep the privacy activities going. This meetup ser
+ ves as the roadmap planning for privacy activities in the community.\nActi
+ ve mentors from the Privacy Month campaign will meet in Pune for 2 days to
+  reflect upon the success\, what we learnt and architecture of future goal
+ s and campaigns.
+URL:https://reps.mozilla.org/e/privacy-security-fg-roadmap/
+SEQUENCE:3
+X-COORDINATES-LAT:18.4509521165
+X-COORDINATES-LON:73.917388916
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

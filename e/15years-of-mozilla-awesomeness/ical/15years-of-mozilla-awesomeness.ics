@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@703
+CLASS:PUBLIC
+DTSTAMP:20200407T182414Z
+DTSTART:20130601T050000Z
+DTEND:20130601T200000Z
+LOCATION:Alleygators Bar and Lounge\, Garden City\, Kampala\, Uganda
+SUMMARY:15years of Mozilla Awesomeness
+DESCRIPTION:Mozilla has come a long way\, so we are celebrating\n15 years 
+ of the foundation&#39;s hard work and the open web.\nSharing what it is\, how 
+ it begun\, what it has done\, what it\nought and will do. We are throwing 
+ a party to celebrate\n15 years of Mozilla awesomeness with Uganda and the\
+ n world in preparation for another even greater 15 years.
+URL:https://reps.mozilla.org/e/15years-of-mozilla-awesomeness/
+SEQUENCE:11
+X-COORDINATES-LAT:0.321133839558
+X-COORDINATES-LON:32.5893545151
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

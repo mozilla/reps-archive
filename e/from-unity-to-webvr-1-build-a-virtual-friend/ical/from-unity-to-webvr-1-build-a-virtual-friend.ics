@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6619
+CLASS:PUBLIC
+DTSTAMP:20200407T174205Z
+DTSTART:20170521T050000Z
+DTEND:20170521T090000Z
+LOCATION:Mozilla Community Space Taipei\, Taipei\, Taiwan
+SUMMARY:From Unity to WebVR (1) - build a virtual friend!
+DESCRIPTION:It&#39;s a workshop for VR beginners\, we are going to &#34;create&#34; a 
+ virtual friend.
+URL:https://reps.mozilla.org/e/from-unity-to-webvr-1-build-a-virtual-frien
+ d/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0442728162
+X-COORDINATES-LON:121.532152587
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

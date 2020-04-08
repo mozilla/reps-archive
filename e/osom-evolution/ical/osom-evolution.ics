@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@494
+CLASS:PUBLIC
+DTSTAMP:20200407T180333Z
+DTSTART:20130215T110000Z
+DTEND:20130215T160000Z
+LOCATION:Adobe Systems Romania. BD Timisoara\, 26Z\, Anchor Plaza\, 6th fl
+ oor \, București\, Romania
+SUMMARY:OSOM EvolutiON
+DESCRIPTION: OSOM – Open Source Open Mind –  an event held annually\, 
+ is design to reveal the general Open Source and Free Software concepts\, t
+ he differences between the two trends and the types of licenses used in th
+ is area\, to demonstrate that Open Source and Free Software is a valid rep
+ lacement or complement to proprietary software.\n\nBeyond this\, the event
+  tries to promote these open and free concepts in other fields\, covering 
+ but not limited to\, business\, media and education. 
+URL:https://reps.mozilla.org/e/osom-evolution/
+SEQUENCE:0
+X-COORDINATES-LAT:44.4285088175
+X-COORDINATES-LON:26.0350227356
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

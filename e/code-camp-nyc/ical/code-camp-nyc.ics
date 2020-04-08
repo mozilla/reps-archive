@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8873
+CLASS:PUBLIC
+DTSTAMP:20200407T164934Z
+DTSTART:20191012T033000Z
+DTEND:20191012T113000Z
+LOCATION:Microsoft Conference Center\, Manhattan\, India
+SUMMARY:Code Camp NYC
+DESCRIPTION:Code Camps are &#34;grass roots&#34; mini application platform develop
+ er conferences featuring presentations by developers and for developers. T
+ he event is open to attendees and presenters of all stripes and experience
+ !
+URL:https://reps.mozilla.org/e/code-camp-nyc/
+SEQUENCE:2
+X-COORDINATES-LAT:40.7111801487
+X-COORDINATES-LON:-71.6953128576
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

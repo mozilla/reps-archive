@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6872
+CLASS:PUBLIC
+DTSTAMP:20200407T165327Z
+DTSTART:20171202T043000Z
+DTEND:20171202T123000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Rust&#39;ing All day
+DESCRIPTION:A full day workshop introducing rust to Hyderabad Techies and 
+ Communities.
+URL:https://reps.mozilla.org/e/rust-ing-all-day/
+SEQUENCE:9
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

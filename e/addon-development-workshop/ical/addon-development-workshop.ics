@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8489
+CLASS:PUBLIC
+DTSTAMP:20200407T174627Z
+DTSTART:20190419T100000Z
+DTEND:20190419T150000Z
+LOCATION:OiAmigo Jaipur\, Jaipur\, India
+SUMMARY:Addon Development Sprint
+DESCRIPTION:Extensions can extend and modify the capability of a browser. 
+ Extensions for Firefox are built using the WebExtensions API\, a cross-bro
+ wser system for developing extensions. To a large extent the system is com
+ patible with the extension API supported by Google Chrome and Opera and th
+ e W3C Draft Community Group.
+URL:https://reps.mozilla.org/e/addon-development-workshop/
+SEQUENCE:2
+X-COORDINATES-LAT:26.7266408261
+X-COORDINATES-LON:75.9916993976
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6738
+CLASS:PUBLIC
+DTSTAMP:20200407T174242Z
+DTSTART:20170617T130000Z
+DTEND:20170617T170000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:WebVR Workshop @ Open Labs Hackerspace
+DESCRIPTION:WebVR Workshop\, held at the Open Labs Hackerspace in Tirana\,
+  Albania\n\nWe are hacking on various A-Frame projects
+URL:https://reps.mozilla.org/e/webvr-workshop-open-labs-hackerspace/
+SEQUENCE:2
+X-COORDINATES-LAT:41.321564774
+X-COORDINATES-LON:19.8292325737
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

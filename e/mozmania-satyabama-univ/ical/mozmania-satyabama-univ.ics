@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1576
+CLASS:PUBLIC
+DTSTAMP:20200407T183411Z
+DTSTART:20131218T033000Z
+DTEND:20131218T083000Z
+LOCATION:Satyabama University \, Chennai\, Chennai\, India
+SUMMARY:MozMania@Satyabama Univ
+DESCRIPTION:It is to be a one full day event reaching out to the open sour
+ ce lovers and guiding them on Webmaking and about Firefox OS . Creating a 
+ new student club in the college and recruting new FSA and guiding them on 
+ the areas of contribution to Mozilla .
+URL:https://reps.mozilla.org/e/mozmania-satyabama-univ/
+SEQUENCE:2
+X-COORDINATES-LAT:12.7789354042
+X-COORDINATES-LON:80.2432022081
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

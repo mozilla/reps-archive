@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@897
+CLASS:PUBLIC
+DTSTAMP:20200407T182218Z
+DTSTART:20130627T090000Z
+DTEND:20130630T160000Z
+LOCATION:“Himik” tourist camp\, Grodno\, Belarus
+SUMMARY:Linux Vacation / Eastern Europe
+DESCRIPTION:International conference of developers and users\nof free / op
+ en source software
+URL:https://reps.mozilla.org/e/linux-vacation-eastern-europe/
+SEQUENCE:1
+X-COORDINATES-LAT:53.8036288347
+X-COORDINATES-LON:24.1849529743
+X-COUNTRY-CODE:by
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1701
+CLASS:PUBLIC
+DTSTAMP:20200407T174905Z
+DTSTART:20140111T083000Z
+DTEND:20140111T143000Z
+LOCATION:Princess Sumaya Univeristy\, Amman\, Jordan
+SUMMARY:PSUT Firefox day
+DESCRIPTION:This event is part of Mozilla community Jordan efforts to rela
+ unch again by doing events around the country with media coverage.\nhttps:
+ //www.facebook.com/events/1466069983619684/
+URL:https://reps.mozilla.org/e/psut-firefox-day/
+SEQUENCE:3
+X-COORDINATES-LAT:31.9677912961
+X-COORDINATES-LON:35.8983126283
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6554
+CLASS:PUBLIC
+DTSTAMP:20200407T171705Z
+DTSTART:20170918T090000Z
+DTEND:20170919T160000Z
+LOCATION:British University In Egypt\, El Sherouk\, Egypt
+SUMMARY:&#34;MOZEGY&#34; Summit 2017
+DESCRIPTION:&#34;Two days full of activities in Greater Cairo\, Egypt. Learn f
+ rom unconventional thinkers\, acquire powerful new skills\, and go away wi
+ th new ideas.&#34;
+URL:https://reps.mozilla.org/e/mozegy-summit-2017/
+SEQUENCE:2
+X-COORDINATES-LAT:30.1187433158
+X-COORDINATES-LON:31.6110268235
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

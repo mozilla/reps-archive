@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5324
+CLASS:PUBLIC
+DTSTAMP:20200407T182112Z
+DTSTART:20160416T153000Z
+DTEND:20160416T200000Z
+LOCATION:Campus II da Feevale\, Prédio Arenito\, Novo Hamburgo\, Brazil
+SUMMARY:FLISOL 2016 - Novo Hamburgo
+DESCRIPTION:free event on 16 April at the University FEEVALE with talks\, 
+ demonstrations\, installation and distribution of Free Software.
+URL:https://reps.mozilla.org/e/flisol-2016-novo-hamburgo/
+SEQUENCE:0
+X-COORDINATES-LAT:-29.6647681879
+X-COORDINATES-LON:-51.1190861466
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

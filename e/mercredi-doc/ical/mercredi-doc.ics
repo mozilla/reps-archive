@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2443
+CLASS:PUBLIC
+DTSTAMP:20200407T180444Z
+DTSTART:20140625T170000Z
+DTEND:20140625T200000Z
+LOCATION:MozSpace 16 bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Mercredi Doc #41
+DESCRIPTION:Let&#39;s contribute to MDN with us!\n\nJeremie Patonier\, Julia B
+ uchner and I are really proud to invite you at the Mozilla office for maki
+ ng documentation about MDN and Rust!
+URL:https://reps.mozilla.org/e/mercredi-doc/
+SEQUENCE:6
+X-COORDINATES-LAT:48.8719339426
+X-COORDINATES-LON:2.34130107612
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

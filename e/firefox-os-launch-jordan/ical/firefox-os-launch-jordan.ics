@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5042
+CLASS:PUBLIC
+DTSTAMP:20200407T174315Z
+DTSTART:20160213T090000Z
+DTEND:20160213T140000Z
+LOCATION:Business Park - ZINC\, Amman\, Jordan
+SUMMARY:Firefox OS launch - Jordan
+DESCRIPTION:It is like a dream come true having Firefox OS launched in Jor
+ dan after years of volunteering in its all fields(localization\, RTL\, tes
+ ting...etc)\, so this event is considered the most important event to be h
+ eld
+URL:https://reps.mozilla.org/e/firefox-os-launch-jordan/
+SEQUENCE:3
+X-COORDINATES-LAT:31.968376847
+X-COORDINATES-LON:35.8632659633
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

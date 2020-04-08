@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4729
+CLASS:PUBLIC
+DTSTAMP:20200407T182114Z
+DTSTART:20151205T100000Z
+DTEND:20151205T190000Z
+LOCATION:Universidade Federal de Pelotas\, Campus Anglo\, Pelotas\, Brazil
+SUMMARY:Workshops e Hackthon - Quantum Firefox Club
+DESCRIPTION:Training scholars usage of open web technologies HTML5\, CSS3 
+ and CSS frameworks (bootstrap) and Javascript will be the focus\, upon whi
+ ch we would have a few implemented ideas submitted to the market place eve
+ ntually.
+URL:https://reps.mozilla.org/e/workshops-e-hackthon-quantum-firefox-club/
+SEQUENCE:1
+X-COORDINATES-LAT:-31.781381307
+X-COORDINATES-LON:-52.3235895037
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

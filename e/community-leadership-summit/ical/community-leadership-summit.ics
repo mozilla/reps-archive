@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1721
+CLASS:PUBLIC
+DTSTAMP:20200407T173258Z
+DTSTART:20140718T190000Z
+DTEND:20140720T060000Z
+LOCATION:Oregon Convention Center\, Portland\, Canada
+SUMMARY:Community Leadership Summit
+DESCRIPTION:The Community Leadership Summit 2014 brings together community
+  leaders\, organizers and managers and the projects and organizations that
+  are interested in growing and empowering a strong community.\n\nThe event
+  pulls together the leading minds in community management\, relations and 
+ online collaboration to discuss\, debate and continue to refine the art of
+  building an effective and capable community.
+URL:https://reps.mozilla.org/e/community-leadership-summit/
+SEQUENCE:2
+X-COORDINATES-LAT:45.5210222569
+X-COORDINATES-LON:-122.676773071
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

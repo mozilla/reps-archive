@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2560
+CLASS:PUBLIC
+DTSTAMP:20200407T181954Z
+DTSTART:20141024T170000Z
+DTEND:20141026T180000Z
+LOCATION:San Jose Marriott and Hilton\, CA\, USA\, San Jose Marriott\, Uni
+ ted States
+SUMMARY:Google Summer of Code
+DESCRIPTION:Google Summer of Code is a global program that offers students
+  stipends to write code for open source projects. We have worked with the 
+ open source community to identify and fund exciting projects for the upcom
+ ing summer.
+URL:https://reps.mozilla.org/e/google-summer-of-code/
+SEQUENCE:3
+X-COORDINATES-LAT:37.3414798045
+X-COORDINATES-LON:-121.889419563
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

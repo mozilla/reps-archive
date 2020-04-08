@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7957
+CLASS:PUBLIC
+DTSTAMP:20200407T180021Z
+DTSTART:20180730T110000Z
+DTEND:20180730T130000Z
+LOCATION:Tokopedia Tower\, Jakarta\, Indonesia
+SUMMARY:Python ID X Traveloka Meetup
+DESCRIPTION:if you are someone who loves ingestions\, testing and packagin
+ g. This meetup might be right for you!\n\nThis time\, Python ID collaborat
+ e with Tokopedia\, when? Monday\, 30 July 2018\, doors are open at 18.00. 
+ You can build new networks with bunch of snacks there.
+URL:https://reps.mozilla.org/e/python-id-x-traveloka-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.22622744485
+X-COORDINATES-LON:106.793289185
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

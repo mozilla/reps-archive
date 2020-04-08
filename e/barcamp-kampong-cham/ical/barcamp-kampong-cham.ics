@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2413
+CLASS:PUBLIC
+DTSTAMP:20200407T182555Z
+DTSTART:20140719T013000Z
+DTEND:20140720T050000Z
+LOCATION:11.992319\, 105.452786\, Kampong Cham\, Cambodia
+SUMMARY:BarCamp Kampong Cham
+DESCRIPTION:BarCamp Cambodia is a set of events that bring together IT pro
+ fessionals\, innovators\, businesses\, NGOs and students to network\, crea
+ te synergies and catch up the state-of-the-art of technology.
+URL:https://reps.mozilla.org/e/barcamp-kampong-cham/
+SEQUENCE:3
+X-COORDINATES-LAT:11.9780191445
+X-COORDINATES-LON:105.458758414
+X-COUNTRY-CODE:kh
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@899
+CLASS:PUBLIC
+DTSTAMP:20200407T182251Z
+DTSTART:20130608T060000Z
+DTEND:20130608T160000Z
+LOCATION:Óbudai Egyetem\, Budapest\, Hungary
+SUMMARY:Szabad Szoftver Konferencia és Kiállítás 2013
+DESCRIPTION:One of the biggest Hungarian Open Source Event.
+URL:https://reps.mozilla.org/e/szabad-szoftver-konferencia-es-kiallitas-20
+ 13/
+SEQUENCE:2
+X-COORDINATES-LAT:46.9202553154
+X-COORDINATES-LON:19.6875
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

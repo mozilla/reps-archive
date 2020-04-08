@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2918
+CLASS:PUBLIC
+DTSTAMP:20200407T174911Z
+DTSTART:20141024T020000Z
+DTEND:20141024T060000Z
+LOCATION:San Francisco Office\, San Francisco\, United States
+SUMMARY:Ubuntu Utopic Release Party
+DESCRIPTION:Ubutu Utopic Release Party to celebrate the latest release of 
+ the Ubuntu Desktop Operating System which ships with Firefox as the defaul
+ t browser.\n\nThis event will have both user and developer attendees with 
+ a technical focus. Benjamin would participate by be a host for the event i
+ n our San Francisco Space with one Staff Sponsor. Benjamin would highlight
+  latest changes in Firefox shipping with Utopic version of Ubuntu and show
+  off DevTools.
+URL:https://reps.mozilla.org/e/ubuntu-utopic-release-party/
+SEQUENCE:4
+X-COORDINATES-LAT:37.7156936254
+X-COORDINATES-LON:-122.24560529
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

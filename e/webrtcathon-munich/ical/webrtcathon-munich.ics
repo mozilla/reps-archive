@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1955
+CLASS:PUBLIC
+DTSTAMP:20200407T175402Z
+DTSTART:20140405T080000Z
+DTEND:20140405T160000Z
+LOCATION:Combinat 56\, Adams-Lehmann-Straße 56\, Munich\, Germany
+SUMMARY:WebRTC’athon Munich
+DESCRIPTION:Hackathon which is all about WebRTC. This is the &#34;2014 edition
+ &#34; of our yearly Mozilla events in Munich. The first event of this series w
+ as in NOV 2012 (https://reps.mozilla.org/e/firefoxos-and-open-web-apps-at-
+ munich-js-meetup/).
+URL:https://reps.mozilla.org/e/webrtcathon-munich/
+SEQUENCE:8
+X-COORDINATES-LAT:48.1636309035
+X-COORDINATES-LON:11.5585908294
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

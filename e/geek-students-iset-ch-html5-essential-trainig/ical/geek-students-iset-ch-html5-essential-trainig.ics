@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@886
+CLASS:PUBLIC
+DTSTAMP:20200407T180436Z
+DTSTART:20130515T140000Z
+DTEND:20130515T180000Z
+LOCATION:TBD\, Charguia\, Tunisia
+SUMMARY:Geek Students ISET_Ch : HTML5 Essential Trainig
+DESCRIPTION:After an invitation from The High Institute of Technology ISET
+  Charguia\, Mozilla Tunisia will be present for an accelerated HTML5 train
+ ing session for students. The team will introduce FirefoxOS for participan
+ ts\, Web apps and help them to hack their own applications.\nThis event is
+  a part of Mozilla Tunisia&#39;s program &#34;Be Geek&#34;.
+URL:https://reps.mozilla.org/e/geek-students-iset-ch-html5-essential-train
+ ig/
+SEQUENCE:1
+X-COORDINATES-LAT:36.8527027854
+X-COORDINATES-LON:10.196685791
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

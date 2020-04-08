@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1578
+CLASS:PUBLIC
+DTSTAMP:20200407T175406Z
+DTSTART:20131221T110000Z
+DTEND:20131221T150000Z
+LOCATION:Hive Colab\, Kampala\, Uganda
+SUMMARY:Mozilla Community Uganda End of Year Party
+DESCRIPTION:An event bringing together community members and friends of th
+ e community to celebrate the success of the community through 2013 and for
+ ge a way forward for 2014. The event will also double in as a launch of th
+ e student reps program.
+URL:https://reps.mozilla.org/e/mozilla-community-uganda-end-of-year-party/
+SEQUENCE:2
+X-COORDINATES-LAT:0.341988559522
+X-COORDINATES-LON:32.5918400283
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

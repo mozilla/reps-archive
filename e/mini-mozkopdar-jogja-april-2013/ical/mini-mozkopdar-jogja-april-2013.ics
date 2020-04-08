@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@771
+CLASS:PUBLIC
+DTSTAMP:20200407T180631Z
+DTSTART:20130414T080000Z
+DTEND:20130414T110000Z
+LOCATION:Myoozik Cafe\, Yogyakarta\, Indonesia
+SUMMARY:Mini MozKopDar Jogja April 2013
+DESCRIPTION:Mini MozKopDarJog = Mozilla Kopi Darat Jogja (MozCoffee - Mozi
+ llian Meetup) 
+URL:https://reps.mozilla.org/e/mini-mozkopdar-jogja-april-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.78049145573
+X-COORDINATES-LON:110.375974774
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

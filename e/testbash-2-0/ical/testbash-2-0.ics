@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@501
+CLASS:PUBLIC
+DTSTAMP:20200407T174434Z
+DTSTART:20130322T093000Z
+DTEND:20130322T170000Z
+LOCATION:The Corn Exchange\, Brighton\, United Kingdom
+SUMMARY:TestBash 2.0
+DESCRIPTION:TestBash 2013 is a one day affordable software testing confere
+ nce in Brighton on Friday March 22nd 2013. It&#39;s the second of its kind\, a
+ nd I attended the first last year. It was a relatively small event (50-100
+  attendees)\, but this year promises to be even bigger. The speakers they&#39;
+ ve lined up include some big names from the testing community.
+URL:https://reps.mozilla.org/e/testbash-2-0/
+SEQUENCE:0
+X-COORDINATES-LAT:50.823885
+X-COORDINATES-LON:-0.138624
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

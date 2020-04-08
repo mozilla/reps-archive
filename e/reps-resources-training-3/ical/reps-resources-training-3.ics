@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8695
+CLASS:PUBLIC
+DTSTAMP:20200407T165133Z
+DTSTART:20190718T080000Z
+DTEND:20190718T090000Z
+LOCATION:Zoom\, Jakarta\, Indonesia
+SUMMARY:Reps Resources Training 3
+DESCRIPTION:https://mozilla.teachable.com/courses/enrolled/172703
+URL:https://reps.mozilla.org/e/reps-resources-training-3/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.40628743881
+X-COORDINATES-LON:106.942382455
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

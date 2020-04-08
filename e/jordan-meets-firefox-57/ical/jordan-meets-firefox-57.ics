@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7057
+CLASS:PUBLIC
+DTSTAMP:20200407T174832Z
+DTSTART:20171007T070000Z
+DTEND:20171007T090000Z
+LOCATION:TBD\, Amman\, Jordan
+SUMMARY:Jordan Meets Firefox 57
+DESCRIPTION:We are a group volunteers self driven to ensuring that Firefox
+  57 will launch successfully in our region. JOIN US AS WE TEST THE NEW FIR
+ EFOX
+URL:https://reps.mozilla.org/e/jordan-meets-firefox-57/
+SEQUENCE:0
+X-COORDINATES-LAT:31.9609646
+X-COORDINATES-LON:35.8742062
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

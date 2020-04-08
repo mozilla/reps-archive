@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8453
+CLASS:PUBLIC
+DTSTAMP:20200407T175531Z
+DTSTART:20190317T074500Z
+DTEND:20190317T081000Z
+LOCATION:Lifelong Learning Institute\, Singapore\, 11 Eunos Road\, Singapo
+ re
+SUMMARY:FOSSASIA 2019 - Blockchain in Insurance Industry
+DESCRIPTION:FOSSASIA is a ASIA wide summit for open source developers and 
+ enthusiasts to come together and share their views about the respective tr
+ acks
+URL:https://reps.mozilla.org/e/fossasia-2019-blockchain-track/
+SEQUENCE:1
+X-COORDINATES-LAT:1.3198
+X-COORDINATES-LON:103.8923
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

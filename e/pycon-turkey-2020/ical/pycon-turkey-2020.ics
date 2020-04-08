@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8927
+CLASS:PUBLIC
+DTSTAMP:20200407T170203Z
+DTSTART:20200502T060000Z
+DTEND:20200503T150000Z
+LOCATION:Albert Long Hall - Bogazici University\, Istanbul\, Turkey
+SUMMARY:PyCon Turkey 2020
+DESCRIPTION:This will be our first international PyCon conference where we
+  aim to bring Pythonistas of all levels around the world together for exci
+ ting talks for two days. Pycon Turkey is a nonprofit event facilitated by 
+ Istanbul Python Users Group (PyIstanbul)\, an organization focusing to sup
+ port and educate Python users in Turkey.
+URL:https://reps.mozilla.org/e/pycon-turkey-2020/
+SEQUENCE:0
+X-COORDINATES-LAT:41.0829756
+X-COORDINATES-LON:29.0525641
+X-COUNTRY-CODE:tr
+END:VEVENT
+
+END:VCALENDAR

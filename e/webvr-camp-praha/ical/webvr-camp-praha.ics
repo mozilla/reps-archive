@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8126
+CLASS:PUBLIC
+DTSTAMP:20200407T181527Z
+DTSTART:20181020T140000Z
+DTEND:20181020T183000Z
+LOCATION:Etnetera offices - Jankovcova 1037/49 170 00 Praha 7\, Brno\, Cze
+ ch Republic
+SUMMARY:WebVR Camp Praha
+DESCRIPTION:WebVR workshop in Prague!\n\nWant o learn WebVR? Join us and o
+ ur friends from Etnetera on our journey of creting VR app for the Web.
+URL:https://reps.mozilla.org/e/webvr-camp-praha/
+SEQUENCE:1
+X-COORDINATES-LAT:50.1074938
+X-COORDINATES-LON:14.4542187
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

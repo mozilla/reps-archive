@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6773
+CLASS:PUBLIC
+DTSTAMP:20200407T174158Z
+DTSTART:20170722T200000Z
+DTEND:20170723T003000Z
+LOCATION:Telmex Hub\, Delegacion Cuauhtemoc\, Mexico
+SUMMARY:Defend yourself
+DESCRIPTION:This curriculum was created for a Defense and Detoxification e
+ vent for women in Mexico City to teach digital women how to protect themse
+ lves online. The curriculum can be tailored for women anywhere.\n\nThis is
+  not the Internet I want for women. I do not want us to struggle to mainta
+ in our online presence or fear what could happen to us if we stayed in dan
+ gerous spaces. I want an ecosystem that includes our differences.\n\nWe ar
+ e far from achieving this.
+URL:https://reps.mozilla.org/e/defend-yourselft/
+SEQUENCE:3
+X-COORDINATES-LAT:19.4311629255
+X-COORDINATES-LON:-99.1367697718
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3423
+CLASS:PUBLIC
+DTSTAMP:20200407T173641Z
+DTSTART:20150305T033000Z
+DTEND:20150307T143000Z
+LOCATION:Amrita Vishwa Vidyapeetham\, Coimbator\, India
+SUMMARY:Anokha 2015 Firefox OS app days
+DESCRIPTION:Day 1 : (Firefox OS app development)\nIntroduction about Firef
+ ox OS.\nIntroducing Mozilla Appmaker for App development\nIntroduction to 
+ Various Tools for Firefox OS app development. \nBuild simple apps using HT
+ ML\,CSS\,JS\nBuilding apps using API’s\nUploading Apps to Marketplace.\n
+ \nDay 2 : Hackathon on Firefox OS app development\n\nDay 3:\nInaugurating 
+ Firefox Student Ambassador Club\nIntroducing Club Structure\nIntroducing v
+ arious contribution paths\nFirefox Student Ambassador Stall\nMaker Stall
+URL:https://reps.mozilla.org/e/anokha-2015-firefox-os-app-days/
+SEQUENCE:5
+X-COORDINATES-LAT:10.9482704311
+X-COORDINATES-LON:77.0192241669
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

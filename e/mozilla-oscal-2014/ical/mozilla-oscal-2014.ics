@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2014
+CLASS:PUBLIC
+DTSTAMP:20200407T165843Z
+DTSTART:20140503T063000Z
+DTEND:20140504T040000Z
+LOCATION:Freedom Hall\, Tirana\, Albania
+SUMMARY:OSCAL 2014 | Open Source Conference Albania
+DESCRIPTION:OSCAL (Open Source Conference Albania) 2014 is an internationa
+ l annual conference in Albania organized to promote software freedom\, ope
+ n source software\, free culture and open knowledge in Albania. \n\nIt wil
+ l take place at 3 May 2014 &amp; 4 May 2014 in Tirana and will gather free lib
+ re open source technology users\, developers\, academics\, governmental ag
+ encies &amp; people who share the idea that software should be free and open f
+ or the local community &amp; government to develop and customize to its needs
+URL:https://reps.mozilla.org/e/mozilla-oscal-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:41.285374476
+X-COORDINATES-LON:20.1119384542
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@731
+CLASS:PUBLIC
+DTSTAMP:20200407T182415Z
+DTSTART:20130615T050000Z
+DTEND:20130615T140000Z
+LOCATION:Hive Colab\, Kanjokya House\, Kampala\, Uganda
+SUMMARY:Webmaker Mentor Training Kampala
+DESCRIPTION:Following up from the Webmaker Reps Training event we had in A
+ thens\,\nGreece. We had planned to execute a Webmaker test event before th
+ e\nWebmaker remix party. We agreed to hold an event to train all our new\n
+ and old contributors in the webmaker tools\, how to setup a successful\nev
+ ent\, how to use etherpad\, writing a successful blog post and reporting\,
+ \nsetting up a mozillian.org account and using the wiki.
+URL:https://reps.mozilla.org/e/webmaker-mentor-training-kampala/
+SEQUENCE:14
+X-COORDINATES-LAT:0.0
+X-COORDINATES-LON:33.046875
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4496
+CLASS:PUBLIC
+DTSTAMP:20200407T183443Z
+DTSTART:20150530T010000Z
+DTEND:20150531T100000Z
+LOCATION:Huashan1914	Creative	Park	East	2、East  3、Central	4B\, Da-an D
+ istrict\, Taiwan
+SUMMARY:Mozilla booth @ Maker Faire Taipei 2015
+DESCRIPTION:Mozilla joined Maker Faire Taipie 2015 this year\, and prepare
+ d a booth to show the creations and possibilities of using Firefox OS on s
+ everal creative devices and to build awareness among maker community.
+URL:https://reps.mozilla.org/e/mozilla-booth-maker-faire-taipei-2015/
+SEQUENCE:0
+X-COORDINATES-LAT:25.045207419
+X-COORDINATES-LON:121.536637544
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

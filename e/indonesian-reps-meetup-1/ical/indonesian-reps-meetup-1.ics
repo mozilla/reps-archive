@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5486
+CLASS:PUBLIC
+DTSTAMP:20200407T180633Z
+DTSTART:20160514T030000Z
+DTEND:20160514T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Indonesian Reps Meetup
+DESCRIPTION:Indonesian Reps meetup and discussion\, about the community it
+ self\, about mid term planning\, and update from Participation Team by Bri
+ an King.
+URL:https://reps.mozilla.org/e/indonesian-reps-meetup-1/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.18772428535
+X-COORDINATES-LON:106.836938739
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5311
+CLASS:PUBLIC
+DTSTAMP:20200407T181530Z
+DTSTART:20160402T223000Z
+DTEND:20160403T003000Z
+LOCATION:M.G. Road 56 Dukan\, Indore\, India
+SUMMARY:Mozcafe@Indore
+DESCRIPTION:It is great to hear about take back the web at campus campaign
+ ing for the volunteers to teach web literacy and web privacy. We organisin
+ g meetup to support on mozilla vision for take back the web.
+URL:https://reps.mozilla.org/e/mozcafe-indore/
+SEQUENCE:1
+X-COORDINATES-LAT:22.682545706
+X-COORDINATES-LON:75.8577475547
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5250
+CLASS:PUBLIC
+DTSTAMP:20200407T182552Z
+DTSTART:20160423T140000Z
+DTEND:20160423T160000Z
+LOCATION:Academic City College\, Abena Atea Tower\, Ring road central\,\, 
+ Accra\, Ghana
+SUMMARY:Academic City College Firefox Club Orientation Event
+DESCRIPTION:Firefox Clubs are a key grouping of Student Ambassadors at var
+ ious schools\, which  help in promotion of  Mozilla&#39;s mission\, Firefox\, 
+ and  open source technologies. In this orientation event we are going to b
+ rief about Mozilla\, Firefox Club\, Club activities\, Firefox Student Amba
+ ssador and contribution area.
+URL:https://reps.mozilla.org/e/academic-city-college-firefox-club-orientat
+ ion-event/
+SEQUENCE:8
+X-COORDINATES-LAT:5.6037168
+X-COORDINATES-LON:-0.1869644
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@437
+CLASS:PUBLIC
+DTSTAMP:20200407T173900Z
+DTSTART:20130126T080000Z
+DTEND:20130126T180000Z
+LOCATION:garAJE\, Matilde Diez 11\, Madrid\, Spain
+SUMMARY:Firefox OS App Days Madrid
+DESCRIPTION:Firefox OS event in Madrid\, part of the global Firefox OS App
+ s Days.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-madrid/
+SEQUENCE:0
+X-COORDINATES-LAT:40.446065
+X-COORDINATES-LON:-3.673431
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

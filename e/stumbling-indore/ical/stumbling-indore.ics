@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3884
+CLASS:PUBLIC
+DTSTAMP:20200407T175313Z
+DTSTART:20150701T043000Z
+DTEND:20150710T043000Z
+LOCATION:Community Hall  Vatsana\, Indore\, India
+SUMMARY:Stumbling in a Box : MadhyaPradesh
+DESCRIPTION:We will have a GeoLocation Sprint where we will talk about the
+  Mozilla Location Service.\nContribute to Mozilla and free and open projec
+ ts introduction to stumbling tools that bring knowledge to participants on
+  how to gather geolocation information in their cities.. After which\, par
+ ticipants will gather information and upload it to the mozilla servers
+URL:https://reps.mozilla.org/e/stumbling-indore/
+SEQUENCE:17
+X-COORDINATES-LAT:22.716018455
+X-COORDINATES-LON:75.8956857026
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@953
+CLASS:PUBLIC
+DTSTAMP:20200407T182541Z
+DTSTART:20130706T033000Z
+DTEND:20130706T113000Z
+LOCATION:Malwa Institute of Science and Technology\, Indore\, India
+SUMMARY:Mozconnect 2013
+DESCRIPTION:MozConnect is one of the widely attended FOSS event in Bhopal\
+ , Last year[1] we had a great response from Bhopal city for establishing M
+ ozilla Presence in central province of India.\nWe got some awesome volunte
+ ers from Bhopal like Komal Gandhi(First Womoz from India)\nVaibhav Bajaj\,
+  Divya Thakre and many more who are continuously doing great Job in local 
+ community.
+URL:https://reps.mozilla.org/e/mozconnect-2013/
+SEQUENCE:26
+X-COORDINATES-LAT:22.7186360812
+X-COORDINATES-LON:75.8626556396
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

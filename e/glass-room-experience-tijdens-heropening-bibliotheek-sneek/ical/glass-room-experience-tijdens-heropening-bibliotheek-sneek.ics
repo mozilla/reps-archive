@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8222
+CLASS:PUBLIC
+DTSTAMP:20200407T180454Z
+DTSTART:20181103T090000Z
+DTEND:20181103T160000Z
+LOCATION:Bibliotheek Sneek\, Sneek\, Netherlands
+SUMMARY:Glass Room Experience tijdens heropening bibliotheek Sneek
+DESCRIPTION:Tijdens de opening van de nieuw ingerichte bibliotheek van Sne
+ ek\, staat Frysklab met de Glass Room Experince en de Data Detox Kit.\nKom
+  langs en laat u bijpraten over wat Mozilla doet om de privacy van interne
+ tters te beschermen.\n\nDuring the opening of the newly decorated library 
+ in Sneek\, Frysklab will be present with the Glass Room Experience and the
+  Data Detox Kit.\nCome along and get informed about what Mozilla does to p
+ rotect the privacy of people online.
+URL:https://reps.mozilla.org/e/glass-room-experience-tijdens-heropening-bi
+ bliotheek-sneek/
+SEQUENCE:2
+X-COORDINATES-LAT:53.0333101852
+X-COORDINATES-LON:5.65759241576
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

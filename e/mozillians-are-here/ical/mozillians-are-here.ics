@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@194
+CLASS:PUBLIC
+DTSTAMP:20200407T174924Z
+DTSTART:20121104T100000Z
+DTEND:20121104T120000Z
+LOCATION:An-Najah National University\, Nablus\, Occupied Palestinian Terr
+ itory
+SUMMARY:Mozillians are Here!!!
+DESCRIPTION:The event will be held in one of the biggest university in Wes
+ t Bank. I will be talking about Mozilla manifesto\, latest Mozilla product
+ s\, Firefox OS\, and a Firefox OS hack demo\, Q &amp; A then at the end a hack
+  session for small group of students
+URL:https://reps.mozilla.org/e/mozillians-are-here/
+SEQUENCE:0
+X-COORDINATES-LAT:32.2266702624
+X-COORDINATES-LON:35.2209663391
+X-COUNTRY-CODE:ps
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@283
+CLASS:PUBLIC
+DTSTAMP:20200407T180020Z
+DTSTART:20130112T000000Z
+DTEND:20130112T080000Z
+LOCATION:Pamantasan Ng Cabuyao Gym\, Pamantasan Ng Cabuyao\, Cabuyao\, Phi
+ lippines
+SUMMARY:MozTour at Pamantasan ng Cabuyao (PNC)
+DESCRIPTION:The College of Engineering of the Pamantasan Ng Cabuyao in Cab
+ uyao\, Laguna has organized a one-day seminar/workshop with the objective 
+ of learning more about the Open Web\, free and open source software/commun
+ ity involvement\, blogging and web development. Mozilla Philippines was in
+ vited to participate as guest speakers/facilitators.\n\nAn estimated 549 c
+ ollege students is expected.
+URL:https://reps.mozilla.org/e/moztour-at-pamantasan-ng-cabuyao-pnc/
+SEQUENCE:0
+X-COORDINATES-LAT:14.2650485622
+X-COORDINATES-LON:121.125383377
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

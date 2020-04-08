@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8715
+CLASS:PUBLIC
+DTSTAMP:20200407T170232Z
+DTSTART:20191102T043000Z
+DTEND:20191103T113000Z
+LOCATION:Rajiv Gandhi Institute of Technology\, Kottayam\, India
+SUMMARY:Letspy 2k19
+DESCRIPTION:LetsPy is a two day Django Python ‘workathon’ (workshop/ha
+ ckathon) aimed at introducing novice enthusiasts/students to the world of 
+ computer science and collaborative development.
+URL:https://reps.mozilla.org/e/letspy-2k19/
+SEQUENCE:13
+X-COORDINATES-LAT:9.5902487797
+X-COORDINATES-LON:76.5253400785
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4315
+CLASS:PUBLIC
+DTSTAMP:20200407T180522Z
+DTSTART:20150904T060000Z
+DTEND:20150905T100000Z
+LOCATION:Sylhet Polytechnic Institute\, Sylhet\, Sylhet\, Bangladesh
+SUMMARY:Mozilla Awareness Booth at Sylhet Polytechnic Institute
+DESCRIPTION:On this institute\, the new semester will be started from 1st 
+ September\; \nThe freshers will be acknowledged about Mozilla\, its missio
+ n and  recruited as FSA and Mozillians\;
+URL:https://reps.mozilla.org/e/mozilla-awareness-booth-at-sylhet-polytechn
+ ic-institute/
+SEQUENCE:7
+X-COORDINATES-LAT:24.8999822235
+X-COORDINATES-LON:91.869086267
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

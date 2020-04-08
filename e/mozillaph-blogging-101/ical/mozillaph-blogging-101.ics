@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1692
+CLASS:PUBLIC
+DTSTAMP:20200407T175900Z
+DTSTART:20140208T060000Z
+DTEND:20140208T103000Z
+LOCATION:Globe Valero Telepark\, Makati City\, Philippines
+SUMMARY:MozillaPH Social Media Series: Blogging 101
+DESCRIPTION:Blogging has been proven as one of the most effective ways to 
+ communicate nowadays. This event intends to teach the techniques on how to
+  effectively use blogging as a platform of communicating things. \n\nThe M
+ ozilla Philippines Community invited top caliber Pinoy bloggers to give in
+ sights and tips to make most out of this tool.
+URL:https://reps.mozilla.org/e/mozillaph-blogging-101/
+SEQUENCE:8
+X-COORDINATES-LAT:14.559513093
+X-COORDINATES-LON:121.018736958
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8216
+CLASS:PUBLIC
+DTSTAMP:20200407T170246Z
+DTSTART:20181117T053000Z
+DTEND:20181117T113000Z
+LOCATION:The Bhopal School of Social Science\, Bhopal\, India
+SUMMARY:Moz Hack Day MozMPCG
+DESCRIPTION:Add-ons provide a safe\, simple\, and powerful way to personal
+ ize your browsing experience. With WebExtensions APIs\, it’s easier than
+  ever to create extensions that can be easily ported to Firefox. Through t
+ his activity\, you’ll help connect new developers with an opportunity to
+  create add-ons to solve real problems and make their lives and the web be
+ tter. Students work for around 6 hours on a programming project under the 
+ guidance of various Mentors on 18th November 2018.
+URL:https://reps.mozilla.org/e/moz-hack-day-mozmpcg/
+SEQUENCE:5
+X-COORDINATES-LAT:23.1386763431
+X-COORDINATES-LON:77.1994632483
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

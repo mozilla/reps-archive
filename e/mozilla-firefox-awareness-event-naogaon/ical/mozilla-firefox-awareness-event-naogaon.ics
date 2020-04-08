@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4875
+CLASS:PUBLIC
+DTSTAMP:20200407T165908Z
+DTSTART:20151228T040000Z
+DTEND:20151228T060000Z
+LOCATION:Naogaon\, Naogaon\, Bangladesh
+SUMMARY:Mozilla Firefox Awareness event @ Naogaon
+DESCRIPTION:Mozilla Firefox Awareness event @ Naogaon
+URL:https://reps.mozilla.org/e/mozilla-firefox-awareness-event-naogaon/
+SEQUENCE:1
+X-COORDINATES-LAT:24.7989939128
+X-COORDINATES-LON:88.9470519964
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

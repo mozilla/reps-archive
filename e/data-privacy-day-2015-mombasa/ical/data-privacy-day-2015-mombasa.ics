@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4996
+CLASS:PUBLIC
+DTSTAMP:20200407T174256Z
+DTSTART:20160130T090000Z
+DTEND:20160130T140000Z
+LOCATION:Jaffery Institute of Professional Studies Mombasa\, Mombasa\, Ken
+ ya
+SUMMARY:Data Privacy Day 2015 Mombasa
+DESCRIPTION:Respecting Privacy\, Safeguarding Data and Enabling Trust is t
+ he theme for Data Privacy Day (DPD)\, an international effort held annuall
+ y on January 28 to create awareness about the importance of privacy and pr
+ otecting personal information. \n\nData Privacy Day is part of a greater p
+ rivacy awareness and education effort for digital citizens.
+URL:https://reps.mozilla.org/e/data-privacy-day-2015-mombasa/
+SEQUENCE:3
+X-COORDINATES-LAT:-4.02591891944
+X-COORDINATES-LON:39.8069000244
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

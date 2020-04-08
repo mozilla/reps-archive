@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8474
+CLASS:PUBLIC
+DTSTAMP:20200407T174133Z
+DTSTART:20190323T100000Z
+DTEND:20190329T235500Z
+LOCATION:Onine\, Berlin\, Germany
+SUMMARY:Reps Council Elections H1 2019 - Nominees
+DESCRIPTION:If you are eligible\, interested and committed to fulfill the 
+ Reps Council responsibilities\, and want to run for the Reps Council H1 20
+ 19 elections\, please mark yourself as attending on this event page. Pleas
+ e read the Council Wiki Page (https://wiki.mozilla.org/Reps/Council) in fu
+ ll to know about responsibilities and accountability before doing so.\n\nA
+ dditionally\, we ask you to update your reports on the Reps Portal to make
+  sure everything is up to date once voters will look at your profile.
+URL:https://reps.mozilla.org/e/reps-council-elections-h1-2019-nominees/
+SEQUENCE:1
+X-COORDINATES-LAT:52.4993447921
+X-COORDINATES-LON:13.44943428
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

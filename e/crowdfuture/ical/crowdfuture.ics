@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@226
+CLASS:PUBLIC
+DTSTAMP:20200407T173647Z
+DTSTART:20121027T060000Z
+DTEND:20121027T160000Z
+LOCATION:via dei marsi 78\, Rome\, Rome\, Italy
+SUMMARY:Crowdfuture
+DESCRIPTION:the first italian event about Crowdfunding in Italy. We&#39;re goi
+ ng to tackle all the aspects also on open source projects thanks to Goteo 
+ and Enric Senabre who led already the Codemotion hackasaurus jam.\nWe&#39;re h
+ aving a booth as mozilla (if somebody out of me holds it :P) and we&#39;re hav
+ ing swag into Enric&#39;s workshop as well which is here http://www.crowdfutur
+ e.net/tickets?crowdfunding_open_source
+URL:https://reps.mozilla.org/e/crowdfuture/
+SEQUENCE:0
+X-COORDINATES-LAT:41.8675155074
+X-COORDINATES-LON:12.4722290039
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

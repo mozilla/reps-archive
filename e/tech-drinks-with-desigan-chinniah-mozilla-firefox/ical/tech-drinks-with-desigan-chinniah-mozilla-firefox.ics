@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3615
+CLASS:PUBLIC
+DTSTAMP:20200407T175902Z
+DTSTART:20150311T180000Z
+DTEND:20150311T200000Z
+LOCATION:Presse Café Dakar\, Dakar\, Senegal
+SUMMARY:Tech Drinks with Desigan Chinniah - Mozilla Firefox
+DESCRIPTION:Hey guys !\n\nWe receive the visit of Desigan Chinniah\, Head 
+ of Global Mobile Partnerships at Mozilla Firefox OS Marketplace. He wants 
+ to meet with the local tech community in an informal format and discuss wi
+ th us about what Mozilla could do and what we could do for them
+URL:https://reps.mozilla.org/e/tech-drinks-with-desigan-chinniah-mozilla-f
+ irefox/
+SEQUENCE:2
+X-COORDINATES-LAT:14.7693496015
+X-COORDINATES-LON:-17.2154846415
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

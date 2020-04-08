@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3360
+CLASS:PUBLIC
+DTSTAMP:20200407T174554Z
+DTSTART:20150308T090000Z
+DTEND:20150309T180000Z
+LOCATION:Bangor\, Wales\, Bangor\, United Kingdom
+SUMMARY:Mozilla Celtic Language Hackathon
+DESCRIPTION:The Mozilla Celtic Language Hackathon is taking place at Bango
+ r University in Bangor\, Wales after the &#34;Through Technological Means&#34; Con
+ ference.\n\nThe objective of this event to to bring the various Celtic lan
+ guages and their localizations teams together. We will share experiences\,
+  ideas and of course localize Mozilla products. We will be discussing how 
+ to bring new Mozillians into the fold by teaching l10n skills\, community 
+ building\, and more.
+URL:https://reps.mozilla.org/e/celtic-language-meetup/
+SEQUENCE:8
+X-COORDINATES-LAT:53.2265734405
+X-COORDINATES-LON:-4.12792969029
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

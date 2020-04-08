@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1786
+CLASS:PUBLIC
+DTSTAMP:20200407T180629Z
+DTSTART:20140322T100000Z
+DTEND:20140322T150000Z
+LOCATION:City Center\, Butua\, Montenegro
+SUMMARY:Spread the word through Budva #FirefoxOS
+DESCRIPTION:Spread the word through Budva #FirefoxOS is part of the projec
+ t named Spread the word through Montenegro\, and we are planning to visit 
+ eight cities\, and to talk to people about FirefoxOS\, show them how it wo
+ rks\, and what it is all about.
+URL:https://reps.mozilla.org/e/spread-the-word-through-budva-firefoxos/
+SEQUENCE:1
+X-COORDINATES-LAT:42.2834659016
+X-COORDINATES-LON:18.8382840148
+X-COUNTRY-CODE:me
+END:VEVENT
+
+END:VCALENDAR

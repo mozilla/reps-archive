@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6815
+CLASS:PUBLIC
+DTSTAMP:20200407T181228Z
+DTSTART:20170721T053000Z
+DTEND:20170722T170000Z
+LOCATION:TBD\, Dhaka\, Bangladesh
+SUMMARY:Firefox Developer Edition 55 Beta 11 Testday
+DESCRIPTION:Today we will be hosting Firefox 55 Beta 11 Test Day ! We’ll
+  be focusing our testing on the following new features: Screenshots\,Simpl
+ ify Page\,Shutdown Video Decoder and Exploratory testing. We will be hosti
+ ng online mentoring session. No previous testing experience is required\, 
+ Lets Make Firefox Better!
+URL:https://reps.mozilla.org/e/firefox-developer-edition-55-beta-11-testda
+ y/
+SEQUENCE:0
+X-COORDINATES-LAT:23.7999782815
+X-COORDINATES-LON:90.3523913026
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

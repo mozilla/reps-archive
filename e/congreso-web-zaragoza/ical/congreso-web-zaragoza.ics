@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@834
+CLASS:PUBLIC
+DTSTAMP:20200407T181240Z
+DTSTART:20130607T070000Z
+DTEND:20130609T180000Z
+LOCATION:Palacio de Congresos Expo Aragón\, Zaragoza\, Spain
+SUMMARY:Congreso Web Zaragoza
+DESCRIPTION:An Internet event\, where you can learn about Marketing Online
+ \, Social Media\, SEO\, SEM\, Web analytics\, User Experience\, and Web de
+ velopment
+URL:https://reps.mozilla.org/e/congreso-web-zaragoza/
+SEQUENCE:4
+X-COORDINATES-LAT:41.6699626251
+X-COORDINATES-LON:-0.900192260742
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@16
+CLASS:PUBLIC
+DTSTAMP:20200407T165806Z
+DTSTART:20120908T100000Z
+DTEND:20120909T100000Z
+LOCATION:Fabryka\, Warsaw\, Warsaw\, Poland
+SUMMARY:MozCamp Europe 2012
+DESCRIPTION: MozCamp Europe is a weekend event to appreciate\, inform\, an
+ d rally our core Mozillians (in Europe) to make substantial progress on ou
+ r yearly goals + objectives.The interactive camp features workshops\, spri
+ nts and hacking opportunities with clear deliverables at the end of the we
+ ekend to be accomplished by attendees. *MozCamp is an invitation-only even
+ t*\n
+URL:https://reps.mozilla.org/e/mozcamp-europe-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:52.260041438
+X-COORDINATES-LON:21.038646698
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

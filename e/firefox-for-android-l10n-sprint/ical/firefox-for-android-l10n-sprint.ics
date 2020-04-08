@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4499
+CLASS:PUBLIC
+DTSTAMP:20200407T180509Z
+DTSTART:20150915T170000Z
+DTEND:20150915T210000Z
+LOCATION:Our home offices\, Sarajevo\, Bosnia and Herzegovina
+SUMMARY:Firefox for Android l10n sprint
+DESCRIPTION:Bosnian Mozilla Community is organizing an l10n sprint to full
+ y localize Firefox for Android into Bosnian language.
+URL:https://reps.mozilla.org/e/firefox-for-android-l10n-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:43.8615684098
+X-COORDINATES-LON:18.4037629365
+X-COUNTRY-CODE:ba
+END:VEVENT
+
+END:VCALENDAR

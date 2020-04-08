@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2080
+CLASS:PUBLIC
+DTSTAMP:20200407T174407Z
+DTSTART:20141008T060000Z
+DTEND:20141009T130000Z
+LOCATION:Mary Fitzgerald Square\, Newtown\, Johannesburg\, Johannesburg\, 
+ South Africa
+SUMMARY:Tech 4 Africa
+DESCRIPTION:Tech4Africa is a place for new ideas and to encourage people t
+ o make and change things.This is not a lowest common denominator event.Thi
+ s is an assertive event.Tech4Africa is about breaking rules\, upsetting tr
+ ends and unsettling institutions but first and foremost\, great content.\n
+ \nA simple goal of this event is that you walk away both informed\, entert
+ ained and inspired. It is an event made with: Love\, Passion\, Skype\, Cof
+ fee\, Bootstrap\, PhP\, J-Query\, MySQL\, Optimism\, Persistence.
+URL:https://reps.mozilla.org/e/tech-4-africa/
+SEQUENCE:6
+X-COORDINATES-LAT:-26.2375866752
+X-COORDINATES-LON:28.1176748872
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

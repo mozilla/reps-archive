@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4463
+CLASS:PUBLIC
+DTSTAMP:20200407T173724Z
+DTSTART:20151017T080000Z
+DTEND:20151017T180000Z
+LOCATION:CUN\, Corporación Unificada Nacional de Educación Superior - Se
+ de A (Administrativa) : Calle 12 b No. 4 - 79\, Bogota\, Colombia
+SUMMARY:software freedom day
+DESCRIPTION:Software Freedom Day (SFD) is an annual worldwide celebration 
+ of Free Software. SFD is a public education effort with the aim of increas
+ ing awareness of Free Software and its virtues\, and encouraging its use.\
+ nSoftware Freedom Day was established in 2004 and was first observed on 28
+  August of that year. About 12 teams participated in the first Software Fr
+ eedom Day.
+URL:https://reps.mozilla.org/e/software-freedom-day-2/
+SEQUENCE:2
+X-COORDINATES-LAT:4.56359126454
+X-COORDINATES-LON:-74.0793514252
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

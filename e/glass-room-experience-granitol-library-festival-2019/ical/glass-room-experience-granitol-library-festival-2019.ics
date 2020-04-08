@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8365
+CLASS:PUBLIC
+DTSTAMP:20200407T182428Z
+DTSTART:20190130T120000Z
+DTEND:20190201T170000Z
+LOCATION:Quality Hotel Strand Gjøvik\, Gjøvik\, Norway
+SUMMARY:Glass Room Experience @ Granitol Library Festival 2019
+DESCRIPTION:A pop up exhibition\, courtesy of Tactical Tech Collective wit
+ h support from Mozilla - about online privacy in an age of big data\, IoT 
+ and AI. We run the exhibition at the Granitol Library Festival 2019\, Gjø
+ vik\, Norway\, hosted by the Regional Libraries in Oppland and Hedmarkat. 
+ \n\nAlso at the festival: a lecture on Digital Empowerment +  a podcast in
+ terview https://lorn.tech/
+URL:https://reps.mozilla.org/e/glass-room-experience-granitol-library-fest
+ ival-2019/
+SEQUENCE:2
+X-COORDINATES-LAT:60.7922837144
+X-COORDINATES-LON:10.6951489445
+X-COUNTRY-CODE:no
+END:VEVENT
+
+END:VCALENDAR

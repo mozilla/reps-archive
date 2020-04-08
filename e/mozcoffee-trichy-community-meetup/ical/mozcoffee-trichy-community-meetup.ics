@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4699
+CLASS:PUBLIC
+DTSTAMP:20200407T181933Z
+DTSTART:20151022T103000Z
+DTEND:20151022T133000Z
+LOCATION:NIT TRICHY\, Thuvakudi\, India
+SUMMARY:MozCoffee - Trichy community meetup
+DESCRIPTION:A session aimed at reaching out to Mozilla enthusiasts in and 
+ around Trichy\, Tamil Nadu. It will include discussions on open source con
+ tributions\, community outreach and FSA recruitment.\nOrganised by FSA RAL
+  n Mozilla Rep
+URL:https://reps.mozilla.org/e/mozcoffee-trichy-community-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:10.7631593303
+X-COORDINATES-LON:78.8117980957
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

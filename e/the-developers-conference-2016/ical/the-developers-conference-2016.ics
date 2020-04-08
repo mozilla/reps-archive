@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5555
+CLASS:PUBLIC
+DTSTAMP:20200407T174249Z
+DTSTART:20160705T120000Z
+DTEND:20160709T210000Z
+LOCATION:Universidade Anhembi Morumbi - Campus Vila Olímpia\, Sao Paulo\,
+  Brazil
+SUMMARY:The Developers Conference 2016
+DESCRIPTION:The Developers Conference is one of the biggest conference for
+  Developers in Brasil and will be held at Anhembi Morumbi University.
+URL:https://reps.mozilla.org/e/the-developers-conference-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.6000566946
+X-COORDINATES-LON:-46.676550597
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

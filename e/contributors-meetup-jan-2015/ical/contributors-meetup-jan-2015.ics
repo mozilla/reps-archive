@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3198
+CLASS:PUBLIC
+DTSTAMP:20200407T174307Z
+DTSTART:20150112T220000Z
+DTEND:20150112T230000Z
+LOCATION:#contributors\, Glasgow City\, United Kingdom
+SUMMARY:Contributors meetup Jan 2015
+DESCRIPTION:An event were you can discuss about contributing to Mozilla \n
+ \nthis event will be a bi monthly event if this one goes good
+URL:https://reps.mozilla.org/e/contributors-meetup-jan-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:55.848594213
+X-COORDINATES-LON:-4.27002042532
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

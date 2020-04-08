@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5815
+CLASS:PUBLIC
+DTSTAMP:20200407T175934Z
+DTSTART:20160917T041500Z
+DTEND:20160917T111500Z
+LOCATION:Moods Studio Lounge\, Tripureshwor\, Nepal
+SUMMARY:Software Freedom Day -  Nepal
+DESCRIPTION:Celebrating Software Freedom Day in Nepal\, organized by FOSS 
+ Nepal Community and suppported by various open source communities in Nepal
+  like Mozilla Nepal\, Open Knowledge Nepal etc.\n\nOur Rep\, Surit Aryal w
+ ill be giving a talk on Localization in Nepal\, and also on the various Mo
+ zilla related Localization activities that are currently happening in Nepa
+ l.
+URL:https://reps.mozilla.org/e/software-freedom-day-nepal/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6917789116
+X-COORDINATES-LON:85.3163060545
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

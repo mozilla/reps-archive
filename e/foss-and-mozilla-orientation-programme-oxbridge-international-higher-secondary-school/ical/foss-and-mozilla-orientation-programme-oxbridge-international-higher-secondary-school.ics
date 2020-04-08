@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5801
+CLASS:PUBLIC
+DTSTAMP:20200407T175934Z
+DTSTART:20160901T220500Z
+DTEND:20160901T232500Z
+LOCATION:Oxbridge International Higher Secondary School\, Kathmandu\, Nepa
+ l
+SUMMARY:FOSS and Mozilla Orientation Programme @ Oxbridge International Hi
+ gher Secondary School
+DESCRIPTION:This event is focused towards the students studying in Grade X
+ I and XII\, and who want to get involved in Free and Open Source Communiti
+ es. This event will get students start involving in Community works.
+URL:https://reps.mozilla.org/e/foss-and-mozilla-orientation-programme-oxbr
+ idge-international-higher-secondary-school/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6648378627
+X-COORDINATES-LON:85.3200820684
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

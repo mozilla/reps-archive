@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@980
+CLASS:PUBLIC
+DTSTAMP:20200407T182152Z
+DTSTART:20130629T020000Z
+DTEND:20130629T100000Z
+LOCATION:Faculty of Engineering\, Chiang Mai University\, Muang\, Thailand
+SUMMARY:Barcamp Chiang Mai
+DESCRIPTION:It is an open\, participatory event. Anyone can come. There is
+  no audience\, only participants. The whole idea is to get smart people th
+ at love technology together to collaborate\, network\, and learn.\n\nThis 
+ year&#39;s Barcamp Chiang Mai will be held at Chiang Mai University in the Dep
+ artment of Computer Engineering building on Saturday June 29\, 2013.
+URL:https://reps.mozilla.org/e/barcamp-chiang-mai/
+SEQUENCE:4
+X-COORDINATES-LAT:18.795614827
+X-COORDINATES-LON:98.9528918266
+X-COUNTRY-CODE:th
+END:VEVENT
+
+END:VCALENDAR

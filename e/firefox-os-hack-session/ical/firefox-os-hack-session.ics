@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@205
+CLASS:PUBLIC
+DTSTAMP:20200407T181129Z
+DTSTART:20121125T050000Z
+DTEND:20121125T070000Z
+LOCATION:Asian University of Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Firefox OS Hack Session
+DESCRIPTION:* Introduction to Firefox OS\n* Understanding Gaia\, Gonk &amp; Ge
+ cko\n* Building &amp; Installing Firefox OS\n* Writing apps for Firefox OS
+URL:https://reps.mozilla.org/e/firefox-os-hack-session/
+SEQUENCE:1
+X-COORDINATES-LAT:23.8695178109
+X-COORDINATES-LON:90.3990536928
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

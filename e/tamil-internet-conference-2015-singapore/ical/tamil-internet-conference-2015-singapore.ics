@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3781
+CLASS:PUBLIC
+DTSTAMP:20200407T174112Z
+DTSTART:20150530T010000Z
+DTEND:20150601T100000Z
+LOCATION:SIM University Singapore\, Bukit Timah\, Singapore
+SUMMARY:Tamil Internet Conference 2015 Singapore
+DESCRIPTION:International Forum for Information Technology in Tamil (INFIT
+ T) is pleased to announce that the 14th International Tamil Internet Confe
+ rence\, TIC-2015 will be held in Singapore during May 30th\,31st &amp; June 1s
+ t.This conference is jointly organized by INFITT along with UniSIM Campus 
+ of Singapore. Around 10000 participants are expected to attend this event 
+ from around the world. Notably Tamil Research/PhD Scholars\, Lectures\, Sc
+ hools Teaches\, Students\, Localization..etc
+URL:https://reps.mozilla.org/e/tamil-internet-conference-2015-singapore/
+SEQUENCE:9
+X-COORDINATES-LAT:1.32905394403
+X-COORDINATES-LON:103.775736809
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

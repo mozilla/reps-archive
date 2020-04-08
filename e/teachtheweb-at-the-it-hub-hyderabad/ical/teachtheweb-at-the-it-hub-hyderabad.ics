@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3080
+CLASS:PUBLIC
+DTSTAMP:20200407T174449Z
+DTSTART:20141130T043000Z
+DTEND:20141217T113000Z
+LOCATION:Hyderabad and Surroundings\, Hyderabad\, India
+SUMMARY:TeachTheWeb at the IT hub(Hyderabad)
+DESCRIPTION:It is a Webliteracy campaign for the kids in Rural schools\, T
+ he Events would last for 2 weeks. The main motto of the events is to educa
+ te the kids about the Internet and its safe Usage.  \nHyderabad is termed 
+ as the IT Hub but still there are many kids in here who lack the knowledge
+  of Internet. We( Mozilla Hyderabad Community) as team would give our best
+  to TeachTheWeb.
+URL:https://reps.mozilla.org/e/teachtheweb-at-the-it-hub-hyderabad/
+SEQUENCE:7
+X-COORDINATES-LAT:17.3152432823
+X-COORDINATES-LON:78.504524231
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5184
+CLASS:PUBLIC
+DTSTAMP:20200407T180242Z
+DTSTART:20160130T050000Z
+DTEND:20160130T090000Z
+LOCATION:STI College Marikina\, Marikina\, Philippines
+SUMMARY:Online Privacy Awareness at STI Marikina
+DESCRIPTION:In line with the Privacy Month\, a session to raise awareness 
+ on online privacy in campus. We will talk about the basics of online priva
+ cy\, how they can protect it\, what tools they can use and how they can sp
+ read the word.
+URL:https://reps.mozilla.org/e/online-privacy-awareness-at-sti-marikina/
+SEQUENCE:0
+X-COORDINATES-LAT:14.6515251635
+X-COORDINATES-LON:121.105783582
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

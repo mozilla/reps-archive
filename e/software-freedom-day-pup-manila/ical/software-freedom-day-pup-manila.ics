@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5856
+CLASS:PUBLIC
+DTSTAMP:20200407T181534Z
+DTSTART:20160914T010000Z
+DTEND:20160914T090000Z
+LOCATION:Polytechnic University of the Philippines - Manila\, Makati City\
+ , Philippines
+SUMMARY:Software Freedom Day PUP-Manila
+DESCRIPTION:Software Freedom Day is an annual worldwide celebration of Fre
+ e Software organized to promote open source awareness and encourage its us
+ e through a number of seminars.
+URL:https://reps.mozilla.org/e/software-freedom-day-pup-manila/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5978853712
+X-COORDINATES-LON:121.010901511
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2082
+CLASS:PUBLIC
+DTSTAMP:20200407T181554Z
+DTSTART:20140329T210000Z
+DTEND:20140330T000000Z
+LOCATION:Mozilla Headquarters\, 331 E. Evelyn Avenue\, Mtn View\, CA\, Mou
+ ntain View\, United States
+SUMMARY:African Women&#39;s Diaspora and TechWomen
+DESCRIPTION:ADN Forum &amp; TechWomen Documentary Presentation\, March 29\, 20
+ 14\n\nPlease join African Diaspora Network\, the Institute of Internationa
+ l Education\, Mozilla\,  and San Jose State University’s School of Journ
+ alism for a special presentation of a documentary about African TechWomen.
+  Co-sponsored by Mozilla Corporation and the Silicon Valley African Film F
+ estival.\n\nMarch 29\, 2014 at 2 pm — Mozilla Corporation 331 E. Evelyn 
+ Avenue\, Mtn View\, CA\n\nRSVP to: almaz@africandiasporanetwork.org
+URL:https://reps.mozilla.org/e/african-womens-diaspora-and-techwomen/
+SEQUENCE:1
+X-COORDINATES-LAT:37.3852533311
+X-COORDINATES-LON:-122.070373558
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3828
+CLASS:PUBLIC
+DTSTAMP:20200407T180050Z
+DTSTART:20150613T060000Z
+DTEND:20150613T130000Z
+LOCATION:Jomo Kenyatta university of agriculture and technology Mombasa Ca
+ mpus\, Coast\, Kenya
+SUMMARY:Mombasa Webmaker Party 2015
+DESCRIPTION:This event is targeted to University Students &amp; Web Enthusiast
+ s who will come to learn\, and remix the Web maker tools. Also we will be 
+ introducing the concept of Digital/Web Literacy and it&#39;s importance in tod
+ ay&#39;s life. We will have a brainstorming session on Internet\, Web &amp; Securi
+ ty.
+URL:https://reps.mozilla.org/e/mombasa-webmaker-party-2015/
+SEQUENCE:8
+X-COORDINATES-LAT:-4.0434771
+X-COORDINATES-LON:39.6682065
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

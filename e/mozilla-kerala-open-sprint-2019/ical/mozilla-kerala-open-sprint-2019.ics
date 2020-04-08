@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8574
+CLASS:PUBLIC
+DTSTAMP:20200407T170232Z
+DTSTART:20191026T013000Z
+DTEND:20191027T123000Z
+LOCATION:Integrate Startup Complex Kalamaserry\, HMT Colony\, North Kalama
+ ssery\, Kalamassery\, Ernakulam\, Kerala 683503\, Cochin\, India
+SUMMARY:Mozilla Kerala Open Sprint / Open Hack 2019
+DESCRIPTION:Open Hack 2019 is a two day\, immersive open hackathon where s
+ tudents\, professionals\, researchers\, makers and anyone with an interest
+  in technology come in to build solutions to hack some of the common real-
+ world problems.
+URL:https://reps.mozilla.org/e/mozilla-kerala-open-sprint-2019/
+SEQUENCE:6
+X-COORDINATES-LAT:10.0557486
+X-COORDINATES-LON:76.3547144
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

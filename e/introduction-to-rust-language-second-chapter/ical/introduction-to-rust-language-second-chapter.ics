@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8732
+CLASS:PUBLIC
+DTSTAMP:20200407T181214Z
+DTSTART:20190816T060000Z
+DTEND:20190816T073000Z
+LOCATION:ICBT Kandy Campus - Auditorium\, Kandy\, Sri Lanka
+SUMMARY:Introduction to Rust Language - Second Chapter
+DESCRIPTION:Rust language session will be delivered by Sri Lankan Mozilla 
+ Community Rust users and will be answering common questions about this new
+  programming language. \n\nMozilla Sri Lanka will encourage people to use 
+ Rust with their daily programming needs and to explore the powerful system
+  behind Rust
+URL:https://reps.mozilla.org/e/introduction-to-rust-language-second-chapte
+ r/
+SEQUENCE:1
+X-COORDINATES-LAT:7.37608634296
+X-COORDINATES-LON:80.772857666
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

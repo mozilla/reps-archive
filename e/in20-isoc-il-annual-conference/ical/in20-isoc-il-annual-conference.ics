@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@596
+CLASS:PUBLIC
+DTSTAMP:20200407T175155Z
+DTSTART:20130304T060000Z
+DTEND:20130304T150000Z
+LOCATION:Avenue\, Air Port City\, Israel
+SUMMARY:IN20 — ISOC-IL Annual conference
+DESCRIPTION:ISOC-IL celebrates this year the 20th year for the commercial 
+ Internet in its annual conference.  We are planning to have a booth there 
+ and tell people about our activities to make the web better to anyone\, an
+ ywhere.
+URL:https://reps.mozilla.org/e/in20-isoc-il-annual-conference/
+SEQUENCE:0
+X-COORDINATES-LAT:31.9858929188
+X-COORDINATES-LON:34.9154949188
+X-COUNTRY-CODE:il
+END:VEVENT
+
+END:VCALENDAR

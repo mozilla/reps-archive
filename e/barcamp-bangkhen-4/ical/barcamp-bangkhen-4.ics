@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1297
+CLASS:PUBLIC
+DTSTAMP:20200407T175650Z
+DTSTART:20130922T020000Z
+DTEND:20130922T100000Z
+LOCATION:Kasetsart University\, Bangkok\, Thailand
+SUMMARY:Barcamp Bangkhen 4
+DESCRIPTION:BarCamp Bangkhen is an annual unconference which attracts over
+  500 participants from various internet communities to contribute over 40 
+ sessions and learn new things together.
+URL:https://reps.mozilla.org/e/barcamp-bangkhen-4/
+SEQUENCE:3
+X-COORDINATES-LAT:13.8463808
+X-COORDINATES-LON:100.5696747
+X-COUNTRY-CODE:th
+END:VEVENT
+
+END:VCALENDAR

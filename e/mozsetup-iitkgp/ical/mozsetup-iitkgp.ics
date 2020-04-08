@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1855
+CLASS:PUBLIC
+DTSTAMP:20200407T175248Z
+DTSTART:20140329T050000Z
+DTEND:20140330T130000Z
+LOCATION:IIT Kharagpur\, Kharagpur\, India
+SUMMARY:MozSetup@IITKGP
+DESCRIPTION:The event will start with Inauguration of Firefox Club @ IIT K
+ GP\, moving on to Mozilla mission and Mozilla&#39;s Innovation.\nStudents will
+  be encouraged to contribute in FOSS.\nTalk session will be based on Webma
+ ker\, SUMO\, Localization\, MDN\, Firefox OS\, Mozilla Codebase etc.
+URL:https://reps.mozilla.org/e/mozsetup-iitkgp/
+SEQUENCE:17
+X-COORDINATES-LAT:22.3146533077
+X-COORDINATES-LON:87.3088359798
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

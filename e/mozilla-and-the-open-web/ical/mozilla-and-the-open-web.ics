@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@164
+CLASS:PUBLIC
+DTSTAMP:20200407T173811Z
+DTSTART:20121014T100000Z
+DTEND:20121014T140000Z
+LOCATION:Faculty of computer science \, Zagazig university \, Zagazig \, E
+ gypt
+SUMMARY:mozilla and the open web
+DESCRIPTION:we will talk about mozilla mission and about mozilla Egypt com
+ munity and how to contribute \, and we will talk about the open web \, and
+  we will have a session about firefox OS 
+URL:https://reps.mozilla.org/e/mozilla-and-the-open-web/
+SEQUENCE:0
+X-COORDINATES-LAT:30.5705381638
+X-COORDINATES-LON:31.4909362793
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

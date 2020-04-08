@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1545
+CLASS:PUBLIC
+DTSTAMP:20200407T175504Z
+DTSTART:20131130T130000Z
+DTEND:20131130T220000Z
+LOCATION:Universidad del Tolima\, Ibagué\, Colombia
+SUMMARY:Barcamp Security Edition V4.0
+DESCRIPTION:Event about security and new technologies in an open space wit
+ h people from different fields (Business\, academics and entusiasts).
+URL:https://reps.mozilla.org/e/barcamp-security-edition-v4-0/
+SEQUENCE:2
+X-COORDINATES-LAT:4.42723907421
+X-COORDINATES-LON:-75.2139444352
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8090
+CLASS:PUBLIC
+DTSTAMP:20200407T174121Z
+DTSTART:20180915T041500Z
+DTEND:20180915T111500Z
+LOCATION:Amrit Campus\, Kathmandu\, Nepal
+SUMMARY:Software Freedom Day 2018-Kathmandu
+DESCRIPTION:Software Freedom Day is celebrated around the world on third S
+ aturday of september since the era starting open source. It&#39;s celebrated a
+ s a day to share the skills to those needed and to feel free as a bird in 
+ this very Digitalized world.
+URL:https://reps.mozilla.org/e/software-freedom-day-2018-kathmandu/
+SEQUENCE:1
+X-COORDINATES-LAT:27.7160123965
+X-COORDINATES-LON:85.3122510907
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

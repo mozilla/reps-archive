@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8811
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20190914T050000Z
+DTEND:20190914T090000Z
+LOCATION:Youth Centre\, Riviere Du Rempart\, Mauritius\, Riviere Du Rempar
+ t\, Mauritius
+SUMMARY:Mozilla Awareness
+DESCRIPTION:This event will be held on 14 September 2019 in collaboration 
+ with Rotaract Club of Riviere du Rempart\, Mauritius. This will be an awar
+ eness campaign to get people know about Mozilla/Firefox and get them invol
+ ved!
+URL:https://reps.mozilla.org/e/mozilla-awareness-1/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1080202958
+X-COORDINATES-LON:57.6895236934
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

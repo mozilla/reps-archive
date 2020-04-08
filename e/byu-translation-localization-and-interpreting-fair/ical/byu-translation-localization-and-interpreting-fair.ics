@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2927
+CLASS:PUBLIC
+DTSTAMP:20200407T182503Z
+DTSTART:20141010T180000Z
+DTEND:20141010T220000Z
+LOCATION:Brigham Young University\, Provo\, United States
+SUMMARY:BYU Translation\, Localization\, and Interpreting Fair
+DESCRIPTION:An educational\, training\, and professional networking fair t
+ argeted to introducing Utah university students to the field of translatio
+ n\, localization\, and interpretation.\n\nMozilla has a recruitment booth 
+ available to recruit students with language skills into the Mozilla locali
+ zation program.
+URL:https://reps.mozilla.org/e/byu-translation-localization-and-interpreti
+ ng-fair/
+SEQUENCE:3
+X-COORDINATES-LAT:40.2485109647
+X-COORDINATES-LON:-111.65068245
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

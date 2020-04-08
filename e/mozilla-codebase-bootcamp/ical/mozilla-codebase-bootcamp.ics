@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3064
+CLASS:PUBLIC
+DTSTAMP:20200407T175609Z
+DTSTART:20150111T033000Z
+DTEND:20150111T133000Z
+LOCATION:DirectiPlex\, Mumbai\, India
+SUMMARY:Mozilla Codebase Bootcamp
+DESCRIPTION:The event is for some enthusiastic people wanting to get their
+  hands on Mozilla codebase. Geeks from and around Mumbai are invited to at
+ tend the event. Event is definitely free of cost but intended for hard cor
+ e developers. Hence there would be a screening criteria and candidates wou
+ ld be shortlisted.\n\nRegistration Form :\nhttps://docs.google.com/forms/d
+ /1Q5aGNas6OVpXb0goi5qBCT3jv6WTS753Ly1x9FpGLG8/viewform
+URL:https://reps.mozilla.org/e/mozilla-codebase-bootcamp/
+SEQUENCE:9
+X-COORDINATES-LAT:19.1190032001
+X-COORDINATES-LON:72.8514747578
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

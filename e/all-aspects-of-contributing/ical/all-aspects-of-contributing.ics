@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3256
+CLASS:PUBLIC
+DTSTAMP:20200407T174306Z
+DTSTART:20150130T183000Z
+DTEND:20150130T193000Z
+LOCATION:Online via Vidyo video room.\, Covington\, United States
+SUMMARY:All Aspects of Contributing
+DESCRIPTION:All aspects of contributing\, including getting set up with Gu
+ ides and all the ways of contributing. Then\, information about how to con
+ tribute via code and setting up your Web Development Environment for codin
+ g (WebMaker shows how to code web pages\, etc.  But it does not teach how 
+ to set up your Web Dev environment\, nor Linux commands\, etc. I wish to s
+ how this in this meeting for contributors.
+URL:https://reps.mozilla.org/e/all-aspects-of-contributing/
+SEQUENCE:11
+X-COORDINATES-LAT:37.7616680168
+X-COORDINATES-LON:-79.9742431752
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

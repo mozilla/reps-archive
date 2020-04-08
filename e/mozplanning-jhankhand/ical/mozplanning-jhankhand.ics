@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5861
+CLASS:PUBLIC
+DTSTAMP:20200407T181233Z
+DTSTART:20160916T153000Z
+DTEND:20160916T163000Z
+LOCATION:hangout\, Ranchi\, India
+SUMMARY:MozPlanning@jharkhand
+DESCRIPTION:A follow-up meeting of Mozilla India Meetup 2016. A brief abou
+ t the goals and new structure of mozilla india community. MozPlanning for 
+ contributors in Jharkhand. This event will focus on planning upcoming even
+ ts of local community and introduce new contributors to the community.This
+  meetup will focus on community involvement\, engagement\,orientation for 
+ some new members and planning the roadmap of Jharkhand
+URL:https://reps.mozilla.org/e/mozplanning-jhankhand/
+SEQUENCE:3
+X-COORDINATES-LAT:22.8900925348
+X-COORDINATES-LON:79.8410797119
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

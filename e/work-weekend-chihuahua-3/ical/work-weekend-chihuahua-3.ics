@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3067
+CLASS:PUBLIC
+DTSTAMP:20200407T181538Z
+DTSTART:20141107T180000Z
+DTEND:20141107T210000Z
+LOCATION:Universidad Tecnológica de Parral\, Hidalgo del Parral\, Mexico
+SUMMARY:Work Weekend Chihuahua 3
+DESCRIPTION:&#34;One city\, one topic\, one weekend&#34;\n\nOn November\, we&#39;ll wo
+ rk to build a better open web.\nFirefox\, Webmaker\, Firefox OS\, FSA and 
+ MozEdu are some topics. Organized by Universidad Tecnológica de Parral an
+ d Mozilla Hispano
+URL:https://reps.mozilla.org/e/work-weekend-chihuahua-3/
+SEQUENCE:9
+X-COORDINATES-LAT:26.9454055469
+X-COORDINATES-LON:-105.721279621
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

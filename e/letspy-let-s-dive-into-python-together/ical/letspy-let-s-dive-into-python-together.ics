@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7340
+CLASS:PUBLIC
+DTSTAMP:20200407T181519Z
+DTSTART:20180331T000000Z
+DTEND:20180402T080000Z
+LOCATION:TBD\, Nagpur\, India
+SUMMARY:LetsPy: Let&#39;s Dive Into Python Together
+DESCRIPTION:A 3-day Python BootCamp for beginners in Python.
+URL:https://reps.mozilla.org/e/letspy-let-s-dive-into-python-together/
+SEQUENCE:1
+X-COORDINATES-LAT:21.1404418694
+X-COORDINATES-LON:78.860046342
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

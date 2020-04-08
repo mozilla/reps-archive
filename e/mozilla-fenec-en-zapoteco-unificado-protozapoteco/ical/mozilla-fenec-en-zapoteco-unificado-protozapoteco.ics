@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5547
+CLASS:PUBLIC
+DTSTAMP:20200407T182115Z
+DTSTART:20160624T140000Z
+DTEND:20160624T230000Z
+LOCATION:Centro Cultural San Pablo\, Oaxaca\, Oaxaca de Juarez\, Mexico
+SUMMARY:Mozilla Fenek en Zapoteco Unificado (Protozapoteco)
+DESCRIPTION:El objetivo central del taller es comenzar un proceso de unifi
+ cación de las 62 variantes que se hablan del zapoteco en México para la 
+ creación de un vocabulario zapoteco para tecnologías digitales que pueda
+  ser útil en la localización de Firefox para Android. Las propuestas de 
+ unificación son  i) utilizar términos del protozapoteco\, que se conside
+ ra el origen de las 62 variantes\, y ii) la creación de nuevos términos 
+ a partir de un zapoteco común.
+URL:https://reps.mozilla.org/e/mozilla-fenec-en-zapoteco-unificado-protoza
+ poteco/
+SEQUENCE:3
+X-COORDINATES-LAT:17.0618292386
+X-COORDINATES-LON:-96.7227137093
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4778
+CLASS:PUBLIC
+DTSTAMP:20200407T182314Z
+DTSTART:20160122T023000Z
+DTEND:20160124T143000Z
+LOCATION:Ahmedabad\, Ahmedabad\, India
+SUMMARY:Mozilla India Makerfest&#39;16 Ahmedabad
+DESCRIPTION:Mozilla India in collaboration with Makerfest&#39;16.\nSpreading M
+ ozilla mission in Ahmedabad. Also spreading awareness for online privacy. 
+ Amongst best innovators from all over India. This will be third year in a 
+ row when Mozilla India will be present at the makerfest.
+URL:https://reps.mozilla.org/e/hive-india-makerfest16-ahmedabad/
+SEQUENCE:6
+X-COORDINATES-LAT:22.8632684998
+X-COORDINATES-LON:72.6394048333
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

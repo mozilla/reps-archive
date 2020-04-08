@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5804
+CLASS:PUBLIC
+DTSTAMP:20200407T181938Z
+DTSTART:20160909T000000Z
+DTEND:20160909T020000Z
+LOCATION:Calle Paul de Beaudiez\, cuadra 0\, Residencial Santa Cruz\, San 
+ Isidro\, Lima\, San Isidro\, Peru
+SUMMARY:MozMeetup Experiencias en Desarrollo Web
+DESCRIPTION:ENGLISH: We gather three experts with experience in CodeIgnite
+ r\, Ruby on Rails and Docker. They will talk us how to develop web applica
+ tions and how to deploy them.\n \nESPAÑOL: Reunimos a tres personas con e
+ xperiencia en CodeIgniter\, Ruby on Rails y Docker para que nos cuenten c
+ ómo es realmente desarrollar aplicaciones web y desplegarlas.
+URL:https://reps.mozilla.org/e/mozmeetup-experiencias-en-desarrollo-web/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.1057985235
+X-COORDINATES-LON:-77.0488300324
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

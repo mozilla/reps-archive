@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8581
+CLASS:PUBLIC
+DTSTAMP:20200407T180638Z
+DTSTART:20190528T120000Z
+DTEND:20190528T140000Z
+LOCATION:Bashundhara Residential Area\, Dhaka\, Bangladesh
+SUMMARY:MozCoffee NSU Mozilla Club 2019
+DESCRIPTION:This is the first NSU Mozilla Club&#39;s contributors meetup in 20
+ 19. This is the great opportunity to meet all the core community members a
+ s well as anyone interested\, each other at the beginning of the new summe
+ r semester to discuss\, plan share the ideas for this year. Also\, this is
+  the perfect occasion for sharing the experiences of working in different 
+ pathways of Mozilla among community members.
+URL:https://reps.mozilla.org/e/mozcoffee-nsu-mozilla-club-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:23.814033456
+X-COORDINATES-LON:90.4297569394
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

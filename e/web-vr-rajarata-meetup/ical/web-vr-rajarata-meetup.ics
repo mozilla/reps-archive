@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8963
+CLASS:PUBLIC
+DTSTAMP:20200407T182915Z
+DTSTART:20191205T033000Z
+DTEND:20191205T103000Z
+LOCATION:Rajarata University of Sri Lanka\, Mihinthale\, Sri Lanka
+SUMMARY:Web VR Rajarata Meetup
+DESCRIPTION:Rajarata university of Sri Lanka organizing Web VR meetup
+URL:https://reps.mozilla.org/e/web-vr-rajarata-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:8.35663697633
+X-COORDINATES-LON:80.5034158225
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

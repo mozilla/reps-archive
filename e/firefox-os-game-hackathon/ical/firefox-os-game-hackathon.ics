@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@957
+CLASS:PUBLIC
+DTSTAMP:20200407T173743Z
+DTSTART:20130608T110000Z
+DTEND:20130609T173000Z
+LOCATION:Salão Nobre da Telefônica na Rua Martiniano de Carvalho\, 851\,
+  São Paulo\, Brazil
+SUMMARY:Firefox OS Game Hackathon
+DESCRIPTION:The event is being organized by Telefonica VIVO and Qualcomm. 
+ There will be sessions about game programming by international speakers an
+ d locals followed by a 24 hours hackathon focused on building games.
+URL:https://reps.mozilla.org/e/firefox-os-game-hackathon/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.5513987452
+X-COORDINATES-LON:-46.6373062134
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

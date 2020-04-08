@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7240
+CLASS:PUBLIC
+DTSTAMP:20200407T181214Z
+DTSTART:20171119T010000Z
+DTEND:20171119T090000Z
+LOCATION:Pusat Internet 1Malaysia\, Alor Star\, Malaysia
+SUMMARY:LaunchFFQuantum
+DESCRIPTION:it&#39;s incredibly fast! Celebration for Firefox Quantum Launch. 
+ We are preparing several activities to promote installation for firefox an
+ d share with the people invited the features and talks about interesting t
+ opics for example Nightly.
+URL:https://reps.mozilla.org/e/launchffquantum/
+SEQUENCE:0
+X-COORDINATES-LAT:6.25182058826
+X-COORDINATES-LON:100.604932307
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

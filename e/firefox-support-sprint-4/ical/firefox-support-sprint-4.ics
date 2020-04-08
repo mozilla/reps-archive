@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7838
+CLASS:PUBLIC
+DTSTAMP:20200407T170255Z
+DTSTART:20180602T050000Z
+DTEND:20180609T120000Z
+LOCATION:Pamplemousses\, Powder Mills\, Mauritius
+SUMMARY:Firefox Support Sprint
+DESCRIPTION:This Firefox Support sprint is all about mobile! this event wi
+ ll enable us to provide support to users. As a Community coach\, I shall b
+ e able to mobilize mobile users both locally and in the region\, through t
+ he spreading of Firefox\, hosting an event and participate virtually in th
+ is initiative.
+URL:https://reps.mozilla.org/e/firefox-support-sprint-4/
+SEQUENCE:3
+X-COORDINATES-LAT:-20.1139979382
+X-COORDINATES-LON:57.5786018302
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

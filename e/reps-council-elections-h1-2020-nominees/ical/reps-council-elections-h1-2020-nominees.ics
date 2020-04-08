@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9154
+CLASS:PUBLIC
+DTSTAMP:20200407T163641Z
+DTSTART:20200316T131500Z
+DTEND:20200322T100000Z
+LOCATION:Online\, Berlin\, Germany
+SUMMARY:Reps Council Elections H1 2020 - Nominees
+DESCRIPTION:If you are eligible\, interested and committed to fulfill the 
+ Reps Council responsibilities\, and want to run for the Reps Council H1 20
+ 20 elections\, please mark yourself as attending on this event page. Pleas
+ e read the Council Wiki Page (https://wiki.mozilla.org/Reps/Council) in fu
+ ll to know about responsibilities and accountability before doing so.\n\nA
+ dditionally\, we ask you to update your reports on the Reps Portal to make
+  sure everything is up to date once voters will look at your profile.
+URL:https://reps.mozilla.org/e/reps-council-elections-h1-2020-nominees/
+SEQUENCE:0
+X-COORDINATES-LAT:52.4993447921
+X-COORDINATES-LON:13.44943428
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

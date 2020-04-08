@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5503
+CLASS:PUBLIC
+DTSTAMP:20200407T174120Z
+DTSTART:20160610T080000Z
+DTEND:20160610T140000Z
+LOCATION:The Bandwidth Barn\, Cape Town\, South Africa
+SUMMARY:Mozilla Cape Meetup
+DESCRIPTION:This is a community meet-up for Personal Leadership in Mozilla
+  open to everyone. The purpose is to establish a common language and set o
+ f practices for participation development\, different personalities/leader
+ ship traits. We want to build on these during and beyond the meet-up. The 
+ hope is that it triggers healthy discussions on what leadership means in M
+ ozilla.
+URL:https://reps.mozilla.org/e/mozilla-cape-meetup-1/
+SEQUENCE:0
+X-COORDINATES-LAT:-34.0192770958
+X-COORDINATES-LON:18.5463863611
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

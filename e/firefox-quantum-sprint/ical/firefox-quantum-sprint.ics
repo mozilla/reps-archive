@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7042
+CLASS:PUBLIC
+DTSTAMP:20200407T174359Z
+DTSTART:20171002T180000Z
+DTEND:20171002T210000Z
+LOCATION:Amora Labs\, Niterói\, Brazil
+SUMMARY:Firefox Quantum Sprint
+DESCRIPTION:Firefox Quantum is soon to be launched and this is our opportu
+ nity to make Firefox rise again. Participate in the Firefox Quantum Sprint
+  and make a difference by ensuring that Firefox runs smoothly in your regi
+ on.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.840320721
+X-COORDINATES-LON:-42.8364256024
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

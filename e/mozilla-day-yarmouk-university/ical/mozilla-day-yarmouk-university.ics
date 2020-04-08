@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4741
+CLASS:PUBLIC
+DTSTAMP:20200407T171716Z
+DTSTART:20151217T080000Z
+DTEND:20151217T140000Z
+LOCATION:Yarmouk University\, Irbid\, Jordan
+SUMMARY:Mozilla Festival Yarmouk University
+DESCRIPTION:On the occasion of the third year to establishing to Firefox C
+ lub in Yarmouk University\, this event is part of club members and all of 
+ Mozilla Community members in Jordan efforts to relaunch again by doing eve
+ nts that held every year in Yarmouk Universityaround the country with medi
+ a coverage this sessions:\n\n- About Mozilla &amp; FSA Program \n- Firefox Bro
+ wser \, Security &amp; ADD-ONS\n- Firefix OS &amp; Marketplace\n- Firefox For Andr
+ oid\n- Webmake\n- Mozilla Localization L10N
+URL:https://reps.mozilla.org/e/mozilla-day-yarmouk-university/
+SEQUENCE:9
+X-COORDINATES-LAT:32.5379075097
+X-COORDINATES-LON:35.8561849577
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

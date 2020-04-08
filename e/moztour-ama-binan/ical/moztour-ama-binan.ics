@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1992
+CLASS:PUBLIC
+DTSTAMP:20200407T175859Z
+DTSTART:20140405T000000Z
+DTEND:20140405T040000Z
+LOCATION:AMA Computer University\, Kilometer 32\, National Highway\, Canla
+ lay\, Binãn\, Philippines
+SUMMARY:MozTour @ AMA Biñan
+DESCRIPTION:Mozilla Campus Tour at AMA Computer University - Biñan Campus
+URL:https://reps.mozilla.org/e/moztour-ama-binan/
+SEQUENCE:12
+X-COORDINATES-LAT:14.3441390207
+X-COORDINATES-LON:121.06860727
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

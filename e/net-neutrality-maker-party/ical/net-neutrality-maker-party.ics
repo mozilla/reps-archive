@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4325
+CLASS:PUBLIC
+DTSTAMP:20200407T180519Z
+DTSTART:20150814T040000Z
+DTEND:20150814T060000Z
+LOCATION:Ranihati Degree College\, Chapainawabganj\, Bangladesh
+SUMMARY:Net Neutrality Maker Party
+DESCRIPTION:A Net Neutrality Maker Party for volunteers\,teachers &amp; studen
+ ts. It is for open source web literacy to the enhance skills and competenc
+ ies needed for reading\, writing and participating on the web.Also\, teach
+ ing Mozilla Webmaker is different. We’re an open source project built an
+ d for a global community of educators\, techies and people like.
+URL:https://reps.mozilla.org/e/net-neutrality-maker-party/
+SEQUENCE:0
+X-COORDINATES-LAT:24.6237388635
+X-COORDINATES-LON:88.1998948753
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

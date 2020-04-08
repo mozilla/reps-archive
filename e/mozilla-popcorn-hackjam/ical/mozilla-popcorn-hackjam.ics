@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@112
+CLASS:PUBLIC
+DTSTAMP:20200407T173750Z
+DTSTART:20120915T170000Z
+DTEND:20120915T210000Z
+LOCATION:University of Victoria :  Maclaurin D211\, victoria\, Canada
+SUMMARY:Mozilla Popcorn Hackjam
+DESCRIPTION:Hacking with Mozilla Popcorn ! 
+URL:https://reps.mozilla.org/e/mozilla-popcorn-hackjam/
+SEQUENCE:0
+X-COORDINATES-LAT:48.4146186175
+X-COORDINATES-LON:-123.359985352
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

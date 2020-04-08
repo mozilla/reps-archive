@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2579
+CLASS:PUBLIC
+DTSTAMP:20200407T175415Z
+DTSTART:20140816T033000Z
+DTEND:20140817T103000Z
+LOCATION:Rajiv Gandhi Institute of Technology\, Kottayam\, India
+SUMMARY:RIT App Days | Two Day FxOs Hackathon
+DESCRIPTION:A two day Hackathon for Mozilla&#39;s new mobile operating system 
+ FirefoxOS. This event will help students to get familiarize with all the a
+ spects of Firefox OS\, Web Apps\, Web APIs. Also it will be a great opport
+ unity for students to create quality apps and submit to marketplace.
+URL:https://reps.mozilla.org/e/rit-app-days-two-day-fxos-hackathon-1/
+SEQUENCE:5
+X-COORDINATES-LAT:9.59144397181
+X-COORDINATES-LON:76.5224342979
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

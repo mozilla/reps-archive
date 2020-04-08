@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1081
+CLASS:PUBLIC
+DTSTAMP:20200407T182322Z
+DTSTART:20130830T070000Z
+DTEND:20130830T100000Z
+LOCATION:J.co\, Mega Mall Pontianak\, West Borneo/Kalimantan.\, Pontianak\
+ , Indonesia
+SUMMARY:MozKopdarPNK Agustus 2013
+DESCRIPTION:An official Mozillians meetup in Pontianak. Share the latest u
+ pdate of Mozilla Community\, Mozilla Projects\, and more about #FirefoxOS\
+ , #Keon\, and introduction about Firefox Student Ambassador. This visit wi
+ ll include #MozKampusPNK to STIE Widya Dharma at Pontianak.
+URL:https://reps.mozilla.org/e/mozkopdarpnk-agustus-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:-0.0455760907747
+X-COORDINATES-LON:109.339027405
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

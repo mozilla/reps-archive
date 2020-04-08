@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2206
+CLASS:PUBLIC
+DTSTAMP:20200407T175115Z
+DTSTART:20140507T183000Z
+DTEND:20140507T213000Z
+LOCATION:Ciudad Universitaria UNERG\, San Juan de los Morros\, Venezuela
+SUMMARY:Firefox Os Workshop UNERG
+DESCRIPTION:In this workshop I will be giving a talk ons development\, int
+ egrating new partners for mozilla\, application developers with local cont
+ ent for the platform firefoxos\, disseminate new web technologies for an o
+ pen web\, this university still has not been given any event mozilla and t
+ here are students with good potential
+URL:https://reps.mozilla.org/e/firefox-os-workshop-unerg/
+SEQUENCE:2
+X-COORDINATES-LAT:9.91279569214
+X-COORDINATES-LON:-67.3546099672
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

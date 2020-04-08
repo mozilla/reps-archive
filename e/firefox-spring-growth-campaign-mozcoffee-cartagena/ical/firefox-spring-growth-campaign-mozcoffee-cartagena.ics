@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4110
+CLASS:PUBLIC
+DTSTAMP:20200407T174821Z
+DTSTART:20150711T200000Z
+DTEND:20150712T140000Z
+LOCATION:Ciudad Amurallada Cartagena\, Cartagena\, Colombia
+SUMMARY:(Firefox Spring Growth Campaign) MozCoffee Cartagena
+DESCRIPTION:2 days event as part of the Firefox Spring Growth Campaign to 
+ bring people back to using Firefox desktop/Mobile and make people aware of
+  what we are doing to keep their privacy.\n\n- Privacy\n- New Features: He
+ llo - Pocket\n- Report Feedback\n- Talk about Firefox\n- Download/install 
+ Firefox
+URL:https://reps.mozilla.org/e/firefox-spring-growth-campaign-mozcoffee-ca
+ rtagena/
+SEQUENCE:5
+X-COORDINATES-LAT:10.4076105212
+X-COORDINATES-LON:-75.5127525365
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

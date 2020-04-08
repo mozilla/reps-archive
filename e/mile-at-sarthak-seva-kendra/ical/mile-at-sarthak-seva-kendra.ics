@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4772
+CLASS:PUBLIC
+DTSTAMP:20200407T174440Z
+DTSTART:20151213T033000Z
+DTEND:20151213T123000Z
+LOCATION:Ambale\, Maharashtra\, India\, Ambale\, India
+SUMMARY:MILE at Sarthak Seva Kendra
+DESCRIPTION:This is a follow-up event. The entire Pune Community would be 
+ visiting this place with a motive of achieving web-literacy in this area. 
+ More about MILE : https://wiki.mozilla.org/Mozilla_India_Pune_initiative_f
+ or_web_Literacy
+URL:https://reps.mozilla.org/e/mile-at-sarthak-seva-kendra/
+SEQUENCE:8
+X-COORDINATES-LAT:18.4072519394
+X-COORDINATES-LON:74.174079881
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

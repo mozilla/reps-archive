@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8758
+CLASS:PUBLIC
+DTSTAMP:20200407T174122Z
+DTSTART:20190914T150000Z
+DTEND:20190915T230000Z
+LOCATION:Wizeline Guadalajara\, Guadalajara\, Mexico
+SUMMARY:Open Source Software Contributors Summit
+DESCRIPTION:CCOSS (Cumbre de Contribuidores de Open Source Software) is an
+  event to promote contribution to open source projects from tech practitio
+ ners in Latin America. The event is expecting an audience of 500 tech prac
+ titioners who will attend talks on Saturday Sep 14 and contributor worksho
+ ps on Sunday Sep 15.
+URL:https://reps.mozilla.org/e/open-source-software-contributors-summit/
+SEQUENCE:1
+X-COORDINATES-LAT:20.6439669
+X-COORDINATES-LON:-103.4188567
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

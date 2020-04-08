@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3165
+CLASS:PUBLIC
+DTSTAMP:20200407T171714Z
+DTSTART:20150307T090000Z
+DTEND:20150307T150000Z
+LOCATION:TBD\, Irbid\, Jordan
+SUMMARY:Mozilla Jordan MeetUp
+DESCRIPTION:As a Mozilla Jordan Community we are planning to have a Mozill
+ a (Meet up) to discuss things related to the our global and local communit
+ y\, Meeting community members from time to time to discuss new ideas and s
+ trategies going to increase the activities and achievements.\n\nThis meeti
+ ng is so important\, this time Rami Khader is coming from Holland to join 
+ us and orient us\, we have a lot of point we need to have a discussion abo
+ ut\, point we agreed about at the Arabic Mozilla MeetUP 2014.
+URL:https://reps.mozilla.org/e/mozilla-jordan-meetup/
+SEQUENCE:5
+X-COORDINATES-LAT:32.5360270376
+X-COORDINATES-LON:35.8523368783
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

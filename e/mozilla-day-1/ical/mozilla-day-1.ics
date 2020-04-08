@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5386
+CLASS:PUBLIC
+DTSTAMP:20200407T174247Z
+DTSTART:20160427T130000Z
+DTEND:20160427T170000Z
+LOCATION:Ariana\, Ariana\, Tunisia
+SUMMARY:Mozilla Day
+DESCRIPTION:We will present the Mozilla&#39;s Mission\, projects and programs\
+ , We would explain it to our attendees so it will be a talk with interacti
+ on with audience\, We are going to present the QA engine because we are ma
+ king this Event in an engineering University and is something important to
+  know and to follow it\, Also we will present Connected Devices program an
+ d Explain it mission\, and in the final will be a talk about Devtools and 
+ help Web Developer to prepare their own Web Dev platform.
+URL:https://reps.mozilla.org/e/mozilla-day-1/
+SEQUENCE:1
+X-COORDINATES-LAT:36.6302234778
+X-COORDINATES-LON:10.1440420747
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7411
+CLASS:PUBLIC
+DTSTAMP:20200407T174131Z
+DTSTART:20180210T043000Z
+DTEND:20180210T113000Z
+LOCATION:Govt. Ploytechnic Ranchi\, Ranchi\, India
+SUMMARY:MozAwareness@Govt. Polytechnic
+DESCRIPTION:Complete about mozilla and its open source. as per the plannin
+ g to spread about open source and mozilla. Activate Mozilla Community Camp
+ aign to focus on four initiatives taken by Mozilla in a campus club. It wi
+ ll help them to start doing activity with their goal\, so that they can st
+ art their participation to make web better.
+URL:https://reps.mozilla.org/e/mozawareness-govt-polytechnic/
+SEQUENCE:0
+X-COORDINATES-LAT:23.3720936454
+X-COORDINATES-LON:85.3079222515
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2472
+CLASS:PUBLIC
+DTSTAMP:20200407T165831Z
+DTSTART:20140915T030000Z
+DTEND:20140915T060000Z
+LOCATION:DIU Launge\, Dhanmondi\, Bangladesh
+SUMMARY:Let&#39;s Make the Web Ladies !!
+DESCRIPTION:We are doing awesome with our WoMoz Community in Bangladesha a
+ nd many of us are eager to teach the web to those female tech deprived stu
+ dents who are either for lack of knowledge or for the lack of tech accsess
+ ibility are not web literate.
+URL:https://reps.mozilla.org/e/lets-make-the-web-ladies/
+SEQUENCE:8
+X-COORDINATES-LAT:23.7517218648
+X-COORDINATES-LON:90.3783645626
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

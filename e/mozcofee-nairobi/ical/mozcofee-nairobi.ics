@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1718
+CLASS:PUBLIC
+DTSTAMP:20200407T180006Z
+DTSTART:20140201T090000Z
+DTEND:20140201T130000Z
+LOCATION:Nairobi DevSchool\, Nairobi\, Kenya
+SUMMARY:MozCofee Nairobi
+DESCRIPTION:A meeting of Mozillians around Nairobi to catch up\, talk abou
+ t Mozilla and Mozilla products\, and discuss ways of getting more Mozillia
+ ns
+URL:https://reps.mozilla.org/e/mozcofee-nairobi/
+SEQUENCE:9
+X-COORDINATES-LAT:-1.292066
+X-COORDINATES-LON:36.821946
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

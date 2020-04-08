@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2617
+CLASS:PUBLIC
+DTSTAMP:20200407T181954Z
+DTSTART:20140927T120000Z
+DTEND:20140927T210000Z
+LOCATION:Faculdade Senac-RS  - R. Cel. Genuino\, 358 - Centro Histórico -
+  90010-350\, Brasil\, Porto Alegre\, Brazil
+SUMMARY:Tchê Mobile
+DESCRIPTION:The Tchê Mobile 2014 is a forum sponsored by GUMobile-RS and 
+ it will bring developers\, designers\, and students interested in news abo
+ ut development and mobile platforms and it will be encouraged to develop a
+ nd participate in activities to strengthen the community.
+URL:https://reps.mozilla.org/e/tche-mobile/
+SEQUENCE:7
+X-COORDINATES-LAT:-30.0241197319
+X-COORDINATES-LON:-51.1698303279
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

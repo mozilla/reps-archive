@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5212
+CLASS:PUBLIC
+DTSTAMP:20200407T183704Z
+DTSTART:20160317T110000Z
+DTEND:20160318T003000Z
+LOCATION:Av. Arino Gomes Leal\, 1700 - Santa Margarida\, Colatina\, Brazil
+SUMMARY:Cycle of Academic Forums
+DESCRIPTION:Forums of cycle the Federal Institute of education\, which aim
+ s to integrate the students veterans with rookies\, in addition to serving
+  as a space for presentation of completion of course work and lectures on 
+ technology.
+URL:https://reps.mozilla.org/e/cycle-of-academic-forums/
+SEQUENCE:1
+X-COORDINATES-LAT:-19.5193496267
+X-COORDINATES-LON:-40.6140675559
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

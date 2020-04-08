@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@230
+CLASS:PUBLIC
+DTSTAMP:20200407T181937Z
+DTSTART:20121117T143000Z
+DTEND:20121117T233000Z
+LOCATION:Pontificia Universidad Católica del Perú\, San Miguel\, Peru
+SUMMARY:Mozilla Campus Fest
+DESCRIPTION:Mozilla Campus Fest is an initiative from Mozilla Peru that wa
+ nts to promote the development of the web in our country between students\
+ , teachers and professionals of Computing and similar specialities with co
+ nferences\, workshops and tutorials about emerging technologies for the We
+ b.
+URL:https://reps.mozilla.org/e/mozilla-campus-fest/
+SEQUENCE:0
+X-COORDINATES-LAT:-12.0728116513
+X-COORDINATES-LON:-77.0792627335
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

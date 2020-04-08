@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2947
+CLASS:PUBLIC
+DTSTAMP:20200407T175054Z
+DTSTART:20141031T120000Z
+DTEND:20141031T140000Z
+LOCATION:My Kopi-O at Grand City Surabaya\, Surabaya\, Indonesia
+SUMMARY:MozKopdarSUB Oktober 2014
+DESCRIPTION:Monthly small meet up for Mozillians in Surabaya. This event w
+ ill get news about activities Mozilla in Surabaya\, Firefox\, Firefox OS\,
+  Webmaker\, and etc.
+URL:https://reps.mozilla.org/e/mozkopdarsub-oktoberl-2014/
+SEQUENCE:13
+X-COORDINATES-LAT:-7.26203340943
+X-COORDINATES-LON:112.750622034
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

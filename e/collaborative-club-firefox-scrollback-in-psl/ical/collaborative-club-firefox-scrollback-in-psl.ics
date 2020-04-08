@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3267
+CLASS:PUBLIC
+DTSTAMP:20200407T183605Z
+DTSTART:20150115T160000Z
+DTEND:20150115T180000Z
+LOCATION:Persistent Systems Limited\, Pune\, India
+SUMMARY:Collaborative Club (Firefox + Scrollback) in PSL
+DESCRIPTION:We r forming a big club collaboration of Firefox and scroll ba
+ ck team in Persistent Systems Limited(PSL Pune)... i mean d company were I
+  work.
+URL:https://reps.mozilla.org/e/collaborative-club-firefox-scrollback-in-ps
+ l/
+SEQUENCE:1
+X-COORDINATES-LAT:18.4926333545
+X-COORDINATES-LON:73.9524078369
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

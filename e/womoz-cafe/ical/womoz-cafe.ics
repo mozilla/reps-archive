@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@573
+CLASS:PUBLIC
+DTSTAMP:20200407T180452Z
+DTSTART:20130316T130000Z
+DTEND:20130316T170000Z
+LOCATION:&#34;Brunch of the Lyoum&#34;\, Tunis\, Tunisia
+SUMMARY:WOMOZ Cafe
+DESCRIPTION:It is a meetup for the tunisian womoz to :\nspread mozilla tec
+ hnology among Tunisian ladies and get them more involved in Mozilla and FO
+ SS world.\nWe aim with this event to recuit new womoz and especially those
+  interested in technical stuff (web\, design....). We want to expend our M
+ ozilla base in Tunisia starting by ladies and girls.  \n
+URL:https://reps.mozilla.org/e/womoz-cafe/
+SEQUENCE:0
+X-COORDINATES-LAT:36.8757757829
+X-COORDINATES-LON:10.329208374
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

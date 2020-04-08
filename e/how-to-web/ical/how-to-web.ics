@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4850
+CLASS:PUBLIC
+DTSTAMP:20200407T175259Z
+DTSTART:20151126T070000Z
+DTEND:20151127T170000Z
+LOCATION:Grand Cinema &amp; More\, Bucharest\, Romania
+SUMMARY:How to Web
+DESCRIPTION:How to Web is the most important event dedicated to innovation
+ \, technology\, and entrepreneurship in South East Europe. The conference 
+ targets technology innovators\, web entrepreneurs\, tech product developer
+ s\, outsourcing companies interested in innovation\, investors\, as well a
+ s all tech &amp; web lovers. \nJohn Bernard will held a presentatio (http://20
+ 15.howtoweb.co/speakers/john-bernard/)
+URL:https://reps.mozilla.org/e/how-to-web/
+SEQUENCE:3
+X-COORDINATES-LAT:44.36836929
+X-COORDINATES-LON:26.122559309
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

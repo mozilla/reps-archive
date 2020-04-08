@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5792
+CLASS:PUBLIC
+DTSTAMP:20200407T180521Z
+DTSTART:20161022T060000Z
+DTEND:20161022T100000Z
+LOCATION:Galesia Hotel &amp; Restaurant\, Banani Model Town\, Bangladesh
+SUMMARY:Activate Mozilla Campaign at AIUB
+DESCRIPTION:This event will mainly focus on two important components of AC
+ TIVE MOZILLA sprint which are Web compatibility &amp; Test Pilot program. \nEv
+ ents goals will be to share why web compatibility is that much important\,
+  download add-ons and to find out issues. Also to download Test-pilot add-
+ ons and discuss about Test Pilot features!\n\nWhile continuing this event 
+ our hashtag will be: #MozActivateAIUB
+URL:https://reps.mozilla.org/e/active-mozilla-campaign-at-aiub/
+SEQUENCE:6
+X-COORDINATES-LAT:23.7946930362
+X-COORDINATES-LON:90.4052840173
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1682
+CLASS:PUBLIC
+DTSTAMP:20200407T165650Z
+DTSTART:20140120T063000Z
+DTEND:20140120T093000Z
+LOCATION:Rajasthan technical University\, Kota\, India
+SUMMARY:Install Fest
+DESCRIPTION:Install Fest Event at Rajasthan Technical University\, this wo
+ uld be first ever FOSS Event in the University.\n\nI would try to get invo
+ lve a new Students in the Campus for the Event
+URL:https://reps.mozilla.org/e/install-fest/
+SEQUENCE:1
+X-COORDINATES-LAT:25.1682289092
+X-COORDINATES-LON:75.8485336415
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

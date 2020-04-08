@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5816
+CLASS:PUBLIC
+DTSTAMP:20200407T174151Z
+DTSTART:20160917T043000Z
+DTEND:20160917T103000Z
+LOCATION:Collab House\, Hyderabad\, Hyderabad\, India
+SUMMARY:Software Freedom Day Hyderabad
+DESCRIPTION:Software Freedom Day (SFD) is an annual worldwide celebration 
+ of Free Software. SFD is a public education effort with the aim of increas
+ ing awareness of Free Software and its virtues\, and encouraging its use.\
+ n\nSoftware Freedom Day was established in 2004 and was first observed on 
+ 28 August of that year. About 12 teams participated in the first Software 
+ Freedom Day. Since that time it has grown in popularity and every year we 
+ have more than 300 events organized by over 100 cities from the world
+URL:https://reps.mozilla.org/e/software-freedom-day-hyderabad/
+SEQUENCE:1
+X-COORDINATES-LAT:17.3991316679
+X-COORDINATES-LON:78.5264968872
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

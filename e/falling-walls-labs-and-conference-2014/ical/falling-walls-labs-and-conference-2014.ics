@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2986
+CLASS:PUBLIC
+DTSTAMP:20200407T175055Z
+DTSTART:20141108T090000Z
+DTEND:20141109T180000Z
+LOCATION:Konrad-Adenauer-Stiftung\, Academy\, Tiergartenstrasse 35\, Berli
+ n\, Germany
+SUMMARY:Falling Walls Labs and Conference 2014
+DESCRIPTION:The Falling Walls Lab is a new challenging\, inspiring and int
+ erdisciplinary format for young bright minds. It offers the opportunity to
+  excellent young academics and professionals to present their outstanding 
+ ideas\, research projects and initiatives. \n\nAs recipient of the A.T. Ke
+ arney Scholarship\, I will be able to attend this prestigious event\, I wi
+ ll deliver a three minute presentation titled &#34;Breaking the Walls of Build
+ ing Effective Communities&#34; inspired by my experience with Mozilla!
+URL:https://reps.mozilla.org/e/falling-walls-labs-and-conference-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:52.4690925163
+X-COORDINATES-LON:13.6181786656
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

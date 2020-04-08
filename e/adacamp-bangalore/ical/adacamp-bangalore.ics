@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2899
+CLASS:PUBLIC
+DTSTAMP:20200407T173409Z
+DTSTART:20141122T033000Z
+DTEND:20141123T143000Z
+LOCATION:Red Hat 11TH Floor\, Tower “D” IBC Knowledge Park # 4/1\, Ban
+ nergatta Road\,\, Bangalore\, India
+SUMMARY:AdaCamp - Bangalore
+DESCRIPTION:AdaCamp is a conference dedicated to increasing women’s part
+ icipation in open technology and culture: open source software\, Wikipedia
+  and other wiki-related projects\, open knowledge and education\, open gov
+ ernment and open data\, open hardware and appropriate technology\, library
+  technology\, creative fan culture\, remix culture\, translation/localizat
+ ion/internationalization\, and more. \n\nAdaCamp Bangalore will be in Bang
+ alore\, India at the office of Red Hat on November 22nd &amp; 23rd\, 2014.
+URL:https://reps.mozilla.org/e/adacamp-bangalore/
+SEQUENCE:3
+X-COORDINATES-LAT:12.9538727902
+X-COORDINATES-LON:77.6275445
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

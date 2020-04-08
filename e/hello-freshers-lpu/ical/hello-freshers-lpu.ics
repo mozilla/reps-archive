@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8687
+CLASS:PUBLIC
+DTSTAMP:20200407T165045Z
+DTSTART:20190810T033000Z
+DTEND:20190810T083000Z
+LOCATION:Lovely Professional University\, Jalandhar\, India
+SUMMARY:Hello Fresher - LPU
+DESCRIPTION:A short and sweet event for the Freshmen to introduce them to 
+ Open Source and get them involved in the community\, before the academics 
+ get hold of them! It will be a non-technical event and involve more of exp
+ erience sharing and interaction between the Freshers and present Community
+  members\, to break the ice and make everyone feel included.
+URL:https://reps.mozilla.org/e/hello-freshers-lpu/
+SEQUENCE:3
+X-COORDINATES-LAT:30.7287530096
+X-COORDINATES-LON:76.6939544398
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

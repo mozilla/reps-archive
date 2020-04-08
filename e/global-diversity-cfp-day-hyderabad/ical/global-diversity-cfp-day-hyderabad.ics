@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8393
+CLASS:PUBLIC
+DTSTAMP:20200407T181527Z
+DTSTART:20190302T033000Z
+DTEND:20190302T113000Z
+LOCATION:Swecha Office\, Hyderabad\, India
+SUMMARY:Global Diversity CFP Day - Hyderabad
+DESCRIPTION:In 2019 there will be numerous workshops hosted around the glo
+ be along with Hyderabad encouraging and advising newbie speakers to put to
+ gether their very first talk proposal and share your own individual perspe
+ ctive on any subject of interest to people in tech.
+URL:https://reps.mozilla.org/e/global-diversity-cfp-day-hyderabad/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4360048
+X-COORDINATES-LON:78.3605311
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

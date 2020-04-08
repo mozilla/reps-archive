@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6275
+CLASS:PUBLIC
+DTSTAMP:20200407T181900Z
+DTSTART:20170130T160000Z
+DTEND:20170130T180000Z
+LOCATION:université de Cocody\, Abidjan\, Ivory Coast
+SUMMARY:WORKSHOP 1 TRAINING IT GIRL PROJECT
+DESCRIPTION:some partnership with AIESEC Côte d&#39;Ivoire\, we a looking for
+  training 25  \ntraines who will training 250 Girls in IT and web.
+URL:https://reps.mozilla.org/e/workshop-1-training-it-girl-project/
+SEQUENCE:1
+X-COORDINATES-LAT:5.34379261311
+X-COORDINATES-LON:-4.00308229029
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

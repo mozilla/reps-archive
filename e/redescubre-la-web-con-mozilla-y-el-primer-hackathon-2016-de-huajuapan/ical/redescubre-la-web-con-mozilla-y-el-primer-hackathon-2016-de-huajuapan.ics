@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5122
+CLASS:PUBLIC
+DTSTAMP:20200407T181538Z
+DTSTART:20160310T060000Z
+DTEND:20160312T060000Z
+LOCATION:Centro poder joven Huajuapan\, Huajuapan de León\, Mexico
+SUMMARY:Redescubre la web con Mozilla y el primer Hackathon 2016 de Huajua
+ pan
+DESCRIPTION:Redescubre la web con Mozilla y el primer Hackathon 2016 de Hu
+ ajuapan” es el primer evento en la región que difunde la importancia de
+  las tecnologías web por medio de la enseñanza\, creación y desarrollo 
+ de contenidos digitales que contribuyan al desarrollo de la región a trav
+ és de un Hackathon y  un ciclo de talleres y conferencias  de las herrami
+ entas del proyecto Mozilla y Wikipedia
+URL:https://reps.mozilla.org/e/redescubre-la-web-con-mozilla-y-el-primer-h
+ ackathon-2016-de-huajuapan/
+SEQUENCE:1
+X-COORDINATES-LAT:17.8086640812
+X-COORDINATES-LON:-97.7778854384
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

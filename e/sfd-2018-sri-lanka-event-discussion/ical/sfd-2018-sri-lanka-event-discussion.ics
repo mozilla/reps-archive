@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7973
+CLASS:PUBLIC
+DTSTAMP:20200407T174610Z
+DTSTART:20180720T153000Z
+DTEND:20180720T163000Z
+LOCATION:Google Meet\, Colombo\, Sri Lanka
+SUMMARY:SFD 2018 Sri Lanka Event Discussion
+DESCRIPTION:SFD&#39;18 Event Organizing Call with mozilla Sri Lanka and FOSS L
+ K community members and other volunteers.
+URL:https://reps.mozilla.org/e/sfd-2018-sri-lanka-event-discussion/
+SEQUENCE:1
+X-COORDINATES-LAT:6.79189885184
+X-COORDINATES-LON:80.1445314288
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

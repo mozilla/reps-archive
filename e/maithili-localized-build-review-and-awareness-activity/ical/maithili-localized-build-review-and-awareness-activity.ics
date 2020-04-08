@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5328
+CLASS:PUBLIC
+DTSTAMP:20200407T174820Z
+DTSTART:20160611T040000Z
+DTEND:20160611T123000Z
+LOCATION:Delhi\, New Delhi\, India
+SUMMARY:Maithili Localized Build Review and Awareness Activity
+DESCRIPTION:In India\, we have done Review and Awareness activity for few 
+ language build. Being present in Delhi where several Maithili speaking peo
+ ple are present\, it will be good to an event of Mozilla for Maithili lang
+ uage.
+URL:https://reps.mozilla.org/e/maithili-localized-build-review-and-awarene
+ ss-activity/
+SEQUENCE:3
+X-COORDINATES-LAT:28.5330574428
+X-COORDINATES-LON:77.2353512049
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

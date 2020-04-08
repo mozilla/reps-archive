@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8936
+CLASS:PUBLIC
+DTSTAMP:20200407T180020Z
+DTSTART:20191123T020000Z
+DTEND:20191123T100000Z
+LOCATION:Universitas Ciputea\, Surabaya\, Indonesia
+SUMMARY:PyCon Indonesia 2019
+DESCRIPTION:PyCon Indonesia is a conference where Python users\, or people
+  interested in Python\, gather to learn from each other and meet other mem
+ bers of the community. We hope that everyone joining PyCon ID will not onl
+ y learn new and exciting things\, but also meet new friends and strengthen
+  the connection with the community\, and thus the community itself. This y
+ ear\, we chose &#34;Python for Everyone&#34; as our theme.
+URL:https://reps.mozilla.org/e/pycon-indonesia-2019/
+SEQUENCE:0
+X-COORDINATES-LAT:-7.34884696979
+X-COORDINATES-LON:112.734146118
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

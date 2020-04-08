@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1840
+CLASS:PUBLIC
+DTSTAMP:20200407T175019Z
+DTSTART:20140305T043000Z
+DTEND:20140306T103000Z
+LOCATION:Snow Vision iTech and DB Mall Bhopal\, Bhopal\, India
+SUMMARY:Womaniya Meetup
+DESCRIPTION:We will discussing about womaniya team role\, and planning abo
+ ut to organizing the event\, Management during event\, and lots of things.
+ \n\nAlso\, we will Prepare our-self about our sessions and decide Time man
+ agement during event.\n\nWe will analyze our contents\, and filter the thi
+ ngs\, assign roles and work area for event.
+URL:https://reps.mozilla.org/e/womaniya-meetup/
+SEQUENCE:5
+X-COORDINATES-LAT:23.278710017
+X-COORDINATES-LON:77.4228572811
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

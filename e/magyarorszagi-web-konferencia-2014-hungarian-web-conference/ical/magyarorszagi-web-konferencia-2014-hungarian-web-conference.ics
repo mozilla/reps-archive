@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3305
+CLASS:PUBLIC
+DTSTAMP:20200407T181311Z
+DTSTART:20141108T080000Z
+DTEND:20141108T190000Z
+LOCATION:Óbudai Egyetem\, Budapest\, Hungary
+SUMMARY:Magyarországi Web Konferencia 2014 (Hungarian Web Conference)
+DESCRIPTION:Yearly gathering of the hungarian web development community - 
+ Hungarian Web Conference is organized for the seventh time this year by on
+ e of the most devoted Firefox OS-fans (and tutor of the Firefox OS class a
+ t the Óbuda University)\, Krisztián Karóczkai.\n\nhttp://webconf.hu/201
+ 4
+URL:https://reps.mozilla.org/e/magyarorszagi-web-konferencia-2014-hungaria
+ n-web-conference/
+SEQUENCE:2
+X-COORDINATES-LAT:47.5338002891
+X-COORDINATES-LON:19.0344407559
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

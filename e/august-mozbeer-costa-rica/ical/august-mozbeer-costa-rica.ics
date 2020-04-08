@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4346
+CLASS:PUBLIC
+DTSTAMP:20200407T174242Z
+DTSTART:20150827T010000Z
+DTEND:20150827T030000Z
+LOCATION:Public House\, San Jose\, Costa Rica
+SUMMARY:August MozBeer - Costa Rica
+DESCRIPTION:A casual gathering of Mozilla community members and anyone int
+ erested in joining us.
+URL:https://reps.mozilla.org/e/august-mozbeer-costa-rica/
+SEQUENCE:1
+X-COORDINATES-LAT:9.93794594555
+X-COORDINATES-LON:-84.0953414442
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

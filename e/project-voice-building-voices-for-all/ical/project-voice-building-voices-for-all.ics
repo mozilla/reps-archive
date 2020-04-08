@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8566
+CLASS:PUBLIC
+DTSTAMP:20200407T181213Z
+DTSTART:20190529T220000Z
+DTEND:20190530T220000Z
+LOCATION:Radisson Blu Resort &amp; Spa\, Put Trstenika 19\, Split\, Croatia
+SUMMARY:Project Voice - Building Voices for All
+DESCRIPTION:We are celebrating the World Wide Web 30th Anniversary\, but t
+ he most of the content on the Internet is in English 50-60% and the native
+  speakers are 5-6% of the world population. With voice assistants this bec
+ omes a problem for non-native speakers which forces them to rely on a fore
+ ign language to learn. And the existing technology doesn&#39;t support languag
+ es which are diverse and also underserved in many communities which crippl
+ e them for using the technology.
+URL:https://reps.mozilla.org/e/project-voice-building-voices-for-all/
+SEQUENCE:2
+X-COORDINATES-LAT:43.512530627
+X-COORDINATES-LON:16.4651412796
+X-COUNTRY-CODE:hr
+END:VEVENT
+
+END:VCALENDAR

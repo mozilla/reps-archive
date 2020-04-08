@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2962
+CLASS:PUBLIC
+DTSTAMP:20200407T183608Z
+DTSTART:20141016T163000Z
+DTEND:20141016T203000Z
+LOCATION://Seibert Media GmbH\, Wiesbaden\, Germany
+SUMMARY:RheinMainJS October 2014
+DESCRIPTION:RheinMainJS is a Javascript Usergroup for the Rhein-Main Area 
+ in Germany. It&#39;s a get together of Javascript Developers with at least 2 o
+ r 3 Talks and time to network with attendees.
+URL:https://reps.mozilla.org/e/rheinmainjs-october-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:50.0785487226
+X-COORDINATES-LON:8.23747193805
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

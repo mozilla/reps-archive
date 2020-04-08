@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8525
+CLASS:PUBLIC
+DTSTAMP:20200407T174123Z
+DTSTART:20190523T140000Z
+DTEND:20190523T150000Z
+LOCATION:COBACH 01\, Tuxtla Gutiérrez\, Mexico
+SUMMARY:Importance of Online Privacy  - Talk
+DESCRIPTION:The Privacy Month campaign has ended but privacy issues not\, 
+ so in collaboration with &#34;Movilización de Mujeres en Lucha y Crecimiento 
+ en Chiapas&#34; I will present a conference about &#34;Importance of Online Privac
+ y&#34; on May 23rd to talk about how Mozilla is protecting our privacy\, priva
+ cy issues that we face as users and tools available through Firefox to hav
+ e a more secure experience online.
+URL:https://reps.mozilla.org/e/importance-of-online-privacy-talk/
+SEQUENCE:3
+X-COORDINATES-LAT:16.7493661
+X-COORDINATES-LON:-93.1575685
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

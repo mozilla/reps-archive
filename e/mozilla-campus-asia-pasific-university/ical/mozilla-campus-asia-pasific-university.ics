@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@739
+CLASS:PUBLIC
+DTSTAMP:20200407T175456Z
+DTSTART:20130523T013000Z
+DTEND:20130523T090000Z
+LOCATION:APU Auditorium\, Bukit Jalil\, Malaysia
+SUMMARY:Mozilla Campus Asia Pacific University
+DESCRIPTION:(This event was rejected unilaterally by Country Manager)\n\nM
+ ozilla Malaysia Community will visit conduct a Mozilla campus tour in APU 
+ (Asia Pasific University) at Bukit Jalil\, Kuala Lumpur\, Malaysia with ex
+ pected participant of 60-100 international students to introduce Mozilla P
+ rojects and Updates\, Mozilla Malaysia Community\, Firefox OS\, sharing ab
+ out how to join and contribute in Mozilla projects.
+URL:https://reps.mozilla.org/e/mozilla-campus-asia-pasific-university/
+SEQUENCE:7
+X-COORDINATES-LAT:3.04804
+X-COORDINATES-LON:101.692886
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

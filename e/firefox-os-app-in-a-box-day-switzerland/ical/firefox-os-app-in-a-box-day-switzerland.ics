@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@679
+CLASS:PUBLIC
+DTSTAMP:20200407T170513Z
+DTSTART:20130525T070000Z
+DTEND:20130525T180000Z
+LOCATION:Zühlke Engineering AG\, Wiesenstrasse 10a\, 8952 Schlieren\, Sch
+ lieren\, Switzerland
+SUMMARY:Firefox OS App Day Switzerland
+DESCRIPTION:The first &#34;Firefox OS App Day Switzerland&#34; provides an introdu
+ ction to dive into application development for Firefox OS. If you are a we
+ b developer you&#39;re ready to start - there&#39;s nothing you need more.\n\nIf y
+ ou are a web developer interested in creating apps for mobile devices you 
+ are at the right place. Talks in the morning will introduce into developin
+ g mobile web apps for Firefox OS.\n\nRegister at http://firefoxosappdaysch
+ .eventbrite.com/ !
+URL:https://reps.mozilla.org/e/firefox-os-app-in-a-box-day-switzerland/
+SEQUENCE:8
+X-COORDINATES-LAT:47.400004983
+X-COORDINATES-LON:8.44363689423
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

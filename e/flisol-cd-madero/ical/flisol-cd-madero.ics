@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7605
+CLASS:PUBLIC
+DTSTAMP:20200407T182126Z
+DTSTART:20170401T140000Z
+DTEND:20170401T220000Z
+LOCATION:FLISOL CD. Madero\, Cd. Madero Tamaulipas\, Mexico
+SUMMARY:FLISOL CD. Madero
+DESCRIPTION:The Latin American Free Software Install Fest will held its 13
+ th edition this year in more than 200 cities across Latin America. The Pol
+ ytechnic University of Altamira will celebrate the festival on April 12th 
+ in Altamira\, Tamaulipas\, MX. A talk about Privacy and a workshop for int
+ roducing people to Rust will be presented during the festival.
+URL:https://reps.mozilla.org/e/flisol-cd-madero/
+SEQUENCE:0
+X-COORDINATES-LAT:22.2534598597
+X-COORDINATES-LON:-97.8513565077
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@50
+CLASS:PUBLIC
+DTSTAMP:20200407T173710Z
+DTSTART:20120828T230000Z
+DTEND:20120829T030000Z
+LOCATION:Escuelab\, Lima\, Peru
+SUMMARY:MDN Docs Sprint
+DESCRIPTION:This event is to improve translation of MDN articles (in spani
+ sh) and a small celebration for the launch of Firefox 15
+URL:https://reps.mozilla.org/e/mdn-docs-sprint/
+SEQUENCE:0
+X-COORDINATES-LAT:-12.0530658418
+X-COORDINATES-LON:-77.0359396935
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3937
+CLASS:PUBLIC
+DTSTAMP:20200407T182329Z
+DTSTART:20150607T100000Z
+DTEND:20150607T160000Z
+LOCATION:University SS. Cyril and Methodious\, Law Faculty\, Skopje\, Mace
+ donia\, F.Y.R. of
+SUMMARY:Surveillance 101
+DESCRIPTION:Youth Educational Forum (MOF) is organizing introductory lectu
+ res on various topics for university students. This month is Surveillance.
+ \n\nIn cooperation with Free Software Macedonia and Hacklab KIKA we are do
+ ing 4-5 lectures on various topics related to surveillance.\n\nI will be s
+ peaking about https://advocacy.mozilla.org/
+URL:https://reps.mozilla.org/e/surveillance-101/
+SEQUENCE:1
+X-COORDINATES-LAT:41.9999371263
+X-COORDINATES-LON:21.4437103254
+X-COUNTRY-CODE:mk
+END:VEVENT
+
+END:VCALENDAR

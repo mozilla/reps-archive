@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@711
+CLASS:PUBLIC
+DTSTAMP:20200407T175307Z
+DTSTART:20130405T160000Z
+DTEND:20130405T180000Z
+LOCATION:Kafe Priča\, Subotica\, Serbia
+SUMMARY:Serbian community meetup / Firefox for Android campaign
+DESCRIPTION:Serbian community is going to meet in Kafe Priča in order to 
+ discuss future plans and help new contributors with questions and problems
+  they have. \n\nFuture plans are about SUMO localization\, Firefox OS team
+ s and other topics.\n\nWe will also put flyers in this caffee bar which wi
+ ll promote Firefox for Android.
+URL:https://reps.mozilla.org/e/serbian-community-meetup-firefox-for-androi
+ d-campaign/
+SEQUENCE:6
+X-COORDINATES-LAT:46.1007926324
+X-COORDINATES-LON:19.6678447723
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

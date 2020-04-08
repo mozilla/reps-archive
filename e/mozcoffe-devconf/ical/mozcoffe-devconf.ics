@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8737
+CLASS:PUBLIC
+DTSTAMP:20200407T174131Z
+DTSTART:20190803T103000Z
+DTEND:20190803T113000Z
+LOCATION:Christ University Bangalore\, Bangalore\, India
+SUMMARY:Mozcoffe @ Devconf
+DESCRIPTION:We had a mini Mozcoffe with the volunteers and Reps who attend
+ ed DevConf Bangalore .
+URL:https://reps.mozilla.org/e/mozcoffe-devconf/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9343981
+X-COORDINATES-LON:77.5360356
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

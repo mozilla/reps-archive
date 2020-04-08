@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5357
+CLASS:PUBLIC
+DTSTAMP:20200407T174253Z
+DTSTART:20160507T060000Z
+DTEND:20160507T150000Z
+LOCATION:Grand Hotel Italia\, Cluj-Napoca\, Romania
+SUMMARY:CodeCamp Cluj
+DESCRIPTION:CodeCamp is your local IT community &amp; conference in Cluj\, aim
+ ing for better communication among the IT people.\n\nIt started small in 2
+ 008 in Iasi and it grew organically\, continuously fulfilling the communit
+ y demand. It now consists of 10 parallel tracks with 60 sessions and almos
+ t 2000 participants. Alex and possibly Ioana are speaking there\, and Mozi
+ lla Romania members will be in attendance.\nAlex is speaking about Pivotin
+ g to Connected Devices\, Ioana is not confirmed yet.
+URL:https://reps.mozilla.org/e/codecamp-cluj/
+SEQUENCE:4
+X-COORDINATES-LAT:46.7528388251
+X-COORDINATES-LON:23.6057962775
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

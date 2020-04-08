@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@291
+CLASS:PUBLIC
+DTSTAMP:20200407T182646Z
+DTSTART:20121106T090000Z
+DTEND:20121106T110000Z
+LOCATION:Faculty of Organizational Sciences (FON)\, Belgrade\, Serbia
+SUMMARY:OpenIT
+DESCRIPTION:Open IT is going to be realized the sixth consecutive year\, w
+ ithin four days of seminar on information technology. The goal of the proj
+ ect is to provide students\, beneficiaries\, range of great lectures and w
+ orkshops which will provide them an opportunity to gain practical experien
+ ce and to hear more about news from the field of ICT. Lecturers on seminar
+  are managers and representatives of companies\, people with great experie
+ nce\, willing to generously spread their knowledge onto students.
+URL:https://reps.mozilla.org/e/openit/
+SEQUENCE:0
+X-COORDINATES-LAT:44.7723304111
+X-COORDINATES-LON:20.4754686356
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3636
+CLASS:PUBLIC
+DTSTAMP:20200407T174849Z
+DTSTART:20150321T090000Z
+DTEND:20150321T140000Z
+LOCATION:L&#39;Aspirant Restaurant\, Chlef\, Algeria
+SUMMARY:International Women&#39;s Day
+DESCRIPTION:International Women’s Day \, which is officially on March 8\
+ , 2015\, is a day to celebrate the achievements of women while calling for
+  greater equality within our communities\, we will be speaking about Women
+  and Mozilla\, Women and FOSS\, and also how to increase women&#39;s contribut
+ ion.
+URL:https://reps.mozilla.org/e/international-womens-day-1/
+SEQUENCE:3
+X-COORDINATES-LAT:36.1508128256
+X-COORDINATES-LON:1.28338621929
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

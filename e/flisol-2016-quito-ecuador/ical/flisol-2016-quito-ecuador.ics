@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5400
+CLASS:PUBLIC
+DTSTAMP:20200407T173750Z
+DTSTART:20160528T140000Z
+DTEND:20160528T230000Z
+LOCATION:Ingeniería Eléctrica y Electrónica\, Escuela Politéc­nica Na
+ cional\, Quito\, Ecuador\, Quito\, Ecuador
+SUMMARY:Flisol 2016\, Quito\, Ecuador
+DESCRIPTION:Flisol is a Continental event about Free Software installation
+ . Mozilla&#39;s communities participate in almost all LATAM countries. Ecuador
+  event was delayed due to the earthquake that affect the country.
+URL:https://reps.mozilla.org/e/flisol-2016-quito-ecuador/
+SEQUENCE:1
+X-COORDINATES-LAT:-0.215870822915
+X-COORDINATES-LON:-78.5030794161
+X-COUNTRY-CODE:ec
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5782
+CLASS:PUBLIC
+DTSTAMP:20200407T174906Z
+DTSTART:20160923T070000Z
+DTEND:20160924T150000Z
+LOCATION:TBD\, Amman\, Jordan
+SUMMARY:CD-JO Task Force Team
+DESCRIPTION:JO First connected devices training and experience sharing\, w
+ e are planning to create a new lab for connected devices inside a universi
+ ty\, so for this plan we are going to invite Mozillians from all the citie
+ s of Jordan  to get more Mozillians evolved in connected devices and be ab
+ le to train Students in the targeted university on the basics of the conne
+ cted devices to make them ready to take the course.
+URL:https://reps.mozilla.org/e/cd-jo-task-force-team/
+SEQUENCE:6
+X-COORDINATES-LAT:31.9867836
+X-COORDINATES-LON:35.8833956
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

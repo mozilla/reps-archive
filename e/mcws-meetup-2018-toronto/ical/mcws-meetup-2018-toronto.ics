@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7336
+CLASS:PUBLIC
+DTSTAMP:20200407T165146Z
+DTSTART:20180125T050000Z
+DTEND:20180128T050000Z
+LOCATION:Mozilla Toronto\, Toronto\, Canada
+SUMMARY:MCWS Meetup 2018 Toronto
+DESCRIPTION:Planning for the next year - how we will improve our services 
+ to communities in collaboration with Open Innovation\, and onboard new vol
+ unteers into leadership roles.
+URL:https://reps.mozilla.org/e/mcws-meetup-2018-toronto/
+SEQUENCE:0
+X-COORDINATES-LAT:43.647203242
+X-COORDINATES-LON:-79.3940742014
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

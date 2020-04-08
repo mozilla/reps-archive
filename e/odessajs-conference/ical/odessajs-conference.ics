@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@644
+CLASS:PUBLIC
+DTSTAMP:20200407T182230Z
+DTSTART:20130413T070000Z
+DTEND:20130413T180000Z
+LOCATION:TBD\, Odessa\, Ukraine
+SUMMARY:OdessaJS Conference
+DESCRIPTION:First JS conference for front-end developers in Odessa!\n\nInt
+ eresting people and talks. Most attractive event for one who wants to know
+  most in JS and web development. 600+ attendees according official stats.
+URL:https://reps.mozilla.org/e/odessajs-conference/
+SEQUENCE:0
+X-COORDINATES-LAT:46.4722562164
+X-COORDINATES-LON:30.7492089272
+X-COUNTRY-CODE:ua
+END:VEVENT
+
+END:VCALENDAR

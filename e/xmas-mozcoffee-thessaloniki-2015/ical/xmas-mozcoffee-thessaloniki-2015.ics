@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4921
+CLASS:PUBLIC
+DTSTAMP:20200407T174345Z
+DTSTART:20151223T160000Z
+DTEND:20151223T180000Z
+LOCATION:Tech Ministry\, Thessaloniki\, Greece
+SUMMARY:XMAS Mozcoffee Thessaloniki 2015
+DESCRIPTION:The last community meeting of the year. We will discuss about 
+ the Firefox OS / Connected devices announcement and plan for next year.
+URL:https://reps.mozilla.org/e/xmas-mozcoffee-thessaloniki-2015/
+SEQUENCE:14
+X-COORDINATES-LAT:40.6374191131
+X-COORDINATES-LON:22.9406776425
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

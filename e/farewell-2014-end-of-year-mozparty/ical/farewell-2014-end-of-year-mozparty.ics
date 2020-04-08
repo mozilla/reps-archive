@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2967
+CLASS:PUBLIC
+DTSTAMP:20200407T180005Z
+DTSTART:20141220T090000Z
+DTEND:20141220T130000Z
+LOCATION:Haller Park\, Mombasa\, Mombasa\, Kenya
+SUMMARY:Farewell 2014 - End of year MozParty
+DESCRIPTION:This is will be the 3rd informal meet-up among some of the top
+  contributors within Mozilla Mombasa community to discuss on the latest ne
+ ws on Mozilla\, what&#39;s in-store for Mozilla Community in 2015\, to chart a
+  road map for the first quarter of 2015 as well as find out ways in which 
+ the community can be grown further towards the Coastal environs. It will a
+ lso serve as opportunity to discuss any issues pertaining the community an
+ d a moment to celebrate the good times we have had.
+URL:https://reps.mozilla.org/e/farewell-2014-end-of-year-mozparty/
+SEQUENCE:3
+X-COORDINATES-LAT:-4.02591891944
+X-COORDINATES-LON:39.85496521
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@883
+CLASS:PUBLIC
+DTSTAMP:20200407T175926Z
+DTSTART:20130301T040000Z
+DTEND:20130630T040000Z
+LOCATION:NCU and NCTU university\, Various\, Taiwan
+SUMMARY:Service learning class for newbies of universities
+DESCRIPTION:In this project\, Mozilla Taiwan community help students from 
+ dept. Computer Science at NCTU and NCU university\, to learning and contri
+ buting on l10n of SUMO\, MDN and video subtitles at Amara and coding for F
+ irefox\, as their required credit at school.
+URL:https://reps.mozilla.org/e/service-learning-class-for-newbies-of-unive
+ rsities/
+SEQUENCE:4
+X-COORDINATES-LAT:23.8858376999
+X-COORDINATES-LON:121.025390625
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6557
+CLASS:PUBLIC
+DTSTAMP:20200407T174205Z
+DTSTART:20170429T020000Z
+DTEND:20170430T090000Z
+LOCATION:Mozilla Taipei Office\, Taipei\, Taiwan
+SUMMARY:VoiceBank - Voice Jam in Taipei
+DESCRIPTION:VoiceBank is a project to create an open dataset of people’s
+  voices. Then anyone can make new voice tools and help break the silos of 
+ the voice-enabled internet\, ensuring we all have a voice in the internet
+ ’s future.  \n\nJoin us this weekend to contribute to Mozilla VoiceBank 
+ project by making fun mobile experiences that encourage people to donate t
+ heir voice. Anyone is welcome to come! \n\n我們目前正在各地舉辦 
+ Voice Jam 活動，希望能設計出數種收集語音資料的有趣方
+ 式，以鼓勵人們貢獻自己的語音資料。這個週末就加入
+ 我們，一起來腦力激盪，練習設計思考的技巧，試著設
+ 計出有趣的手機遊戲體驗吧。
+URL:https://reps.mozilla.org/e/mozilla-voicebank-voice-jam/
+SEQUENCE:3
+X-COORDINATES-LAT:25.0324995777
+X-COORDINATES-LON:121.56706845
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

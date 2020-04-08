@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@928
+CLASS:PUBLIC
+DTSTAMP:20200407T175530Z
+DTSTART:20130615T150000Z
+DTEND:20130615T180000Z
+LOCATION:UGB\, Saint-Louis\, Sénégal\, Saint-Louis\, Senegal
+SUMMARY:MozillaSN Saint-Louis Meetup
+DESCRIPTION:For the second time\, MozillaSN will be in Saint-Louis at Univ
+ ersité Gaston Berger to talk about Mozilla. \nThis year we&#39;v been invited
+  by &#34;Association des doctorants de l&#39;Université Gaston Berger de Saint-Lo
+ uis&#34;. \nThat will be a good place to talk about Firefox OS et web App and 
+ how he can involved.
+URL:https://reps.mozilla.org/e/mozillasn-saint-louis-meetup/
+SEQUENCE:7
+X-COORDINATES-LAT:16.062723
+X-COORDINATES-LON:-16.425726
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

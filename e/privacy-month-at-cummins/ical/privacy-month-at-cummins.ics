@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8335
+CLASS:PUBLIC
+DTSTAMP:20200407T174123Z
+DTSTART:20190120T030000Z
+DTEND:20190120T100000Z
+LOCATION:Cummins College of Engineering for Women\, Pune\, India
+SUMMARY:Privacy Month at Cummins
+DESCRIPTION:Online Privacy and Security Event along with Ethical Hacking.\
+ n\nSpeakers: Shriya Bhat\, Bhushan Gaikwad
+URL:https://reps.mozilla.org/e/privacy-month-at-cummins/
+SEQUENCE:1
+X-COORDINATES-LAT:18.486714
+X-COORDINATES-LON:73.81598
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

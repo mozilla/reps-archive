@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1523
+CLASS:PUBLIC
+DTSTAMP:20200407T182708Z
+DTSTART:20131130T110000Z
+DTEND:20131130T193000Z
+LOCATION:R. Comendador Manoel Pereira\, 249\, Porto Alegre\, Brazil
+SUMMARY:Tchêlinux
+DESCRIPTION:Tchêlinux is a group of free software users to exchange infor
+ mation and knowledge about the universe free. The event is conducted by vo
+ lunteers who have some knowledge and want to share with others.
+URL:https://reps.mozilla.org/e/techelinux/
+SEQUENCE:2
+X-COORDINATES-LAT:-30.0364302452
+X-COORDINATES-LON:-51.2146110646
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

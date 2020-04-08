@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@139
+CLASS:PUBLIC
+DTSTAMP:20200407T183115Z
+DTSTART:20120915T090000Z
+DTEND:20120915T160000Z
+LOCATION:The Ngbuzz centre - Plot 188 Zone 3\, Finima\, Bonny Island\, Nig
+ eria
+SUMMARY:Software Freedom Day 2012 - Bonny Island\, Nigeria
+DESCRIPTION:On the 15th of September\, A few friends from the IT departmen
+ t and My Mozilla Summer code Hack Jam team will gather around the office f
+ or a day of appreciation\, learning and educating the public about FREE OP
+ EN SOURCE SOFTWARE (FOSS).. \n\nThis is inline with the Global celebration
+  of Software Freedom Day 2012.
+URL:https://reps.mozilla.org/e/software-freedom-day-2012-bonny-island-nige
+ ria/
+SEQUENCE:0
+X-COORDINATES-LAT:4.397567
+X-COORDINATES-LON:7.154628
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

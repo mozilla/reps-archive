@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4502
+CLASS:PUBLIC
+DTSTAMP:20200407T175902Z
+DTSTART:20150919T100000Z
+DTEND:20150919T170000Z
+LOCATION:Jokkolabs\, Dakar\, Senegal
+SUMMARY:Software Freedom Day 2015
+DESCRIPTION:La Journée International du Logiciel Libre (JILL) (Software F
+ reedom Day\, en anglais) est une célébration dans le monde du Logiciel L
+ ibre et Open Source (FLOSS).\n\nSon objectif est d’informer et d’éduq
+ uer le grand publique des avantages à utiliser les Logiciels Libres.
+URL:https://reps.mozilla.org/e/software-freedom-day-2015-1/
+SEQUENCE:0
+X-COORDINATES-LAT:14.6960323
+X-COORDINATES-LON:-17.4573238
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

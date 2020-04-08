@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8096
+CLASS:PUBLIC
+DTSTAMP:20200407T171616Z
+DTSTART:20181201T033000Z
+DTEND:20181202T113000Z
+LOCATION:6th Floor\, Block - D\, Silver Oak Campus\, Opp. Lambda Research\
+ , Nr. Hotel Aloft\, Ahmedabad\, Gujarat 382481\, Ahmedabad\, India
+SUMMARY:Mozilla l10n Gujarati Training Meetup 2018
+DESCRIPTION:This is going to be first event training meetup for Gujarati l
+ ocale. This meetup will increase localization consistency for users\, buil
+ d relevant skills in volunteers for their future success and provide train
+ ing for veteran and new localizers on changes to the localization process.
+URL:https://reps.mozilla.org/e/mozilla-l10n-gujarati-training-meetup-2018/
+SEQUENCE:5
+X-COORDINATES-LAT:22.8335710372
+X-COORDINATES-LON:71.8432608247
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

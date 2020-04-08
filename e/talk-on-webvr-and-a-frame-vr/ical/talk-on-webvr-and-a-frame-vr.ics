@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6005
+CLASS:PUBLIC
+DTSTAMP:20200407T181232Z
+DTSTART:20161022T113000Z
+DTEND:20161022T123000Z
+LOCATION:Google Office\, Bengaluru\, Bangalore\, India
+SUMMARY:Talk on WebVR and A-Frame VR
+DESCRIPTION:A 10min talk on WebVR and AframeVR and ways to get involved wi
+ th contributions in Mozilla VR. This will be part of GDG - Google Develope
+ rs Group - DevFest 2016 at Google Pvt. Limited\, Bengaluru\, India.
+URL:https://reps.mozilla.org/e/talk-on-webvr-and-a-frame-vr/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9759548712
+X-COORDINATES-LON:77.6253604889
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

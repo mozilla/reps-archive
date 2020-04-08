@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4131
+CLASS:PUBLIC
+DTSTAMP:20200407T173751Z
+DTSTART:20150807T140000Z
+DTEND:20150809T010000Z
+LOCATION:TBD\, San Pedro Sula\, Honduras
+SUMMARY:ECSL - Encuentro centroamericano de Software Libre - Honduras
+DESCRIPTION:This is the biggest Free software event in Central America. In
+  2014 was the first time Mozilla participate like a community. This year w
+ ill be the second chance to involucrate the community in the work with oth
+ er communities in the region.\n\nAlso\, we are using the time to have a mi
+ nimal community meetup and setup goals for the region
+URL:https://reps.mozilla.org/e/ecsl-encuentro-centroamericano-de-software-
+ libre-honduras/
+SEQUENCE:1
+X-COORDINATES-LAT:15.5069223649
+X-COORDINATES-LON:-88.0314445565
+X-COUNTRY-CODE:hn
+END:VEVENT
+
+END:VCALENDAR

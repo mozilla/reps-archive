@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8503
+CLASS:PUBLIC
+DTSTAMP:20200407T174822Z
+DTSTART:20190726T120000Z
+DTEND:20190726T190000Z
+LOCATION:Ankert\, Budapest\, Hungary
+SUMMARY:Sysadmin Day 2019
+DESCRIPTION:Yearly meeting of System administrators and other techies. So 
+ we are focusing on using of Encryption - how to set Let&#39;s Encrypt (https:/
+ /letsencrypt.org/) and Firefox usage (Enterprise options) As in the past f
+ ew years we are going to representing communities and programs such as Moz
+ illa\, LibreOffice\, Linux Mint and Fedora.
+URL:https://reps.mozilla.org/e/sysadmin-day-2019/
+SEQUENCE:5
+X-COORDINATES-LAT:47.5014589879
+X-COORDINATES-LON:19.059696436
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

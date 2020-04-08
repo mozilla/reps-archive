@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3779
+CLASS:PUBLIC
+DTSTAMP:20200407T182612Z
+DTSTART:20150604T053000Z
+DTEND:20150605T093000Z
+LOCATION:Meetup space\, Kolkata\, India
+SUMMARY:Mozilla Science Lab Global Sprint 2015  | Kolkata
+DESCRIPTION:We sit together with our community\, from librarians to develo
+ pers to bench scientists to hack for two-days on open science projects. \n
+ \nhttp://www.mozillascience.org/global-sprint-2015\n\nThis event has been 
+ proposed first in India.
+URL:https://reps.mozilla.org/e/mozilla-science-lab-global-sprint-2015-kolk
+ ata/
+SEQUENCE:5
+X-COORDINATES-LAT:22.5694648513
+X-COORDINATES-LON:88.3529664204
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

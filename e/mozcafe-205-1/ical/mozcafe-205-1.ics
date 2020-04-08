@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3531
+CLASS:PUBLIC
+DTSTAMP:20200407T180237Z
+DTSTART:20150221T063000Z
+DTEND:20150221T103000Z
+LOCATION:Devlab Yangon\, Yangon\, Myanmar
+SUMMARY:MozCafe 205.1
+DESCRIPTION:Our first MozCafe in 2015 recruiting and promoting FirefoxOS\,
+  Firefox Student Ambassador Program.
+URL:https://reps.mozilla.org/e/mozcafe-205-1/
+SEQUENCE:2
+X-COORDINATES-LAT:16.7821583
+X-COORDINATES-LON:96.1542073
+X-COUNTRY-CODE:mm
+END:VEVENT
+
+END:VCALENDAR

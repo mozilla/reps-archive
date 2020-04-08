@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@440
+CLASS:PUBLIC
+DTSTAMP:20200407T165652Z
+DTSTART:20130109T060000Z
+DTEND:20130109T090000Z
+LOCATION:Haldwani\, Haldwani\, India
+SUMMARY:Being Open
+DESCRIPTION:A Session that talks about Open Source in General and how does
+  end user benefit from it\, the session includes case studies of a few org
+ anizations and a few Open Source Projects.
+URL:https://reps.mozilla.org/e/being-open/
+SEQUENCE:0
+X-COORDINATES-LAT:29.1800420369
+X-COORDINATES-LON:79.517326355
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

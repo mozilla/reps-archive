@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2690
+CLASS:PUBLIC
+DTSTAMP:20200407T181519Z
+DTSTART:20140825T130000Z
+DTEND:20140827T200000Z
+LOCATION:Manoel Antônio de Souza\, 1896\, Paraguaçu Paulista\, Brazil
+SUMMARY:Semana de Informática do ProjetoCara
+DESCRIPTION:Computer Science Week of Associason de Proteção à Criança 
+ e Adolescente at Paraguaçu Paulista
+URL:https://reps.mozilla.org/e/semana-de-informatica-do-projetocara/
+SEQUENCE:4
+X-COORDINATES-LAT:-22.421528525
+X-COORDINATES-LON:-50.5798416166
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

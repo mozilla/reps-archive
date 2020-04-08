@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3060
+CLASS:PUBLIC
+DTSTAMP:20200407T175816Z
+DTSTART:20141204T213000Z
+DTEND:20141206T003000Z
+LOCATION:Senac Uruguaiana\, Uruguaiana\, Brazil
+SUMMARY:Uruguaiana Tech
+DESCRIPTION:Local event on Uruguaiana\, Rio Grande do Sul\, with talks and
+  workshops on technology and stuff.\n\nOur presence includes two talks:\n\
+ n* App creation for Firefox OS\, with live coding and demos\n* Join Mozill
+ a Brazil\, to grow our local community in Rio Grande do Sul\n\nOrganizatio
+ n of the event expects 200 people on the event\, and we expect 40 people i
+ n each talk.
+URL:https://reps.mozilla.org/e/uruguaiana-tech/
+SEQUENCE:3
+X-COORDINATES-LAT:-29.7594512275
+X-COORDINATES-LON:-57.0843533278
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

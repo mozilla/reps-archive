@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3542
+CLASS:PUBLIC
+DTSTAMP:20200407T174852Z
+DTSTART:20150331T080000Z
+DTEND:20150331T100000Z
+LOCATION:Yarmouk Uni.\, irbid\, Jordan
+SUMMARY:Firefox day
+DESCRIPTION:we will talk about Mozilla \, browser \, privacy \, Webmaker \
+ , Localization
+URL:https://reps.mozilla.org/e/firefox-day-1/
+SEQUENCE:3
+X-COORDINATES-LAT:32.5345789643
+X-COORDINATES-LON:35.8555841428
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1205
+CLASS:PUBLIC
+DTSTAMP:20200407T174941Z
+DTSTART:20131020T140000Z
+DTEND:20131027T190000Z
+LOCATION:Kababayan Community Centre\, Toronto\, Canada
+SUMMARY:Webmaking for Nannies
+DESCRIPTION:This is the second of the Webmaking for Nannies series. The co
+ ncept is pretty simple: Enable nannies to become Webmaker coaches to their
+  wards. The learning setting for them is very informal and the expectation
+  ranges from sharing some bits of info about Webmaker initiatives to doing
+  demos of the tools. The over-arching goal is to get their wards intereste
+ d and motivated about Webmaking.
+URL:https://reps.mozilla.org/e/webmaking-for-nannies/
+SEQUENCE:7
+X-COORDINATES-LAT:43.6408736485
+X-COORDINATES-LON:-79.4331049919
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

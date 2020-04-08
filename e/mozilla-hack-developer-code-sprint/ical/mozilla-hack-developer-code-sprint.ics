@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1711
+CLASS:PUBLIC
+DTSTAMP:20200407T173738Z
+DTSTART:20140906T033000Z
+DTEND:20140907T033000Z
+LOCATION:NIT Warangal\, Warangal\, India
+SUMMARY:Mozilla Hack &amp; Developer Code Sprint.
+DESCRIPTION:The Technology related event to focus on getting students and 
+ new potential contributors started to open source. Intro to Firefox Develo
+ pment and Dev-Tools\, Web Applications\, Firefox OS Phone Applications\, G
+ it based DVCS Projects of Mozilla\, Bug Day and Triaging\, MDN Documentati
+ on etc..\, Involving more women into Open source. Bring in more contributo
+ rs than just Computer Scientists and related engineers. Expand open source
+  contributors to people who love the web and want it to be open.
+URL:https://reps.mozilla.org/e/mozilla-hack-developer-code-sprint/
+SEQUENCE:10
+X-COORDINATES-LAT:17.9883629131
+X-COORDINATES-LON:79.5307388302
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

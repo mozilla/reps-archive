@@ -1,0 +1,1 @@
+$(document).ready(function(){$('#featured').foundation('orbit',{navigation_arrows:false,timer_speed:5000,pause_on_hover:false});});

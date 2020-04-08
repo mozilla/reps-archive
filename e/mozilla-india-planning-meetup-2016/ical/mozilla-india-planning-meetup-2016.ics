@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5632
+CLASS:PUBLIC
+DTSTAMP:20200407T170242Z
+DTSTART:20160709T043000Z
+DTEND:20160710T123000Z
+LOCATION:C- DAC Pune\, Pune\, India
+SUMMARY:Mozilla India Planning Meetup 2016
+DESCRIPTION:An invitation only event hosted by Mozilla India Community in 
+ India with people from different sub communities based on gender diversity
+ \, regional representation\, activities and leadership in community. This 
+ event will mainly focus on developing options for the direction\, vision\,
+  strategy and roadmap of the Mozilla India community\, and undertaking det
+ ailed planning of the second phase that involves the Mozilla India Communi
+ ty Meetup in August 2016.
+URL:https://reps.mozilla.org/e/mozilla-india-planning-meetup-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:18.6011308271
+X-COORDINATES-LON:73.9526358247
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

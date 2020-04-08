@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1060
+CLASS:PUBLIC
+DTSTAMP:20200407T180511Z
+DTSTART:20130704T130000Z
+DTEND:20130704T150000Z
+LOCATION:Holiday Inn Hotel\, Sarajevo\, Bosnia and Herzegovina
+SUMMARY:Mozilla Community BiH Meetup
+DESCRIPTION:This is a meetup of the new contributors and Mozilla Community
+  BiH core team in order to introduce them to the world of Mozilla\, our co
+ mmunity and get them involved with our activities.
+URL:https://reps.mozilla.org/e/mozilla-community-bih-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:43.8563047033
+X-COORDINATES-LON:18.4039181471
+X-COUNTRY-CODE:ba
+END:VEVENT
+
+END:VCALENDAR

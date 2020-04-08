@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5230
+CLASS:PUBLIC
+DTSTAMP:20200407T182429Z
+DTSTART:20160510T110000Z
+DTEND:20160510T140000Z
+LOCATION:Mälardalen Högskola\, Vasteras\, Sweden
+SUMMARY:CryptoParty @ Library Days 2016 #bibldag16
+DESCRIPTION:How can libraries contribute to a safer digital environment an
+ d how can we help library users and non-users to make their own digital lo
+ cal environment more secure? Together we share knowledge and try out some 
+ of the most common privacy-enhancing tools\, such as the TOR browser\, the
+  encrypted messaging app Signal and Mozilla’s tracking blocker Do Not Tr
+ ack. An event organized by the Swedish Library Association&#39;s Digital Netwo
+ rk &#34;Digibib.se&#34;
+URL:https://reps.mozilla.org/e/cryptoparty-library-days-2016-bibldag16/
+SEQUENCE:2
+X-COORDINATES-LAT:59.6182864706
+X-COORDINATES-LON:16.5414218896
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

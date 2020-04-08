@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8394
+CLASS:PUBLIC
+DTSTAMP:20200407T181527Z
+DTSTART:20190302T100000Z
+DTEND:20190302T160000Z
+LOCATION:MVSR Engineering College\, subhedar malla reddy marg\, Ward 41 Ka
+ nchanbagh\, Hyderabad - 500058\, Telangana\, India\, Hyderabad\, India
+SUMMARY:TEDxMVSR
+DESCRIPTION:In the spirit of ideas worth spreading\, TEDx is a program of 
+ local\, self-organized events that bring people together to share a TED-li
+ ke experience. At a TEDx event\, TEDTalks video and live speakers combine 
+ to spark deep discussion and connection in a small group. These local\, se
+ lf-organized events are branded TEDx\, where x = independently organized T
+ ED event. The TED Conference provides general guidance for the TEDx progra
+ m\, but individual TEDx events are self-organized.
+URL:https://reps.mozilla.org/e/tedxmvsr/
+SEQUENCE:0
+X-COORDINATES-LAT:17.2814454
+X-COORDINATES-LON:78.5396206
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

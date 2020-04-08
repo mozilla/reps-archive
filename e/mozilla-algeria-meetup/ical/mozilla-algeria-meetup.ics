@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4217
+CLASS:PUBLIC
+DTSTAMP:20200407T174849Z
+DTSTART:20150729T200000Z
+DTEND:20150729T210000Z
+LOCATION:Algiers\, Algeria\, Algiers\, Algeria
+SUMMARY:Mozilla Algeria Meetup
+DESCRIPTION:Online Meetup to discuss about Mozilla Algeria community.
+URL:https://reps.mozilla.org/e/mozilla-algeria-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:36.70072367
+X-COORDINATES-LON:3.10400381684
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

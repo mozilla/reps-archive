@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9048
+CLASS:PUBLIC
+DTSTAMP:20200407T171651Z
+DTSTART:20200224T110000Z
+DTEND:20200224T123000Z
+LOCATION:Radharaman Group of Institutes\, Bhopal\, India
+SUMMARY:MozMPCG Community Meetup
+DESCRIPTION:In this meet up we will talk about upcoming Mozilla Event.
+URL:https://reps.mozilla.org/e/mozmpcg-community-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:23.2001193693
+X-COORDINATES-LON:77.1221921593
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

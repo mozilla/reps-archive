@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9004
+CLASS:PUBLIC
+DTSTAMP:20200407T170217Z
+DTSTART:20200207T043000Z
+DTEND:20200209T113000Z
+LOCATION:IIT Indore\, Indore\, India
+SUMMARY:Mozilla booth and Web VR workshop
+DESCRIPTION:Fluxus\, IIT Indore&#39;s annual techno-cultural fest is the Centr
+ al India&#39;s biggest and most anticipated event. With shows from renowned ar
+ tists like Farhan Akhtar\, Sunidhi Chauhan\, Shirley Setia and Amit Trived
+ i to up-and-coming performers like The Local Train\, Fluxus has witnessed 
+ exhilarating performances from both Indian and international artists alike
+ .
+URL:https://reps.mozilla.org/e/web-vr-fluxus-iit-indore/
+SEQUENCE:3
+X-COORDINATES-LAT:22.7378479
+X-COORDINATES-LON:75.8882395
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

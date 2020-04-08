@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4077
+CLASS:PUBLIC
+DTSTAMP:20200407T171715Z
+DTSTART:20150808T060000Z
+DTEND:20150808T180000Z
+LOCATION:DeadSea Lagoon Hotel\, deadsea\, Jordan
+SUMMARY:Jordanian Task Force MeetUp
+DESCRIPTION:Mozilla Jordan first RTL Bugs fixing training\, we are plannin
+ g to make a training for All the Reps to get more Reps evolved in bug fixi
+ ng and be able to train another Mozillians and FSA&#39;s.\n\nWe are making thi
+ s because we want to be ready because as you know Firefox OS devices are s
+ o close to be distributed in Jordan Market
+URL:https://reps.mozilla.org/e/jordanian-task-force-meetup/
+SEQUENCE:8
+X-COORDINATES-LAT:31.7137600218
+X-COORDINATES-LON:35.6167601421
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

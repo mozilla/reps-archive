@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@706
+CLASS:PUBLIC
+DTSTAMP:20200407T182415Z
+DTSTART:20130622T060000Z
+DTEND:20130727T030000Z
+LOCATION:Hive Colab\, Kampala\, Uganda
+SUMMARY:Firefox Flicks Uganda
+DESCRIPTION:We are going to hold over 7 events which will have an opening 
+ event\,closing event\, tour to 5 film schools and small booths to showcase
+  flicks\,engage creative and media professionals into shooting and submitt
+ ing a Flick about Mobilizing the web.We will reach out to these film schoo
+ ls and tell them about the Annual International Firefox Flicks competition
+ \, the rules\, judges\, how to join\, post and compete\, guide them and pr
+ ovide them with links to the main Mozilla Flicks Team.
+URL:https://reps.mozilla.org/e/firefox-flicks-uganda/
+SEQUENCE:22
+X-COORDINATES-LAT:-1.40610883544
+X-COORDINATES-LON:32.34375
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

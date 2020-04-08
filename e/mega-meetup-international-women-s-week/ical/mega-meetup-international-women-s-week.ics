@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7508
+CLASS:PUBLIC
+DTSTAMP:20200407T170325Z
+DTSTART:20180310T053000Z
+DTEND:20180310T093000Z
+LOCATION:Adobe\, Noida\, New Delhi\, India
+SUMMARY:Mega Meetup International Women&#39;s week
+DESCRIPTION:We&#39;re celebrating International Women&#39;s week to promote more W
+ omen in Tech and Open Source in general.\n\nWe&#39;re representing the WoMoz c
+ ommunity and trying to empower other women to come forward and contribute.
+URL:https://reps.mozilla.org/e/mega-meetup-international-women-s-week/
+SEQUENCE:1
+X-COORDINATES-LAT:28.5937037732
+X-COORDINATES-LON:77.3224697099
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

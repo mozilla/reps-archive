@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8895
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20191024T090000Z
+DTEND:20191024T100000Z
+LOCATION:Middlesex University Mauritius\, Flic-en Flac\, Mauritius
+SUMMARY:Internet Health Report 2019
+DESCRIPTION:This event is about a talk on the Internet Health Report 2019 
+ that will be held at the Middlesex University Mauritius. The audience will
+  be mainly Computer Science and engineering students. This talk will be co
+ nducted by our newly recruited Mozillian Chittesh.
+URL:https://reps.mozilla.org/e/internet-health-report-2019/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.2792293723
+X-COORDINATES-LON:57.3693966857
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

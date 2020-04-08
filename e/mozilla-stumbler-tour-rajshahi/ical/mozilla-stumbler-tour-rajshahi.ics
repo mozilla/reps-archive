@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4825
+CLASS:PUBLIC
+DTSTAMP:20200407T180521Z
+DTSTART:20151225T010000Z
+DTEND:20151225T070000Z
+LOCATION:Rajshahi\,Bangladesh\, Rajshahi\, Bangladesh
+SUMMARY:Mozilla Stumbler Tour@Rajshahi
+DESCRIPTION:Rajshahi is one of the biggest and famous city in Bangladesh. 
+ By this tour we will try to cover those area of Rajshahi which is not visi
+ ble in Mozilla Location Service yet now(Some area are already visible in m
+ ap). And also we will try to recruit new contributor for Mozilla Location 
+ Service. And we will also discuss detail about Mozilla Location service wi
+ th our participants.This even mainly focus to covered whole Rajshahi city 
+ and recruit new contributor to enrich the Mozilla location service.
+URL:https://reps.mozilla.org/e/mozilla-stumbler-tour-rajshahi/
+SEQUENCE:9
+X-COORDINATES-LAT:24.3699490379
+X-COORDINATES-LON:88.5966053006
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8166
+CLASS:PUBLIC
+DTSTAMP:20200407T171700Z
+DTSTART:20181025T080000Z
+DTEND:20181025T110000Z
+LOCATION:Tauragės &#34;Spiečius&#34;\, Vilnius\, Lithuania
+SUMMARY:Introduction to WebVR [Taurage]
+DESCRIPTION:This event is intended for the coworking space &#39;Spiecius&#39; memb
+ ers\, who will get the chance to learn more about the applications of VR\,
+  as well as to get hands-on experience.
+URL:https://reps.mozilla.org/e/introduction-to-webvr-taurage/
+SEQUENCE:5
+X-COORDINATES-LAT:55.2563192913
+X-COORDINATES-LON:22.2925579548
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

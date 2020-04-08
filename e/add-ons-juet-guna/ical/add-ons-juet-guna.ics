@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7479
+CLASS:PUBLIC
+DTSTAMP:20200407T165247Z
+DTSTART:20180324T043000Z
+DTEND:20180324T093000Z
+LOCATION:Jaypee University of Engineering and Technology\, Guna\, India
+SUMMARY:Add-ons @JUET\, Guna
+DESCRIPTION:With Web Extensions APIs\, it’s easier than ever to create e
+ xtensions that can be easily ported to Firefox\, Chrome\, Edge\, and Opera
+ . This workshop will help more people to learn how to develop add-ons and 
+ ensure that Firefox remains the most customizable browser In this event\, 
+ you will learn Add-ons development. This event is for participants who alr
+ eady know HTML and JavaScript. The targeted attendee will be first taught 
+ with the basics of add-on development.
+URL:https://reps.mozilla.org/e/add-ons-juet-guna/
+SEQUENCE:5
+X-COORDINATES-LAT:24.6370053493
+X-COORDINATES-LON:77.3381996085
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

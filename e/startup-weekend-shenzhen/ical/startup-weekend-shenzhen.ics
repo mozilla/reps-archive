@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1436
+CLASS:PUBLIC
+DTSTAMP:20200407T183235Z
+DTSTART:20131115T110000Z
+DTEND:20131117T120000Z
+LOCATION:3W COFFEE\, Shenzhen\, China
+SUMMARY:Startup Weekend Shenzhen
+DESCRIPTION:An event where entrepreneurs meet and work on an idea to turn 
+ it into a business over the weekend.\n20% of the attendes are programmers 
+ \nThe event attracts highly passionate and motivated people who are normal
+ ly influencers in the society .I want to make them aware or Mozilla Initia
+ tives so they can spread the word\n\nPlan to use this event to recruit int
+ erested people into Mozilla community and \nSpread awarness about Mozilla
+URL:https://reps.mozilla.org/e/startup-weekend-shenzhen/
+SEQUENCE:3
+X-COORDINATES-LAT:22.5408605907
+X-COORDINATES-LON:113.937921524
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

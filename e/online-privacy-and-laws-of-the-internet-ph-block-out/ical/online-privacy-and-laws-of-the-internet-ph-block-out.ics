@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5891
+CLASS:PUBLIC
+DTSTAMP:20200407T181533Z
+DTSTART:20161022T050000Z
+DTEND:20161022T090000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Online Privacy and Laws of the Internet PH: Block Out
+DESCRIPTION:Last March\, National Privacy Commission was officially formed
+  to implement and enforce Data Privacy Act of 2012\, came into effect this
+  September. The Mozilla Philippines Community wanted to be in the forefron
+ t in educating the public about their rights regarding Privacy.
+URL:https://reps.mozilla.org/e/online-privacy-and-laws-of-the-internet-ph-
+ block-out/
+SEQUENCE:5
+X-COORDINATES-LAT:14.5468334967
+X-COORDINATES-LON:121.015777945
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

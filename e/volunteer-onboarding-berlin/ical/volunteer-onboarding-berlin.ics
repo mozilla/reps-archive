@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4982
+CLASS:PUBLIC
+DTSTAMP:20200407T174532Z
+DTSTART:20151125T120000Z
+DTEND:20151125T150000Z
+LOCATION:Mozilla Berlin\, Berlin\, Germany
+SUMMARY:Volunteer Onboarding Berlin
+DESCRIPTION:Am 25.November und 2.Dezember veranstalten wir Treffen\, um mi
+ t Aktiven und Gleichgesinnten über Möglichkeiten der Zusammenarbeit bei 
+ Mozilla zu sprechen und gemeinsame Aktivitäten für die kommenden Monate 
+ und das Jahr 2016 zu planen.
+URL:https://reps.mozilla.org/e/volunteer-onboarding-berlin/
+SEQUENCE:1
+X-COORDINATES-LAT:52.4891916659
+X-COORDINATES-LON:13.4567871317
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

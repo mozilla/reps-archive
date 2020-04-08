@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1495
+CLASS:PUBLIC
+DTSTAMP:20200407T180312Z
+DTSTART:20131207T070000Z
+DTEND:20131208T120000Z
+LOCATION:Faculty of Computer Science\, General Berthelot\, nr. 16\, Iași\
+ , Romania
+SUMMARY:Winter Web Workshop (WWW)
+DESCRIPTION:A two days event about Web\, Mozilla&#39;s products and a hackatho
+ n.
+URL:https://reps.mozilla.org/e/winter-web-workshop-www/
+SEQUENCE:11
+X-COORDINATES-LAT:47.1371132742
+X-COORDINATES-LON:27.6005858928
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

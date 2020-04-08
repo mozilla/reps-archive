@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8900
+CLASS:PUBLIC
+DTSTAMP:20200407T170248Z
+DTSTART:20191115T180000Z
+DTEND:20191115T220000Z
+LOCATION:EEMI\, Paris\, France
+SUMMARY:Réalité virtuelle : une utilisation au quotidien
+DESCRIPTION:Meetup on the event Mixte Reality\, Aframe\ntalk and demo on A
+ R / VR / XR
+URL:https://reps.mozilla.org/e/meetup-mixte-reality/
+SEQUENCE:2
+X-COORDINATES-LAT:48.8573364224
+X-COORDINATES-LON:2.32919309288
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

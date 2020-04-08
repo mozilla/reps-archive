@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3973
+CLASS:PUBLIC
+DTSTAMP:20200407T175200Z
+DTSTART:20150626T090000Z
+DTEND:20150626T120000Z
+LOCATION:NomNom Eatery\, Bandung\, Indonesia
+SUMMARY:#MozBukBerBDG - #FoxYeah
+DESCRIPTION:#MozBukBerBDG is a special edition of #MozKopdar (a.k.a. MozCo
+ ffee) in Bandung which&#39;s occured in Ramadhan (Islamic&#39;s fasting month). We
+ &#39;re going to break fasting together. But this time is even more special\, 
+ it is all about #FoxYeah\, a campaign that encourages fans of Firefox (tha
+ t’s us) to share fun photos\, memes and videos about what makes Firefox 
+ great.
+URL:https://reps.mozilla.org/e/mozbukbarbdg-foxyeah/
+SEQUENCE:6
+X-COORDINATES-LAT:-6.8988216282
+X-COORDINATES-LON:107.620530367
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

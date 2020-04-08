@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1193
+CLASS:PUBLIC
+DTSTAMP:20200407T174433Z
+DTSTART:20130921T090000Z
+DTEND:20130921T150000Z
+LOCATION:All Saints Church\, Hereford\, United Kingdom
+SUMMARY:Software Freedom Day 2013\, Hereford
+DESCRIPTION:SFD is a worldwide celebration of Free and Open Source Softwar
+ e (FOSS). Our goal in this celebration is to educate the worldwide public 
+ about the benefits of using high quality FOSS in education\, in government
+ \, at home\, and in business -- in short\, everywhere!
+URL:https://reps.mozilla.org/e/software-freedom-day-2013-hereford/
+SEQUENCE:2
+X-COORDINATES-LAT:52.0562311489
+X-COORDINATES-LON:-2.71724939346
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

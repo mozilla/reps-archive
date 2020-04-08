@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3069
+CLASS:PUBLIC
+DTSTAMP:20200407T175740Z
+DTSTART:20141108T120000Z
+DTEND:20141108T150000Z
+LOCATION:Debonair&#39;s Pizza\, Koinange Street\, Nairobi\, Kenya
+SUMMARY:Community Meetup
+DESCRIPTION:1. Debrief on MozFest and lessons/experiences learned. \n2. Ne
+ w members introduction. \n3. Cooperation with other organizations\n4. L10N
+  progress
+URL:https://reps.mozilla.org/e/community-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:-1.28213417705
+X-COORDINATES-LON:36.8176962733
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

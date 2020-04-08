@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8482
+CLASS:PUBLIC
+DTSTAMP:20200407T173601Z
+DTSTART:20190331T070000Z
+DTEND:20190331T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:#KelasMozilla - Common Voice Sprint
+DESCRIPTION:It is a Common Voice sprint event where mozillians will workin
+ g together collecting words and sentences into the platform and review all
+  available sentences as well.
+URL:https://reps.mozilla.org/e/kelasmozilla-common-voice-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23491002045
+X-COORDINATES-LON:106.820964575
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

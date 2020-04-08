@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8610
+CLASS:PUBLIC
+DTSTAMP:20200407T173255Z
+DTSTART:20190615T100000Z
+DTEND:20190615T140000Z
+LOCATION:CDP Mijaks\, Pod bukvami 9\, 1000 Ljubljana\, Slovenia
+SUMMARY:BugHunter campaign
+DESCRIPTION:An event with local community \nWe will do Beta-testing for th
+ e brand new Android web browser - Firefox Preview (Fenix)\, that’s not c
+ urrently available to the public.\n\nAgenda: \n12:00 - 12:15 Welcome speec
+ h\n12:15 - 15:45 Testing Fenix and documenting bugs\n15:45 - 16:00 Thank y
+ ou speech\n\nAfter 16:00 Community lunch meeting
+URL:https://reps.mozilla.org/e/bughunter-campaign/
+SEQUENCE:6
+X-COORDINATES-LAT:46.0348373827
+X-COORDINATES-LON:14.4891949519
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

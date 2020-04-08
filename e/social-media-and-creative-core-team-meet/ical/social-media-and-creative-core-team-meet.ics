@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3580
+CLASS:PUBLIC
+DTSTAMP:20200407T175313Z
+DTSTART:20150328T043000Z
+DTEND:20150328T123000Z
+LOCATION:Mozilla Community Space\, Bengaluru\, Bangalore\, India
+SUMMARY:Social Media and Creative Core Team meet
+DESCRIPTION:This is the first annual meet up of both the Creative and Soci
+ al Media Team. We have made so many amazing contributions to push the Mozi
+ lla mission forward for Firefox OS promotions\, Net Neutrality and other c
+ ampaigns.\n\nIt has been a year since the team was set out to create a big
+  impact on a  large number of people around the country and the world thro
+ ugh the power of media.
+URL:https://reps.mozilla.org/e/social-media-and-creative-core-team-meet/
+SEQUENCE:13
+X-COORDINATES-LAT:12.9732784105
+X-COORDINATES-LON:77.6426553726
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

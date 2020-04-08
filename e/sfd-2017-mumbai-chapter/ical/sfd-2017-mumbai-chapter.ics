@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7045
+CLASS:PUBLIC
+DTSTAMP:20200407T174137Z
+DTSTART:20170917T010000Z
+DTEND:20170917T020000Z
+LOCATION:Endurance International Group\, NESCO IT Park\, 506\, 5th Floor\,
+  Western Express Highway\, Aarey Colony\, Goregaon (East)\, Mumbai\, Mahar
+ ashtra 400065.\, Navi Mumbai\, India
+SUMMARY:SFD 2017 Mumbai Chapter
+DESCRIPTION:SFD is organized by in collaboration with all other open sourc
+ e communities on every 17th September (some time on second Saturday of mon
+ th) where contributors describes what are the current changes happening on
+  s/w fields and how to protect it from hazarding free and open source web.
+URL:https://reps.mozilla.org/e/sfd-2017-mumbai-chapter/
+SEQUENCE:0
+X-COORDINATES-LAT:19.161179433
+X-COORDINATES-LON:72.9951535534
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

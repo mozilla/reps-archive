@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8971
+CLASS:PUBLIC
+DTSTAMP:20200407T170246Z
+DTSTART:20191218T180000Z
+DTEND:20191218T210000Z
+LOCATION:Mozilla Paris\, Paris\, France
+SUMMARY:Sprint Respond Campaign Firefox Preview France
+DESCRIPTION:During the sprint\, an evening will bring together contributor
+ s to participate in the sprint. -&gt;\n\nMozilla is launching major updates t
+ o its new Android web browser Firefox Preview. We need your help to suppor
+ t all the enthusiastic new users. Our primary focus will be to reply to us
+ ers using the Respond tool and assisting users on SUMO (SUpport.MOzilla.or
+ g) and on Twitter.
+URL:https://reps.mozilla.org/e/sprint-respond-campaign-firefox-preview-fra
+ nce/
+SEQUENCE:2
+X-COORDINATES-LAT:48.8642254175
+X-COORDINATES-LON:2.35768890241
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

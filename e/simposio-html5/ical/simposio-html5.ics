@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2105
+CLASS:PUBLIC
+DTSTAMP:20200407T174609Z
+DTSTART:20140530T140000Z
+DTEND:20140531T193000Z
+LOCATION:Torre Central de Informática Sala 2A. (Cerca a la Plaza Central)
+  en la Universidad Nacional Sede Bogotá.\, Bogota\, Colombia
+SUMMARY:Simposio HTML5 Bogota - Universidad Nacional
+DESCRIPTION:TOPICS 1 - HTML5 now and in the near future\, 2 - FirefoxOS De
+ velopment\, and Marketplace WebAPI\, 3 - Presentation EIDOS and Computer S
+ ociety (IEEE)\, 4 - ASM and WebGL.\n\nWORKSHOPS (AppDay) 1 - Making an app
+ lication for FirefoxOS or Cordoba\, 2 - WebAPI\, manifestos and safety\, 3
+  - Coding party.\n\nINVITE\n\nIEEE Computer Society Student Chapter A\, EI
+ DOS UNAL Bogotá\, Mozilla Colombia.
+URL:https://reps.mozilla.org/e/simposio-html5/
+SEQUENCE:11
+X-COORDINATES-LAT:4.63767758103
+X-COORDINATES-LON:-74.0843110078
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

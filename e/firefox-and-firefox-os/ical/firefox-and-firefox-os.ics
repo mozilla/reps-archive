@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5440
+CLASS:PUBLIC
+DTSTAMP:20200407T182336Z
+DTSTART:20160919T140000Z
+DTEND:20160919T170000Z
+LOCATION:College Computer Lab\, Covington\, United States
+SUMMARY:Firefox and Firefox OS
+DESCRIPTION:An in-person Firefox and Web Development event in person at my
+  local college\, Virginia Western University in Virginia. This event will 
+ cover the unsafety of browsing the Web and about how using Firefox browser
+  can help make browsing the web more secure. Plus\, a little about coding 
+ for Firefox browser and about the Server and Database side of Web Developm
+ ent and how that ties\, together in coding for the Firefox browser.
+URL:https://reps.mozilla.org/e/firefox-and-firefox-os/
+SEQUENCE:7
+X-COORDINATES-LAT:37.7762327032
+X-COORDINATES-LON:-79.9942474463
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

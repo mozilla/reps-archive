@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7366
+CLASS:PUBLIC
+DTSTAMP:20200407T181602Z
+DTSTART:20180113T200000Z
+DTEND:20180113T210000Z
+LOCATION:LATAM\, Managua\, Nicaragua
+SUMMARY:Advocacy - Let&#39;s talk about privacy
+DESCRIPTION:Primera reunión de Advocacy para celebrar el mes de la Privac
+ idad. Es una reunión organizada por el equipo Mozilla Advocacy Es (para L
+ ATAM) la cual se estará realizando a través de la plataforma mumble cone
+ ctando a varias comunidades de diversos países. \nSe pretende conversar p
+ rimeramente acerca del proyecto Advocacy\, tocar los temas de privacidad e
+ n cada uno de los países participantes y crear nuevas ideas para dar prom
+ oción a la Privacidad y lo que está haciendo mozilla con ello.
+URL:https://reps.mozilla.org/e/advocacy-let-s-talk-about-privacy/
+SEQUENCE:1
+X-COORDINATES-LAT:11.9927564646
+X-COORDINATES-LON:-85.8720695972
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

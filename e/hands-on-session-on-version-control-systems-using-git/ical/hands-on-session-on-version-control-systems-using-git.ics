@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5120
+CLASS:PUBLIC
+DTSTAMP:20200407T174143Z
+DTSTART:20160305T033000Z
+DTEND:20160305T103000Z
+LOCATION:MVIT\, Bangalore\, India
+SUMMARY:Hands-on session on Version Control Systems using Git
+DESCRIPTION:Version control systems are essential for any form of distribu
+ ted\, collaborative development. For almost all the open source projects\,
+  Git is the basic knowledge that individuals need to be aware of to get in
+ volved in contributions. Through this event we would like to get people st
+ arted with using Git and hence\, start actual contributions to open source
+  projects.
+URL:https://reps.mozilla.org/e/hands-on-session-on-version-control-systems
+ -using-git/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9538727902
+X-COORDINATES-LON:77.6275445
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@560
+CLASS:PUBLIC
+DTSTAMP:20200407T181937Z
+DTSTART:20130323T170000Z
+DTEND:20130427T170000Z
+LOCATION:Computer shopping centers at Lima\, Peru\, Lima\, Peru
+SUMMARY:Daybreak: a local campaign for Firefox in Peru and Latin America
+DESCRIPTION:This campaign wants to increase visibility of Firefox in curre
+ nt forms (like Firefox for desktop and Firefox for Android) for specific p
+ ublic: PC technicians and sellers at main computer stores in Peru. \n\nDET
+ AILS AT LINKED PLANING ETHERPAD http://etherpad.mozilla.org/remo-daybreak
+URL:https://reps.mozilla.org/e/daybreak/
+SEQUENCE:2
+X-COORDINATES-LAT:-12.0565597599
+X-COORDINATES-LON:-77.0383965969
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5038
+CLASS:PUBLIC
+DTSTAMP:20200407T181533Z
+DTSTART:20160218T080000Z
+DTEND:20160220T180000Z
+LOCATION:TBD\, Algiers\, Algeria
+SUMMARY:Training Camp 2016
+DESCRIPTION:The Training Camp is an accelerated training and a contest of 
+ three days focused on web technology and entrepreneurship.\n\nThis camp is
+  designed for students who wish acquire or build knowledge around the Web 
+ and Mobile technology\, and this in an atmosphere of creativity\, exchange
+  and collaborative work.
+URL:https://reps.mozilla.org/e/training-camp-2016/
+SEQUENCE:6
+X-COORDINATES-LAT:36.7174153676
+X-COORDINATES-LON:3.14318275487
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

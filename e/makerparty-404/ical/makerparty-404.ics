@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2686
+CLASS:PUBLIC
+DTSTAMP:20200407T182924Z
+DTSTART:20140818T080000Z
+DTEND:20140818T100000Z
+LOCATION:Arfa Software Technology Park\, Lahore\, Pakistan.\, Model Town\,
+  Pakistan
+SUMMARY:Makerparty @ 404
+DESCRIPTION:This will be a small webmaker event for the co-founders of 404
+  Solutions (a tech start-up). The event will be focused on exploring the w
+ ebmaker tools with the limelight being on the Appmaker.
+URL:https://reps.mozilla.org/e/makerparty-404/
+SEQUENCE:4
+X-COORDINATES-LAT:31.4765755281
+X-COORDINATES-LON:74.3426567314
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

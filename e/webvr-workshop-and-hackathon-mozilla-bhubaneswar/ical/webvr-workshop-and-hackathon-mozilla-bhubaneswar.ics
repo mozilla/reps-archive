@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8307
+CLASS:PUBLIC
+DTSTAMP:20200407T171618Z
+DTSTART:20190309T033000Z
+DTEND:20190310T113000Z
+LOCATION:Kalinga Institute of Industrial Technology\, Bhubaneswar\, India
+SUMMARY:WebVR Workshop and Hackathon @ Mozilla Bhubaneswar
+DESCRIPTION:This is  a two day event with the first day covering concepts 
+ on WebVR and the following day will be a 24 hour hackathon on WebVR and al
+ so other interesting projects by Mozilla.
+URL:https://reps.mozilla.org/e/webvr-workshop-and-hackathon-mozilla-bhuban
+ eswar/
+SEQUENCE:6
+X-COORDINATES-LAT:20.2587618065
+X-COORDINATES-LON:83.7963858247
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

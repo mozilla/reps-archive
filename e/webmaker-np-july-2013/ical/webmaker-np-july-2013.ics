@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1139
+CLASS:PUBLIC
+DTSTAMP:20200407T181856Z
+DTSTART:20130729T191500Z
+DTEND:20130729T211500Z
+LOCATION:Himalaya College of Engineering\, Lalitpur\, Nepal
+SUMMARY:Webmaker Np July 2013
+DESCRIPTION:This would be the first webmaker event in Nepal where we would
+  be targeting a group of college students\,technical but having only basic
+  or no idea of web\, and convert them from the consumers of the web to the
+  makers of the web.
+URL:https://reps.mozilla.org/e/webmaker-np-july-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:27.6768679065
+X-COORDINATES-LON:85.3328275681
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1669
+CLASS:PUBLIC
+DTSTAMP:20200407T175520Z
+DTSTART:20140118T030000Z
+DTEND:20140119T050000Z
+LOCATION:Sreenidhi Institute of Science and Technology\, Hyderabad\, India
+SUMMARY:Firefox OS App days @SNIST
+DESCRIPTION:A 24 hour Hackathon at Sreenidhi Institute of Science and Tech
+ nology\, Hyderabad with the support of Firefox Club@SNIST where the Partic
+ ipants will develop apps for Firefox OS and get them Published into the Ma
+ rketplace and also to inculcate the power of Open Source among Students.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-snist/
+SEQUENCE:7
+X-COORDINATES-LAT:17.4566734632
+X-COORDINATES-LON:78.6920928676
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

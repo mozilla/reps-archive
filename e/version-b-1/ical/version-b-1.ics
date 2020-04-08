@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8835
+CLASS:PUBLIC
+DTSTAMP:20200407T170217Z
+DTSTART:20191011T123000Z
+DTEND:20191013T093000Z
+LOCATION:Maulana Azad National Institute of Technology\,\, Bhopal\, India
+SUMMARY:Version β
+DESCRIPTION:Version β \, the first of it&#39;s kind\, will be a hackathon on 
+ the hunt for the best pragmatist out there. Open to all students\, it will
+  act as a sieve to filter the brightest minds in our midst.
+URL:https://reps.mozilla.org/e/version-b-1/
+SEQUENCE:6
+X-COORDINATES-LAT:23.2639120771
+X-COORDINATES-LON:77.4048413336
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

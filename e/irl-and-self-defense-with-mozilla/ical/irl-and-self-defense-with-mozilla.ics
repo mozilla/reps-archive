@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7419
+CLASS:PUBLIC
+DTSTAMP:20200407T181519Z
+DTSTART:20180216T190000Z
+DTEND:20180216T210000Z
+LOCATION:TBD\, Nagpur\, India
+SUMMARY:IRL and Self Defense with Mozilla
+DESCRIPTION:Understand the important of privacy and security online.Learn 
+ tips and tricks to protecting your self online. Don&#39;t let the online peopl
+ e harras you. Stop Digital Harassment!
+URL:https://reps.mozilla.org/e/irl-and-self-defense-with-mozilla/
+SEQUENCE:0
+X-COORDINATES-LAT:21.1911341661
+X-COORDINATES-LON:79.2694473267
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

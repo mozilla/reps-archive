@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7054
+CLASS:PUBLIC
+DTSTAMP:20200407T173641Z
+DTSTART:20171002T053000Z
+DTEND:20171005T113000Z
+LOCATION:F-infotech\, Erode\, India
+SUMMARY:Firefox Quantum Campaign - Erode
+DESCRIPTION:This will be a gathering of 30+ students to learn new features
+  about Firefox 57 and help with testing of websites compatibility. These s
+ tudents will go back to campus and host their own Quantum spirits in days 
+ to come.
+URL:https://reps.mozilla.org/e/firefox-quantum-campaign-erode/
+SEQUENCE:0
+X-COORDINATES-LAT:11.3410364
+X-COORDINATES-LON:77.7171642
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

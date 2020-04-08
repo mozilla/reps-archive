@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4353
+CLASS:PUBLIC
+DTSTAMP:20200407T171720Z
+DTSTART:20150817T220000Z
+DTEND:20150915T215500Z
+LOCATION:Egypt\, Cairo\, Egypt
+SUMMARY:FirefoxOS Apps Challenge
+DESCRIPTION:it&#39;s online challenge for Egyptian IT community and Developers
+  to make apps for firefoxOS and share it on the Marketplace \, and the 5 t
+ eams winners will get a free kilf devices sponsored by mobinil !
+URL:https://reps.mozilla.org/e/firefoxos-apps-challenge/
+SEQUENCE:2
+X-COORDINATES-LAT:29.9898307241
+X-COORDINATES-LON:31.2377920747
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

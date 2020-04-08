@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3457
+CLASS:PUBLIC
+DTSTAMP:20200407T165859Z
+DTSTART:20150213T130000Z
+DTEND:20150215T150000Z
+LOCATION:Artotel\, Jakarta\, Indonesia
+SUMMARY:Reps Indonesia Meetup 2015
+DESCRIPTION:Reps from all over Indonesia will be meeting for 3 days in Jak
+ arta\, from Friday 13 February to Sunday 15 February 2015. The meetup will
+  aim to discuss the health of the Reps program and the overall community i
+ n Indonesia and strategically plan for programs\, initiatives and activiti
+ es for the next 6 months.
+URL:https://reps.mozilla.org/e/reps-indonesia-meetup-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:-2.56624764917
+X-COORDINATES-LON:118.014615539
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

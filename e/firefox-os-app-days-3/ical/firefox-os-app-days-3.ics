@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3347
+CLASS:PUBLIC
+DTSTAMP:20200407T174852Z
+DTSTART:20150510T060000Z
+DTEND:20150515T060000Z
+LOCATION:Yarmouk University\, Irbid\, Jordan
+SUMMARY:Firefox OS App Days
+DESCRIPTION:Firefox OS Application Workshop for 5 Days \, that will traini
+ ng the contributor to (build app-testing-publish) AppS in Firefox OS .
+URL:https://reps.mozilla.org/e/firefox-os-app-days-3/
+SEQUENCE:6
+X-COORDINATES-LAT:31.9565783
+X-COORDINATES-LON:35.9456951
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

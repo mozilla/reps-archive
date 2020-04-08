@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2127
+CLASS:PUBLIC
+DTSTAMP:20200407T181626Z
+DTSTART:20140408T060000Z
+DTEND:20140408T140000Z
+LOCATION:TBD\, Karak\, Jordan
+SUMMARY:Mua&#39;ta University Technology day
+DESCRIPTION:Mua&#39;tah university is one of the universities that do miss a l
+ ot of activities with the IT field\, at this event i was invited by the un
+ iversity to represent Mozilla\,i will talk about Mozilla Programs as a hea
+ d lines also they will give me 1 hours to give them some practical things.
+URL:https://reps.mozilla.org/e/muata-university-technology-day/
+SEQUENCE:1
+X-COORDINATES-LAT:31.1642428143
+X-COORDINATES-LON:35.7203980163
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

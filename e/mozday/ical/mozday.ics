@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3670
+CLASS:PUBLIC
+DTSTAMP:20200407T174947Z
+DTSTART:20150404T043000Z
+DTEND:20150404T103000Z
+LOCATION:FARIDABAD\, Faridabad\, India
+SUMMARY:MozDay
+DESCRIPTION:The source of this event is mail from Mike Hoye on the Reps Ge
+ neral List.  I had a work with Chirag after that as Mike as asked to do th
+ e needful . I met Chirag personally in our Mozcoffee Meetup Delhi and I fo
+ und the challenges Delhi students are facing . This event is to help those
+  students overcome their challenges and help them successfully land for co
+ ntribution to Mozilla projects .
+URL:https://reps.mozilla.org/e/mozday/
+SEQUENCE:3
+X-COORDINATES-LAT:28.8029647145
+X-COORDINATES-LON:77.0200194418
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

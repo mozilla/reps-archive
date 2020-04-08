@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3371
+CLASS:PUBLIC
+DTSTAMP:20200407T174535Z
+DTSTART:20150207T130000Z
+DTEND:20150207T180000Z
+LOCATION:I 132\, Abidjan\, Côte d’Ivoire\, Cocody\, Ivory Coast
+SUMMARY:Web and Firefox OS Dev.
+DESCRIPTION:This event aims to introduce all participants in the developme
+ nt of Web apps\, and specially the development apps for Firefox OS .. It&#39;s
+  will promote Firefox OS.\nFIREFOX OS\, HTML5\, Javascript\, Firefox ... F
+ irefox marketplace
+URL:https://reps.mozilla.org/e/web-and-firefox-os-dev/
+SEQUENCE:4
+X-COORDINATES-LAT:5.316667
+X-COORDINATES-LON:-4.033333
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

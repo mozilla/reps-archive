@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4423
+CLASS:PUBLIC
+DTSTAMP:20200407T165911Z
+DTSTART:20151121T040000Z
+DTEND:20151121T070000Z
+LOCATION:Feni Computer Institute\, Feni\, Bangladesh
+SUMMARY:Mozilla Awareness Event Feni
+DESCRIPTION:Mozilla Awareness Event Feni
+URL:https://reps.mozilla.org/e/windows-10-community-activation-sylhet/
+SEQUENCE:2
+X-COORDINATES-LAT:23.6445241986
+X-COORDINATES-LON:90.3295898438
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

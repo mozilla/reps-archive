@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2878
+CLASS:PUBLIC
+DTSTAMP:20200407T174554Z
+DTSTART:20141002T200000Z
+DTEND:20141002T220000Z
+LOCATION:IRC (Online)\, Tallaght-Springfield\, Ireland
+SUMMARY:MozIreland IRC Meetup: October 2nd – 21:00
+DESCRIPTION:IRC: Moznet network\n\nHello everyone!\n\nOnce again we’ll b
+ e hosting an IRC Meet Up meeting on Thursday\, October 2nd @ 21:00 The mee
+ ting will be relaxed and open to all. It will serve as an open floor for n
+ ew and interested mozillians to get involved\, ask questions and help us g
+ row Mozilla here in Ireland.\n\nMore information: http://mozillaireland.or
+ g/?p=440
+URL:https://reps.mozilla.org/e/mozireland-irc-meetup-october-2nd-21-00/
+SEQUENCE:2
+X-COORDINATES-LAT:53.2980555749
+X-COORDINATES-LON:-6.38305664062
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

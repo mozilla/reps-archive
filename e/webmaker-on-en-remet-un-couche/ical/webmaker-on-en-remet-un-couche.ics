@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3515
+CLASS:PUBLIC
+DTSTAMP:20200407T174542Z
+DTSTART:20150224T183000Z
+DTEND:20150224T213000Z
+LOCATION:16 Boulevard Montmartre\, Paris\, France
+SUMMARY:Webmaker: on en remet un couche!
+DESCRIPTION:An informal meeting to speak formally to WebMaker and try to c
+ onquer the world.
+URL:https://reps.mozilla.org/e/webmaker-on-en-remet-un-couche/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8721381272
+X-COORDINATES-LON:2.34128692744
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

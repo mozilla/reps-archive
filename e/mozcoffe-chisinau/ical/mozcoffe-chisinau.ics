@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1558
+CLASS:PUBLIC
+DTSTAMP:20200407T175132Z
+DTSTART:20131103T100000Z
+DTEND:20131103T120000Z
+LOCATION:Oliva Ristorante\, Chișinău\, Moldova
+SUMMARY:MozCoffee Chisinau
+DESCRIPTION:Meet-up of Mozilla contributors and people interested in contr
+ ibuting in Chisinau\, Moldova. Discuss about all things Mozilla and plan f
+ uture local events.
+URL:https://reps.mozilla.org/e/mozcoffe-chisinau/
+SEQUENCE:2
+X-COORDINATES-LAT:47.0466000758
+X-COORDINATES-LON:28.8618915081
+X-COUNTRY-CODE:md
+END:VEVENT
+
+END:VCALENDAR

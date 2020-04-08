@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3623
+CLASS:PUBLIC
+DTSTAMP:20200407T174939Z
+DTSTART:20150417T210000Z
+DTEND:20150418T210000Z
+LOCATION:Rodovia SC 401\, Km 10 - Santo Antônio de Lisboa Florianópolis 
+ - SC\, Florianópolis\, Brazil
+SUMMARY:IX SOLISC - Congresso Catarinense de Software Livre
+DESCRIPTION:The purpose of the event is to spread the use of FOSS\, promot
+ ing the use of free &#39;systems experience&#39;\, hold workshops and promoting de
+ bates and talks with leaders of FOSS communities\, developers and companie
+ s operating in the sector. Also\, provides a space for exchange experiment
+ s.
+URL:https://reps.mozilla.org/e/ix-solisc-congresso-catarinense-de-software
+ -livre/
+SEQUENCE:3
+X-COORDINATES-LAT:-27.500090626
+X-COORDINATES-LON:-48.5146150592
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

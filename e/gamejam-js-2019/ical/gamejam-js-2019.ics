@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8371
+CLASS:PUBLIC
+DTSTAMP:20200407T174529Z
+DTSTART:20190125T130000Z
+DTEND:20190127T200000Z
+LOCATION:KNTG Polygon\, Nowowiejska 15/19\, Warsaw\, Poland
+SUMMARY:GameJam.js 2019
+DESCRIPTION:Local\, Warsaw based game hackathon taking part in the Global 
+ Game Jam on January 25-27th 2019.
+URL:https://reps.mozilla.org/e/gamejam-js-2019/
+SEQUENCE:0
+X-COORDINATES-LAT:52.2189073
+X-COORDINATES-LON:21.0093277
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

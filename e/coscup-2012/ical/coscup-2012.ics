@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5
+CLASS:PUBLIC
+DTSTAMP:20200407T175926Z
+DTSTART:20120818T040000Z
+DTEND:20120819T040000Z
+LOCATION:International Conference Hall\, Academia Sinica\, Taipei City\, T
+ aiwan
+SUMMARY:COSCUP 2012
+DESCRIPTION:COSCUP is the largest annual FLOSS conference organized by loc
+ al communities in Taiwan. The conference has sessions for new users\, enth
+ usiastic promoters\, coders or anyone who is interested in cutting-edge FL
+ OSS technologies. The goal is to create a friendly and informative environ
+ ment for people from different communities to make friends\, learn new tec
+ hnologies and inspire each other.
+URL:https://reps.mozilla.org/e/coscup-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:25.0410099067
+X-COORDINATES-LON:121.611388922
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

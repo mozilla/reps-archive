@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3509
+CLASS:PUBLIC
+DTSTAMP:20200407T175312Z
+DTSTART:20150318T070000Z
+DTEND:20150318T130000Z
+LOCATION:Mozilla Community Space Manila (MozSpaceMNL)\, Makati City\, Phil
+ ippines
+SUMMARY:Firefox OS Localization Sprint
+DESCRIPTION:Help us finish the translation of Firefox OS to Tagalog.\n\nTh
+ is event will also create awareness amongst MozillaPH (new) members about 
+ the need for localization and how anyone\, even without any technical know
+ ledge can contribute very easily to the community by localization.
+URL:https://reps.mozilla.org/e/firefox-os-localization-sprint-1/
+SEQUENCE:3
+X-COORDINATES-LAT:14.545991453
+X-COORDINATES-LON:121.016110897
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

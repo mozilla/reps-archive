@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3168
+CLASS:PUBLIC
+DTSTAMP:20200407T175932Z
+DTSTART:20150124T050000Z
+DTEND:20150124T090000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:MozillaPH Open House: Community Orientation Seminar
+DESCRIPTION:MozPH Open House where new contributors who signed up can get 
+ oriented and aspiring contributors can get to know about the contribution 
+ areas.
+URL:https://reps.mozilla.org/e/mozillaph-open-house-contributors-orientati
+ on-seminar/
+SEQUENCE:4
+X-COORDINATES-LAT:14.5875705534
+X-COORDINATES-LON:121.176795943
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

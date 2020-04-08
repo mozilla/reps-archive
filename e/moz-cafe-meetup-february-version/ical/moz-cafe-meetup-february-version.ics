@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5079
+CLASS:PUBLIC
+DTSTAMP:20200407T174438Z
+DTSTART:20160206T103000Z
+DTEND:20160206T130000Z
+LOCATION:CDAC\, Pune\, Pune\, India
+SUMMARY:Moz Cafe meetup - February version
+DESCRIPTION:The Mozilla Pune community meets once every month for a quick 
+ catch and planning on different event or learning agendas around different
+  Mozilla projects or products.
+URL:https://reps.mozilla.org/e/moz-cafe-meetup-february-version/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5111108306
+X-COORDINATES-LON:73.857563
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

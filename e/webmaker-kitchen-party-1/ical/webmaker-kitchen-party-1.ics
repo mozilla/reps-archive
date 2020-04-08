@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1298
+CLASS:PUBLIC
+DTSTAMP:20200407T175027Z
+DTSTART:20131006T060000Z
+DTEND:20131006T100000Z
+LOCATION:TBD\, Jaipur\, India
+SUMMARY:WebMaker Kitchen Party
+DESCRIPTION:A followup of the cool makerparty\, this time with a lot more 
+ fun!
+URL:https://reps.mozilla.org/e/webmaker-kitchen-party-1/
+SEQUENCE:4
+X-COORDINATES-LAT:26.7848473611
+X-COORDINATES-LON:75.6298828125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

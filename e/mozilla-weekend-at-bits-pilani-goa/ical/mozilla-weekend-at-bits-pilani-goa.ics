@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7242
+CLASS:PUBLIC
+DTSTAMP:20200407T165327Z
+DTSTART:20180113T043000Z
+DTEND:20180114T123000Z
+LOCATION:Birla Institute of Technology &amp; Science Pilani\, NH 17B\, Bypass 
+ Road\, Zuarinagar\, Sancoale\, Goa\, Nashik\, India
+SUMMARY:Mozilla Weekend at Bits Pilani\, Goa
+DESCRIPTION:This will be a pre-fest event to the annual technical event or
+ ganized by Bits Pilani called Quark&#39;18. It will be 2-day workshop featurin
+ g expert sessions on Rust Programming Language and Firefox Add-on Developm
+ ent.
+URL:https://reps.mozilla.org/e/mozilla-weekend-at-bits-pilani-goa/
+SEQUENCE:4
+X-COORDINATES-LAT:15.6110232882
+X-COORDINATES-LON:73.7976836879
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

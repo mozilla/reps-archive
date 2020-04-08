@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4952
+CLASS:PUBLIC
+DTSTAMP:20200407T174257Z
+DTSTART:20151221T080000Z
+DTEND:20151231T120000Z
+LOCATION:Facebook - Online\, Mombasa\, Kenya
+SUMMARY:Social Media Challenge
+DESCRIPTION:This is a social media challenge aimed at increasing the commu
+ nity visibility and create further awareness. The first two winners will b
+ e awarded with a Mozilla Branded String Bag and a FirefoxOS T-shirt. The c
+ hallenge is aimed at motivating individuals.
+URL:https://reps.mozilla.org/e/social-media-challenge/
+SEQUENCE:1
+X-COORDINATES-LAT:-4.15741880019
+X-COORDINATES-LON:39.8508453369
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

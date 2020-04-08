@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3034
+CLASS:PUBLIC
+DTSTAMP:20200407T183343Z
+DTSTART:20141108T060000Z
+DTEND:20141108T090000Z
+LOCATION:Alert community\,\, Seoul\, South Korea
+SUMMARY:Firefox 10th Anniversary Party  in Seoul
+DESCRIPTION:Join us to celebrate the 10th anniversary of our favorite brow
+ ser Firefox! The aim of this event is to bring together all Mozillians of 
+ the region where it is held\, talk\, chat\, tell stories\, have some fun\,
+  take the opportunity to contact the Mozilla community of the region and a
+ lso to meet members of Mozilla Korea\, if you are interested in joining th
+ e community simply takes this opportunity to do so and meet the most cheer
+ ful and pleasant community of all :)
+URL:https://reps.mozilla.org/e/firefox-10th-anniversary-party-in-seoul/
+SEQUENCE:5
+X-COORDINATES-LAT:37.4956620893
+X-COORDINATES-LON:127.034424305
+X-COUNTRY-CODE:kr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5530
+CLASS:PUBLIC
+DTSTAMP:20200407T181900Z
+DTSTART:20160625T100000Z
+DTEND:20160625T130000Z
+LOCATION:Ayiyikoh Fablab\, Abidjan\, Ivory Coast
+SUMMARY:Open Dev
+DESCRIPTION:Open Dev is an local event (workshop and conference) of Mozill
+ a CI which talk about Open Web Technologies (HTML5\, CSS Javascript). At t
+ his event developers talk about their experience with  some Open technolog
+ ies.
+URL:https://reps.mozilla.org/e/open-dev/
+SEQUENCE:2
+X-COORDINATES-LAT:5.32095808184
+X-COORDINATES-LON:-4.06513309514
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

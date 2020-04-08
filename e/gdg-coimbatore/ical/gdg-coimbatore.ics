@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8755
+CLASS:PUBLIC
+DTSTAMP:20200407T165150Z
+DTSTART:20190914T033000Z
+DTEND:20190914T131500Z
+LOCATION:Thoughtworks\, Coimbatore\, India
+SUMMARY:GDG Coimbatore
+DESCRIPTION:DevFests are community-led\, developer events hosted by GDG ch
+ apters around the globe focused on community building and learning about G
+ oogle’s technologies. Each DevFest is inspired by and uniquely tailored 
+ to the needs of the developer community and region that hosts it. \n\nWhil
+ e no two DevFests will be exactly alike\, each at its core is powered by a
+  shared belief that when developers come together to exchange ideas\, amaz
+ ing things can happen.
+URL:https://reps.mozilla.org/e/gdg-coimbatore/
+SEQUENCE:2
+X-COORDINATES-LAT:10.9942213322
+X-COORDINATES-LON:76.9573972374
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

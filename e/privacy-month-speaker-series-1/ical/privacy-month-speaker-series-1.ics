@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7384
+CLASS:PUBLIC
+DTSTAMP:20200407T182631Z
+DTSTART:20180119T160000Z
+DTEND:20180119T173000Z
+LOCATION:Online [Reps Vidyo Room]\, Pune\, India
+SUMMARY:Privacy Month Speaker Series 1
+DESCRIPTION:As a part of the Privacy Month initiative\, we will be hosting
+  a couple of speaker series webinars on Privacy\, Security and related top
+ ics. The webinars will see renowned speakers talking to us about their wor
+ k around privacy\, how to take control of your digital self\, some privacy
+ -security tips and much more.\n\nRegistration and participation is Free :)
+ \nRegister here: https://docs.google.com/forms/d/1gPKtmKWn3sj80RsaH_RD0Psb
+ SKzSN4dKSFf7QVGDJSs/edit?ts=5a5f959c
+URL:https://reps.mozilla.org/e/privacy-month-speaker-series-1/
+SEQUENCE:3
+X-COORDINATES-LAT:18.3675593025
+X-COORDINATES-LON:74.005279541
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

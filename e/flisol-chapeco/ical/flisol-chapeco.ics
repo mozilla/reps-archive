@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1947
+CLASS:PUBLIC
+DTSTAMP:20200407T181954Z
+DTSTART:20140426T112000Z
+DTEND:20140426T210000Z
+LOCATION:RUA NEREU RAMOS\, 3777-D Chapecó - Santa Catarina CEP: 89813-000
+ \, Chapecó\, Brazil
+SUMMARY:Flisol Chapecó
+DESCRIPTION:For the second year in a row the Latin American Free Software 
+ Install Fest (FLISOL) will be realized in Chapecó - Santa Catarina - Braz
+ il. The event will be organized by OeSC-Livre\, a local Free Software User
+ s Group that holds activities throughout the state. It will happen on Apri
+ l 26th (last saturday of the month)\, starting at 8 AM and running until 6
+  PM.
+URL:https://reps.mozilla.org/e/flisol-chapeco/
+SEQUENCE:2
+X-COORDINATES-LAT:-27.1027905849
+X-COORDINATES-LON:-52.6184472442
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR
