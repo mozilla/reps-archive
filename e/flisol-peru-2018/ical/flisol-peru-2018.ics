@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7663
+CLASS:PUBLIC
+DTSTAMP:20200422T230123Z
+DTSTART:20180428T140000Z
+DTEND:20180429T000000Z
+LOCATION:Ciudad Universitaria - Av. Germán Amézaga\, Lima\, Peru
+SUMMARY:FLISOL Peru 2018
+DESCRIPTION:FLISoL is the largest Free Software dissemination event in Lat
+ in America and is aimed at all types of audiences: students\, academics\, 
+ businessmen\, workers\, public officials\, enthusiasts and even people who
+  do not have much computer knowledge.
+URL:https://reps.mozilla.org/e/flisol-peru-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.055902249
+X-COORDINATES-LON:-77.0832309726
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

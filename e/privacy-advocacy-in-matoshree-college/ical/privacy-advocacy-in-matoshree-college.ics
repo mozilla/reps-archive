@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8327
+CLASS:PUBLIC
+DTSTAMP:20200422T115000Z
+DTSTART:20190111T083000Z
+DTEND:20190111T103000Z
+LOCATION:Matoshree College\, Nashik\, Nashik\, India
+SUMMARY:Privacy Advocacy in Matoshree College
+DESCRIPTION:This is session is related to Privacy Month\, And part of offl
+ ine contribution. In this session we are going spread awareness about digi
+ tal privacy i.e. on Online Privacy and How to Maintain individual privacy 
+ by taking strong steps like using Add-Ons\, Tools\, Browser and strong enc
+ ryption.
+URL:https://reps.mozilla.org/e/privacy-advocacy-in-matoshree-college/
+SEQUENCE:1
+X-COORDINATES-LAT:19.989622
+X-COORDINATES-LON:73.9082361
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

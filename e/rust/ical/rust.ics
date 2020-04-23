@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7533
+CLASS:PUBLIC
+DTSTAMP:20200422T102621Z
+DTSTART:20180331T090000Z
+DTEND:20180331T130000Z
+LOCATION:TBD\, Douala\, Cameroon
+SUMMARY:Rust
+DESCRIPTION:Getting started with Rust programming language session\n\nFor 
+ this rust event we start with a Moz Activate  presentation and campaign an
+ d we celebrate Mozilla birthday and  the last part was our must important 
+ part the rust training which interested very more our attendee and everyon
+ e take the note for learning more about the Rust and integrate the communi
+ ty
+URL:https://reps.mozilla.org/e/rust/
+SEQUENCE:2
+X-COORDINATES-LAT:4.04680966057
+X-COORDINATES-LON:9.72744941711
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

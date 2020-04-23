@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9008
+CLASS:PUBLIC
+DTSTAMP:20200422T114959Z
+DTSTART:20200118T050000Z
+DTEND:20200118T070000Z
+LOCATION:Gokhale Education Society&#39;s R. H. Sapat College of Engineering\, 
+ Management Studies and Research\, Nashik\, India
+SUMMARY:Privacy Month Awareness - R. H. Sapat College of Engineering 2020
+DESCRIPTION:Rough Agenda:\n1. Introduction to Cyber Safety and Privacy ove
+ r Internet.\n2. Need to know why Privacy is essential.    \n3. Precautions
+  and safety measures to be taken for safe internet usage.\n4. Other relate
+ d topics.\nTotal time should add up to 90 to 120 minutes.
+URL:https://reps.mozilla.org/e/privacy-month-awareness-r-h-sapat-college-o
+ f-engineering-2020/
+SEQUENCE:1
+X-COORDINATES-LAT:20.004484
+X-COORDINATES-LON:73.758936
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

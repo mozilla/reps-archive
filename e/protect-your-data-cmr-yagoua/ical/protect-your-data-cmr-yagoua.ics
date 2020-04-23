@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8272
+CLASS:PUBLIC
+DTSTAMP:20200422T102619Z
+DTSTART:20181215T090000Z
+DTEND:20181215T120000Z
+LOCATION:TBD\, YAGOUA\, Cameroon
+SUMMARY:Protect Your Data CMR -YAGOUA
+DESCRIPTION:to help young cameroonians to be awareness about the proctecti
+ on of  their data  in the far north  town Yagoua ( official launch) \nProm
+ ote Mozilla tools and manuals related to online privacy and data protectio
+ n
+URL:https://reps.mozilla.org/e/protect-your-data-cmr-yagoua/
+SEQUENCE:2
+X-COORDINATES-LAT:10.0263292069
+X-COORDINATES-LON:13.443145752
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR
