@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6479
+CLASS:PUBLIC
+DTSTAMP:20200423T110717Z
+DTSTART:20170522T120000Z
+DTEND:20170523T200000Z
+LOCATION:Avenida Francisco Glicério\, 1269 - 5º andar - Centro\, Campina
+ s\, Brazil
+SUMMARY:WebVR Camp @JuventudeConectada Campinas
+DESCRIPTION:A-Frame is a web framework for building virtual reality experi
+ ences\, making it easy for anyone to get involved with virtual reality.
+URL:https://reps.mozilla.org/e/webvr-camp-juventudeconectada-campinas/
+SEQUENCE:9
+X-COORDINATES-LAT:-23.5464
+X-COORDINATES-LON:-46.6289
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

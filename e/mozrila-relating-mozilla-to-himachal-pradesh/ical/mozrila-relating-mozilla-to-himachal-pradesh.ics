@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2845
+CLASS:PUBLIC
+DTSTAMP:20200423T183513Z
+DTSTART:20141108T090000Z
+DTEND:20141108T170000Z
+LOCATION:IIT Mandi\, Mandi\, India
+SUMMARY:MozRila - Relating Mozilla to Himachal Pradesh
+DESCRIPTION:What is special about this event :-\n\n1) This is the first ev
+ er Event of Mozilla in Himachal Pradesh\,India.\n2) This event is happenin
+ g in one of the 15 IITs of India which comes among top institutes &amp; are fa
+ mous for producing top brains from the country.\n(http://en.wikipedia.org/
+ wiki/Indian_Institute_of_Technology_Mandi)\n\n \n\n\n\n\n\n\n\nThis event 
+ is proposed in one of the premier institute of India.
+URL:https://reps.mozilla.org/e/mozrila-relating-mozilla-to-himachal-prades
+ h/
+SEQUENCE:10
+X-COORDINATES-LAT:31.5379689294
+X-COORDINATES-LON:76.4575186372
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6370
+CLASS:PUBLIC
+DTSTAMP:20200423T111341Z
+DTSTART:20170427T160000Z
+DTEND:20170427T193000Z
+LOCATION:Distil Networks\, Folkungagatan 122\, Sweden
+SUMMARY:Rust Stockholm meetup @ Distil Networks
+DESCRIPTION:It&#39;s time for another Rust meetup\, this time hosted by Distil
+  Networks. \n\nThere is still time to submit an idea for a talk if you hav
+ e been doing something with Rust that you would like to share.\n\nWe have 
+ two talks lined up so far:\n\nDistil will talk about what they are doing w
+ ith Rust and their experiences interfacing Rust with Lua.\n\nMarkus Wester
+ lind will talk about the language he has written in Rust\, called Gluon
+URL:https://reps.mozilla.org/e/rust-stockholm-meetup-distil-networks/
+SEQUENCE:1
+X-COORDINATES-LAT:59.3154117
+X-COORDINATES-LON:18.0842361
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

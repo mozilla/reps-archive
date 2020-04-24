@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4716
+CLASS:PUBLIC
+DTSTAMP:20200423T161807Z
+DTSTART:20151107T073000Z
+DTEND:20151107T120000Z
+LOCATION:Strava Technologies (P) Ltd\, TC-14/420-5\, Extra Police Road\, N
+ andavanam\, Palayam\, Thiruvananthapuram\, Kerala 695034\, Thiruvananthapu
+ ram\, India
+SUMMARY:MozCoffee for Firefox for Windows 10 Campaign @ Thiruvananthapuram
+DESCRIPTION:This event helps us to retain Firefox Users on Windows 10. In 
+ support to Windows 10 Community Activation Campaign we are hosting this ev
+ ent. Inviting Mozillians \, FSAs and newbies.This event is solely to sprea
+ d awareness about Firefox for Windows 10\, talk about how it has been opti
+ mized especially for Windows 10\, how to retain the defaults while updatin
+ g\, and why should users opt for it in the first place.
+URL:https://reps.mozilla.org/e/mozcoffee-for-firefox-for-windows-10-campai
+ gn-thiruvananthapuram/
+SEQUENCE:2
+X-COORDINATES-LAT:8.5184952667
+X-COORDINATES-LON:76.9792327867
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

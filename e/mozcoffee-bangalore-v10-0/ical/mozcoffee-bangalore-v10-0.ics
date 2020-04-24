@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3075
+CLASS:PUBLIC
+DTSTAMP:20200423T183625Z
+DTSTART:20141106T090000Z
+DTEND:20141106T100000Z
+LOCATION:Collab House\, Austin Town\, Bangalore\, Bangalore\, India
+SUMMARY:MozCoffee Bangalore v10.0
+DESCRIPTION:Dietrich Ayala from Mozilla is in town and would love to meet 
+ the local community this Thursday. Dietrich works with the FirefoxOS team 
+ based at Portland. Come\, say hello! :)\n\nAlso\, it is the 10th anniversa
+ ry of Firefox just like our MozCoffee! We&#39;ll have a photoshoot for the cam
+ paign #ChooseIndependent as well :)\n\nLook forward to seeing you all.
+URL:https://reps.mozilla.org/e/mozcoffee-bangalore-v10-0/
+SEQUENCE:6
+X-COORDINATES-LAT:12.85107877
+X-COORDINATES-LON:77.6440420747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6610
+CLASS:PUBLIC
+DTSTAMP:20200423T105321Z
+DTSTART:20170721T050000Z
+DTEND:20170723T130000Z
+LOCATION:Central Mindanao University\, Maramag\, Philippines
+SUMMARY:Startup Weekend Bukidnon
+DESCRIPTION:Startup Weekend is a weekend-long\, hands-on experience where 
+ startups and aspiring entrepreneurs gather in one place\, pitch their idea
+ s and find out if they are business viable. The three day event consists o
+ f pitching the idea\, mentoring sessions with key people in the startup in
+ dustry and presentation of ideas to investors and industry leaders. It all
+ ows anyone with an idea for a business to find potential co-founders and p
+ artners who can help build the business with little investment.
+URL:https://reps.mozilla.org/e/startup-weekend-bukidnon/
+SEQUENCE:4
+X-COORDINATES-LAT:8.14601626647
+X-COORDINATES-LON:124.936614968
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

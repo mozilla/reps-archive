@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3627
+CLASS:PUBLIC
+DTSTAMP:20200423T172912Z
+DTSTART:20150425T130000Z
+DTEND:20150425T220000Z
+LOCATION:Bush Av.\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:FLISOL Santa Cruz 2015
+DESCRIPTION:Latin America Festival of Free Software Installation where all
+  the local Communties participate showing everything about Free Source and
+  Free Software. Mozilla Bolivia Community will be showing all about Mozill
+ a. The event will be in Autónoma Gabriel René Moreno University of Santa
+  Cruz City.
+URL:https://reps.mozilla.org/e/flisol-santa-cruz-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:-17.7754158222
+X-COORDINATES-LON:-63.1941724419
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

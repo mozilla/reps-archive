@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3875
+CLASS:PUBLIC
+DTSTAMP:20200423T171635Z
+DTSTART:20150609T110000Z
+DTEND:20150609T130000Z
+LOCATION:BRAC University\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awareness Day at BRAC University
+DESCRIPTION:This Event can help for the new comers and who wants to contri
+ bute in the Mozilla. In this University there are a lot of interested peop
+ le who wants to know more about the Mozilla\, so this event can help them.
+  In short\, participants will get to know what Mozilla is and what Mozilla
+  does in the introductoty session\, where as individual sessions on Firefo
+ x OS\, Webmaker\, SuMo and MLS will describe each projects and products.
+URL:https://reps.mozilla.org/e/mozilla-awareness-day-at-brac-university/
+SEQUENCE:8
+X-COORDINATES-LAT:23.7809021822
+X-COORDINATES-LON:90.4074780196
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

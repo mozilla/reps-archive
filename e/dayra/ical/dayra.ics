@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@109
+CLASS:PUBLIC
+DTSTAMP:20200423T230355Z
+DTSTART:20120913T093000Z
+DTEND:20120913T173000Z
+LOCATION:Egypt Public Library in Mansoura\, Mansoura\, Egypt
+SUMMARY:Dayra 
+DESCRIPTION:Dayra is a community that aim to spreading culture and talents
+  development .
+URL:https://reps.mozilla.org/e/dayra/
+SEQUENCE:0
+X-COORDINATES-LAT:31.0522814013
+X-COORDINATES-LON:31.3949775696
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

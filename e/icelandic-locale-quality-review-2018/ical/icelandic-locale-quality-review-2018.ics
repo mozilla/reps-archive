@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7947
+CLASS:PUBLIC
+DTSTAMP:20200423T085705Z
+DTSTART:20181019T000000Z
+DTEND:20181020T000000Z
+LOCATION:64.1468 -21.8946\, Reykjavik\, Iceland
+SUMMARY:Icelandic Locale: Quality Review 2018
+DESCRIPTION:In 2018\, the Icelandic locale community will meet together fo
+ r the first time to discuss style guide\, recruitment for the community an
+ d raise awareness of apps and programs available from Mozilla in the Icela
+ ndic language. Training and unifying of tools will also take place as comm
+ unity members exchange ideas and approaches they use in their localization
+  process.
+URL:https://reps.mozilla.org/e/icelandic-locale-quality-review-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:64.1468
+X-COORDINATES-LON:-21.8946
+X-COUNTRY-CODE:is
+END:VEVENT
+
+END:VCALENDAR

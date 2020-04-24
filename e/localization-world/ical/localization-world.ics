@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@97
+CLASS:PUBLIC
+DTSTAMP:20200423T225318Z
+DTSTART:20121017T190000Z
+DTEND:20121019T190000Z
+LOCATION:Bell Harbor International Conference Center\, Seattle\, United St
+ ates
+SUMMARY:Localization World
+DESCRIPTION:Held twice per year\, Localization World is the premiere local
+ ization industry event for networking\, sharing\, and advancing innovation
+ s in the localization and translation technology field.
+URL:https://reps.mozilla.org/e/localization-world/
+SEQUENCE:0
+X-COORDINATES-LAT:47.5765257137
+X-COORDINATES-LON:-124.013671875
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

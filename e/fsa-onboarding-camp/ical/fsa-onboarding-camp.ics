@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4858
+CLASS:PUBLIC
+DTSTAMP:20200423T160145Z
+DTSTART:20151221T033000Z
+DTEND:20151223T113000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:FSA Onboarding Camp
+DESCRIPTION:It is an Event/Campaign for our long term dream into reality o
+ f getting Quality Contributors and a huge Local community involved in all 
+ project areas by running recruitment drives and training events. Both in T
+ elangana and Andhra Pradesh
+URL:https://reps.mozilla.org/e/fsa-onboarding-camp/
+SEQUENCE:0
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

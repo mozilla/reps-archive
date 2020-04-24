@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1261
+CLASS:PUBLIC
+DTSTAMP:20200423T210821Z
+DTSTART:20130921T080000Z
+DTEND:20130921T140000Z
+LOCATION:International Islamic University Chittagong\, Chittagong\, Bangla
+ desh
+SUMMARY:Firefox OS App Training Day IIUC
+DESCRIPTION:It will be a day long event of Firefox OS App development. Rec
+ ently we arranged a similar kind of event in Chittagong University of Engi
+ neering &amp; Technology. It was a great success and inspiration. We hope it w
+ ill be another milestone.
+URL:https://reps.mozilla.org/e/firefox-os-app-training-day-iiuc/
+SEQUENCE:4
+X-COORDINATES-LAT:22.3575375982
+X-COORDINATES-LON:91.8395233154
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

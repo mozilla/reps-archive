@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1251
+CLASS:PUBLIC
+DTSTAMP:20200423T203817Z
+DTSTART:20131222T043000Z
+DTEND:20131222T113000Z
+LOCATION:TechnoVersity\, Kharagpur\, India
+SUMMARY:HiveIndia@Kgp
+DESCRIPTION:Introduction to Mozilla\nIntroduction to Webmaker.\nRemixing o
+ f Mozilla Logos.\nMaking Remixed T-Shirt.\nDrawing Mozilla Logos.\nPlaying
+  with Popcorn Maker.\nMozRobotrix\nElectro Panting\nElectro Hacking\nJunko
+ tronics\nMake Your Christmas Tree\nSanta on the Floor \nChristmas dance co
+ mpetition \nInnovation
+URL:https://reps.mozilla.org/e/makerparty-kgp/
+SEQUENCE:22
+X-COORDINATES-LAT:22.2280904168
+X-COORDINATES-LON:87.2534179688
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

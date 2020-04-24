@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8550
+CLASS:PUBLIC
+DTSTAMP:20200423T082809Z
+DTSTART:20190524T000000Z
+DTEND:20190524T030000Z
+LOCATION:Laboratoria\, Barranco\, Peru
+SUMMARY:Mozilla Perú Meetup
+DESCRIPTION:* Introducción a Indieweb (jjdelc)\n* Una breve introducción
+  a WebThings (Lupo Montero)\n* Introducción a Web Authentication (César 
+ Carruitero)
+URL:https://reps.mozilla.org/e/mozilla-peru-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.0753100258
+X-COORDINATES-LON:-77.0432424554
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

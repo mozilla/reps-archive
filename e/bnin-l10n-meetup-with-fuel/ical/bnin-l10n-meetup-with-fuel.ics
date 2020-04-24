@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3379
+CLASS:PUBLIC
+DTSTAMP:20200423T175306Z
+DTSTART:20150222T043000Z
+DTEND:20150222T113000Z
+LOCATION:Barasat\, Barasat\, India
+SUMMARY:bn-IN FUEL Meetup
+DESCRIPTION:Here we will discuss about bnIN l10n projects. How we can more
+  contribute in betterway. How we can engage more contributors and We will 
+ realease rest of the FUEL terminologies in bn-IN.
+URL:https://reps.mozilla.org/e/bnin-l10n-meetup-with-fuel/
+SEQUENCE:5
+X-COORDINATES-LAT:22.5484125269
+X-COORDINATES-LON:88.4115599468
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

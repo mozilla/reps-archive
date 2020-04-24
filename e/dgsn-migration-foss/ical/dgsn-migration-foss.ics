@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4728
+CLASS:PUBLIC
+DTSTAMP:20200423T162524Z
+DTSTART:20151022T130000Z
+DTEND:20151022T160000Z
+LOCATION:DGSN\, Yaounde\, Cameroon
+SUMMARY:DGSN Migration FOSS
+DESCRIPTION:An advocacy event dedicated to Policemen at DGSN in Cameroon o
+ n the appropriation and Migration to Free and Open Source Software.\n\nOpe
+ n Source Communities in Cameroon are involved on this advocacy project:\n\
+ n- Mozilla Cameroon\n- CmNOG\n- Ubuntu-CM\n- Laboratoire Open Source....
+URL:https://reps.mozilla.org/e/dgsn-migration-foss/
+SEQUENCE:2
+X-COORDINATES-LAT:3.77217404265
+X-COORDINATES-LON:11.5590816736
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

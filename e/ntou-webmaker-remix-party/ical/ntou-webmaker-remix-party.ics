@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@925
+CLASS:PUBLIC
+DTSTAMP:20200423T214103Z
+DTSTART:20130525T060000Z
+DTEND:20130525T100000Z
+LOCATION:128 Academia Road\, Section 2\, Nankang\, Taipei 11529\, Taiwan.\
+ , Keelung\, Taiwan
+SUMMARY:NTOU Webmaker Remix Party
+DESCRIPTION:First Webmaker Pop Up event at university in Taiwan. Two unive
+ rsity computer related club join as partnership.
+URL:https://reps.mozilla.org/e/ntou-webmaker-remix-party/
+SEQUENCE:1
+X-COORDINATES-LAT:25.1473047106
+X-COORDINATES-LON:121.780443192
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

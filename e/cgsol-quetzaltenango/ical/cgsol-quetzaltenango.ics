@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3028
+CLASS:PUBLIC
+DTSTAMP:20200423T183146Z
+DTSTART:20141114T140000Z
+DTEND:20141116T200000Z
+LOCATION:CUNOC\, Quetzaltenango\, Guatemala
+SUMMARY:CGSOL-Quetzaltenango
+DESCRIPTION:Séptimmo Congreso Guatemalteco de Software Libre\, to be held
+  in the city of Quetzaltenango\, Guatemala on 14\,15 and 16 November this 
+ year at the University Center West -CUNOC-.This year we were invited\,
+URL:https://reps.mozilla.org/e/cgsol-quetzaltenango/
+SEQUENCE:5
+X-COORDINATES-LAT:14.7773169595
+X-COORDINATES-LON:-91.4759216364
+X-COUNTRY-CODE:gt
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2607
+CLASS:PUBLIC
+DTSTAMP:20200423T192114Z
+DTSTART:20140730T150000Z
+DTEND:20140730T170000Z
+LOCATION:Tre Marie Cafe\, Thessaloniki\, Greece
+SUMMARY:MozCoffee Thessaloniki #2
+DESCRIPTION:This is a regular MozCoffee meeting in Thessaloniki\, Greece. 
+ Topics: - Firefox OS - Webmaker - Open Web Applications - Firefox Marketpl
+ ace - Firefox Clinic etc.
+URL:https://reps.mozilla.org/e/mozcoffee-thessaloniki-2/
+SEQUENCE:2
+X-COORDINATES-LAT:40.6275189501
+X-COORDINATES-LON:22.9499974251
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6256
+CLASS:PUBLIC
+DTSTAMP:20200423T150301Z
+DTSTART:20160820T130000Z
+DTEND:20160820T210000Z
+LOCATION:Unilasalle\, Niteroi\, Brazil
+SUMMARY:PythonRio Niterói
+DESCRIPTION:PythonRio is a monthly meetup that happens both in Rio and Nit
+ eroi cities.\n\nThis even happened in Niterói and I gave a talk on physic
+ al computing and the web of things using MicroPython
+URL:https://reps.mozilla.org/e/pythonrio-niteroi/
+SEQUENCE:0
+X-COORDINATES-LAT:-22.840320721
+X-COORDINATES-LON:-42.9243162274
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

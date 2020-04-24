@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2619
+CLASS:PUBLIC
+DTSTAMP:20200423T191131Z
+DTSTART:20140823T043000Z
+DTEND:20140823T113000Z
+LOCATION:College of IT &amp; Management Education\, Cuttack\, India
+SUMMARY:Maker Party CIME
+DESCRIPTION:Maker Party event aimed at fostering the spirit of Creating\, 
+ Learning and Sharing. This event aims at recruiting new contributors to th
+ e Mozilla Project from the state of Orissa where we currently have very li
+ ttle community presence. Also\, there would be discussions with the leads 
+ of some of the newborn Firefox Club from a couple of colleges in the area 
+ and boost up the community activities to empower the student ambassadors t
+ o take the lead and organize future events by themselves.
+URL:https://reps.mozilla.org/e/maker-party-kiims/
+SEQUENCE:10
+X-COORDINATES-LAT:20.4750685049
+X-COORDINATES-LON:85.8773425
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

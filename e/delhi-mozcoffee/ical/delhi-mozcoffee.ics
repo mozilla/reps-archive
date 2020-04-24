@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7316
+CLASS:PUBLIC
+DTSTAMP:20200423T100939Z
+DTSTART:20171223T123000Z
+DTEND:20171223T153000Z
+LOCATION:CCD\, connaught place\, Delhi\, India
+SUMMARY:Delhi Mozcoffee
+DESCRIPTION:A small Mozillian gathering to share updates from Austin all h
+ ands and discuss future action plan and check with previous planned activi
+ ties
+URL:https://reps.mozilla.org/e/delhi-mozcoffee/
+SEQUENCE:8
+X-COORDINATES-LAT:28.5354702547
+X-COORDINATES-LON:77.2507323325
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

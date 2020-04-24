@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3330
+CLASS:PUBLIC
+DTSTAMP:20200423T181035Z
+DTSTART:20150110T070000Z
+DTEND:20150110T100000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, India
+SUMMARY:CoderDojo/Webmaker Event Palnning
+DESCRIPTION:Mozillians around Bangalore sit and discuss the plan to go ahe
+ ad for several camps related to Webmaker to teach the web to children.
+URL:https://reps.mozilla.org/e/coderdojo-webmaker-event-palnning/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9367532148
+X-COORDINATES-LON:77.6440420747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

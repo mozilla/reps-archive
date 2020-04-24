@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@269
+CLASS:PUBLIC
+DTSTAMP:20200423T224715Z
+DTSTART:20121109T110000Z
+DTEND:20121109T190000Z
+LOCATION:Escuela superior de Ingeniería Informática\, Albacete\, Spain
+SUMMARY:II Congreso Informática RITSI
+DESCRIPTION:*The topic is &#34;developing apps for mobile&#34;\, so we want to int
+ roduce Firefox OS and give a talk about &#34;The web is the platform&#34;. And hav
+ ing a booth to show Firefox OS and other Mozilla ideas.\n\n*The principal 
+ atendees are Computer Engineers or students of Computer Engineering\, as w
+ ell as other technical degrees.\n\n*The stimation of people attending the 
+ event is around ~700 people and the main sponsor is Microsoft.&lt;/p&gt;
+URL:https://reps.mozilla.org/e/ii-congreso-informatica-ritsi/
+SEQUENCE:0
+X-COORDINATES-LAT:38.9925047056
+X-COORDINATES-LON:-1.8546295166
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

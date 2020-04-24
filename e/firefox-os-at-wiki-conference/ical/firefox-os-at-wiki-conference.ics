@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3276
+CLASS:PUBLIC
+DTSTAMP:20200423T181125Z
+DTSTART:20150109T043000Z
+DTEND:20150110T093000Z
+LOCATION:Jadavpur University\, Kolkata\, India
+SUMMARY:Firefox OS at Wiki Conference
+DESCRIPTION:Bengali Wikipedia 10th Anniversary Conference is a gathering o
+ f the Bengali Wikimedia Community. Anyone interested in Wikimedia is welco
+ me to participate in Bengali Wikipedia 10th Anniversary Conference\, which
+  is scheduled to be held from 9-10 January in Kolkata. This conference is 
+ one of the first regional Wikimedia conference of its kind in the India.
+URL:https://reps.mozilla.org/e/firefox-os-at-wiki-conference/
+SEQUENCE:4
+X-COORDINATES-LAT:22.6473897524
+X-COORDINATES-LON:88.3436279744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

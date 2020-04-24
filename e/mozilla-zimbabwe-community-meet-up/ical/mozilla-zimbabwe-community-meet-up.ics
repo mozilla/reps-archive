@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@630
+CLASS:PUBLIC
+DTSTAMP:20200423T215935Z
+DTSTART:20130324T130000Z
+DTEND:20130324T150000Z
+LOCATION:Twitter&#39;s Cafe\, Bulawayo\, Zimbabwe
+SUMMARY:Mozilla ZImbabwe Community meet-up
+DESCRIPTION:The first meeting with potential contributors to the project. 
+ This meeting will focus on enlightening the contributors of how a Mozilla 
+ Community is organised\, how to contribute and most importantly\, the Mozi
+ lla project.This is also meant to identify dedicated individuals who could
+  also work in organising future events.
+URL:https://reps.mozilla.org/e/mozilla-zimbabwe-community-meet-up/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1590982706
+X-COORDINATES-LON:28.5864257812
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1315
+CLASS:PUBLIC
+DTSTAMP:20200423T210057Z
+DTSTART:20131016T110000Z
+DTEND:20131016T140000Z
+LOCATION:TBD\, Provo\, United States
+SUMMARY:International Firefox Translation/Localization Sprint
+DESCRIPTION:Mozilla Utah will be putting on an international tranlation sp
+ rint for speakers of any language to get involved in. The primary goal is 
+ to complete the l10n work for es-MX on Firefox desktop\, but we&#39;ll also be
+  focussing on introducing other language enthusiasts in Utah to the Mozill
+ a localization process and have them translate thier first product strings
+  or support articles.
+URL:https://reps.mozilla.org/e/international-firefox-translation-localizat
+ ion-sprint-2/
+SEQUENCE:1
+X-COORDINATES-LAT:37.7185903256
+X-COORDINATES-LON:-109.6875
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

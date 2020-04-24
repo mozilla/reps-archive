@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6793
+CLASS:PUBLIC
+DTSTAMP:20200423T105229Z
+DTSTART:20170722T060000Z
+DTEND:20170726T170000Z
+LOCATION:Scuola Open Source\, Bari\, Italy
+SUMMARY:ChangeCopyright In bari
+DESCRIPTION:Laboratories about the ChangeCopyright campaign of Mozilla
+URL:https://reps.mozilla.org/e/changecopyright-in-bari/
+SEQUENCE:0
+X-COORDINATES-LAT:41.12765
+X-COORDINATES-LON:16.86979
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

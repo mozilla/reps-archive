@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5597
+CLASS:PUBLIC
+DTSTAMP:20200423T151722Z
+DTSTART:20160626T083000Z
+DTEND:20160626T120000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Internal Meetup: Iftar and #MozLondon Updates
+DESCRIPTION:Internal meetup of the Reps\, core mozillians in Indonesia. Yo
+ fie\, Ina\, Rara\, and Kelimutu will share updates from London All Hands 2
+ 016 and we are going to have Iftar together. This meetup will be held offl
+ ine at Mozilla Community Space Jakarta\, and in the same time\, also onlin
+ e via JakartaCommunitySpace Vidyo Room.
+URL:https://reps.mozilla.org/e/internal-meetup-iftar-and-mozlondon-updates
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:-6.18768162002
+X-COORDINATES-LON:106.836870074
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

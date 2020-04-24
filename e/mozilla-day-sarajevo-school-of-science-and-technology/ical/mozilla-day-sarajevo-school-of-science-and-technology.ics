@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@859
+CLASS:PUBLIC
+DTSTAMP:20200423T213928Z
+DTSTART:20130528T073000Z
+DTEND:20130528T133000Z
+LOCATION:Sarajevo School of Science and Technology\, Sarajevo\, Bosnia and
+  Herzegovina
+SUMMARY:Mozilla Day @ Sarajevo School of Science and Technology
+DESCRIPTION:We got the invitation from the Sarajevo School of Science and 
+ Technology to be their guests for a one day event where we would give pres
+ entations about Mozilla and its mission\, Mozilla Community of Bosnia and 
+ Herzegovina\, Firefox OS\, WebFWD and other Mozilla&#39;s projects and inform 
+ the students how they can get involved. We want to use this opportunity to
+  recruit some new contributors and to expand our public outreach.
+URL:https://reps.mozilla.org/e/mozilla-day-sarajevo-school-of-science-and-
+ technology/
+SEQUENCE:7
+X-COORDINATES-LAT:43.820455311
+X-COORDINATES-LON:18.3085441589
+X-COUNTRY-CODE:ba
+END:VEVENT
+
+END:VCALENDAR

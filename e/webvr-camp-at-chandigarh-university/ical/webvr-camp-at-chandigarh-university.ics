@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6510
+CLASS:PUBLIC
+DTSTAMP:20200423T111416Z
+DTSTART:20170425T073000Z
+DTEND:20170425T103000Z
+LOCATION:Chandigarh University\, Punjab\, Mohali\, India
+SUMMARY:WebVR Camp at Chandigarh University
+DESCRIPTION:An event for introducing WebVR to students and starting them t
+ o build with A-Frame.
+URL:https://reps.mozilla.org/e/webvr-camp-at-chandigarh-university/
+SEQUENCE:2
+X-COORDINATES-LAT:30.770128
+X-COORDINATES-LON:76.575912
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

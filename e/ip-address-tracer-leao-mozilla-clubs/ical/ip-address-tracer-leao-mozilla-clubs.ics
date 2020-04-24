@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6541
+CLASS:PUBLIC
+DTSTAMP:20200423T111402Z
+DTSTART:20170426T130000Z
+DTEND:20170426T183000Z
+LOCATION:CEU Florence - Centro de Esportes Unificados Jardim Florence\, Ca
+ mpinas\, Brazil
+SUMMARY:IP Address Tracer @Leão Mozilla Clubs
+DESCRIPTION:Learners will explore internet protocol (IP) addresses and lea
+ rn how it may be associated with themselves\, a device\, or a website. The
+ y will trace IP addresses and make a map.
+URL:https://reps.mozilla.org/e/ip-address-tracer-leao-mozilla-clubs/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.5464
+X-COORDINATES-LON:-46.6289
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

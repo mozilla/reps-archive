@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6161
+CLASS:PUBLIC
+DTSTAMP:20200423T113816Z
+DTSTART:20161231T230000Z
+DTEND:20180130T230000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:Mozilla at Open Labs Hackerspace - 2017 Period
+DESCRIPTION:During 2017 we plan to reorganize Mozilla Albania by making ma
+ ny elements in our local hackerspace sustainable\, to allow us to kick off
+  various initiatives announced after Mozilla All Hands in Hawaii.\n\nNote:
+  This is not a one time event\, rather than a project for the upcoming 12 
+ months to support Mozilla&#39;s mission locally and regionally by working with
+  the local hackerspace in Tirana\, Albania.
+URL:https://reps.mozilla.org/e/mozilla-at-open-labs-hackerspace-2017-perio
+ d/
+SEQUENCE:0
+X-COORDINATES-LAT:41.3216921834
+X-COORDINATES-LON:19.8274540006
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

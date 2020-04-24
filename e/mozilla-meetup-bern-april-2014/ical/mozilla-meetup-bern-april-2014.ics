@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2126
+CLASS:PUBLIC
+DTSTAMP:20200423T200128Z
+DTSTART:20140417T153000Z
+DTEND:20140417T200000Z
+LOCATION:Altes Tramdepot\, Grosser Muristalden 6\, 3006 Bern\, Berne\, Swi
+ tzerland
+SUMMARY:Mozilla Meetup Bern - April 2014
+DESCRIPTION:Our next Meetup of Mozillians in Berne. We&#39;ll talk about Mozil
+ la and other IT topics.\n\nThe Event will take place at the &#34;Altes Tramdep
+ ot&#34; in Berne (http://www.altestramdepot.ch/htm/home.htm).
+URL:https://reps.mozilla.org/e/mozilla-meetup-bern-april-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:46.9475737087
+X-COORDINATES-LON:7.45970749853
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

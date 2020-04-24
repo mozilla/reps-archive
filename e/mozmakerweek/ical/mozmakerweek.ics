@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4166
+CLASS:PUBLIC
+DTSTAMP:20200423T165921Z
+DTSTART:20150725T043000Z
+DTEND:20150801T103000Z
+LOCATION:Gyan Ganga Institute of Technology and Science\, Jabalpur\, India
+SUMMARY:MozMakerWeek
+DESCRIPTION:As the Global Maker Party Campaign we will be Hosting a series
+  of Train the Trainer sessions\, Maker Parties\, Web Literacy Campaigns wi
+ th different themes associated with web. The main Goal is to increase the 
+ Number of web literates through campaigns\, Help the FSA&#39;s in planning and
+  hosting their own Maker parties. &#34;Make them WebMaker instead of only Web 
+ User&#34;
+URL:https://reps.mozilla.org/e/mozmakerweek/
+SEQUENCE:8
+X-COORDINATES-LAT:23.1427803444
+X-COORDINATES-LON:79.9335479457
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1448
+CLASS:PUBLIC
+DTSTAMP:20200423T205754Z
+DTSTART:20131024T140000Z
+DTEND:20131028T000000Z
+LOCATION:Hotel Paradisus Cancún\, Cancun\, Mexico
+SUMMARY:National Dealer Movistar IX
+DESCRIPTION:It is the ninth national dealer meeting\, it will give a talk 
+ on Firefox OS and will have a booth for demos of phones with Firefox OS.
+URL:https://reps.mozilla.org/e/national-dealer-movistar-ix/
+SEQUENCE:1
+X-COORDINATES-LAT:21.145992165
+X-COORDINATES-LON:-86.8524169922
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

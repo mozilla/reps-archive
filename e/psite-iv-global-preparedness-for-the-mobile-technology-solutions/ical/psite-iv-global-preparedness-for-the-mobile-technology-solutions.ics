@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1257
+CLASS:PUBLIC
+DTSTAMP:20200423T211424Z
+DTSTART:20130902T000000Z
+DTEND:20130902T090000Z
+LOCATION:Colegio de San Juan de Letran Calamba\, Calamba\, Philippines
+SUMMARY:PSITE IV - Global Preparedness for the Mobile Technology Solutions
+DESCRIPTION:The Philippine Society of Information Technology Educators Reg
+ ion IV will be having a Regional Conference to be held on September 2 - 3\
+ , 2013\, this event will be attended by more than 2000 students and 200 IT
+  Faculty members.\n\nMozilla Philippines Community will have a slot for a 
+ lightning talk and will be presenting Firefox OS and FSA\n\nThere will als
+ o be a booth for the Firefox OS device the whole day.
+URL:https://reps.mozilla.org/e/psite-iv-global-preparedness-for-the-mobile
+ -technology-solutions/
+SEQUENCE:1
+X-COORDINATES-LAT:14.1887973641
+X-COORDINATES-LON:121.165745258
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

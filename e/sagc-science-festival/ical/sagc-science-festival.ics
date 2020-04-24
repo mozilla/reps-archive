@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5744
+CLASS:PUBLIC
+DTSTAMP:20200423T145438Z
+DTSTART:20160921T180000Z
+DTEND:20160924T180000Z
+LOCATION:Shaheed Bir Uttam Lt Anwar Girls’ College\, Dhaka\, Bangladesh
+SUMMARY:SAGC Science Festival 2016
+DESCRIPTION:Shaheed Anwar Girls College Science is going to organize a 3 d
+ ay long science festival where we will be having chance to host a booth an
+ d talk to the students about Mozilla and contribution opportunities.
+URL:https://reps.mozilla.org/e/sagc-science-festival/
+SEQUENCE:4
+X-COORDINATES-LAT:23.7002964
+X-COORDINATES-LON:90.499745
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

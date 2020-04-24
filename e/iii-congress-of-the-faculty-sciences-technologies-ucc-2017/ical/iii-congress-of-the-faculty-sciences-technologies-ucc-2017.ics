@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7156
+CLASS:PUBLIC
+DTSTAMP:20200423T102344Z
+DTSTART:20171019T150000Z
+DTEND:20171019T230000Z
+LOCATION:UCC León\, León\, Nicaragua
+SUMMARY:III Congress of the Faculty Sciences\, technologies UCC 2017
+DESCRIPTION:III Congress of the Faculty of Systems and Engineering Telemat
+ ics and Telecommunications\, where we will participate as lecturers\, expl
+ aining about the WebVR technology and the vision of the web in the future.
+ \n\nDavid Blanchard will collaborate with a conference of WebVR\, while An
+ a López and I will be providing information from the community and recrui
+ ting new members on a stand.
+URL:https://reps.mozilla.org/e/iii-congress-of-the-faculty-sciences-techno
+ logies-ucc-2017/
+SEQUENCE:2
+X-COORDINATES-LAT:12.4186149
+X-COORDINATES-LON:-86.8795948
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

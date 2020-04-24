@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4402
+CLASS:PUBLIC
+DTSTAMP:20200423T162915Z
+DTSTART:20151012T080000Z
+DTEND:20151012T100000Z
+LOCATION:Urumqi fortieth high school\, wlmq\, China
+SUMMARY:Firefox Tianshan tour -one -We come from the Firefox community
+DESCRIPTION:Activities Firefox Tianshan line -webmaker training camp is a 
+ learning program consisting of 10 lessons\, the main contents of this even
+ t ten courseware lesson consists of the following:
+URL:https://reps.mozilla.org/e/firefox-tianshan-line-webmaker-activity-wha
+ t-is-digital-skills-and-web-literacy-1/
+SEQUENCE:11
+X-COORDINATES-LAT:43.3551931889
+X-COORDINATES-LON:2608.30723858
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

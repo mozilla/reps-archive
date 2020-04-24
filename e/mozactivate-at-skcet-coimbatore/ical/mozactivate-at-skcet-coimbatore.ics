@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5925
+CLASS:PUBLIC
+DTSTAMP:20200423T145542Z
+DTSTART:20160917T073000Z
+DTEND:20160917T113000Z
+LOCATION:SKCET\, Coimbatore\, India
+SUMMARY:MozActivate at SKCET\, coimbatore
+DESCRIPTION:Introduction to Mozilla Contribution\nIntroduction about Mozil
+ la Clubs\nTest Pilot installation\nWebCompat baics
+URL:https://reps.mozilla.org/e/mozactivate-at-skcet-coimbatore/
+SEQUENCE:1
+X-COORDINATES-LAT:10.9908159361
+X-COORDINATES-LON:76.9643726363
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

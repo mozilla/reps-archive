@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3089
+CLASS:PUBLIC
+DTSTAMP:20200423T183536Z
+DTSTART:20141108T040000Z
+DTEND:20141109T113000Z
+LOCATION:Quicksand\, New Delhi\, India
+SUMMARY:Firefox OS Intensive Workshop - New Delhi
+DESCRIPTION:Deep-dive into app development for Firefox OS. A place for int
+ ermediate developers to become experts.
+URL:https://reps.mozilla.org/e/firefox-os-intensive-workshop-new-delhi/
+SEQUENCE:4
+X-COORDINATES-LAT:24.6470171626
+X-COORDINATES-LON:78.6181640625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

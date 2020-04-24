@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8671
+CLASS:PUBLIC
+DTSTAMP:20200423T082113Z
+DTSTART:20190706T053000Z
+DTEND:20190706T103000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:ILUG-Delhi Meetup
+DESCRIPTION:ILUG-Delhi is one of the biggest community in New Delhi\, they
+  are organizing a meetup\, I had started my coding journey and my mentor\,
+  who started local community in college. I will give delivering a Git sess
+ ion maybe a 101\, or an advanced session on Git. My local community member
+ s will be joining me\, last time\, 3-4 came. I am expecting at least 10 an
+ d one is delivering a talk.
+URL:https://reps.mozilla.org/e/ilug-delhi-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6102447132
+X-COORDINATES-LON:77.393553257
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

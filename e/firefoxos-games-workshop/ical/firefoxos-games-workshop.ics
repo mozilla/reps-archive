@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1319
+CLASS:PUBLIC
+DTSTAMP:20200423T210210Z
+DTSTART:20131010T070000Z
+DTEND:20131011T150000Z
+LOCATION:Facultad de informática de la Universidad Complutense de Madrid\
+ , Madrid\, Spain
+SUMMARY:FirefoxOS Games Workshop
+DESCRIPTION:This is a workshop for creating games applications using HTML5
+ \, and other open tools\, to use in FirefoxOS. Is the first tematic worksh
+ op for FirefoxOS in Spain (and probably in the world)
+URL:https://reps.mozilla.org/e/firefoxos-games-workshop/
+SEQUENCE:3
+X-COORDINATES-LAT:40.4453140959
+X-COORDINATES-LON:-3.72453689575
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

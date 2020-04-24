@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1932
+CLASS:PUBLIC
+DTSTAMP:20200423T201552Z
+DTSTART:20140315T090000Z
+DTEND:20140316T180000Z
+LOCATION:16 boulevard montmartre\, Paris\, France
+SUMMARY:GNOME docfest
+DESCRIPTION:Mozilla is helping other FLOSS communities in France\, we shar
+ e the same philosophy\, and we share some volunteers as well :-)\nThis wee
+ k-end\, the GNOME community is coming to do a docfest : a lot of documenta
+ tion will be done\, and also some localization. \nNical (Nicolas Silva\, M
+ ozilla employee) is organizing this event.
+URL:https://reps.mozilla.org/e/gnome-docfest/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8943489432
+X-COORDINATES-LON:2.33445525137
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

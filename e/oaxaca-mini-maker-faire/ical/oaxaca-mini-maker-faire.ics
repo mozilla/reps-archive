@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1962
+CLASS:PUBLIC
+DTSTAMP:20200423T201246Z
+DTSTART:20140322T160000Z
+DTEND:20140324T000000Z
+LOCATION:Jardín Etnobotánico de Oaxaca\, Santa Lucía\, Mexico
+SUMMARY:Oaxaca mini maker faire
+DESCRIPTION:This is the first edition of a mini maker fair in Mexico.\n\nM
+ ini Maker Faires are independently produced celebrations of local maker cu
+ lture. The Mini Maker Faire program provides tools and resources to help o
+ thers to make a Maker Faire event that reflects the creativity\, spirit an
+ d ingenuity of their community.
+URL:https://reps.mozilla.org/e/oaxaca-mini-maker-faire/
+SEQUENCE:3
+X-COORDINATES-LAT:17.0593966889
+X-COORDINATES-LON:-96.7075767531
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

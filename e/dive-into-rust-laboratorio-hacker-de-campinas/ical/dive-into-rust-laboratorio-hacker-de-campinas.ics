@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6981
+CLASS:PUBLIC
+DTSTAMP:20200423T102119Z
+DTSTART:20171028T150000Z
+DTEND:20171028T200000Z
+LOCATION:Laboratório Hacker de Campinas\, Campinas\, Brazil
+SUMMARY:Dive into Rust @Laboratório Hacker de Campinas
+DESCRIPTION:The Rust programming language will be important to the future 
+ of the web\, making it safe and great. Join us to understand\, use and eva
+ ngelize this language will advance make the web better and more secure!
+URL:https://reps.mozilla.org/e/dive-into-rust-laboratorio-hacker-de-campin
+ as/
+SEQUENCE:6
+X-COORDINATES-LAT:-23.5733
+X-COORDINATES-LON:-46.6417
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7734
+CLASS:PUBLIC
+DTSTAMP:20200423T093612Z
+DTSTART:20180511T033000Z
+DTEND:20180511T123000Z
+LOCATION:SRKR Engineering College\, Bhimavaram\, Hyderabad\, India
+SUMMARY:A Day of Virtual Reality and Extensions
+DESCRIPTION:A session on WebVR and Web Extensions to peeps of SRKR Enginee
+ ring college.
+URL:https://reps.mozilla.org/e/a-day-of-virtual-reality-and-extensions/
+SEQUENCE:4
+X-COORDINATES-LAT:16.5431
+X-COORDINATES-LON:81.4964
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

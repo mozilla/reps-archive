@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@89
+CLASS:PUBLIC
+DTSTAMP:20200423T230613Z
+DTSTART:20120826T103000Z
+DTEND:20120826T123000Z
+LOCATION:Cafe Coffee Day\, First Floor\, Great India Place\, Noida\, India
+SUMMARY:MozCoffee Delhi/NCR
+DESCRIPTION:A meetup of all Student Reps and Mozilla Reps in Delhi/NCR to 
+ plan and coordinate activities
+URL:https://reps.mozilla.org/e/mozcoffee-delhi-ncr/
+SEQUENCE:0
+X-COORDINATES-LAT:28.6059243308
+X-COORDINATES-LON:77.3009204865
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

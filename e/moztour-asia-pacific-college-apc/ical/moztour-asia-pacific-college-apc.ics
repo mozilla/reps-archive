@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2387
+CLASS:PUBLIC
+DTSTAMP:20200423T192010Z
+DTSTART:20140802T010000Z
+DTEND:20140802T040000Z
+LOCATION:Asia Pacific College\, Ninoy Aquino International Airport\, Phili
+ ppines
+SUMMARY:MozTour Asia Pacific College (APC)
+DESCRIPTION:For the very first time\, the Mozilla Philippines Community wi
+ ll be visiting the Asia Pacific College (APC). \n\nAsia Pacific College wa
+ s established in 1991 as a non-profit joint venture between IBM Philippine
+ s and the SM Foundation. It was envisioned as a learning institution that 
+ produces graduates that fulfill information technology industry demands.
+URL:https://reps.mozilla.org/e/moztour-asia-pacific-college-apc/
+SEQUENCE:6
+X-COORDINATES-LAT:14.531006345
+X-COORDINATES-LON:121.02158761
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

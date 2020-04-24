@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6681
+CLASS:PUBLIC
+DTSTAMP:20200423T110532Z
+DTSTART:20170601T033000Z
+DTEND:20170602T113000Z
+LOCATION:SNS College of Technology\, Coimbatore\, India
+SUMMARY:Mozilla Global Sprint Coimbatore 2017
+DESCRIPTION:Mozilla’s Global Sprint\, a fun\, fast-paced and two-day col
+ laborative event to hack and build projects for a healthy Internet. You&#39;re
+  joining a diverse network of scientists\, educators\, artists\, engineers
+  and others as we come together in person and online to innovate in the op
+ en
+URL:https://reps.mozilla.org/e/mozilla-global-sprint-coimbatore-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:10.9553488996
+X-COORDINATES-LON:76.993560791
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

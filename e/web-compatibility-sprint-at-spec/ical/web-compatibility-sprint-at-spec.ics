@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7001
+CLASS:PUBLIC
+DTSTAMP:20200423T103910Z
+DTSTART:20170916T043000Z
+DTEND:20170916T063000Z
+LOCATION:Sardar Patel College of Engineering\, Vidhyanagar-Vadtal Road\, B
+ akrol\,\, Anand\, Gujarat 318315\, Anand\, India
+SUMMARY:Web Compatibility Sprint at SPEC
+DESCRIPTION:To educate students with the concept of Opensource\, why it&#39;s 
+ important and how they can be a part of an ever growing open source commun
+ ity like Mozilla. In this event participants will learn Web Compatibility 
+ using webcompat framework (one of emerging future technologies by Mozilla)
+ .
+URL:https://reps.mozilla.org/e/web-compatibility-sprint-at-spec/
+SEQUENCE:1
+X-COORDINATES-LAT:22.567943164
+X-COORDINATES-LON:72.9911497235
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

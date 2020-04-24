@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1850
+CLASS:PUBLIC
+DTSTAMP:20200423T201804Z
+DTSTART:20140312T220000Z
+DTEND:20140312T230000Z
+LOCATION:SEED BH\, Belo Horizonte\, Brazil
+SUMMARY:Firefox OS at SEED - BH
+DESCRIPTION:Workshop on Firefox OS at SEED BH.\n\nSEED is a acceleration p
+ rogram from Brazilian government\, that&#39;s gathering together 40 startups f
+ rom all over the world. They&#39;re inovative businesses with lots of market a
+ bsorption. A lot of people with product experience and much more.
+URL:https://reps.mozilla.org/e/firefox-os-at-seed-bh/
+SEQUENCE:3
+X-COORDINATES-LAT:-19.9301266063
+X-COORDINATES-LON:-43.9443118573
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

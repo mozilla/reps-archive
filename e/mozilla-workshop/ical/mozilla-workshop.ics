@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5044
+CLASS:PUBLIC
+DTSTAMP:20200423T155527Z
+DTSTART:20160115T050000Z
+DTEND:20160115T080000Z
+LOCATION:Mauritius Institute of Education\, Reduit\, Mauritius
+SUMMARY:Mozilla workshop for Pedago-Technician
+DESCRIPTION:This Mozilla workshop for Pedagogy-technician was planned sinc
+ e last year during a meeting I had with them in December. They are from th
+ e Centre for Open and Distance Learning of the Mauritius Institute of Educ
+ ation. The main objective of this workshop was to introduce Mozilla and Mo
+ zilla products\, and how the latter can be used to implement in the curric
+ ulum.
+URL:https://reps.mozilla.org/e/mozilla-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.230657201
+X-COORDINATES-LON:57.5010108878
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

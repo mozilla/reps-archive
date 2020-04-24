@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1015
+CLASS:PUBLIC
+DTSTAMP:20200423T211252Z
+DTSTART:20130908T043000Z
+DTEND:20130908T113000Z
+LOCATION:Gokulam Park\, Kochi\, India
+SUMMARY:Mozilla Kerala Community Meetup 1.0
+DESCRIPTION:A meetup to inaugurate the Mozilla community in Kerala and to 
+ get together and plan the future activities of Mozilla community in Kerala
+ .
+URL:https://reps.mozilla.org/e/mozilla-community-meetup-kerala/
+SEQUENCE:14
+X-COORDINATES-LAT:9.994215
+X-COORDINATES-LON:76.290548
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

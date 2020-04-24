@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5576
+CLASS:PUBLIC
+DTSTAMP:20200423T151743Z
+DTSTART:20160625T043000Z
+DTEND:20160625T073000Z
+LOCATION:Salem Startup Community Space\, Salem\, India
+SUMMARY:MozCoffee - Salem
+DESCRIPTION:- Discussion about Weeks of Contribution program.\n- Improving
+  contributions &amp; contributors around Salem\n- Discussion about future even
+ ts
+URL:https://reps.mozilla.org/e/mozcoffee-salem/
+SEQUENCE:1
+X-COORDINATES-LAT:11.6721259511
+X-COORDINATES-LON:78.1580389739
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

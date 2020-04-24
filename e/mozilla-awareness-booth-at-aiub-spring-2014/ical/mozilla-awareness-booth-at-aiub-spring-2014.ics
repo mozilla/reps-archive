@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1873
+CLASS:PUBLIC
+DTSTAMP:20200423T202626Z
+DTSTART:20140217T040000Z
+DTEND:20140218T093000Z
+LOCATION:Campus 4\, AIUB\, Banani\, Dhaka\, Banani Model Town\, Bangladesh
+SUMMARY:Mozilla Awareness Booth at AIUB\, Spring 2014
+DESCRIPTION:Firefox at AIUB has plans for this Spring &#39;14 semester\, which
+  starts with the Mozilla Awareness Booth. The booth will serve as a prelud
+ e to coming events such as Firefox OS Apps Training Day and Webmaker.
+URL:https://reps.mozilla.org/e/mozilla-awareness-booth-at-aiub-spring-2014
+ /
+SEQUENCE:7
+X-COORDINATES-LAT:23.7946216595
+X-COORDINATES-LON:90.4058554173
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

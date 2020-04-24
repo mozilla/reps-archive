@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2938
+CLASS:PUBLIC
+DTSTAMP:20200423T184307Z
+DTSTART:20141020T140000Z
+DTEND:20141023T210000Z
+LOCATION:Instituto Tecnológico de Pinotepa\, Santiago Pinotepa Nacional\,
+  Mexico
+SUMMARY:&#34;Semana Académica&#34; del Instituto Tecnológico de Pinotepa
+DESCRIPTION:During this week multiple presentations and workshops are offe
+ red to the students as well as sport events.
+URL:https://reps.mozilla.org/e/semana-academica-del-instituto-tecnologico-
+ de-pinotepa/
+SEQUENCE:4
+X-COORDINATES-LAT:16.3484511577
+X-COORDINATES-LON:-98.0426867009
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

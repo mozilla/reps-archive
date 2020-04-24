@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1385
+CLASS:PUBLIC
+DTSTAMP:20200423T204721Z
+DTSTART:20131128T090000Z
+DTEND:20131202T120000Z
+LOCATION:Irbid-Jordan\, Irbid\, Jordan
+SUMMARY:FirefoxOS Hackathon
+DESCRIPTION:We are planning to have a three days event  \, the event will 
+ be about Firefox OS mainly \, and we will give work shops about HTML5 \, C
+ SS3 \,Javascript \, and user experience .
+URL:https://reps.mozilla.org/e/firefoxos-hackathon/
+SEQUENCE:7
+X-COORDINATES-LAT:51.1793429793
+X-COORDINATES-LON:71.71875
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

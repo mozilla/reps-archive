@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1816
+CLASS:PUBLIC
+DTSTAMP:20200423T200618Z
+DTSTART:20140408T113000Z
+DTEND:20140409T151500Z
+LOCATION:Eriksbergshallen\, Gothenburg\, Sweden
+SUMMARY:LÄROMEDELSMÄSSA
+DESCRIPTION:Läromedelmässan (Education material fair) is one of the larg
+ est education events in Sweden taking place in Eriksbergshallen Gothenburg
+  with about 2000 professional \nteachers attending the event.\n\nLäromede
+ lmässan represent a forum to introduce Webmaker and Mozilla to an audienc
+ e who may have limited knowledge about Mozilla and can thus be hard for us
+  to reach.
+URL:https://reps.mozilla.org/e/laromedelsmassa/
+SEQUENCE:10
+X-COORDINATES-LAT:57.7009964219
+X-COORDINATES-LON:11.9139540195
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4001
+CLASS:PUBLIC
+DTSTAMP:20200423T171242Z
+DTSTART:20150618T170000Z
+DTEND:20150618T190000Z
+LOCATION:Mozilla Office Berlin\, Voltastrasse 5\, Berlin\, Berlin\, German
+ y
+SUMMARY:What&#39;s new in Firefox?
+DESCRIPTION:This event is organized by Florian Merz in Berlin. I&#39;m just cr
+ eating this page and help out remotely as much as I can :)\n\n\nFirefox is
+  the independent choice. Firefox is the browser to use when it&#39;s personal.
+  Florian will talk about what&#39;s new in Firefox\, what Mozilla stands for a
+ nd how Firefox protects your privacy.
+URL:https://reps.mozilla.org/e/whats-new-in-firefox/
+SEQUENCE:2
+X-COORDINATES-LAT:52.5412705177
+X-COORDINATES-LON:13.387195587
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

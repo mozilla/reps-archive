@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@651
+CLASS:PUBLIC
+DTSTAMP:20200423T215038Z
+DTSTART:20130420T060000Z
+DTEND:20130420T160000Z
+LOCATION:Mozilla Berlin (Rungestraße 22\, 10179 Berlin)\, Berlin\, German
+ y
+SUMMARY:de:hacking meetup
+DESCRIPTION:This will be a meetup for German-speaking Mozilla developers (
+ volunteers and employees). If you&#39;re not German-speaking but live in a Ger
+ man speaking territory (Germany\, Switzerland\, Austria\, ...)\, feel free
+  to join us as well!\n\nThe event is planed to happen at the Mozilla offic
+ e in Berlin.\n\nThe event organizer is julian dot viereck at googlemail do
+ t com.
+URL:https://reps.mozilla.org/e/de-hacking-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:52.5123686491
+X-COORDINATES-LON:13.4189522266
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

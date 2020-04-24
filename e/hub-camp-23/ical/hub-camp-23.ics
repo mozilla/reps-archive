@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2239
+CLASS:PUBLIC
+DTSTAMP:20200423T194418Z
+DTSTART:20140529T130000Z
+DTEND:20140529T160000Z
+LOCATION:Konstitucijos pr. 20A\, Vilnius\, Lithuania\, Vilnius\, Lithuania
+SUMMARY:Hub Camp #23
+DESCRIPTION:Swedbank is where you want to spend the afternoons of every la
+ st Friday of the month\, when the monthly Hub Camp events gather just the 
+ lot you’d want to hang out with. New information about the world\, IT an
+ d a motivation doze is guaranteed. Organized by Hub Vilnius.\n\nFind photo
+ s of the event at: https://www.facebook.com/media/set/?set=a.6801701986866
+ 47.1073741852.135424686494537&amp;type=1
+URL:https://reps.mozilla.org/e/hub-camp-23/
+SEQUENCE:3
+X-COORDINATES-LAT:54.6961820509
+X-COORDINATES-LON:25.2742910381
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

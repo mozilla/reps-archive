@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3943
+CLASS:PUBLIC
+DTSTAMP:20200423T170335Z
+DTSTART:20150711T043000Z
+DTEND:20150711T093000Z
+LOCATION:Modern Education Society&#39;s College of Engineering\, Pune\, Pune\,
+  India
+SUMMARY:Maker Party + Club Launch at MESCOE
+DESCRIPTION:This will be the launch of the Firefox Club at Modern College 
+ as well as their first Maker Party for the season. Detailed sessions on We
+ bmaker tools including hands-on.\n\nEdit: Event postponed.
+URL:https://reps.mozilla.org/e/maker-party-club-launch-at-mescoe/
+SEQUENCE:5
+X-COORDINATES-LAT:18.5111108306
+X-COORDINATES-LON:73.857563
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

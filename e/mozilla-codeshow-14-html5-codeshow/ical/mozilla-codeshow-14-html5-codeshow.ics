@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4006
+CLASS:PUBLIC
+DTSTAMP:20200423T171247Z
+DTSTART:20150618T170000Z
+DTEND:20150618T190000Z
+LOCATION:Via Aurelio Saliceti\, 10\, 00153 Roma\, Italy\, Rome\, Italy
+SUMMARY:Mozilla Codeshow - #14 HTML5 Codeshow
+DESCRIPTION:Talk of the day with example and code:\n\nFirefox OS Developme
+ nt for Newbie\n\nBreak the Web down with the Firefox Tool!
+URL:https://reps.mozilla.org/e/mozilla-codeshow-14-html5-codeshow/
+SEQUENCE:3
+X-COORDINATES-LAT:41.8820377235
+X-COORDINATES-LON:12.4673652645
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

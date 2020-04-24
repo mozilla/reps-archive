@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3469
+CLASS:PUBLIC
+DTSTAMP:20200423T174816Z
+DTSTART:20150301T050000Z
+DTEND:20150301T083000Z
+LOCATION:UIT RGPV\, Bhopal\, Bhopal\, India
+SUMMARY:Coherent Club Inauguration @ UIT
+DESCRIPTION:We are new club in Our region and we want to share about us . 
+ In this way we are doing an Inauguration in our campus. We also teach newb
+ ies about our #teachtheweb mission and make them a decorator of web.
+URL:https://reps.mozilla.org/e/coherent-club-inaugration-uit/
+SEQUENCE:3
+X-COORDINATES-LAT:23.2410203633
+X-COORDINATES-LON:77.417145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

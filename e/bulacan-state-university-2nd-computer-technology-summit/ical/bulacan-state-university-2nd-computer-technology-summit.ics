@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3510
+CLASS:PUBLIC
+DTSTAMP:20200423T175541Z
+DTSTART:20150218T000000Z
+DTEND:20150218T090000Z
+LOCATION:Bulacan State University\, Malolos\, Philippines
+SUMMARY:Bulacan State University 2nd Computer Technology Summit
+DESCRIPTION:The Association of Computer Technology Students (ACTS) we be h
+ aving an annual activity for the Computer Technology Students entitled “
+ 2nd Computer Technology Summit” with the theme “Molding the Computer T
+ echnology Generation for Better Future” on February 18\, 2015 at the Bul
+ acan Capitol Gymnasium from 8:00am to 5:00pm.
+URL:https://reps.mozilla.org/e/bulacan-state-university-2nd-computer-techn
+ ology-summit/
+SEQUENCE:1
+X-COORDINATES-LAT:14.7787554724
+X-COORDINATES-LON:120.891540516
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

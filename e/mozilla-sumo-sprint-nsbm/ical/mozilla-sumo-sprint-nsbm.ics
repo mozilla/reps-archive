@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7870
+CLASS:PUBLIC
+DTSTAMP:20200423T092540Z
+DTSTART:20180608T033000Z
+DTEND:20180608T063000Z
+LOCATION:National School of Business Management Sri Lanka\, Homagama\, Sri
+  Lanka
+SUMMARY:Mozilla SUMO Sprint - NSBM
+DESCRIPTION:Mozilla SUMO Sprint organized by Campus Club of NSBM
+URL:https://reps.mozilla.org/e/mozilla-sumo-sprint-nsbm/
+SEQUENCE:2
+X-COORDINATES-LAT:6.8200251
+X-COORDINATES-LON:80.0411498
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

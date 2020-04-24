@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1104
+CLASS:PUBLIC
+DTSTAMP:20200423T211730Z
+DTSTART:20130818T170000Z
+DTEND:20130818T190000Z
+LOCATION:Smaka Vasaplatsen 3 411 26 Göteborg\, Gothenburg\, Sweden
+SUMMARY:Gothenburg MozCafe
+DESCRIPTION:Community building meetup for all Mozillians and anyone else i
+ nterested in the open web! We&#39;ll be focusing on localization\, how to get 
+ involved\, and community organization.
+URL:https://reps.mozilla.org/e/gothenburg-mozcafe/
+SEQUENCE:4
+X-COORDINATES-LAT:57.6998477374
+X-COORDINATES-LON:11.9694972038
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

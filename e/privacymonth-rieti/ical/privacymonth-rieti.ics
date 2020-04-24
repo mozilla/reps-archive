@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6260
+CLASS:PUBLIC
+DTSTAMP:20200423T113250Z
+DTSTART:20170130T160000Z
+DTEND:20170130T180000Z
+LOCATION:Biblioteca Paroniana Comunale\, Rieti\, Italy
+SUMMARY:PrivacyMonth@Rieti
+DESCRIPTION:The first event for the Mozilla Club Rieti dedicated to Privac
+ yMonth.\nThe organizers are both TechSpeakers and prepared amazing talks a
+ bout privacy without be too much technical\, because the web literacy it&#39;s
+  important and need to be most simple as possible!
+URL:https://reps.mozilla.org/e/privacymonth-rieti/
+SEQUENCE:2
+X-COORDINATES-LAT:42.40165
+X-COORDINATES-LON:12.85944
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1489
+CLASS:PUBLIC
+DTSTAMP:20200423T204618Z
+DTSTART:20131130T050000Z
+DTEND:20131130T090000Z
+LOCATION:Commune\, Valero st.\, Makati City\, Philippines
+SUMMARY:WoMoz Firefox OS Workshop
+DESCRIPTION:The Mozilla Philippines Community invites you to join us on Sa
+ turday\, 23 November 2013 at the Coffee Bean and Tea Leaf Two E-com Tower 
+ (near Mall of Asia) in Pasay City for an all-girl mini workshop on Firefox
+  OS\, Mozilla&#39;s open source operating system for the mobile web.\n\nThis w
+ orkshop is NOT a competition\; it&#39;s an opportunity to start creating mobil
+ e apps for Firefox Marketplace and the coming Firefox OS mobile devices. W
+ e&#39;ll introduce you to the tools you need to get started.
+URL:https://reps.mozilla.org/e/womoz-firefox-os-workshop/
+SEQUENCE:4
+X-COORDINATES-LAT:14.5603183076
+X-COORDINATES-LON:121.026279151
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

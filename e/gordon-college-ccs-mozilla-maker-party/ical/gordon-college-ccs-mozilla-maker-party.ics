@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2479
+CLASS:PUBLIC
+DTSTAMP:20200423T192238Z
+DTSTART:20140726T010000Z
+DTEND:20140726T090000Z
+LOCATION:Olongapo City Convention Center Function Rooms\, Olongapo\, Phili
+ ppines
+SUMMARY:Gordon College CCS Mozilla Maker Party
+DESCRIPTION:Mozilla Philippines Community will conduct a Maker Party to  p
+ articipating students of The Phoenix I.T. Olympiad which is an annual  eve
+ nt where Gordon College invite HighSchool students from Olongapo City  and
+  near by provinces in a friendly competition on I.T. Skills. Our  team wil
+ l facilitate and teach the participants the basics of the web  using the w
+ ebmaker tools\, specifically the Appmaker tool\, its a great opportunity t
+ o discuss and  encourage them to join the FSA program of Mozilla.
+URL:https://reps.mozilla.org/e/gordon-college-ccs-mozilla-maker-party/
+SEQUENCE:9
+X-COORDINATES-LAT:14.850503356
+X-COORDINATES-LON:120.367813096
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3378
+CLASS:PUBLIC
+DTSTAMP:20200423T180411Z
+DTSTART:20150128T043000Z
+DTEND:20150128T073000Z
+LOCATION:Gyan Ganga Institute of Technology and Science\, Jabalpur\, India
+SUMMARY:Inaugration of Firefox club at GGITS
+DESCRIPTION:In this event We will talk about Mozilla Mission and it Produc
+ ts in which various webmaker tools will be demonstrate and awesome makes w
+ ill be given by Attendees. This will be a inaugural event in GGITS\, Jabal
+ pur. FSA Deepak Jain will form a FSA club in his college as a club Lead. C
+ ontact Deepak : 9229327777
+URL:https://reps.mozilla.org/e/inaugration-of-firefox-club-at-ggits/
+SEQUENCE:1
+X-COORDINATES-LAT:23.1638768036
+X-COORDINATES-LON:79.9506515262
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

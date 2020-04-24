@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8445
+CLASS:PUBLIC
+DTSTAMP:20200423T083922Z
+DTSTART:20190309T033000Z
+DTEND:20190310T133000Z
+LOCATION:Campus 17\, Auditorium\, KIIT\, Bhubaneswar\, India
+SUMMARY:Mozilla Fest
+DESCRIPTION:Mozilla Fest is a 2 day tech fest with the first day having We
+ bVR Workshop and Web Extension Workshop. The following day will a Mozilla 
+ Hackathon 3.0 \n\nThe webVR Workshop was taken by Ms Bhavna Meenakshi and 
+ Web Extension Workshops was taken by Mr Kartikeyan. \n\n4 guests were ther
+ e as guests for hackathon day even after the both invited speakers backed 
+ out. And 2 other judges were there. We selected Top 10 teams for presentat
+ ion and then top 3 were awarded.
+URL:https://reps.mozilla.org/e/mozilla-fest/
+SEQUENCE:2
+X-COORDINATES-LAT:20.3922616441
+X-COORDINATES-LON:85.623664856
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

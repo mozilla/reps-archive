@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5216
+CLASS:PUBLIC
+DTSTAMP:20200423T154307Z
+DTSTART:20160309T110000Z
+DTEND:20160309T133000Z
+LOCATION:Computer Information Club\, National Taiwan Normal University\, D
+ a-an District\, Taiwan
+SUMMARY:Orientation talk of NTNU service learning project
+DESCRIPTION:Collaboration between MozTW\, Wikimedia\, OSSACC and NTNU Comp
+ uter Information Club\, we want to recruit students contributing to OSS pr
+ ojects as their school service learning credit.\n\nI will give a brief int
+ roduction to Mozilla and contribution opportunity of each projects to stud
+ ents tonight.
+URL:https://reps.mozilla.org/e/orientation-talk-of-ntnu-service-learning-p
+ roject-1/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0256596567
+X-COORDINATES-LON:121.528227925
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

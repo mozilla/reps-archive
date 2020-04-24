@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1405
+CLASS:PUBLIC
+DTSTAMP:20200423T210129Z
+DTSTART:20131013T150000Z
+DTEND:20131027T015500Z
+LOCATION:The internet\, The internet\, Brazil
+SUMMARY:Webmaker Portuguese Localizathon
+DESCRIPTION:Webmaker is not yet localized to Portuguese. This is so so sad
+  :(\n\nYou know\, teaching and learning goes way better when it&#39;s easy to 
+ communicate\, and language is a big barrier for truly awesome communicatio
+ n. So\, localizing Webmaker to Portuguese is a must have!\n\nLet&#39;s get thi
+ s localized and help everyone that&#39;s willing to teach and learn the Web in
+  Portuguese! :D\n\nIf you need a prize for this\, you&#39;ll get a hug from Pa
+ naggio as soon as you two meet. Promise!
+URL:https://reps.mozilla.org/e/webmaker-portuguese-localizathon/
+SEQUENCE:1
+X-COORDINATES-LAT:-15.2841851141
+X-COORDINATES-LON:-49.21875
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

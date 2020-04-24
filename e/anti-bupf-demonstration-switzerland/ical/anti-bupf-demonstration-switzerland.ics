@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2345
+CLASS:PUBLIC
+DTSTAMP:20200423T194244Z
+DTSTART:20140531T130000Z
+DTEND:20140531T160000Z
+LOCATION:Bundesplatz Ber\, Berne\, Switzerland
+SUMMARY:Anti BÜPF Demonstration Switzerland
+DESCRIPTION:the Swiss Government wants to increase the surveillance of eve
+ ry Swiss citizen and tourist. The new proposal for the federal law for com
+ munication and post surveillance suggests to increase duration of the gene
+ ral communication metadata collection to 12 month\, instead of the 6 month
+  we have now. Further they want to have the possibility to inject software
+  to everyone&#39;s computer to &#34;make lawful investigations&#34; more successful.
+URL:https://reps.mozilla.org/e/anti-bupf-demonstration-switzerland/
+SEQUENCE:1
+X-COORDINATES-LAT:46.9470091301
+X-COORDINATES-LON:7.44427013393
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

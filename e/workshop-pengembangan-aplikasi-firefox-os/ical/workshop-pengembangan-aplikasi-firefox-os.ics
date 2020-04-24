@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1551
+CLASS:PUBLIC
+DTSTAMP:20200423T204102Z
+DTSTART:20131214T020000Z
+DTEND:20131214T050000Z
+LOCATION:Universitas Brawijaya\, Malang\, Indonesia
+SUMMARY:Workshop Pengembangan Aplikasi Firefox OS
+DESCRIPTION:Bertujuan untuk mengenalkan mahasiswa tentang apa itu Firefox 
+ OS dan bagaimana memulai mengembangkan aplikasi Firefox OS
+URL:https://reps.mozilla.org/e/workshop-pengembangan-aplikasi-firefox-os/
+SEQUENCE:3
+X-COORDINATES-LAT:-7.95254868974
+X-COORDINATES-LON:112.613820881
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

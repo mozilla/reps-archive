@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@849
+CLASS:PUBLIC
+DTSTAMP:20200423T214524Z
+DTSTART:20130510T230000Z
+DTEND:20130511T020000Z
+LOCATION:Orsai Bar\, Humberto Primo 471\, San Telmo\, Ciudad de Buenos Air
+ es\, Argentina
+SUMMARY:Proyección Firefox Flicks 2013 - Buenos Aires
+DESCRIPTION:Proyectaremos los cortos ganadores del año pasado y los prime
+ ros ganadores del 2013 enviados como pioneros.\n\n\nAdemás haremos alguno
+ s concursos para que se puedan ganar premios.\n\n\nWe will project winners
+  from last year Firefox Flicks contest and the first early-bird winner
+URL:https://reps.mozilla.org/e/proyeccion-firefox-flicks-2013-buenos-aires
+ /
+SEQUENCE:5
+X-COORDINATES-LAT:-34.6206185667
+X-COORDINATES-LON:-58.3733010292
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

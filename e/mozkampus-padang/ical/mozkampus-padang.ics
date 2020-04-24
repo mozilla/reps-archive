@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@455
+CLASS:PUBLIC
+DTSTAMP:20200423T221141Z
+DTSTART:20130208T070000Z
+DTEND:20130208T110000Z
+LOCATION:UPI Padang (University)\, Padang\, Indonesia
+SUMMARY:MozKampus Padang
+DESCRIPTION:Mozilla Indonesia Community will held a talk about Mozilla Pro
+ jects and Updates\, Firefox OS Introduction\, sharing about how to join an
+ d contribute in Mozilla projects. This event will be held at UPI Padang Un
+ iversity at Padang\, West Sumatra\, Indonesia. 
+URL:https://reps.mozilla.org/e/mozkampus-padang/
+SEQUENCE:0
+X-COORDINATES-LAT:-1.06561238988
+X-COORDINATES-LON:100.524902344
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

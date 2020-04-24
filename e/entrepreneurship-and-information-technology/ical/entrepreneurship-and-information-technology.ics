@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1750
+CLASS:PUBLIC
+DTSTAMP:20200423T202813Z
+DTSTART:20140210T110000Z
+DTEND:20140210T170000Z
+LOCATION:JU Srednja Stručna Škola\, Nikšic\, Montenegro
+SUMMARY:Entrepreneurship and information technology
+DESCRIPTION:&#34;Entrepreneurship and information technology&#34; is project based
+  on improvements in society. We want to inspire young people\, highschool 
+ students\, to think about everyday things\, as entrepreneurial opportuniti
+ es. If you see something that can be better with some tech solution\, you 
+ can build that solution\, earn\, and create better everyday life.\n\nEvent
+  is just for the students of high schools in Niksic. And the students will
+  be chosen by their teachers.
+URL:https://reps.mozilla.org/e/entrepreneurship-and-information-technology
+ /
+SEQUENCE:5
+X-COORDINATES-LAT:42.773982677
+X-COORDINATES-LON:18.9603620765
+X-COUNTRY-CODE:me
+END:VEVENT
+
+END:VCALENDAR

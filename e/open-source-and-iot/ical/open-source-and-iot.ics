@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6231
+CLASS:PUBLIC
+DTSTAMP:20200423T113615Z
+DTSTART:20170117T030000Z
+DTEND:20170117T060000Z
+LOCATION:ENTC seminar hall\, modern college of engineering\, shivajinagar 
+ \,pune \, india\, Pune\, India
+SUMMARY:Open source and IoT
+DESCRIPTION:FoxCodes campus club lead by Ashwin Phadke has organized an ev
+ ent on Open source and IOT. The seminar will focus on core areas of IOT an
+ d it&#39;s future advancements. IOT being the recent technological trend is an
+  combination of open web and web devices. Facts and figures\, illustration
+ s\, demos and IOT in industry will be looked upon in the seminar. For deta
+ ils please visit the above URL.
+URL:https://reps.mozilla.org/e/open-source-and-iot/
+SEQUENCE:4
+X-COORDINATES-LAT:18.5254941075
+X-COORDINATES-LON:433.845802188
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

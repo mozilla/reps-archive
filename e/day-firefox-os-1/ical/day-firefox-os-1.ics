@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1613
+CLASS:PUBLIC
+DTSTAMP:20200423T204540Z
+DTSTART:20131130T160000Z
+DTEND:20131130T230000Z
+LOCATION:CUNORTE http://www.cunorte.udg.mx/\, Colotlán\, Mexico
+SUMMARY:Day Firefox OS
+DESCRIPTION:He gave an introduction to Firefox OS and speak of Mozilla Nat
+ ivo project and Firefox l10n in Wirárika.
+URL:https://reps.mozilla.org/e/day-firefox-os-1/
+SEQUENCE:1
+X-COORDINATES-LAT:22.1108080943
+X-COORDINATES-LON:-103.263194561
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2428
+CLASS:PUBLIC
+DTSTAMP:20200423T191621Z
+DTSTART:20140811T080000Z
+DTEND:20140818T160000Z
+LOCATION:Budapest\, Budapest\, Hungary
+SUMMARY:Sziget Festival 2014 CANCELLED
+DESCRIPTION:This is a festival where we can reach youngsters.\n* We are go
+ ing to promote Firefox (desktop\, mobil\, OS) and other free softwares\n* 
+ Promote webmaker and popcorn maker\n* Safe internet usage\n* Get feedbacks
+ \n* Recuit new members\, student ambassadors
+URL:https://reps.mozilla.org/e/sziget-festival-2014/
+SEQUENCE:30
+X-COORDINATES-LAT:47.5523944074
+X-COORDINATES-LON:19.0555343404
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

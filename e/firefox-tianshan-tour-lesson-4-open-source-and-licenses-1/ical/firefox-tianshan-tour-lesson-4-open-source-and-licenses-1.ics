@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4763
+CLASS:PUBLIC
+DTSTAMP:20200423T161920Z
+DTSTART:20151105T033000Z
+DTEND:20151105T050000Z
+LOCATION:Xinjiang Education Institute Shiyan Primary School\, urumqi\, Chi
+ na
+SUMMARY:Firefox Tianshan tour -Lesson 4 - Open source and licenses
+DESCRIPTION:认识parapara，让我们一起来创作一些什么
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson-4-open-source-
+ and-licenses-1/
+SEQUENCE:2
+X-COORDINATES-LAT:43.8024115501
+X-COORDINATES-LON:2607.60639614
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

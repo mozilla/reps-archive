@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3548
+CLASS:PUBLIC
+DTSTAMP:20200423T174619Z
+DTSTART:20150307T080000Z
+DTEND:20150307T100000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Taipei City\, Taiwa
+ n
+SUMMARY:Kano Workshop for Kids
+DESCRIPTION:MozTW community join with Kano Team to host a workshop at Mozi
+ lla Community Space Taipei for kids to try Kano and learn make a computer.
+URL:https://reps.mozilla.org/e/kano-workshop-for-kids/
+SEQUENCE:7
+X-COORDINATES-LAT:25.0440474878
+X-COORDINATES-LON:121.532296657
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

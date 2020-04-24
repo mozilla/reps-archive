@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7458
+CLASS:PUBLIC
+DTSTAMP:20200423T095304Z
+DTSTART:20180317T033000Z
+DTEND:20180317T103000Z
+LOCATION:PES University\, Bangalore\, India
+SUMMARY:Hands on session with WebVR along with Diversity &amp; inclusion in op
+ en source environment
+DESCRIPTION:Open Source Development\nMozilla XR\nVirtual Reality vs Augmen
+ ted Reality vs Mixed Reality\nUse cases of VR\, AR\, MR\nIntroduction to A
+ frame\nOpen Source contests  \nDiversity &amp; inclusion
+URL:https://reps.mozilla.org/e/let-s-dive-into-opensource/
+SEQUENCE:11
+X-COORDINATES-LAT:12.934495
+X-COORDINATES-LON:77.534516
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

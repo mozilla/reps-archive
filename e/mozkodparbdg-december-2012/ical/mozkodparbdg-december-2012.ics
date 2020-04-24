@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@308
+CLASS:PUBLIC
+DTSTAMP:20200423T223440Z
+DTSTART:20121215T060000Z
+DTEND:20121215T080000Z
+LOCATION:Clio Cafe &amp; Resto\, Bandung\, Indonesia
+SUMMARY:MozKopDarBDG Desember 2012
+DESCRIPTION:Based on #MozCoffee Concept\, which MozKopdar is localized ver
+ sion of &#34;MozCoffee&#34;. This is a monthly meetup for Mozillian in Bandung and
+  people who interested about Mozilla projects. In this meetup\, we will ta
+ lk about Firefox OS and L10N Sundanese.
+URL:https://reps.mozilla.org/e/mozkodparbdg-december-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.904153
+X-COORDINATES-LON:107.62811
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

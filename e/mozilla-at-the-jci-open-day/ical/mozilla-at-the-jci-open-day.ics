@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@221
+CLASS:PUBLIC
+DTSTAMP:20200423T224647Z
+DTSTART:20121110T053000Z
+DTEND:20121110T103000Z
+LOCATION:Caudan Waterfront\, Port Louis\, Mauritius
+SUMMARY:Mozilla at the JCI Open Day
+DESCRIPTION:The is the November 2012 Mozilla Mauritius event. The Junior C
+ hamber International (JCI) - Mauritius branch is organising an Open Day on
+  the 3 November 2012 in the Port Louis
+URL:https://reps.mozilla.org/e/mozilla-at-the-jci-open-day/
+SEQUENCE:0
+X-COORDINATES-LAT:-20.1608910016
+X-COORDINATES-LON:57.4981820583
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

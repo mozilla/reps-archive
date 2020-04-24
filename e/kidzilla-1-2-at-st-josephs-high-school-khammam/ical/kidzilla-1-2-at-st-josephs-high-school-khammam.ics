@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1869
+CLASS:PUBLIC
+DTSTAMP:20200423T202440Z
+DTSTART:20140222T050000Z
+DTEND:20140222T100000Z
+LOCATION:St.Joseph&#39;s High School\, Khammam\, India
+SUMMARY:KidZilla 1.2 at St.Joseph&#39;s High School\, Khammam
+DESCRIPTION:After a very successful initiative in teaching the kids the ba
+ sics of computing\, internet and web development\, the Sathyabama Firefox 
+ Club is on their second event under KidZilla.\nThe main motive of this eve
+ nt is to go for a practical approach on web development and teach school k
+ ids about web development by introducing webmaker tools.
+URL:https://reps.mozilla.org/e/kidzilla-1-2-at-st-josephs-high-school-kham
+ mam/
+SEQUENCE:1
+X-COORDINATES-LAT:17.2490217688
+X-COORDINATES-LON:80.143322
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

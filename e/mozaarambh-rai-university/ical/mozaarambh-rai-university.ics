@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7110
+CLASS:PUBLIC
+DTSTAMP:20200423T103011Z
+DTSTART:20171006T043000Z
+DTEND:20171006T063000Z
+LOCATION:Jharkhand Rai University\, Ranchi\, India
+SUMMARY:MozAarambh Jharkhand Rai University
+DESCRIPTION:Focusing on:\n# Launching Mozilla Club\n# Contribution areas \
+ n# Recruiting new mozillians \n# Discussing future events \n# Launch of Fi
+ refox 57
+URL:https://reps.mozilla.org/e/mozaarambh-rai-university/
+SEQUENCE:2
+X-COORDINATES-LAT:23.4052031
+X-COORDINATES-LON:85.2512281
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

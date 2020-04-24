@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2888
+CLASS:PUBLIC
+DTSTAMP:20200423T184701Z
+DTSTART:20141011T070000Z
+DTEND:20141012T150000Z
+LOCATION:Wikimedia Deutschland\, Tempelhofer Ufer 23-24\, 10963\, Germany
+SUMMARY:AdaCamp - Berlin
+DESCRIPTION:AdaCamp is an unconference dedicated to increasing women’s p
+ articipation in open technology and culture: open source software\, Wikipe
+ dia and other wiki-related projects\, open knowledge and education\, open 
+ government and open data\, open hardware and appropriate technology\, libr
+ ary technology\, creative fan culture\, remix culture\, translation/locali
+ zation/internationalization\, and more.
+URL:https://reps.mozilla.org/e/adacamp-berlin/
+SEQUENCE:7
+X-COORDINATES-LAT:52.4986012949
+X-COORDINATES-LON:13.3807282441
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

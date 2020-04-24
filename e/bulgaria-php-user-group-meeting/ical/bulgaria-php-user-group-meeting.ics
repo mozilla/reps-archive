@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1518
+CLASS:PUBLIC
+DTSTAMP:20200423T204846Z
+DTSTART:20131123T080000Z
+DTEND:20131123T140000Z
+LOCATION:8 Racho Petkov Kazandzhiata\,  Sofia 1776\,  Bulgaria\, Sofia\, B
+ ulgaria
+SUMMARY:Bulgaria PHP User Group Meeting
+DESCRIPTION:This group is intended to host members of the Bulgarian PHP co
+ mmunity who wish to join. Bulgaria PHP aims to organize regular user grоu
+ p meetings on a biweekly basis in order to keep PHP developers in touch\, 
+ share thoughts\, present interesting solutions\, new technologies\, exchan
+ ge ideas related to our work.
+URL:https://reps.mozilla.org/e/bulgaria-php-user-group-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:42.618533
+X-COORDINATES-LON:23.368287
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

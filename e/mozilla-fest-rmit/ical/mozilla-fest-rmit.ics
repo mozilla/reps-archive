@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1925
+CLASS:PUBLIC
+DTSTAMP:20200423T201018Z
+DTSTART:20140329T103000Z
+DTEND:20140329T133000Z
+LOCATION:RMIT College\, Punjab\, India
+SUMMARY:Mozilla Fest- RIMT
+DESCRIPTION:Kick-off event at RIMT where familiarizing OpenSource Software
+  and Firefox OS\, sharing the insights of OpenWeb will take place as a two
+  day event with inaugurating Firefox Club.
+URL:https://reps.mozilla.org/e/mozilla-fest-rmit/
+SEQUENCE:5
+X-COORDINATES-LAT:30.3317933027
+X-COORDINATES-LON:74.8666991293
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

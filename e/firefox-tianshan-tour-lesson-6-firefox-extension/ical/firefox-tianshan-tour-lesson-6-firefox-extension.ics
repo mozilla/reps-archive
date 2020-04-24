@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4861
+CLASS:PUBLIC
+DTSTAMP:20200423T160717Z
+DTSTART:20151203T092000Z
+DTEND:20151203T103000Z
+LOCATION:Xinjiang Education Institute Shiyan Primary School\, urumqi\, Chi
+ na
+SUMMARY:Firefox Tianshan tour- The Hour of Code\, students network makeup 
+ basics investigation
+DESCRIPTION:The Hour of Code\, students network makeup basics investigatio
+ n After the last event\, we found that the best primary school in Xinjiang
+ \, a large area situation goggles\, thimble can not open\, we try differen
+ t room\, different age test\, hoping to find a solution to the problem\, w
+ e find the next event i\, if we continue to rely on the network\, then the
+  student is not interested in more and more\, and even hate Firefox experi
+ ence
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson-6-firefox-exte
+ nsion/
+SEQUENCE:5
+X-COORDINATES-LAT:43.8011648603
+X-COORDINATES-LON:2607.61542982
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2973
+CLASS:PUBLIC
+DTSTAMP:20200423T183932Z
+DTSTART:20141025T143000Z
+DTEND:20141025T210000Z
+LOCATION:Universidad Nacional de Ingenieria (UNI RUPAP)\, Managua\, Nicara
+ gua
+SUMMARY:App Day UNI-RUPAP
+DESCRIPTION:Se realizara un App Day en la Universidad Nacional de Ingenier
+ ia En el Recinto RUPAP\, donde se mostrara el desarrollo de aplicaciones p
+ ara Firefox OS. Posteriormente para en Noviembre se realizara una premiaci
+ ón a la Mejor App.
+URL:https://reps.mozilla.org/e/app-day-uni-rupap/
+SEQUENCE:5
+X-COORDINATES-LAT:12.1365052112
+X-COORDINATES-LON:-86.2239804282
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

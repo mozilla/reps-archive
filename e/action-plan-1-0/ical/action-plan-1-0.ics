@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2463
+CLASS:PUBLIC
+DTSTAMP:20200423T193228Z
+DTSTART:20140625T203000Z
+DTEND:20140626T143000Z
+LOCATION:Hyderabad\, Secunderabad\, India
+SUMMARY:Action Plan 1.0
+DESCRIPTION:A meet for a Few Active FSA&#39;s to discuss about the Upcoming Ma
+ ker fest and the basic Template of how a Maker Party should be conducted. 
+ To discuss about How efficiently we can use our Community Space.
+URL:https://reps.mozilla.org/e/action-plan-1-0/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

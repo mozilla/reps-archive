@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4474
+CLASS:PUBLIC
+DTSTAMP:20200423T161214Z
+DTSTART:20151121T070000Z
+DTEND:20151121T170000Z
+LOCATION:Goethe Institut Kamerun\, Yaounde\, Cameroon
+SUMMARY:MozFest Cameroon
+DESCRIPTION:Mozilla&#39;s annual\, hands-on festival (affectionately known as 
+ MozFest) is dedicated to forging the future of the open Web. It&#39;s where pa
+ ssionate technologists\, educators and creators unite to hack on innovativ
+ e solutions for the Web&#39;s most pressing issues. \nLocalized Event in Camer
+ oon for all Mozillians based on technical workshop sessions for FSA\, WoMo
+ z Members\, WebMaker\, Developpers/Coders\, Bloggers\, Social Media &amp; IT S
+ pecialists\n\n http://online.fliphtml5.com/etft/bdhq/#p=2
+URL:https://reps.mozilla.org/e/mozfest-cameroon/
+SEQUENCE:3
+X-COORDINATES-LAT:3.72905419614
+X-COORDINATES-LON:11.5810543299
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2123
+CLASS:PUBLIC
+DTSTAMP:20200423T200559Z
+DTSTART:20140409T100000Z
+DTEND:20140409T123000Z
+LOCATION:CSE Dept \, Level-4 \, CUET\, Chittagong\, Bangladesh
+SUMMARY:INTRO TO CONTRIBUTION AND FSA PROGRAM
+DESCRIPTION:Awareness event where students will be introduced with Webmake
+ r \, Appmaker \, Firefox OS \, mozilla \, L10n\, SuMo and FSA program. Fut
+ ure club activities of CUET Fx Club will be demonstrated by their club Lea
+ d Sourav Palit Rana. It&#39;s basically an initiative to have a fresh  restart
+  of CUET Fx Club which is taken by their FSA Akramul Yeasin\, Nafiul Panth
+ a \, Imtiaz Noor Piyal \, Omar Hayder Jayed.
+URL:https://reps.mozilla.org/e/intro-to-contribution-and-fsa-program/
+SEQUENCE:15
+X-COORDINATES-LAT:22.3372681176
+X-COORDINATES-LON:91.7905425746
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

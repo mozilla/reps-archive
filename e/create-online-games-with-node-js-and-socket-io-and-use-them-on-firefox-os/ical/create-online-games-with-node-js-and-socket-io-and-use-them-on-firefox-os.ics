@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3428
+CLASS:PUBLIC
+DTSTAMP:20200423T175547Z
+DTSTART:20150217T180000Z
+DTEND:20150217T200000Z
+LOCATION:Liip\, Limmatstrasse 183\, 8005 Zürich\, Zurich\, Switzerland
+SUMMARY:Create online games with node.js and socket.io and use them on Fir
+ efox OS
+DESCRIPTION:Gerard will present a talk about developing mobile games on th
+ e web usign Node JS and socket.io. He has done quite some mobile developme
+ nt lately and has also two games in the Firefox Marketplace. He will prese
+ nt the basics. Further he can show how to get the final product to the mar
+ ketplace.
+URL:https://reps.mozilla.org/e/create-online-games-with-node-js-and-socket
+ -io-and-use-them-on-firefox-os/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3867814779
+X-COORDINATES-LON:8.52823448164
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

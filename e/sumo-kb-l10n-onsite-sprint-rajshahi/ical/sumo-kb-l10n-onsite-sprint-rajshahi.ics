@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2642
+CLASS:PUBLIC
+DTSTAMP:20200423T191004Z
+DTSTART:20140827T040000Z
+DTEND:20140827T120000Z
+LOCATION:RUET\, Rajshahi\, Rajshahi\, Bangladesh
+SUMMARY:SUMO KB l10n Onsite Sprint Rajshahi
+DESCRIPTION:We have active SUMO community in Dhaka and we have few remote 
+ contributor also. Now we want to grow SUMO community outside of Dhaka also
+ . It will be our first SUMO event outside of Dhaka. Previous  event was no
+ t only dedicated to SUMO. To Finish Webmaker SUMO KB l10n for bn-bd
+URL:https://reps.mozilla.org/e/sumo-kb-l10n-onsite-sprint-rajshahi/
+SEQUENCE:3
+X-COORDINATES-LAT:24.376286981
+X-COORDINATES-LON:88.5897216573
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

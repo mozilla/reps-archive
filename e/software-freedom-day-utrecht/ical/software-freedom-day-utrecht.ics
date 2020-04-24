@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2799
+CLASS:PUBLIC
+DTSTAMP:20200423T185627Z
+DTSTART:20140920T080000Z
+DTEND:20140920T140000Z
+LOCATION:Kranenburg praktijkonderwijs\, Utrecht\, Netherlands
+SUMMARY:Software Freedom Day Utrecht
+DESCRIPTION:Software freedom day organized by the Dutch Linux User Group
+URL:https://reps.mozilla.org/e/software-freedom-day-utrecht/
+SEQUENCE:11
+X-COORDINATES-LAT:52.0766695698
+X-COORDINATES-LON:5.13977623021
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

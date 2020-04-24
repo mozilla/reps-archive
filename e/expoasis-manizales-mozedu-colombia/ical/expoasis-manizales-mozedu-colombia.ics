@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1308
+CLASS:PUBLIC
+DTSTAMP:20200423T210256Z
+DTSTART:20131007T140000Z
+DTEND:20131010T110000Z
+LOCATION:Calle 106A Universidad Nacional Sede la Nubia\, Colombia\, Colomb
+ ia
+SUMMARY:Expoasis Manizales - MozEdu Colombia
+DESCRIPTION:Event developed by the students of Management Information Syst
+ ems\, National University of Colombia\, this year in its 9th version this 
+ will focus more on the academic work of students performing career and the
+  presentation of new technologies for application development and entrepre
+ neurship on the Internet. Moz Edu will be giving educational conferences r
+ elated to Webmaker\, firefox OS and the open web during the event.
+URL:https://reps.mozilla.org/e/expoasis-manizales-mozedu-colombia/
+SEQUENCE:3
+X-COORDINATES-LAT:5.0605082704
+X-COORDINATES-LON:-75.5011367798
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

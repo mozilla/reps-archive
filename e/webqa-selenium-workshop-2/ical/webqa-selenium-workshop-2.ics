@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@861
+CLASS:PUBLIC
+DTSTAMP:20200423T213733Z
+DTSTART:20130602T090000Z
+DTEND:20130602T150000Z
+LOCATION:Cluj Hub\, Cluj-Napoca\, Romania
+SUMMARY:WebQA Selenium Workshop #2
+DESCRIPTION:Our first workshop was a success and encouraged by people aski
+ ng for a next one\, we#re doing it. During the event we are planing to wri
+ te tests for the Mozilla WebQa projects using Selenium and Python. We are 
+ expecting both people that are doing manual testing and had little knowled
+ ge of how to write automated tests\, and participants from our first works
+ hop ready for a more advanced approach to learn and develop tests for the 
+ Mozilla web sites
+URL:https://reps.mozilla.org/e/webqa-selenium-workshop-2/
+SEQUENCE:3
+X-COORDINATES-LAT:46.773741752
+X-COORDINATES-LON:23.5995715857
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5669
+CLASS:PUBLIC
+DTSTAMP:20200423T150543Z
+DTSTART:20160805T093000Z
+DTEND:20160805T113000Z
+LOCATION:Maharashtra Institute of Technology COE\, Pune\, India
+SUMMARY:Introduction to Open Source and Mozilla
+DESCRIPTION:This is the first event getting organized at Maharashtra Insti
+ tute of Technology COE. Event organizer is Nishant Tayade.
+URL:https://reps.mozilla.org/e/introduction-to-open-source-and-mozilla/
+SEQUENCE:2
+X-COORDINATES-LAT:18.5187162832
+X-COORDINATES-LON:73.8155436507
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

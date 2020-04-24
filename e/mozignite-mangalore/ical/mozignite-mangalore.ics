@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3685
+CLASS:PUBLIC
+DTSTAMP:20200423T173545Z
+DTSTART:20150404T043000Z
+DTEND:20150405T113000Z
+LOCATION:AITM\, Bhatkal\, Mangalore\, India
+SUMMARY:MozIgnite @ Mangalore
+DESCRIPTION:This event is being conducted to kick start Contributions from
+  the area. Plan is to start a club and let people get a better insight abo
+ ut Mozilla and its mission. Also we will get people to know more about fir
+ efox OS and Apps.\nDetailed description on the planning pad.
+URL:https://reps.mozilla.org/e/mozignite-mangalore/
+SEQUENCE:1
+X-COORDINATES-LAT:12.8702686323
+X-COORDINATES-LON:74.8835449107
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1042
+CLASS:PUBLIC
+DTSTAMP:20200423T212711Z
+DTSTART:20130712T110000Z
+DTEND:20130719T140000Z
+LOCATION:TBD\, Dhaka\, Chittagong\, Bangladesh
+SUMMARY:MozIftar Bangladesh 2013
+DESCRIPTION:Iftar is a religious culture for Muslim society. In Bangladesh
+  it has a huge potentiality for different communities. For sharing ideas &amp;
+  discuss different issues Iftar is a great way to communicate. Last year w
+ e arranged the first MozIftar in Dhaka. We planned a year on that meetup. 
+ That planning was successful by many cases. This year we are planning for 
+ arranging three event in three cities (Dhaka\, Chittagong &amp; Khulna). All t
+ hese cities has a huge number of potential Mozillians.
+URL:https://reps.mozilla.org/e/moziftar-bangladesh-2013/
+SEQUENCE:16
+X-COORDINATES-LAT:23.7198648485
+X-COORDINATES-LON:90.4097557068
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

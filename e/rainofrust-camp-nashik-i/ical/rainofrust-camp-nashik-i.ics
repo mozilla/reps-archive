@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6664
+CLASS:PUBLIC
+DTSTAMP:20200423T110522Z
+DTSTART:20170601T043000Z
+DTEND:20170601T083000Z
+LOCATION:R.H.SAPAT COLLEGE OF ENGINEERING AMD MANAGEMENT NASHIK-422005\, N
+ ashik\, India
+SUMMARY:RainOfRust Camp Nashik - I : Campaign Launch
+DESCRIPTION:An activities and initiative followed by https://reps.mozilla.
+ org/e/rainofrust-campaign/ \n\nRust India community come up with RainOfRus
+ t Campaign to spread the awesomeness of Rust language. This event is focus
+ ed on introducing and teaching the state of art system programming languag
+ e Rust to Students/ Developers and Mozillians around.
+URL:https://reps.mozilla.org/e/rainofrust-camp-nashik-i/
+SEQUENCE:2
+X-COORDINATES-LAT:23.0062675943
+X-COORDINATES-LON:72.5363158062
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2664
+CLASS:PUBLIC
+DTSTAMP:20200423T191401Z
+DTSTART:20140816T133000Z
+DTEND:20140816T183000Z
+LOCATION:Colegio de Contadores Públicos del Estado Lara\, Barquisimeto\, 
+ Venezuela
+SUMMARY:DebianDay 2014 Barquisimeto
+DESCRIPTION:The Debian Day\, which is celebrated every August 16\, commemo
+ rates the birth anniversary of the Debian Project (in English\, Debian Pro
+ ject)\, which is responsible for the creation and maintenance of Debian GN
+ U / Linux distribution organization focused on GNU / Linux and GNU utiliti
+ es. Founded in 1993 by Ian Murdock\, the project has grown from a small gr
+ oup of hackers to what is now a worldwide community dedicated to the maint
+ enance and development of this operating system group.
+URL:https://reps.mozilla.org/e/debianday14-barquisimeto/
+SEQUENCE:8
+X-COORDINATES-LAT:10.063611
+X-COORDINATES-LON:-69.334722
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

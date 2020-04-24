@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6401
+CLASS:PUBLIC
+DTSTAMP:20200423T111428Z
+DTSTART:20170422T133000Z
+DTEND:20170422T203000Z
+LOCATION:Instituto Nacional Capacitación y Educación Socialista\, Barqui
+ simeto\, Venezuela
+SUMMARY:FLISoL 2017 Barquisimeto
+DESCRIPTION:The Festival of Latin American Free Software Installation (FLI
+ SoL) is the largest reach event of of Free Software in Latin America. It&#39;s
+  carried out since 2005 and its main objective is to promote the use of fr
+ ee software\, informing the general public philosophy\, scope\, progress a
+ nd development.
+URL:https://reps.mozilla.org/e/flisol-2017-barquisimeto/
+SEQUENCE:13
+X-COORDINATES-LAT:10.0663143196
+X-COORDINATES-LON:-69.3138209585
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

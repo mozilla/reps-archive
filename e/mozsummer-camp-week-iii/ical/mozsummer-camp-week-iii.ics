@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3922
+CLASS:PUBLIC
+DTSTAMP:20200423T172110Z
+DTSTART:20150523T063000Z
+DTEND:20150524T093000Z
+LOCATION:Pushpak apt\, Pandit colony\, Lane no-3\, Nashik-422002\, Nashik\
+ , India
+SUMMARY:MozSummer Camp Week - III
+DESCRIPTION:MozSummer Camp enters its 3rd week. This week we will explore 
+ all the aspects of Documentation. How a blog can be written. Along with th
+ at\, a look at all the Contribution Pathways. As for Day 2\, we will be de
+ aling with Community Building and a word about Privacy and Security.
+URL:https://reps.mozilla.org/e/mozsummer-camp-week-iii/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0013347741
+X-COORDINATES-LON:73.7682938567
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2972
+CLASS:PUBLIC
+DTSTAMP:20200423T184133Z
+DTSTART:20141023T180000Z
+DTEND:20141023T200000Z
+LOCATION:Arturo Prat 193\, Concepcion\, Chile
+SUMMARY:Taller Firefox OS IPVG\, Concepción
+DESCRIPTION:Hack session for developers. The goal of the Firefox OS worksh
+ op is to introduce Firefox OS and Firefox Marketplace\, and share knowledg
+ e about the tools available to help developers get started building apps t
+ o submit to the Marketplace.
+URL:https://reps.mozilla.org/e/taller-firefox-os-ipvg-concepcion/
+SEQUENCE:8
+X-COORDINATES-LAT:-36.8313460452
+X-COORDINATES-LON:-73.0367546083
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

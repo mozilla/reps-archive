@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8197
+CLASS:PUBLIC
+DTSTAMP:20200423T085656Z
+DTSTART:20181019T210000Z
+DTEND:20181020T010000Z
+LOCATION:EMK Center\, Dhaka\, Bangladesh
+SUMMARY:bn-BD SuMo Day
+DESCRIPTION:Sumo day is organized by Mozilla Bangladesh to introduce begin
+ ners with Mozilla Support. We will introduce how we localize support artic
+ le. Our main focus is to localize top 50 article of bn-BD.
+URL:https://reps.mozilla.org/e/bn-bd-sumo-day/
+SEQUENCE:4
+X-COORDINATES-LAT:23.755696
+X-COORDINATES-LON:90.3724373
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

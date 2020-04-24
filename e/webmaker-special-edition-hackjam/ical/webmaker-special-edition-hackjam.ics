@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1562
+CLASS:PUBLIC
+DTSTAMP:20200423T204123Z
+DTSTART:20131213T110000Z
+DTEND:20131213T140000Z
+LOCATION:Rua Montenegro\, 403 - Microcamp Guarujá\, Guarujá\, Brazil
+SUMMARY:Webmaker Special Edition - HackJam
+DESCRIPTION:A party to celebrate the last day of the first Guarujá Webmak
+ er HackJam event. All the guys that attended the webmaker classes during t
+ he event will be invited to celebrate all the awesomeness of the web they 
+ learned during the course.
+URL:https://reps.mozilla.org/e/webmaker-special-edition-hackjam/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.993065
+X-COORDINATES-LON:-46.258512
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

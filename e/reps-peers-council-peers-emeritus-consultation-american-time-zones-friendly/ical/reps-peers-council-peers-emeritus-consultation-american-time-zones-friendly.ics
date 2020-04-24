@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7244
+CLASS:PUBLIC
+DTSTAMP:20200423T101137Z
+DTSTART:20171215T210000Z
+DTEND:20171215T220000Z
+LOCATION:Online\, Munich\, Germany
+SUMMARY:Reps Peers: Council &amp; Peers Emeritus Consultation (American time-z
+ ones friendly)
+DESCRIPTION:This meeting is addressing Reps Peers\, former Reps Peers (Eme
+ ritus) and former Reps Council Members (Council Emeritus).
+URL:https://reps.mozilla.org/e/reps-peers-council-peers-emeritus-consultat
+ ion-american-time-zones-friendly/
+SEQUENCE:2
+X-COORDINATES-LAT:48.1372380403
+X-COORDINATES-LON:11.5754921435
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

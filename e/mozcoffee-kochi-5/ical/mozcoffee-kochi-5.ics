@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7982
+CLASS:PUBLIC
+DTSTAMP:20200423T090525Z
+DTSTART:20180909T043000Z
+DTEND:20180909T103000Z
+LOCATION:Nasscom Startup Warehouse\, Cochin\, India
+SUMMARY:Mozcoffee Kochi
+DESCRIPTION:Meetup of new and existing members of the community who will i
+ ntroduce each other\, plan future initiatives\, assign roles and share kno
+ wledge.
+URL:https://reps.mozilla.org/e/mozcoffee-kochi-5/
+SEQUENCE:6
+X-COORDINATES-LAT:10.0116526
+X-COORDINATES-LON:76.3585516
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@847
+CLASS:PUBLIC
+DTSTAMP:20200423T213933Z
+DTSTART:20130528T070000Z
+DTEND:20130528T130000Z
+LOCATION:National University of Science and Technology (NUST)\, Bulawayo\,
+  Zimbabwe
+SUMMARY:Firefox OS Presentation at NUST
+DESCRIPTION:NUST is hosting an Open Day to University community and the ge
+ neral public. The open Day is similar to a trade fair and Computer Science
+  and Electronic Engineering Students will be showcasing their final year p
+ rojects to the public.\n\nMozilla will present on Firefox OS and Marketpla
+ ce and how coders can get involved.
+URL:https://reps.mozilla.org/e/firefox-os-presentation-at-nust/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1897128689
+X-COORDINATES-LON:28.698348999
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

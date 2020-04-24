@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3682
+CLASS:PUBLIC
+DTSTAMP:20200423T173631Z
+DTSTART:20150401T053000Z
+DTEND:20150401T083000Z
+LOCATION:Shri Guru Bal Vidhaya Mandir\, Jodhpur\, India
+SUMMARY:KIDZSHINE
+DESCRIPTION:Deliver the kids the knowledge of web and how to get involved 
+ in webmaking. In our mission to #teachtheweb  we this time are organizing 
+  an event in a school in suburbs of Jodhpur. Also Students will get to see
+  Firefox OS one on one.\nThis event will help the students to start webmak
+ ing in an interesting way. Also this event will be completely handled by t
+ he very new volunteers who joined the team in MCR Wingdings 2015
+URL:https://reps.mozilla.org/e/kidzshine/
+SEQUENCE:5
+X-COORDINATES-LAT:26.2433351783
+X-COORDINATES-LON:73.093505837
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

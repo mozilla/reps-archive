@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1169
+CLASS:PUBLIC
+DTSTAMP:20200423T211802Z
+DTSTART:20130817T050000Z
+DTEND:20130817T100000Z
+LOCATION:CBTL Two E-com\, Pasay City\, Philippines
+SUMMARY:WoMoz PHL Team Meet-up
+DESCRIPTION:After the recruitment of members to the Philippine WoMoz team 
+ for the past months\, MozPH will now start coordinating WoMoz-related even
+ ts to our community calendar which will be discussed in this meet-up. The 
+ team members will also be oriented on the WoMoz project and Mozilla&#39;s goal
+ s regarding it.
+URL:https://reps.mozilla.org/e/womoz-phl-team-meet-up/
+SEQUENCE:3
+X-COORDINATES-LAT:13.2399454993
+X-COORDINATES-LON:124.453125
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

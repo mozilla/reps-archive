@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6889
+CLASS:PUBLIC
+DTSTAMP:20200423T104819Z
+DTSTART:20170812T033000Z
+DTEND:20170812T083000Z
+LOCATION:Dhirajlal Gandhi College Of Technology\, Salem\, India
+SUMMARY:Dhirajzilla WebExtension Session
+DESCRIPTION:Basic Session getting started with Browser Extension
+URL:https://reps.mozilla.org/e/dhirajzilla-webextension-session/
+SEQUENCE:2
+X-COORDINATES-LAT:11.6513397977
+X-COORDINATES-LON:78.179077059
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

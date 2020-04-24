@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7509
+CLASS:PUBLIC
+DTSTAMP:20200423T094212Z
+DTSTART:20180425T140000Z
+DTEND:20180427T220000Z
+LOCATION:Technological Institute of León\, León\, Mexico
+SUMMARY:FLISoL León 2018
+DESCRIPTION:The Latin American Free Software Install Fest will held its 14
+ th edition this year in more than 200 cities across Latin America. The Tec
+ hnological Institute of León will celebrate the festival from April 25th 
+ to April 27th in León\, Guanajuato\, MX. A talk about Mozilla Open Leader
+ s and a workshop for introducing people to Rust will be presented during t
+ he festival.
+URL:https://reps.mozilla.org/e/flisol-leon-2018/
+SEQUENCE:3
+X-COORDINATES-LAT:21.1092546
+X-COORDINATES-LON:-101.6302431
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

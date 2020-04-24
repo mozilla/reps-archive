@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2077
+CLASS:PUBLIC
+DTSTAMP:20200423T200353Z
+DTSTART:20140412T000000Z
+DTEND:20140413T080000Z
+LOCATION:XIME\, Kalamassery Kochi\, Kalamassery\, India
+SUMMARY:HTML5 Dev Conf
+DESCRIPTION:HTML5 Developer conference is a web technology focused confere
+ nce\, Taking place on April 12 &amp; 13 at Cochin\, the queen of Arabian sea. 
+ Organized by Mozilla Kerala community &amp; a few enthusiast.
+URL:https://reps.mozilla.org/e/html5-dev-conf/
+SEQUENCE:2
+X-COORDINATES-LAT:10.0541420927
+X-COORDINATES-LON:76.3505056503
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

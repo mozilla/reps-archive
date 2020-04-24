@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3431
+CLASS:PUBLIC
+DTSTAMP:20200423T180723Z
+DTSTART:20150119T170000Z
+DTEND:20150119T172000Z
+LOCATION:Cartographia  / Budapest\, Nyugati tér 1\, Budapest\, Hungary
+SUMMARY:OpenStreetMap Budapest Meetup - 2015 január
+DESCRIPTION:OpenStreetMap Budapest meetup\n\nShort (20 min) introduction a
+ bout Mozilla Location Service\n* What is it?\n* How can you participate?\n
+ * Clients\n* Building own server
+URL:https://reps.mozilla.org/e/openstreetmap-budapest-meetup-2015-januar/
+SEQUENCE:1
+X-COORDINATES-LAT:47.5094341557
+X-COORDINATES-LON:19.0559755861
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

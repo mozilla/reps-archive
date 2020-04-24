@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4660
+CLASS:PUBLIC
+DTSTAMP:20200423T162031Z
+DTSTART:20151031T033000Z
+DTEND:20151031T063000Z
+LOCATION:College of Engineering\, Pune (COEP)\, Pune\, India
+SUMMARY:Club Launch @ COEP
+DESCRIPTION:First ever Mozilla presence at one of the top and oldest engin
+ eering colleges in India - COEP! We would be organizing a club launch for 
+ COEP where we would assist them with whatever they need to have &amp; help the
+ m get started with contributions.
+URL:https://reps.mozilla.org/e/club-launch-coep/
+SEQUENCE:9
+X-COORDINATES-LAT:18.5292824085
+X-COORDINATES-LON:73.8565974869
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

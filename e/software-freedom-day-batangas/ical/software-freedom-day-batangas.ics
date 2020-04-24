@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7002
+CLASS:PUBLIC
+DTSTAMP:20200423T103954Z
+DTSTART:20170916T000000Z
+DTEND:20170916T090000Z
+LOCATION:Batangas State University\, Batangas City\, Philippines
+SUMMARY:Software Freedom Day Batangas
+DESCRIPTION:Software Freedom Day (SFD) is an annual worldwide celebration 
+ of free/open-source software. SFD is a public education effort\, not only 
+ to celebrate the virtues of free/open-source software but also to encourag
+ e its use\, to the benefit of the public.
+URL:https://reps.mozilla.org/e/software-freedom-day-batangas/
+SEQUENCE:0
+X-COORDINATES-LAT:13.7498345005
+X-COORDINATES-LON:121.114746071
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

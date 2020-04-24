@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7093
+CLASS:PUBLIC
+DTSTAMP:20200423T102610Z
+DTSTART:20171008T073000Z
+DTEND:20171008T113000Z
+LOCATION:2nd Floor\, UL CyberPark\, UL CyberPark Rd\, Nellikkode\, Kozhiko
+ de\, Kerala 673008\, Kozhikode\, India
+SUMMARY:Mozilla Firefox Quantum Sprint - Kozhikode
+DESCRIPTION:Firefox 57 is coming! We Will check Firefox Nightly with our m
+ ost important web page in India\, so we can ensure that they work correctl
+ y. In this event we will test version 57 of Firefox locally. We will condu
+ ct a day of installation\, talks and also test several pages with the obje
+ ctive of seeing if there are flaws and report them if necessary.
+URL:https://reps.mozilla.org/e/mozilla-firefox-quantum-sprint-kozhikode/
+SEQUENCE:4
+X-COORDINATES-LAT:11.2598701927
+X-COORDINATES-LON:75.8242836013
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

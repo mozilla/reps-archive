@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@558
+CLASS:PUBLIC
+DTSTAMP:20200423T220719Z
+DTSTART:20130221T180000Z
+DTEND:20130221T210000Z
+LOCATION:Brasserie Federal - Bahnhof Zürich\, Zurich\, Switzerland
+SUMMARY:MozCoffee Switzerland February
+DESCRIPTION:If you have problems with your Firefox\, Thunderbird\, whateve
+ r just drop by and we help you out. Want to lern what &#34;Mozilla&#34;\, the orga
+ nization behind Firefox is all about\, it&#39;s also a good opportunity to ste
+ p by.\n\n**************************\n\nHast du ein Problem mit Firefox\, T
+ hunderbird? Komm&#39; vorbei und wir werden dir helfen! Wenn du wissen möchte
+ st\, welche Organisation hinter Firefox steckt und mehr über Mozilla wiss
+ en möchtest\, freuen wir uns auf interessante Gespräche!
+URL:https://reps.mozilla.org/e/mozcoffee-switzerland-february/
+SEQUENCE:0
+X-COORDINATES-LAT:47.3781851463
+X-COORDINATES-LON:8.54053974152
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

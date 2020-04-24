@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7699
+CLASS:PUBLIC
+DTSTAMP:20200423T094100Z
+DTSTART:20180428T043000Z
+DTEND:20180428T083000Z
+LOCATION:Deloitte\, Hyderabad\, Hyderabad\, India
+SUMMARY:Let&#39;s Rust IV
+DESCRIPTION:Rust is a new systems programming language sponsored by Mozill
+ a. This event is to train programmers on Rust. A session dedicated to crat
+ es/
+URL:https://reps.mozilla.org/e/let-s-rust-iv/
+SEQUENCE:2
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5826
+CLASS:PUBLIC
+DTSTAMP:20200423T114307Z
+DTSTART:20161129T030000Z
+DTEND:20161129T120000Z
+LOCATION:Eastern University\, Dhaka\, Bangladesh
+SUMMARY:Web Compat and Firefox Test Pilot Sprint @ Eastern University
+DESCRIPTION:To support Mozilla&#39;s Activate Campaign\, Mozillians from Easte
+ rn University are going to organize day long activity to promote Mozilla a
+ nd way of contribution.\n\nVarious activity regarding Web Compat and Firef
+ ox Test Pilot would be done.
+URL:https://reps.mozilla.org/e/web-compat-and-firefox-test-pilot-sprint-ea
+ stern-university/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7004454
+X-COORDINATES-LON:90.4996251
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

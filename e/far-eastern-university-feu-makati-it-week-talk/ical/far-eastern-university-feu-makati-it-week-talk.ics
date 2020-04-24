@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@451
+CLASS:PUBLIC
+DTSTAMP:20200423T220945Z
+DTSTART:20130215T010000Z
+DTEND:20130215T030000Z
+LOCATION:FEU Makati\, Makati City\, Philippines
+SUMMARY:Far Eastern University (FEU) Makati IT Week Talk
+DESCRIPTION:The Mozilla Philippines Community received an invite from FEU-
+ Makati to talk about Cross-Platform Mobile App Development in HTML5 in rel
+ ation with their school&#39;s IT Week.
+URL:https://reps.mozilla.org/e/far-eastern-university-feu-makati-it-week-t
+ alk/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5621827077
+X-COORDINATES-LON:121.017081141
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

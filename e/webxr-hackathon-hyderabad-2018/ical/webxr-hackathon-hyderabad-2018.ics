@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7964
+CLASS:PUBLIC
+DTSTAMP:20200423T090911Z
+DTSTART:20180818T033000Z
+DTEND:20180818T123000Z
+LOCATION:ThoughtWorks Hyderabad\, Hyderabad\, India
+SUMMARY:WebXR Hackathon Hyderabad - 2018
+DESCRIPTION:Doing as part of 4 Day Advanced Training on WebXR\n\nhttps://d
+ iscourse.mozilla.org/t/advanced-training-on-webxr-at-hyderabad-india/30137
+URL:https://reps.mozilla.org/e/webxr-hackathon-hyderabad-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:17.442923885
+X-COORDINATES-LON:78.3572115899
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

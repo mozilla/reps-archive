@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7224
+CLASS:PUBLIC
+DTSTAMP:20200423T101119Z
+DTSTART:20171216T033000Z
+DTEND:20171216T153000Z
+LOCATION:University School of Information\, Communication and Technology(U
+ SICT)\, New Delhi\, India
+SUMMARY:Moz Hack Day
+DESCRIPTION:Moz Hack Day USICT is a 12 hour hack day in USICT campus that 
+ brings together the local hacker community to celebrate building awesome t
+ echnology. There will be a session on virtual reality also.
+URL:https://reps.mozilla.org/e/moz-hack-day/
+SEQUENCE:4
+X-COORDINATES-LAT:28.6769340566
+X-COORDINATES-LON:77.1034240723
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

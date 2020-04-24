@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1574
+CLASS:PUBLIC
+DTSTAMP:20200423T204830Z
+DTSTART:20131124T070000Z
+DTEND:20131124T100000Z
+LOCATION:Mom&#39;s Cafe\, Jalan Toddopuli Raya Timur (SPBU)\, Makassar\, Indon
+ esia
+SUMMARY:MozKopdarMKS November 2013
+DESCRIPTION:An official Mozillians meetup in Makassar for November 2013. \
+ n\nCelebrating 9th years of Mozilla Indonesia with the Mozillians in Makas
+ sar.\nShare the latest news about Mozilla Indonesia campaign : #AkudanFire
+ fox Photo Contest and #FirefoxBatik Contest\n\nShare updates from Mozilla 
+ projects\, introducing Mozilla Crafty.
+URL:https://reps.mozilla.org/e/mozkopdarmks-november-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:-5.16196457433
+X-COORDINATES-LON:119.459039211
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

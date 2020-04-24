@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@469
+CLASS:PUBLIC
+DTSTAMP:20200423T222600Z
+DTSTART:20130119T100000Z
+DTEND:20130119T130000Z
+LOCATION:Hackerspace.gr\, Athens\, Greece
+SUMMARY:Athens WebDev Workshop
+DESCRIPTION:Learning basic stuff about web development
+URL:https://reps.mozilla.org/e/athens-webdev-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:38.01697
+X-COORDINATES-LON:23.7314
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

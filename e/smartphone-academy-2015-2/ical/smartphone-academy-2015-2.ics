@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3970
+CLASS:PUBLIC
+DTSTAMP:20200423T171826Z
+DTSTART:20150603T150000Z
+DTEND:20150603T190000Z
+LOCATION:Budapest\, Millenáris B Épület (Nagycsarnok)\, Budapest\, Hung
+ ary
+SUMMARY:Smartphone Academy 2015/2 - Game
+DESCRIPTION:The Telenor is organizing an event around ...\nOur carrier par
+ tner invited us to show actual things. We plan the usual things\, also we 
+ moved from paper based quizes to electronic solution.
+URL:https://reps.mozilla.org/e/smartphone-academy-2015-2/
+SEQUENCE:3
+X-COORDINATES-LAT:47.5123444981
+X-COORDINATES-LON:19.0238771442
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

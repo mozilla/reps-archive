@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3205
+CLASS:PUBLIC
+DTSTAMP:20200423T180920Z
+DTSTART:20150114T043000Z
+DTEND:20150114T133000Z
+LOCATION:Collabs House\,Opp Film nagar society complex\,Filmnagar\, Secund
+ erabad\, India
+SUMMARY:Coffee at Collab 2.0
+DESCRIPTION:Plan for the upcoming events\,welcome new contributors\,FSA&#39;s 
+ Meetup\,Encouraging contributors to Choose a project and work on it for th
+ e weekend\,Get Inspired\,Chat\,Have fun\,code\,collaborate and a lot more.
+URL:https://reps.mozilla.org/e/coffee-at-collab-1-0/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4501507078
+X-COORDINATES-LON:78.457661
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

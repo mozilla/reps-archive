@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2790
+CLASS:PUBLIC
+DTSTAMP:20200423T190758Z
+DTSTART:20140831T073000Z
+DTEND:20140831T133000Z
+LOCATION:Collab House\, Secunderabad\, India
+SUMMARY:Game Dev using Construct 2
+DESCRIPTION:Construct-2 is a Game Engine with Which we can Develop games f
+ or our Firefox OS. People in this Event will get a clear Knowledge about W
+ hat Firefox OS is\,what are open web apps\,what is Construct 2 and how one
+  can develop games for it.The Event is also aimed at App Maker through whi
+ ch even beginners with Zero Knowledge in Coding can Develop Apps for Firef
+ ox OS
+URL:https://reps.mozilla.org/e/game-dev-using-construct-2/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

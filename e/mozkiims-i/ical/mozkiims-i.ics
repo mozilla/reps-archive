@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1878
+CLASS:PUBLIC
+DTSTAMP:20200423T201852Z
+DTSTART:20140310T043000Z
+DTEND:20140310T093000Z
+LOCATION:KUSHAGRA INSTITUTE OF INFORMATION &amp; MANAGEMENT SCIENCE\, Cuttack\
+ , India
+SUMMARY:MozKIIMS-I
+DESCRIPTION:This event introduces students of KUSHAGRA INSTITUTE OF INFORM
+ ATION &amp; MANAGEMENT SCIENCE\, Odisha and other colleges nearby to various M
+ ozilla projects and targets to find potential contributors from the region
+ .
+URL:https://reps.mozilla.org/e/mozkiims-i/
+SEQUENCE:7
+X-COORDINATES-LAT:20.8759215121
+X-COORDINATES-LON:85.9233400226
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

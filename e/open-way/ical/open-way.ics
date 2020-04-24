@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2042
+CLASS:PUBLIC
+DTSTAMP:20200423T195937Z
+DTSTART:20140425T070000Z
+DTEND:20140425T200000Z
+LOCATION:Galerija Simulaker\, Novo Mesto\, Slovenia
+SUMMARY:Open Way
+DESCRIPTION:Open Way is a successor of Day of Open Source event. Mozilla S
+ lovenija was always presented on this event since 2011.\n\nOpen Way is a o
+ ne day event held in Novo mesto. Mission of event is to spread open source
+  philosophy. Open Way connects\, raises awareness and presents open source
+  ideas worth spreading.\n\nMost of the Mozilla Slovenia community will be 
+ on this event.
+URL:https://reps.mozilla.org/e/open-way/
+SEQUENCE:10
+X-COORDINATES-LAT:45.8043613926
+X-COORDINATES-LON:15.169883966
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

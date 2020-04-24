@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6979
+CLASS:PUBLIC
+DTSTAMP:20200423T102412Z
+DTSTART:20171016T170000Z
+DTEND:20171016T200000Z
+LOCATION:Mozilla Paris\, Paris\, France
+SUMMARY:Introduction to WebExtensions
+DESCRIPTION:on a general approach and how to create an extension...\n the 
+ event is listed on Meetup with the entries :
+URL:https://reps.mozilla.org/e/introduction-to-webextensions-1/
+SEQUENCE:5
+X-COORDINATES-LAT:48.8719973438
+X-COORDINATES-LON:2.34040153031
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

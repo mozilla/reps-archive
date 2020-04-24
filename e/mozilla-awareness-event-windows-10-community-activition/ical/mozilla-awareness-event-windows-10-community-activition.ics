@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4831
+CLASS:PUBLIC
+DTSTAMP:20200423T160242Z
+DTSTART:20151217T180000Z
+DTEND:20151228T180000Z
+LOCATION:Dhaka\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awareness Event - Windows 10 Community Activition
+DESCRIPTION:An event to support windows 10 Campaign
+URL:https://reps.mozilla.org/e/mozilla-awareness-event-windows-10-communit
+ y-activition/
+SEQUENCE:1
+X-COORDINATES-LAT:23.70108288
+X-COORDINATES-LON:90.5210459232
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

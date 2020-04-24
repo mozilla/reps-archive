@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@54
+CLASS:PUBLIC
+DTSTAMP:20200423T225150Z
+DTSTART:20121023T170000Z
+DTEND:20121026T170000Z
+LOCATION:ITESM  Campus Cuernavaca\, Morelos\, Mexico
+SUMMARY:TIC 2012
+DESCRIPTION:The ICT Conference is an event that has been successful in rec
+ ent years in our campus to bring students racing to Information Technology
+ \nand related to leading the industry through conferences and workshops. T
+ he event received excellent participation from the students on campus and 
+ external besides having had as speakers from companies like Microsoft\, Ap
+ ple\, Nokia\, IBM and others.
+URL:https://reps.mozilla.org/e/tic-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:18.8083305467
+X-COORDINATES-LON:-99.2231941223
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

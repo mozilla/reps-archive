@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@423
+CLASS:PUBLIC
+DTSTAMP:20200423T220707Z
+DTSTART:20130223T000000Z
+DTEND:20130223T040000Z
+LOCATION:TBD\, Zamboanga City\, Philippines
+SUMMARY:MozCoffee Chavacano Localization Sprint
+DESCRIPTION:Mozilla Community in Zamboanga organized a monthly Mozcoffee s
+ print where the gathering allow them to translate the Firefox aurora produ
+ ct to Chavacano and with a short meetup for future plans.
+URL:https://reps.mozilla.org/e/mozcoffee-chavacano-localization-sprint/
+SEQUENCE:0
+X-COORDINATES-LAT:6.90461404724
+X-COORDINATES-LON:122.113037109
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

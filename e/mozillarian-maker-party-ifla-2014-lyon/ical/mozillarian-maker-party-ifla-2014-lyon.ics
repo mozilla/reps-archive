@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2549
+CLASS:PUBLIC
+DTSTAMP:20200423T191254Z
+DTSTART:20140820T110000Z
+DTEND:20140820T180000Z
+LOCATION:10 bis rue Jangot 69007 Lyon\, Lyon-7e Arrondissement\, France
+SUMMARY:Mozillarian Maker Party @IFLA 2014 Lyon
+DESCRIPTION:Webmaker party and Mentor training. Learn everything about web
+ maker and how you can use it in your local library back home.\n\nIFLA (Int
+ ernational Federation of Library Associations and Institution) is organizi
+ ng their 2014 international congress in Lyon\, that is a unique occasion t
+ o inform librairians from all over the world of the webmaker tools.
+URL:https://reps.mozilla.org/e/mozillarian-maker-party-ifla-2014-lyon/
+SEQUENCE:4
+X-COORDINATES-LAT:45.752050967
+X-COORDINATES-LON:4.84202921385
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

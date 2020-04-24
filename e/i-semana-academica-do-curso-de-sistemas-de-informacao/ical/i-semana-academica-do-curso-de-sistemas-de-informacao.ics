@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2704
+CLASS:PUBLIC
+DTSTAMP:20200423T191238Z
+DTSTART:20140820T220000Z
+DTEND:20140823T010000Z
+LOCATION:Avenida Domingos Teixeira\, 664 - Recanto dos Lagos\, Iturama\, B
+ razil
+SUMMARY:I Semana Acadêmica do curso de Sistemas de Informação
+DESCRIPTION:The FAMA College through the course of Information Systems wil
+ l be promoting I WEEK OF ACADEMIC Course of Information Systems in the reg
+ ion of Iturama-MG. The event will offer practical and theoretical grounds 
+ in IT and contribute to the integral formation and updating of students an
+ d professionals in the field of Informatics.
+URL:https://reps.mozilla.org/e/i-semana-academica-do-curso-de-sistemas-de-
+ informacao/
+SEQUENCE:4
+X-COORDINATES-LAT:-19.7282777442
+X-COORDINATES-LON:-50.1942901639
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

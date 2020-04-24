@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7454
+CLASS:PUBLIC
+DTSTAMP:20200423T095204Z
+DTSTART:20180322T043000Z
+DTEND:20180324T113000Z
+LOCATION:SRM University\, Chennai\, India
+SUMMARY:SRMKZILLA&#39;s MOZOFest &#39; 18
+DESCRIPTION:MOZOFEST SRM 2018 is a three-day Technical Fest organized by S
+ RMKZILLA\, Mozilla Campus Club on 22nd\, 23rd and 24th March 2018.This is 
+ the third edition our highly successful event of the year. This year we pl
+ anned to bring more technicality to our fest through Mozilla workshops\, T
+ ech Talks by Mozilla Community Members\, A Professional Hackathon\, Tech a
+ nd Non-Tech events and so on.
+URL:https://reps.mozilla.org/e/srmkzilla-s-mozofest-18/
+SEQUENCE:3
+X-COORDINATES-LAT:12.8430115966
+X-COORDINATES-LON:80.0598506955
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

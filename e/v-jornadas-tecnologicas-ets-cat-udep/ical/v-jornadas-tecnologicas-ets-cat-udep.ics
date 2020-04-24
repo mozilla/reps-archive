@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1309
+CLASS:PUBLIC
+DTSTAMP:20200423T210024Z
+DTSTART:20131018T140000Z
+DTEND:20131019T230000Z
+LOCATION:Escuela Técnica Superior - Universidad de Piura\, Piura\, Peru
+SUMMARY:V Jornadas Tecnológicas ETS-CAT-UDEP
+DESCRIPTION:ENGLISH: This event is intended to professionals\, students\, 
+ bachelors and general public who want to keep up to date in technological 
+ topics\; from Systems\, Electronics and Telecommunications Engineerings. \
+ n\nESPAÑOL: Estas Jornadas están dirigidas a profesionales\, alumnos\, e
+ gresados y público en general que buscan mantenerse actualizados en temas
+  Tecnológicos\; tanto de Sistemas como de Electrónica y Telecomunicacion
+ es.
+URL:https://reps.mozilla.org/e/v-jornadas-tecnologicas-ets-cat-udep/
+SEQUENCE:1
+X-COORDINATES-LAT:-5.17574671112
+X-COORDINATES-LON:-80.6344127655
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4447
+CLASS:PUBLIC
+DTSTAMP:20200423T163059Z
+DTSTART:20151008T020000Z
+DTEND:20151008T040000Z
+LOCATION:Arab Academy for Science\, Technology &amp; Maritime Transport\, Alex
+ andria\, Egypt
+SUMMARY:FSC@AAST Meetup 1
+DESCRIPTION:An informal meetup with members of Firefox Student club at AAS
+ T. We will be discussing last updates of Mozilla projects\, explaining the
+  fields that the volunteers can contribute in and discussing semester plan
+ .
+URL:https://reps.mozilla.org/e/fsc-aast-meetup-1/
+SEQUENCE:5
+X-COORDINATES-LAT:31.3094034029
+X-COORDINATES-LON:30.065330744
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

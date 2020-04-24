@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7542
+CLASS:PUBLIC
+DTSTAMP:20200423T095240Z
+DTSTART:20180318T023000Z
+DTEND:20180318T113000Z
+LOCATION:Skyblue Institute of Design  Atabhai Rd\, Opposite Joggers Park\,
+  Bhavnagar\, Gujarat 364001\, Bhavnagar\, India
+SUMMARY:MozConnect With Django Girls Bhavnagar
+DESCRIPTION:Django Girls Bhavnagar is a part of bigger initiative: Django 
+ Girls. It is a non-profit organization and events are organized by volunte
+ ers in different places of the world. This is the first time Mozilla will 
+ participate with them to get some women contributors in Mozilla ecosystem.
+URL:https://reps.mozilla.org/e/mozconnect-with-django-girls-bhavnagar/
+SEQUENCE:1
+X-COORDINATES-LAT:21.758005
+X-COORDINATES-LON:72.148793
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

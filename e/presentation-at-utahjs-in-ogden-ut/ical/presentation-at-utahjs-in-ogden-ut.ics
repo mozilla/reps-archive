@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6783
+CLASS:PUBLIC
+DTSTAMP:20200423T104957Z
+DTSTART:20170804T010000Z
+DTEND:20170804T020000Z
+LOCATION:2316 Washington Blvd\, Ogden\, United States
+SUMMARY:Presentation at UtahJS in Ogden\, UT
+DESCRIPTION:https://www.meetup.com/UtahJS/events/241195321/
+URL:https://reps.mozilla.org/e/presentation-at-utahjs-in-ogden-ut/
+SEQUENCE:1
+X-COORDINATES-LAT:41.2243712
+X-COORDINATES-LON:-111.9703376
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4557
+CLASS:PUBLIC
+DTSTAMP:20200423T163727Z
+DTSTART:20150921T190000Z
+DTEND:20150921T220000Z
+LOCATION:Nationa University of Colombian \, Bogota\, Colombia\, Bogota\, C
+ olombia
+SUMMARY:Talk l10n in native languages of Colombia.
+DESCRIPTION:Training l10n process for a team and group of coordinators. Th
+ e workshops will be implemented on l10n in uitoto native language of Colom
+ bia.
+URL:https://reps.mozilla.org/e/talk-l10n-in-native-languages-of-colombia/
+SEQUENCE:1
+X-COORDINATES-LAT:4.63345132528
+X-COORDINATES-LON:-74.0842607618
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

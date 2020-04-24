@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8479
+CLASS:PUBLIC
+DTSTAMP:20200423T083413Z
+DTSTART:20190407T043000Z
+DTEND:20190407T123000Z
+LOCATION:Campus 17\, Auditorium\, KIIT Deemed University\, Bhubaneswar\, I
+ ndia
+SUMMARY:DevExpo
+DESCRIPTION:DevExpo will be an all-in-one developers meet where you can fi
+ nd students from all levels of study coming and networking for the greater
+  good of the society through technology. The event will be organized at Ki
+ iT University on April 7th. This will be an one day event with a variety o
+ f interested students from colleges of Odisha.\n\nThe event will showcase 
+ some great sessions on some of the burning topics in the industry like Act
+ ions on Google\, Machine Leaning\, Design Thinking and many more
+URL:https://reps.mozilla.org/e/devexpo/
+SEQUENCE:1
+X-COORDINATES-LAT:20.5222164982
+X-COORDINATES-LON:85.7297515869
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7803
+CLASS:PUBLIC
+DTSTAMP:20200423T091521Z
+DTSTART:20180722T043000Z
+DTEND:20180722T093000Z
+LOCATION:91SpringBoard\, Kormangala\, Bangalore.\, Bangalore\, India
+SUMMARY:Rust Run - Day 4
+DESCRIPTION:It is a series of part of the Rust Run Series\, 2018. \n\nfutu
+ re\, promise\, delay\, and deferred refer to constructs used for synchroni
+ zing program execution in some concurrent programming languages. They desc
+ ribe an object that acts as a proxy for a result that is initially unknown
+ \, usually because the computation of its value is yet incomplete.\n\nThis
+  meetup will be a discussion on the use of futures in rust using the futur
+ es crate.\n\nhttps://docs.rs/futures/0.2.1/futures/
+URL:https://reps.mozilla.org/e/rust-run-day-4/
+SEQUENCE:6
+X-COORDINATES-LAT:12.9435
+X-COORDINATES-LON:77.6212
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

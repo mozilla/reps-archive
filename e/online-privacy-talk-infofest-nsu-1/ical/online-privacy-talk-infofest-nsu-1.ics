@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4752
+CLASS:PUBLIC
+DTSTAMP:20200423T154024Z
+DTSTART:20160319T080000Z
+DTEND:20160319T090000Z
+LOCATION:North South University\, Banani Model Town\, Bangladesh
+SUMMARY:Online Privacy talk @ InfoFest\, NSU
+DESCRIPTION:The Computer and Engineering club of North South University wi
+ ll organize a techfest named as infofest this October&#39;15. We will have a s
+ mall awareness session/talk during the techfest.
+URL:https://reps.mozilla.org/e/online-privacy-talk-infofest-nsu-1/
+SEQUENCE:4
+X-COORDINATES-LAT:23.8150358489
+X-COORDINATES-LON:90.4269567132
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

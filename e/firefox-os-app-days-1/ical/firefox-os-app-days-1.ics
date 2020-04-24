@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@991
+CLASS:PUBLIC
+DTSTAMP:20200423T210557Z
+DTSTART:20130926T123000Z
+DTEND:20130926T210000Z
+LOCATION:Facultad Politecnica - Universidad Nacional de Asuncion\, San Lor
+ enzo\, Paraguay
+SUMMARY:Firefox OS App Days Paraguay
+DESCRIPTION:The first Firefox OS App Day in Paraguay Technically\, this is
+  an App Day In A Box. The goal of the App Day is to introduce Firefox OS a
+ nd Firefox Marketplace\, and share knowledge about the tools available to 
+ help developers get started building apps to submit to the Marketplace.Lea
+ rn\, Hack and Celebrate the Firefox OS\, Mozilla&#39;s open source operating s
+ ystem for the mobile web.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-1/
+SEQUENCE:9
+X-COORDINATES-LAT:-25.3382081528
+X-COORDINATES-LON:-57.5156593323
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

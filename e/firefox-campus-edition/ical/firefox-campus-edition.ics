@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@405
+CLASS:PUBLIC
+DTSTAMP:20200423T222302Z
+DTSTART:20130125T160000Z
+DTEND:20130125T210000Z
+LOCATION:TBD\, Hidalgo del Parral\, Mexico
+SUMMARY:Firefox Campus Edition
+DESCRIPTION:We release the Firefox Campus Edition with a mega installation
+  in every computers in the campus\, and we spread this on a event in the s
+ chool. Firefox Campus Edition is a customized ESR version to the Instituto
+  Tecnólogico de Parral
+URL:https://reps.mozilla.org/e/firefox-campus-edition/
+SEQUENCE:0
+X-COORDINATES-LAT:26.0786915529
+X-COORDINATES-LON:-105.963378906
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

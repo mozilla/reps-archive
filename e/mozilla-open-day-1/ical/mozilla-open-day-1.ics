@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5630
+CLASS:PUBLIC
+DTSTAMP:20200423T150748Z
+DTSTART:20160730T090000Z
+DTEND:20160730T120000Z
+LOCATION:MTTF\, Moka\, Mauritius
+SUMMARY:Mozilla Open Day
+DESCRIPTION:This a Take Back The Web Campaign initiative that Mozilla Maur
+ itius will be organising in collaboration with the MTTF where the main aud
+ ience will be students from all the age groups from different region of Ma
+ uritius. The main objective of this event is an introduction to Mozilla an
+ d its activities. Presentations and demos will be shown to the attendees a
+ bout Firefox
+URL:https://reps.mozilla.org/e/mozilla-open-day-1/
+SEQUENCE:3
+X-COORDINATES-LAT:-20.2167910322
+X-COORDINATES-LON:57.4879417405
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

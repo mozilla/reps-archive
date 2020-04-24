@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4068
+CLASS:PUBLIC
+DTSTAMP:20200423T164942Z
+DTSTART:20150822T053000Z
+DTEND:20150822T133000Z
+LOCATION:Vishwakarma Institute of Information Technology (VIIT)\, Pune\, P
+ une\, India
+SUMMARY:FxOS APP Contribution Workshop- Test\, Review and Develop apps on 
+ Tarako Devices
+DESCRIPTION:This event focus on to teach audience: how to create an App us
+ ing Appmaker. In addition\, this event also aims to introduce Firefox Mark
+ etplace to the audience and teach them how to download and test apps from 
+ the Firefox Marketplace. Also\, submit Ranking and Reviews of the tested a
+ pps on the Firefox Marketplace. Teach the audience how to create Teaching 
+ kits.
+URL:https://reps.mozilla.org/e/fxos-app-contribution-workshop-test-review-
+ and-develop-apps-on-tarako-devices/
+SEQUENCE:6
+X-COORDINATES-LAT:18.3740758201
+X-COORDINATES-LON:73.9867401123
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3497
+CLASS:PUBLIC
+DTSTAMP:20200423T174737Z
+DTSTART:20150303T043000Z
+DTEND:20150303T100000Z
+LOCATION:Miyapur- Gandimaisamma Hwy\, Bowrampet\, Hyderabad\, Telangana\, 
+ Hyderabad\, India
+SUMMARY:ClubLaunch at DRK College of engineering and maker party
+DESCRIPTION:Club Launch at DRK College of engineering and maker party
+URL:https://reps.mozilla.org/e/clublaunch-at-drk-college-of-engineering-an
+ d-maker-party/
+SEQUENCE:2
+X-COORDINATES-LAT:17.5654140566
+X-COORDINATES-LON:78.3618321415
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

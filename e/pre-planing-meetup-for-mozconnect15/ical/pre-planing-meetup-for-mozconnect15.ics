@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3420
+CLASS:PUBLIC
+DTSTAMP:20200423T180145Z
+DTSTART:20150131T233000Z
+DTEND:20150201T013000Z
+LOCATION:Coffee Cafe Day\, Indore\, India
+SUMMARY:Pre planing meetup for Mozconnect15
+DESCRIPTION:Mozilla Indore and Mozilla Bhopal community would be meeting t
+ ogether\nto plan the upcoming annual event MozConnect2015.
+URL:https://reps.mozilla.org/e/pre-planing-meetup-for-mozconnect15/
+SEQUENCE:3
+X-COORDINATES-LAT:22.7211068635
+X-COORDINATES-LON:75.8602366447
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5520
+CLASS:PUBLIC
+DTSTAMP:20200423T151434Z
+DTSTART:20160706T170000Z
+DTEND:20160706T190000Z
+LOCATION:sektor5\, Siebenbrunnengasse 44\, 1050 Wien\, Vienna\, Austria
+SUMMARY:Mozilla Vienna Meetup
+DESCRIPTION:There&#39;s another Mozilla Meetup in Vienna!\n\nWe&#39;ll discuss new
+  developments\, initiatives and projects of and surrounding Mozilla. Plann
+ ing future meetups in regular intervals is another topic we&#39;ll talk about.
+ \n\nWe welcome questions\, requests\, and input from all meetup attendees 
+  - no matter if it&#39;s about code\, user issues\, policy activities in suppo
+ rt of the Open Web or other Mozilla topics!
+URL:https://reps.mozilla.org/e/mozilla-vienna-meetup-1/
+SEQUENCE:1
+X-COORDINATES-LAT:48.1860998555
+X-COORDINATES-LON:16.3552571833
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

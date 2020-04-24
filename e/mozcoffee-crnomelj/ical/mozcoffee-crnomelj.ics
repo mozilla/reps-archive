@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@155
+CLASS:PUBLIC
+DTSTAMP:20200423T225459Z
+DTSTART:20121012T160000Z
+DTEND:20121013T100000Z
+LOCATION:Kolodvorska 34\, Črnomelj\, Črnomelj\, Slovenia
+SUMMARY:MozCoffee Črnomelj
+DESCRIPTION:It will be first MozCoffee event in Slovenia. The event will b
+ e held in Črnomelj\, my local town. My goal is to spread the word about M
+ ozilla in my local town. I will present what is Mozilla and how it is diff
+ erent from other companies.
+URL:https://reps.mozilla.org/e/mozcoffee-crnomelj/
+SEQUENCE:0
+X-COORDINATES-LAT:45.57543
+X-COORDINATES-LON:15.19008
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

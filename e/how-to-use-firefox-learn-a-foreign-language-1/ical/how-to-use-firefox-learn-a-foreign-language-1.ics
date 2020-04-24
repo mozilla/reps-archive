@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4986
+CLASS:PUBLIC
+DTSTAMP:20200423T153429Z
+DTSTART:20160411T080000Z
+DTEND:20160411T090000Z
+LOCATION:Xinjiang Education Institute Shiyan Primary School\, urumqi\, Chi
+ na
+SUMMARY:How to use Firefox learn a foreign language
+DESCRIPTION:What have we learned? Activities and summary\nHow to use Firef
+ ox learn a foreign language\nHow to use Firefox learn a foreign language\n
+ Understanding scratch\nHour of Code
+URL:https://reps.mozilla.org/e/how-to-use-firefox-learn-a-foreign-language
+ -1/
+SEQUENCE:7
+X-COORDINATES-LAT:43.8010816177
+X-COORDINATES-LON:2607.61427736
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

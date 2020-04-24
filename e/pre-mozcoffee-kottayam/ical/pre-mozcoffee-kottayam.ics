@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8075
+CLASS:PUBLIC
+DTSTAMP:20200423T090642Z
+DTSTART:20180901T050000Z
+DTEND:20180901T130000Z
+LOCATION:Mozspace Kottayam\, Kottayam\, India
+SUMMARY:Pre Mozcoffee Kottayam
+DESCRIPTION:Meetup of new and existing members of the community who will i
+ ntroduce each other\, plan future initiatives\, assign roles and share kno
+ wledge.
+URL:https://reps.mozilla.org/e/pre-mozcoffee-kottayam/
+SEQUENCE:1
+X-COORDINATES-LAT:9.58514530605
+X-COORDINATES-LON:76.5270863773
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

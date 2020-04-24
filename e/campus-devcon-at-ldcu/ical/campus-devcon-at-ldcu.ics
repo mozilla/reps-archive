@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@870
+CLASS:PUBLIC
+DTSTAMP:20200423T213121Z
+DTSTART:20130626T050000Z
+DTEND:20130626T090000Z
+LOCATION:Liceo de Cagayan University\, Cagayan De Oro City\, Philippines
+SUMMARY:Campus DevCon at LDCU
+DESCRIPTION:Developers Connect (DevCon) Philippines is organizing a Campus
+  DevCon at Liceo de Cagayan University (Cagayan de Oro City) on June 26 \,
+  2013 (Wednesday) 1PM-5PM. The event’s objective is to provide an ideal 
+ venue for over 250 IT students to learn the latest trends and opportunitie
+ s from key players of the IT community.
+URL:https://reps.mozilla.org/e/campus-devcon-at-ldcu/
+SEQUENCE:3
+X-COORDINATES-LAT:8.46829734837
+X-COORDINATES-LON:124.64263916
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

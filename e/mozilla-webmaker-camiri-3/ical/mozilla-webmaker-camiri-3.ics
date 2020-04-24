@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2102
+CLASS:PUBLIC
+DTSTAMP:20200423T200511Z
+DTSTART:20140410T180000Z
+DTEND:20140410T220000Z
+LOCATION:Capitan Manchego Street\, Camiri\, Bolivia
+SUMMARY:Mozilla WebMaker Camiri 3
+DESCRIPTION:This is a great project!... We&#39;ll have like 12 events in 4 dif
+ ferents high school of Camiri City! and with at least 160 student in each 
+ event.\nThis is the second one!!!! And there will be 4 groups (events) in 
+ Juan Pablo II High School. Willy Andres Acosta is the Mozillians who is or
+ ganizing these events in Camiri and member of Mozilla Bolivia.
+URL:https://reps.mozilla.org/e/mozilla-webmaker-camiri-3/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.0362985026
+X-COORDINATES-LON:-63.5190371275
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

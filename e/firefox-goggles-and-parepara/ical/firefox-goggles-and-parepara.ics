@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4230
+CLASS:PUBLIC
+DTSTAMP:20200423T165813Z
+DTSTART:20150729T023000Z
+DTEND:20150729T043000Z
+LOCATION:China Urumqi Nanhu Xudong Community\, Urumqi\, China
+SUMMARY:makerparty --firefox，goggles and parepara
+DESCRIPTION:makerparty Together to create something
+URL:https://reps.mozilla.org/e/firefox-goggles-and-parepara/
+SEQUENCE:5
+X-COORDINATES-LAT:43.8195607031
+X-COORDINATES-LON:2607.6072396
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

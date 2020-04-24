@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8055
+CLASS:PUBLIC
+DTSTAMP:20200423T085855Z
+DTSTART:20181006T083000Z
+DTEND:20181006T123000Z
+LOCATION:NIT Silchar\, Silchar\, India
+SUMMARY:Kotlin for Javascript
+DESCRIPTION:Kotlin is a next-generation programming language by the great 
+ people of JetBrains\, which is gaining popularity with the Android develop
+ ment community as a replacement for old good Java. Did you know that Kotli
+ n can be used not only for programming for Server side and Android app dev
+ elopment but this is also used for Client side &amp; Native coding. Lets learn
+  about this shining brand new language Kotlin and its role in JS world dur
+ ing NIT Silchar Bootcamp.
+URL:https://reps.mozilla.org/e/kotlin-for-javascript/
+SEQUENCE:1
+X-COORDINATES-LAT:24.8212239065
+X-COORDINATES-LON:92.8082885966
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

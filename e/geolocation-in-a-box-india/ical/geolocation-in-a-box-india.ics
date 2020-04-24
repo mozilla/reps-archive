@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2299
+CLASS:PUBLIC
+DTSTAMP:20200423T194006Z
+DTSTART:20140608T000000Z
+DTEND:20140615T120000Z
+LOCATION:TBD\, Bangalore\, India
+SUMMARY:Geolocation in a Box: India
+DESCRIPTION:Following the success of the first pilot\, this second geoloca
+ tion pilot event will continue to evangelize the community to adopt MozStu
+ mbler &amp; use it on daily basis to enrich the Mozilla location-service.
+URL:https://reps.mozilla.org/e/geolocation-in-a-box-india/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9330008229
+X-COORDINATES-LON:77.6036589145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

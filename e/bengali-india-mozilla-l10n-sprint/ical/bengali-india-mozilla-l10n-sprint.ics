@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2859
+CLASS:PUBLIC
+DTSTAMP:20200423T185524Z
+DTSTART:20140921T043000Z
+DTEND:20140921T182500Z
+LOCATION:#ankur.org.in\, Freenode\, India
+SUMMARY:Bengali-India Mozilla L10n sprint
+DESCRIPTION:Here we are having an aim to complete Bengali-India Mozilla l1
+ 0n. Basically it includes Firefox\,Firefox for Android\,Firefox OS. We wou
+ ld work together using IRC. This is a virtual event.
+URL:https://reps.mozilla.org/e/bengali-india-mozilla-l10n-sprint/
+SEQUENCE:4
+X-COORDINATES-LAT:22.6038688429
+X-COORDINATES-LON:88.2586669922
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

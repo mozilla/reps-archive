@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4381
+CLASS:PUBLIC
+DTSTAMP:20200423T164854Z
+DTSTART:20150827T160000Z
+DTEND:20150827T193000Z
+LOCATION:Active Solution Sverige AB\, Kungstensgatan 23A\, Stockholm\, Swe
+ den
+SUMMARY:Guest talk at Swenug MAT Event
+DESCRIPTION:Guest talk by me at a Microsoft .Net Usergroup Microsoft L10n 
+ Event\nGot 5-15 minutes in the ending :)
+URL:https://reps.mozilla.org/e/guest-talk-at-swenug-mat-event/
+SEQUENCE:6
+X-COORDINATES-LAT:59.3265054072
+X-COORDINATES-LON:18.0626449361
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

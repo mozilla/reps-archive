@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@753
+CLASS:PUBLIC
+DTSTAMP:20200423T211507Z
+DTSTART:20130831T043000Z
+DTEND:20130831T073000Z
+LOCATION:Bhoj Reddy College for Women\,\, 17-1-209/B\, Vinay Nagar\, Saida
+ bad\, Hyderabad\, India
+SUMMARY:WoMoz Rise @ Bhoj Reddy College for Women
+DESCRIPTION:Session on Mozilla &amp; its Products\,Mozilla WebFWD\, Usage of B
+ ugzilla\,How can we contribute to Mozilla?\nMozilla Manifesto\,Womoz\,Fire
+ fox OS\,Webmaker tools
+URL:https://reps.mozilla.org/e/moz-rise/
+SEQUENCE:19
+X-COORDINATES-LAT:17.354857
+X-COORDINATES-LON:78.509082
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

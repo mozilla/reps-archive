@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6597
+CLASS:PUBLIC
+DTSTAMP:20200423T110852Z
+DTSTART:20170518T170000Z
+DTEND:20170518T190000Z
+LOCATION:Liip\, Limmatstrasse 188\, Zürich\, Zurich\, Switzerland
+SUMMARY:Firefox 57 - what is coming in November?
+DESCRIPTION:In November Mozilla will release one of the biggest releases e
+ ver - Firefox 57. Michael will discuss the feature set as well as the road
+  ahead. Project Quantum as well as Photon will be discussed with examples.
+URL:https://reps.mozilla.org/e/firefox-57-what-is-coming-in-november/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3861682788
+X-COORDINATES-LON:8.52930164328
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5435
+CLASS:PUBLIC
+DTSTAMP:20200423T152634Z
+DTSTART:20160511T103000Z
+DTEND:20160511T133000Z
+LOCATION:CS Dept.\, National Chiao-Tung University\, Hsinchu City\, Taiwan
+SUMMARY:Orientation talk of NCTU service learning project
+DESCRIPTION:Collaboration between MozTW\, KDE Taiwan and OSSACC on offer s
+ tudent opportunity to contributing to OSS projects. I will check the progr
+ ess of each students who had signed up to contributing to Mozilla projects
+ .
+URL:https://reps.mozilla.org/e/orientation-talk-of-nctu-service-learning-p
+ roject-3/
+SEQUENCE:2
+X-COORDINATES-LAT:24.7872276507
+X-COORDINATES-LON:120.997410491
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

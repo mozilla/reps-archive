@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7931
+CLASS:PUBLIC
+DTSTAMP:20200423T091814Z
+DTSTART:20180710T043000Z
+DTEND:20180710T123000Z
+LOCATION:GIC\, GTU\, Ahmedabad\, India
+SUMMARY:Rust Hack
+DESCRIPTION:The Rust programming language will be important to the future 
+ of the web\, making it safe and great. The event is focused on introducing
+  and teaching the &#39;Trust Rust can Entrust&#39; on coding to Young developers a
+ nd engineers who make the web better and more secure!.
+URL:https://reps.mozilla.org/e/rust-hack-3/
+SEQUENCE:0
+X-COORDINATES-LAT:23.0325141212
+X-COORDINATES-LON:72.5461606972
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

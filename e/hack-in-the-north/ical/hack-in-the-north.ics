@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5133
+CLASS:PUBLIC
+DTSTAMP:20200423T153912Z
+DTSTART:20160325T043000Z
+DTEND:20160327T133000Z
+LOCATION:IIIT Allahabad\, Allahabad\, India
+SUMMARY:Hack in the North
+DESCRIPTION:IIIT Allahabad presents Hack In The North (Hackathon) to be he
+ ld from 25th to 27th of March (tentative) based on the theme of Digital In
+ dia. Hack In The North is a collaboration of programmers and designers to 
+ code\, design and build innovative solutions to transform India into a dig
+ itally empowered society and knowledge economy. \nHack In The North will p
+ rovide a venue for self expression and creativity through technology.
+URL:https://reps.mozilla.org/e/hack-in-the-north/
+SEQUENCE:1
+X-COORDINATES-LAT:25.4296920194
+X-COORDINATES-LON:81.772919476
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

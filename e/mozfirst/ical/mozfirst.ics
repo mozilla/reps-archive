@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1821
+CLASS:PUBLIC
+DTSTAMP:20200423T202757Z
+DTSTART:20140211T033000Z
+DTEND:20140211T100000Z
+LOCATION:Mody Institute of Technology and Science\, Lakshmangarh\, Sikar\,
+  India
+SUMMARY:MozFirst
+DESCRIPTION:Introducing Mozilla to many MITS students\, and Inauguration o
+ f Mozilla MITS club.
+URL:https://reps.mozilla.org/e/mozfirst/
+SEQUENCE:22
+X-COORDINATES-LAT:27.8215576783
+X-COORDINATES-LON:75.0334167341
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4287
+CLASS:PUBLIC
+DTSTAMP:20200423T162659Z
+DTSTART:20151017T043000Z
+DTEND:20151017T113000Z
+LOCATION:UPES\, Dehradun\, Dehradun\, India
+SUMMARY:Maker Party Dehradun
+DESCRIPTION:Maker  Party Dehradun is the second event from Mozilla Dehrdau
+ n. We organised  Maker Party UPES on February 20\, 2015 in University of P
+ etroleum &amp;  Energy Studies\, Dehradun. \nThis time\, we have planned a cit
+ y wide technical expo again in  University of Petroleum &amp; Energy Studies\,
+  Dehradun. We have inputs  from 4 Firefox clubs in the city namely DIT Fir
+ efox Club\, GEHU Firefox  Club\, DBIT Firefox Club and UPES Firefox Club. 
+ Maker Party Dehradun is  in collaboration with UPES Open Source Community.
+URL:https://reps.mozilla.org/e/maker-party-dehradun/
+SEQUENCE:4
+X-COORDINATES-LAT:30.3200874899
+X-COORDINATES-LON:78.0392074445
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

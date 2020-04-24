@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4021
+CLASS:PUBLIC
+DTSTAMP:20200423T171357Z
+DTSTART:20150614T143000Z
+DTEND:20150614T163000Z
+LOCATION:Google Hangout\, Hangout\, India
+SUMMARY:L10n Online Training Session
+DESCRIPTION:L10n Online Training Session for Localization in Hindi.
+URL:https://reps.mozilla.org/e/l10n-online-training-session/
+SEQUENCE:0
+X-COORDINATES-LAT:23.8858376967
+X-COORDINATES-LON:81.9140624886
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

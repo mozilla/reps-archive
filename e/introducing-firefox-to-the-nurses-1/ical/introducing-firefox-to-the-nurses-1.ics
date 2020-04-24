@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5598
+CLASS:PUBLIC
+DTSTAMP:20200423T151634Z
+DTSTART:20160630T100000Z
+DTEND:20160630T110000Z
+LOCATION:MIH\, Pamplemousses\, Mauritius
+SUMMARY:Introducing Firefox to the Nurses
+DESCRIPTION:This is a second session of series of presentation fro Nurses 
+ in Mauritius where about 50 student nurses will attended a short demonstra
+ tion of a Virtual Health Library Mauritius where Firefox will be used as t
+ he main browser to retrieve information through several database. Moz Rep 
+ Ganesh will be conducting this session
+URL:https://reps.mozilla.org/e/introducing-firefox-to-the-nurses-1/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.1133800335
+X-COORDINATES-LON:57.5714721624
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5668
+CLASS:PUBLIC
+DTSTAMP:20200423T150327Z
+DTSTART:20160820T033000Z
+DTEND:20160820T113000Z
+LOCATION:Cummins College of Engineering for Women\, Pune\, India
+SUMMARY:Mozilla and much more
+DESCRIPTION:This is a WoMoz event organized by Rishita Bansal. The first h
+ alf is dedicated for the introduction of Open Source and Mozilla. The seco
+ nd half is dedicated to Privacy and Security hackathon. Kindly check the d
+ etailed agenda in the above URL.
+URL:https://reps.mozilla.org/e/mozilla-and-much-more/
+SEQUENCE:5
+X-COORDINATES-LAT:18.4863239856
+X-COORDINATES-LON:73.8163107631
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

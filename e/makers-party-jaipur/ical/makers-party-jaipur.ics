@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3518
+CLASS:PUBLIC
+DTSTAMP:20200423T174429Z
+DTSTART:20150312T033000Z
+DTEND:20150312T123000Z
+LOCATION:Global Institute of Technology\, Jaipur\, Jaipur\, India
+SUMMARY:Makers Party Jaipur
+DESCRIPTION:Makers Party Jaipur is going to be one of the greatest Show (a
+ nd Tell) — a family-friendly showcase of invention\, creativity and reso
+ urcefulness\, and a celebration of the Maker movement. It’s a place wher
+ e people show what they are making\, and share what they are learning.
+URL:https://reps.mozilla.org/e/makers-party-jaipur/
+SEQUENCE:5
+X-COORDINATES-LAT:26.7815783301
+X-COORDINATES-LON:75.8994139731
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

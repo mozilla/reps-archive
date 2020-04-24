@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@262
+CLASS:PUBLIC
+DTSTAMP:20200423T224826Z
+DTSTART:20121106T150000Z
+DTEND:20121106T230000Z
+LOCATION:TBD\, San Jose\, Costa Rica
+SUMMARY:OWASP Day Costa Rica 2012
+DESCRIPTION:The newly-formed OWASP chapter in Costa Rica is getting starte
+ d with a series of security talks\, and they invited me to represent Mozil
+ la. I decided to give a talk on add-on security.
+URL:https://reps.mozilla.org/e/owasp-day-costa-rica-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:9.93334405371
+X-COORDINATES-LON:-84.0838623047
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

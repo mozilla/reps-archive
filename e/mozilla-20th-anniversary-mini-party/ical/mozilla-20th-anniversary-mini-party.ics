@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7582
+CLASS:PUBLIC
+DTSTAMP:20200423T094918Z
+DTSTART:20180330T113000Z
+DTEND:20180330T133000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Taipei City\, Taiwa
+ n
+SUMMARY:Mozilla 20th Birthday Mini-party
+DESCRIPTION:Mozilla turns 20 on 3/31. MozTW will hold a mini-party during 
+ the weekly MozTW Lab (a MozCafe-like event) time with fellow Mozillians in
+  celebration of Mozilla&#39;s birthday!\n\nWe&#39;ll prepare a cake to share with 
+ everyone. Anyone is welcomed to join with us\, no matter you&#39;re a Mozillia
+ n or not :)
+URL:https://reps.mozilla.org/e/mozilla-20th-anniversary-mini-party/
+SEQUENCE:1
+X-COORDINATES-LAT:25.0441614969
+X-COORDINATES-LON:121.532384276
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

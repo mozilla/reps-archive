@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@137
+CLASS:PUBLIC
+DTSTAMP:20200423T225357Z
+DTSTART:20121015T140000Z
+DTEND:20121019T220000Z
+LOCATION:UAGRM - Av. Bush 2do Anillo\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:CCBOL 2012
+DESCRIPTION:CCBOL - XIX National Congress of Computer Science\, is a confe
+ rence where usually attend more college students across the country\, abou
+ t 500 people gather for this congress. Mozilla will have a presentation on
+  its new Firefox OS as well as a place (a booth) where be promoting Mozill
+ a products\, and represents a good option for Firefox users increase and a
+ lso increase web application developers serving to Firefox OS.
+URL:https://reps.mozilla.org/e/ccbol-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.774598063
+X-COORDINATES-LON:-63.195848465
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

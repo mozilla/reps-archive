@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3751
+CLASS:PUBLIC
+DTSTAMP:20200423T172948Z
+DTSTART:20150425T070000Z
+DTEND:20150425T160000Z
+LOCATION:Literaturhaus München\, Munich\, Germany
+SUMMARY:stARTcamp München 2015
+DESCRIPTION:A barcamp for art\, culture\, science and communications in th
+ e digital space-
+URL:https://reps.mozilla.org/e/startcamp-munchen-2015/
+SEQUENCE:0
+X-COORDINATES-LAT:48.1420073393
+X-COORDINATES-LON:11.5750028192
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

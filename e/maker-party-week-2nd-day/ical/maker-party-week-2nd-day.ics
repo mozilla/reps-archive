@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2525
+CLASS:PUBLIC
+DTSTAMP:20200423T192119Z
+DTSTART:20140730T140000Z
+DTEND:20140730T170000Z
+LOCATION:Av. Ana Costa\, 340 - Estação da Cidadania\, Santos\, Brazil
+SUMMARY:Maker Party Week 2nd day
+DESCRIPTION:A great opportunity to share knowledge and to learn about the 
+ web\, privacy and freedom. The plan is to do a full week of Maker Party at
+  São Paulo state.
+URL:https://reps.mozilla.org/e/maker-party-week-2nd-day/
+SEQUENCE:6
+X-COORDINATES-LAT:-23.9589510454
+X-COORDINATES-LON:-46.3319824934
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

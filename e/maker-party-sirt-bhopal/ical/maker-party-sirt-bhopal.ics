@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1340
+CLASS:PUBLIC
+DTSTAMP:20200423T210540Z
+DTSTART:20130927T073000Z
+DTEND:20130927T093000Z
+LOCATION:SIRT - Excellence College bhopal\, Bhopal\, India
+SUMMARY:Maker Party @ SIRT- Bhopal
+DESCRIPTION:Mozilla Community Bhopal again come along with a Passionate\, 
+ and Enthusiasm &#34;Ardous Firefox Club&#34; and ready with bang up for lots of ha
+ nds-on making and peer learning \;)\nCommunity Bhopal is glad to organize 
+ mozilla webmaker event with Ardous Firefox Club in SIRT college campus. Ma
+ ker Party @ SIRT - Bhopal\, a workshop to bring awareness on FOSS\, Mozill
+ a Projects and recruit new contributors in to different projects on Mozill
+ a.
+URL:https://reps.mozilla.org/e/maker-party-sirt-bhopal/
+SEQUENCE:2
+X-COORDINATES-LAT:23.3019011242
+X-COORDINATES-LON:77.3870944977
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

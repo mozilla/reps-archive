@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7000
+CLASS:PUBLIC
+DTSTAMP:20200423T102827Z
+DTSTART:20171007T053000Z
+DTEND:20171007T083000Z
+LOCATION:CCD \, Inside Hotel Capitol Hill\, MG Road\, Ranchi\, India
+SUMMARY:Firefox 57 Sprint Ranchi
+DESCRIPTION:* Introduction talk\, why this work is important for Firefox i
+ n this region\n* Participants install Nightly for Desktop\n* Check the Ale
+ xa list of the most famous websites and choose the website you want to tes
+ t.\n* Once you have finished testing a website go and report it on the rep
+ ort form\, you will find all the info you need on how to report your work\
+ n* Keep doing the awesome work and make Firefox better!\n* At the end of t
+ he event\, the nickname with the most tested sites will get a t-shirt
+URL:https://reps.mozilla.org/e/firefox-57-sprint-ranchi/
+SEQUENCE:1
+X-COORDINATES-LAT:23.3617457148
+X-COORDINATES-LON:85.3420257429
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

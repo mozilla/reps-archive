@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3259
+CLASS:PUBLIC
+DTSTAMP:20200423T195622Z
+DTSTART:20140430T150000Z
+DTEND:20140430T180000Z
+LOCATION:Thessaloniki City Hall\, Thessaloniki\, Greece
+SUMMARY:We are Together
+DESCRIPTION:All the tech communities of Thessaloniki in one place at the s
+ ame time\, presenting what they are passionate about in a relaxed and casu
+ al way. Let the geek inside you run wild in this pure tech mashup!
+URL:https://reps.mozilla.org/e/we-are-together/
+SEQUENCE:1
+X-COORDINATES-LAT:40.6224519362
+X-COORDINATES-LON:22.9539813992
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

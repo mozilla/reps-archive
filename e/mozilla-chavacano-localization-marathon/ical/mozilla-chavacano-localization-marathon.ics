@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@498
+CLASS:PUBLIC
+DTSTAMP:20200423T221726Z
+DTSTART:20130128T090000Z
+DTEND:20130128T110000Z
+LOCATION:Southern City College\, Zamboanga City\, Philippines
+SUMMARY:Mozilla Chavacano Localization Marathon
+DESCRIPTION:After the successful event of MozTour in Southern City College
+ \, They organized an follow-up event in-connection to the localization eff
+ ort of Zamboanga the Chavacano. The event participants will do a hands-on 
+ localization using the Chavacano module.
+URL:https://reps.mozilla.org/e/mozilla-chavacano-localization-marathon/
+SEQUENCE:0
+X-COORDINATES-LAT:6.90461404724
+X-COORDINATES-LON:122.124023438
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

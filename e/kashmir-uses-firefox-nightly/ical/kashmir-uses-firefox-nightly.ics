@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6613
+CLASS:PUBLIC
+DTSTAMP:20200423T110658Z
+DTSTART:20170524T203000Z
+DTEND:20170525T013000Z
+LOCATION:Bangs Srinagar\, Srinagar\, India
+SUMMARY:Kashmir uses Firefox Nightly
+DESCRIPTION:It is an initiative to run a PAN India pilot campaign for Fire
+ fox Nightly. This will help us in creating strong technical community usin
+ g and testing Nightly on a regular basis which is a great way to get invol
+ ved to a Mozilla project. Participants will get aware of Firefox Nightly\,
+ will be installing it on their systems and thus get involved in testing pr
+ e-release versions of Firefox.
+URL:https://reps.mozilla.org/e/kashmir-uses-firefox-nightly/
+SEQUENCE:3
+X-COORDINATES-LAT:34.0723553571
+X-COORDINATES-LON:74.7905659676
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

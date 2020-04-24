@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7188
+CLASS:PUBLIC
+DTSTAMP:20200423T101945Z
+DTSTART:20171105T033000Z
+DTEND:20171105T133000Z
+LOCATION:Gujarat University Convention and Exhibition Centre\, Ahmedabad\,
+  India
+SUMMARY:Dive Into Rust : DevFest Ahmedabad 2017
+DESCRIPTION:Google Developers Group (GDG) - is open and volunteer geek com
+ munity who create exciting projects and share experience about Google tech
+ nologies with a passion.
+URL:https://reps.mozilla.org/e/dive-into-rust-devfest-ahmedabad-2017/
+SEQUENCE:3
+X-COORDINATES-LAT:23.0763629309
+X-COORDINATES-LON:71.2631821632
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

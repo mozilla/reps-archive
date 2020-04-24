@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1601
+CLASS:PUBLIC
+DTSTAMP:20200423T203004Z
+DTSTART:20140202T040000Z
+DTEND:20140209T140000Z
+LOCATION:Francistown\, Maun &amp; Kasane\, Gaborone\, Botswana
+SUMMARY:MozTour Botswana
+DESCRIPTION:This event shall target youths\, developers and linguists who 
+ are interested to work in open source projects to build communities.We hop
+ e that after this event people shall be empowered and be mentored to grow 
+ into an overall larger community\, from users to core volunteers\, to not 
+ only use Firefox and Mozilla products\, but to advocate and promote\, and 
+ actively participate in Mozilla through small communities set in each town
+ .
+URL:https://reps.mozilla.org/e/moztour-botswana/
+SEQUENCE:13
+X-COORDINATES-LAT:-21.2108725819
+X-COORDINATES-LON:27.5463858247
+X-COUNTRY-CODE:bw
+END:VEVENT
+
+END:VCALENDAR

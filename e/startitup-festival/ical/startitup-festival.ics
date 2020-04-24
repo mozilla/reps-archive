@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1186
+CLASS:PUBLIC
+DTSTAMP:20200423T211302Z
+DTSTART:20130907T140000Z
+DTEND:20130907T200000Z
+LOCATION:LokalPatriot\, Novo mesto\, Slovenia
+SUMMARY:StartItUp! festival
+DESCRIPTION:StartItUp! festival is a one day event held in LokalPatriot\, 
+ Novo mesto. With more that 6 speakers from startup world. We know it will 
+ be a great event. We are expecting more that 100 visitors from Slovenia.\n
+ \nDue to increased collaboration with StartUP Novo mesto\, Mozilla Sloveni
+ a has been invited to help with organization of this event and also to spr
+ ead the word about Mozilla. This is a great opportunity for startups and v
+ isitors to find out more about Mozilla.
+URL:https://reps.mozilla.org/e/startitup-festival/
+SEQUENCE:8
+X-COORDINATES-LAT:45.80433
+X-COORDINATES-LON:15.17006
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

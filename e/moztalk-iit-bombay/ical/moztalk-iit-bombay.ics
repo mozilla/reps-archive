@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@903
+CLASS:PUBLIC
+DTSTAMP:20200423T213728Z
+DTSTART:20130602T103000Z
+DTEND:20130602T123000Z
+LOCATION:GG 001\, Electrical Department\, IIT Bombay\, Mumbai\, India
+SUMMARY:MozTalk @ IIT Bombay
+DESCRIPTION:First in the series of three events at IIT Bombay\, the event 
+ will be two hour in duration\, which is focused on introducing the world o
+ f Mozilla and open source development to the students of Indian Institute 
+ of Technology\, Bombay. This event is in collaboration with Web and Coding
+  Club (WnCC)\, IIT Bombay.\n\nSpeakers: \nAnkit Bahuguna (Opening Keynote 
+ + Intro to world of Mozilla + FirefoxOS Phone Demo)\nAbhishek Potnis (Mozi
+ lla Bug Fixing)\nAmod Narvekar (Open Web Apps)
+URL:https://reps.mozilla.org/e/moztalk-iit-bombay/
+SEQUENCE:9
+X-COORDINATES-LAT:19.1343837451
+X-COORDINATES-LON:72.9142856598
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

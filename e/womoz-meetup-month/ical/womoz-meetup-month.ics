@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3845
+CLASS:PUBLIC
+DTSTAMP:20200423T170954Z
+DTSTART:20150624T180000Z
+DTEND:20150624T200000Z
+LOCATION:Abidjan\, Abidjan\, Ivory Coast
+SUMMARY:Womoz Meetup Month
+DESCRIPTION:this event is a monthly meeting of Women in ICT\, but also to 
+ welcome new contributors to womoz project.\nthis event is a monthly meetin
+ g of Women in ICT\, but also to welcome new contributors to womoz project.
+ \nIt takes place every last Wednesday of the month.
+URL:https://reps.mozilla.org/e/womoz-meetup-month/
+SEQUENCE:2
+X-COORDINATES-LAT:5.30611998868
+X-COORDINATES-LON:-4.00634855032
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

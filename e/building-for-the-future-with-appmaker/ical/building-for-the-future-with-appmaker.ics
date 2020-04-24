@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2552
+CLASS:PUBLIC
+DTSTAMP:20200423T191748Z
+DTSTART:20140808T060000Z
+DTEND:20140808T120000Z
+LOCATION:Jomo Kenyatta University of Agriculture and Technology Mombasa\, 
+ Kenya\, Mombasa\, Kenya
+SUMMARY:Building for the Future with Appmaker
+DESCRIPTION:This event is aimed at introducing Mozilla Appmaker\; Appmaker
+  is a free\, open source app authoring tool that lets you drag and drop in
+ dividual components to build and share custom mobile apps right in your we
+ b browser. Thereafter encourage participants to develop a prototype applic
+ ation using Appmaker.\n\nThrough this\, participants will be led through s
+ ome of the best practices of Mobile Apps Development and UI/UX Design.
+URL:https://reps.mozilla.org/e/building-for-the-future-with-appmaker/
+SEQUENCE:5
+X-COORDINATES-LAT:-4.05811098462
+X-COORDINATES-LON:39.7796058655
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

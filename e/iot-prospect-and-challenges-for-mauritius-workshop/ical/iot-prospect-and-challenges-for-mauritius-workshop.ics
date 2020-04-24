@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5448
+CLASS:PUBLIC
+DTSTAMP:20200423T152523Z
+DTSTART:20160517T050000Z
+DTEND:20160517T113000Z
+LOCATION:Octave Wiehe Auditorium\, Moka\, Mauritius
+SUMMARY:IoT prospect and challenges for Mauritius workshop
+DESCRIPTION:A workshop will be held where the theme will be on Internet of
+  Things  - prospect and challenges for Mauritius. Several speakers will ta
+ lk about IoT as an emerging sector. Speakers from local institutions and a
+  Professor from University of Southampton talked about IoT and its numerou
+ s possibilities available.  I have been able to talk to university lecture
+ rs and students regarding Mozilla projects which is inline with Mozilla Co
+ nnected Devices initiative.
+URL:https://reps.mozilla.org/e/iot-prospect-and-challenges-for-mauritius-w
+ orkshop/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.2295162762
+X-COORDINATES-LON:57.5013484899
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

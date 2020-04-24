@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5737
+CLASS:PUBLIC
+DTSTAMP:20200423T145552Z
+DTSTART:20160917T060000Z
+DTEND:20160917T100000Z
+LOCATION:Jakarta community space\, Jakarta\, Indonesia
+SUMMARY:MozBelajar Hello Python 101
+DESCRIPTION:This is an introduction class to Python. The curriculum would 
+ be based on https://kelaskita.com/ridwanbejo/kelas/pemrograman-python-dasa
+ r/
+URL:https://reps.mozilla.org/e/hello-python-1-0-1/
+SEQUENCE:6
+X-COORDINATES-LAT:-7.05864523767
+X-COORDINATES-LON:110.5052948
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4314
+CLASS:PUBLIC
+DTSTAMP:20200423T165044Z
+DTSTART:20150820T170000Z
+DTEND:20150820T190000Z
+LOCATION:St. Oberholz (Rosenthaler Str. 72A)\, Berlin\, Berlin\, Germany
+SUMMARY:Bi-weekly Code Contributor Meetup Berlin
+DESCRIPTION:Florian Merz will organize this.\n\nThe bi-weekly Code Contrib
+ utor Meetup is a meetup to meet other code contributors and hack on your b
+ ugs\, or just have a chat about what&#39;s going on in the Mozilla universe.
+URL:https://reps.mozilla.org/e/bi-weekly-code-contributor-meetup-berlin/
+SEQUENCE:1
+X-COORDINATES-LAT:52.5294572856
+X-COORDINATES-LON:13.4020128247
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

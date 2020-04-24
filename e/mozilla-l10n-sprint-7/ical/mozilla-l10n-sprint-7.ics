@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@406
+CLASS:PUBLIC
+DTSTAMP:20200423T223253Z
+DTSTART:20121219T020000Z
+DTEND:20121219T060000Z
+LOCATION:Community Space\, Hanoi \, Hanoi\, Vietnam
+SUMMARY: Mozilla L10N Sprint #7
+DESCRIPTION: Localization sprint to translate Firefox Vietnamese. The goal
+  of these events to have fun localization Firefox Aurora and gain localiza
+ tion skills as well. 
+URL:https://reps.mozilla.org/e/mozilla-l10n-sprint-7/
+SEQUENCE:0
+X-COORDINATES-LAT:20.879342972
+X-COORDINATES-LON:105.952148438
+X-COUNTRY-CODE:vn
+END:VEVENT
+
+END:VCALENDAR

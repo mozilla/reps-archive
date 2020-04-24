@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1732
+CLASS:PUBLIC
+DTSTAMP:20200423T203306Z
+DTSTART:20140120T110000Z
+DTEND:20140120T190000Z
+LOCATION:Casa de Cultura Digital de Campinas\, Campinas\, Brazil
+SUMMARY:Campinas&#39; Education Freedom Day
+DESCRIPTION:Education Freedom Day is a worldwide celebration of Free Educa
+ tional Resources. Campinas edition will include a translation party\, to t
+ ranslate the &#34;Open Education Handbook&#34;.
+URL:https://reps.mozilla.org/e/campinas-education-freedom-day/
+SEQUENCE:3
+X-COORDINATES-LAT:-22.8935354068
+X-COORDINATES-LON:-47.0677628518
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

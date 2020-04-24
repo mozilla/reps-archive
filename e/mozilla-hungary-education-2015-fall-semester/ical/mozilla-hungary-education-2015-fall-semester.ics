@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4196
+CLASS:PUBLIC
+DTSTAMP:20200423T164434Z
+DTSTART:20150908T220000Z
+DTEND:20151215T230000Z
+LOCATION:Colleges and Universities across the Carpathian Basin\, Budapest\
+ , Hungary
+SUMMARY:Mozilla Hungary Education - 2015 fall semester
+DESCRIPTION:All necessary preparations needed for the 2015 fall education 
+ semester. Conference presence for presenting the Education efforts\, semes
+ ter opening ceremony in Dunaújváros\, the Firefox OS and Webmaker K-MOOC
+  courses\, and the semester-closing ceremony with the Firefox OS Education
+  Award.\n\nFor detailed information see below or visit the linked wiki pag
+ e.
+URL:https://reps.mozilla.org/e/mozilla-hungary-education-2015-fall-semeste
+ r/
+SEQUENCE:3
+X-COORDINATES-LAT:47.4375007834
+X-COORDINATES-LON:19.0363776684
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

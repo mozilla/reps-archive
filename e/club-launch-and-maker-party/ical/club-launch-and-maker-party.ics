@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4554
+CLASS:PUBLIC
+DTSTAMP:20200423T162249Z
+DTSTART:20151026T043000Z
+DTEND:20151026T094500Z
+LOCATION:IIIT HYderabad\, Ibrahimpatnam\, India
+SUMMARY:Club Launch and Maker Party
+DESCRIPTION:Introducing Mozilla to Sri Indu  Engineering College and launc
+ hing a new club in their college and throwing away a maker party and Hands
+ -on Session on Firefox OS App development
+URL:https://reps.mozilla.org/e/club-launch-and-maker-party/
+SEQUENCE:3
+X-COORDINATES-LAT:17.207862471
+X-COORDINATES-LON:78.6175489408
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

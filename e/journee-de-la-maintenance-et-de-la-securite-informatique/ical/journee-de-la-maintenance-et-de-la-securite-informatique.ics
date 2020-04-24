@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6068
+CLASS:PUBLIC
+DTSTAMP:20200423T114218Z
+DTSTART:20161203T074500Z
+DTEND:20161203T180000Z
+LOCATION:Université Nangui Abrogoua (Abobo Adjame)\, Abidjan\, Ivory Coas
+ t
+SUMMARY:Journée de la Maintenance et de la Sécurité Informatique
+DESCRIPTION:Cette journée couvrira notamment les sujets suivants : mainte
+ nance\, prévention\, prédiction\, récyclage \, logiciel libre\, équipe
+ ments de test\, instrumentation\,sécurité informatique\, mesure\, modél
+ isation\, machine learning\, défaillance\, dysfonctionnement\, productivi
+ té\, performance\, sécurisation\, coûts\, anticipation\, intervention\,
+  prévision\, indicateurs\, déviation\, fiabilité\, surveillance\, suivi
+  d&#39;activité\, continuité de services\, gestion de risques\, durée de vi
+ e ...
+URL:https://reps.mozilla.org/e/journee-de-la-maintenance-et-de-la-securite
+ -informatique/
+SEQUENCE:1
+X-COORDINATES-LAT:5.31609035589
+X-COORDINATES-LON:-4.00224208832
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

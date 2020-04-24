@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7490
+CLASS:PUBLIC
+DTSTAMP:20200423T095555Z
+DTSTART:20180303T043000Z
+DTEND:20180304T123000Z
+LOCATION:Parul University\, Vadodara\, India
+SUMMARY:Projection 2k18
+DESCRIPTION:The Moz-a-Thon is a 2-day hackathon for the young coders of ha
+ rdware and software.This event is organized by Parul University Mozilla Cl
+ ub\, where we will be providing the platform to the students where they ca
+ n present their ideas and convert it into innovative products. In this cod
+ ing fest\, the maximum limit of an individual team is 4 members in each te
+ am\, hence individual team has the coding time of 24 hours. \nThere will b
+ e a web extension session too.
+URL:https://reps.mozilla.org/e/projection-2k18/
+SEQUENCE:0
+X-COORDINATES-LAT:22.372401778
+X-COORDINATES-LON:73.3491840377
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9105
+CLASS:PUBLIC
+DTSTAMP:20200423T080624Z
+DTSTART:20191018T113000Z
+DTEND:20191018T123000Z
+LOCATION:Punjab University\, Chandigarh\, India\, Chandigarh\, India
+SUMMARY:Python Workshop
+DESCRIPTION:Introducing basic concepts and hands on for students.
+URL:https://reps.mozilla.org/e/python-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:30.7526678
+X-COORDINATES-LON:76.7569733
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

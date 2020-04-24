@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6321
+CLASS:PUBLIC
+DTSTAMP:20200423T112721Z
+DTSTART:20170225T073000Z
+DTEND:20170225T103000Z
+LOCATION:SRM University\, Chennai\, India
+SUMMARY:Saturday Chillout at SRM Univeristy
+DESCRIPTION:SRMKzilla is one of the leading Campus Club in India. More num
+ ber of Mozilla Contributors contributing to various areas of Contribution 
+ are present here.
+URL:https://reps.mozilla.org/e/saturday-chillout-at-srm-univeristy/
+SEQUENCE:2
+X-COORDINATES-LAT:12.8305445481
+X-COORDINATES-LON:80.0470404627
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

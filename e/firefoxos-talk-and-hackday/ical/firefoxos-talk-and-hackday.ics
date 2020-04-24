@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@602
+CLASS:PUBLIC
+DTSTAMP:20200423T220130Z
+DTSTART:20130319T103000Z
+DTEND:20130319T190000Z
+LOCATION:Malaga\, Málaga\, Spain
+SUMMARY:FirefoxOS talk and hackday
+DESCRIPTION:We will have a FirefoxOS talk and a hackday to show computer s
+ cientists how FirefoxOS works\, what aims for\, what are its internals and
+  create some apps to put on the Marketplace.\n\nWe did the talk in the mor
+ ning\, and around 200 hundred students attended during 2h (1h30 talk\, 30m
+ in for questions). \n\nOn the evening we did the hackaton during 2 hours\,
+  where people started hacking Gaia and adding new features from Android to
+  Gaia (battery on the lockscreen\, for example).
+URL:https://reps.mozilla.org/e/firefoxos-talk-and-hackday/
+SEQUENCE:1
+X-COORDINATES-LAT:36.6871425399
+X-COORDINATES-LON:-4.45083618164
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

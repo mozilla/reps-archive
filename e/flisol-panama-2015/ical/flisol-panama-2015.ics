@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3699
+CLASS:PUBLIC
+DTSTAMP:20200423T172942Z
+DTSTART:20150425T080000Z
+DTEND:20150425T150000Z
+LOCATION:Central University by Panama\, Santiago\, Panama
+SUMMARY:FLISOL PANAMA 2015
+DESCRIPTION:The FLISOL (FLISoL) is the largest in Latin America broadcast 
+ event free software. Conducted since 2005 and since 2008 its performance S
+ aturday 4th April each year was adopted. Mozilla Nicaragua will establish 
+ a stand\, to serve the public. and will offer a series of three talks on t
+ opics related to free web and application development firefox os
+URL:https://reps.mozilla.org/e/flisol-panama-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:8.1312604512
+X-COORDINATES-LON:-81.0324668954
+X-COUNTRY-CODE:pa
+END:VEVENT
+
+END:VCALENDAR

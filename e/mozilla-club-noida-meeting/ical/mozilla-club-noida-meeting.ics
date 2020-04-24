@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6487
+CLASS:PUBLIC
+DTSTAMP:20200423T111711Z
+DTSTART:20170410T203000Z
+DTEND:20170410T233000Z
+LOCATION:Noida Institute of Engineering &amp; Technology\, Greater Noida\, Ind
+ ia
+SUMMARY:Mozilla Club Noida Meeting
+DESCRIPTION:This meeting will focus on discussing strategies about Noida C
+ ommunity and campus club and planning for an event under Activate Mozilla 
+ Campaign in Noida region. Interested and potential Mozillians will also be
+  recruited in the community.
+URL:https://reps.mozilla.org/e/mozilla-club-noida-meeting/
+SEQUENCE:2
+X-COORDINATES-LAT:28.467074965
+X-COORDINATES-LON:77.5137339905
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

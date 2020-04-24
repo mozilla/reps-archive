@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6235
+CLASS:PUBLIC
+DTSTAMP:20200423T113541Z
+DTSTART:20170119T130000Z
+DTEND:20170119T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:SUMO review day
+DESCRIPTION:Indonesian dashboard is kinda critical nowadays.
+URL:https://reps.mozilla.org/e/sumo-review-day/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.22884399801
+X-COORDINATES-LON:106.853393465
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

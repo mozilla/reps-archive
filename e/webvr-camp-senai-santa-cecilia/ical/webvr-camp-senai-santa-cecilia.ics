@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6732
+CLASS:PUBLIC
+DTSTAMP:20200423T105205Z
+DTSTART:20170722T160000Z
+DTEND:20170722T200000Z
+LOCATION:National Industrial Learning Service -  Santa Cecília\, São Pau
+ lo\, Brazil
+SUMMARY:WebVR Camp @SENAI Santa Cecília
+DESCRIPTION:A-Frame is a web framework for building virtual reality experi
+ ences\, making it easy for anyone to get involved with virtual reality. It
+ s goal is to onboard developers into 3D and advance WebVR\, an open platfo
+ rm for virtual reality that leverages the Web.
+URL:https://reps.mozilla.org/e/webvr-camp-senai-santa-cecilia/
+SEQUENCE:3
+X-COORDINATES-LAT:-23.5480219682
+X-COORDINATES-LON:-46.6332092282
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

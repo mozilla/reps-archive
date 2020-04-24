@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5690
+CLASS:PUBLIC
+DTSTAMP:20200423T150529Z
+DTSTART:20160806T053000Z
+DTEND:20160807T103000Z
+LOCATION:The Bombay International School\, Gilbert Building\, Babulnath\, 
+ 2nd Cross Road\,\, Mumbai\, India
+SUMMARY:Techstart - Maker Party Mumbai
+DESCRIPTION:Techstart is an initiative by antarangfoundation  to enhance a
+ nd improve the knowledge about tech driven communities in collaboration Mo
+ zillak backing the cause. It&#39;s a joint venture to spread Web Literacy. It 
+ brings together various common masses together to know about the Web. The 
+ entire duration of this event is 2 days during which the team would conduc
+ t sessions in colleges\, cafeterias and even slums.
+URL:https://reps.mozilla.org/e/techstart-maker-party-mumbai/
+SEQUENCE:1
+X-COORDINATES-LAT:18.9574058802
+X-COORDINATES-LON:72.8089543898
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

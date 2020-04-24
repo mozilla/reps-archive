@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5033
+CLASS:PUBLIC
+DTSTAMP:20200423T154739Z
+DTSTART:20160220T043000Z
+DTEND:20160220T083000Z
+LOCATION:CMRIT\, Bangalore\, Bangalore\, India
+SUMMARY:Thimble Design Challenge @ Cultura&#39;16 \, CMRIT
+DESCRIPTION:Cultura is an annual cultural and tech fest of CMR Institute o
+ f Technology with a footfall of over 2000 people. \n\nThis time\, they hav
+ e invited Mozilla to be a part of this fest to conduct a design challenge.
+  The facilitators will demonstrate the use of Thimble   and then open up a
+  contest for the next 90 minutes\, where the students will have to create/
+ remix a web hack.  Each round will have elimination and at the end\, the t
+ op one or two groups will be awarded prizes and goodies.
+URL:https://reps.mozilla.org/e/thimble-design-challenge/
+SEQUENCE:11
+X-COORDINATES-LAT:12.9739893482
+X-COORDINATES-LON:77.7311682701
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

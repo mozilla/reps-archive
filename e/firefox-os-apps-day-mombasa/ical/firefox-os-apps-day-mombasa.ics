@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@567
+CLASS:PUBLIC
+DTSTAMP:20200423T220037Z
+DTSTART:20130323T050000Z
+DTEND:20130323T130000Z
+LOCATION:Jomo Kenyatta University of Agriculture &amp; Technology Mombasa Camp
+ us\, Mombasa\, Kenya
+SUMMARY:Firefox OS Apps day - Mombasa
+DESCRIPTION:Please join us at Jomo Kenyatta University of Agriculture &amp; Te
+ chnology Mombasa CBD Campus on Saturday January 23\, 2013 to learn\, hack 
+ and celebrate the Firefox OS\, Mozilla&#39;s open source operating system for 
+ the mobile web. 
+URL:https://reps.mozilla.org/e/firefox-os-apps-day-mombasa/
+SEQUENCE:3
+X-COORDINATES-LAT:-4.06412545058
+X-COORDINATES-LON:39.6717381477
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

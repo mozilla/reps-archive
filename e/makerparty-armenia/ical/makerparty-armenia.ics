@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4198
+CLASS:PUBLIC
+DTSTAMP:20200423T165818Z
+DTSTART:20150728T130000Z
+DTEND:20150728T230000Z
+LOCATION:Universidad de Q\, Armenia\, Colombia
+SUMMARY:MakerParty - Armenia
+DESCRIPTION:[This event was cancelled] In celebration of the Maker Party m
+ ovement\, we are organizing a Maker Party in Armenia\, where the attendees
+  can have a learn about Webmaker project. We will focus on the various too
+ ls of Webmaker and creating teaching kits. At the end of the training sess
+ ion attendees will be more confident in creating their own maker parties a
+ nd teach the others. Teachers will learn how to use Webmaker tools in thei
+ r classes and how to make it a great resource with different students.
+URL:https://reps.mozilla.org/e/makerparty-armenia/
+SEQUENCE:5
+X-COORDINATES-LAT:4.52429029364
+X-COORDINATES-LON:-75.6667785672
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

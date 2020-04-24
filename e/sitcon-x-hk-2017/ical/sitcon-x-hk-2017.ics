@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7074
+CLASS:PUBLIC
+DTSTAMP:20200423T103410Z
+DTSTART:20171002T020000Z
+DTEND:20171002T103000Z
+LOCATION:City University of Hong Kong\, Hong Kong\, Hong Kong
+SUMMARY:SITCON x HK 2017
+DESCRIPTION:SITCON x HK is Student IT Conference in Hong Kong. Mozilla wil
+ l speak for technology culture difference and chit-chat with students\, so
+  students can know how they can contribute to the community.
+URL:https://reps.mozilla.org/e/sitcon-x-hk-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:22.3371341402
+X-COORDINATES-LON:114.173216343
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

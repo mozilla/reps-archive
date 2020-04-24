@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@165
+CLASS:PUBLIC
+DTSTAMP:20200423T225227Z
+DTSTART:20121020T070000Z
+DTEND:20121021T170000Z
+LOCATION:Escuela Universitaria de Informática de la Univers\, Madrid\, Sp
+ ain
+SUMMARY:DrupalCamp Spain 2012
+DESCRIPTION:The biggest annual event organized for and by lovers of Drupal
+  in Spain will be held this year in Madrid\, at the Escuela Universitaria 
+ de Informática de la UPM during the weekend of the 20th and 21st of Octob
+ er.\nThis is the third edition there will be presentations in different la
+ nguages\, for different levels of expertise\, and different profiles\, BoF
+ s\, sprints and much more.
+URL:https://reps.mozilla.org/e/drupalcamp-spain-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:40.3896389802
+X-COORDINATES-LON:-3.62600326538
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

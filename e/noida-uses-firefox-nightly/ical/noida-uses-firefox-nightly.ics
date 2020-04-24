@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6601
+CLASS:PUBLIC
+DTSTAMP:20200423T110323Z
+DTSTART:20170604T083000Z
+DTEND:20170604T113000Z
+LOCATION:Knowledge Park - II Education and Seminar Hall\, Greater Noida\, 
+ India
+SUMMARY:Noida uses Firefox Nightly
+DESCRIPTION:It is an initiative to run a PAN India pilot campaign for Fire
+ fox Nightly. This will help us in creating strong technical community usin
+ g and testing Nightly on a regular basis which is a great way to get invol
+ ved to a Mozilla project. Participants will get aware of Firefox Nightly\,
+ will be installing it on their systems and thus get involved in testing pr
+ e-release versions of Firefox.
+URL:https://reps.mozilla.org/e/noida-uses-firefox-nightly/
+SEQUENCE:4
+X-COORDINATES-LAT:28.4625070124
+X-COORDINATES-LON:77.5058286823
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

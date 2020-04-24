@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2992
+CLASS:PUBLIC
+DTSTAMP:20200423T184232Z
+DTSTART:20141022T043000Z
+DTEND:20141022T093000Z
+LOCATION:St. Clare&#39;s\, Kodarma\, India
+SUMMARY:MozIntro @ St. Clare&#39;s
+DESCRIPTION:This event is organized to spread web literacy among school ki
+ ds\, Open Source in context with Mozilla. In addition introducing FirefoxO
+ S to them and share the successful launch of FirefoxOS in India.\nWebmaker
+  will be explained in detail to let them directly kick start shaping web t
+ heir own way.
+URL:https://reps.mozilla.org/e/mozintro-st-clares/
+SEQUENCE:12
+X-COORDINATES-LAT:26.8724274969
+X-COORDINATES-LON:75.3911132365
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

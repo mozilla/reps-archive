@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2892
+CLASS:PUBLIC
+DTSTAMP:20200423T185602Z
+DTSTART:20140920T120000Z
+DTEND:20140920T220000Z
+LOCATION:Laboratório Hacker de Campinas\, Campinas\, Brazil
+SUMMARY:Software Freedom Day 2014 Campinas
+DESCRIPTION:SFD is a worldwide celebration of Free and Open Source Softwar
+ e (FOSS). Our goal in this celebration is to educate the worldwide public 
+ about the benefits of using high quality FOSS in education\, in government
+ \, at home\, and in business -- in short\, everywhere!
+URL:https://reps.mozilla.org/e/software-freedom-day-2014-campinas/
+SEQUENCE:3
+X-COORDINATES-LAT:-22.9080620475
+X-COORDINATES-LON:-47.0778615475
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

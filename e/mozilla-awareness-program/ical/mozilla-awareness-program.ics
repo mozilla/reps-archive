@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@530
+CLASS:PUBLIC
+DTSTAMP:20200423T221402Z
+DTSTART:20130205T030000Z
+DTEND:20130205T040000Z
+LOCATION:Jayamukhi Institute of Technological Sciences\, Narsampet\,Warang
+ al\, India
+SUMMARY:mozilla Awareness Program
+DESCRIPTION: [Description]\n	MozCafe or MozCoffee are short\, informative 
+ &amp; fun informal meetup of small gathering of persons(mozillian or general F
+ irefox enthusiast)\, where the attendees talk about recent activities and 
+ upcoming projects of Mozilla community as well as get ideas and feedback f
+ rom the general public.\nSounds exciting? Join us for the next MozCoffee
+URL:https://reps.mozilla.org/e/mozilla-awareness-program/
+SEQUENCE:0
+X-COORDINATES-LAT:20.6327842504
+X-COORDINATES-LON:76.2890625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

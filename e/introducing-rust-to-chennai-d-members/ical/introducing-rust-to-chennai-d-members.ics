@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6476
+CLASS:PUBLIC
+DTSTAMP:20200423T111448Z
+DTSTART:20170422T093000Z
+DTEND:20170422T113000Z
+LOCATION:Indix\, Chennai\, India
+SUMMARY:Introducing Rust to Chennai D members
+DESCRIPTION:Joining the Chennai D community members meetup event via hango
+ uts to deliver an session about Rust Lang
+URL:https://reps.mozilla.org/e/introducing-rust-to-chennai-d-members/
+SEQUENCE:3
+X-COORDINATES-LAT:13.3816036862
+X-COORDINATES-LON:80.1617431641
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

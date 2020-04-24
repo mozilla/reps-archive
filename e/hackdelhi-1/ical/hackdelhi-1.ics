@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8481
+CLASS:PUBLIC
+DTSTAMP:20200423T083331Z
+DTSTART:20190412T183000Z
+DTEND:20190413T183000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:HackDelhi
+DESCRIPTION:HackDelhi is a platform where\, the students and developers ca
+ n join hands to create something valuable for the society.
+URL:https://reps.mozilla.org/e/hackdelhi-1/
+SEQUENCE:2
+X-COORDINATES-LAT:28.5875301552
+X-COORDINATES-LON:77.3226814263
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

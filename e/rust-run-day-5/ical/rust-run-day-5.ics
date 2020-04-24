@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7804
+CLASS:PUBLIC
+DTSTAMP:20200423T091410Z
+DTSTART:20180728T043000Z
+DTEND:20180728T093000Z
+LOCATION:91SpringBoard\, Kormangala\, Bangalore.\, Bangalore\, India
+SUMMARY:Rust Run - Day 5
+DESCRIPTION:It is a series of part of the Rust Run Series\, 2018. \n\nA di
+ scussion on error handling in Rust from Chapter 9 of The Rust Programming 
+ Language book.\n\nhttps://doc.rust-lang.org/book/second-edition/ch09-00-er
+ ror-handling.html\n\nAttendees are expected to have Rust and Cargo install
+ ed.
+URL:https://reps.mozilla.org/e/rust-run-day-5/
+SEQUENCE:10
+X-COORDINATES-LAT:12.9435
+X-COORDINATES-LON:77.6212
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

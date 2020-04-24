@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@696
+CLASS:PUBLIC
+DTSTAMP:20200423T215919Z
+DTSTART:20130326T160000Z
+DTEND:20130326T180000Z
+LOCATION:Municipality public library of Thessaloniki\, Greece\, Thessaloni
+ ki\, Greece
+SUMMARY:The entrepreneurship and the web - The Firefox OS ecosystem 
+DESCRIPTION:Municipality of Thessaloniki invited Mozilla along with Webvis
+ tas.org community in order to give a session for entrepreneurship and the 
+ web. We are going to present the current status of the web for young entre
+ preneurs and we are going to talk especially for Firerox OS as an opportun
+ ity to invest in.
+URL:https://reps.mozilla.org/e/the-entrepreneurship-and-the-web-the-firefo
+ x-os-ecosystem/
+SEQUENCE:3
+X-COORDINATES-LAT:40.6298606262
+X-COORDINATES-LON:22.9521292448
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4864
+CLASS:PUBLIC
+DTSTAMP:20200423T161506Z
+DTSTART:20151115T043000Z
+DTEND:20151115T120000Z
+LOCATION:SJCE College Campus\, Mysore\, India
+SUMMARY:Firefox OS App Day in a Box at SJCE
+DESCRIPTION:Firefox OS is the brand new operating system developed by Mozi
+ lla. In this workshop participants will be taught how to develop apps for 
+ this platform.\nIt&#39;s a part of Tuxedo - 2015\, an event organized by IEEE 
+ Chapter of SJCE\, Mysore.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-hack/
+SEQUENCE:3
+X-COORDINATES-LAT:12.2574827206
+X-COORDINATES-LON:76.6759872437
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

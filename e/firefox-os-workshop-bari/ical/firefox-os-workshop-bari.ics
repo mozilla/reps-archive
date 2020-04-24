@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1748
+CLASS:PUBLIC
+DTSTAMP:20200423T202537Z
+DTSTART:20140221T083000Z
+DTEND:20140221T170000Z
+LOCATION:Università degli Studi di Bari - Dipartimento di Informatica\, B
+ ari\, Italy
+SUMMARY:Firefox OS Workshop Bari
+DESCRIPTION:A Firefox OS hands on day\, with talks and pure hacking with I
+ T students at Università di Bari. We&#39;re going to give them background ove
+ r the WebAPIs technology some time before the event and give them topics t
+ o hack the apps on\, but not too narrow to give the chance to invent.\nWe 
+ aim to produce some working applications.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-bari/
+SEQUENCE:11
+X-COORDINATES-LAT:41.1094959114
+X-COORDINATES-LON:16.8816342652
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2192
+CLASS:PUBLIC
+DTSTAMP:20200423T200415Z
+DTSTART:20140411T150000Z
+DTEND:20140427T220000Z
+LOCATION:Mexico City Zocalo\, Aguilera\, Mexico
+SUMMARY:Digital Aldea.
+DESCRIPTION:Hamlet is the digital broadcast event largest technology Mexic
+ o\, last year earned a Guinness record attendance.
+URL:https://reps.mozilla.org/e/digital-aldea/
+SEQUENCE:2
+X-COORDINATES-LAT:19.4327404424
+X-COORDINATES-LON:-99.1333179476
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8657
+CLASS:PUBLIC
+DTSTAMP:20200423T082145Z
+DTSTART:20190630T063000Z
+DTEND:20190630T113000Z
+LOCATION:Navrachana University\, Vadodara\, India
+SUMMARY:Flutter BootCamp - Week 3
+DESCRIPTION:The moment you sign up for boot camp is here. You will learn b
+ asic Flutter Widgets and will develop your first cross-platform applicatio
+ n.You will learn to make API calls in Flutter. Ever had doubt whether SQL 
+ or NoSQL? Don&#39;t worry we got your back. You will learn SQL vs NoSQL and Fi
+ rebase with Flutter.\n\nThis week on the Bootcamp:\nNavigation in Flutter 
+ &amp; BLoC pattern\nNoSQL VS SQL\nIntroduction to Firebase Services\nFlutter w
+ ith Firebase\nQ&amp;A\nFeedback &amp; Networking
+URL:https://reps.mozilla.org/e/flutter-bootcamp-week-3/
+SEQUENCE:1
+X-COORDINATES-LAT:22.3142960056
+X-COORDINATES-LON:73.1569518149
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

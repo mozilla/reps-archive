@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5037
+CLASS:PUBLIC
+DTSTAMP:20200423T155238Z
+DTSTART:20160130T043000Z
+DTEND:20160131T113000Z
+LOCATION:Mysore\, Mysore\, India
+SUMMARY:Web development workshop at NIE\, Mysore
+DESCRIPTION:This workshop is for participants who want to learn web develo
+ pment from scratch using the Firefox Developer Edition. It is aimed to cre
+ ate a set of active web builders in Mysore. Event is in association with I
+ EEE chapter\, NIE\, Mysore
+URL:https://reps.mozilla.org/e/web-dev-workshop-nie/
+SEQUENCE:3
+X-COORDINATES-LAT:12.3009562653
+X-COORDINATES-LON:76.6617585
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

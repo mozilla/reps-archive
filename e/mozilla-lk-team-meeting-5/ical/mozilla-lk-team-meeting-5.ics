@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7721
+CLASS:PUBLIC
+DTSTAMP:20200423T094110Z
+DTSTART:20180427T160000Z
+DTEND:20180427T163000Z
+LOCATION:Hangout\, Colombo\, Sri Lanka
+SUMMARY:Mozilla LK Team meeting 5
+DESCRIPTION:Weekly Call for Mozilla LK 5th Wave. Co-hosting with Nimesh Ni
+ shara
+URL:https://reps.mozilla.org/e/mozilla-lk-team-meeting-5/
+SEQUENCE:1
+X-COORDINATES-LAT:6.79189885184
+X-COORDINATES-LON:80.1445314288
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

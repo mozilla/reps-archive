@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2183
+CLASS:PUBLIC
+DTSTAMP:20200423T194518Z
+DTSTART:20140527T003000Z
+DTEND:20140527T123000Z
+LOCATION:Kumar Pacific Mall in Pune\, Pune\, India
+SUMMARY:VIIT_Firefox_Club FSAs  Meetup
+DESCRIPTION:Meeting of FSA&#39;s around Pune. In particular\, VIIT_Firefox_Clu
+ b FSA members meetup. Final Year (B.E) engineering students who are FSA\, 
+  will leave the college and will join in different companies. This meetup 
+ is to discuss how they can continue contributing to the Mozilla.
+URL:https://reps.mozilla.org/e/viit-firefox-club-fsas-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:18.4509521165
+X-COORDINATES-LON:74.1453552246
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1058
+CLASS:PUBLIC
+DTSTAMP:20200423T212455Z
+DTSTART:20130722T033000Z
+DTEND:20130722T123000Z
+LOCATION:Jnana Vikas Institute of Technology\, Bidadi\, Bangalore\, India
+SUMMARY:Maker Party in Summer Camp Bangalore
+DESCRIPTION:Maker Party in Summer Camp Bangalore will be a Webmaker - cent
+ ric event and this event will happen on the 3rd day and a part of a 9 day 
+ Summer Camp which is organized by FSMK Bangalore.
+URL:https://reps.mozilla.org/e/maker-party-in-summper-camp-bangalore/
+SEQUENCE:19
+X-COORDINATES-LAT:12.7796608408
+X-COORDINATES-LON:77.3849487305
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

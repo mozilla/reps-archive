@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5513
+CLASS:PUBLIC
+DTSTAMP:20200423T151940Z
+DTSTART:20160614T103000Z
+DTEND:20160614T130000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Rust (Programming Language) Hack &amp; Learn Session #1
+DESCRIPTION:Rust is a new systems programming language developed by Mozill
+ a.\n\nThe Mozilla Philippines Community (MozillaPH) is inviting everyone t
+ o a meetup for open hacking and (co)learning of Rust (Programming Language
+ ).\n\nRusties/Rusters of all skill levels are welcome.\n\nPlease bring you
+ r laptop for this meetup.\n\nNever written a single line of Rust\, but int
+ erested in the language? Don&#39;t worry\, most of us are just starting off.
+URL:https://reps.mozilla.org/e/rust-programming-language-hack-learn-sessio
+ n-1/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5466768578
+X-COORDINATES-LON:121.016164541
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

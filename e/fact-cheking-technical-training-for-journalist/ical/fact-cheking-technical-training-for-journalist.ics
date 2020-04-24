@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7429
+CLASS:PUBLIC
+DTSTAMP:20200423T100125Z
+DTSTART:20180203T130000Z
+DTEND:20180203T160000Z
+LOCATION:AfroLeadership conference room\, Yaounde\, Cameroon
+SUMMARY:Fact-cheking Technical Training for Journalist
+DESCRIPTION:Tech Speaker Event for explaining to journalists\, Communicato
+ rs and Technologists how to use digital tools for fact-cheking in differen
+ t types of newsrooms
+URL:https://reps.mozilla.org/e/fact-cheking-technical-training-for-journal
+ ist/
+SEQUENCE:0
+X-COORDINATES-LAT:3.87083113314
+X-COORDINATES-LON:11.6901853681
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

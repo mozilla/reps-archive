@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2609
+CLASS:PUBLIC
+DTSTAMP:20200423T191911Z
+DTSTART:20140802T163000Z
+DTEND:20140802T173000Z
+LOCATION:Skype\, Kolkata\, India
+SUMMARY:Mozilla Kolkata Community Firefox OS basic training session
+DESCRIPTION:A basic introduction into Firefox OS and explaining possibilit
+ ies of community involvement in Firefox OS launch in Kolkata and surroundi
+ ng areas.
+URL:https://reps.mozilla.org/e/mozilla-kolkata-community-firefox-os-basic-
+ training-session/
+SEQUENCE:4
+X-COORDINATES-LAT:22.5317801423
+X-COORDINATES-LON:88.367767811
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

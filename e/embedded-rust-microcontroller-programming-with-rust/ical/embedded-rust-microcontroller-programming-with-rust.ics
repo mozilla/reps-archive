@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7561
+CLASS:PUBLIC
+DTSTAMP:20200423T094825Z
+DTSTART:20180331T083000Z
+DTEND:20180331T113000Z
+LOCATION:ThoughtWorks Hyderabad\, Hyderabad\, India
+SUMMARY:Embedded Rust: Microcontroller programming with Rust
+DESCRIPTION:The objective of this meetup is to help Rust enthusiasts get s
+ tarted with &#34;bare-metal&#34; embedded systems programming using Rust. You will
+  also gain practical knowledge on how you can jump in and contribute to th
+ e embedded Rust ecosystem by creating new drivers and hardware abstraction
+  layers for popular microcontroller platforms!
+URL:https://reps.mozilla.org/e/embedded-rust-microcontroller-programming-w
+ ith-rust/
+SEQUENCE:5
+X-COORDINATES-LAT:17.442839
+X-COORDINATES-LON:78.3572635
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

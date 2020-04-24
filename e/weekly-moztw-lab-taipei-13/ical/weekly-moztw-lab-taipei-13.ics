@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1830
+CLASS:PUBLIC
+DTSTAMP:20200423T202706Z
+DTSTART:20140214T110000Z
+DTEND:20140214T140000Z
+LOCATION:六號茶 Thé 6\, Da-an District\, Taiwan
+SUMMARY:Weekly MozTW Lab\, Taipei - APC Paper demonstration
+DESCRIPTION:A weekly MozCafe in Taipei. We do event planning\, l10n\, Fire
+ fox OS testing\, webpage of moztw.org\, and endless chatting on Mozilla-re
+ lated topics.  Anyone can bring his own works/tasks/fun to attend this eve
+ nt and sharing.\n\nThis week\, engineers from APC will coming to demonstra
+ te APC Paper\, the Firefox OS mini desktop devices.
+URL:https://reps.mozilla.org/e/weekly-moztw-lab-taipei-13/
+SEQUENCE:18
+X-COORDINATES-LAT:25.0440904184
+X-COORDINATES-LON:121.532752275
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

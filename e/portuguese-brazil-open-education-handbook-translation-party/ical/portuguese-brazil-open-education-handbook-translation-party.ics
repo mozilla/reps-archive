@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1733
+CLASS:PUBLIC
+DTSTAMP:20200423T203359Z
+DTSTART:20140118T140000Z
+DTEND:20140120T140000Z
+LOCATION:Casa de Cultura Digital de Campinas\, Campinas\, Brazil
+SUMMARY:Portuguese (Brazil) Open Education Handbook Translation Party
+DESCRIPTION:Translation of Open Education Handbook to pt-BR\, as part of \
+ nCampinas&#39; Education Freedom Day.
+URL:https://reps.mozilla.org/e/portuguese-brazil-open-education-handbook-t
+ ranslation-party/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.8932191274
+X-COORDINATES-LON:-47.0677199365
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

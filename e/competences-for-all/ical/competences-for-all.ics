@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2913
+CLASS:PUBLIC
+DTSTAMP:20200423T185105Z
+DTSTART:20140930T140000Z
+DTEND:20140930T160000Z
+LOCATION:Budapesti Európai Ifjúsági Központ: Cím: Budapest\, Zivatar 
+ Utca 1\, 1024\, Budapest\, Hungary
+SUMMARY:Competences for All
+DESCRIPTION:The training course aims to enhance participants&#39; knowledge ab
+ out the process and outcomes of non-formal learning\, about assessing comp
+ etences with young people (with fewer opportunities)\, and about using rec
+ ognition tools in inclusive youth work. \n\nHere I will hold 2 presentatio
+ n about OpenBadges.\n\nhttps://www.salto-youth.net/tools/european-training
+ -calendar/training/competences-for-all.4327/\n\nERASMUS+ project.\n\nSendi
+ ng the first badges to the attendees.
+URL:https://reps.mozilla.org/e/competences-for-all/
+SEQUENCE:23
+X-COORDINATES-LAT:47.4982887566
+X-COORDINATES-LON:19.0590687991
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

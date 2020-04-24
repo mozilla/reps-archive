@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6439
+CLASS:PUBLIC
+DTSTAMP:20200423T111626Z
+DTSTART:20170416T043000Z
+DTEND:20170416T083000Z
+LOCATION:Meetup Space\, Barasat\, India
+SUMMARY:Learn Mozilla QA
+DESCRIPTION:Mozilla QA Kolkata is a event to where regional contributors w
+ ould be encouraged to contribute in QA. In this event we help people to le
+ arn about QA\, basic of Bugzilla\, Testing bugs\, Verifying bugs and some 
+ other aspects of QA etc.This event will trigger a QA contribution pathway 
+ in Kolkata community.
+URL:https://reps.mozilla.org/e/learn-mozilla-qa-1/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2408021925
+X-COORDINATES-LON:88.1027984619
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

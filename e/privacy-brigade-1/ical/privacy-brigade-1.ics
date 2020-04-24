@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6400
+CLASS:PUBLIC
+DTSTAMP:20200423T111953Z
+DTSTART:20170330T053000Z
+DTEND:20170330T093000Z
+LOCATION:Government Polytechnic\, GandhiNagar\, GandhiNagar\, India
+SUMMARY:Privacy Brigade
+DESCRIPTION:Introducing  Privacy and Security to Students\nSupporting
+URL:https://reps.mozilla.org/e/privacy-brigade-1/
+SEQUENCE:3
+X-COORDINATES-LAT:23.2229938016
+X-COORDINATES-LON:72.6599881053
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

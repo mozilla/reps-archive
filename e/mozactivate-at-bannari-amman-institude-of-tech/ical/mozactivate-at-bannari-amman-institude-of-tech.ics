@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5963
+CLASS:PUBLIC
+DTSTAMP:20200423T115432Z
+DTSTART:20161015T033000Z
+DTEND:20161015T123000Z
+LOCATION:Bannari Amman Institute of Technology\, Sathyamagalam\, India
+SUMMARY:MozActivate at Bannari Amman Institude of Tech
+DESCRIPTION:Event organizer : Karthikeyan (FSA CAC)  &amp; Vinith Club Captain
+  of
+URL:https://reps.mozilla.org/e/mozactivate-at-bannari-amman-institude-of-t
+ ech/
+SEQUENCE:4
+X-COORDINATES-LAT:11.4448069174
+X-COORDINATES-LON:77.1622925252
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

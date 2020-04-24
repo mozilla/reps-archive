@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7157
+CLASS:PUBLIC
+DTSTAMP:20200423T102639Z
+DTSTART:20171008T030000Z
+DTEND:20171008T150000Z
+LOCATION:Muffakham Jah College of Engineering &amp; Technology\, Mount Pleasan
+ t\, Rd no-3\, Banjara Hills\, Hyderabad. 500034\, Telangana\, Hyderabad\, 
+ India
+SUMMARY:MJHack
+DESCRIPTION:In this 12-hr programming marathon\, you’ll test and showcas
+ e your skills by solving a real-time scenario that is presented to you. Ha
+ ckathon is no less than a fiesta for computer nerds and gizmo geeks! Colla
+ borate as a member of a team to come up with an idea and turn it into a fu
+ nctioning prototype. The judges will screen the ideas based on factors lik
+ e innovation\,creativity\,social impact and feasibility.
+URL:https://reps.mozilla.org/e/mjhack/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4282648
+X-COORDINATES-LON:78.4406593
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

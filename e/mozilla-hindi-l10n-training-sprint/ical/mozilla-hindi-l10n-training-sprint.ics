@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5005
+CLASS:PUBLIC
+DTSTAMP:20200423T155615Z
+DTSTART:20160110T153000Z
+DTEND:20160110T173000Z
+LOCATION:Google Hangout\, Bangalore\, India
+SUMMARY:Mozilla Hindi L10n Training &amp; Sprint
+DESCRIPTION:This event will basically focus on the improving the quality o
+ f the submission by the localizer in the community.\n\nThere will be a loc
+ alization sprint in the end so that new contributors can have a hand on ex
+ perience on the L10n projects.
+URL:https://reps.mozilla.org/e/mozilla-hindi-l10n-training-sprint/
+SEQUENCE:3
+X-COORDINATES-LAT:12.9619096656
+X-COORDINATES-LON:77.6021952555
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

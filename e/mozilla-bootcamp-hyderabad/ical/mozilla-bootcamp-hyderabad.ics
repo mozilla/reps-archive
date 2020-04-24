@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1846
+CLASS:PUBLIC
+DTSTAMP:20200423T202848Z
+DTSTART:20140208T063000Z
+DTEND:20140209T073000Z
+LOCATION:ICFAI Business School\,Hyderabad\, Hyderabad\, India
+SUMMARY:Firefox OS App Days &amp; Boot Camp ICFAI
+DESCRIPTION:The BootCamp is a 24 hour Coding Hackathon which Involves Appl
+ ication Development for Firefox OS Device.
+URL:https://reps.mozilla.org/e/mozilla-bootcamp-hyderabad/
+SEQUENCE:5
+X-COORDINATES-LAT:17.4145800592
+X-COORDINATES-LON:78.4974863716
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

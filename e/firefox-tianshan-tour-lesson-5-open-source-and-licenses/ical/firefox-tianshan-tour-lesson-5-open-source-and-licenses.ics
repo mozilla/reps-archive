@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4796
+CLASS:PUBLIC
+DTSTAMP:20200423T161626Z
+DTSTART:20151112T043000Z
+DTEND:20151112T055000Z
+LOCATION:Xinjiang Education Institute Shiyan Primary School\, urumqi\, Chi
+ na
+SUMMARY:Firefox Tianshan tour -Lesson 5 - Open source and licenses
+DESCRIPTION:Activities and summary\, we appreciate your parapara work toge
+ ther and discuss together\, which is a small fish you draw\,\, which is a 
+ small fish he painted\, so a fish tank Who painted?\nWe discuss together\,
+  who need copyright\, what is the meaning of copyright?
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson-5-open-source-
+ and-licenses/
+SEQUENCE:4
+X-COORDINATES-LAT:43.8011972861
+X-COORDINATES-LON:2607.61358486
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

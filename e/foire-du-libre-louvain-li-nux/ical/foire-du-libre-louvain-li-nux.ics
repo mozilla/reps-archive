@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@632
+CLASS:PUBLIC
+DTSTAMP:20200423T215924Z
+DTSTART:20130326T090000Z
+DTEND:20130326T170000Z
+LOCATION:Auditoires SUD\, UCL\, Louvain-La-Neuve\, Belgium
+SUMMARY:Foire du Libre - Louvain-li-Nux
+DESCRIPTION:Free Software fair at the student city of Louvain-La-Neuve. Co
+ nferences and booths about various Free and Open Source projects.\n\nMozil
+ la has been invited to have a booth there\, and members of the local commu
+ nity may be able to give a conference as well.
+URL:https://reps.mozilla.org/e/foire-du-libre-louvain-li-nux/
+SEQUENCE:0
+X-COORDINATES-LAT:50.6668927225
+X-COORDINATES-LON:4.62050199509
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

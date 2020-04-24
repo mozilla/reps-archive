@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5703
+CLASS:PUBLIC
+DTSTAMP:20200423T150807Z
+DTSTART:20160730T033000Z
+DTEND:20160730T110000Z
+LOCATION:Federal Institute of Science and Technology\, Angamaly\, India
+SUMMARY:Introduction to Open Source technology and Mozilla @ FISAT
+DESCRIPTION:The event aims at introduction to the Mozilla and its communit
+ ies \, the technologies it creates and the way it makes web a productive p
+ lace each and every day. The event showcases the webmaker project which ar
+ e a great use to the developers all over the world . It also aims at encou
+ raging people to contribute to the Mozilla in their respective field of in
+ terest.
+URL:https://reps.mozilla.org/e/introduction-to-open-source-technology-and-
+ mozilla-fisat/
+SEQUENCE:1
+X-COORDINATES-LAT:10.1902278986
+X-COORDINATES-LON:76.3880882319
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

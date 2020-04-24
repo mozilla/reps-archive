@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5020
+CLASS:PUBLIC
+DTSTAMP:20200423T161815Z
+DTSTART:20151107T060000Z
+DTEND:20151107T090000Z
+LOCATION:Pabna University Of Science and Technology\, Pabna\, Bangladesh
+SUMMARY:Mozilla Awareness Program @ Pabna University Of Science and Techno
+ logy
+DESCRIPTION:A event organized by Mozilla Bangladesh and Pabna University O
+ f Science and Technology\, to aware the university students about Mozilla&#39;
+ s mission\, contribution opportunity and show users\, how they can use Fir
+ efox as default browser on windows 10!
+URL:https://reps.mozilla.org/e/mozilla-awareness-program-pabna-university-
+ of-science-and-technology/
+SEQUENCE:1
+X-COORDINATES-LAT:24.0126046815
+X-COORDINATES-LON:89.2624961212
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

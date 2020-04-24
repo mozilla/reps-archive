@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3887
+CLASS:PUBLIC
+DTSTAMP:20200423T172244Z
+DTSTART:20150518T070000Z
+DTEND:20150518T092000Z
+LOCATION:China xingjiang Urumqi 40 Middle school\, Urumqi\, China
+SUMMARY:Read out loud to our children--Firefox in Xinjiang
+DESCRIPTION:Our two primary schools in Urumqi in China&#39;s Xinjiang Urumqi C
+ ity Tianshan District dabancheng and carried out webmaker juvenile record 
+ customer training camp learning programs\, we hope to take this program\, 
+ to explore a set for China&#39;s Xinjiang region\, for 14 years of age childre
+ n&#39;s networks and digital literacy skills training program of study
+URL:https://reps.mozilla.org/e/read-out-loud-to-our-children-firefox-in-xi
+ njiang/
+SEQUENCE:1
+X-COORDINATES-LAT:43.7307351465
+X-COORDINATES-LON:2607.47735631
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

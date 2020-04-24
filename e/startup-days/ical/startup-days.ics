@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1951
+CLASS:PUBLIC
+DTSTAMP:20200423T201935Z
+DTSTART:20140307T140000Z
+DTEND:20140309T180000Z
+LOCATION:Viskošolsko središče Novo mesto\, Na loko 2\, Novo mesto\, Slo
+ venia
+SUMMARY:Startup Days
+DESCRIPTION:Startup Days is a three-day entrepreneurial event in which par
+ ticipants create their business from first idea to the final realization.\
+ n\nThere will be different profiles of people involved from designers\, te
+ chnicians\, programmers and entrepreneurs.\n\nThere is also a chance to pr
+ omote Firefox OS and inspire developers to create open web apps.
+URL:https://reps.mozilla.org/e/startup-days/
+SEQUENCE:5
+X-COORDINATES-LAT:45.6206811793
+X-COORDINATES-LON:15.1045989711
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

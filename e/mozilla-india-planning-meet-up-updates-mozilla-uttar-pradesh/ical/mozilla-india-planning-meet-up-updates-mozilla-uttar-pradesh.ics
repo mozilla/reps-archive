@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5646
+CLASS:PUBLIC
+DTSTAMP:20200423T151124Z
+DTSTART:20160719T200000Z
+DTEND:20160719T210000Z
+LOCATION:Hangouts\, Lucknow\, India
+SUMMARY:Mozilla India Planning Meet-up Updates | Mozilla Uttar Pradesh
+DESCRIPTION:A follow-up meeting of Mozilla India Planning Meetup 2016. We 
+ will have a regional Mozilla community meetup to discuss the Planning Meet
+ up and help the upcoming Mozilla India community gathering
+URL:https://reps.mozilla.org/e/mozilla-india-planning-meet-up-updates-mozi
+ lla-uttar-pradesh/
+SEQUENCE:0
+X-COORDINATES-LAT:26.8223856781
+X-COORDINATES-LON:80.9294986725
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2011
+CLASS:PUBLIC
+DTSTAMP:20200423T200928Z
+DTSTART:20140331T170000Z
+DTEND:20140331T203000Z
+LOCATION:Mozilla Space\, Paris\, France
+SUMMARY:Meetup Rust Paris 02
+DESCRIPTION:Mozilla and the Rust community are proud to invite you to disc
+ over Rust!\nRustaceans of all skill levels are welcome\, or even if you ar
+ e just curious about the language.\nWe&#39;re looking forward to exploring the
+  wonders of Rust with everybody!\nThe purpose of this Event is to share kn
+ owledge\, learn about Rust and contribute to existing projects or to the R
+ ust project itself.
+URL:https://reps.mozilla.org/e/meetup-rust-paris-02/
+SEQUENCE:8
+X-COORDINATES-LAT:48.8719158
+X-COORDINATES-LON:2.3410504
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

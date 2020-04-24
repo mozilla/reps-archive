@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6126
+CLASS:PUBLIC
+DTSTAMP:20200423T114209Z
+DTSTART:20161203T213000Z
+DTEND:20161204T013000Z
+LOCATION:Telmex Hub\, Mexico City\, Mexico
+SUMMARY:Estructura de procesos\, fundamentos de programación e introducci
+ ón a HTML
+DESCRIPTION:El objetivo de esta capacitación es comprender la formación 
+ del pensamiento estructurado para la creación de proyectos enfocados a la
+  tecnología. Con la intención de formar un pensamiento ordenado\, querem
+ os lograr que los asistentes desarrollen habilidades técnico-creativas pa
+ ra la resolución de problemas\, identificación de necesidades\, formaci
+ ón de proyectos y ejecución de los mismos con las diferentes herramienta
+ s que impartiremos.
+URL:https://reps.mozilla.org/e/estructura-de-procesos-fundamentos-de-progr
+ amacion-e-introduccion-a-html-see-more-at-https-tel/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4311380527
+X-COORDINATES-LON:-99.1367871164
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

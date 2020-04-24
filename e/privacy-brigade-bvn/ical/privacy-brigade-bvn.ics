@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7394
+CLASS:PUBLIC
+DTSTAMP:20200423T095910Z
+DTSTART:20180215T053000Z
+DTEND:20180215T073000Z
+LOCATION:Government Polytechnic Bhavnagar\, Bhavnagar\, India
+SUMMARY:Privacy Brigade @BVN
+DESCRIPTION:This is a community-led campaign to celebrate International Da
+ ta Privacy Day. There are two parts - an online campaign with daily conten
+ t combined with a series of in-person privacy events. A campaign to make u
+ sers and makers of the web care\, learn\, teach and share about Online Pri
+ vacy.
+URL:https://reps.mozilla.org/e/privacy-brigade-bvn/
+SEQUENCE:3
+X-COORDINATES-LAT:22.9980088884
+X-COORDINATES-LON:72.4628906697
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

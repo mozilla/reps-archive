@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3382
+CLASS:PUBLIC
+DTSTAMP:20200423T175604Z
+DTSTART:20150216T053000Z
+DTEND:20150216T093000Z
+LOCATION:Malout Institute of Management and Information Technology        
+           Green Field Enclave\, New Grain Market                  Malout-1
+ 52107\, Malout\, India
+SUMMARY:MozMimit
+DESCRIPTION:This event would be based on making the folks familiar with Mo
+ zilla and its products. Later on\, about Firefox OS knowledge will be give
+ n to students. Hands on workshop for making Firefox OS apps using WebIDE w
+ ill also be introduced to students.\nSession on Webmaker will also be cond
+ ucted followed by club formation.Last but not least\, ways about contribut
+ ing Mozilla will be imparted to students.
+URL:https://reps.mozilla.org/e/mozmimit/
+SEQUENCE:4
+X-COORDINATES-LAT:30.7481307184
+X-COORDINATES-LON:74.6118155122
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2743
+CLASS:PUBLIC
+DTSTAMP:20200423T184815Z
+DTSTART:20141009T140000Z
+DTEND:20141011T000000Z
+LOCATION:Centro Regional Universitario de Azuero – Universidad de Panam
+ á\, Chitré\, Panama
+SUMMARY:VI Encuentro Centroamericano de Software LIbre
+DESCRIPTION:This is the biggest event about Free Software in Central Ameri
+ ca. Each year change country. This year destination is Chitré\, Panamá. 
+ Guillermo Movia will have a keynote session and Mozilla Community will hav
+ e a space where we could create our agenda for two days. \n\nAlso we are u
+ sing this event to create the first Central America Mozilla&#39;s Communities 
+ meetup\, inviting people from Costa Rica\, Nicaragua\, Honduras\, El Salva
+ dor and Panamá.
+URL:https://reps.mozilla.org/e/vi-encuentro-centroamericano-de-software-li
+ bre/
+SEQUENCE:5
+X-COORDINATES-LAT:7.96305644433
+X-COORDINATES-LON:-80.4162554734
+X-COUNTRY-CODE:pa
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8832
+CLASS:PUBLIC
+DTSTAMP:20200423T080942Z
+DTSTART:20190928T043000Z
+DTEND:20190928T113000Z
+LOCATION:Heritage Institute of Technology\, Kolkata\, India
+SUMMARY:Mozilla Kolkata Launch Party
+DESCRIPTION:Mozilla Kolkata&#39;s Launch Party is a one-day tech conference ev
+ ent. This Launch Party will be a one-day free conference to motivate devel
+ opers and designers to contribute more to open-source projects and forthco
+ ming technologies. There will be a series of talks and workshops engaging 
+ all kinds of developers and designers. We have prepared a great and quite 
+ an informative line up of the speakers for you all. Join in our celebratio
+ n to make it a successful one!
+URL:https://reps.mozilla.org/e/mozilla-kolkata-launch-party/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5467003081
+X-COORDINATES-LON:88.4155426081
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

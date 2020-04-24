@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@678
+CLASS:PUBLIC
+DTSTAMP:20200423T215946Z
+DTSTART:20130323T180000Z
+DTEND:20130325T000000Z
+LOCATION:Mexico City Zocalo\, Mexico City\, Mexico
+SUMMARY:Aldea Digital
+DESCRIPTION:Aldea digital It&#39;s an event organized by Telmex and Telcel alo
+ ng with the city government\, which aims to bring the public and approach 
+ to new technologies.
+URL:https://reps.mozilla.org/e/aldea-digital/
+SEQUENCE:2
+X-COORDINATES-LAT:19.4326915403
+X-COORDINATES-LON:-99.1332542896
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

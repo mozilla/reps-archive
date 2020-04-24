@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1235
+CLASS:PUBLIC
+DTSTAMP:20200423T211632Z
+DTSTART:20130823T043000Z
+DTEND:20130823T063000Z
+LOCATION:Gokaraju RangaRaju Institute Of Engineering and Technology\, Hyde
+ rabad\, India
+SUMMARY:Mozilla Club Initiative @ GRIET
+DESCRIPTION:The event is held as an introduction for the students of the c
+ ollege to know about Mozilla Mission\, What does Mozilla do for the Open W
+ eb\,\nHow can one contribute to the Mozilla Projects focusing more on Open
+  source aspects.
+URL:https://reps.mozilla.org/e/mozilla-club-initiative/
+SEQUENCE:3
+X-COORDINATES-LAT:21.9430455334
+X-COORDINATES-LON:70.3125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1335
+CLASS:PUBLIC
+DTSTAMP:20200423T205242Z
+DTSTART:20131111T123000Z
+DTEND:20131114T213000Z
+LOCATION:Hesperia Hotel\, La asuncion\, Venezuela
+SUMMARY:Cibess
+DESCRIPTION:Congress of Web technology computers and telecommunications\n\
+ n The Cibess is a conference that covers many areas of computing and telec
+ ommunications\, hosting participants from across Venezuela.  I&#39;ll give a p
+ resentation about FirefoxOs and how to develop web Apss\, explain whats is
+  the responsive design and web apis
+URL:https://reps.mozilla.org/e/cibess/
+SEQUENCE:3
+X-COORDINATES-LAT:11.1524663956
+X-COORDINATES-LON:-63.9045524597
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

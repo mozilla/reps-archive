@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@975
+CLASS:PUBLIC
+DTSTAMP:20200423T212510Z
+DTSTART:20130720T090000Z
+DTEND:20130720T170000Z
+LOCATION:Gitam University\, Vizag\, India
+SUMMARY:MozIgnite Vizag @ GITAM University
+DESCRIPTION:The first Mozilla Event to be held in the city of Vizag. Addin
+ g up interest to the students by letting them know why OpenSource software
+  is important. This event gives the awareness on  Firefox Student Ambassad
+ ors Program\, Firefox OS and on different Mozilla Projects. Also inviting 
+ all the student Ambassadors from the city and letting them know how exactl
+ y is the project driven.
+URL:https://reps.mozilla.org/e/mozfest-vizag/
+SEQUENCE:21
+X-COORDINATES-LAT:17.4764321972
+X-COORDINATES-LON:82.529296875
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

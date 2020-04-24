@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@389
+CLASS:PUBLIC
+DTSTAMP:20200423T223203Z
+DTSTART:20121221T060000Z
+DTEND:20121221T100000Z
+LOCATION:Bina Nusantara University\, Jakarta\, Indonesia
+SUMMARY:BNCC Lounge Gathering Workshop
+DESCRIPTION:BNCC (Bina Nusantara Computer Club) is a community of students
+  at Bina Nusantara University\, Jakarta Indonesia. BNCC inviting me to giv
+ e a talk and sharing related to web design and development. I will also sh
+ are my experiences in building websites using web development tools on Moz
+ illa Firefox.
+URL:https://reps.mozilla.org/e/bncc-lounge-gathering-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.20065083117
+X-COORDINATES-LON:106.784137487
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

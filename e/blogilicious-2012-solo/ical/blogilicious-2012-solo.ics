@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@130
+CLASS:PUBLIC
+DTSTAMP:20200423T230817Z
+DTSTART:20120714T050000Z
+DTEND:20120715T050000Z
+LOCATION:Graha Soloraya\, Solo\, Indonesia
+SUMMARY:Blogilicious 2012 Solo
+DESCRIPTION:Blogilicious\, is a seminar and workshop event in 7 cities in 
+ Indonesia with targeting of 200 bloggers per-city that aims to encourage y
+ oung generation of Indonesia to be a &#34;positive blogger&#34; that that share po
+ sitive contents/infos/news to Internet citizen. Blogilicious welcome Mozil
+ la Indonesia as one if the community who support open source\, user privac
+ y\, and internet safety. That&#39;s why Mozilla Indonesia were invited to Blog
+ ilicious in those 7 cities. 
+URL:https://reps.mozilla.org/e/blogilicious-2012-solo/
+SEQUENCE:0
+X-COORDINATES-LAT:-7.57254284564
+X-COORDINATES-LON:110.828511715
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8688
+CLASS:PUBLIC
+DTSTAMP:20200423T082025Z
+DTSTART:20190714T063000Z
+DTEND:20190714T093000Z
+LOCATION:IIIT Hyderabad\, Hyderabad\, India
+SUMMARY:Panel Meeting on &#34;Personal Data Privacy Bill - India&#34;
+DESCRIPTION:Mozilla Global Policy Head Jochai Ben-Avie and Policy Fellow A
+ mba Kak will be visiting Hyderabad to communicate the updates on privacyfi
+ rst.in campaign and Mozilla campaign on India&#39;s Personal Data Privacy Prot
+ ection Bill.
+URL:https://reps.mozilla.org/e/panel-meeting-on-personal-data-privacy-bill
+ -india/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4452473245
+X-COORDINATES-LON:78.3497174979
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

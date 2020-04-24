@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3333
+CLASS:PUBLIC
+DTSTAMP:20200423T180850Z
+DTSTART:20150116T033000Z
+DTEND:20150116T113000Z
+LOCATION:Swami Dhananjoy Das Kathia Baba Mission School\, Agartala\, India
+SUMMARY:Maker Party @ Agartala
+DESCRIPTION:This event will focus on initial contribution areas like Local
+ ization\, Webmaker and Privacty.
+URL:https://reps.mozilla.org/e/maker-party-agartala/
+SEQUENCE:6
+X-COORDINATES-LAT:23.8152914687
+X-COORDINATES-LON:91.2890624441
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

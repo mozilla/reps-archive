@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1339
+CLASS:PUBLIC
+DTSTAMP:20200423T205733Z
+DTSTART:20131025T130000Z
+DTEND:20131025T160000Z
+LOCATION:Calle Tarija\, Camiri\, Bolivia
+SUMMARY:Mozilla Webmaker Bolivia
+DESCRIPTION:This is our very firts Mozilla Webmaker event. This event will
+  be held in Camiri city south of Bolivia. Between 80 and 100 students of t
+ he &#34;Niño Jesus&#34; Highschool receive training regarding Webmaker tools to d
+ evelop amazing content on the web.
+URL:https://reps.mozilla.org/e/mozilla-webmaker-bolivia/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.0417404884
+X-COORDINATES-LON:-63.5185074806
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

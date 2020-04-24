@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6239
+CLASS:PUBLIC
+DTSTAMP:20200423T113439Z
+DTSTART:20170121T093000Z
+DTEND:20170121T113000Z
+LOCATION:Gokhale Education Society\, Krishi Nagar\, Nashik\, Maharashtra 4
+ 22005\, Nashik\, India
+SUMMARY:Privacy Workshop At Gokhale Education Society
+DESCRIPTION:Privacy awareness workshop for the polytechnic students. This 
+ event comes under the global #PrivacyMonth . Agenda is simple making stude
+ nts and staff aware about the rich Privacy Features of Firefox desktop and
+  Mobile. https://wiki.mozilla.org/India/task_force/Policy_and_Advocacy/Jan
+ uary_Privacy_Month_Campaign
+URL:https://reps.mozilla.org/e/privacy-workshop-at-gokhale-education-socie
+ ty/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0094301922
+X-COORDINATES-LON:73.7906570546
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

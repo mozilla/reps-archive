@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3099
+CLASS:PUBLIC
+DTSTAMP:20200423T181434Z
+DTSTART:20141223T043000Z
+DTEND:20150323T043000Z
+LOCATION:Rajasthan\, Jaipur\, India
+SUMMARY:Know the Foxy
+DESCRIPTION:Know the foxy is the awareness drives in whole Rajasthan\, whe
+ re we  will be covering all major cities of Rajasthan and many towns &amp; vil
+ lages to spread awareness about Firefox OS. We will be mostly interacting 
+ with our target customers\, the first time smartphones\, directly and will
+  make sure to convey all important points about Firefox OS.
+URL:https://reps.mozilla.org/e/know-the-foxy/
+SEQUENCE:8
+X-COORDINATES-LAT:26.8600138577
+X-COORDINATES-LON:75.8862295747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

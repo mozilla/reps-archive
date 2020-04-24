@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8853
+CLASS:PUBLIC
+DTSTAMP:20200423T080931Z
+DTSTART:20190929T083000Z
+DTEND:20190929T123000Z
+LOCATION:Yuvalay Elab\, Vadodara\, India
+SUMMARY:Introduction to SUMO
+DESCRIPTION:Support Mozilla or SUMO is an integral part of Mozilla&#39;s Contr
+ ibution pathways. This is an attempt to help onboard SUMO Contributors and
+  kickstart their Contribution journey.
+URL:https://reps.mozilla.org/e/introduction-to-sumo/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2949301805
+X-COORDINATES-LON:73.1539950357
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

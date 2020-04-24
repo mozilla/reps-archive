@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2582
+CLASS:PUBLIC
+DTSTAMP:20200423T191900Z
+DTSTART:20140803T030000Z
+DTEND:20140803T110000Z
+LOCATION:PT Metranet @ Mulia Business Park\, Jakarta\, Indonesia
+SUMMARY:Webmaker Mentor Training @ Jakarta - Day 1
+DESCRIPTION:This event is a training for Reps\, FSA or even active Mozilli
+ ans who wants to be a Webmaker Mentor. We create this event to support any
+  Mozillians who want to create their own Maker Party event in their own pl
+ aces. This training is going to held in two parts: in August 3rd and 10th\
+ , 2014.\n\nI hope this small training can support any Maker Party events i
+ n Indonesia.
+URL:https://reps.mozilla.org/e/webmaker-mentor-training-jakarta/
+SEQUENCE:10
+X-COORDINATES-LAT:-6.2469839743
+X-COORDINATES-LON:106.844412803
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1068
+CLASS:PUBLIC
+DTSTAMP:20200423T211457Z
+DTSTART:20130831T050000Z
+DTEND:20130831T090000Z
+LOCATION:Museo de Sta. Rosa\, City of Sta. Rosa\, Laguna\, Sta. Rosa\, Phi
+ lippines
+SUMMARY:Mozilla Campus Tour in Polytechnic University of the Philippines 
+ – Sta. Rosa Campus (PUP-SRC)
+DESCRIPTION:To discuss what Mozilla is and how the community started in th
+ e Philippines\, Will also Introduce different Mozilla Products such as the
+  Firefox Browser and the FirefoxOS. also different Projects: Firefox Stude
+ nt Ambassadors\, WoMoz Initiatives\, Webmaker.
+URL:https://reps.mozilla.org/e/mozilla-campus-tour-in-polytechnic-universi
+ ty-of-the-philippines-sta-rosa-campus-pup-src/
+SEQUENCE:3
+X-COORDINATES-LAT:14.293662
+X-COORDINATES-LON:121.089191
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

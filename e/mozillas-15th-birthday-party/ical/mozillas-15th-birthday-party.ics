@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@727
+CLASS:PUBLIC
+DTSTAMP:20200423T215720Z
+DTSTART:20130402T013000Z
+DTEND:20130402T023000Z
+LOCATION:Sweet Chariot cafe\, FC road\, Pune\, India
+SUMMARY:Mozilla&#39;s 15th Birthday party
+DESCRIPTION:All Mozillians who are present in Pune are requested to join i
+ n tomorrow to celebrate 15 year anniversary of Mozilla. We are gathering t
+ omorrow at 7pm (sharp) in Sweet Chariot (FC Crossing\, dnyaneshwar paduka 
+ chowk). Its gonna be a very informal meeting for all Mozilla Representativ
+ es and Volunteers as well as other FOSS and Mozilla enthusiasts.\nSome con
+ structive talks and future plannings to be expected tomorrow. Hope to see 
+ you all tomorrow :)
+URL:https://reps.mozilla.org/e/mozillas-15th-birthday-party/
+SEQUENCE:2
+X-COORDINATES-LAT:22.2687640391
+X-COORDINATES-LON:72.94921875
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4430
+CLASS:PUBLIC
+DTSTAMP:20200423T162957Z
+DTSTART:20151010T040000Z
+DTEND:20151110T120000Z
+LOCATION:Chittagong\, Chittagong\, Bangladesh
+SUMMARY:Windows 10 Community Activation Campaign in Chittagong
+DESCRIPTION:Windows 10 Community Activation Campaign in Chittagong
+URL:https://reps.mozilla.org/e/windows-10-community-activation-in-chittago
+ ng/
+SEQUENCE:6
+X-COORDINATES-LAT:22.3288516705
+X-COORDINATES-LON:91.8367177248
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

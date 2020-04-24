@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@317
+CLASS:PUBLIC
+DTSTAMP:20200423T224252Z
+DTSTART:20121130T100000Z
+DTEND:20121130T110000Z
+LOCATION:Florianópolis\, Florianópolis\, Brazil
+SUMMARY:SOLISC 2012
+DESCRIPTION:O Congresso Catarinense de Software Livre – SoLiSC\, passou 
+ a ser assim denominado em 2005. Organizado originalmente pelo Projeto Soft
+ ware Livre SC e\, a partir de 2009\, pela Associação Solisc. Em 2009 o e
+ vento contou com a co-participação da Associação Cultural Alquimídia\
+ , GeNESS e INE (Laboratório de Inovação e Centro de Informática e Esta
+ tística da Universidade Federal de Santa Catarina) e com apoio da ASL.Org
+URL:https://reps.mozilla.org/e/solisc-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-27.4382122695
+X-COORDINATES-LON:-48.3920288086
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

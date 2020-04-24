@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@867
+CLASS:PUBLIC
+DTSTAMP:20200423T220342Z
+DTSTART:20130307T020000Z
+DTEND:20130307T060000Z
+LOCATION:Arjuna – Welirang Function Room\, 2nd Floor Hotel Santika Pande
+ giling\, Surabaya\, Indonesia
+SUMMARY:Diskusi Tata Kelola Internet
+DESCRIPTION:Discussion about Internet Governance with Ashwin Sasongko from
+  the Indonesian Ministry of Communication and Information\, Donny B. U. fr
+ om id-Config\, Sammy Pangarepan as Chairman APJII (Asosiasi Penyedia Jasa 
+ Internet Indonesia / Association of Indonesian Internet Service Provider)\
+ , and Mutia Haafiz as Member of 1st Commission House of Representatives In
+ donesian
+URL:https://reps.mozilla.org/e/diskusi-tata-kelola-internet/
+SEQUENCE:3
+X-COORDINATES-LAT:-7.27847442055
+X-COORDINATES-LON:112.740143538
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

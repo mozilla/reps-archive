@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@997
+CLASS:PUBLIC
+DTSTAMP:20200423T212653Z
+DTSTART:20130713T060000Z
+DTEND:20130713T150000Z
+LOCATION:Faculty of Computer Science\, General Berthelot\, nr. 16\, Iași\
+ , Romania
+SUMMARY:Firefox OS hackathon
+DESCRIPTION:Firefox OS\, the new operating mobile system from Mozilla\, re
+ presents a wonder for many students and developers who want to create apps
+  for it. On July 13\, they have a chance to prove their abilities with Web
+  technologies (CSS\, HTML and JavaScript)\, to learn new things about Fire
+ fox OS and to test apps on new devices (Keon and Peak).
+URL:https://reps.mozilla.org/e/firefox-os-hackathon/
+SEQUENCE:15
+X-COORDINATES-LAT:47.17403444
+X-COORDINATES-LON:27.5749701262
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

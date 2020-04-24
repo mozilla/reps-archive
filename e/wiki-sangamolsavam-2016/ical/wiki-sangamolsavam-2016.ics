@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6112
+CLASS:PUBLIC
+DTSTAMP:20200423T113849Z
+DTSTART:20161226T023000Z
+DTEND:20161228T113000Z
+LOCATION:Kanhangad\,Kasaragod\, Kanhangad\, India
+SUMMARY:Wiki Sangamolsavam 2016
+DESCRIPTION:Wiki Sangamolsavam 2016 is the second annual gathering of user
+ s and well wishers of Malayalam Wikimedia projects.\n\nWiki Vidyarthi Sang
+ amam (a conference of students interested in Wikimedia)\nWiki Yuva Sangama
+ m (a meetup of youth interested in Wikimedia) \nA computer training sessio
+ n for the differently able\nA digitization drive to digitize the informati
+ on regarding wetlands in Kerala\nWiki JalaYathra and Exhibitions related t
+ o Free and Open source and knowledge dissemination techniques.
+URL:https://reps.mozilla.org/e/wiki-sangamolsavam-2016/
+SEQUENCE:5
+X-COORDINATES-LAT:12.5049284041
+X-COORDINATES-LON:74.9958457961
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

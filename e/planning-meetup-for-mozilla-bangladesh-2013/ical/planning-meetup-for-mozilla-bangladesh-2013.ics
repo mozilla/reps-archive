@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1259
+CLASS:PUBLIC
+DTSTAMP:20200423T211211Z
+DTSTART:20130913T040000Z
+DTEND:20130913T110000Z
+LOCATION:TBD\, Dhaka\, Bangladesh
+SUMMARY:Planning Meetup for Mozilla Bangladesh 2013
+DESCRIPTION:Mozilla Bangladesh got momentum in last 6-12 months\, lot&#39;s of
+  fresh energetic recruits with plenty of events and meet-ups. We encounter
+ ed things that we feel good and bad as well. Good things\, need to be repr
+ oduced\; from bad need to learn and rectify ourselves. The community is ge
+ tting bigger\, activities are increasing\, to ease the load and execute sm
+ oothly\, will decentralize through various community task force. So\, we n
+ eed to seat and plan.
+URL:https://reps.mozilla.org/e/planning-meetup-for-mozilla-bangladesh-2013
+ /
+SEQUENCE:2
+X-COORDINATES-LAT:23.7206113562
+X-COORDINATES-LON:90.4116439819
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

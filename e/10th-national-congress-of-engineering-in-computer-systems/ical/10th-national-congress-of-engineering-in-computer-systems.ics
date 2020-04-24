@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2107
+CLASS:PUBLIC
+DTSTAMP:20200423T201230Z
+DTSTART:20140324T140000Z
+DTEND:20140328T110000Z
+LOCATION:Instituto Tecnologico de Tehuacan\, Tehuacán\, Mexico
+SUMMARY:10th National Congress of Engineering in Computer Systems
+DESCRIPTION:National conference on information technology and mobile appli
+ cation development for students and professionals of Tehuacan\, Puebla.
+URL:https://reps.mozilla.org/e/10th-national-congress-of-engineering-in-co
+ mputer-systems/
+SEQUENCE:1
+X-COORDINATES-LAT:18.4363741841
+X-COORDINATES-LON:-97.3977971086
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

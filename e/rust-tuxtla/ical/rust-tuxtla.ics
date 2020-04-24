@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6930
+CLASS:PUBLIC
+DTSTAMP:20200423T104346Z
+DTSTART:20170901T220000Z
+DTEND:20170902T010000Z
+LOCATION:CódigoFacilito HQ\, Tuxtla Gutiérrez\, Mexico
+SUMMARY:Rust Tuxtla
+DESCRIPTION:Rust is a systems programming language sponsored by Mozilla. T
+ his event is part of the activities organized by the Rust community in Mex
+ ico. The first meetup of Rust in Tuxtla Gutiérrez. The event is aim to in
+ troduce Rust to students and professionals interested in knowing new techn
+ ologies.
+URL:https://reps.mozilla.org/e/rust-tuxtla/
+SEQUENCE:1
+X-COORDINATES-LAT:16.75723
+X-COORDINATES-LON:-93.1499
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

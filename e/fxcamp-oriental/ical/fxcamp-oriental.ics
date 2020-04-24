@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4652
+CLASS:PUBLIC
+DTSTAMP:20200423T162842Z
+DTSTART:20151015T033000Z
+DTEND:20151015T093000Z
+LOCATION:Oriental College Bhopal\, Bhopal\, India
+SUMMARY:FxCamp Oriental
+DESCRIPTION:This event is in support to on going pilot campaign (firefox i
+ n hindi downloads). this will be held at Oriental College Bhopal on 16 of 
+ October where we will target 100+ downloads and recruitment of new FSA&#39;s.\
+ nAditya Shah club lead would be looking after this.
+URL:https://reps.mozilla.org/e/fxcamp-oriental/
+SEQUENCE:2
+X-COORDINATES-LAT:23.2674431328
+X-COORDINATES-LON:77.3751492798
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

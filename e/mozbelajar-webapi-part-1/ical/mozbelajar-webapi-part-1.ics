@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5454
+CLASS:PUBLIC
+DTSTAMP:20200423T152222Z
+DTSTART:20160531T120000Z
+DTEND:20160531T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: WebAPI (Part 1)
+DESCRIPTION:WebAPI is a term used to refer to a suite of device compatibil
+ ity and access APIs that allow Web apps and content to access device hardw
+ are (such as battery status or the device vibration hardware)\, as well as
+  access to data stored on the device (such as the calendar or contacts lis
+ t).\n\nIn this workshop\, Mozilla Rep Rizky Ariestiyansyah will teach the 
+ attendees to learn about WebAPI itself\, and how to implement these webAPI
+  in a web app.
+URL:https://reps.mozilla.org/e/mozbelajar-webapi-part-1/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.18766028736
+X-COORDINATES-LON:106.836863637
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@90
+CLASS:PUBLIC
+DTSTAMP:20200423T225722Z
+DTSTART:20120929T063000Z
+DTEND:20120930T063000Z
+LOCATION:IICS Study Centre\, Allahabad\, India
+SUMMARY:MozCamp Allahabad
+DESCRIPTION:The idea is to organise a 2day Mozilla camp at Allahabad that 
+ will introduce HTML5 to local students. We will conduct workshops on makin
+ g HTML5 web apps and HTML5 mobile apps over the two day period\, and also 
+ guide students towards open source and summer of code.\n\nSCHEDULE\nDay 1:
+  \nHTML5 Web apps workshop\nDay 2: \nHTML5 Mobile apps workshop\nOpen hous
+ e discussion on “FOSS &amp; Students”\nQuiz &amp; Prizes\n\nThis will help cre
+ ate a local community in a technologically-remote area.
+URL:https://reps.mozilla.org/e/mozcamp-allahabad/
+SEQUENCE:0
+X-COORDINATES-LAT:25.48592
+X-COORDINATES-LON:81.873415
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4123
+CLASS:PUBLIC
+DTSTAMP:20200423T165858Z
+DTSTART:20150726T043000Z
+DTEND:20150726T123000Z
+LOCATION:Institute of Technical Education and Research\, Bhubaneshwar\, In
+ dia
+SUMMARY:App Day in a Box @ ITER
+DESCRIPTION:This is a one day event where we will have sessions on Firefox
+  OS. The event will focus in showing how to start contributing to Firefox 
+ OS codebase and also in Firefox OS Marketplace.
+URL:https://reps.mozilla.org/e/app-day-in-a-box-iter/
+SEQUENCE:2
+X-COORDINATES-LAT:22.5568329656
+X-COORDINATES-LON:88.358738
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

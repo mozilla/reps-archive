@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4501
+CLASS:PUBLIC
+DTSTAMP:20200423T164128Z
+DTSTART:20150916T070000Z
+DTEND:20150916T083000Z
+LOCATION:Urumqi tenth Primary school\, urumqi\, China
+SUMMARY:What kind of Web Literacy are needed for our children?
+DESCRIPTION:Prepare Firefox Tianshan tour early: Training of volunteers\, 
+ seeded selection of new members\, the activities of pre-publicity\,
+URL:https://reps.mozilla.org/e/what-kind-of-web-literacy-are-needed-for-ou
+ r-children/
+SEQUENCE:1
+X-COORDINATES-LAT:43.7683795865
+X-COORDINATES-LON:2607.62866759
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

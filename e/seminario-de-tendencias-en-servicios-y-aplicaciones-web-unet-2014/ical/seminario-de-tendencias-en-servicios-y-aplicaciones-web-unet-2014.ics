@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3152
+CLASS:PUBLIC
+DTSTAMP:20200423T181651Z
+DTSTART:20141215T183000Z
+DTEND:20141217T223000Z
+LOCATION:Universidad Nacional Experimental del Táchira (UNET)\, San Crist
+ óbal\, Venezuela
+SUMMARY:Seminario de Tendencias en Servicios y Aplicaciones Web UNET 2014
+DESCRIPTION:Seminar oriented to the development\, design\, security\, comm
+ issioning and marketing services for web applications.
+URL:https://reps.mozilla.org/e/seminario-de-tendencias-en-servicios-y-apli
+ caciones-web-unet-2014/
+SEQUENCE:11
+X-COORDINATES-LAT:7.79407823213
+X-COORDINATES-LON:-72.1996750846
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

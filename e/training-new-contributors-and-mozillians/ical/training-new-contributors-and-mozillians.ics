@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4965
+CLASS:PUBLIC
+DTSTAMP:20200423T154725Z
+DTSTART:20160220T083000Z
+DTEND:20160220T160000Z
+LOCATION:Yopougon\, Abidjan\, Ivory Coast
+SUMMARY:Training new Contributors and Mozillians
+DESCRIPTION:This event aims to help new contributors to register and creat
+ e their individual profiles mozillians.org\, irc\, participation\,qa etc\n
+ and contribute on Mozilla project.\nAlso\, train contributors who will men
+ tor new contributors for womoz challenge\, helping to organize of future e
+ vents.
+URL:https://reps.mozilla.org/e/training-new-contributors-and-mozillians/
+SEQUENCE:9
+X-COORDINATES-LAT:5.31979373234
+X-COORDINATES-LON:-4.02282737195
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

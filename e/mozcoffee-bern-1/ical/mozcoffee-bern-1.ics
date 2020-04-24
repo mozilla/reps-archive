@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1973
+CLASS:PUBLIC
+DTSTAMP:20200423T202009Z
+DTSTART:20140306T160000Z
+DTEND:20140306T190000Z
+LOCATION:Bern\, Berne\, Switzerland
+SUMMARY:MozCoffee Bern
+DESCRIPTION:Meetup with two other Mozillians from Berne. We meet at 17:00 
+ @&#34;Loeb Egge&#34;. Feel free to contact me on Twitter (@KohlerSolutions) if you
+  want to join us and I&#39;ll tell you our location.
+URL:https://reps.mozilla.org/e/mozcoffee-bern-1/
+SEQUENCE:1
+X-COORDINATES-LAT:46.9474078152
+X-COORDINATES-LON:7.44063091261
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

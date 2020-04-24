@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5585
+CLASS:PUBLIC
+DTSTAMP:20200423T151250Z
+DTSTART:20160716T060000Z
+DTEND:20160716T080000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: Web Design UI/UX\, Part 2
+DESCRIPTION:A workshop teaching event about web design from UI/UX perspect
+ ive on Mozilla Community Space Jakarta.
+URL:https://reps.mozilla.org/e/mozbelajar-web-design-ui-ux-part-2/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.20376960568
+X-COORDINATES-LON:106.724487338
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

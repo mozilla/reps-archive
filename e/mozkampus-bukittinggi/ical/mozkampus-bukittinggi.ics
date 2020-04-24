@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@454
+CLASS:PUBLIC
+DTSTAMP:20200423T221316Z
+DTSTART:20130206T070000Z
+DTEND:20130206T110000Z
+LOCATION:AMIK Bukittinggi (University)\, Bukittinggi\, Indonesia
+SUMMARY:MozKampus Bukittinggi
+DESCRIPTION:Mozilla Indonesia Community will held a talk about Mozilla Pro
+ jects and Updates\, Firefox OS Introduction\, sharing about how to join an
+ d contribute in Mozilla projects. This event will be held at AMIK Bukittin
+ ggi University at Bukittinggi\, West Sumatra\, Indonesia. 
+URL:https://reps.mozilla.org/e/mozkampus-bukittinggi/
+SEQUENCE:0
+X-COORDINATES-LAT:-0.30692907401
+X-COORDINATES-LON:100.37109375
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

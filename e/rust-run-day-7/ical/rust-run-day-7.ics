@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7830
+CLASS:PUBLIC
+DTSTAMP:20200423T091048Z
+DTSTART:20180812T043000Z
+DTEND:20180812T093000Z
+LOCATION:91SpringBoard\, Kormangala\, Bangalore.\, Bangalore\, India
+SUMMARY:Rust Run - Day 7
+DESCRIPTION:It is a series of part of the Rust Run Series\, 2018.\n\n A di
+ scussion on lifetimes in Rust from Chapter 10.3 of The Rust Programming La
+ nguage Book.\n\nhttps://doc.rust-lang.org/book/second-edition/ch10-03-life
+ time-syntax.html
+URL:https://reps.mozilla.org/e/rust-run-day-7/
+SEQUENCE:7
+X-COORDINATES-LAT:12.9435
+X-COORDINATES-LON:77.6212
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

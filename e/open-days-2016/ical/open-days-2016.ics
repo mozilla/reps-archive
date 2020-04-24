@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6035
+CLASS:PUBLIC
+DTSTAMP:20200423T114340Z
+DTSTART:20161126T050000Z
+DTEND:20161127T150000Z
+LOCATION:Alliance Francaise Tamatave\, Tamatave\, Madagascar\, Tamatave\, 
+ Madagascar
+SUMMARY:Open Days 2016
+DESCRIPTION:Open Days is a yearly event that happens in Tamatave. It is or
+ ganized by JADE and this year (and last year)\, Mozilla Madagascar is goin
+ g to participate by hosting a talk during the event.\n\nThis year\, we wan
+ t to talk about the Open Web and Activate Mozilla.\n\nSpeakers:\n- Francki
+ s: What are the Mozilla goals and how to begin?\n- Mihaja: Activate Mozill
+ a. What can I do?\n- Felixie: Open Web and privacy.\n- Mariot: Recruitment
+ . (convince people to join Campus Clubs and our community)
+URL:https://reps.mozilla.org/e/open-days-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:-18.1723845855
+X-COORDINATES-LON:49.3474732339
+X-COUNTRY-CODE:mg
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2060
+CLASS:PUBLIC
+DTSTAMP:20200423T195830Z
+DTSTART:20140426T113000Z
+DTEND:20140426T220000Z
+LOCATION:Hotel Vila Galé Fortaleza\, Fortaleza\, Brazil
+SUMMARY:JSConfBR 2014
+DESCRIPTION:Brazillian edition of one of the most known JavaScript events 
+ around the world. JSConf BR will host a single line of great presentations
+  about JS\, including Mozilla&#39;s CEO\, Brendan Eich\, who is also the JS cr
+ eator and keeps developing the language. It&#39;s the second edition of the JS
+ Conf franchise to take place in Brazil and it&#39;s organized by development c
+ ommunities members. Last years event proved very succesful.
+URL:https://reps.mozilla.org/e/jsconfbr-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:-3.77838627499
+X-COORDINATES-LON:-38.5019530356
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

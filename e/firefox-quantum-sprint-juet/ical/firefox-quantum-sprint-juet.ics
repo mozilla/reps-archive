@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7158
+CLASS:PUBLIC
+DTSTAMP:20200423T101835Z
+DTSTART:20171111T090000Z
+DTEND:20171111T113000Z
+LOCATION:Jaypee University of Engineering and Technology\, Guna\, India
+SUMMARY:Firefox Quantum Sprint@JUET
+DESCRIPTION:Firefox Quantum is soon to be launched and this is our opportu
+ nity to make Firefox rise again. Participate in the Firefox Quantum Sprint
+  and make a difference by ensuring that Firefox runs smoothly in your regi
+ on.\nFor more details contact: Shubhendra: 8182004700
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-juet/
+SEQUENCE:2
+X-COORDINATES-LAT:24.6304379091
+X-COORDINATES-LON:77.3066264389
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

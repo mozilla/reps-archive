@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8313
+CLASS:PUBLIC
+DTSTAMP:20200423T084528Z
+DTSTART:20190119T033000Z
+DTEND:20190119T143000Z
+LOCATION:Lovely Professional University\, Jalandhar\, India
+SUMMARY:Privacy and Security Workshop @ LPU Jalandhar
+DESCRIPTION:As we observe January as a Privacy Month\, Mozilla Community\,
+  Punjab is organising a one-day workshop intended to raise awareness and p
+ romote data privacy education. This event is aimed at making students awar
+ e about the Privacy and security on the web with a hands-on session on dif
+ ferent tools\, Firefox Add-ons meant for online privacy and security.
+URL:https://reps.mozilla.org/e/privacy-and-security-workshop-lpu-jalandhar
+ /
+SEQUENCE:7
+X-COORDINATES-LAT:31.3250956652
+X-COORDINATES-LON:75.596008189
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

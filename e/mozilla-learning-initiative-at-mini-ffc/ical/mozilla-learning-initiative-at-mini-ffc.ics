@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4536
+CLASS:PUBLIC
+DTSTAMP:20200423T164006Z
+DTSTART:20150919T010000Z
+DTEND:20150919T040000Z
+LOCATION:University of Sto. Tomas\, Manila\, Philippines
+SUMMARY:Mozilla Learning Initiative at Mini FFC
+DESCRIPTION:The Philippine Web Designers Organization is a volunteer group
+  that started in September 2008\, when several of us gathered because we w
+ anted to have a web design conference in the Philippines.\n\nThe PWDO invi
+ te  the Mozilla Philippines Community to talk about the Mozilla Learning I
+ nitiative. Here we will talk about the programs\, tools\, and community re
+ lated to learning initiative of Mozilla.
+URL:https://reps.mozilla.org/e/mozilla-learning-initiative-at-mini-ffc/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5898392247
+X-COORDINATES-LON:120.98043412
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

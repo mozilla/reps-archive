@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6242
+CLASS:PUBLIC
+DTSTAMP:20200423T113602Z
+DTSTART:20170117T130000Z
+DTEND:20170117T143000Z
+LOCATION:Om Computers\,near Torna Nagar road\,Pavan Nagar\,Cidco\,Nashik\,
+  Nashik\, India
+SUMMARY:Privacy Awareness at a local computer institute
+DESCRIPTION:This session was conducted under the Offline section of the Ja
+ nuary Privacy Month Campaign. It was a session focused on educating people
+  from a non-technical background the importance of online privacy.
+URL:https://reps.mozilla.org/e/privacy-awareness-at-a-local-computer-insti
+ tute/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9888228598
+X-COORDINATES-LON:73.7642383541
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

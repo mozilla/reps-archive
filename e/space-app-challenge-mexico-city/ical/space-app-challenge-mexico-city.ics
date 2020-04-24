@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@735
+CLASS:PUBLIC
+DTSTAMP:20200423T215010Z
+DTSTART:20130420T150000Z
+DTEND:20130421T220000Z
+LOCATION:Sociedad Astronómica de México\, Benito Juárez\, Mexico
+SUMMARY:NASA Space App Challenge Mexico City
+DESCRIPTION:The International Space Apps Challenge is an international mas
+ s collaboration focused on space exploration that takes place over 48-hour
+ s in cities around the world.
+URL:https://reps.mozilla.org/e/space-app-challenge-mexico-city/
+SEQUENCE:26
+X-COORDINATES-LAT:19.3989912253
+X-COORDINATES-LON:-99.1414242983
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@71
+CLASS:PUBLIC
+DTSTAMP:20200423T230031Z
+DTSTART:20120921T150000Z
+DTEND:20120923T150000Z
+LOCATION:AUDITORIO MUNICIPAL\, Artigas\, Uruguay
+SUMMARY:Congreso INNOVATION 2012
+DESCRIPTION:Tecnología al Servicio de la Educación: Docentes 2.0\, www\,
+  Robótica\, Telefonía Celular\, Plataformas Virtuales\, Redes Sociales\,
+  Internet 3.0\, DDHH\, Juegos Educativos\, PC\, Plan CEIBAL\, y más...\n\
+ nAvalado por el Consejo de Educación Secundaria. (CES). en breve\n\nAvala
+ do por el Consejo de Educación Técnico Profesional (CETP) \n\n\n\n\n\n
+URL:https://reps.mozilla.org/e/congreso-innovation-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-30.4039715323
+X-COORDINATES-LON:-56.4714431763
+X-COUNTRY-CODE:uy
+END:VEVENT
+
+END:VCALENDAR

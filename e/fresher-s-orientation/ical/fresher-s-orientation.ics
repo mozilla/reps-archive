@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8789
+CLASS:PUBLIC
+DTSTAMP:20200423T081331Z
+DTSTART:20190829T043000Z
+DTEND:20190829T113000Z
+LOCATION:ADGITM\, New Delhi\, India
+SUMMARY:Fresher&#39;s Orientation  ADGITM
+DESCRIPTION:Fresher&#39;s Orientation for the academic year 2019-20. We are or
+ gainzing an Orientation Session for all the freshers at ADGITM. It will be
+  a great opportunity to talk about Addons\, Mozilla as the leader of open 
+ source community.
+URL:https://reps.mozilla.org/e/fresher-s-orientation/
+SEQUENCE:3
+X-COORDINATES-LAT:28.633299253
+X-COORDINATES-LON:77.2710571066
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

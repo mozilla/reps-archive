@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5048
+CLASS:PUBLIC
+DTSTAMP:20200423T155711Z
+DTSTART:20160108T053000Z
+DTEND:20160108T073000Z
+LOCATION:Mahanagar palika Hindi shchool no 36 \,dindori naka\,panchvati\,n
+ ashik\, Nashik\, India
+SUMMARY:Public school Privacy awareness camp
+DESCRIPTION:Privacy awareness workshop for public school students. This ev
+ ent comes under the global #PrivacyMonth . Agenda is simple making student
+ s and staff aware about the rich Privacy Features of Firefox desktop and M
+ obile. \n\nhttp://mzl.la/JanuaryPrivacyMonthCampaign
+URL:https://reps.mozilla.org/e/public-school-privacy-awareness-camp/
+SEQUENCE:0
+X-COORDINATES-LAT:19.9974533
+X-COORDINATES-LON:73.7898023
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

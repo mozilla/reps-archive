@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8121
+CLASS:PUBLIC
+DTSTAMP:20200423T090201Z
+DTSTART:20180923T053000Z
+DTEND:20180923T103000Z
+LOCATION:Softech  Institute of Training\, Warangal\, India
+SUMMARY:Dark Funnel Detective Campaign- Warangal
+DESCRIPTION:This event will engage community members in understanding the 
+ safety concern of Firefox on the Internet and its importance\, By particip
+ ating in this campaign you’ll be helping Mozilla shine light on unknown 
+ download sources. Every site reported by a community member will get us on
+ e step closer to our goal of understanding the entire dark funnel\, which 
+ in turn helps us keep all Firefox users safe.
+URL:https://reps.mozilla.org/e/dark-funnel-detective-campaign-warangal/
+SEQUENCE:4
+X-COORDINATES-LAT:17.9922158831
+X-COORDINATES-LON:79.6053725481
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6069
+CLASS:PUBLIC
+DTSTAMP:20200423T114523Z
+DTSTART:20161118T190000Z
+DTEND:20161118T220000Z
+LOCATION:Bush Ave. UAGRM\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Firefox Birthday Celebration
+DESCRIPTION:This is our own celebration for the 12th birthday of Firefox. 
+ We will show what&#39;s new about Firefox and why is the best option. We will 
+ speak about security and privacy as well.
+URL:https://reps.mozilla.org/e/firefox-birthday-celebration/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.7751310329
+X-COORDINATES-LON:-63.1936075684
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

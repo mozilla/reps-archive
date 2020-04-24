@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7325
+CLASS:PUBLIC
+DTSTAMP:20200423T100900Z
+DTSTART:20171230T043000Z
+DTEND:20171230T073000Z
+LOCATION:Swecha Office\, Gachibowli\, Hyderabd 500032\, Hyderabad\, India
+SUMMARY:Rust Hackathon - December 2017
+DESCRIPTION:• What we&#39;ll do\nExplore Rust projects\, contribute\, collab
+ orate with other developers.\n\n• What to bring\nLaptops\, Chargers\n\n
+ • Important to know\nSpecial focus for beginners.
+URL:https://reps.mozilla.org/e/rust-hackathon-december-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4355593073
+X-COORDINATES-LON:78.3591299057
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

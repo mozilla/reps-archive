@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3862
+CLASS:PUBLIC
+DTSTAMP:20200423T171907Z
+DTSTART:20150530T230000Z
+DTEND:20150531T010000Z
+LOCATION:La Pascana\, 24 de Septiembre street\, Santa Cruz de la Sierra\, 
+ Bolivia
+SUMMARY:MozCoffee Santa Cruz 2015
+DESCRIPTION:We are gathering to Mozillians for define the future events\, 
+ activities\, and share information about today web in Santa Cruz and Boliv
+ ia.
+URL:https://reps.mozilla.org/e/mozcoffee-santa-cruz-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.7835995943
+X-COORDINATES-LON:-63.1814779041
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

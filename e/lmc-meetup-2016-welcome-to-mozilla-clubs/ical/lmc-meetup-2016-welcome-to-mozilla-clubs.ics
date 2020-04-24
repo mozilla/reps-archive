@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5408
+CLASS:PUBLIC
+DTSTAMP:20200423T152735Z
+DTSTART:20160506T130000Z
+DTEND:20160506T140000Z
+LOCATION:EMEF Padre Leão Vallerié\, Campinas\, Brazil
+SUMMARY:LMC Meetup 2016: Welcome to Mozilla Clubs
+DESCRIPTION:Meetup welcome to the new members of the Leão Mozilla Clubs\,
+  the goal is to present Mozilla\, the network learning\, activities last y
+ ear\, present activities to be developed\, make a section ideation and fie
+ ld research.
+URL:https://reps.mozilla.org/e/lmc-meetup-2016-welcome-to-mozilla-clubs/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.9091211319
+X-COORDINATES-LON:-47.0568237361
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

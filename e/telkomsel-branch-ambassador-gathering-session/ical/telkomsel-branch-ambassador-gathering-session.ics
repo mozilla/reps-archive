@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6345
+CLASS:PUBLIC
+DTSTAMP:20200423T112547Z
+DTSTART:20170305T013000Z
+DTEND:20170305T060000Z
+LOCATION:Loop Station\, Bandung\, Indonesia
+SUMMARY:Telkomsel Branch Ambassador Gathering Session
+DESCRIPTION:##ID\nTelkomsel mengadakan gathering session dengan para brand
+  ambassador yang merupakan siswa SMA dan mahasiswa di wilayah Bandung\, Ja
+ wa Barat. Mozilla Indonesia diundang untuk memberikan edukasi tentang Inte
+ rnet Baik\n\n##EN\nTelkomsel\, one of major cellular carrier in Indonesia\
+ , will hold a gathering session with its brand ambassador which are high s
+ chool and college students from Bandung\, West Java.
+URL:https://reps.mozilla.org/e/telkomsel-branch-ambassador-gathering-sessi
+ on/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.90138340223
+X-COORDINATES-LON:107.621050894
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

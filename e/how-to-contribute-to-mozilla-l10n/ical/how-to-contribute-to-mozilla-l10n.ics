@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7617
+CLASS:PUBLIC
+DTSTAMP:20200423T094648Z
+DTSTART:20180403T120000Z
+DTEND:20180403T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:How to Contribute to Mozilla: L10n
+DESCRIPTION:L10n workshop held by mozillian Lidya Christina who is also a 
+ L10n contributor.
+URL:https://reps.mozilla.org/e/how-to-contribute-to-mozilla-l10n/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.23491490878
+X-COORDINATES-LON:106.820950985
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

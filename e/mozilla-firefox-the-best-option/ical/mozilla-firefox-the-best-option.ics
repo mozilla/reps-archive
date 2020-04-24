@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@69
+CLASS:PUBLIC
+DTSTAMP:20200423T230542Z
+DTSTART:20120831T140000Z
+DTEND:20120831T160000Z
+LOCATION:Faculty University GRM - Camiri\, Bolivia\, Camiri\, Bolivia
+SUMMARY:Mozilla Firefox the best option
+DESCRIPTION:This is an event organized by Mozilla Bolivia\, in the city of
+  Camiri south of Bolivia. This is a university town and most of the people
+  of this city are college students\, and is a good way to reach them with 
+ a lecture on why Firefox is the best option when choosing a browser.
+URL:https://reps.mozilla.org/e/mozilla-firefox-the-best-option/
+SEQUENCE:0
+X-COORDINATES-LAT:-20.0404503542
+X-COORDINATES-LON:-63.5256958008
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

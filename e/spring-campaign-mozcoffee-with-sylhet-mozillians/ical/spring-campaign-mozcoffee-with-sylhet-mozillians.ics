@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4033
+CLASS:PUBLIC
+DTSTAMP:20200423T170249Z
+DTSTART:20150712T010000Z
+DTEND:20150712T030000Z
+LOCATION:Spicy Restaurant &amp; Party Center\, Sylhet\, Bangladesh
+SUMMARY:Spring Campaign MozCoffee with Sylhet Mozillians
+DESCRIPTION:It&#39;ll be an event with the Mozillains of Sylhet\, Bangladesh. 
+ Where we will talk about the possible ways to increase the download of Fir
+ efox Browser and more about the #FoxYeah mission. This event will enhance 
+ the goal of #FoxYeah.
+URL:https://reps.mozilla.org/e/spring-campaign-mozcoffee-with-sylhet-mozil
+ lians/
+SEQUENCE:6
+X-COORDINATES-LAT:24.899464508
+X-COORDINATES-LON:91.8730544904
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

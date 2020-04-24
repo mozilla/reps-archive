@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4186
+CLASS:PUBLIC
+DTSTAMP:20200423T165852Z
+DTSTART:20150726T073000Z
+DTEND:20150726T123000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Securing Web Meetup
+DESCRIPTION:We recently completed 8-day Securing Web @ZAP workshops. This 
+ meetup is focused at framing curriculum for Securing Web initiative for ha
+ ving a effective documentation and help other Mozilla communities to organ
+ ize such events.
+URL:https://reps.mozilla.org/e/securing-web-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4161802367
+X-COORDINATES-LON:78.4110935032
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

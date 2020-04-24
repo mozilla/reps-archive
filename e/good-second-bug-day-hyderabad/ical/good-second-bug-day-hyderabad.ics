@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4365
+CLASS:PUBLIC
+DTSTAMP:20200423T163538Z
+DTSTART:20150926T103000Z
+DTEND:20150926T133000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Good-Second-Bug Day Hyderabad
+DESCRIPTION:Its a Marketplace Day followup event\, where we will see how w
+ as your experience of good first bugs and its time for picking good second
+  bug.
+URL:https://reps.mozilla.org/e/good-second-bug-day-hyderabad/
+SEQUENCE:5
+X-COORDINATES-LAT:17.4380882
+X-COORDINATES-LON:78.3900414
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

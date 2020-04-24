@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2103
+CLASS:PUBLIC
+DTSTAMP:20200423T195952Z
+DTSTART:20140424T120000Z
+DTEND:20140424T163000Z
+LOCATION:Iturralde Street\, Camiri\, Bolivia
+SUMMARY:Mozilla WebMaker Camiri 4
+DESCRIPTION:This is a great project!... We&#39;ll have like 12 events in 4 dif
+ ferents high school of Camiri City! and with at least 40 student in each e
+ vent.\nThis is the third one!!!! And there will be 4 groups (events) in Ab
+ el Iturralde High School. Willy Andres Acosta is the Mozillians who is org
+ anizing these events in Camiri and member of Mozilla Bolivia.
+URL:https://reps.mozilla.org/e/mozilla-webmaker-camiri-4/
+SEQUENCE:3
+X-COORDINATES-LAT:-20.0449309212
+X-COORDINATES-LON:-63.5230155587
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

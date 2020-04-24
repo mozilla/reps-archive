@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1284
+CLASS:PUBLIC
+DTSTAMP:20200423T210756Z
+DTSTART:20130921T120000Z
+DTEND:20130921T160000Z
+LOCATION:TBD\, Cluj Napoca\, Romania
+SUMMARY:Software Freedom Day 2013
+DESCRIPTION:The local group will celebrate SFD. More details to come.\nSFD
+  is a worldwide celebration of Free and Open Source Software (FOSS). Our g
+ oal in this celebration is to educate the worldwide public about the benef
+ its of using high quality FOSS in education\, in government\, at home\, an
+ d in business -- in short\, everywhere!
+URL:https://reps.mozilla.org/e/software-freedom-day-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:46.7717908288
+X-COORDINATES-LON:23.6273002625
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

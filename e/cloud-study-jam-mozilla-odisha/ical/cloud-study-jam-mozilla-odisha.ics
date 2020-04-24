@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8422
+CLASS:PUBLIC
+DTSTAMP:20200423T084004Z
+DTSTART:20190303T053000Z
+DTEND:20190303T093000Z
+LOCATION:KIIT University\, Bhubaneswar\, India
+SUMMARY:Cloud Study Jam @ Mozilla Odisha
+DESCRIPTION:A workshop on Google Cloud. Attendees will get official Google
+  training\, a $55+ value\, free of charge. Together we&#39;ll work through sev
+ eral Google Cloud labs. \nThen after our live session\, attendees will hav
+ e free access to more labs you can finish at home. Complete all labs in th
+ e quest and earn a Google-hosted badge for your online profile\, and addit
+ ional 30 days access to the training platform to compete any labs you want
+ .
+URL:https://reps.mozilla.org/e/cloud-study-jam-mozilla-odisha/
+SEQUENCE:1
+X-COORDINATES-LAT:20.2686385331
+X-COORDINATES-LON:85.9532546997
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

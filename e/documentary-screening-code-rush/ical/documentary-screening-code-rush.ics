@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5747
+CLASS:PUBLIC
+DTSTAMP:20200423T150231Z
+DTSTART:20160824T103000Z
+DTEND:20160824T130000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Documentary Screening: Code Rush
+DESCRIPTION:Code Rush is a 2000 documentary following the lives of a group
+  of Netscape engineers in Silicon Valley. It covers Netscape&#39;s last year a
+ s an independent company\, from their announcement of the Mozilla open sou
+ rce project until their acquisition by AOL.\n\nIt particularly focuses on 
+ the last-minute rush to make the Mozilla source code ready for release by 
+ the deadline of March 31\, 1998\, and the impact on the engineers&#39; lives a
+ nd families as they attempt to save the company from ruin.
+URL:https://reps.mozilla.org/e/documentary-screening-code-rush/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5471337932
+X-COORDINATES-LON:121.015574455
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

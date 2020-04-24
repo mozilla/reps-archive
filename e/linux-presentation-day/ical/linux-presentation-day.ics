@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5938
+CLASS:PUBLIC
+DTSTAMP:20200423T115048Z
+DTSTART:20161022T110000Z
+DTEND:20161022T170000Z
+LOCATION:108 Stokes Croft\, Bristol\, BS1 3RU\, Bristol\, United Kingdom
+SUMMARY:Linux Presentation Day
+DESCRIPTION:Members of the Bristol and Bath Linux User Group are holding a
+  Linux Presentation Day event on Saturday October 22nd 2016\, between 12 n
+ oon and 6pm with free entry\, at Cafe Kino\, 108 Stokes Croft\, Bristol\, 
+ BS1 3RU\; conveniently located in the centre of Bristol.\n\nThey will be d
+ emonstrating how easy it can be to set up a standard laptop or desktop PC 
+ with Linux. As well as giving away DVD/USB&#39;s to try out or install Linux\,
+  along with other fun freebies.
+URL:https://reps.mozilla.org/e/linux-presentation-day/
+SEQUENCE:1
+X-COORDINATES-LAT:51.4491322937
+X-COORDINATES-LON:-2.58062803754
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

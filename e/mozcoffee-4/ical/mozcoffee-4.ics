@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6767
+CLASS:PUBLIC
+DTSTAMP:20200423T105326Z
+DTSTART:20170720T183000Z
+DTEND:20170721T183000Z
+LOCATION:Indore\, Indore\, India
+SUMMARY:MozCoffee
+DESCRIPTION:Inviting all the active members of MozJharkhand to discuss the
+  problems and plan new activities for the people and make this community a
+ live again. Also ways to contribute in Mozilla will be discussed.
+URL:https://reps.mozilla.org/e/mozcoffee-4/
+SEQUENCE:0
+X-COORDINATES-LAT:22.7236822
+X-COORDINATES-LON:75.8868035
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

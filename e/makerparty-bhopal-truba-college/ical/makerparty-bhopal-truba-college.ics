@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4295
+CLASS:PUBLIC
+DTSTAMP:20200423T165326Z
+DTSTART:20150813T053000Z
+DTEND:20150813T103000Z
+LOCATION:Truba Group of Insititutions\, Bhopal\, M.P.\, Bhopal\, India
+SUMMARY:MakerParty Bhopal @ Truba College
+DESCRIPTION:As the Global Maker Party Campaign we will be Hosting a Train 
+ the Trainer session\, Maker Party\, Web Literacy Campaign with different t
+ hemes associated with web. The main Goal is to increase the Number of web 
+ literates through campaigns\, Help the FSA&#39;s in planning and hosting their
+  own Maker parties\, Increase the community base in Indore.\nAlso Contribu
+ ting to the code would be second main agenda for the event. This would be 
+ first event of its type in Bhopal region.
+URL:https://reps.mozilla.org/e/makerparty-bhopal-truba-college/
+SEQUENCE:2
+X-COORDINATES-LAT:23.2674431328
+X-COORDINATES-LON:77.3751492798
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

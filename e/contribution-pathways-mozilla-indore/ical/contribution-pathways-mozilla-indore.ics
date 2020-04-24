@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3892
+CLASS:PUBLIC
+DTSTAMP:20200423T165331Z
+DTSTART:20150813T043000Z
+DTEND:20150814T123000Z
+LOCATION:DAVV Indore\, Indore\, India
+SUMMARY:Contribution Pathways - Mozilla Indore
+DESCRIPTION:We will learn things necessary for getting started with code-b
+ ase contribution. Event is going to be completely dedicated to Firefox Mar
+ ketplace. This will be an open event and we are expecting to on board many
+  newbies to Marketplace contributions
+URL:https://reps.mozilla.org/e/contribution-pathways-mozilla-indore/
+SEQUENCE:16
+X-COORDINATES-LAT:22.7212684
+X-COORDINATES-LON:75.8940479
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

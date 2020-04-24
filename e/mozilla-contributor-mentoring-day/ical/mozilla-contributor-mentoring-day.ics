@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@724
+CLASS:PUBLIC
+DTSTAMP:20200423T215402Z
+DTSTART:20130412T150000Z
+DTEND:20130412T180000Z
+LOCATION:Mazeda Cyber Cafe and SFN\, Nizam&#39;s Shankar Plaza\, Shankar\, Dha
+ nmondi (Sat Masjid Road\, opposite of Chayanot)\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Contributor Mentoring Day
+DESCRIPTION:Contributor Mentoring Day is a special event where completely 
+ newbie and wannabe contributors are tought the basics of communication\, c
+ ollaboration and contribution to/of the Mozilla community.
+URL:https://reps.mozilla.org/e/mozilla-contributor-mentoring-day/
+SEQUENCE:5
+X-COORDINATES-LAT:23.7507038439
+X-COORDINATES-LON:90.3680956364
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

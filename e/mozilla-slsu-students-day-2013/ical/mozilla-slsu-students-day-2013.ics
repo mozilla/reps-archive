@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@610
+CLASS:PUBLIC
+DTSTAMP:20200423T220349Z
+DTSTART:20130307T010000Z
+DTEND:20130307T080000Z
+LOCATION:Southern Leyte State University - Hinunangan Campus\, Hinunangan\
+ , Philippines
+SUMMARY:Mozilla @ SLSU 9th Charter Day
+DESCRIPTION:In celebration with Southern Leyte State University\, 9th Char
+ ter Day\, the SLSU Mozilla Student Representatives\, shall be putting up a
+  Mozilla Booth wherein they shall be rendering free services that shall ca
+ ter to the Mozilla-related needs of the participants\, like helping them i
+ nstall Mozilla applications on their netbooks and sharing to them basic in
+ formation about Mozilla\, FirefoxOS\, the Mozilla Student Representative P
+ rogram and other Mozilla products. 
+URL:https://reps.mozilla.org/e/mozilla-slsu-students-day-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:10.4028891
+X-COORDINATES-LON:125.186806
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

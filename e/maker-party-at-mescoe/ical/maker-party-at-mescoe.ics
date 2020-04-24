@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4141
+CLASS:PUBLIC
+DTSTAMP:20200423T170217Z
+DTSTART:20150715T063000Z
+DTEND:20150715T093000Z
+LOCATION:Modern Education Society&#39;s COE\, Pune\, Pune\, India
+SUMMARY:Maker Party Pune
+DESCRIPTION:We are organizing a Maker Party at the newly formed club which
+  is Firefox Club MESCOE.
+URL:https://reps.mozilla.org/e/maker-party-at-mescoe/
+SEQUENCE:2
+X-COORDINATES-LAT:18.5322631865
+X-COORDINATES-LON:73.8785619734
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

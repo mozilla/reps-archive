@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4715
+CLASS:PUBLIC
+DTSTAMP:20200423T161501Z
+DTSTART:20151115T083000Z
+DTEND:20151115T120000Z
+LOCATION:TBDC&#39;sons and Hot\, Thrissur\, Thrissur\, India
+SUMMARY:MozCoffee for Firefox for Windows 10 Campaign @ Thrissur
+DESCRIPTION:This event helps us to retain Firefox Users on Windows 10. In 
+ support to Windows 10 Community Activation Campaign we are hosting this ev
+ ent. Inviting Mozillians \, FSAs and newbies.This event is solely to sprea
+ d awareness about Firefox for Windows 10\, talk about how it has been opti
+ mized especially for Windows 10\, how to retain the defaults while updatin
+ g\, and why should users opt for it in the first place.
+URL:https://reps.mozilla.org/e/mozcoffee-for-firefox-for-windows-10-campai
+ gn-thrissur/
+SEQUENCE:2
+X-COORDINATES-LAT:10.5276164645
+X-COORDINATES-LON:76.2228469842
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

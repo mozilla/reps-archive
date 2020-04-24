@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3843
+CLASS:PUBLIC
+DTSTAMP:20200423T172525Z
+DTSTART:20150512T060000Z
+DTEND:20150516T220000Z
+LOCATION:Ghanzi\, Ghanzi\, Botswana
+SUMMARY:Orange Botswana FirefoxOS Launch
+DESCRIPTION:Mozilla Botswana Community is collaborating with Orange Botswa
+ na to support the launch of the Orange Klif and promote Firefox OS adoptio
+ n in Botswana. This is an initiative we envision great success to Mozilla&#39;
+ s community building and engagement strategy at the same time making Mozil
+ la&#39;s mission a possibility in the community. This prospect is an opportuni
+ ty to Africas challenges in the mobile industry.
+URL:https://reps.mozilla.org/e/orange-botswana-firefoxos-launch/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.599647637
+X-COORDINATES-LON:21.6306152567
+X-COUNTRY-CODE:bw
+END:VEVENT
+
+END:VCALENDAR

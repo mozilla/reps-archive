@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1542
+CLASS:PUBLIC
+DTSTAMP:20200423T205153Z
+DTSTART:20131115T070000Z
+DTEND:20131115T103000Z
+LOCATION:Magyar Telekom Nyrt. vezérigazgatóság / 1013 Budapest\, Kriszt
+ ina körút 55\, Budapest\, Hungary
+SUMMARY:Hungarian TELEKOM HQ Day - 1/2 (Krisztina)
+DESCRIPTION:Engage TELEKOM on a HQ day one. We spit this to two half day b
+ ecause they have two separated site.\n\nWe are confirming that we will go 
+ to Krisztina körút / Telekom on Friday (11. 15.) from 8:00 to 11:30 with
+  Ádám and at least one mobilizer.
+URL:https://reps.mozilla.org/e/hungarian-telekom-hq-day-1-2-krisztina/
+SEQUENCE:12
+X-COORDINATES-LAT:47.4981235503
+X-COORDINATES-LON:19.0280771247
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

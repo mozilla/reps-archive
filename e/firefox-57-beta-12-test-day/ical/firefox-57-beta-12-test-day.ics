@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7194
+CLASS:PUBLIC
+DTSTAMP:20200423T102152Z
+DTSTART:20171027T040000Z
+DTEND:20171028T160000Z
+LOCATION:TBD\, Dhaka\, Bangladesh
+SUMMARY:Firefox 57 Beta 12 Test Day
+DESCRIPTION:Welcome to Today&#39;s Test-day!  Today we will be hosting Firefox
+  57 Beta 12 Test Day. We will be focusing our testing on Video Compatibili
+ ty and the following new features: Photon Onboarding Tour Notifications &amp; 
+ Tour\, Photon Structure\, Date Time Input Types and Bug Triage.\n\nNo prev
+ ious testing experience is required. No previous testing experience is req
+ uired\, Lets Make Firefox Better!
+URL:https://reps.mozilla.org/e/firefox-57-beta-12-test-day/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7261641982
+X-COORDINATES-LON:90.4105224833
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

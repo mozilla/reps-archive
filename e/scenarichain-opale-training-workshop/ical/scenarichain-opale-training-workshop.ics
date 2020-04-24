@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6770
+CLASS:PUBLIC
+DTSTAMP:20200423T105631Z
+DTSTART:20170703T043000Z
+DTEND:20170705T113000Z
+LOCATION:MIH\, Powder Mill\, Mauritius
+SUMMARY:SCENARIchain Opale training workshop
+DESCRIPTION:This is a 3-day training workshop on SCENARIchain Opale softwa
+ re for creating online course content. Firefox is the main browser which i
+ s being encouraged to use for this purpose. Mozilla Rep Sandraghassen is i
+ nvolved in this workshop.
+URL:https://reps.mozilla.org/e/scenarichain-opale-training-workshop/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.1104516786
+X-COORDINATES-LON:57.5846099784
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2839
+CLASS:PUBLIC
+DTSTAMP:20200423T183822Z
+DTSTART:20141030T080000Z
+DTEND:20141030T120000Z
+LOCATION:Universidad Minuto de Dios Sede - Minuto de Dios\, Bogota\, Colom
+ bia
+SUMMARY:Webmaker Universidad Minuto de Dios - Bogota
+DESCRIPTION:Mozilla Colombia Community will be hosting this event with stu
+ dents and professors on the 30th of October 2014. This event is a 1-day se
+ ssion for developing new mentor and providing teaching skills working with
+  Webmaker tools especially those who are passionate to teach and also to e
+ ducate other people about the Web!
+URL:https://reps.mozilla.org/e/webmaker-universidad-minuto-de-dios-bogota/
+SEQUENCE:3
+X-COORDINATES-LAT:4.61383377246
+X-COORDINATES-LON:-74.0840613842
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

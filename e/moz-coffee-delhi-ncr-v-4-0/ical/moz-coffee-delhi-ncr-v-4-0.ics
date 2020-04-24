@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3891
+CLASS:PUBLIC
+DTSTAMP:20200423T171508Z
+DTSTART:20150613T060000Z
+DTEND:20150613T093000Z
+LOCATION:Natural Ice Cream  \, Central Secretriat\, New Delhi\, India
+SUMMARY:Moz Coffee Delhi NCR V 4.0
+DESCRIPTION:After the huge success of the last 3 Mozcoffees and getting a 
+ good amount of contributors for the Mozilla Delhi Community \, we are plan
+ ning to organize the Mozcoffee again in the month of June. This event is v
+ ery important for the community as it brings lots of motivation for the ne
+ w members of the community and the roadmap of our community is decided.
+URL:https://reps.mozilla.org/e/moz-coffee-delhi-ncr-v-4-0/
+SEQUENCE:4
+X-COORDINATES-LAT:28.6118520809
+X-COORDINATES-LON:77.2478026897
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

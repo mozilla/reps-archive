@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2697
+CLASS:PUBLIC
+DTSTAMP:20200423T190431Z
+DTSTART:20140907T050000Z
+DTEND:20140907T080000Z
+LOCATION:The Invaders Youth Club\, New Grove\, Mauritius
+SUMMARY:Introduction to Mozilla and Webmaker party for youth
+DESCRIPTION:This is a new Mozilla Webmaker Party that Mozilla Mauritius wi
+ ll organise for youth club - &#39;The Invaders&#39; at New Grove in the southern r
+ egion of the country. \n\nPresentations &amp; Talks on Mozilla mission and pro
+ ducts\, an introduction to Webmaker tools A maker party will be organised 
+ \n\nMozilla Mauritius is the organise of this event Conducted by Mozillian
+  Sandraghassen\, Webmaker Super Mentor Supported by Mozillian Pamela\, Web
+ maker Mentor
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-and-webmaker-party-
+ for-youth/
+SEQUENCE:4
+X-COORDINATES-LAT:-20.4296402811
+X-COORDINATES-LON:57.7028274396
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

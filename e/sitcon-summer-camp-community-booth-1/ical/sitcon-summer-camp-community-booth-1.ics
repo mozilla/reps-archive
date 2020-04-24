@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5889
+CLASS:PUBLIC
+DTSTAMP:20200423T150631Z
+DTSTART:20160803T063000Z
+DTEND:20160803T133000Z
+LOCATION:國立中央大學\, Taoyuan City\, Taiwan
+SUMMARY:SITCON Summer Camp Community Booth
+DESCRIPTION:Irvin will give a talk at &#34;open source spirit&#34; event\, the sub
+ ject is &#34;My Mozilla Contributing Journey&#34;. And we will host a community bo
+ oth in SITCON Summer Camp to greeting students from high school and univer
+ sities around Taiwan.
+URL:https://reps.mozilla.org/e/sitcon-summer-camp-community-booth-1/
+SEQUENCE:7
+X-COORDINATES-LAT:24.9684477043
+X-COORDINATES-LON:121.191817671
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

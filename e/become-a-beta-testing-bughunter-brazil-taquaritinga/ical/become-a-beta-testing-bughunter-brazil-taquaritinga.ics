@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8601
+CLASS:PUBLIC
+DTSTAMP:20200423T082457Z
+DTSTART:20190613T130000Z
+DTEND:20190613T170000Z
+LOCATION:Fatec Taquaritinga\, Taquaritinga\, Brazil
+SUMMARY:Become a Beta Testing BugHunter - Brazil/Taquaritinga
+DESCRIPTION:Become a Beta Testing BugHunter\n\nMozilla is launching a NEW 
+ Android web browser and we need your help to get it ready for the free and
+  open web. We’re asking YOU to become a fearless beta tester and BUG HUN
+ TER to gather with friends and family\, install this brand new browser and
+  test it until you can test no more!
+URL:https://reps.mozilla.org/e/become-a-beta-testing-bughunter-brazil-taqu
+ aritinga/
+SEQUENCE:1
+X-COORDINATES-LAT:-21.4295025781
+X-COORDINATES-LON:-48.5146737103
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

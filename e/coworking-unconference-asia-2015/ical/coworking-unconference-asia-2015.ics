@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3312
+CLASS:PUBLIC
+DTSTAMP:20200423T180325Z
+DTSTART:20150130T020000Z
+DTEND:20150131T140000Z
+LOCATION:Hubud: Ubud coworking community space\, Petulu\, Indonesia
+SUMMARY:COWORKING UNCONFERENCE ASIA 2015
+DESCRIPTION:Between 100 - 200 key players from the coworking spaces\, loca
+ l incubators and accelerators\, startup organisations and Asia-based digit
+ al professionals are expected to attend the unconference.
+URL:https://reps.mozilla.org/e/coworking-unconference-asia-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:-8.5091795
+X-COORDINATES-LON:115.2614955
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

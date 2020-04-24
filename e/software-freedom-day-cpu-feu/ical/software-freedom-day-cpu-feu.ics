@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1177
+CLASS:PUBLIC
+DTSTAMP:20200423T210908Z
+DTSTART:20130921T000000Z
+DTEND:20130921T090000Z
+LOCATION:Far Eastern University Manila\, Manila\, Philippines
+SUMMARY:Software Freedom Day (CPU-FEU)
+DESCRIPTION:The Mozilla Philippines Community is invited to present a plen
+ ary talk on Mozilla and the Open Web in this year&#39;s celebration of Softwar
+ e Freedom Day Philippines\, on September 21\, 2013\, 8:00 am – 5:00 pm a
+ t the Far Eastern University\, Manila City.
+URL:https://reps.mozilla.org/e/software-freedom-day-cpu-feu/
+SEQUENCE:2
+X-COORDINATES-LAT:14.572950835
+X-COORDINATES-LON:121.022644043
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

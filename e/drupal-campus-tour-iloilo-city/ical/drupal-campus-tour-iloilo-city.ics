@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@668
+CLASS:PUBLIC
+DTSTAMP:20200423T215348Z
+DTSTART:20130413T000000Z
+DTEND:20130414T090000Z
+LOCATION:John B. Lacson Foundation\, Molo\, Iloilo City\, Philippines
+SUMMARY:Drupal Campus Tour Iloilo City
+DESCRIPTION:The Philippine Drupal Users Group invited Team Mozilla PHL to 
+ Drupal Campus Tour this coming April 13-14\, 2013 at John B Lacson Molo \,
+ Iloilo City. The 2-day event will include lectures and hands-on sessions i
+ n Drupal and HTML5. 
+URL:https://reps.mozilla.org/e/drupal-campus-tour-iloilo-city/
+SEQUENCE:1
+X-COORDINATES-LAT:10.6960325828
+X-COORDINATES-LON:122.543649673
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4009
+CLASS:PUBLIC
+DTSTAMP:20200423T171407Z
+DTSTART:20150614T053000Z
+DTEND:20150614T073000Z
+LOCATION:CCD Lucknow\, Lucknow\, India
+SUMMARY:MozCoffee@MLS
+DESCRIPTION:In this meetup we will talk about Mozilla Stumbler(Android App
+ ). How it works and how it is beneficial to our society if we upload the c
+ ollecting data with the help of Mozilla Stumbler. This meetup is arranged 
+ by Priyam Shrivastava(Firefox Club\, JUET)
+URL:https://reps.mozilla.org/e/mozcoffee-mls/
+SEQUENCE:2
+X-COORDINATES-LAT:26.8441305092
+X-COORDINATES-LON:80.9456205351
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

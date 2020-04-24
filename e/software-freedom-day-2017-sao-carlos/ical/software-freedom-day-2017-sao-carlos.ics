@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6900
+CLASS:PUBLIC
+DTSTAMP:20200423T103841Z
+DTSTART:20170916T110000Z
+DTEND:20170916T210000Z
+LOCATION:Instituto de Física de São Carlos · USP\, São Carlos\, Brazil
+SUMMARY:Software Freedom Day 2017 São Carlos
+DESCRIPTION:Software Freedom Day (SFD) is a celebration that takes place s
+ imultaneously around the world and brings together the community to educat
+ e the public about free software\, with the aim of publicizing it and enco
+ uraging its use.
+URL:https://reps.mozilla.org/e/software-freedom-day-2017-sao-carlos/
+SEQUENCE:7
+X-COORDINATES-LAT:-22.9003187562
+X-COORDINATES-LON:-47.0657958928
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

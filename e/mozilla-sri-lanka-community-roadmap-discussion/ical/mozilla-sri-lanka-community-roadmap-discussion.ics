@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7557
+CLASS:PUBLIC
+DTSTAMP:20200423T095313Z
+DTSTART:20180316T155000Z
+DTEND:20180316T162000Z
+LOCATION:TBD\, Colombo\, Sri Lanka
+SUMMARY:Mozilla Sri Lanka community roadmap discussion
+DESCRIPTION:Mozilla Sri Lanka community members will be discussing the 201
+ 8 roadmap and community-related events.\n\nWe are planning on creating a g
+ uideline for all the activities Mozilla Sri Lanka is going to achieve in 2
+ 018 and a detailed plan for each activity.\n\nThis event will take place a
+ s an online call.
+URL:https://reps.mozilla.org/e/mozilla-sri-lanka-community-roadmap-discuss
+ ion/
+SEQUENCE:2
+X-COORDINATES-LAT:6.94005933488
+X-COORDINATES-LON:80.0257873535
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2249
+CLASS:PUBLIC
+DTSTAMP:20200423T194127Z
+DTSTART:20140605T100000Z
+DTEND:20140605T123000Z
+LOCATION:East West University\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Contributor Mentoring Day at EWU\, June 2014
+DESCRIPTION:There are many new Student Ambassadors at EWU\, thanks to Fire
+ fox@EWU&#39;s Mozilla Awareness Booth. But they need proper guidance to hook i
+ n to the community and start conribute fuitfully. The experienced Mozillia
+ ns of Firefox@EWU are arranging this Contributor Mentoring day just to gui
+ de those new Student Ambassadors.
+URL:https://reps.mozilla.org/e/mozilla-contributor-mentoring-day-at-ewu/
+SEQUENCE:5
+X-COORDINATES-LAT:23.7686522474
+X-COORDINATES-LON:90.4256801605
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

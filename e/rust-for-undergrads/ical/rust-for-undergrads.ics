@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7302
+CLASS:PUBLIC
+DTSTAMP:20200423T100950Z
+DTSTART:20171223T083000Z
+DTEND:20171223T113000Z
+LOCATION:ThoughtWorks Hyderabad\, Gachibowli\, Hyderabd 500032\, Hyderabad
+ \, India
+SUMMARY:Rust for undergrads
+DESCRIPTION:Prerequisite:\n1. Bring Your Laptops(Or join your friends)\n2.
+  Install Rust (Instructions Will be given at event also)\n3. Willingness t
+ o learn\n\nAgenda of the meet:\n0. Awareness of Mozilla and its Mission\n1
+ . Introduction to basics of Rust\n2. Writing JNTUH/other Univ lab programs
+  in Rust language
+URL:https://reps.mozilla.org/e/rust-for-undergrads/
+SEQUENCE:4
+X-COORDINATES-LAT:17.4356347971
+X-COORDINATES-LON:78.3592114452
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

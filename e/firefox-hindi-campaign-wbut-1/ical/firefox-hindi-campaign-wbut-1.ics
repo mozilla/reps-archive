@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4624
+CLASS:PUBLIC
+DTSTAMP:20200423T163045Z
+DTSTART:20151008T053000Z
+DTEND:20151008T073000Z
+LOCATION:West Bengal University of Technology\, Kolkata\, India
+SUMMARY:Firefox Hindi Campaign@WBUT
+DESCRIPTION:This is a small event which will target people from WBUT and w
+ ill encourage to use Firefox in Hindi.We will talk about how to use Firefo
+ x in the best possible way.Give the users a clear idea about the privacy\,
+ security and enriched features of Fx40
+URL:https://reps.mozilla.org/e/firefox-hindi-campaign-wbut-1/
+SEQUENCE:0
+X-COORDINATES-LAT:22.5813886377
+X-COORDINATES-LON:88.4203491214
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

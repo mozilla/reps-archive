@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1244
+CLASS:PUBLIC
+DTSTAMP:20200423T211418Z
+DTSTART:20130902T030000Z
+DTEND:20130902T133000Z
+LOCATION:Vaageswari College of Engineering\, Karimnagar\, India
+SUMMARY:MozKarimnagar - version 2.0
+DESCRIPTION:We&#39;re gearing up with another big event at Hub of Mozilla at K
+ arimnagar after Forza (http://mozillaknr.eventbrite.com/) with 300 student
+ s organizing 1 day event with Agenda of Introducing them\n1. New Technolog
+ ies\n\n2.Platforms\n\n3.Opportunities
+URL:https://reps.mozilla.org/e/mozkarimnagar-version-2-0/
+SEQUENCE:6
+X-COORDINATES-LAT:18.2919497336
+X-COORDINATES-LON:79.146194458
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

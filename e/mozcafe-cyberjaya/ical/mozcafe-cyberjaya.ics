@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@140
+CLASS:PUBLIC
+DTSTAMP:20200423T230418Z
+DTSTART:20120909T070000Z
+DTEND:20120909T100000Z
+LOCATION:  McDonalds Kota Warisan\, Cyberjaya\, Malaysia
+SUMMARY:MozCafe Cyberjaya
+DESCRIPTION:Mozilla MY hosting small meetup and casual like for all contri
+ butors and members. This meetup is focusing upcoming planning activities &amp;
+  events. 
+URL:https://reps.mozilla.org/e/mozcafe-cyberjaya/
+SEQUENCE:0
+X-COORDINATES-LAT:2.85252
+X-COORDINATES-LON:101.694717
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2802
+CLASS:PUBLIC
+DTSTAMP:20200423T190212Z
+DTSTART:20140912T170000Z
+DTEND:20140912T220000Z
+LOCATION:Telmex Hub.\, Lindavista\, Mexico
+SUMMARY:Maker Party Apps Ciudad de México
+DESCRIPTION:In the event of the event Start Tools (http://www.telmexhub.co
+ m.mx/start-tools)\, the draft Webmaker and tools for web development\, lik
+ ewise be presented apps were created for Firefox OS.\n\nhttps://events.web
+ maker.org/events/4548
+URL:https://reps.mozilla.org/e/maker-party-apps-ciudad-de-mexico/
+SEQUENCE:5
+X-COORDINATES-LAT:19.431122876
+X-COORDINATES-LON:-99.1367940904
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

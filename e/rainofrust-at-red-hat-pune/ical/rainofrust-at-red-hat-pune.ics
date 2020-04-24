@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6552
+CLASS:PUBLIC
+DTSTAMP:20200423T111149Z
+DTSTART:20170505T063000Z
+DTEND:20170505T073000Z
+LOCATION:Red Hat\, Pune\, Pune\, India
+SUMMARY:#RainOfRust at Red Hat Pune
+DESCRIPTION:This is an introduction event organized under Red Hat&#39;s &#39;Sumit
+  @ Site&#39;.
+URL:https://reps.mozilla.org/e/rainofrust-at-red-hat-pune/
+SEQUENCE:2
+X-COORDINATES-LAT:18.5162305899
+X-COORDINATES-LON:73.927554132
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

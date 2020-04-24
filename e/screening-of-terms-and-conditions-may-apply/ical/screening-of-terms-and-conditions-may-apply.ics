@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1338
+CLASS:PUBLIC
+DTSTAMP:20200423T205454Z
+DTSTART:20131106T010000Z
+DTEND:20131106T040000Z
+LOCATION:Carmike Wynnsong\, Provo\, United States
+SUMMARY:Screening of &#34;Terms and Conditions May Apply&#34;
+DESCRIPTION:Ever wondered what you agree to when you check the box next to
+  a website&#39;s terms and conditions? The farming\, analysis\, and sale of yo
+ ur user data on the internet are booming! Many users are nervous about all
+ owing companies to make a profit off of their intimate online lives. Learn
+  what user privacy advocates\, like Mozilla\, are doing to stand up for yo
+ u and your data.\n\nIn addition to the movie\, all who attend the screenin
+ g will have a chance to participate in a Q&amp;A.
+URL:https://reps.mozilla.org/e/screening-of-terms-and-conditions-may-apply
+ /
+SEQUENCE:3
+X-COORDINATES-LAT:40.2991014081
+X-COORDINATES-LON:-111.660318375
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

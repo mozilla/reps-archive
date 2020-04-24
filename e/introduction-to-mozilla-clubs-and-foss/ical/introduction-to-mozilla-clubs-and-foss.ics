@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6972
+CLASS:PUBLIC
+DTSTAMP:20200423T104313Z
+DTSTART:20170904T070000Z
+DTEND:20170904T093000Z
+LOCATION:Matoshri Education Soceity\, Gut No.39/1 Eklahare\, Nashik 422105
+ \, Eklahare\, Maharashtra 422105\, India\, Nashik\, India
+SUMMARY:Introduction to Mozilla Clubs and FOSS
+DESCRIPTION:This will the first time this college will be hosting a sessio
+ n related to Mozilla Clubs. The main focus will be to introduce the Mozill
+ a Community to this college students and let them know basics about the We
+ b such as FOSS and Privacy and Security. Agenda for the session will be -\
+ n\n• What is Mozilla Community?\n• FOSS\n• Contribution Areas\n• M
+ ozilla Clubs\n• Privacy &amp; Security - An introduction
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-clubs-and-foss/
+SEQUENCE:3
+X-COORDINATES-LAT:19.9924592477
+X-COORDINATES-LON:73.9038133604
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

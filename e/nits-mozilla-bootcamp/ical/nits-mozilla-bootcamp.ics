@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8039
+CLASS:PUBLIC
+DTSTAMP:20200423T085904Z
+DTSTART:20181006T043000Z
+DTEND:20181007T123000Z
+LOCATION:NIT Silchar\, Silchar\, India
+SUMMARY:NITS MOZILLA BOOTCAMP
+DESCRIPTION:This will be a 2-day event involving hands-on sessions\, a ser
+ ies of talks on the open-source development and also would feature the ope
+ ning of a new Mozilla Firefox Club in National Institute of Technology\, S
+ ilchar.
+URL:https://reps.mozilla.org/e/nits-mozilla-bootcamp/
+SEQUENCE:1
+X-COORDINATES-LAT:24.8212239065
+X-COORDINATES-LON:92.8082885966
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

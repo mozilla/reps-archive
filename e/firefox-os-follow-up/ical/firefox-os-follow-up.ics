@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@506
+CLASS:PUBLIC
+DTSTAMP:20200423T220840Z
+DTSTART:20130216T110000Z
+DTEND:20130216T130000Z
+LOCATION:Outbox\, Kampala\, Uganda
+SUMMARY:Firefox OS Follow-up
+DESCRIPTION:We are meeting the rest of the Mozilla-Uganda community so tha
+ t we can pass on what we learned and share our experience in FirefoxOSAppD
+ ays in Nairobi on 26th/01/2013 and discuss other other upcoming events in 
+ the community. Also we are welcoming the several new recruits.
+URL:https://reps.mozilla.org/e/firefox-os-follow-up/
+SEQUENCE:0
+X-COORDINATES-LAT:0.322464194246
+X-COORDINATES-LON:32.5763082504
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

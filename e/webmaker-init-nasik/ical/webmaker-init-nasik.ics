@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@666
+CLASS:PUBLIC
+DTSTAMP:20200423T215602Z
+DTSTART:20130406T043000Z
+DTEND:20130406T103000Z
+LOCATION:NDMVP-KBT College of Engineering\, Nashik\, India
+SUMMARY:Webmaker init() Nasik
+DESCRIPTION:Webmaker init() Nashik is an effort to build a Mozilla and FOS
+ S community in and around Nashik. It is one of the series of event planned
+  at the city of Nashik to spread Open Web ideologies and create Mozilla pr
+ esence.\n\n\n\nThe event would include a sessions on Mozilla Webmaker\, ha
+ nds-on with awesome webmaker tools like Thimble\, Popcorn and X-Ray Goggle
+ s.. FOSS \, Mozilla Initiatives and Contributions and a FOSS quiz.
+URL:https://reps.mozilla.org/e/webmaker-init-nasik/
+SEQUENCE:8
+X-COORDINATES-LAT:20.0075080276
+X-COORDINATES-LON:73.7846088409
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

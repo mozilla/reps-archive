@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3293
+CLASS:PUBLIC
+DTSTAMP:20200423T180551Z
+DTSTART:20150124T033000Z
+DTEND:20150124T120000Z
+LOCATION:LBS Institute of Technology for Women\, Thiruvananthapuram\, Indi
+ a
+SUMMARY:Empower Womoz V2
+DESCRIPTION:The aim of this project is to promote and involve more women i
+ n the FLOSS world in general - and in Mozilla&#39;s teams more particularly - 
+ as well as increase awareness around this issue. Anyone can participate : 
+ women\, men\, united in this common goal.
+URL:https://reps.mozilla.org/e/empower-womoz-v2/
+SEQUENCE:7
+X-COORDINATES-LAT:8.49186517718
+X-COORDINATES-LON:76.9253045
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

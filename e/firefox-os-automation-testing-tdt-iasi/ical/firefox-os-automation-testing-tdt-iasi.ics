@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1928
+CLASS:PUBLIC
+DTSTAMP:20200423T201600Z
+DTSTART:20140315T084500Z
+DTEND:20140315T140000Z
+LOCATION:TBD\, Ilasi\, Romania
+SUMMARY:Firefox OS Automation Testing  @ TDT Iași
+DESCRIPTION:Tabara de Testare is a community group for QA that organizes w
+ eekly meetings to share knowledge in quality field. Tabara de testare Iaș
+ i is the local team from Iași City which invited us to hold an event duri
+ ng a weekend to have a workshop about Firefox OS automation Testing.\n\nTh
+ is will reproduce in Iași the [workshop from Cluj](https://reps.mozilla.o
+ rg/e/tdt-autumn-camp)
+URL:https://reps.mozilla.org/e/firefox-os-automation-testing-tdt-iasi/
+SEQUENCE:10
+X-COORDINATES-LAT:47.1749813297
+X-COORDINATES-LON:27.5737187866
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

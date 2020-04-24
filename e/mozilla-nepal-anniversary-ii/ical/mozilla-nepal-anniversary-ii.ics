@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2581
+CLASS:PUBLIC
+DTSTAMP:20200423T191010Z
+DTSTART:20140826T041500Z
+DTEND:20140826T151500Z
+LOCATION:SAP Falcha\, Kathmandu\, Nepal
+SUMMARY:Mozilla Nepal Anniversary - II
+DESCRIPTION:Mozilla Nepal will be celebrating it’s 2nd anniversary on 26
+ th August\, 2014. So to mark the day with some outcome and a celebration\,
+  an event has been planned. The planned outcome of events are as follows:\
+ n1. Around least 3 Firefox OS Apps.\n2. Around 25-30 Makes (5 popcorn\, 15
+ + thimble\, ~5 appmaker) \n3. Around 1000 strings localized.\n4. Artwork\n
+ And at the end of the day\, there will be demo session of what was achieve
+ d after which a small celebration dinner to mark the day will be followed.
+URL:https://reps.mozilla.org/e/mozilla-nepal-anniversary-ii/
+SEQUENCE:7
+X-COORDINATES-LAT:27.6413624793
+X-COORDINATES-LON:85.360840559
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

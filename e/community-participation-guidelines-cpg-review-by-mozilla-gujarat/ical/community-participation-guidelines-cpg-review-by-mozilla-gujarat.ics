@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6385
+CLASS:PUBLIC
+DTSTAMP:20200423T112412Z
+DTSTART:20170311T123000Z
+DTEND:20170311T150000Z
+LOCATION:2nd Floor\, Kumudini Complex\, Opp. Vastrapur Lake\, Vastrapur\, 
+ Ahmedabad.\, Ahmedabad\, India
+SUMMARY:Community Participation Guidelines (CPG) Review by Mozilla Gujarat
+DESCRIPTION:To read\, review and understand the draft of Mozilla India Com
+ munity Participation Guidelines (CPG)\n\nhttps://activate.mozilla.communit
+ y/community-participation-guideline/
+URL:https://reps.mozilla.org/e/community-participation-guidelines-cpg-revi
+ ew-by-mozilla-gujarat/
+SEQUENCE:1
+X-COORDINATES-LAT:22.9145500643
+X-COORDINATES-LON:71.0786139965
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

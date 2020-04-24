@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@188
+CLASS:PUBLIC
+DTSTAMP:20200423T230411Z
+DTSTART:20120911T150000Z
+DTEND:20120912T230000Z
+LOCATION:INC Ayacucho\, Ayacucho\, Peru
+SUMMARY:II Jornada de Conferencias Empresariales
+DESCRIPTION:ENGLISH: This event gathers students from different specialiti
+ es: Management\, Accountability\, Secretary\, Marketing and Computing. In 
+ two days professionals from Ayacucho and Lima give talks about general top
+ ics. \nESPAÑOL: Este evento reune estudianes de diferentes especialidades
+ : administración\, contabilidad\, secretariado\, publicidad y computació
+ n. En dos días\, profesionales de Ayacucho y Lima dan charlas acerca de t
+ emas generales.
+URL:https://reps.mozilla.org/e/ii-jornada-de-conferencias-empresariales/
+SEQUENCE:0
+X-COORDINATES-LAT:-13.147397149
+X-COORDINATES-LON:-74.2227315903
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

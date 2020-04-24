@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8411
+CLASS:PUBLIC
+DTSTAMP:20200423T084846Z
+DTSTART:20181215T043000Z
+DTEND:20181215T073000Z
+LOCATION:Future Bhubaneswar School\, Bhubaneswar\, India
+SUMMARY:Hour of Code @ Mozilla Bhubaneswar
+DESCRIPTION:The Hour of Code is a one-hour introduction to computer scienc
+ e\, designed to demystify code and show that anybody can learn the basics.
+ Hour of Code 2017\, a movement to recruit millions to try one hour of comp
+ uter science\, will take place during the second week of December every st
+ udent should have the opportunity to learn computer science. It helps nurt
+ ure problem-solving skills and creativity.
+URL:https://reps.mozilla.org/e/hour-of-code-mozilla-bhubaneswar/
+SEQUENCE:2
+X-COORDINATES-LAT:19.9404327628
+X-COORDINATES-LON:85.8396148682
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

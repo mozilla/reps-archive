@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8805
+CLASS:PUBLIC
+DTSTAMP:20200423T081201Z
+DTSTART:20190914T040000Z
+DTEND:20190914T063000Z
+LOCATION:Sir M. Visvesvaraya Institute of Technology\, Bengaluru\, Karnata
+ ka\, India\, Bangalore\, India
+SUMMARY:Build-a-Thon
+DESCRIPTION:The goal of this Build-a-thon is to prototype ideas\, products
+  and services that are able to create social and economic value for the co
+ mmunity by hacking everyday objects and using open data\, open-source libr
+ aries\, public APIs\, frameworks for fast prototyping and software develop
+ ment\, microcontrollers\, sensors\, and other hardware (e.g. 3D printers\,
+  beacons\, wearables\, etc.).
+URL:https://reps.mozilla.org/e/build-a-thon/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9667320359
+X-COORDINATES-LON:77.5968016684
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

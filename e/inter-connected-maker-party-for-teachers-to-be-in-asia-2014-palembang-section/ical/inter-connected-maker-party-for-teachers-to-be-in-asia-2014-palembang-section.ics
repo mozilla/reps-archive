@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2865
+CLASS:PUBLIC
+DTSTAMP:20200423T184724Z
+DTSTART:20141011T020000Z
+DTEND:20141011T060000Z
+LOCATION:Universitas Sriwijaya\, Palembang\, Indonesia
+SUMMARY:“Inter-Connected” Maker Party for &#34;Teachers-To-Be &#34; In Asia 20
+ 14 – Palembang Section
+DESCRIPTION:This event is as an extension of the Maker party held by KMD i
+ n collaboration with ITB. The targets for this workshop are university stu
+ dents in Asia. The main purpose of MPTTB is to make and share a “Class-R
+ ecipe” between participants. Class-Recipe is a type of lesson plan\, whi
+ ch focuses on creating a wonderful ICT encounter for children through “W
+ eb-Making” activities. We expect that &#34;Teachers-to-be&#34; will have the opp
+ ortunity to cooperate with each other for the future of ICT education.
+URL:https://reps.mozilla.org/e/inter-connected-maker-party-for-teachers-to
+ -be-in-asia-2014-palembang-section/
+SEQUENCE:4
+X-COORDINATES-LAT:-2.98475775346
+X-COORDINATES-LON:104.733226597
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

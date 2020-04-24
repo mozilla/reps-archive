@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@429
+CLASS:PUBLIC
+DTSTAMP:20200423T224211Z
+DTSTART:20121201T150000Z
+DTEND:20121201T210000Z
+LOCATION:Instituto San Pedro del Valle de Mala\, Mala\, Peru
+SUMMARY:Seminario Mala
+DESCRIPTION:ENGLISH: A set of conferences of information technologies at a
+ n institute in Mala\, a district two hours of Lima\, Perú.\n\nESPAÑOL: U
+ na serie de conferencias de actualización tecnológica en un instituto en
+  Mala\, a dos horas de la ciudad de Lima\, Perú.
+URL:https://reps.mozilla.org/e/seminario-mala/
+SEQUENCE:0
+X-COORDINATES-LAT:-12.6532355435
+X-COORDINATES-LON:-76.6253471375
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

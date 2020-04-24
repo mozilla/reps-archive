@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@553
+CLASS:PUBLIC
+DTSTAMP:20200423T215330Z
+DTSTART:20130413T073000Z
+DTEND:20130413T103000Z
+LOCATION:Evelyn\, Bidhan Nagar\, Durgapur\, Durgapur\, India
+SUMMARY:MozConnect-Durgapur
+DESCRIPTION:The objective of this event is to review of previous MozCafe h
+ eld in Durgapur on 13th February 2013. We need to connect potential contri
+ butors identified in this MozCafe. Connecting reps\, volunteers\, and iden
+ tified contributors.
+URL:https://reps.mozilla.org/e/mozconnect-durgapur/
+SEQUENCE:9
+X-COORDINATES-LAT:21.2893743559
+X-COORDINATES-LON:87.1875
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

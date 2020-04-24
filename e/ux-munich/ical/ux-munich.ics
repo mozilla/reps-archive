@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@465
+CLASS:PUBLIC
+DTSTAMP:20200423T220220Z
+DTSTART:20130314T080000Z
+DTEND:20130315T110000Z
+LOCATION:Künstlerhaus Munich\, Munich\, Germany
+SUMMARY:UX Munich
+DESCRIPTION:UX Munich is a two day conference about designing and implemen
+ ting great user experiences - together.\n\nMain topic is UX in Web und Mob
+ ile Web.\nIt will host speakers from the Open Source domain (HTML5 Boilerp
+ late\, Sinatra).\nIt is purely focused on web technologies and the Open We
+ b. No plugins\, no native apps.
+URL:https://reps.mozilla.org/e/ux-munich/
+SEQUENCE:0
+X-COORDINATES-LAT:48.1399742327
+X-COORDINATES-LON:11.5673589706
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

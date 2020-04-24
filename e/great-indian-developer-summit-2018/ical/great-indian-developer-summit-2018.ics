@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7558
+CLASS:PUBLIC
+DTSTAMP:20200423T094252Z
+DTSTART:20180424T043000Z
+DTEND:20180424T113000Z
+LOCATION:IISc\, Bangalore\, India\, Bangalore\, India
+SUMMARY:Great Indian Developer Summit 2018
+DESCRIPTION:GIDS has established itself as the gold standard conference an
+ d expo for the software practitioner ecosystem. Over 45\,000 attendees hav
+ e benefited from the platform since its founding in 2008.\n\nI&#39;ll be speak
+ ing on Creating AR&amp;VR scenes using JS\, 24th April 2018.
+URL:https://reps.mozilla.org/e/great-indian-developer-summit-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:13.0169513
+X-COORDINATES-LON:77.5670914
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

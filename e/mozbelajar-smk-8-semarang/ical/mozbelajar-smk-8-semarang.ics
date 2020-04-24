@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4244
+CLASS:PUBLIC
+DTSTAMP:20200423T165418Z
+DTSTART:20150810T070000Z
+DTEND:20150810T100000Z
+LOCATION:SMK 8 Semarang\, Semarang\, Indonesia
+SUMMARY:#MozBelajar SMK 8 Semarang
+DESCRIPTION:An event to introduce the newly launched Webmaker App to stude
+ nts in SMK 8 Semarang. There will be Webmaker App downloading session and 
+ hands on workshop in making projects using the app. This event is organize
+ d as part of Webmaker App Launch initiatives in Indonesia.
+URL:https://reps.mozilla.org/e/mozbelajar-smk-8-semarang/
+SEQUENCE:2
+X-COORDINATES-LAT:-7.00105987057
+X-COORDINATES-LON:110.422639847
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

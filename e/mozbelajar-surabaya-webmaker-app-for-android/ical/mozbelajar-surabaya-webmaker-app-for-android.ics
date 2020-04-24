@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4293
+CLASS:PUBLIC
+DTSTAMP:20200423T164748Z
+DTSTART:20150830T020000Z
+DTEND:20150830T080000Z
+LOCATION:Museum Nahdatul Ulama\, Surabaya\, Indonesia
+SUMMARY:#MozBelajar Surabaya : Webmaker App for Android
+DESCRIPTION:The Webmaker team and the Participation team will be organizin
+ g a series of interactive events to celebrate the official launch of the W
+ ebmaker app\, across 5 major cities in Indonesia: Jakarta\, Bandung\, Sura
+ baya\, Semarang\, Makassar. There will be Webmaker App downloading session
+  and hands on workshop in making projects using the app. This event is org
+ anized by Mozilla Indonesia
+URL:https://reps.mozilla.org/e/mozbelajar-surabaya-webmaker-app-for-androi
+ d/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.27302637354
+X-COORDINATES-LON:112.742865801
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

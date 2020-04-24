@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7296
+CLASS:PUBLIC
+DTSTAMP:20200423T100747Z
+DTSTART:20180107T093000Z
+DTEND:20180107T123000Z
+LOCATION:Silver Bird Cafe Agra\, Agra\, India
+SUMMARY:Lets Work With Addons @MozMPCG
+DESCRIPTION:This event aims to teach students about adding extra features 
+ to the browser by building Add-ons and web Extensions for Firefox Browser.
+URL:https://reps.mozilla.org/e/lets-work-with-addons-mozmpcg/
+SEQUENCE:7
+X-COORDINATES-LAT:27.1689351646
+X-COORDINATES-LON:78.0211486761
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

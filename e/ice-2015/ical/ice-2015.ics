@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4282
+CLASS:PUBLIC
+DTSTAMP:20200423T165515Z
+DTSTART:20150807T080000Z
+DTEND:20150807T100000Z
+LOCATION:ICE BSD\, Tangerang\, Indonesia
+SUMMARY:Indonesia Convention Exhibition (ICE) 2015
+DESCRIPTION:Mozilla Indonesia Community will be joining the Indonesia Conv
+ ention Exhibition (ICE) 2015 at BSD. We have an opportunity to share about
+  Mozilla. And this special moment\, we want to share about Mozilla Develop
+ er Network which now celebrating it&#39;s 10th Anniversary. We will share abou
+ t MDN history\, and some interesting facts.
+URL:https://reps.mozilla.org/e/ice-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.30784808899
+X-COORDINATES-LON:106.646713251
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

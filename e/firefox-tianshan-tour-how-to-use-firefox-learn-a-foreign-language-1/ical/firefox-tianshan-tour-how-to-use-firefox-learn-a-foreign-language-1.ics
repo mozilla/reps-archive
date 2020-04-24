@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5493
+CLASS:PUBLIC
+DTSTAMP:20200423T150658Z
+DTSTART:20160802T070000Z
+DTEND:20160802T090000Z
+LOCATION:Urumqi gaoxin community\, Urumqi\, China
+SUMMARY:Firefox Tianshan Tour--Lesson 2   What is a computer?
+DESCRIPTION:Description\nThe objective of this section is to enable studen
+ ts to understand and appreciate\nWhat is a computer\nConstitute computer\n
+ The main significance of the software\nSoftware Categories
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-how-to-use-firefox-le
+ arn-a-foreign-language-1/
+SEQUENCE:4
+X-COORDINATES-LAT:43.8803469967
+X-COORDINATES-LON:2607.55236518
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

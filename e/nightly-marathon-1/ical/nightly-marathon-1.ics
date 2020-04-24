@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6584
+CLASS:PUBLIC
+DTSTAMP:20200423T110759Z
+DTSTART:20170520T110000Z
+DTEND:20170520T150000Z
+LOCATION:Bits college\, Warangal\, India
+SUMMARY:Nightly Marathon -1
+DESCRIPTION:As we all know we have a great Mozilla community around India.
+  We have a large number of dedicated students\, developers and evangelists
+  who are really passionate about Mozilla. We have seen that very few peopl
+ e in India actually know about Firefox Nightly Desktop.Its a glimpse of wh
+ at the future of Firefox will be for hundreds of millions of people.
+URL:https://reps.mozilla.org/e/nightly-marathon-1/
+SEQUENCE:3
+X-COORDINATES-LAT:18.0023245451
+X-COORDINATES-LON:79.5599405
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2759
+CLASS:PUBLIC
+DTSTAMP:20200423T185132Z
+DTSTART:20140930T043000Z
+DTEND:20140930T123000Z
+LOCATION:KIT COE Kolhapur\, Kolhapur\, India
+SUMMARY:Appmaker Hackathon
+DESCRIPTION:Introduce Firefox OS and its app development to the audience. 
+ Also do some hacking for Firefox Apps where the participants will develop 
+ apps for Firefox OS and get them Published into the Marketplace. This even
+ t is scheduled keeping in view the launch of Firefox OS in India.
+URL:https://reps.mozilla.org/e/appmaker-hackathon/
+SEQUENCE:3
+X-COORDINATES-LAT:16.695722923
+X-COORDINATES-LON:74.1512775421
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

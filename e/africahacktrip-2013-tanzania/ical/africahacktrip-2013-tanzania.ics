@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1213
+CLASS:PUBLIC
+DTSTAMP:20200423T210109Z
+DTSTART:20131016T060000Z
+DTEND:20131023T160000Z
+LOCATION:TBD\, Dar es Salaam\, Tanzania
+SUMMARY:AfricaHackTrip 2013 - Tanzania
+DESCRIPTION:Since submarine fibre-optic cables connect East Africa to fast
+ \, reliable and affordable Internet\, the region&#39;s tech scene has been lea
+ pfrogging: from no net to mobile net in 4 years. We have been working with
+  people from all over the world\, but not yet with hackers from Africa. We
+  want to change that. We believe that it takes personal contacts to establ
+ ish lasting networks. So we decided to just go there.
+URL:https://reps.mozilla.org/e/africahacktrip-2013-tanzania/
+SEQUENCE:5
+X-COORDINATES-LAT:-2.02106511877
+X-COORDINATES-LON:30.234375
+X-COUNTRY-CODE:tz
+END:VEVENT
+
+END:VCALENDAR

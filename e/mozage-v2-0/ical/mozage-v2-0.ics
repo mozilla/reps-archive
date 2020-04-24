@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5868
+CLASS:PUBLIC
+DTSTAMP:20200423T114447Z
+DTSTART:20161120T023000Z
+DTEND:20161120T103000Z
+LOCATION:NIIT University\, Neemrana        NH-8\, Delhi-Jaipur Highway\,  
+       Dist Alwar\, Rajasthan-301705\, Alwar\, India
+SUMMARY:MozAge v2.0
+DESCRIPTION:One day event totally focused on Community Building &amp; Celebrat
+ ing second anniversary of the club &amp; Engaging new contributors into Mozill
+ a\n    To Empower the Contributors from the NIIT University and guiding th
+ em in a proper direction where they can? And how they can contribute to Mo
+ zilla and open source Projects in different fields??
+URL:https://reps.mozilla.org/e/mozage-v2-0/
+SEQUENCE:3
+X-COORDINATES-LAT:27.56625857
+X-COORDINATES-LON:76.6068277363
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

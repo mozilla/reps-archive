@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2145
+CLASS:PUBLIC
+DTSTAMP:20200423T194928Z
+DTSTART:20140516T110000Z
+DTEND:20140517T150000Z
+LOCATION:Guinness Enterprise Centre\, Guinness Enterprise Centre\, Ireland
+SUMMARY:Drupal Open Days 2014
+DESCRIPTION:The Drupal Ireland Association are pleased to invite everyone 
+ to Drupal Open Days 2014. Meet and learn from the best Drupal minds in Ire
+ land bringing together developers\, themers\, end users and those interest
+ ed in learning more about the platform. DrupalCamp Dublin takes place on t
+ he 16th and 17th May at the Guinness Enterprise Centre\, right next to the
+  Guinness Storehouse.
+URL:https://reps.mozilla.org/e/drupal-open-days-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:53.3407378411
+X-COORDINATES-LON:-6.28491926211
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

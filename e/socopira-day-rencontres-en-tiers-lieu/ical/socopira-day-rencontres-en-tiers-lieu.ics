@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4039
+CLASS:PUBLIC
+DTSTAMP:20200423T170858Z
+DTSTART:20150627T090000Z
+DTEND:20150627T180000Z
+LOCATION:59 avenue Jules Brame à Roubaix\, Roubaix\, France
+SUMMARY:Socopira day - rencontres en Tiers-lieu
+DESCRIPTION:Socopira is a &#34;Third Place&#34; is a place to share and work ... t
+ hat is neither home nor office ... It is a place where a collaborative dem
+ ocracy awakens and contributes to the development of techniques and practi
+ ces. This new site dedicated to social innovation \, entrepreneurship and 
+ associations.\n\nMozilla is invited to have a booth to promote Firefox and
+  Firefox OS.
+URL:https://reps.mozilla.org/e/socopira-day-rencontres-en-tiers-lieu/
+SEQUENCE:2
+X-COORDINATES-LAT:50.6866409862
+X-COORDINATES-LON:3.20371770824
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

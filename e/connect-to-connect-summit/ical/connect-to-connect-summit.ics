@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2547
+CLASS:PUBLIC
+DTSTAMP:20200423T185142Z
+DTSTART:20140930T040000Z
+DTEND:20141001T150000Z
+LOCATION:Bahari Beach Hotel\, Dar-Es-Salaam\, Tanzania\, Tanzania
+SUMMARY:Connect-to-Connect Summit
+DESCRIPTION:Extensia Ltd is bringing together communities from East\, Cent
+ ral and Southern Africa who are currently striving to put in place ICT inf
+ rastructures to develop ICT in different countries within their regions.  
+ \n\nWhen infrastructures are available and countries connected\, then oper
+ ators will open windows for connecting and creating these options will sig
+ nificantly resolve the current problem on resilience for international con
+ nectivity where operators are completely out of service.
+URL:https://reps.mozilla.org/e/connect-to-connect-summit/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.84280544159
+X-COORDINATES-LON:39.3237295747
+X-COUNTRY-CODE:tz
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5709
+CLASS:PUBLIC
+DTSTAMP:20200423T150000Z
+DTSTART:20160903T070000Z
+DTEND:20160903T080000Z
+LOCATION:Planète Burger Ambohijatovo\, Antananarivo\, Madagascar
+SUMMARY:Mozilla Madagascar September MozCafe
+DESCRIPTION:Meetup between community members of Mozilla Madagascar.\n\nThi
+ s will allow the sharing of experience and planning of future events.
+URL:https://reps.mozilla.org/e/mozilla-madagascar-september-mozcafe/
+SEQUENCE:3
+X-COORDINATES-LAT:-18.8231169481
+X-COORDINATES-LON:46.7578125
+X-COUNTRY-CODE:mg
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@593
+CLASS:PUBLIC
+DTSTAMP:20200423T220355Z
+DTSTART:20130306T070000Z
+DTEND:20130306T120000Z
+LOCATION:Faculty of Computers and Information\, Menoufia University Campus
+ \, Shiben El-Kom\, Egypt
+SUMMARY:MUFIX open source
+DESCRIPTION:Open Source software is software that users have the ability t
+ o run\, distribute\, study\, and modify the program for any purpose.\nIn t
+ his event we will address this idea throw many open source applications .\
+ n\nThis event also aims to promote the open source concept between softwar
+ e communities in Egypt especially the students to be part of the open sour
+ ce development.
+URL:https://reps.mozilla.org/e/mufix-open-source/
+SEQUENCE:0
+X-COORDINATES-LAT:30.55679169
+X-COORDINATES-LON:31.0145759583
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

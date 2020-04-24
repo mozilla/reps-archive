@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8951
+CLASS:PUBLIC
+DTSTAMP:20200423T075908Z
+DTSTART:20191214T150000Z
+DTEND:20191214T220000Z
+LOCATION:Laboratoria (Comunal Barranco)\, Barranco\, Peru
+SUMMARY:Mozilla Hack Day - Peru
+DESCRIPTION:The monthly community meeting\, to talk about local projects a
+ nd Mozilla \nprojects/technologies\n\nEvent to encourage to local develope
+ rs and interested people to contribute to Mozilla projects like Firefox\, 
+ DevTools\, L10n\, MDN\, Common Voice and others.
+URL:https://reps.mozilla.org/e/mozilla-hack-day-peru/
+SEQUENCE:4
+X-COORDINATES-LAT:-12.1454775604
+X-COORDINATES-LON:-77.0218566656
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

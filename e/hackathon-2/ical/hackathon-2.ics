@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4553
+CLASS:PUBLIC
+DTSTAMP:20200423T162105Z
+DTSTART:20151030T043000Z
+DTEND:20151031T083000Z
+LOCATION:Nalla Malla Reddy Engineering\, Hyderabad\, India
+SUMMARY:Hackathon
+DESCRIPTION:A two day event totally concentrated on Developing and Publish
+ ing apps for Firefox OS Mobile Platform. with hands- on sessions for This 
+ event is meant to Give a Clear view about Firefox OS Platform and how easi
+ ly we can develop native applications for firefox OS and Encourage People 
+ to Develop Apps for Firefox OS and also for the web developers to port the
+ ir Apps to Firefox OS. First Firefox OS Appathon in Hyderabad
+URL:https://reps.mozilla.org/e/hackathon-2/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4301636318
+X-COORDINATES-LON:78.6618375761
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

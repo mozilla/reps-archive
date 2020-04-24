@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4937
+CLASS:PUBLIC
+DTSTAMP:20200423T160014Z
+DTSTART:20151224T143000Z
+DTEND:20151224T163000Z
+LOCATION:IRC\, IRC\, India
+SUMMARY:Tamilnadu  year end chat
+DESCRIPTION:Agenda\n\n    * Introducing Contributors \n    * Highlights of
+  2015\n    * Introducing the 2016 Mozilla Goals\n    * Discussing the Goal
+ s of Individuals\n    * Discussing the Goals of community
+URL:https://reps.mozilla.org/e/tamilnadu-year-end-chat/
+SEQUENCE:1
+X-COORDINATES-LAT:12.1646460392
+X-COORDINATES-LON:79.208496809
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

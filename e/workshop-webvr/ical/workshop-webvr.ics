@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8208
+CLASS:PUBLIC
+DTSTAMP:20200423T085710Z
+DTSTART:20181018T170000Z
+DTEND:20181018T210000Z
+LOCATION:Paris\, Les ULIS\, France
+SUMMARY:Workshop WebVR
+DESCRIPTION:in the form of small groups of 4-5 people\, the WebVR / WebXR 
+ workshop aims to show the possibilities of showing Virtual Reality and how
+  to make scenes with aFrame
+URL:https://reps.mozilla.org/e/workshop-webvr/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8623057718
+X-COORDINATES-LON:2.46240198612
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

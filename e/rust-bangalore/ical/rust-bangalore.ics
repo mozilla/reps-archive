@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7787
+CLASS:PUBLIC
+DTSTAMP:20200423T093454Z
+DTSTART:20180513T043000Z
+DTEND:20180513T073000Z
+LOCATION:91Springboard Koramangala (National Games Village)\, Bangalore\, 
+ India
+SUMMARY:Rust Bangalore
+DESCRIPTION:A short discussion on using protobuf\, gRPC and mio in Rust.\n
+ \nAttendees must come with Cargo and Rust installed.
+URL:https://reps.mozilla.org/e/rust-bangalore/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9435
+X-COORDINATES-LON:77.6212
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

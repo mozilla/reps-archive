@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1302
+CLASS:PUBLIC
+DTSTAMP:20200423T211051Z
+DTSTART:20130915T073000Z
+DTEND:20130915T103000Z
+LOCATION:Maple Leaf International School\, Dhaka\, Bangladesh
+SUMMARY:Maker Party @ Dhaka
+DESCRIPTION:First maker party at the capital. School students will partici
+ pate here.
+URL:https://reps.mozilla.org/e/maker-party-dhaka/
+SEQUENCE:3
+X-COORDINATES-LAT:23.748052
+X-COORDINATES-LON:90.371625
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

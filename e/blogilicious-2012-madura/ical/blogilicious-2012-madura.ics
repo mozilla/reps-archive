@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@129
+CLASS:PUBLIC
+DTSTAMP:20200423T230827Z
+DTSTART:20120707T010000Z
+DTEND:20120708T050000Z
+LOCATION:Gedung New Purnama Bangkalan\, Bangkalan\, Madura\, Indonesia
+SUMMARY:Blogilicious 2012 Madura
+DESCRIPTION:Blogilicious\, is a seminar and workshop event in 7 cities in 
+ Indonesia with targeting of 200 bloggers per-city that aims to encourage y
+ oung generation of Indonesia to be a &#34;positive blogger&#34; that that share po
+ sitive contents/infos/news to Internet citizen. Blogilicious welcome Mozil
+ la Indonesia as one if the community who support open source\, user privac
+ y\, and internet safety. That&#39;s why Mozilla Indonesia were invited to Blog
+ ilicious in those 7 cities. 
+URL:https://reps.mozilla.org/e/blogilicious-2012-madura/
+SEQUENCE:0
+X-COORDINATES-LAT:-7.10975050958
+X-COORDINATES-LON:112.803153992
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

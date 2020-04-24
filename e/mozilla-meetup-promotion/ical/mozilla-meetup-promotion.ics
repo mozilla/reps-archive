@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@528
+CLASS:PUBLIC
+DTSTAMP:20200423T220423Z
+DTSTART:20130303T063000Z
+DTEND:20130303T103000Z
+LOCATION:Patiala [TBD]\, Patiala\, India
+SUMMARY:Mozilla Meetup &amp; Promotion
+DESCRIPTION:This Event is to just look out for the Mozilla Firefox Users a
+ round regions of Punjab . Meet new Contributors maybe and also tell the va
+ rious Projects of Firefox. For contributors \, we would be telling the are
+ a path of contribution.
+URL:https://reps.mozilla.org/e/mozilla-meetup-promotion/
+SEQUENCE:0
+X-COORDINATES-LAT:21.9430455334
+X-COORDINATES-LON:79.453125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

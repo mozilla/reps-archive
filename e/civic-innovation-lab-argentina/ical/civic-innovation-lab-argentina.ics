@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8060
+CLASS:PUBLIC
+DTSTAMP:20200423T085821Z
+DTSTART:20181009T120000Z
+DTEND:20181021T213000Z
+LOCATION:River Station\, Rosario\, Argentina
+SUMMARY:Civic Innovation Lab - Argentina
+DESCRIPTION:Civic Innovation Labs (LABIC) are spaces created to systematis
+ e and fast-track these spontaneous\, citizen-driven innovations\, which tr
+ ansform communities and can potentially be copied in other cities. The spa
+ ces can be used simultaneously for experimentation\, learning and prototyp
+ ing of solutions or proposals from a collaborative\, non-competitive persp
+ ective.
+URL:https://reps.mozilla.org/e/civic-innovation-lab-argentina/
+SEQUENCE:7
+X-COORDINATES-LAT:-32.9490945
+X-COORDINATES-LON:-60.6287225
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

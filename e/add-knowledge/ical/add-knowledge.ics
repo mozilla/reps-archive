@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1446
+CLASS:PUBLIC
+DTSTAMP:20200423T205811Z
+DTSTART:20131023T080000Z
+DTEND:20131023T110000Z
+LOCATION:computers and informations science\, Mansoura\, Egypt
+SUMMARY:Add knowledge
+DESCRIPTION:This is an event at faculty of computers and informations scie
+ nce \, that aims to help the new student to understand the career and get 
+ the first step to go :-)
+URL:https://reps.mozilla.org/e/add-knowledge/
+SEQUENCE:2
+X-COORDINATES-LAT:31.0413154753
+X-COORDINATES-LON:31.3577699661
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

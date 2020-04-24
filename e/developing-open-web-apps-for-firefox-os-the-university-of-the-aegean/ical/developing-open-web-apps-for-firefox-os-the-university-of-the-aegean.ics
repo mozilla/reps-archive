@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3167
+CLASS:PUBLIC
+DTSTAMP:20200423T182235Z
+DTSTART:20141129T140000Z
+DTEND:20141129T160000Z
+LOCATION:University of the Aegean - ICSD Labs\, Karlovasi\, Greece
+SUMMARY:Developing Open Web Apps for Firefox OS @ the University of the Ae
+ gean
+DESCRIPTION:The Free &amp; Open Source Software Community of the University of
+  the Aegean is organising a firefox os web app development workshop.\n\nPa
+ rticipants will learn how to develop their very own web app from scratch\,
+  by writing some simple HTML/CSS/Javascript code and using Firefox&#39;s innov
+ ative developer tools.
+URL:https://reps.mozilla.org/e/developing-open-web-apps-for-firefox-os-the
+ -university-of-the-aegean/
+SEQUENCE:1
+X-COORDINATES-LAT:37.7959574268
+X-COORDINATES-LON:26.7049346566
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

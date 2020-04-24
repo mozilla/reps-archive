@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8450
+CLASS:PUBLIC
+DTSTAMP:20200423T083535Z
+DTSTART:20190330T103000Z
+DTEND:20190331T063000Z
+LOCATION:IIT Hyderabad\, Hyderabad\, India
+SUMMARY:E-Summit 2019 - IIT Hyderabad
+DESCRIPTION:E-Summit is one of the biggest Entrepreneurship Conclaves in I
+ ndia. This is our attempt to inspire and educate students\, who are inclin
+ ed towards entrepreneurship\, and early entrepreneurs to take and manage b
+ igger risks. We also endeavor to introduce the business-world to students\
+ , who are new to the field. Our event will be centered on the theme Leap B
+ eyond Innovation. Via a series of talks and panel discussions\, we wish to
+  delve deeper into the idea of innovation.
+URL:https://reps.mozilla.org/e/e-summit-2019-iit-hyderabad/
+SEQUENCE:0
+X-COORDINATES-LAT:17.4086181
+X-COORDINATES-LON:78.4898943
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

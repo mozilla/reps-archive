@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1820
+CLASS:PUBLIC
+DTSTAMP:20200423T201623Z
+DTSTART:20140315T050000Z
+DTEND:20140315T090000Z
+LOCATION:Palet Express\, Molave Building 2231 Chino Roces Ave.\, Makati\, 
+ Philippines
+SUMMARY:WoMoz Firefox OS Workshop
+DESCRIPTION:In celebration of the women&#39;s month\, the Mozilla Philippines 
+ Community invites all women to join us on Saturday\, 15 March 2014 at Comm
+ une in Makati for an all-girl mini workshop on Firefox OS\, Mozilla&#39;s open
+  source operating system for the mobile web. This workshop is NOT a compet
+ ition\; it&#39;s an opportunity to start creating mobile apps for Firefox Mark
+ etplace and the coming Firefox OS mobile devices. We&#39;ll introduce you to t
+ he tools you need to get started.
+URL:https://reps.mozilla.org/e/womoz-firefox-os-workshop-1/
+SEQUENCE:7
+X-COORDINATES-LAT:14.5468443142
+X-COORDINATES-LON:121.015845358
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

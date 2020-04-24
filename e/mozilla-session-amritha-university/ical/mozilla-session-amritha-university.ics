@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@587
+CLASS:PUBLIC
+DTSTAMP:20200423T220448Z
+DTSTART:20130302T193000Z
+DTEND:20130302T233000Z
+LOCATION:Amritha University\, Kollam\, India
+SUMMARY:Mozilla Session@ Amritha University
+DESCRIPTION:A brief session at Amritha university(kerala\,India) that disc
+ usses about  -How was web before?\n-Mozilla and the open web\n-Basic add-o
+ n and web development\n-An introduction to Firefox OS and marketplace\n-Mo
+ zilla Kerala
+URL:https://reps.mozilla.org/e/mozilla-session-amritha-university/
+SEQUENCE:1
+X-COORDINATES-LAT:8.88269723527
+X-COORDINATES-LON:76.5925598145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

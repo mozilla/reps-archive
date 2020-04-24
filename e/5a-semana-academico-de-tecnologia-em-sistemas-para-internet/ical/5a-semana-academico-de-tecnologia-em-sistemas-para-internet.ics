@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2835
+CLASS:PUBLIC
+DTSTAMP:20200423T184916Z
+DTSTART:20141006T113000Z
+DTEND:20141011T024000Z
+LOCATION:IFSul Campus Pelotas\, Pelotas\, Brazil
+SUMMARY:5ª Semana Acadêmico de Tecnologia em Sistemas para Internet
+DESCRIPTION:5ª Semana Acadêmico de Tecnologia em Sistemas para Internet 
+ (5th Internet Systems Technology Academic Week)\, organized by the Interne
+ t Systems Technology course from Instituto Federal Sul-Rio-Grandense\, Pel
+ otas campus. One of the biggest events organized by a college related to I
+ nternet in Rio Grande do Sul.
+URL:https://reps.mozilla.org/e/5a-semana-academico-de-tecnologia-em-sistem
+ as-para-internet/
+SEQUENCE:2
+X-COORDINATES-LAT:-31.7562449089
+X-COORDINATES-LON:-52.3569717421
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1794
+CLASS:PUBLIC
+DTSTAMP:20200423T201436Z
+DTSTART:20140319T120000Z
+DTEND:20140320T163000Z
+LOCATION:NITMAS Campus Jhinga\, Diamond Harbour Road\, Kolkata\, India
+SUMMARY:Mozfest@ Harbour
+DESCRIPTION:Mozilla Mission for students of Nitmas. Awareness about Locali
+ zation. Awareness about SUMO Localization\,Mozilla codebase . Hands-on ses
+ sion on Mozilla Webmaker tools. Demo on FirefoxOS. Awareness about FOSS. H
+ ow we can contribute in FOSS. Recruiting new FSA. Encouraging WoMoz.
+URL:https://reps.mozilla.org/e/mozfest-kolkata/
+SEQUENCE:6
+X-COORDINATES-LAT:22.5683526391
+X-COORDINATES-LON:88.3458080236
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

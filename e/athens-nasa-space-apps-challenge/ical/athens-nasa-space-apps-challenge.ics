@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@766
+CLASS:PUBLIC
+DTSTAMP:20200423T215049Z
+DTSTART:20130420T060000Z
+DTEND:20130421T190000Z
+LOCATION:hackerspace.gr\, Athens\, Greece
+SUMMARY:Athens NASA Space Apps Challenge
+DESCRIPTION:The International Space Apps Challenge is a two-day technology
+  development event during which citizens from around the world will work t
+ ogether to address current challenges relevant to both space exploration a
+ nd social need.
+URL:https://reps.mozilla.org/e/athens-nasa-space-apps-challenge/
+SEQUENCE:6
+X-COORDINATES-LAT:38.0168573068
+X-COORDINATES-LON:23.7312841415
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

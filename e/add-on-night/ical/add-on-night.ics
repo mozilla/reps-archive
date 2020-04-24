@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4719
+CLASS:PUBLIC
+DTSTAMP:20200423T161200Z
+DTSTART:20151121T113000Z
+DTEND:20151122T083000Z
+LOCATION:CSI computer socity of India office \, Scunderabad Hyderabd\, Sec
+ underabad\, India
+SUMMARY:Add-On Night
+DESCRIPTION:20 hour event totally focused on Learn how to create Firefox a
+ dd-ons. We will show you how to create simple userscripts and where to lea
+ rn about more advanced add-on development. We will reward those participan
+ ts who show us the best demos by the end.
+URL:https://reps.mozilla.org/e/add-on-night/
+SEQUENCE:4
+X-COORDINATES-LAT:17.4688148291
+X-COORDINATES-LON:78.5077357283
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

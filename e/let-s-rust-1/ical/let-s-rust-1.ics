@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6480
+CLASS:PUBLIC
+DTSTAMP:20200423T111437Z
+DTSTART:20170422T130000Z
+DTEND:20170422T210000Z
+LOCATION:UAGRM - Bush Ave. - Santa Cruz\, Bolivia\, Santa Cruz de la Sierr
+ a\, Bolivia
+SUMMARY:Dive into Rust! + FLISOL
+DESCRIPTION:This the opportunity to show Rust and how this language can ch
+ ange the way we code.\nThis will be the second presentation in this Univer
+ sity\, so we have a lot of prograrmmers who will love Rust. We&#39;ll show som
+ e Rust bases to be prepare a workshop the next month.\nSo\, we&#39;ll celebrat
+ e the FLISOL event the same day\, and YES! we&#39;ll celebrate the Rust&#39;s birt
+ hday!!!. All these awesome in the same day!
+URL:https://reps.mozilla.org/e/let-s-rust-1/
+SEQUENCE:10
+X-COORDINATES-LAT:-17.776248477
+X-COORDINATES-LON:-63.1950489879
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

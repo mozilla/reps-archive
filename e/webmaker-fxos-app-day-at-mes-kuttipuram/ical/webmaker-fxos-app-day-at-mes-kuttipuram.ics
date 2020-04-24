@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2474
+CLASS:PUBLIC
+DTSTAMP:20200423T192441Z
+DTSTART:20140719T033000Z
+DTEND:20140719T103000Z
+LOCATION:MES College of Engineering\, Kuttippuram\, India
+SUMMARY:WebMaker / FxOS App Day at MES Kuttipuram
+DESCRIPTION:WebMaker/FxOS App Day mainly focuses on college students and g
+ etting them familiarized with Thimble hacking\, X-ray goggles\, Popcorn ma
+ ker video making. Also get them in touch with various Mozilla Projects and
+  help them to start contributing to the community.\n\nThese event includes
+  a Mini App Days are a series of events throughout Kerala locale\, done as
+  a follow-up to the main App Day. The main aim is to showcase Firefox OS t
+ o the students and help them to develop apps for it.
+URL:https://reps.mozilla.org/e/webmaker-fxos-app-day-at-mes-kuttipuram/
+SEQUENCE:4
+X-COORDINATES-LAT:10.8291993264
+X-COORDINATES-LON:76.0234377463
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

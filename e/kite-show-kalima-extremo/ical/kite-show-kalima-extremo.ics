@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7
+CLASS:PUBLIC
+DTSTAMP:20200423T230705Z
+DTSTART:20120818T170000Z
+DTEND:20120819T170000Z
+LOCATION:Lago Kalima - Calima valle del cauca\, Cali\, Colombia
+SUMMARY:Kite show - Kalima extremo
+DESCRIPTION:It is a event to spread Firefox over Mobiles and spread the fu
+ ture B2G\, it is a event open to everybody but they are people who enjoy t
+ echnology and Internet\, we go to spread De todos para todos.
+URL:https://reps.mozilla.org/e/kite-show-kalima-extremo/
+SEQUENCE:0
+X-COORDINATES-LAT:3.44831006921
+X-COORDINATES-LON:-76.5159988403
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

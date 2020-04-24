@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@410
+CLASS:PUBLIC
+DTSTAMP:20200423T222501Z
+DTSTART:20130120T053000Z
+DTEND:20130120T100000Z
+LOCATION:水舞饌中港店\, Taichung\, Taiwan
+SUMMARY:Fedora &amp; Firefox\, FF18 Party
+DESCRIPTION:Small event celebrating Firefox and Fedora release v18 the sam
+ e month\, both community gathering at mid Taiwan.
+URL:https://reps.mozilla.org/e/firefox-fedora-party/
+SEQUENCE:0
+X-COORDINATES-LAT:24.151119
+X-COORDINATES-LON:120.669096
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

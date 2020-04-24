@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3156
+CLASS:PUBLIC
+DTSTAMP:20200423T181142Z
+DTSTART:20150106T040000Z
+DTEND:20150106T113000Z
+LOCATION:Government College Of Engineering Kannur\, Kannur\, India
+SUMMARY:Firefox OS App days @ GCEK
+DESCRIPTION:Educate and inspire developers to work on HTML5 apps and submi
+ t them to the   Firefox Marketplace to Amplify and inspire grassroots deve
+ loper  momentum  worldwide and Create opportunities for local developers t
+ o showcase their apps to Raise awareness of Firefox OS and the developer e
+ cosystem.\n\nThis event is a part of community building in the Northern Ke
+ rala.\n\n\n\n\nRegistration Link\nhttp://bit.ly/1z4Sw2J
+URL:https://reps.mozilla.org/e/firefox-os-app-days-gcek/
+SEQUENCE:11
+X-COORDINATES-LAT:11.8621344575
+X-COORDINATES-LON:75.371811
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

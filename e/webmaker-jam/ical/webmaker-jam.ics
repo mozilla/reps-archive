@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2458
+CLASS:PUBLIC
+DTSTAMP:20200423T191943Z
+DTSTART:20140802T043000Z
+DTEND:20140802T083000Z
+LOCATION:Hyderabad\, Secunderabad\, India
+SUMMARY:WebMaker Jam
+DESCRIPTION:Promoting Web through interactive ways in students with the He
+ lp of Newbies of Mozilla.Teaching children about web and the importance of
+  Security with real time examples. Teaching people about what is webmaker 
+ project all about.
+URL:https://reps.mozilla.org/e/webmaker-jam/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

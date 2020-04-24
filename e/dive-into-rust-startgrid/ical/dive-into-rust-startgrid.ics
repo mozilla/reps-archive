@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7373
+CLASS:PUBLIC
+DTSTAMP:20200423T100115Z
+DTSTART:20180203T150000Z
+DTEND:20180203T200000Z
+LOCATION:StartGrid\, Rio de Janeiro\, Brazil
+SUMMARY:Dive Into Rust @StartGrid (first round)
+DESCRIPTION:The Rust programming language will be important to the future 
+ of the web\, making it safe and great. Join us to understand\, use and eva
+ ngelize this language will advance make the web better and more secure!
+URL:https://reps.mozilla.org/e/dive-into-rust-startgrid/
+SEQUENCE:5
+X-COORDINATES-LAT:-25.4291521791
+X-COORDINATES-LON:-49.272285467
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

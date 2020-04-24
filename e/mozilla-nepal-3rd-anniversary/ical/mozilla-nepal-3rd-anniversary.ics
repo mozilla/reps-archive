@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4152
+CLASS:PUBLIC
+DTSTAMP:20200423T164738Z
+DTSTART:20150830T051500Z
+DTEND:20150830T121500Z
+LOCATION:Sap Falcha\, Babarmahal\, Kathmandu\, Kathmandu\, Nepal
+SUMMARY:Mozilla Nepal 3rd Anniversary
+DESCRIPTION:Celebration of Mozilla Nepal Community&#39;s Anniversary. By Hosti
+ ng a simple hackathon\, discussing further steps on how to move forward.
+URL:https://reps.mozilla.org/e/mozilla-nepal-3rd-anniversary/
+SEQUENCE:9
+X-COORDINATES-LAT:27.6902147719
+X-COORDINATES-LON:85.3243203161
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

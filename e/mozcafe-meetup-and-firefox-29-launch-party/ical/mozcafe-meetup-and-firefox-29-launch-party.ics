@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2234
+CLASS:PUBLIC
+DTSTAMP:20200423T195129Z
+DTSTART:20140510T133000Z
+DTEND:20140510T153000Z
+LOCATION:TBD\, Pune\, India
+SUMMARY:MozCafe meetup and Firefox 29 launch party
+DESCRIPTION:This will be a MozCafe meetup for all the Mozillians in Pune\,
+  in-order to share their contributions over the past few weeks along with 
+ planning for next events or contribution pathways in Pune.\nSince we are a
+ ll meeting for the first time after the launch of Firefox 29\, this can be
+  a great excuse to have a small scale celebration of the Firefox 29 launch
+ .
+URL:https://reps.mozilla.org/e/mozcafe-meetup-and-firefox-29-launch-party/
+SEQUENCE:3
+X-COORDINATES-LAT:18.5343044537
+X-COORDINATES-LON:73.9084625244
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

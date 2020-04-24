@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5210
+CLASS:PUBLIC
+DTSTAMP:20200423T154312Z
+DTSTART:20160309T090000Z
+DTEND:20160309T100000Z
+LOCATION:Xinjiang Education Institute Shiyan Primary School\, urumqi\, Chi
+ na
+SUMMARY:Learning programming-firefox tianshan tour
+DESCRIPTION:Selection requirements\n\nKnow the software interface to know 
+ the menu bar toolbar\n\nLike computer\n\nHave certain computer application
+  ability
+URL:https://reps.mozilla.org/e/how-to-use-firefox-learn-a-foreign-language
+ -firefox-tianshan-tour/
+SEQUENCE:4
+X-COORDINATES-LAT:43.8013306999
+X-COORDINATES-LON:2607.61366296
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

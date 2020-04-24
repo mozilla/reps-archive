@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4008
+CLASS:PUBLIC
+DTSTAMP:20200423T164613Z
+DTSTART:20150904T043000Z
+DTEND:20150906T103000Z
+LOCATION:Collabs House\,Opp Film nagar society complex\,Filmnagar\, Secund
+ erabad\, India
+SUMMARY:Womoz Hyderabad
+DESCRIPTION:With the Experience from the recent Womoz App Sprint we are Pl
+ anning for a Second version of Womoz where few women contributors from all
+  over India are invited to come\,talk and hack on things they like to do. 
+ This event mainly aims to increase the Women Contributor Base in Hyderabad
+ \,to show the women of other community about how open source communities w
+ ork and inspire them to be the leaders in their community.
+URL:https://reps.mozilla.org/e/womoz-hyderabad/
+SEQUENCE:5
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

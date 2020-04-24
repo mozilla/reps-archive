@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3778
+CLASS:PUBLIC
+DTSTAMP:20200423T172334Z
+DTSTART:20150516T090000Z
+DTEND:20150517T150000Z
+LOCATION:The University Politehnica of Bucharest\, Bucharest\, Romania
+SUMMARY:MiniDebConf Bucharest 2015
+DESCRIPTION:On the weekend of May 16th and 17th\, Bucharest will host a Mi
+ ni DebConf with both talks and social events\, to which everyone in Debian
+  is invited but the speakers in the talks are all people who identify them
+ selves as female. We consider this important to:\n\n    Encourage women wh
+ o haven&#39;t yet given their first DebConf talk\n    Provide role models for 
+ women who are interested in contributing\n    Debunk the myth that there a
+ re not enough women who can give talks in DebConf
+URL:https://reps.mozilla.org/e/minidebconf-bucharest-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:44.4295303917
+X-COORDINATES-LON:26.113586314
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1470
+CLASS:PUBLIC
+DTSTAMP:20200423T204523Z
+DTSTART:20131201T043000Z
+DTEND:20131201T113000Z
+LOCATION:Snow Vision iTech\, Bhopal\, India
+SUMMARY:Opensource and Mozilla enthusiasts meetup
+DESCRIPTION:The Community Team and Mozilla Remo will be working together t
+ o host the first team correlating  workshop at the Snow vision iTech. This
+  workshop is intended to teach and learn various Mozilla projects and impr
+ ove their projects by adding community to the mix and learning how other t
+ eams have been successful doing so. Also we will Inaugurate Official Mozil
+ la Club Bhopal.
+URL:https://reps.mozilla.org/e/makerparty-and-mozilla-community-building-w
+ orkshop/
+SEQUENCE:8
+X-COORDINATES-LAT:24.1935293254
+X-COORDINATES-LON:78.6855465174
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

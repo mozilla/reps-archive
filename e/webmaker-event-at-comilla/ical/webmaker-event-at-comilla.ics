@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4339
+CLASS:PUBLIC
+DTSTAMP:20200423T164422Z
+DTSTART:20150909T031500Z
+DTEND:20150909T110000Z
+LOCATION:Comilla University (CU)\, Comilla\, Bangladesh
+SUMMARY:Webmaker Event at Comilla
+DESCRIPTION:Mozilla Bangladesh is planning to spread the mission of mozill
+ a around the Bangladesh this fall. So\, as a part we are going to have a W
+ ebmaker event at Comilla University. This event will help us to create a n
+ ew community action in Comilla\, we hope.\n\nGoals:\n1. Build a new Mozill
+ a community\n2. Attract NEW people\n3. Recruit NEW Contributor\n4. Find in
+ terested people from the event who can start spreading mozilla projects ou
+ t there
+URL:https://reps.mozilla.org/e/webmaker-event-at-comilla/
+SEQUENCE:4
+X-COORDINATES-LAT:23.4599263472
+X-COORDINATES-LON:91.1792850459
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

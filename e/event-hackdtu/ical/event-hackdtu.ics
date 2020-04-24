@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7087
+CLASS:PUBLIC
+DTSTAMP:20200423T102501Z
+DTSTART:20171013T133000Z
+DTEND:20171014T143000Z
+LOCATION:B.R.Auditorium at DTU\, New Delhi\, India
+SUMMARY:HackDTU
+DESCRIPTION:Welcome HackDTU 2.0\, an event even grander than the one befor
+ e!\nAiming to be the Best Hackathon of all time\, HackDTU provides the opp
+ ortinity for coders\, developers\, and fellow hackers to prove their skill
+ s at the biggest Tech event in North Delhi\, in a night full of exhilarati
+ ng experiences and a day full of surprises.We are expecting over 800 parti
+ cipants in HackDTU 2.0.
+URL:https://reps.mozilla.org/e/event-hackdtu/
+SEQUENCE:4
+X-COORDINATES-LAT:28.6477623826
+X-COORDINATES-LON:77.3187103216
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

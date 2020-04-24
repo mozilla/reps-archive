@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6344
+CLASS:PUBLIC
+DTSTAMP:20200423T112423Z
+DTSTART:20170311T043000Z
+DTEND:20170311T113000Z
+LOCATION:NIT Calicut\, Calicut\, India
+SUMMARY:Rust Intro @Fossmeet 2017
+DESCRIPTION:The event is focussed on introducing and teaching the state of
+  art system programming language Rust in Fossmeet 17. \n\nThis will be a h
+ ands-on session covering topics such as ownership &amp; borrowing and cargo.\n
+ \nhttp://fossmeet.in/2017/public/#schedule
+URL:https://reps.mozilla.org/e/rust-intro-fossmeet-2017/
+SEQUENCE:7
+X-COORDINATES-LAT:9.85251002314
+X-COORDINATES-LON:78.2460021973
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

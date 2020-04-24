@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8072
+CLASS:PUBLIC
+DTSTAMP:20200423T085909Z
+DTSTART:20181006T033000Z
+DTEND:20181006T103000Z
+LOCATION:Vidhyavardhaka College of Engineering\, Mysore\, India
+SUMMARY:WebVR Workshop
+DESCRIPTION:In this event we are covering the basics of Web application de
+ velopment like HTML\, CSS and a bit of JS. Followed by this\, we will have
+  a hands-on workshop on how to make WebVR scenes.
+URL:https://reps.mozilla.org/e/webvr-workshop-1/
+SEQUENCE:2
+X-COORDINATES-LAT:12.2639689545
+X-COORDINATES-LON:76.6278073937
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

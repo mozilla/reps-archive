@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2857
+CLASS:PUBLIC
+DTSTAMP:20200423T184549Z
+DTSTART:20141013T210000Z
+DTEND:20141015T003000Z
+LOCATION:Universidad Americana\, Ciudad del Este\, Paraguay
+SUMMARY:Security Days 2014
+DESCRIPTION:The third edition of the workshop on computer security called 
+ &#34;Security Days&#34; event filled with satisfaction last year for the return an
+ d well accepted by the general public.
+URL:https://reps.mozilla.org/e/security-days-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:-25.5174831491
+X-COORDINATES-LON:-54.6176977147
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

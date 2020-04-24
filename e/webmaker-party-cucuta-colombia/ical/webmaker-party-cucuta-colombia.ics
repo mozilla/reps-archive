@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1937
+CLASS:PUBLIC
+DTSTAMP:20200423T201654Z
+DTSTART:20140314T123000Z
+DTEND:20140314T230000Z
+LOCATION:Hight School: Sagrado Corazón de Jesus\, Cúcuta\, Av 4 Nº 15-2
+ 9 La Playa\, Cúcuta\, Colombia
+SUMMARY:WebMaker Party Cúcuta - Colombia
+DESCRIPTION:School teenagers who are starting to use Internet\, We will ma
+ ke a Webmaker session...first web maker session in Colombia :) … they wi
+ ll learn how to build and to make the web playing and sharing with partner
+ s and teachers.\nThe itinerary event is:\n1.Assistants Registration 8:00 a
+ m \n2.Presentation Webmaker tools 9:00 am \n3.Break - 10:00 \n4.Webmaker c
+ ustom activity 10:30 am to 12:00 pm \n5. Lunch 12:00 pm\n6. Hello Markup2:
+ 00 pm - 4:00 pm \n7. Break \n8.Sharing webmaker´s creations 4 pm - 5 pm
+URL:https://reps.mozilla.org/e/webmaker-party-cucuta-colombia/
+SEQUENCE:5
+X-COORDINATES-LAT:7.88829298055
+X-COORDINATES-LON:-72.4975132942
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

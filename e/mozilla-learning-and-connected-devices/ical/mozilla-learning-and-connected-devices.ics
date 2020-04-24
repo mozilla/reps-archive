@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5901
+CLASS:PUBLIC
+DTSTAMP:20200423T115427Z
+DTSTART:20161015T033000Z
+DTEND:20161015T123000Z
+LOCATION:NIET\, Greater Noida\, Greater Noida\, India
+SUMMARY:Mozilla Learning and Connected Devices
+DESCRIPTION:To mobilize maximum attendees towards Mozilla&#39;s mission and ge
+ tting them involved in different functional areas and session on IOT and C
+ onnected Devices.
+URL:https://reps.mozilla.org/e/mozilla-learning-and-connected-devices/
+SEQUENCE:3
+X-COORDINATES-LAT:28.4702946369
+X-COORDINATES-LON:77.50395298
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

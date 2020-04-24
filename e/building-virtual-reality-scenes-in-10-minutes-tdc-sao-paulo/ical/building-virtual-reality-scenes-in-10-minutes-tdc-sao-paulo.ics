@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6817
+CLASS:PUBLIC
+DTSTAMP:20200423T105210Z
+DTSTART:20170722T141000Z
+DTEND:20170722T150000Z
+LOCATION:Universidade Anhembi Morumbi\, São Paulo\, Brazil
+SUMMARY:Building virtual reality scenes in 10 minutes @TDC São Paulo
+DESCRIPTION:In this talk we will get to know WebVR and have an introductio
+ n about A-Frame\, the JavaScript framework supported by Mozilla. In additi
+ on to the concepts I&#39;m going to do a basic demonstration of how to build a
+  scene in 10 minutes. Believe me\, 10 minutes and you&#39;ll build a VR scene 
+ using WebVR and A-frame!
+URL:https://reps.mozilla.org/e/building-virtual-reality-scenes-in-10-minut
+ es-tdc-sao-paulo/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.5733
+X-COORDINATES-LON:-46.6417
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

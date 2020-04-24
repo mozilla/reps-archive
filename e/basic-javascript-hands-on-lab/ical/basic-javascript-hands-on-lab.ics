@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5516
+CLASS:PUBLIC
+DTSTAMP:20200423T151833Z
+DTSTART:20160621T103000Z
+DTEND:20160621T130000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Basic JavaScript Hands-on Lab
+DESCRIPTION:Learn the fundamentals of JavaScript\, the programming languag
+ e of the Web.
+URL:https://reps.mozilla.org/e/basic-javascript-hands-on-lab/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5470091745
+X-COORDINATES-LON:121.015928507
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

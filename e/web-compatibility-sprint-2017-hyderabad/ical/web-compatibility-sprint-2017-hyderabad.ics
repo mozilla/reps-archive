@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7330
+CLASS:PUBLIC
+DTSTAMP:20200423T100854Z
+DTSTART:20171230T083000Z
+DTEND:20171230T113000Z
+LOCATION:Swecha Office\, Gachibowli\, Hyderabd 500032\, Hyderabad\, India
+SUMMARY:Web Compatibility Sprint 2017 @ Hyderabad
+DESCRIPTION:Web Compatibility\, the ability for all Web content to run in 
+ all browsers\, is important. There are multiple web content engines runnin
+ g on multiple devices\, and sometimes with a little testing and some small
+  tweaks to their site\, developers can ensure that more users can have the
+  full experience that is desired.
+URL:https://reps.mozilla.org/e/web-compatibility-sprint-2017-hyderabad/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4355324381
+X-COORDINATES-LON:78.3591814039
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

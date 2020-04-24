@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5562
+CLASS:PUBLIC
+DTSTAMP:20200423T153704Z
+DTSTART:20160401T073000Z
+DTEND:20160401T090000Z
+LOCATION:Urumqi 126 Primary school\, Urumqi\, China
+SUMMARY:Firefox Tianshan Tour--How to use Firefox learn a foreign language
+ ?
+DESCRIPTION:Learn how to make the page file.
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-how-to-use-firefox-le
+ arn-a-foreign-language-2/
+SEQUENCE:1
+X-COORDINATES-LAT:43.7577336905
+X-COORDINATES-LON:2607.62805784
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

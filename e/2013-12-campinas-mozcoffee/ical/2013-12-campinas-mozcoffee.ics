@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1651
+CLASS:PUBLIC
+DTSTAMP:20200423T204003Z
+DTSTART:20131217T210000Z
+DTEND:20131218T010000Z
+LOCATION:Shopping Dom Pedro\, Campinas\, Brazil
+SUMMARY:2013-12 Campinas MozCoffee
+DESCRIPTION:A gathering of Mozillians from Campinas and near cities for fo
+ od and chat.\n\nThis time\, we&#39;ll say goodbye to Bruno Vilar\, who&#39;s going
+  back to DF. We&#39;ll miss you Bruno!\n\nAnd also Panaggio&#39;s birthday! Happy 
+ birthday to me! X)
+URL:https://reps.mozilla.org/e/2013-12-campinas-mozcoffee/
+SEQUENCE:4
+X-COORDINATES-LAT:-22.848252603
+X-COORDINATES-LON:-47.0631195903
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

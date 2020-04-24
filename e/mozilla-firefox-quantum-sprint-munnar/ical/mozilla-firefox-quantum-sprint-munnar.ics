@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7135
+CLASS:PUBLIC
+DTSTAMP:20200423T103056Z
+DTSTART:20171005T080000Z
+DTEND:20171005T113000Z
+LOCATION:College of Engineering Munnar.PB.No:45\, County Hills\, Munnar\, 
+ Kerala 685612\, Munnar\, India
+SUMMARY:Mozilla Firefox Quantum Sprint - Munnar
+DESCRIPTION:Firefox 57 is coming! We Will check Firefox Nightly with our m
+ ost important web page in India\, so we can ensure that they work correctl
+ y. In this event we will test version 57 of Firefox locally. We will condu
+ ct a day of installation\, talks and also test several pages with the obje
+ ctive of seeing if there are flaws and report them if necessary.
+URL:https://reps.mozilla.org/e/mozilla-firefox-quantum-sprint-munnar/
+SEQUENCE:2
+X-COORDINATES-LAT:10.0852271499
+X-COORDINATES-LON:77.061215401
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

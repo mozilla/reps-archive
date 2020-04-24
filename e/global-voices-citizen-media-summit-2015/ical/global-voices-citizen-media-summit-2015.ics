@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3170
+CLASS:PUBLIC
+DTSTAMP:20200423T180621Z
+DTSTART:20150123T160000Z
+DTEND:20150124T160000Z
+LOCATION:Cebu Provincial Capitol\, Cebu City\, Philippines
+SUMMARY:Global Voices Citizen Media Summit 2015
+DESCRIPTION:The Open Internet: Local Perspectives\, Global Rights\n\nParti
+ cipants from over 70 countries will gather in Cebu City\, Philippines\, to
+  explore the connections between the open Internet\, freedom of expression
+  and online civic movements around the world.
+URL:https://reps.mozilla.org/e/global-voices-citizen-media-summit-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:10.2756224535
+X-COORDINATES-LON:123.932006825
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

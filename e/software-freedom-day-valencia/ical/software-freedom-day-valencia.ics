@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1317
+CLASS:PUBLIC
+DTSTAMP:20200423T210750Z
+DTSTART:20130921T123000Z
+DTEND:20130921T203000Z
+LOCATION:Fundación CID\, Valencia\, Venezuela
+SUMMARY:Software Freedom Day - Valencia
+DESCRIPTION:Software Freedom Day is a yearly event related to Free Softwar
+ e worldwide\, this year the city of Valencia is holding their SFD with a s
+ ingle main topic: MOZILLA
+URL:https://reps.mozilla.org/e/software-freedom-day-valencia/
+SEQUENCE:8
+X-COORDINATES-LAT:10.20893
+X-COORDINATES-LON:-68.013413
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

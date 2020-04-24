@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@407
+CLASS:PUBLIC
+DTSTAMP:20200423T223037Z
+DTSTART:20121222T113000Z
+DTEND:20121222T133000Z
+LOCATION:Symbiosis Institute of Computer Studies &amp; Research\, Pune\, India
+SUMMARY:MozClubSicsr meetup
+DESCRIPTION:MozClubSicsr is the Mozilla Club @ Symbiosis Institute of Comp
+ uter Studies and Research\, Pune\, India. The members(volunteers) will get
+  involved in various mozilla projects of their choice. Discussions about t
+ he club&#39;s involvement in the upcomming Open Source Events and also the mos
+ t awaited GNUnify&#39;13 will be planned. This event focusses on taking the ne
+ xt leap to advance the Mozilla Mission.
+URL:https://reps.mozilla.org/e/mozclubsicsr-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:18.5332363516
+X-COORDINATES-LON:73.8334786892
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

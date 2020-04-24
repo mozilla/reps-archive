@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4413
+CLASS:PUBLIC
+DTSTAMP:20200423T164318Z
+DTSTART:20150911T043000Z
+DTEND:20150911T103000Z
+LOCATION:Vijayawada\, Vijayawada\, India
+SUMMARY:Reboot @Mozilla Vijayawada
+DESCRIPTION:Reboot conference is aimed at 150 undergraduate students who c
+ ome together to experience secret of Self Motivation\, learn crucial Entre
+ preneur skills and discover opportunities.
+URL:https://reps.mozilla.org/e/reboot-mozilla-1/
+SEQUENCE:2
+X-COORDINATES-LAT:16.5107383733
+X-COORDINATES-LON:80.639763
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

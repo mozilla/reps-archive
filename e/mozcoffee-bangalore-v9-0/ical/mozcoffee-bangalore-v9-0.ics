@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2969
+CLASS:PUBLIC
+DTSTAMP:20200423T184530Z
+DTSTART:20141014T090000Z
+DTEND:20141014T100000Z
+LOCATION:Collab House\, Austin Town\, Bangalore\, Bangalore\, India
+SUMMARY:MozCoffee Bangalore v9.0
+DESCRIPTION:FirefoxOS Bus will be in Bangalore on 18th of this month and w
+ e need to do something creative and crazy involving the FSA&#39;s and Mozillia
+ ns to get the word out to pubic. Who ever is interested can join us tomorr
+ ow at Collab House at 6PM.
+URL:https://reps.mozilla.org/e/mozcoffee-bangalore-v9-0/
+SEQUENCE:4
+X-COORDINATES-LAT:12.85107877
+X-COORDINATES-LON:77.6440420747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

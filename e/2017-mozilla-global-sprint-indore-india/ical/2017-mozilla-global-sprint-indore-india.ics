@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6648
+CLASS:PUBLIC
+DTSTAMP:20200423T110541Z
+DTSTART:20170601T033000Z
+DTEND:20170602T113000Z
+LOCATION:IIT Indore\, Simrol Campus\, Indore\, India
+SUMMARY:2017 Mozilla Global Sprint - Indore\,India
+DESCRIPTION:Mozilla’s Global Sprint is a fun\, fast-paced and two-day co
+ llaborative event to hack and build projects for a healthy Internet. A div
+ erse network of scientists\, educators\, artists\, engineers and others co
+ me together in person and online to innovate in the open.
+URL:https://reps.mozilla.org/e/2017-mozilla-global-sprint-indore-india/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5636598258
+X-COORDINATES-LON:75.918931067
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

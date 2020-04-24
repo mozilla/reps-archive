@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5347
+CLASS:PUBLIC
+DTSTAMP:20200423T153403Z
+DTSTART:20160414T050000Z
+DTEND:20160414T090000Z
+LOCATION:SZABIST Islamabad\, Islamabad\, Pakistan
+SUMMARY:FSA Camp Islamabad 2016
+DESCRIPTION:We are holding an FSA Camp in Islamabad. FSA from different un
+ iversities in the city are invited to get hands-on information on differen
+ t projects like the FSA program\, Firefox\, Campus Campaign\, Connected De
+ vices IOT and How to Contribute &amp; Get Involved in Mozilla.
+URL:https://reps.mozilla.org/e/fsa-camp-islamabad-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:33.6771994373
+X-COORDINATES-LON:73.0679798091
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

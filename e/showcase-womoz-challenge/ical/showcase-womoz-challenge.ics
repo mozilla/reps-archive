@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4704
+CLASS:PUBLIC
+DTSTAMP:20200423T162621Z
+DTSTART:20151018T150000Z
+DTEND:20151018T183000Z
+LOCATION:FERMENTUSE\, Riviera 3\, Abidjan\, Ivory Coast
+SUMMARY:SHOWCASE WOMOZ CHALLENGE
+DESCRIPTION:SHOWCASE WOMOZ CHALLENGE is a prelude to the challenge womoz e
+ vent which aims to try a new method of approach in the middle of young wom
+ en to know their interest center.\nDuring this event two workshops were pl
+ anned\;\nWorkshop 1: creation of a mobile application for firefox bones. -
+ Generate Your ideas\nAelier 2: Create Media for Firefox OS and Firefox. - 
+ Explorer and Firefox Firefox OS.\nWorkshop 3: Snacks :)
+URL:https://reps.mozilla.org/e/showcase-womoz-challenge/
+SEQUENCE:3
+X-COORDINATES-LAT:5.314722576
+X-COORDINATES-LON:-4.0018555
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

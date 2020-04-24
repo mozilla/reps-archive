@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2457
+CLASS:PUBLIC
+DTSTAMP:20200423T193103Z
+DTSTART:20140628T140000Z
+DTEND:20140628T170000Z
+LOCATION:Open Labs\, Tirana\, Albania
+SUMMARY:l10n Marathon
+DESCRIPTION:We will have a small gathering and start the localization of w
+ ww.webmaker.org and www.firefoxos.com in Albanian to have it finished on t
+ he same day
+URL:https://reps.mozilla.org/e/l10n-marathon/
+SEQUENCE:6
+X-COORDINATES-LAT:41.321921822
+X-COORDINATES-LON:19.8165720105
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2626
+CLASS:PUBLIC
+DTSTAMP:20200423T190539Z
+DTSTART:20140906T043000Z
+DTEND:20140906T123000Z
+LOCATION:Indore Institute of Science and Technology \, Approach Road\, Ind
+ ore\, Indore\, India
+SUMMARY:Developer Bootcamp @Indore
+DESCRIPTION:To Encourage the Existing developers to develop apps for Firef
+ ox OS and provide them a clear Perspective about what Mozilla is and what 
+ Firefox OS is.To teach people how easy it is to port their existing HTML5 
+ apps to Firefox OS and also to teach the beginners how to create apps usin
+ g webmaker tools such as Appmaker.
+URL:https://reps.mozilla.org/e/developer-bootcamp-indore/
+SEQUENCE:11
+X-COORDINATES-LAT:22.7172509015
+X-COORDINATES-LON:75.8660125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

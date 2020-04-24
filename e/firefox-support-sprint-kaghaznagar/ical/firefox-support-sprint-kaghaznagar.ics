@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7851
+CLASS:PUBLIC
+DTSTAMP:20200423T092451Z
+DTSTART:20180609T093000Z
+DTEND:20180609T113000Z
+LOCATION:Computer Institute\,Kaghaznagar\, Kaghaznagar\, India
+SUMMARY:Firefox Support Sprint  - Kaghaznagar
+DESCRIPTION:As a part of new Support Sprint tool launch \, a beta tool tha
+ t will enable Mozillians like you to reply to reviews of Firefox for Andro
+ id in your own language. We’ll be testing this tool through the Firefox 
+ Support Sprint\, a Sprint for all Mozillians that want to help Firefox for
+  Android users in their language.
+URL:https://reps.mozilla.org/e/firefox-support-sprint-kaghaznagar/
+SEQUENCE:1
+X-COORDINATES-LAT:19.3639208506
+X-COORDINATES-LON:79.4904899527
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

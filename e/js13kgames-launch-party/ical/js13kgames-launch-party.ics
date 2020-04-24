@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6828
+CLASS:PUBLIC
+DTSTAMP:20200423T104750Z
+DTSTART:20170814T160000Z
+DTEND:20170814T190000Z
+LOCATION:Codility HQ\, Dobra 56/66\, Warsaw\, Poland
+SUMMARY:Js13kGames Launch Party
+DESCRIPTION:A special edition of the regular Gamedev.js Warsaw meetups - t
+ his time celebrating the start of the sixth year of the js13kGames online 
+ competition.
+URL:https://reps.mozilla.org/e/js13kgames-launch-party/
+SEQUENCE:1
+X-COORDINATES-LAT:52.2426949
+X-COORDINATES-LON:21.0241913
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

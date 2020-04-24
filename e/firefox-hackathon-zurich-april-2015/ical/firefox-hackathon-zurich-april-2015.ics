@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5232
+CLASS:PUBLIC
+DTSTAMP:20200423T152846Z
+DTSTART:20160430T083000Z
+DTEND:20160430T160000Z
+LOCATION:Liip\, Limmatstrasse 188\, Zürich\, Zurich\, Switzerland
+SUMMARY:Firefox Hackathon Zurich April 2016
+DESCRIPTION:We will organize a Firefox Hackathon. We&#39;ll provide you with s
+ ome insight on how to get started coding for Firefox. Apart from that we&#39;l
+ l have some other interesting contribution opportunitites.
+URL:https://reps.mozilla.org/e/firefox-hackathon-zurich-april-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:47.3861458815
+X-COORDINATES-LON:8.52932453112
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

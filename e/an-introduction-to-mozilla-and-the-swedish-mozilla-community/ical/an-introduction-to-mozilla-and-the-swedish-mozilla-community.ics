@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1798
+CLASS:PUBLIC
+DTSTAMP:20200423T202551Z
+DTSTART:20140220T110000Z
+DTEND:20140220T120000Z
+LOCATION:IT university\, Gothenburg\, Sweden
+SUMMARY:An introduction to Mozilla and the Swedish Mozilla community
+DESCRIPTION:In this lecture amid at students attending the IT-university i
+ n Gothenburg. I will introduce the students to what Mozilla are all about\
+ , tell them about our local community and how they can get involved in our
+  projects.
+URL:https://reps.mozilla.org/e/an-introduction-to-mozilla-and-the-swedish-
+ mozilla-community/
+SEQUENCE:3
+X-COORDINATES-LAT:57.7061099285
+X-COORDINATES-LON:11.9364988795
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

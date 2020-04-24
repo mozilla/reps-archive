@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3584
+CLASS:PUBLIC
+DTSTAMP:20200423T173908Z
+DTSTART:20150325T160000Z
+DTEND:20150327T230000Z
+LOCATION:INSTITUTO TECNOLÓGICO DE TUXTEPEC.\, Tuxtepec\, Mexico
+SUMMARY:Freesecurity
+DESCRIPTION:Freesecurity is an event organized by students and teachers Gu
+ slittux club Technological Institute of Tuxtepec\, with the aim of bringin
+ g students of the institution and the general public to the different reco
+ gnized in the field of Information Security and Free Software personalitie
+ s.\n\nMozilla and give talks on security issues within Mozilla.
+URL:https://reps.mozilla.org/e/freesecurity/
+SEQUENCE:3
+X-COORDINATES-LAT:18.0883682754
+X-COORDINATES-LON:-96.1028137221
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

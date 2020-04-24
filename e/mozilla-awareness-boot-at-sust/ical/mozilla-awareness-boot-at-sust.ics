@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3678
+CLASS:PUBLIC
+DTSTAMP:20200423T172551Z
+DTSTART:20150510T040000Z
+DTEND:20150510T110000Z
+LOCATION:Shahjalal University of  Science and Technology\,  Sylhet\, Sylhe
+ t\, Bangladesh
+SUMMARY:Mozilla Awareness Booth at SUST
+DESCRIPTION:On this University\, the new semester has just started. About 
+ 1000 students has been admitted. There is an event called Organizing Week 
+ by the university for the new comers. All the valid organizations will set
+  up their booths and attract the newly admitted students. I&#39;ll also set up
+  a booth there and recruit mozillians as well as FSAs. They will also be g
+ iven swags as the other organizations do gift something to the students wh
+ ile they visit the booth.
+URL:https://reps.mozilla.org/e/mozilla-awareness-boot-at-sust/
+SEQUENCE:10
+X-COORDINATES-LAT:24.8996498
+X-COORDINATES-LON:91.8775177002
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

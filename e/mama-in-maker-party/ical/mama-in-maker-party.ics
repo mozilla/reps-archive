@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1355
+CLASS:PUBLIC
+DTSTAMP:20200423T210450Z
+DTSTART:20130928T133000Z
+DTEND:20130928T143000Z
+LOCATION:Meraj Imran&#39;s Residencee\, Warangal\, India
+SUMMARY:Mama In Maker Party
+DESCRIPTION:This is a small kitchen table maker party hosting by me to tea
+ ch about web to mama(uncle) who is an a/c car technician.
+URL:https://reps.mozilla.org/e/mama-in-maker-party/
+SEQUENCE:2
+X-COORDINATES-LAT:17.9751409133
+X-COORDINATES-LON:79.6012687683
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

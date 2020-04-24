@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5574
+CLASS:PUBLIC
+DTSTAMP:20200423T151807Z
+DTSTART:20160624T110500Z
+DTEND:20160624T130500Z
+LOCATION:ICFAI University\, Hyderabad\, India
+SUMMARY:Understanding Mozilla Community better with bBayConnect
+DESCRIPTION:Motivations for the meet-up:\nTo brief the local community abo
+ ut various leadership goals\n\nTo discuss a few strategies with respect to
+  campus campaign\nestablish contacts &amp; leads that will be helpful during t
+ he campus campaign\n\nBranding and Advertising skills\n\nUnderstanding Com
+ munity and work culture.
+URL:https://reps.mozilla.org/e/understanding-mozilla-community-better-with
+ -bbayconnect/
+SEQUENCE:0
+X-COORDINATES-LAT:17.4099426093
+X-COORDINATES-LON:78.4689044952
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

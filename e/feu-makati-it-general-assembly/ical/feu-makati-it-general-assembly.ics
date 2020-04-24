@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5613
+CLASS:PUBLIC
+DTSTAMP:20200423T150320Z
+DTSTART:20160820T050000Z
+DTEND:20160820T080000Z
+LOCATION:FEU Makati\, Makati City\, Philippines
+SUMMARY:FEU Makati\, IT General Assembly
+DESCRIPTION:This event aims to introduce Mozilla to the students and get t
+ hem informed of how they can contribute and learn by helping to keep the W
+ eb open. We will talk about the Mozilla mission\, the community and the pr
+ ojects that we are working on that they can also contribute to. Also intro
+ ducing Firefox Developer Tools to student designers and developers
+URL:https://reps.mozilla.org/e/feu-makati-it-general-assembly/
+SEQUENCE:5
+X-COORDINATES-LAT:14.5736198506
+X-COORDINATES-LON:121.0217205
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

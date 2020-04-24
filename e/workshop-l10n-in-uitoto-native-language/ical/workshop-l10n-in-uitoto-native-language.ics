@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4558
+CLASS:PUBLIC
+DTSTAMP:20200423T164103Z
+DTSTART:20150916T190000Z
+DTEND:20150916T220000Z
+LOCATION:Nationa University of Colombian \, Bogota\, Colombia\, Bogota\, C
+ olombia
+SUMMARY:Workshop l10n in uitoto native language
+DESCRIPTION:Training l10n process for a team group of translators. The wor
+ kshops will be implemented on l10n in uitoto native language of Colombia.
+URL:https://reps.mozilla.org/e/workshop-l10n-in-uitoto-native-language/
+SEQUENCE:1
+X-COORDINATES-LAT:4.63345622662
+X-COORDINATES-LON:-74.0842562916
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

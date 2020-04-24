@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@43
+CLASS:PUBLIC
+DTSTAMP:20200423T230727Z
+DTSTART:20120810T220000Z
+DTEND:20120811T010000Z
+LOCATION:Symbiosis Institute of Computer Studies &amp; Research\, Pune\, India
+SUMMARY:MozClub at SICSR
+DESCRIPTION:As part of Mozilla Summer Code Party 2012\, Mozilla Pune is or
+ ganizing &#34; MozClub SICSR &#34; for the students of\nSICSR\, Pune\, India on 11
+ th August 2012.\nThis is an event aimed at Working and experimenting with 
+ Webmaking tools and creating an Official Mozilla Club for SICSR.\n\n\nDate
+ : 11th August 2012\nTimings: 3:30 p.m. - 5:30 p.m.\nLocation: 707\, Symbio
+ sis Institute of Computer Studies &amp; Research\, Atur Centre\, Model Colony\
+ , Pune.
+URL:https://reps.mozilla.org/e/mozclub-at-sicsr/
+SEQUENCE:0
+X-COORDINATES-LAT:18.5336941104
+X-COORDINATES-LON:73.833296299
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

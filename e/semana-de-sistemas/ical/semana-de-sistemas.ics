@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1522
+CLASS:PUBLIC
+DTSTAMP:20200423T204916Z
+DTSTART:20131122T130000Z
+DTEND:20131122T150000Z
+LOCATION:Ave. Km. 9 Blanco Galindo\, Cochabamba\, Bolivia
+SUMMARY:Semana de Sistemas
+DESCRIPTION:This event is held each year at the Salesian University in the
+  city of Cochabamba. In this entire week\, students receive training in th
+ e new technologies. Mozilla Bolivia will be present giving training on Fir
+ efox OS and the developer of the application for this system OS
+URL:https://reps.mozilla.org/e/semana-de-sistemas/
+SEQUENCE:2
+X-COORDINATES-LAT:-17.3920989233
+X-COORDINATES-LON:-66.2244504692
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@683
+CLASS:PUBLIC
+DTSTAMP:20200423T214727Z
+DTSTART:20130427T150000Z
+DTEND:20130427T220000Z
+LOCATION:TBD\, Cordoba\, Argentina
+SUMMARY:FLISOL 2013\, Ciudad de Córdoba
+DESCRIPTION:Flisol is a Free software installation festival organized in L
+ atin America in different cities. I will participate in the Córdoba&#39;s cit
+ y edition\, giving a talk about Firefox and how to have a better web exper
+ ience with your browser
+URL:https://reps.mozilla.org/e/flisol-2013-ciudad-de-cordoba/
+SEQUENCE:1
+X-COORDINATES-LAT:-31.4169442296
+X-COORDINATES-LON:-64.1780090332
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

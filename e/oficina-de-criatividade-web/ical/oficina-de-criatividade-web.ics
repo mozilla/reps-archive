@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2295
+CLASS:PUBLIC
+DTSTAMP:20200423T193856Z
+DTSTART:20140610T170000Z
+DTEND:20140612T210000Z
+LOCATION:DAS Noroeste (Rua Salvador Allende\, S/N\, Jardim Nova Esperança
+ \, Campinas/São Paulo)\, Campinas\, Brazil
+SUMMARY:Oficina de Criatividade Web (Creativity Workshop Web)
+DESCRIPTION:The Creativity Workshop Web Mozilla Webmaker will be held on 1
+ 0th and 12th of June at 14h\, the event&#39;s goal is to promote and stimulate
+  the development of the web through web programming activities and promote
+  free software\, specifically the Mozilla Firefox browser . The event will
+  take place at DAS NOROESTE Campinas (Rua Salvador Allende\, S / N\, Jardi
+ m Nova Esperança\, Campinas / São Paulo)\, the target audience is young 
+ people aged 12 to 28 years.
+URL:https://reps.mozilla.org/e/oficina-de-criatividade-web/
+SEQUENCE:4
+X-COORDINATES-LAT:-22.8913576769
+X-COORDINATES-LON:-47.1042251587
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

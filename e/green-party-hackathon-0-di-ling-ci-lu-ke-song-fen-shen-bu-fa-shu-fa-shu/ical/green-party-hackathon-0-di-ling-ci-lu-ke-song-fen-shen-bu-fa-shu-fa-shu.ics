@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2449
+CLASS:PUBLIC
+DTSTAMP:20200423T193140Z
+DTSTART:20140628T010000Z
+DTEND:20140628T100000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Jhongshan District\
+ , Taiwan
+SUMMARY:Green Party Hackathon #0  第零次綠客松：分身不乏術/伐
+ 樹
+DESCRIPTION:Taiwan Green Party&#39;s first hackathon\, a whole day of coding/w
+ orking to hacking the party and politic on citizens\, political revolution
+ \, elections.\n\n史上頭一遭由政黨舉辦的駭客松，預計透過
+ 一整天的寫程式/故事的具體行動，改變綠黨、改變政治
+ 。歡迎對於公民參與、政治變革、hacking 年底九合一選舉
+ 有興趣的朋友參加，不限綠黨黨員、專案不限只在綠黨
+ 選舉使用。
+URL:https://reps.mozilla.org/e/green-party-hackathon-0-di-ling-ci-lu-ke-so
+ ng-fen-shen-bu-fa-shu-fa-shu/
+SEQUENCE:6
+X-COORDINATES-LAT:25.0667419115
+X-COORDINATES-LON:121.526292086
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

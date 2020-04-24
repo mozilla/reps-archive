@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3881
+CLASS:PUBLIC
+DTSTAMP:20200423T171820Z
+DTSTART:20150603T170000Z
+DTEND:20150603T190000Z
+LOCATION:Liip\, Feldstrasse 133\, Zürich\, Zurich\, Switzerland
+SUMMARY:MozillaCH Meetup - Why should you use Firefox?
+DESCRIPTION:Michael will talk about the newest features of Firefox\, what 
+ we do for privacy and be available for questions :)\n\nFurther we&#39;d like t
+ o hear your input. What do you expect of Firefox and Mozilla?
+URL:https://reps.mozilla.org/e/why-should-you-use-firefox/
+SEQUENCE:4
+X-COORDINATES-LAT:47.3854775892
+X-COORDINATES-LON:8.53013348562
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

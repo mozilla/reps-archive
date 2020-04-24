@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3413
+CLASS:PUBLIC
+DTSTAMP:20200423T180431Z
+DTSTART:20150125T223000Z
+DTEND:20150126T013000Z
+LOCATION:Radhavenu apartment\, Nashik\, India
+SUMMARY:mozmovie for Privacy day!
+DESCRIPTION:As we are celebrating Privacy Day on 28th of this month. Nashi
+ k Mozilla organized for a Mozmovie . To make the FSAs aware on general pri
+ vacy and security happenings we choose to show &#34;Internets Own Boy&#34; A docum
+ entary on Aaron Swartz.\n\nhttps://www.youtube.com/watch?v=vXr-2hwTk58
+URL:https://reps.mozilla.org/e/mozmovie-for-privacy-day/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9949969
+X-COORDINATES-LON:73.753658
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

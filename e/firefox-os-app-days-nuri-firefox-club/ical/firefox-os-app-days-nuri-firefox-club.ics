@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3163
+CLASS:PUBLIC
+DTSTAMP:20200423T181758Z
+DTSTART:20141213T020000Z
+DTEND:20141213T090000Z
+LOCATION:STMIK Nusa Mandiri\, Jakarta\, Indonesia
+SUMMARY:Firefox OS App Days - Nuri Firefox Club
+DESCRIPTION:For the first time\, Nuri Firefox Club from STMIK Nusa Mandiri
+  hold Firefox App Days in their campus. Attendees will be introduced to Fi
+ refox OS\, how to develop the apps\, do some hacking and submit their apps
+  to Firefox Marketplace. This event is a one-day event and hosted by FSA f
+ rom Nuri Firefox Club
+URL:https://reps.mozilla.org/e/firefox-os-app-days-nuri-firefox-club/
+SEQUENCE:3
+X-COORDINATES-LAT:-6.18139111338
+X-COORDINATES-LON:106.84283638
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

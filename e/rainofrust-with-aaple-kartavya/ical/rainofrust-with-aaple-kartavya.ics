@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6701
+CLASS:PUBLIC
+DTSTAMP:20200423T110409Z
+DTSTART:20170603T043000Z
+DTEND:20170603T083000Z
+LOCATION:Ganesh Kala Krida Manch\, Pune\, India
+SUMMARY:#RainOfRust with Aaple Kartavya
+DESCRIPTION:This is an introduction event which would be attended by Aaple
+  Kartavya volunteers.
+URL:https://reps.mozilla.org/e/rainofrust-with-aaple-kartavya/
+SEQUENCE:2
+X-COORDINATES-LAT:18.5016242915
+X-COORDINATES-LON:73.8567252166
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

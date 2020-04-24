@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6254
+CLASS:PUBLIC
+DTSTAMP:20200423T115207Z
+DTSTART:20161020T124000Z
+DTEND:20161020T140000Z
+LOCATION:UFF\, Niteroi\, Brazil
+SUMMARY:DevWeek UFF
+DESCRIPTION:This is the academic week at the Fluminense Federal University
+ . Students from all IT related courses have a week long of events with tal
+ ks and workshops.\n\nI gave a talk at the event about Game Development wit
+ h PhaserJS
+URL:https://reps.mozilla.org/e/devweek-uff/
+SEQUENCE:0
+X-COORDINATES-LAT:-22.840320721
+X-COORDINATES-LON:-42.9682615399
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

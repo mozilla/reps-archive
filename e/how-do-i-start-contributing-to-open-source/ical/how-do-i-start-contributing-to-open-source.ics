@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7369
+CLASS:PUBLIC
+DTSTAMP:20200423T095706Z
+DTSTART:20180224T043000Z
+DTEND:20180224T113000Z
+LOCATION:Zakir Husain College of Engineering and Technology\, Aligarh Musl
+ im University\, Aligarh - 202001\, Aligarh\, India
+SUMMARY:How do I start contributing to Open Source?
+DESCRIPTION:Introductory session on finding and patching bugs for Mozilla\
+ n\n- How one can build a basic addon and contribute upstream.\n\n- Differe
+ nt pathways to contribute to Mozilla\n\nThe description can be found on Et
+ herpad
+URL:https://reps.mozilla.org/e/how-do-i-start-contributing-to-open-source/
+SEQUENCE:12
+X-COORDINATES-LAT:27.9148985
+X-COORDINATES-LON:78.0758678
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

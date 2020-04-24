@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5158
+CLASS:PUBLIC
+DTSTAMP:20200423T153721Z
+DTSTART:20160328T060000Z
+DTEND:20160401T120000Z
+LOCATION:Vilnius city\, Vilnius\, Lithuania
+SUMMARY:WebVR and Privacy tour Lithuania
+DESCRIPTION:During a period of 5 days\, 4 Mozillians in Lithuania will be 
+ visiting various universities\, schools\, libraries and other public place
+ s in order to introduce and promote WebVR and Privacy matters to various p
+ eople.
+URL:https://reps.mozilla.org/e/webvr-and-privacy-tour-lithuania/
+SEQUENCE:4
+X-COORDINATES-LAT:54.6853579431
+X-COORDINATES-LON:25.2870969765
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7633
+CLASS:PUBLIC
+DTSTAMP:20200423T093525Z
+DTSTART:20180512T043000Z
+DTEND:20180512T123000Z
+LOCATION:CMR\, Hyderabad\, Hyderabad\, India
+SUMMARY:Rust Hack Series - Day 3
+DESCRIPTION:It is a series of part of the Rust Hack Series\,2018. (https:/
+ /reps.mozilla.org/e/rust-hack-series/) This week would be based on Effecti
+ ve Rust in other words we would be working on Advanced Concepts of Rust.
+URL:https://reps.mozilla.org/e/rust-hack-series-day-3/
+SEQUENCE:3
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

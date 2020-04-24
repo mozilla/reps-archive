@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3383
+CLASS:PUBLIC
+DTSTAMP:20200423T175738Z
+DTSTART:20150213T053000Z
+DTEND:20150213T073000Z
+LOCATION:Lala Lajpat Rai Institute of Engineering and Technology Moga- Fer
+ ozepur G.T. Road\, Near P.S Sadar\,  Moga\, Punjab 142001\, Moga\, India
+SUMMARY:MozMoga
+DESCRIPTION:This event would be based on making the folks familiar with Mo
+ zilla and its products. Later on\, about Firefox OS knowledge will be give
+ n to students. Hands on workshop for making Firefox OS apps using WebIDE w
+ ill also be introduced to students.\n\nSession on Webmaker will also be co
+ nducted followed by club formation.Last but not least\, ways about contrib
+ uting Mozilla will be imparted to students.
+URL:https://reps.mozilla.org/e/mozmoga/
+SEQUENCE:1
+X-COORDINATES-LAT:30.4833951676
+X-COORDINATES-LON:74.3481436372
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

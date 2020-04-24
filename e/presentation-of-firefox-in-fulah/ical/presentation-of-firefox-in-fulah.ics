@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@18
+CLASS:PUBLIC
+DTSTAMP:20200423T230747Z
+DTSTART:20120804T100000Z
+DTEND:20120804T160000Z
+LOCATION:Point Jeunes\, Tour Réservoir - Le Havre\, Le Havre\, France
+SUMMARY:Presentation of Firefox in Fulah 
+DESCRIPTION:I am planning to present Firefox in Fulah to users here in Fra
+ nce. The event take place in Le Havre\, France on the anniversary of our w
+ ebsite www.pulaagu.com (Facebook page here). \n\nWe hold this event every 
+ year but this year the theme is Firefox in Fulah and we will be spreading 
+ the word about Firefox and Mozilla in general. \n\n
+URL:https://reps.mozilla.org/e/presentation-of-firefox-in-fulah/
+SEQUENCE:0
+X-COORDINATES-LAT:49.5099194638
+X-COORDINATES-LON:0.175502300262
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

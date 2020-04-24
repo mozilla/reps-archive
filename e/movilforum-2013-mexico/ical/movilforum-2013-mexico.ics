@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1320
+CLASS:PUBLIC
+DTSTAMP:20200423T210627Z
+DTSTART:20130925T133000Z
+DTEND:20130927T000000Z
+LOCATION:WTC - Pepsi Center\, Mexico City\, Mexico
+SUMMARY:MovilForum 2013 Mexico
+DESCRIPTION:Movilforum created with the aim to become the leading forum fo
+ r innovation and mobility in Latin America.\n\nMovilforum show solutions f
+ rom Telefonica and partners to revolutionize business processes and increa
+ se productivity.\n\nMovilforum Telefónica promotes collaboration between 
+ the business community and government throughout Latin America for the dev
+ elopment of services and digital applications.
+URL:https://reps.mozilla.org/e/movilforum-2013-mexico/
+SEQUENCE:6
+X-COORDINATES-LAT:19.3947459373
+X-COORDINATES-LON:-99.174656868
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

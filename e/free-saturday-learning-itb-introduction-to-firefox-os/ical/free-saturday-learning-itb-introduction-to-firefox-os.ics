@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3361
+CLASS:PUBLIC
+DTSTAMP:20200423T180605Z
+DTSTART:20150124T020000Z
+DTEND:20150124T050000Z
+LOCATION:Comlabs ITB\, Bandung\, Indonesia
+SUMMARY:Free Saturday Learning ITB – Introduction to Firefox OS
+DESCRIPTION:Free Saturday Learning (FSL) is a open weekly talk event that 
+ being arranged by Comlabs at Institut Teknologi Bandung (ITB) where people
+  can learn new things for free. In January\, Mozilla Indonesia and Comlabs
+  ITB collaborate together to hold Firefox OS-themed FSL. People can learn 
+ what Firefox OS is\, how to develop apps for Firefox OS and how to contrib
+ ute to Firefox OS development.
+URL:https://reps.mozilla.org/e/free-saturday-learning-itb-introduction-to-
+ firefox-os/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.88915027868
+X-COORDINATES-LON:107.610601902
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

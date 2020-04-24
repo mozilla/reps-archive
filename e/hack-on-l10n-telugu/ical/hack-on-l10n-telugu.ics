@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5628
+CLASS:PUBLIC
+DTSTAMP:20200423T151200Z
+DTSTART:20160717T070000Z
+DTEND:20160717T160000Z
+LOCATION:Tirupati\, Tirupati\, India
+SUMMARY:Hack on l10n-Telugu
+DESCRIPTION:This event aims to hack telugu localization in which few SUMO 
+ articles are edited/localized into telugu. More than 1000 Strings will be 
+ localized. Event is open for everyone.
+URL:https://reps.mozilla.org/e/hack-on-l10n-telugu/
+SEQUENCE:2
+X-COORDINATES-LAT:13.6127047356
+X-COORDINATES-LON:79.408557415
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

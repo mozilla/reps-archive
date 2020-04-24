@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2794
+CLASS:PUBLIC
+DTSTAMP:20200423T190450Z
+DTSTART:20140906T180000Z
+DTEND:20140906T220000Z
+LOCATION:CascoStation Coworking\, San Felipe\, Panama
+SUMMARY:Developing for Firefox OS
+DESCRIPTION:This is a Firefox OS Workshop that I&#39;m going to run in Panamá
+  City. I&#39;m also taking this opportunity to meet with the new Mozilla Panam
+ a community and try to help them grow.
+URL:https://reps.mozilla.org/e/developing-for-firefox-os/
+SEQUENCE:3
+X-COORDINATES-LAT:8.95110382847
+X-COORDINATES-LON:-79.5338518023
+X-COUNTRY-CODE:pa
+END:VEVENT
+
+END:VCALENDAR

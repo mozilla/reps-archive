@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8252
+CLASS:PUBLIC
+DTSTAMP:20200423T085121Z
+DTSTART:20181118T150000Z
+DTEND:20181118T170000Z
+LOCATION:Universidad César Vallejo - Ate (km 8.2\,\, Carr. Central)\, Ate
+ \, Peru
+SUMMARY:A-Frame @ Seminario Nacional de Ingeniería
+DESCRIPTION:Workshop about A-Frame aimed to students from the Universidad 
+ César Vallejo within the activities of the Seminario Nacional de Ingenier
+ ía
+URL:https://reps.mozilla.org/e/a-frame-seminario-nacional-de-ingenieria/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.023055
+X-COORDINATES-LON:-76.910434
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

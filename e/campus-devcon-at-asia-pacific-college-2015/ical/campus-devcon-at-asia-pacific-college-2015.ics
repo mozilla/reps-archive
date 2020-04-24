@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4280
+CLASS:PUBLIC
+DTSTAMP:20200423T165705Z
+DTSTART:20150731T050000Z
+DTEND:20150731T080000Z
+LOCATION:Asia Pacific College\, Makati City\, Philippines
+SUMMARY:Campus DevCon at Asia Pacific College 2015
+DESCRIPTION:Campus DevCon at APC is a gathering at Asia Pacific College th
+ at aims to augment the academic learnings of students with up-to-date tren
+ ds in the IT industry. The event converges students taking up Computer Sci
+ ence or other IT-related courses.
+URL:https://reps.mozilla.org/e/campus-devcon-at-asia-pacific-college-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:14.530787381
+X-COORDINATES-LON:121.021756411
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

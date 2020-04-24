@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1389
+CLASS:PUBLIC
+DTSTAMP:20200423T205600Z
+DTSTART:20131101T140000Z
+DTEND:20131102T180000Z
+LOCATION:Hotel Camino Real\, Villahermosa.\, Villahermosa\, Mexico
+SUMMARY:Firefox OS at IdeasDisruptivas conf
+DESCRIPTION:IdeasDisruptivas invited us to show Firefox OS on a stand at t
+ heir event.\n\nWe will got time for speech and a stand to show the best of
+  Firefox OS to the attendees.\nThere will be around 300 people + visitors.
+ \nThere will be local and national business showing their work and start-u
+ ps.
+URL:https://reps.mozilla.org/e/firefox-os-at-ideasdisruptivas-conf/
+SEQUENCE:3
+X-COORDINATES-LAT:18.0016697961
+X-COORDINATES-LON:-92.9463207722
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@913
+CLASS:PUBLIC
+DTSTAMP:20200423T213410Z
+DTSTART:20130615T130000Z
+DTEND:20130615T150000Z
+LOCATION:TBD\, Bulawayo\, Zimbabwe
+SUMMARY:Mozilla ZImbabwe Community meet-up
+DESCRIPTION:Community building meet-up with interested contributors. Contr
+ ibutors will be informed on contribution opportunities and Introduced to M
+ ozilla in general.
+URL:https://reps.mozilla.org/e/mozilla-zimbabwe-community-meet-up-1/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.1532969328
+X-COORDINATES-LON:28.5828208923
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

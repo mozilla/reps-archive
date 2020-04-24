@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1131
+CLASS:PUBLIC
+DTSTAMP:20200423T212018Z
+DTSTART:20130809T080000Z
+DTEND:20130809T163000Z
+LOCATION:Maloka\, Bogotá\, Colombia
+SUMMARY:Firefox OS Launching Party Bogotá-Colombia
+DESCRIPTION:Firefox OS is launched in Colombia and let&#39;s celebrate!
+URL:https://reps.mozilla.org/e/firefox-os-launching-party-bogota-colombia/
+SEQUENCE:5
+X-COORDINATES-LAT:4.6550689019
+X-COORDINATES-LON:-74.1096496582
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

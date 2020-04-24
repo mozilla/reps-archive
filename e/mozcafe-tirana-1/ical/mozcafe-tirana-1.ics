@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2235
+CLASS:PUBLIC
+DTSTAMP:20200423T195118Z
+DTSTART:20140510T140000Z
+DTEND:20140510T170000Z
+LOCATION:Tirana Ekspres\, Tirana\, Albania
+SUMMARY:MozCafé Tirana #1
+DESCRIPTION:MozCafé Tirana #1 is the first event of its kind in Albania\,
+  where the local Mozilla community gathers to talk about everything Mozill
+ a related\, in an informal way\, without forgetting to have fun of course!
+ \n\nIn the first event we will have a look at the brand new FoxConn tablet
+ \, which Mozilla Rep Elio Qoshi received as part of the Tablet Contributio
+ n Program.\nWe will also discuss about the Firefox OS Launch Team which ha
+ s been created.
+URL:https://reps.mozilla.org/e/mozcafe-tirana-1/
+SEQUENCE:1
+X-COORDINATES-LAT:41.3267515986
+X-COORDINATES-LON:19.824647516
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

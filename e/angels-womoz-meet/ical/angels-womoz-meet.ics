@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4647
+CLASS:PUBLIC
+DTSTAMP:20200423T161451Z
+DTSTART:20151116T063000Z
+DTEND:20151116T103000Z
+LOCATION:Anchu&#39;s Cafe\, Bhopal\, India
+SUMMARY:Angel&#39;s Womoz Meet
+DESCRIPTION:This event is for all new Womoz of the city who are confused t
+ o choose the project to contribute in Mozilla\, Also who are willing to jo
+ in Mozilla Mission but unaware of the projects technical as well as non te
+ chnical can join this event\, you will have a quality time with us\, shari
+ ng knowledge\, fun\, photos will be there.
+URL:https://reps.mozilla.org/e/angels-womoz-meet/
+SEQUENCE:5
+X-COORDINATES-LAT:23.427758862
+X-COORDINATES-LON:77.2993468679
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

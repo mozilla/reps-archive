@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6567
+CLASS:PUBLIC
+DTSTAMP:20200423T111017Z
+DTSTART:20170511T043000Z
+DTEND:20170511T073000Z
+LOCATION:Kaghaznagar Institute of Computers\, Kaghaznagar\, India
+SUMMARY:Nightly Footrace #1
+DESCRIPTION:As we all know we have a great Mozilla community around India.
+  We have a large number of dedicated students\, developers and evangelists
+  who are really passionate about Mozilla. We have seen that very few peopl
+ e in India actually know about Firefox Nightly Desktop.So it needs a littl
+ e bit of general promotion\, which will pump to bring a good number of tec
+ h-savvy\, power users who will be our active community members.
+URL:https://reps.mozilla.org/e/nightly-footrace-1/
+SEQUENCE:4
+X-COORDINATES-LAT:19.3633810121
+X-COORDINATES-LON:79.4556355476
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6386
+CLASS:PUBLIC
+DTSTAMP:20200423T112344Z
+DTSTART:20170315T103000Z
+DTEND:20170315T123000Z
+LOCATION:Institute Of Technology\, Nirma University\, Ahmedabad\, India
+SUMMARY:Privacy Workshop - II by MozNirma Club
+DESCRIPTION:This is 2nd\, Privacy awareness workshop for the Mozilla Nirma
+  Club members. Agenda can be track here : https://public.etherpad-mozilla.
+ org/p/MozNirma
+URL:https://reps.mozilla.org/e/privacy-workshop-ii-for-moznirma-club/
+SEQUENCE:3
+X-COORDINATES-LAT:23.0359279041
+X-COORDINATES-LON:70.6391608715
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4250
+CLASS:PUBLIC
+DTSTAMP:20200423T165137Z
+DTSTART:20150817T043000Z
+DTEND:20150817T103000Z
+LOCATION:The Ashok Leyland School\,\, Hosur\, India
+SUMMARY:Maker Party Hosur
+DESCRIPTION:Maker Party Hosur  is Mozilla&#39;s global campaign to teach the w
+ eb. Through  thousands of community-run events around the world\, Maker Pa
+ rty unites  educators\, organizations and enthusiastic web users with hand
+ s-on  learning and making. Visit the Maker Party to learn more: http://par
+ ty.webmaker.org
+URL:https://reps.mozilla.org/e/maker-party-hosur/
+SEQUENCE:2
+X-COORDINATES-LAT:12.7248276378
+X-COORDINATES-LON:77.8363685
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3966
+CLASS:PUBLIC
+DTSTAMP:20200423T163920Z
+DTSTART:20150919T043000Z
+DTEND:20150919T113000Z
+LOCATION:Faculty of Computer Science and Information Technology Universiti
+  Malaysia Sarawak 94300 Kota Samarahan SARAWAK\, MALAYSIA\, Kota.\, Malays
+ ia
+SUMMARY:Maker Party Malaysia
+DESCRIPTION:In celebration of the Maker Party Season\, we are organizing a
+  Maker Party for FSA\, where the attendees can have a deeper understanding
+   of the Webmaker project. In this session\, we will focus on the various 
+ tools of Webmaker and creating teaching kits. At the end of the training s
+ ession attendees will be more confident in creating their own maker partie
+ s and teach the others.
+URL:https://reps.mozilla.org/e/maker-party-malaysia/
+SEQUENCE:1
+X-COORDINATES-LAT:2.90871194289
+X-COORDINATES-LON:112.601917559
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

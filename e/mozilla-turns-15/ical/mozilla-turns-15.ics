@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@718
+CLASS:PUBLIC
+DTSTAMP:20200423T215715Z
+DTSTART:20130402T130000Z
+DTEND:20130402T140000Z
+LOCATION:Cafe Coffee Day - South City Mall\, Kolkata\, India
+SUMMARY:Mozilla Turns 15
+DESCRIPTION:This is a relatively small gathering of Mozillians from the Ko
+ lkata region to celebrate 15 years anniversary of Mozilla.
+URL:https://reps.mozilla.org/e/mozilla-turns-15/
+SEQUENCE:7
+X-COORDINATES-LAT:22.5013171375
+X-COORDINATES-LON:88.3618783951
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

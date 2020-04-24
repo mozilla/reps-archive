@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1416
+CLASS:PUBLIC
+DTSTAMP:20200423T203944Z
+DTSTART:20131218T160000Z
+DTEND:20131218T180000Z
+LOCATION:University of Strasbourg\, Strasbourg\, France
+SUMMARY:Womoz Talk in Strasbourg
+DESCRIPTION:I was invited bu Strasweb [1] to give a talk about womoz to a 
+ group of students at Stasbourg university.\nStrasWeb is a group of student
+ s students or alumni from Strasbourg University who work in the web (web d
+ evelopers\, designers...).\n\n[1]: https://strasweb.fr/
+URL:https://reps.mozilla.org/e/womoz-talk-in-strasbourg/
+SEQUENCE:3
+X-COORDINATES-LAT:48.5793328408
+X-COORDINATES-LON:7.76608943939
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

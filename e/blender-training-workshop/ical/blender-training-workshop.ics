@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5904
+CLASS:PUBLIC
+DTSTAMP:20200423T145516Z
+DTSTART:20160919T050000Z
+DTEND:20160923T120000Z
+LOCATION:Campus Numerique de la Francophonie\, Réduit\, Moka\, Mauritius
+SUMMARY:Blender Training Workshop
+DESCRIPTION:This is a 5-day training workshop on Blender that is organised
+  by the Agence Universitaire de la Francophonie and the Mauritius Institut
+ e of Education. I am one of the 15 participants attending this workshop. B
+ lender is an open source software for graphical design\, animation and inf
+ ographic.
+URL:https://reps.mozilla.org/e/blender-training-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:-20.2174353734
+X-COORDINATES-LON:57.4908256496
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

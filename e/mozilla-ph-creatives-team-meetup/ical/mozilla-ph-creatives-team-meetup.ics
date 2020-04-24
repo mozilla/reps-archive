@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2874
+CLASS:PUBLIC
+DTSTAMP:20200423T185437Z
+DTSTART:20140925T080000Z
+DTEND:20140925T100000Z
+LOCATION:Mozilla Community Space Manila\, Pasay City\, Philippines
+SUMMARY:Mozilla PH Creatives Team Meetup
+DESCRIPTION:Meetup with the new &amp; core members of the Mozilla PH Creatives
+  team. to Stage up the creative community in the country.
+URL:https://reps.mozilla.org/e/mozilla-ph-creatives-team-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5468646514
+X-COORDINATES-LON:121.016170621
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

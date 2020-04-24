@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4815
+CLASS:PUBLIC
+DTSTAMP:20200423T160653Z
+DTSTART:20151204T030000Z
+DTEND:20151204T110000Z
+LOCATION:WUB\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awareness Booth @WUB
+DESCRIPTION:4th WUB CSE FESTIVAL is scheduled to be held on 04-05 December
+ \, 2015. This grand event will be organized by the Dept. of CSE of the Wor
+ ld University of Bangladesh.\n\nDuring the festival\, various contests\, s
+ eminars\, workshops will be held for undergraduate students of different u
+ niversities. Besides\, college level students are also invited to take par
+ ticipation to enrich their knowledge\, expertise and ideas.
+URL:https://reps.mozilla.org/e/mozilla-awareness-booth-wub/
+SEQUENCE:3
+X-COORDINATES-LAT:23.7416026799
+X-COORDINATES-LON:90.3839045763
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

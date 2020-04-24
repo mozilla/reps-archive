@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3182
+CLASS:PUBLIC
+DTSTAMP:20200423T181559Z
+DTSTART:20141220T020000Z
+DTEND:20141220T090000Z
+LOCATION:Universtas Dian Nuswantoro\, Semarang\, Semarang\, Indonesia
+SUMMARY:UDINUS Maker Party
+DESCRIPTION:An event from Dian Nuswantoro University (UDINUS) in Semarang\
+ , Indonesia. \n\nThrough this event\, we aim to celebrate the Freedom of O
+ pen Source Software (FOSS) and introduce the advantages of using FOSS to p
+ ublic\, especially at campus. In line with that\, we also teach the web to
+  introduce the educational media from Mozilla Webmaker.\n\nThe event is or
+ ganized by UDINUS Firefox Club and Dinus Open Source Community\, an open s
+ ource community from the university.
+URL:https://reps.mozilla.org/e/udinus-maker-party/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.98125349412
+X-COORDINATES-LON:110.409912586
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3059
+CLASS:PUBLIC
+DTSTAMP:20200423T181742Z
+DTSTART:20141213T043000Z
+DTEND:20141213T123000Z
+LOCATION:Nashik District Maratha Vidya Prasarak Samaj&#39;s K.B.T. College of 
+ Engineering\, Udoji Maratha Boarding Campus\, Gangapur Road\, Nashik-42201
+ 3. Maharasht\, Nashik\, India
+SUMMARY:Marathi L10n\, Nashik
+DESCRIPTION:This event will be the first ever Localization event in Nashik
+  and will be focused on training the new and interested community members 
+ on how to translate in Marathi language. This event will help set up a Mar
+ athi localizers team.\n\nThe added advantage of having this event now is t
+ hat the Firefox OS is out recently\, and it needs localization in Marathi 
+ as well as some other regional languages as well. So this event may come i
+ n handy as it will help Firefox OS become more user friendly.
+URL:https://reps.mozilla.org/e/marathi-l10n-nashik/
+SEQUENCE:5
+X-COORDINATES-LAT:20.0027630119
+X-COORDINATES-LON:73.7705025668
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

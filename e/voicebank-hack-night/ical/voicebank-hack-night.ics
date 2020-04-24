@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6560
+CLASS:PUBLIC
+DTSTAMP:20200423T111233Z
+DTSTART:20170503T110000Z
+DTEND:20170503T140000Z
+LOCATION:Mozilla Community Space Taipei\, Taipei\, Taiwan
+SUMMARY:VoiceBank - Hack Night
+DESCRIPTION:VoiceBank is a project to create an open dataset of people’s
+  voices. Then anyone can make new voice tools and help break the silos of 
+ the voice-enabled internet\, ensuring we all have a voice in the internet
+ ’s future.  \n\nWe got several ideas from last weekend&#39;s workshop\, this
+  night we&#39;ll hack it to interactive-able prototype.
+URL:https://reps.mozilla.org/e/voicebank-hack-night/
+SEQUENCE:0
+X-COORDINATES-LAT:25.0440487425
+X-COORDINATES-LON:121.532305592
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

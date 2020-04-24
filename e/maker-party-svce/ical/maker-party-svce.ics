@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2907
+CLASS:PUBLIC
+DTSTAMP:20200423T184354Z
+DTSTART:20141018T043000Z
+DTEND:20141018T103000Z
+LOCATION:Sri Venkateshwara College of Engineering\, Bangalore\, India
+SUMMARY:Maker Party SVCE
+DESCRIPTION:This event focus on organizing a maker party in a college wher
+ e attendees will learn how to contribute to webmaker project. Apart from t
+ he webmaker\, this event will also focus on Open Source\, Mozilla\, and th
+ e projects\, how to get involved and building a firefox club in the colleg
+ e.
+URL:https://reps.mozilla.org/e/maker-party-svce/
+SEQUENCE:11
+X-COORDINATES-LAT:12.9608436966
+X-COORDINATES-LON:77.5836179405
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

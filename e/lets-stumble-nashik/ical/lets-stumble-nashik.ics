@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4027
+CLASS:PUBLIC
+DTSTAMP:20200423T171055Z
+DTSTART:20150621T053000Z
+DTEND:20150628T053000Z
+LOCATION:Nashik\, Nashik\, India
+SUMMARY:Let&#39;s Stumble Nashik
+DESCRIPTION:Nashik  Stumbling is a half day introduction to Stumbling tool
+ s that bring  knowledge to participants on how to gather Geo-location info
+ rmation in  their cities and add it to our repository.  After this event\,
+  during a  certain period of time\, participants will  gather information 
+ and upload  it to our servers. This
+URL:https://reps.mozilla.org/e/lets-stumble-nashik/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9922778709
+X-COORDINATES-LON:73.8464350998
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

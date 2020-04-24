@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@554
+CLASS:PUBLIC
+DTSTAMP:20200423T220608Z
+DTSTART:20130225T140000Z
+DTEND:20130301T170000Z
+LOCATION:UCI - La Habana\, La Habana\, Cuba
+SUMMARY: Conexión Mozilla Cuba (MozCnx)
+DESCRIPTION:In English\, Mozilla Connection Cuba\, is a 5 days event (Mond
+ ay-Friday).
+URL:https://reps.mozilla.org/e/conexion-mozilla-cuba-mozcnx/
+SEQUENCE:0
+X-COORDINATES-LAT:22.9872368837
+X-COORDINATES-LON:-82.4670696259
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

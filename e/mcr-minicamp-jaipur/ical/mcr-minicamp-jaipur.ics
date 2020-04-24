@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2615
+CLASS:PUBLIC
+DTSTAMP:20200423T191346Z
+DTSTART:20140817T063000Z
+DTEND:20140817T113000Z
+LOCATION:Sheesha Lounge\, Jaipur\, India
+SUMMARY:MCR MiniCamp Jaipur
+DESCRIPTION:Mozilla Community Rajasthan is organizing  this event for all 
+ mozillians/ contributors/ newbies /enthusiastic developers around Rajastha
+ n\, to tell them the community agenda as well as to motivate them for indi
+ vidual contributions to the Mozilla&#39;s projects and to the Community.
+URL:https://reps.mozilla.org/e/mcr-minicamp-jaipur/
+SEQUENCE:13
+X-COORDINATES-LAT:26.9137432346
+X-COORDINATES-LON:75.8312986046
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

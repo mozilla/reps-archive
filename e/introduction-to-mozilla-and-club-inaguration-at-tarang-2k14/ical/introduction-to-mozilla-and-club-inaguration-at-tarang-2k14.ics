@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3250
+CLASS:PUBLIC
+DTSTAMP:20200423T181748Z
+DTSTART:20141213T040000Z
+DTEND:20141213T110000Z
+LOCATION:Tarang 2K14 @ KMCT Polytechnic College\,Kallanthode\, NIT  (P.O) 
+ Mukkam\,\, Kozhikode\, India
+SUMMARY:Introduction to Mozilla and Club inaguration at  Tarang 2K14
+DESCRIPTION:The event aims at introduction to the Mozilla and its communit
+ ies \, the technologies it creates and the way it makes web a productive p
+ lace each and every day. The event showcases the webmaker project which ar
+ e a great use to the developers all over the world . It also aims at encou
+ raging people to contribute to the Mozilla in their respective field of in
+ terest.
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-and-club-inaguratio
+ n-at-tarang-2k14/
+SEQUENCE:7
+X-COORDINATES-LAT:11.2769010686
+X-COORDINATES-LON:75.7948495
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1361
+CLASS:PUBLIC
+DTSTAMP:20200423T210423Z
+DTSTART:20131001T060000Z
+DTEND:20131001T120000Z
+LOCATION:Technological University of Thessaloniki\, Thessaloniki\, Greece
+SUMMARY:IEEE Day 2013 Technological Institute of Thessaloniki
+DESCRIPTION:Technological Institute of Thessaloniki and its local chapter 
+ are celebrating the IEEE Day with a one day conference around mobile techn
+ ology. \nMozilla and Christos Bacharakis are going to be there with a pres
+ entation regarding Firefox OS\, Open web Applications ecosystem\, Marketpl
+ ace and developer tools.
+URL:https://reps.mozilla.org/e/ieee-day-2013-technological-university-of-t
+ hessaloniki/
+SEQUENCE:3
+X-COORDINATES-LAT:40.6574130868
+X-COORDINATES-LON:22.8037762642
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

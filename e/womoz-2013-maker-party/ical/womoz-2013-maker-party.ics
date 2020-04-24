@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1002
+CLASS:PUBLIC
+DTSTAMP:20200423T213041Z
+DTSTART:20130629T050000Z
+DTEND:20130629T090000Z
+LOCATION:Highlands Coffee\, Alphaland\, Magallanes\, Makati\, Philippines
+SUMMARY:Maker Party 2013 Alphaland
+DESCRIPTION:An all-girl Maker Partyto kick off the Maker Party 2013 in Man
+ ila!\n\nAs a support to the WoMoz initiative\, the MozPH community present
+ s an event where women can learn how they can teach the wonders of the Web
+  and talk about their ideas on making a new generation of webmakers.\n\nOp
+ en to all women from any industry!
+URL:https://reps.mozilla.org/e/womoz-2013-maker-party/
+SEQUENCE:4
+X-COORDINATES-LAT:14.5411849052
+X-COORDINATES-LON:121.019253731
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

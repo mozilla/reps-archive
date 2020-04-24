@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8462
+CLASS:PUBLIC
+DTSTAMP:20200423T083812Z
+DTSTART:20190317T043000Z
+DTEND:20190317T063000Z
+LOCATION:KiiT University\, Bhubaneswar\, India
+SUMMARY:Data Science Workshop
+DESCRIPTION:The topic of the workshop will be “Introduction to data scie
+ nce and machine learning “\n\nIn the workshop below mentioned topics are
+  going to be addressed.\n\n1.Data Science overview.\n\n2.Statistical conce
+ pts.\n\n3.Introduction to Business Analytics.\n\n4.Introduction to SAS\, R
+ \, Python and its tools.\n\n5.Application of Data science in various Indus
+ tries.\n\n6.Introduction to big data and machine learning.
+URL:https://reps.mozilla.org/e/data-science-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:20.2088842126
+X-COORDINATES-LON:85.7628822327
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

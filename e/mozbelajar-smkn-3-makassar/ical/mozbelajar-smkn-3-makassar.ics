@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4257
+CLASS:PUBLIC
+DTSTAMP:20200423T165336Z
+DTSTART:20150813T010000Z
+DTEND:20150813T050000Z
+LOCATION:SMKN 3 Makassar\, Makassar\, Indonesia
+SUMMARY:#MozBelajar SMKN 3 Makassar
+DESCRIPTION:An event to introduce the newly launched Webmaker App to vocat
+ ional high school students in SMKN3 Makassar. There will be Webmaker App d
+ ownloading session and hands on workshop in making projects using the app.
+  This event is organized as part of Webmaker App Launch initiatives in Ind
+ onesia.
+URL:https://reps.mozilla.org/e/mozbelajar-smkn-3-makassar/
+SEQUENCE:3
+X-COORDINATES-LAT:-5.14092660123
+X-COORDINATES-LON:119.41625976
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

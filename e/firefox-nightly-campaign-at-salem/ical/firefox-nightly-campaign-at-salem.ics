@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6652
+CLASS:PUBLIC
+DTSTAMP:20200423T110231Z
+DTSTART:20170610T033000Z
+DTEND:20170610T103000Z
+LOCATION:JMB Complex\, Suramangalam\, Salem\, India
+SUMMARY:Firefox Nightly Campaign at Salem
+DESCRIPTION:Event is aim in bringing more users to Firefox Nightly and tes
+ t webcompat bugs in Websites.
+URL:https://reps.mozilla.org/e/firefox-nightly-campaign-at-salem/
+SEQUENCE:3
+X-COORDINATES-LAT:11.6514728417
+X-COORDINATES-LON:78.1590929045
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

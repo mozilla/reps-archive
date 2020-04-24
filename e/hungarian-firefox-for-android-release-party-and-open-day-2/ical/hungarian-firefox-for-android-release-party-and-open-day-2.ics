@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1192
+CLASS:PUBLIC
+DTSTAMP:20200423T211411Z
+DTSTART:20130902T160000Z
+DTEND:20130902T200000Z
+LOCATION:TBD\, Budapest\, Hungary
+SUMMARY:Hungarian Firefox for Android release party and Open Day #2
+DESCRIPTION:Following the latest Open Day back in 2012 we will gather the 
+ new release of Hungarian Firefox for Android.\n\nhttps://reps.mozilla.org/
+ u/kami911/r/2012/May/
+URL:https://reps.mozilla.org/e/hungarian-firefox-for-android-release-party
+ -and-open-day-2/
+SEQUENCE:8
+X-COORDINATES-LAT:44.0875850282
+X-COORDINATES-LON:17.578125
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

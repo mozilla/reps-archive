@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2302
+CLASS:PUBLIC
+DTSTAMP:20200423T193827Z
+DTSTART:20140612T040000Z
+DTEND:20140618T120000Z
+LOCATION:Kharagpur\, Kharagpur\, India
+SUMMARY:Hive House @ Kgp
+DESCRIPTION:It will be organized in a room of my house.\n\nIt will run fro
+ m 12th June to 18th June 2014.\n\n10 - 12 Participants per day is our targ
+ et.\n\nEach particaipant will get around 2-3 hours.\n\nThere will be basic
+ ally four section.\n\nThe four section are Mozilla and Web Technology\, Ro
+ botrix\, Electronics\, and Crafting &amp; Junkotronics.\n\nEach participants w
+ ill be allowed to explore any one section on a day.\n\nEach participants w
+ ill be awarded with Mozilla swags and a participation gift.
+URL:https://reps.mozilla.org/e/hive-house-kgp/
+SEQUENCE:8
+X-COORDINATES-LAT:23.3809176964
+X-COORDINATES-LON:86.9597167522
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

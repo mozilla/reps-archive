@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1381
+CLASS:PUBLIC
+DTSTAMP:20200423T205449Z
+DTSTART:20131106T133000Z
+DTEND:20131107T213000Z
+LOCATION:Universidad Central de Venezuela\, Caracas\, Venezuela
+SUMMARY:Internet Caracas 2013
+DESCRIPTION:The aim of the International TICT &#34;Internet Caracas 2013&#34; is t
+ o promote the participation of companies\, organizations\, academies (univ
+ ersities and colleges) and the State on the development of telecommunicati
+ ons and information technologies and communication Venezuela.\n\nThe event
+  will be a booth for demos of Firefox OS\, as well as a presentation.
+URL:https://reps.mozilla.org/e/internet-caracas-2013/
+SEQUENCE:5
+X-COORDINATES-LAT:10.4982769047
+X-COORDINATES-LON:-66.8860530853
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6516
+CLASS:PUBLIC
+DTSTAMP:20200423T110847Z
+DTSTART:20170519T070000Z
+DTEND:20170519T170000Z
+LOCATION:Mole Vanvitelliana\, Ancona\, Italy
+SUMMARY:Hack Accessibility Days
+DESCRIPTION:The first Italian event dedicated to &#34;Global Accessibility Awa
+ reness Day&#34; about accessibility in the IT world.
+URL:https://reps.mozilla.org/e/hack-accessibility-days/
+SEQUENCE:2
+X-COORDINATES-LAT:43.6047487223
+X-COORDINATES-LON:13.5079536424
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

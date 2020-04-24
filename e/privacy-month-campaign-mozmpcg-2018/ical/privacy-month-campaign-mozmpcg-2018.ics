@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7383
+CLASS:PUBLIC
+DTSTAMP:20200423T100602Z
+DTSTART:20180119T043000Z
+DTEND:20180119T053000Z
+LOCATION:Radharaman Institute Of Technology &amp; Science Bhopal\, Bhopal\, In
+ dia
+SUMMARY:Privacy Month Campaign MozMPCG 2018
+DESCRIPTION:This is a community led campaign to celebrate International Da
+ ta Privacy Day. There are two parts - an on-line campaign with daily conte
+ nt combined with a series of in-person privacy events. A campaign to make 
+ users and makers of the web care\, learn\, teach and share about On-line P
+ rivacy.
+URL:https://reps.mozilla.org/e/privacy-month-campaign-mozmpcg-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:23.1386763431
+X-COORDINATES-LON:77.2060547769
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

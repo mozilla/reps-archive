@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4837
+CLASS:PUBLIC
+DTSTAMP:20200423T163115Z
+DTSTART:20151007T050000Z
+DTEND:20151007T070000Z
+LOCATION:St. Andrew&#39;s School Parañaque\, Parañaque\, Philippines
+SUMMARY:St. Andrew&#39;s School Parañaque IT Days (High School)
+DESCRIPTION:St. Andrew’s School is approaching the celebration of its ce
+ ntennial anniversary. From the very first year of its foundation in 1917\,
+  the school has continually bred and shaped the minds of the future genera
+ tion. Every year\, it brings a fresh\, new batch of productive and hardwor
+ king members of society.\n\nSAS IT Days is a 2-day celebration of Informat
+ ion Technology in enriching lives of students.
+URL:https://reps.mozilla.org/e/st-andrews-school-paranaque-it-days-high-sc
+ hool/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5006461645
+X-COORDINATES-LON:120.991799354
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

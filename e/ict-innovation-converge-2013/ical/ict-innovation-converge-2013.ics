@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@819
+CLASS:PUBLIC
+DTSTAMP:20200423T214546Z
+DTSTART:20130508T000000Z
+DTEND:20130508T070000Z
+LOCATION:Jollibee Crossing Calamba\, Calamba\, Philippines
+SUMMARY:ICT Innovation Converge 2013
+DESCRIPTION:ICT Innovation Converge 2013 is the collaboration of top-rated
+  IT companies like Microsoft\,Cisco\,Smart Devnet\,Mannasoft\,Mozilla\,Sof
+ t Micro Enterprises and IP Systems Inc. for the first time in Calamba Lagu
+ na to provide\,educate and enhance IT enthusiasts and Business Owners thei
+ r knowledge and skills about the newest trends and innovation created by t
+ hese top icons of the industry.
+URL:https://reps.mozilla.org/e/ict-innovation-converge-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:14.2059488453
+X-COORDINATES-LON:121.155359745
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2001
+CLASS:PUBLIC
+DTSTAMP:20200423T201847Z
+DTSTART:20140311T000000Z
+DTEND:20140312T070000Z
+LOCATION:Travancore Hall\, Technopark\, Trivandrum\, Thiruvananthapuram\, 
+ India
+SUMMARY:Workshop on Free Mobile Platforms
+DESCRIPTION:While most of these projects are already free software\, devic
+ e manufacturers distribute the OS with various proprietary extensions in l
+ ayers that communicate with the phone or tablet hardware and in applicatio
+ n space. There are various ongoing efforts to remove such dependencies.
+URL:https://reps.mozilla.org/e/workshop-on-free-mobile-platforms/
+SEQUENCE:2
+X-COORDINATES-LAT:8.46156229296
+X-COORDINATES-LON:76.9389653223
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1713
+CLASS:PUBLIC
+DTSTAMP:20200423T203202Z
+DTSTART:20140125T043000Z
+DTEND:20140126T103000Z
+LOCATION:All over Warangal\, Warangal\, India
+SUMMARY:COMPED CAMP I
+DESCRIPTION:An Initiative to make the presence of Mozilla all over Waranga
+ l as a part of Web Maker Project. This camp teaches children about the com
+ puter basics and Web and then make them Champions of Web!!
+URL:https://reps.mozilla.org/e/comped-camp-i/
+SEQUENCE:3
+X-COORDINATES-LAT:17.9678474967
+X-COORDINATES-LON:79.8587035015
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

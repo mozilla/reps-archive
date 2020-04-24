@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4459
+CLASS:PUBLIC
+DTSTAMP:20200423T164728Z
+DTSTART:20150901T123000Z
+DTEND:20150901T163000Z
+LOCATION:IBS\,Hyderabad\, Hyderabad\, India
+SUMMARY:BRAND XPO
+DESCRIPTION:Brand Expo is an event initiated ny Club ADMIRE where Mozilla 
+ is has represented its strategies for Branding and Advertisement in IBS\,H
+ yderabad.
+URL:https://reps.mozilla.org/e/brand-xpo/
+SEQUENCE:1
+X-COORDINATES-LAT:17.3917056537
+X-COORDINATES-LON:78.4735105187
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

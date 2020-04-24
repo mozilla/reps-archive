@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1415
+CLASS:PUBLIC
+DTSTAMP:20200423T210034Z
+DTSTART:20131017T163000Z
+DTEND:20131017T190000Z
+LOCATION:The Orbit\, Copenhagen\, Denmark
+SUMMARY:CopenhagenJS meetup
+DESCRIPTION:Meetup of the local web developers and JS enthusiasts communit
+ y.
+URL:https://reps.mozilla.org/e/copenhagenjs-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:55.6612232898
+X-COORDINATES-LON:12.5930035114
+X-COUNTRY-CODE:dk
+END:VEVENT
+
+END:VCALENDAR

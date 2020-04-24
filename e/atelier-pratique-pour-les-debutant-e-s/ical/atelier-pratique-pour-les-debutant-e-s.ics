@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2982
+CLASS:PUBLIC
+DTSTAMP:20200423T182241Z
+DTSTART:20141129T123000Z
+DTEND:20141129T160000Z
+LOCATION:Mozilla space Paris 16 bis bd Montmartre 75009 Paris\, Paris\, Fr
+ ance
+SUMMARY:Atelier pratique pour les débutant-e-s
+DESCRIPTION:Come and learn the basics of how the web work\, what privacy\n
+ means to you and how to protect yourself from common security threats.\nTh
+ e workshop is open to everyone willing to learn (children\, adults) in\na 
+ beginners-friendly atmosphere. It will be hosted by volunteers at the\nMoz
+ illa spaces in Paris during one afternoon (Nov-29).
+URL:https://reps.mozilla.org/e/atelier-pratique-pour-les-debutant-e-s/
+SEQUENCE:2
+X-COORDINATES-LAT:48.8717596165
+X-COORDINATES-LON:2.34192502503
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

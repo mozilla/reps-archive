@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3385
+CLASS:PUBLIC
+DTSTAMP:20200423T180558Z
+DTSTART:20150124T020000Z
+DTEND:20150124T040000Z
+LOCATION:Mozilla Community Space Taipei\, Da-an District\, Taiwan
+SUMMARY:Mozilla Community Space Taipei Keyholder Meetup
+DESCRIPTION:For Mozilla Community Space Taipei&#39;s keyholder (maintainer) to
+  discuss about the metric for past 7 month\, and discuss about the goal\, 
+ improve the SOPs\, and how to let more &#34;space user&#34; know more about Mozill
+ a.
+URL:https://reps.mozilla.org/e/mozilla-community-space-taipei-keyholder-me
+ etup/
+SEQUENCE:1
+X-COORDINATES-LAT:25.044113
+X-COORDINATES-LON:121.532295
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

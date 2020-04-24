@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3804
+CLASS:PUBLIC
+DTSTAMP:20200423T172136Z
+DTSTART:20150522T140000Z
+DTEND:20150522T230000Z
+LOCATION:INSTITUTO TECNOLÓGICO SUPERIOR DE TACÁMBARO MICHOACÁN\, Tacamb
+ aro\, Mexico
+SUMMARY:WEEK IN COMPUTER SYSTEMS ENGINEERING
+DESCRIPTION:The week of Engineering in Computer Systems is a space where s
+ tudents have the opportunity to listen to speakers who work with the new I
+ nformation and Communication Technologies and the application of new tools
+  and experience of the speakers and workshop. It also has and target pract
+ ice in workshops these tools are the rise in labor camps.
+URL:https://reps.mozilla.org/e/week-in-computer-systems-engineering-1/
+SEQUENCE:0
+X-COORDINATES-LAT:19.2345756006
+X-COORDINATES-LON:-101.459322452
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

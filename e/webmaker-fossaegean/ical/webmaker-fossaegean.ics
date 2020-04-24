@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1913
+CLASS:PUBLIC
+DTSTAMP:20200423T201012Z
+DTSTART:20140329T160000Z
+DTEND:20140329T190000Z
+LOCATION:University of the Aegean - Samos\, Karlovasi\, Greece
+SUMMARY:Webmaker @ fossaegean
+DESCRIPTION:A webmaker event\, as part of a series of lessons organised by
+  The Free &amp; Open Source Software Society of the University of the Aegean. 
+ This time we&#39;ll be teaching basic HTML/CSS and showcase our three awesome 
+ tools: Thimble\, Popcorn Maker and X-Ray Goggles.\n\nThe event will take p
+ lace at one of the computer labs\, so the attendants (= students) will hav
+ e the chance for a real hands on and with our guidance they&#39;ll be able to 
+ create lots of cool stuff.
+URL:https://reps.mozilla.org/e/webmaker-fossaegean/
+SEQUENCE:5
+X-COORDINATES-LAT:37.7949103978
+X-COORDINATES-LON:26.7066190839
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

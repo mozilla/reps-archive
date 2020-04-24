@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2314
+CLASS:PUBLIC
+DTSTAMP:20200423T194335Z
+DTSTART:20140531T033000Z
+DTEND:20140531T123000Z
+LOCATION:Bombay Stock Exchange\, 18th Floor\, Zone Startups\, Dalal Street
+ \, Mumbai\, Maharashtra 400001 India\, Mumbai\, India
+SUMMARY:Angel Hack Mumbai Spring 2014
+DESCRIPTION:AngelHack organizes innovation events and hackathons around th
+ e world. \n    Developer bootcamps to teach Android and iOS development.\n
+     $100\,000s in sponsor prizes.\n    Fun toys and games spread throughou
+ t the venue.\n    Great food and lots of it.\n    Coding through the night
+  (with pillows).\n    Top teams entering the HACKcelerator pre-accelerator
+  program.\n    Sponsor awards\, breakout sessions\, and post-event parties
+URL:https://reps.mozilla.org/e/angel-hack-mumbai-spring-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:18.9789836801
+X-COORDINATES-LON:72.8370773788
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

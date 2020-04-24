@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1035
+CLASS:PUBLIC
+DTSTAMP:20200423T212552Z
+DTSTART:20130717T180000Z
+DTEND:20130718T000000Z
+LOCATION:Avenida Bush\, 2do Anillo\, Santa Cruz\, Bolivia
+SUMMARY:FirefoxOS &amp; HTML5 Workshop
+DESCRIPTION:Participation in the Computer Science School anniversary of th
+ e Santa Cruz University (Universidad Autónoma Gabriel René Moreno)\, and
+  we the Mozillians will be presenting a  workshop of Firefox OS &amp; HTML5
+URL:https://reps.mozilla.org/e/firefoxos-html5-workshop/
+SEQUENCE:2
+X-COORDINATES-LAT:-17.7741689613
+X-COORDINATES-LON:-63.1951618195
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

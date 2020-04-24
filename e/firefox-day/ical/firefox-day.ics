@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@754
+CLASS:PUBLIC
+DTSTAMP:20200423T215021Z
+DTSTART:20130420T123000Z
+DTEND:20130420T160000Z
+LOCATION:Humberto Suarez Roca Av.\, Camiri\, Bolivia
+SUMMARY:Firefox Day
+DESCRIPTION:We will celebrate the Firefox Day at Gabriel Rene Moreno Unive
+ rsity in the city of Camiri\, We will show about Firefox\, Firefox OS and 
+ the purpose of Mozilla.
+URL:https://reps.mozilla.org/e/firefox-day/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.03383825
+X-COORDINATES-LON:-63.5274982452
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

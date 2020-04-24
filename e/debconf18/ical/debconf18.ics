@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7970
+CLASS:PUBLIC
+DTSTAMP:20200423T091355Z
+DTSTART:20180729T020000Z
+DTEND:20180804T160000Z
+LOCATION:National Chiao Tung University Microelectronics and Information R
+ esearch Center\, Hsinchu\, Taiwan
+SUMMARY:Debconf18
+DESCRIPTION:DebConf is the annual conference for Debian contributors and u
+ sers interested in improving Debian. Previous Debian Conferences have feat
+ ured speakers and attendees from all around the world. DebConf17 took plac
+ e in Montréal\, Canada and was attended by 400 participants from 51 count
+ ries.\n\nDebConf18 is taking place in August 2018 in Hsinchu\, Taiwan from
+  July 29th to August 5th\, 2018.
+URL:https://reps.mozilla.org/e/debconf18/
+SEQUENCE:4
+X-COORDINATES-LAT:23.0062675943
+X-COORDINATES-LON:72.5363158062
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

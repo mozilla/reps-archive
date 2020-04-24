@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3786
+CLASS:PUBLIC
+DTSTAMP:20200423T172149Z
+DTSTART:20150522T030000Z
+DTEND:20150522T060000Z
+LOCATION:Life Forte International School\, Ibadan\, Nigeria
+SUMMARY:Hour of Code Ibadan Season 3
+DESCRIPTION:Programming skills is important.We as Mozillians want to teach
+  kids on how to code in a fun and easy way using the Mozilla web maker too
+ ls.\n\nEncouraging the usage of the Web maker app
+URL:https://reps.mozilla.org/e/hour-of-code-ibadan-season-3/
+SEQUENCE:6
+X-COORDINATES-LAT:7.3777847327
+X-COORDINATES-LON:3.908172
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

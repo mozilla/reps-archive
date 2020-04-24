@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4422
+CLASS:PUBLIC
+DTSTAMP:20200423T163311Z
+DTSTART:20151002T210000Z
+DTEND:20151003T200000Z
+LOCATION:SENAC Poço\, Maceio\, Brazil
+SUMMARY:RailsGirls - Maceio
+DESCRIPTION:RailsGirls é um projeto para incentivar meninas a desenvolver
+ em\, contruindo aplicações web com Ruby on Rails.
+URL:https://reps.mozilla.org/e/railsgirls-maceio/
+SEQUENCE:1
+X-COORDINATES-LAT:-9.6650513607
+X-COORDINATES-LON:-35.7278264164
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

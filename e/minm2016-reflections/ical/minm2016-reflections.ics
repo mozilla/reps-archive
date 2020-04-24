@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5800
+CLASS:PUBLIC
+DTSTAMP:20200423T145948Z
+DTSTART:20160904T053000Z
+DTEND:20160904T073000Z
+LOCATION:Food Court\, CCM\, Nashik\, India
+SUMMARY:MInM2016 Reflections
+DESCRIPTION:#MInM2016 was one of the most successful Mozilla India gatheri
+ ngs in recent memories. Mozilla India went through a grand restructure. Mo
+ zilla Nashik will be meeting to discuss and reflect on everything that hap
+ pened at that meetup.
+URL:https://reps.mozilla.org/e/minm2016-reflections/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9904427766
+X-COORDINATES-LON:73.7618494016
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

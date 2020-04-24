@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5382
+CLASS:PUBLIC
+DTSTAMP:20200423T152611Z
+DTSTART:20160513T130000Z
+DTEND:20160513T140000Z
+LOCATION:EMEF Padre Leão Vallerié\, Campinas\, Brazil
+SUMMARY:LMC Meetup 2016: Why Do We Use the Web?
+DESCRIPTION:Learners will create and research survey questions about their
+  community&#39;s Web use\, learning collaborating\, working open\, and sharing
+ .
+URL:https://reps.mozilla.org/e/leao-mozilla-clubs-why-do-we-use-the-web/
+SEQUENCE:6
+X-COORDINATES-LAT:-22.9407392393
+X-COORDINATES-LON:-47.1852564814
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

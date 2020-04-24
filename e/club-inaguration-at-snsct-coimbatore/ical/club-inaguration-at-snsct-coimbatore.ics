@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5265
+CLASS:PUBLIC
+DTSTAMP:20200423T153323Z
+DTSTART:20160416T033000Z
+DTEND:20160416T113000Z
+LOCATION:SNS College of Technology\, Coimbatore\, India
+SUMMARY:Club inaguration at SNSCT - Coimbatore
+DESCRIPTION:The event aims at introduction to the Mozilla and its communit
+ ies \, the technologies it creates and the way it makes web a productive p
+ lace each and every day. The event showcases the webmaker project which ar
+ e a great use to the developers all over the world . It also aims at encou
+ raging people to contribute to the Mozilla in their respective field of in
+ terest. It will also be used to showcase the various paths of contributing
+  to Mozilla with a brief introduction to a few of them.
+URL:https://reps.mozilla.org/e/club-inaguration-at-snsct-coimbatore/
+SEQUENCE:1
+X-COORDINATES-LAT:11.1857554544
+X-COORDINATES-LON:77.0753631578
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

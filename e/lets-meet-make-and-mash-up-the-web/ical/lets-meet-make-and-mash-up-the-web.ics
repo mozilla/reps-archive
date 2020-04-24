@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2545
+CLASS:PUBLIC
+DTSTAMP:20200423T191812Z
+DTSTART:20140806T050000Z
+DTEND:20140806T113000Z
+LOCATION:Jomo Kenyatta University of Agriculture and Technology Mombasa\, 
+ Kenya\, Old Mombasa\, Kenya
+SUMMARY:Let&#39;s Meet\, Make and Mash-up the Web
+DESCRIPTION:The first Webmaker Party in 2014\,targeted to University Stude
+ nts and Web Professionals who will come under one roof to learn\, play\, a
+ nd remix the Webmaker tools. We shall also be introducing the concept of D
+ igital/Web Literacy and it&#39;s importance in today&#39;s life. We will also brai
+ nstorm on ways in which these concepts can be applied in various sectors o
+ f the industry especially the Education Industry. Lastly\, we will have a 
+ brainstorming session on Internet\, Web &amp; Security
+URL:https://reps.mozilla.org/e/lets-meet-make-and-mash-up-the-web/
+SEQUENCE:5
+X-COORDINATES-LAT:-4.06906969327
+X-COORDINATES-LON:39.6697425842
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

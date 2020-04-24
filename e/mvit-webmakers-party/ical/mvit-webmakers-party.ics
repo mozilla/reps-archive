@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2890
+CLASS:PUBLIC
+DTSTAMP:20200423T185203Z
+DTSTART:20140928T043000Z
+DTEND:20140928T093000Z
+LOCATION:Sir M. Visvesvaraya Institute of Tech.\, Yelahanka\, Bangalore\, 
+ India
+SUMMARY:MVIT Webmakers&#39; Party
+DESCRIPTION:The first ever event by the &#34;MVIT MOZILLIANS CLUB&#34;. Come enjoy
+  the fun of Open Source and realize the awesome resources of Mozilla&#39;s Ope
+ n Web. Cheers!
+URL:https://reps.mozilla.org/e/mvit-webmakers-party/
+SEQUENCE:5
+X-COORDINATES-LAT:12.996529201
+X-COORDINATES-LON:76.8967437744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2086
+CLASS:PUBLIC
+DTSTAMP:20200423T200423Z
+DTSTART:20140411T150000Z
+DTEND:20140412T230000Z
+LOCATION:La Casa Tomada - Centro Cultural de España en El Salvador\, San 
+ Salvador\, El Salvador
+SUMMARY:Space Apps Challenge - El Salvador and Panamá
+DESCRIPTION:This is a global contest organized by NASA and coordinated loc
+ ally by local organizations. This two countries asked for merchandising to
+  give to their participants. We agree in send some «prizes» to teams tha
+ t developed Web apps that could work in Firefox OS phones.\n\nBoth countri
+ es are part of our next FirefoxOS launches.
+URL:https://reps.mozilla.org/e/space-apps-challenge-el-salvador-and-panama
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:13.6896850061
+X-COORDINATES-LON:-89.1896882058
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

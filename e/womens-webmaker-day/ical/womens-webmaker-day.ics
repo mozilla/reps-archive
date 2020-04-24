@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1724
+CLASS:PUBLIC
+DTSTAMP:20200423T201633Z
+DTSTART:20140315T050000Z
+DTEND:20140315T100000Z
+LOCATION:Lotus Hotel Conference room\, Old Mombasa\, Kenya
+SUMMARY:Women&#39;s Webmaker Day
+DESCRIPTION:This event aims to focus on the female participants within the
+  community with the major objective of bringing on board more women partic
+ ipants as well to create further awareness on Women and Mozilla and the en
+ tire concept around it.\n\nDuring this event\, attendants will use Mozilla
+ &#39;s Webmaker tools to create an amazing web page or card that will convey a
+  message based on problems facing women in Kenya and Africa at large.
+URL:https://reps.mozilla.org/e/womens-webmaker-day/
+SEQUENCE:4
+X-COORDINATES-LAT:-4.05468635765
+X-COORDINATES-LON:39.6788406372
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

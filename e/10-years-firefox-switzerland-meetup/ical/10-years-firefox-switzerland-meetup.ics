@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3044
+CLASS:PUBLIC
+DTSTAMP:20200423T182945Z
+DTSTART:20141117T180000Z
+DTEND:20141117T210000Z
+LOCATION:Liip\, Limmatstrasse 183\, 8005 Zürich\, Zürich\, Switzerland
+SUMMARY:10 Years Firefox - Switzerland meetup
+DESCRIPTION:We&#39;ll be meeting in Zurich to celebrate 10 years of Firefox. W
+ e&#39;ll start with an introduction to Firefox and it&#39;s last 10 years and then
+  we&#39;ll celebrate the open web with cake!
+URL:https://reps.mozilla.org/e/10-years-firefox-switzerland-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:47.3858989049
+X-COORDINATES-LON:8.52958631498
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

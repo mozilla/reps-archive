@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4759
+CLASS:PUBLIC
+DTSTAMP:20200423T161348Z
+DTSTART:20151118T080000Z
+DTEND:20151119T170000Z
+LOCATION:Les Docks de Paris\, Paris\, France
+SUMMARY:Paris Open Source Summit 2015
+DESCRIPTION:Merge of two events:\n     - Solutions Linux\n     - Open Worl
+ d Forum\nMozilla was usually present at these two events.\nNow the event i
+ s called Paris Open Source Summit (POSS)\n\nThis event aims to be global. 
+ \nWith aims to cover the major issues of open source\, the program will be
+  divided into three main themes: business\, technological and societal. &#34;B
+ usiness-wise\, the focus will be on feedback\, particularly in the areas o
+ f governance\, purchases or open source innovation&#34;
+URL:https://reps.mozilla.org/e/paris-open-source-summit-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:48.9025017367
+X-COORDINATES-LON:2.35982501472
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

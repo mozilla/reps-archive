@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3704
+CLASS:PUBLIC
+DTSTAMP:20200423T173305Z
+DTSTART:20150413T130000Z
+DTEND:20150414T160000Z
+LOCATION:Netaji Subhash Engineering College Techno City\, Garia Kolkata\, 
+ West Bengal 700152\, Kolkata\, India
+SUMMARY:Developer Boot Camp - NSEC
+DESCRIPTION:A totally dev-centric event organized by Mozilla Kolkata Commu
+ nity mainly focusing on Firefox OS.
+URL:https://reps.mozilla.org/e/developer-boot-camp-nsec/
+SEQUENCE:6
+X-COORDINATES-LAT:22.4804531611
+X-COORDINATES-LON:88.4147809446
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

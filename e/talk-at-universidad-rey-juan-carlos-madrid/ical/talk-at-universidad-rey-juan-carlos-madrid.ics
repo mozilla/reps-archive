@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@531
+CLASS:PUBLIC
+DTSTAMP:20200423T220950Z
+DTSTART:20130214T160000Z
+DTEND:20130214T180000Z
+LOCATION:Universidad Rey Juan Carlos\, Fuenlabrada\, Spain
+SUMMARY:Talk at Universidad Rey Juan Carlos\, Madrid
+DESCRIPTION:A 2h talk about Mozilla\, its innovation and openness\, freedo
+ m in Internet\, and specially new products like Firefox OS.\n\nPart of the
+  Open Source Master taught on the University
+URL:https://reps.mozilla.org/e/talk-at-universidad-rey-juan-carlos-madrid/
+SEQUENCE:0
+X-COORDINATES-LAT:40.2829305525
+X-COORDINATES-LON:-3.81989479065
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

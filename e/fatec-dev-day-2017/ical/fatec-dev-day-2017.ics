@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7189
+CLASS:PUBLIC
+DTSTAMP:20200423T101828Z
+DTSTART:20171111T100000Z
+DTEND:20171111T210000Z
+LOCATION:Fatec Taquaritinga\, Taquaritinga\, Brazil
+SUMMARY:Fatec Dev Day 2017
+DESCRIPTION:On November 11\, 2017\, the Taquaritinga Technology College wi
+ ll host the second meeting to discuss the latest trends in systems and app
+ lications development
+URL:https://reps.mozilla.org/e/fatec-dev-day-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:-21.429464294
+X-COORDINATES-LON:-48.5146236428
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

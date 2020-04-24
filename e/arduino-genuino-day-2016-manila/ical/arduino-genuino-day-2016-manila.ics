@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5220
+CLASS:PUBLIC
+DTSTAMP:20200423T153641Z
+DTSTART:20160402T010000Z
+DTEND:20160402T090000Z
+LOCATION:Norde International\, Diliman\, Quezon City\, Philippines
+SUMMARY:Arduino-Genuino Day 2016 Manila
+DESCRIPTION:Arduino Day is a worldwide birthday celebration of Arduino and
+  Genuino. It&#39;s a 24 hours-long event –organized directly by the communit
+ y\, or by the Arduino founders– where people interested in Arduino and G
+ enuino get together\, share their experiences\, and learn more.\n\nMozilla
+ PH will have a booth at this local celebration.
+URL:https://reps.mozilla.org/e/arduino-genuino-day-2016-manila/
+SEQUENCE:2
+X-COORDINATES-LAT:14.6379568493
+X-COORDINATES-LON:121.047409046
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8716
+CLASS:PUBLIC
+DTSTAMP:20200423T081809Z
+DTSTART:20190730T063000Z
+DTEND:20190730T113000Z
+LOCATION:Navrachana University\, Vadodara\, India
+SUMMARY:Open Source Collaboration with Git and GitHub
+DESCRIPTION:We would be having a session on Introduction to GitHub\, git\,
+  and collaboration. It would be a session of 2 hours where we expect stude
+ nts at the end of the session to be proficient in collaborating and contri
+ buting to projects on GitHub.
+URL:https://reps.mozilla.org/e/open-source-collaboration-with-git-and-gith
+ ub/
+SEQUENCE:1
+X-COORDINATES-LAT:22.3593898058
+X-COORDINATES-LON:72.9561764002
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@79
+CLASS:PUBLIC
+DTSTAMP:20200423T225959Z
+DTSTART:20120922T010000Z
+DTEND:20120922T090000Z
+LOCATION:Col of Arts and Sciences\, Benguet State University\, Km.5 Balili
+ \, La Trinidad\,\, Philippines
+SUMMARY:Software Freedom Day Benguet 2012
+DESCRIPTION:Mozilla Philippines Community will be supporting annual celebr
+ ation for Software Freedom Day\, hosted by Benguet State University\, Km.5
+  Balili\, La Trinidad\, Benguet 2601\, Philippines.
+URL:https://reps.mozilla.org/e/software-freedom-day-benguet-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:16.4525051
+X-COORDINATES-LON:120.5905307
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

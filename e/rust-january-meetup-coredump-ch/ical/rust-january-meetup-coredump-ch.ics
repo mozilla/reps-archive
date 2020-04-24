@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6207
+CLASS:PUBLIC
+DTSTAMP:20200423T113404Z
+DTSTART:20170124T180000Z
+DTEND:20170124T200000Z
+LOCATION:Coredump Hackerspace\, Zürcherstrasse 6\, 8640 Rapperswil-Jona\,
+  Rapperswil-Jona\, Jona\, Switzerland
+SUMMARY:Rust January Meetup @ Coredump.ch
+DESCRIPTION:January Meetup of Rust enthusiasts at the Hackerspace Coredump
+ .
+URL:https://reps.mozilla.org/e/rust-january-meetup-coredump-ch/
+SEQUENCE:2
+X-COORDINATES-LAT:47.2293596214
+X-COORDINATES-LON:8.82027339918
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4202
+CLASS:PUBLIC
+DTSTAMP:20200423T165312Z
+DTSTART:20150814T010000Z
+DTEND:20150814T090000Z
+LOCATION:ABE International Business College - Iloilo\, Iloilo City\, Phili
+ ppines
+SUMMARY:MozTour ABE International Business College - Iloilo
+DESCRIPTION:The Mozilla Philippines Community has been invited by ABE Inte
+ rnational Business College - Iloilo to conduct a MozTour and Firefox OS Wo
+ rkshop at their campus.\n\nThis will be the very first time for MozillaPH 
+ to be in Iloilo City.
+URL:https://reps.mozilla.org/e/moztour-abe-international-business-college-
+ iloilo/
+SEQUENCE:2
+X-COORDINATES-LAT:10.5845716997
+X-COORDINATES-LON:122.659789994
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

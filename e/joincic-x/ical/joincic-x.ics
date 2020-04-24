@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6519
+CLASS:PUBLIC
+DTSTAMP:20200423T103208Z
+DTSTART:20171003T133000Z
+DTEND:20171006T213000Z
+LOCATION:Universidad Central de Venezuela\, Baruta\, Venezuela
+SUMMARY:JOINCIC X
+DESCRIPTION:JOINCIC X (Decimas Jornadas Interuniversitarias de Ciencia de 
+ la Computación) Students of the Central University of Venezuela (UCV) org
+ anize this event for the exchange of knowledge and innovation in the area 
+ of Computer Science. http://www.joincic.com.ve/home/ https://twitter.com/j
+ oincic
+URL:https://reps.mozilla.org/e/joincic-x/
+SEQUENCE:3
+X-COORDINATES-LAT:10.4902523462
+X-COORDINATES-LON:-66.8914575584
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

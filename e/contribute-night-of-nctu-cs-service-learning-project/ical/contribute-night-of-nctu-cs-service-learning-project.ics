@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3809
+CLASS:PUBLIC
+DTSTAMP:20200423T172806Z
+DTSTART:20150429T103000Z
+DTEND:20150429T133000Z
+LOCATION:CS Dept.\, National Chiao-Tung University\, Hsinchu City\, Taiwan
+SUMMARY:Contribute Night of NCTU CS service learning project
+DESCRIPTION:Collaboration between MozTW\, KDE Taiwan and OSSACC on offer s
+ tudent opportunity to contributing to OSS projects.  We will spend a whole
+  night with students to contributing on SUMO/MDN/MozLinks/Webmaker and Fir
+ efox OS bugs
+URL:https://reps.mozilla.org/e/contribute-night-of-nctu-cs-service-learnin
+ g-project/
+SEQUENCE:1
+X-COORDINATES-LAT:24.7871817896
+X-COORDINATES-LON:120.997439682
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

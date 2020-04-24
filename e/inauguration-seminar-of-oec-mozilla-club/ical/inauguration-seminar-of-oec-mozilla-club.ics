@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8513
+CLASS:PUBLIC
+DTSTAMP:20200423T083457Z
+DTSTART:20190404T090000Z
+DTEND:20190404T110000Z
+LOCATION:AV Hall\, Orissa Engineering College\, Bhubaneswar\, Bhubaneswar\
+ , India
+SUMMARY:Inauguration of OEC Mozilla Club.
+DESCRIPTION:It was an Introduction to Mozilla campus club. The attendees w
+ ere mainly freshers so we have explained how beneficial it would be to hav
+ e a community at their disposal. We have also narrated a Road map all the 
+ events we&#39;re going to do till November.
+URL:https://reps.mozilla.org/e/inauguration-seminar-of-oec-mozilla-club/
+SEQUENCE:2
+X-COORDINATES-LAT:20.3575026369
+X-COORDINATES-LON:85.8615875244
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

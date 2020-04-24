@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4005
+CLASS:PUBLIC
+DTSTAMP:20200423T170821Z
+DTSTART:20150628T100000Z
+DTEND:20150628T120000Z
+LOCATION:Collab House\,Hyderabad\, Hyderabad\, India
+SUMMARY:Club Leads Orientation
+DESCRIPTION:A Formal Meet up for all the club leads in and around Hyderaba
+ d to plan and brainstorm about the future of FSA program in Hyderabad.
+URL:https://reps.mozilla.org/e/orientation-meet-up-for-club-leads/
+SEQUENCE:1
+X-COORDINATES-LAT:17.416276
+X-COORDINATES-LON:78.4106842
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

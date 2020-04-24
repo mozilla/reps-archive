@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1606
+CLASS:PUBLIC
+DTSTAMP:20200423T204727Z
+DTSTART:20131128T080000Z
+DTEND:20131128T100000Z
+LOCATION:ISI\, Aryanah\, Tunisia
+SUMMARY:Freeways FirefoxOS Team - Session 1
+DESCRIPTION:Freeways FirefoxOS Team is a new project of the Freeways Club.
+ \n( Freeways : Free software university club )\n\n In the last two year\, 
+ we proposed to have a students team working on the FirefoxOS project\, we&#39;
+ ve been working on Android as the only open source mobile OS.\n\nSession 1
+  will be the first meeting of the team to introduce them to the tools and 
+ techniques that will be used during this year program.
+URL:https://reps.mozilla.org/e/freeways-firefoxos-team-session-1/
+SEQUENCE:1
+X-COORDINATES-LAT:36.8618524174
+X-COORDINATES-LON:10.1885926719
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

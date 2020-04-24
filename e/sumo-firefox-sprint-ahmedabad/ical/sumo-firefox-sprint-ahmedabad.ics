@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7935
+CLASS:PUBLIC
+DTSTAMP:20200423T091721Z
+DTSTART:20180714T043000Z
+DTEND:20180714T083000Z
+LOCATION:TBD\, Ahmedabad\, India
+SUMMARY:SUMO Firefox Sprint Ahmedabad
+DESCRIPTION:Firefox for Android a key product for Mozilla to remain releva
+ nt and influence the market. Participate in the support sprint and help ou
+ r users to get better Firefox experience in your language. With more and m
+ ore people getting connected to the internet via their phones nowadays\, i
+ t shows compatibility issues so we are also having Web Compact session.
+URL:https://reps.mozilla.org/e/sumo-firefox-sprint-ahmedabad/
+SEQUENCE:1
+X-COORDINATES-LAT:23.0376146671
+X-COORDINATES-LON:72.5275299847
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@755
+CLASS:PUBLIC
+DTSTAMP:20200423T215134Z
+DTSTART:20130419T113000Z
+DTEND:20130419T190000Z
+LOCATION:Mcal. José Félix Estigarribia (o Av. del Lago) esq. Buongermini
+ \, del Barrio Boquerón.\, Ciudad del Este\, Paraguay
+SUMMARY:MozEdu - Aprendiendo y Conociendo al navegador que tiene una misi
+ ón.. FIREFOX
+DESCRIPTION:In order to carry out our goal as a community that is committe
+ d to Paraguayan virtual learning teaching\, students seek educational and 
+ fun way to learn to use the tools offered by the Internet.This event will 
+ be presented to children in the fourth\, fifth\, sixth\, seventh\, eighth\
+ , ninth grade\, first\, second and third in the average\, ie all levels an
+ d also to teachers allowing known varieties of options presented for Firef
+ ox. I think we will have 350 people\, children and adolescents and 20 Teac
+ hers
+URL:https://reps.mozilla.org/e/aprendiendo-y-conociendo-al-navegador-que-t
+ iene-una-mision-firefox/
+SEQUENCE:4
+X-COORDINATES-LAT:-25.5151303321
+X-COORDINATES-LON:-54.6180528402
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

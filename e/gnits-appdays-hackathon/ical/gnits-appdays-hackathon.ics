@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3384
+CLASS:PUBLIC
+DTSTAMP:20200423T174042Z
+DTSTART:20150321T033000Z
+DTEND:20150321T103000Z
+LOCATION:G Narayanamma Institute Of Technology &amp; Science\, Hyderabad\, Ind
+ ia
+SUMMARY:GNITS AppDays &amp; Hackathon
+DESCRIPTION:A  7 Hour event totally concentrated on Developing and  Publis
+ hing apps for  Firefox OS Mobile Platform. This event is meant to  Give a 
+ Clear view  about Firefox OS Platform and Encourage People to Develop Apps
+  for Firefox OS and also for the web developers to port their Apps to Fire
+ fox OS .
+URL:https://reps.mozilla.org/e/gnits-appdays-hackathon/
+SEQUENCE:4
+X-COORDINATES-LAT:17.4073184215
+X-COORDINATES-LON:78.4023356429
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

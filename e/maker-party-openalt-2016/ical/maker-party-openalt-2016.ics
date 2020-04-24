@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5947
+CLASS:PUBLIC
+DTSTAMP:20200423T114754Z
+DTSTART:20161105T090000Z
+DTEND:20161105T110000Z
+LOCATION:Faculty of Information Technology\, Brno University of Technology
+ \, Brno\, Czech Republic
+SUMMARY:Maker Party -  OpenAlt 2016
+DESCRIPTION:As a workshop\, I have submitted a Maker Party about EU Copyri
+ ght campaign. https://www.makerparty.community/mstanke/openalt_reforma_aut
+ orsk_ho_pr_va_v_eu
+URL:https://reps.mozilla.org/e/maker-party-openalt-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:49.2263559718
+X-COORDINATES-LON:16.5968304277
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

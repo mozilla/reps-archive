@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5706
+CLASS:PUBLIC
+DTSTAMP:20200423T150732Z
+DTSTART:20160730T210000Z
+DTEND:20160730T220000Z
+LOCATION:Zócalo\, Cd. México\, Aguilera\, Mexico
+SUMMARY:Aldea digital
+DESCRIPTION:Aldea Digital Telcel - Infinitum is an unique event that offer
+ s people\, without giving importance about their educational level\, age o
+ r tech education level\, a big variety of opportunities such as workshops 
+ and conferences\, from entrepreneurship to on line education\, helping to 
+ increase education on every need of level\, this way the knowledge they re
+ ceive will let them improve their skills inside academic and life quality.
+URL:https://reps.mozilla.org/e/aldea-digital-1/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4326392659
+X-COORDINATES-LON:-99.1332106592
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

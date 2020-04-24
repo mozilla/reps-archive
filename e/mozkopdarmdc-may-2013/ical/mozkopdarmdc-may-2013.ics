@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@839
+CLASS:PUBLIC
+DTSTAMP:20200423T213948Z
+DTSTART:20130527T100000Z
+DTEND:20130527T130000Z
+LOCATION:TBD\, Manado\, Indonesia
+SUMMARY:MozKopdarMDC - May 2013
+DESCRIPTION:Small meetup with Mozillians in Manado to get the latest updat
+ e about Mozilla projects.
+URL:https://reps.mozilla.org/e/mozkopdarmdc-may-2013/
+SEQUENCE:7
+X-COORDINATES-LAT:1.48916641669
+X-COORDINATES-LON:124.848632812
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

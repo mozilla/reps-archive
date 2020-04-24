@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7101
+CLASS:PUBLIC
+DTSTAMP:20200423T103245Z
+DTSTART:20171002T230000Z
+DTEND:20171003T000000Z
+LOCATION:10355 South Jordan Gateway #300\, South Jordan\, United States
+SUMMARY:Firefox Quantum Sprint
+DESCRIPTION:With the introduction of Stylo on Nightly we know that website
+ s might break. The Firefox team is not able to test all of those websites\
+ , especially the local ones. For that reason we need your help to test as 
+ many local websites as possible.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-5/
+SEQUENCE:3
+X-COORDINATES-LAT:40.7111801487
+X-COORDINATES-LON:-111.826172769
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

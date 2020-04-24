@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@267
+CLASS:PUBLIC
+DTSTAMP:20200423T223939Z
+DTSTART:20121208T000000Z
+DTEND:20121208T090000Z
+LOCATION:Lipa City Colleges\, Lipa City\, Batangas\, Philippines
+SUMMARY:Lipa City Colleges IT Convention
+DESCRIPTION:Phil-IT.org organized an event where technology experts will c
+ onvene for a whole day convention with talks showcasing different trends i
+ n IT.\n\nTeam Mozilla Philippines will have a Firefox Clinic Booth during 
+ the event.\n\nWe will also talk about Mozilla products and local efforts d
+ uring the convention
+URL:https://reps.mozilla.org/e/lipa-city-colleges-it-convention/
+SEQUENCE:0
+X-COORDINATES-LAT:13.9367329268
+X-COORDINATES-LON:121.146240234
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

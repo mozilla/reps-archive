@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8451
+CLASS:PUBLIC
+DTSTAMP:20200423T083554Z
+DTSTART:20190330T043000Z
+DTEND:20190331T103000Z
+LOCATION:Netaji Subhas Institute of Technology\, New Delhi\, Delhi\, India
+SUMMARY:hackNSUT - TechWeek19
+DESCRIPTION:Hacking begins\nEat! Sleep! Code! Repeat!\nThe following two d
+ ays will be shear programming\, hacking and developing. All the projects a
+ re to be designed and developed in these two days.
+URL:https://reps.mozilla.org/e/hacknsut-techweek19/
+SEQUENCE:0
+X-COORDINATES-LAT:28.6110191
+X-COORDINATES-LON:77.0384532
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

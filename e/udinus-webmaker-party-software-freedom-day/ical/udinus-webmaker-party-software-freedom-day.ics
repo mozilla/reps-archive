@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1555
+CLASS:PUBLIC
+DTSTAMP:20200423T204143Z
+DTSTART:20131213T010000Z
+DTEND:20131214T100000Z
+LOCATION:Dian Nuswantoro University\, Semarang\, Semarang\, Indonesia
+SUMMARY:UDINUS Webmaker Party (Software Freedom Day)
+DESCRIPTION:An event from Dian Nuswantoro University in Semarang. This 2 d
+ ays event is about to celebrate the free and open source software (FOSS)\,
+  and for the main agenda is the webmaker party.\n\nThe main goal for this 
+ event is to introduce the educational media from Mozilla Webmaker within t
+ he students and the whole community.\n\nThe event is organized by Dinus Op
+ en Source Community\, an open source community from the university.
+URL:https://reps.mozilla.org/e/udinus-webmaker-party-software-freedom-day/
+SEQUENCE:5
+X-COORDINATES-LAT:-6.98471006373
+X-COORDINATES-LON:110.409828186
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

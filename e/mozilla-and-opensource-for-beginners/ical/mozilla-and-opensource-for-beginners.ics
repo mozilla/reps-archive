@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5558
+CLASS:PUBLIC
+DTSTAMP:20200423T150817Z
+DTSTART:20160730T023000Z
+DTEND:20160730T103000Z
+LOCATION:Tirupati\, Tirupati\, India
+SUMMARY:Mozilla and Opensource for beginners
+DESCRIPTION:The event is to introduce FOSS and Mozilla and their efforts t
+ o build the web more producively. It also aims at encouraging people to co
+ ntribute to the Mozilla in their respective field of interest. It will als
+ o be used to showcase the various paths of contributing to Mozilla with a 
+ brief introduction to a few of them.
+URL:https://reps.mozilla.org/e/mozilla-and-opensource-for-beginners/
+SEQUENCE:3
+X-COORDINATES-LAT:13.6356440141
+X-COORDINATES-LON:79.3976783752
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

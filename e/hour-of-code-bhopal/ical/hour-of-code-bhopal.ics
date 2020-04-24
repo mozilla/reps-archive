@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3211
+CLASS:PUBLIC
+DTSTAMP:20200423T181841Z
+DTSTART:20141211T043000Z
+DTEND:20141212T113000Z
+LOCATION:Campion School\, Jawaharlal Nehru School and BSSS bhopal\, Bhopal
+ \, India
+SUMMARY:Hour Of Code  Bhopal
+DESCRIPTION:This year\, &#34;Hour of Code&#34; initiative has plans to target 100 
+ million students and expose them to computer science! Let&#39;s involve the ci
+ ty of lakes BHOPAL and inspire students of our city to code their first pr
+ ograms We plan to organize this for an hour two days\, Webmaker is partner
+ ing with Code.org on their global Hour of Code campaign.Our FSA (Rahul Tal
+ reja) and volunteers took this initiative to various institutions.\nContac
+ t : Rahul Talreja : 8602425343
+URL:https://reps.mozilla.org/e/hour-of-code-bhopal/
+SEQUENCE:6
+X-COORDINATES-LAT:23.241970454
+X-COORDINATES-LON:77.4095335021
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

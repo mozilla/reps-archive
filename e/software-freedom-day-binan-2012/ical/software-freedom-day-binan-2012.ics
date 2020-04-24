@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@53
+CLASS:PUBLIC
+DTSTAMP:20200423T230245Z
+DTSTART:20120915T040000Z
+DTEND:20120915T090000Z
+LOCATION:La Consolacion College Biñan\, Biñan\, Philippines
+SUMMARY:Software Freedom Day Biñan 2012
+DESCRIPTION:Mozilla Philippines Community will be supporting and attending
+  the celebration of Software Freedom Day Biñan 2012 with their theme &#34;FOS
+ S. Try it! Love it! Share it!&#34; at the La Consolacion College - Sto. Tomas\
+ , Biñan Campus.\n\n
+URL:https://reps.mozilla.org/e/software-freedom-day-binan-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:14.32591
+X-COORDINATES-LON:121.077958
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

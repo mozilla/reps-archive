@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3408
+CLASS:PUBLIC
+DTSTAMP:20200423T174518Z
+DTSTART:20150308T043000Z
+DTEND:20150308T103000Z
+LOCATION:Symbiosis Institute of Computer studies and Research\, 1st Floor\
+ , Atur Centre\, Gokhale Cross Road\, Model Colony\, Pune\, India
+SUMMARY:International Women&#39;s Day
+DESCRIPTION:This is a Women Centric event where women contributors from Mo
+ zilla and other FOSS communities are coming together to take sessions on t
+ heir expertise area in open source projects for local females from Pune.\n
+ \nThe sessions would be Technical as well as Non-Technical to help the loc
+ al females of Pune to get involved and started with Mozilla and other open
+  source projects.
+URL:https://reps.mozilla.org/e/international-womens-day/
+SEQUENCE:7
+X-COORDINATES-LAT:18.4761359544
+X-COORDINATES-LON:74.3173827231
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

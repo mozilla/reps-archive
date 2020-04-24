@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2952
+CLASS:PUBLIC
+DTSTAMP:20200423T182208Z
+DTSTART:20141130T070000Z
+DTEND:20141207T140000Z
+LOCATION:NBII &amp; Bongo Hive\, Windhoek\, Namibia
+SUMMARY:Bantu Tech Tour Camp
+DESCRIPTION:Bantu Tech Tour Camp is a week long event focusing on bringing
+  Entrepreneurs\, Innovators\, Developers from Southern African region spec
+ ifically in (Namibia &amp; Zambia) to address issues affecting the region (Int
+ ernet penetration\, Open Web\, Innovation &amp; Open Source Cultures) and how 
+  the solutions brought up could provide\, revolutionize the region into a 
+ tech hub.
+URL:https://reps.mozilla.org/e/bantu-tech-tour-camp/
+SEQUENCE:6
+X-COORDINATES-LAT:-22.5971068669
+X-COORDINATES-LON:17.1752920747
+X-COUNTRY-CODE:na
+END:VEVENT
+
+END:VCALENDAR

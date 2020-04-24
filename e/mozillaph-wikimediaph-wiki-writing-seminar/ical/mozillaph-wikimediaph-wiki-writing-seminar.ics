@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5933
+CLASS:PUBLIC
+DTSTAMP:20200423T145147Z
+DTSTART:20161004T103000Z
+DTEND:20161004T130000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:MozillaPH + WikimediaPH Wiki Writing Seminar
+DESCRIPTION:Mozilla Philippines\, in cooperation with Wikimedia Philippine
+ s is hosting a night of learning the basics of Wiki Writing at the Mozilla
+  Community Space Manila on Tuesday\, 04 Oct 2016 at 6:30PM.
+URL:https://reps.mozilla.org/e/mozillaph-wikimediaph-wiki-writing-seminar/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5468854212
+X-COORDINATES-LON:121.016319752
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

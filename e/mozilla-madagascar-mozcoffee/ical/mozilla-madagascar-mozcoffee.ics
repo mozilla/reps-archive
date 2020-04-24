@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4595
+CLASS:PUBLIC
+DTSTAMP:20200423T163604Z
+DTSTART:20150926T070000Z
+DTEND:20150926T090000Z
+LOCATION:Antananarivo\, Antananarivo\, Madagascar
+SUMMARY:Mozilla Madagascar MozCoffee
+DESCRIPTION:First ever MozCoffee for Mozilla Madagascar.\nWe discussed abo
+ ut our next steps as a community and how to recruit more members.\nTalked 
+ about our online presence and how to have more impact.\nDecided to take on
+  the Adopt-a-Store and Developer Outreach challenges for Firefox OS Africa
+URL:https://reps.mozilla.org/e/mozilla-madagascar-mozcoffee/
+SEQUENCE:3
+X-COORDINATES-LAT:-18.9134414923
+X-COORDINATES-LON:47.5281105
+X-COUNTRY-CODE:mg
+END:VEVENT
+
+END:VCALENDAR

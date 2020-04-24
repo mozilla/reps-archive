@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6757
+CLASS:PUBLIC
+DTSTAMP:20200423T105628Z
+DTSTART:20170704T063000Z
+DTEND:20170704T083000Z
+LOCATION:CCD \, Inside Hotel Capitol Hill\, MG Road\, Ranchi\, India
+SUMMARY:MozCoffee Ranchi
+DESCRIPTION:Inviting all the active members of MozJharkhand to discuss the
+  problems and plan new activities for the people and make this community a
+ live again.\nAlso ways to contribute in Mozilla will be discussed.
+URL:https://reps.mozilla.org/e/mozcoffee-ranchi-1/
+SEQUENCE:3
+X-COORDINATES-LAT:23.3441
+X-COORDINATES-LON:85.3096
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

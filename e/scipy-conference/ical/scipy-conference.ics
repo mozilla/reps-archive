@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@356
+CLASS:PUBLIC
+DTSTAMP:20200423T223001Z
+DTSTART:20121227T063000Z
+DTEND:20121229T063000Z
+LOCATION:IIT Bombay\, Mumbai\, India
+SUMMARY:SciPy Conference
+DESCRIPTION:Scipy.in is a conference providing opportunities to spread the
+  use of the Python programming language in the Scientific Computing commun
+ ity in India. 
+URL:https://reps.mozilla.org/e/scipy-conference/
+SEQUENCE:0
+X-COORDINATES-LAT:20.6327842504
+X-COORDINATES-LON:84.375
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

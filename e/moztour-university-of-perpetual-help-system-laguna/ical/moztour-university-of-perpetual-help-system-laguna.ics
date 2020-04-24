@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4093
+CLASS:PUBLIC
+DTSTAMP:20200423T165637Z
+DTSTART:20150801T010000Z
+DTEND:20150801T040000Z
+LOCATION:University of Perpetual Help System - Laguna\, Biñan\, Philippin
+ es
+SUMMARY:MozTour University of Perpetual Help System - Laguna
+DESCRIPTION:The Mozilla Philippines Community has been invited by the Comp
+ uter Engineering Department of the University of Perpetual Help System - L
+ aguna for a MozTour.\n\nThis is the very first time that MozillaPH will be
+  visiting the campus.
+URL:https://reps.mozilla.org/e/moztour-university-of-perpetual-help-system
+ -laguna/
+SEQUENCE:3
+X-COORDINATES-LAT:14.3136194309
+X-COORDINATES-LON:121.06811428
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

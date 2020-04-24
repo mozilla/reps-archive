@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7776
+CLASS:PUBLIC
+DTSTAMP:20200423T093725Z
+DTSTART:20180510T070000Z
+DTEND:20180511T170000Z
+LOCATION:MEST - ACCRA\, Accra\, Ghana
+SUMMARY:Mozilla Global Sprint (Accra)
+DESCRIPTION:Mozilla&#39;s Global Sprint is a fun\, two-day collaborative hacka
+ thon. A diverse network of educators\, engineers\, artists\, scientists\, 
+ and many others come together in person and online to build projects for a
+  healthy Internet.
+URL:https://reps.mozilla.org/e/mozilla-global-sprint-accra/
+SEQUENCE:1
+X-COORDINATES-LAT:5.54662171295
+X-COORDINATES-LON:-0.292081832886
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3091
+CLASS:PUBLIC
+DTSTAMP:20200423T182431Z
+DTSTART:20141128T010000Z
+DTEND:20141128T060000Z
+LOCATION:jp university\,guna\,Madhya Pa\, Bhopal\, India
+SUMMARY:GraphicsCamp
+DESCRIPTION:This workshop will cover from very basics i.e HTML \, CSS 3 ba
+ sics and advanced (including css animations)\,Native JS\, Angular JS\, Boo
+ tstrap etc.\nThis workshop will cover basics of HTML in the first two days
+  for the beginners and advanced topics of for those who know the basics.\n
+ We will also start working on designing part .
+URL:https://reps.mozilla.org/e/graphicscamp/
+SEQUENCE:3
+X-COORDINATES-LAT:23.2558040151
+X-COORDINATES-LON:77.421913133
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

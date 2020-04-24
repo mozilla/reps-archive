@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7548
+CLASS:PUBLIC
+DTSTAMP:20200423T095110Z
+DTSTART:20180324T070000Z
+DTEND:20180324T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: Public Speaking (Mozilla Tech Speaker Event)
+DESCRIPTION:Public speaking is the means or the art of public speaking. Ma
+ ny people feel that public speaking is a terrifying thing. They began to f
+ eel there is nothing to say\, so to speak in public of having someone look
+ ing awkward in front of people.\n\nThrough MozBelajar held by Mozilla&#39;s Te
+ ch Speakers\, Mozilla Tech Speaker Ahmad Munif will invite you to learn ab
+ out public speaking.
+URL:https://reps.mozilla.org/e/mozbelajar-public-speaking-mozilla-tech-spe
+ aker-event/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.235083
+X-COORDINATES-LON:106.8211489
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

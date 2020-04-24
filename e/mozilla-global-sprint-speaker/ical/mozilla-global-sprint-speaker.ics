@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7741
+CLASS:PUBLIC
+DTSTAMP:20200423T093805Z
+DTSTART:20180509T033000Z
+DTEND:20180509T063000Z
+LOCATION:WSO2\, Colombo\, Sri Lanka
+SUMMARY:Mozilla Global Sprint -  Speaker
+DESCRIPTION:Will be deliver a session on contributing to open source onbeh
+ alf of Mozilla LK
+URL:https://reps.mozilla.org/e/mozilla-global-sprint-speaker/
+SEQUENCE:1
+X-COORDINATES-LAT:6.89325284325
+X-COORDINATES-LON:79.9680176005
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

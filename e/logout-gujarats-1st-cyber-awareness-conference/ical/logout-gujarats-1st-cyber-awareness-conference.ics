@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6195
+CLASS:PUBLIC
+DTSTAMP:20200423T113426Z
+DTSTART:20170122T033000Z
+DTEND:20170122T083000Z
+LOCATION:Thakor Bhai Desai Hall\, Nr. Law Garden\, Ahmedabad\, Gujarat\, A
+ hmedabad\, India
+SUMMARY:Logout – Gujarat’s 1st Cyber Awareness Conference
+DESCRIPTION:Today Cyber Space in India is facing many problems\, people ar
+ e becoming victim of cyber-crime in day to day life\, Our Government of In
+ dia is working rapidly with it to bring keen and powerful solutions in upc
+ oming future but the big revolution is not possible without the help of ci
+ tizen itself. So it’s time to learn and get Secured\, Safe and Stay Prot
+ ected against the Cyber Theft and Cyber Crime which happen just with the f
+ ew clicks.
+URL:https://reps.mozilla.org/e/logout-gujarats-1st-cyber-awareness-confere
+ nce/
+SEQUENCE:1
+X-COORDINATES-LAT:22.7930634333
+X-COORDINATES-LON:72.3090827465
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

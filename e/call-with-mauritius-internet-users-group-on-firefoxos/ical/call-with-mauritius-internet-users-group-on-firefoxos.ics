@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4573
+CLASS:PUBLIC
+DTSTAMP:20200423T163502Z
+DTSTART:20150929T170000Z
+DTEND:20150929T180000Z
+LOCATION:Long Mountain\, Long Mountain\, Mauritius
+SUMMARY:Call with Mauritius Internet Users Group on FirefoxOS
+DESCRIPTION:Mauritius Internet Users Group invited me in their weekly Tues
+ day skype call to introduce Firefox OS.
+URL:https://reps.mozilla.org/e/call-with-mauritius-internet-users-group-on
+ -firefoxos/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1545928518
+X-COORDINATES-LON:57.5699758512
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5873
+CLASS:PUBLIC
+DTSTAMP:20200423T145139Z
+DTSTART:20161004T113000Z
+DTEND:20161004T133000Z
+LOCATION:Classroom G5-133\, 5/F Academic 1\, City University of Hong Kong.
+ \, Kowloon\, Hong Kong
+SUMMARY:Rust Meeting #1 (Hong Kong)
+DESCRIPTION:Rust Meetup #1 will be a &#34;study group&#34; like meeting\, starting
+  with short talks by participants to share their experience on Rust. We re
+ commends participants to bring their own laptops with Rust installed. This
+  meeting is mainly conducted in Cantonese.
+URL:https://reps.mozilla.org/e/rust-meeting-1-hong-kong/
+SEQUENCE:6
+X-COORDINATES-LAT:22.335626544
+X-COORDINATES-LON:114.17386508
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

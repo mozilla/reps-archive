@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2194
+CLASS:PUBLIC
+DTSTAMP:20200423T195804Z
+DTSTART:20140426T140000Z
+DTEND:20140426T230000Z
+LOCATION:UAMI\, Ixtapalapa\, Mexico
+SUMMARY:FLISOL 2014 UAMI
+DESCRIPTION:Flisol is a event held in many Latin America cities to install
+  free software in users computers. At the same time that the installfest\,
+  communities give talks regarding free software.
+URL:https://reps.mozilla.org/e/flisol-2014-uami/
+SEQUENCE:2
+X-COORDINATES-LAT:19.3530900317
+X-COORDINATES-LON:-99.0655632026
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

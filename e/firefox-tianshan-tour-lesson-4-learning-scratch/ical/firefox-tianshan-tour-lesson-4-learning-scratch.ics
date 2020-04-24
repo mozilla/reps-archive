@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4835
+CLASS:PUBLIC
+DTSTAMP:20200423T161040Z
+DTSTART:20151126T080000Z
+DTEND:20151126T093000Z
+LOCATION:Urumqi tenth Primary school\, urumqi\, China
+SUMMARY:Firefox Tianshan tour -Lesson 4 - Learning  scratch
+DESCRIPTION:How to network literacy teaching scratch combined with firefox
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson-4-learning-scr
+ atch/
+SEQUENCE:9
+X-COORDINATES-LAT:43.7707903775
+X-COORDINATES-LON:2607.62545002
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

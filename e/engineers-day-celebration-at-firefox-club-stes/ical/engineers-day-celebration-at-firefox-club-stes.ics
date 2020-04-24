@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4416
+CLASS:PUBLIC
+DTSTAMP:20200423T164154Z
+DTSTART:20150915T033000Z
+DTEND:20150915T123000Z
+LOCATION:Smt. Kashibai Navale College of Engineering\, Vadgaon(Bk.)\, Pune
+ \, Pune\, India
+SUMMARY:Engineers Day Celebration at Firefox Club STES
+DESCRIPTION:September 15th is the Engineers&#39; Day.\nThe agenda for this eve
+ nt is :\n- HTML competition using Webmaker Thimble\n- Session on Graphics 
+ Design by Akshay Chitwar
+URL:https://reps.mozilla.org/e/engineers-day-celebration-at-firefox-club-s
+ tes/
+SEQUENCE:6
+X-COORDINATES-LAT:18.4656000473
+X-COORDINATES-LON:73.8358354551
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

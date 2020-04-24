@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3455
+CLASS:PUBLIC
+DTSTAMP:20200423T175032Z
+DTSTART:20150226T150000Z
+DTEND:20150227T140000Z
+LOCATION:Donde Pláticas:   Auditorio Marsal\, edificio Bernardo Quintana\
+ , Posgado de Ingeniería\, UNAM\, C.U\, Coyoacan\, Mexico
+SUMMARY:#FixIT @ UNAM Mexico
+DESCRIPTION:As Google Anita Borg Scholars know that give women opportuniti
+ es to connect with each build a supportive community where development is 
+ encouraged and professional growth.\n\nThat is our goal: creating a Hackat
+ hon to generate innovative and creative environment in which all participa
+ nts feel free to learn\, plan\, and socialize in order to revolutionize th
+ e technology. #FixIT!
+URL:https://reps.mozilla.org/e/fixit-unam-mexico/
+SEQUENCE:3
+X-COORDINATES-LAT:19.3196449236
+X-COORDINATES-LON:-99.183590413
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3644
+CLASS:PUBLIC
+DTSTAMP:20200423T174236Z
+DTSTART:20150315T040000Z
+DTEND:20150315T123000Z
+LOCATION:Jeevika Acadamy\,  Opp to Solai Malai\, Trichy Main Road\, Vilupp
+ uram\, India
+SUMMARY:Mozilla Localization Event
+DESCRIPTION:Mozilla Localization Event on March15\, 2015 Sunday ForWomen\n
+ We have decided to celebrate International Women&#39;s Day as a Mozilla Event(
+ WoMoz) on March15\,2015. Main goal is to involve them into Mozilla Localiz
+ ation and encouraging women&#39;s contribution to Mozilla.\n\nOrganizing Lead 
+ Khaleel Jageer
+URL:https://reps.mozilla.org/e/mozilla-localization-event/
+SEQUENCE:3
+X-COORDINATES-LAT:11.9407662586
+X-COORDINATES-LON:79.4871582981
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

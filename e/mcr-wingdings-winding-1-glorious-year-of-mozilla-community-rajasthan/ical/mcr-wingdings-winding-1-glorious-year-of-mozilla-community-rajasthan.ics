@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3251
+CLASS:PUBLIC
+DTSTAMP:20200423T180530Z
+DTSTART:20150124T043000Z
+DTEND:20150125T123000Z
+LOCATION:Sheesha Lounge\, Jaipur\, India
+SUMMARY:MCR Wingdings - Winding 1 glorious year of Mozilla Community Rajas
+ than
+DESCRIPTION:MCR has been contributing to Mozilla enormously. Previously we
+  crossed a milestone in MiniCamp Jaipur and now we are aspiring to raise t
+ he bar for ourselves. This  event will bring together all the current cont
+ ributors where they can share their stories\, problems\, achievements and 
+ yes contribute then and there itself. Along with current contributors we a
+ re also inviting all those who are interested to know about Mozilla\, and 
+ looking forward to on board many new contributors in this event.
+URL:https://reps.mozilla.org/e/mcr-wingdings-winding-1-glorious-year-of-mo
+ zilla-community-rajasthan/
+SEQUENCE:29
+X-COORDINATES-LAT:26.9216617882
+X-COORDINATES-LON:75.8283691294
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

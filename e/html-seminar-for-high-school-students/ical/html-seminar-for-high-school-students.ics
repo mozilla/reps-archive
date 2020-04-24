@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@435
+CLASS:PUBLIC
+DTSTAMP:20200423T221030Z
+DTSTART:20130211T050000Z
+DTEND:20130211T090000Z
+LOCATION:School of the Madeleine\, Bataan\, Philippines
+SUMMARY:HTML Seminar for High School Students
+DESCRIPTION:A seminar organized for high school students aimed to cope up 
+ with digital needs of the students in which it shall be a venue to educate
+  them to the latest trends in the web such as HTML5 and discuss the Mozill
+ a Overview. Also\, to promote Mozilla Webmaker for student use.
+URL:https://reps.mozilla.org/e/html-seminar-for-high-school-students/
+SEQUENCE:0
+X-COORDINATES-LAT:14.617492
+X-COORDINATES-LON:120.568553
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

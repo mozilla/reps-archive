@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3662
+CLASS:PUBLIC
+DTSTAMP:20200423T173941Z
+DTSTART:20150322T043000Z
+DTEND:20150322T113000Z
+LOCATION:Ma Saraswati Bhavan\, Sethpukur\, Barasat\, India
+SUMMARY:Firefox OS Marketplace App-Dev Workshop &amp; FSA Meetup
+DESCRIPTION:On the occasion of Firefox OS App Day at Narula Institute of T
+ echnology on 28th March\, 2015\, Mozilla Kolkata Community has decided to 
+ give a pre-event/pre-competition workshop for the newbies who want to lear
+ n the details about Firefox Marketplace App Development.\n\nHere is the op
+ portunity for you guys. We are arranging a whole day workshop on Firefox O
+ S Marketplace App Dev. J
+URL:https://reps.mozilla.org/e/firefox-os-marketplace-app-dev-workshop-fsa
+ -meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5523020158
+X-COORDINATES-LON:88.3205566183
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

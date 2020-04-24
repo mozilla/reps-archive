@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6157
+CLASS:PUBLIC
+DTSTAMP:20200423T114058Z
+DTSTART:20161215T093000Z
+DTEND:20161215T113000Z
+LOCATION:SAP Labs\, Bangalore\, India
+SUMMARY:Git basics workshop
+DESCRIPTION:This workshop involved basics of git and version control syste
+ ms to developers. The motive was to enable the developers to work on proje
+ cts using git.
+URL:https://reps.mozilla.org/e/git-basics-workshop/
+SEQUENCE:3
+X-COORDINATES-LAT:12.9715987
+X-COORDINATES-LON:77.5945627
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

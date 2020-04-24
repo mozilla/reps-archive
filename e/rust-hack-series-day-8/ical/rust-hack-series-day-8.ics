@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7638
+CLASS:PUBLIC
+DTSTAMP:20200423T093029Z
+DTSTART:20180527T043000Z
+DTEND:20180527T123000Z
+LOCATION:CMR\, Hyderabad\, Hyderabad\, India
+SUMMARY:Rust Hack Series - Day 8
+DESCRIPTION:It is a series of part of the Rust Hack Series\,2018. (https:/
+ /reps.mozilla.org/e/rust-hack-series/) This week would be based on Game De
+ velopment. Rust is potentially an ideal language for Game Development. Its
+  emphasis on low-level memory safe programming promise a better developmen
+ t process\, less debugging time\, and better end result. While the ecosyst
+ em is still very young\, you can find enough libraries and game engines to
+  sink your teeth into doing some slightly experimental gamedev.
+URL:https://reps.mozilla.org/e/rust-hack-series-day-8/
+SEQUENCE:2
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

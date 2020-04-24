@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1579
+CLASS:PUBLIC
+DTSTAMP:20200423T204554Z
+DTSTART:20131130T110000Z
+DTEND:20131130T200000Z
+LOCATION:Campus Ulbra Torres\, Torres\, Brazil
+SUMMARY:Hackday Ulbra Torres
+DESCRIPTION:We will conduct a Hackday Ulbra Torres\, will talk about the M
+ ozilla community\, and we will hold workshops SUMO development FirefoxOS. 
+ We will help students of computing to create the first application Firefox
+ OS and we will enjoy the event to inform stakeholders how to help Mozilla 
+ community.\nHave a class of 20-30 students Ulbra participating in the acti
+ vities\, most interested in developing Mobile.
+URL:https://reps.mozilla.org/e/hackday-ulbra-torres/
+SEQUENCE:6
+X-COORDINATES-LAT:-30.0260828387
+X-COORDINATES-LON:-51.2025003435
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6093
+CLASS:PUBLIC
+DTSTAMP:20200423T114426Z
+DTSTART:20161124T120000Z
+DTEND:20161124T140000Z
+LOCATION:Jakarta community space\, Jakarta\, Indonesia
+SUMMARY:MozBelajar - How to turn your Web app into desktop app
+DESCRIPTION:In this MozBelajar\, Diky Arga will demonstrate how to turn a 
+ Web app become a desktop one
+URL:https://reps.mozilla.org/e/mozbelajar-change-your-web-app-into-desktop
+ -app/
+SEQUENCE:2
+X-COORDINATES-LAT:-7.05864523767
+X-COORDINATES-LON:110.5052948
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

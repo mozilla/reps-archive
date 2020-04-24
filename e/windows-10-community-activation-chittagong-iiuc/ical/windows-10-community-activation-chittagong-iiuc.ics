@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4663
+CLASS:PUBLIC
+DTSTAMP:20200423T162538Z
+DTSTART:20151022T040000Z
+DTEND:20151022T070000Z
+LOCATION:International Islamic University Chittagong\, Chittagong\, Bangla
+ desh
+SUMMARY:Windows 10 Community Activation @ Chittagong\, IIUC
+DESCRIPTION:This event helps us to retain Firefox Users on Windows 10. In 
+ support to Windows 10 Community Activation Campaign we are hosting this ev
+ ent.
+URL:https://reps.mozilla.org/e/windows-10-community-activation-chittagong-
+ iiuc/
+SEQUENCE:1
+X-COORDINATES-LAT:22.3333448576
+X-COORDINATES-LON:91.8352746964
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

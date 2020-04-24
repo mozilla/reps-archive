@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@826
+CLASS:PUBLIC
+DTSTAMP:20200423T214607Z
+DTSTART:20130505T053000Z
+DTEND:20130505T093000Z
+LOCATION:City Center Mall\, Nasik\, India
+SUMMARY:Webmaker Pop Up Nasik
+DESCRIPTION:Pop up is a small meet of Webmakers for a couple of hours over
+  coffee.\nThis is a gathering where we will hack some online stuff\, intro
+ duce persona and open badges.Agenda:\n\n1. Thimble hacking.\n\n2. X-ray go
+ ggles play.\n\n3. Popcorn maker video making.\n\n4. Mozilla Persona.\n\n5.
+  Earn open badges.
+URL:https://reps.mozilla.org/e/webmaker-pop-up-nasik/
+SEQUENCE:2
+X-COORDINATES-LAT:19.9862551554
+X-COORDINATES-LON:73.7786865234
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

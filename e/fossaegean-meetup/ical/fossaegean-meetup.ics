@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1474
+CLASS:PUBLIC
+DTSTAMP:20200423T205546Z
+DTSTART:20131101T190000Z
+DTEND:20131101T210000Z
+LOCATION:University of the Aegean - Samos\, Karlovasi\, Greece
+SUMMARY:fossaegean Meetup
+DESCRIPTION:Meetup of the core team of the fossaegean community (Universit
+ y of the Aegean) to co-ordinate on future activities (incl. organising the
+  fossaegean Firefox Club\, hosting a Firefox OS presentation\, related wor
+ kshops etc.) Will also have the chance to make an instant Firefox OS previ
+ ew using the dev phone.
+URL:https://reps.mozilla.org/e/fossaegean-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:37.7949058055
+X-COORDINATES-LON:26.7066546678
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3568
+CLASS:PUBLIC
+DTSTAMP:20200423T174833Z
+DTSTART:20150228T230000Z
+DTEND:20150301T003000Z
+LOCATION:India\, Pune\, India
+SUMMARY:Mentor Mentee Meeting 2
+DESCRIPTION:A meeting between Mentor and his/her mentee discussing more ab
+ out all the actions and updates from the  meentees.  \nInteraction involve
+ s sharing updates and success stories.  \nDiscussing concerns and Yay Mome
+ nts!
+URL:https://reps.mozilla.org/e/mentor-mentee-meeting-2/
+SEQUENCE:3
+X-COORDINATES-LAT:18.5080875338
+X-COORDINATES-LON:73.8162230328
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

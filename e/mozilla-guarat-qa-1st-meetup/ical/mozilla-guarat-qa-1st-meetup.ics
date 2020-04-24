@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6259
+CLASS:PUBLIC
+DTSTAMP:20200423T113132Z
+DTSTART:20170204T103000Z
+DTEND:20170204T133000Z
+LOCATION:TBD\, Ahmedabad\, India
+SUMMARY:Mozilla Guarat QA 1st Meetup
+DESCRIPTION:We are going to launch Mozilla Gujarat QA Team (MozGuj QA Team
+ )\n\nJoin us if you are passionate about making Firefox better for people 
+ who love it. No matter what your background or technical experience\, we w
+ ould love to have you involved in our activities.\nJoin us to contribute t
+ o our QA activities and help us ensure that Mozilla products provide an am
+ azing experience to our users worldwide.
+URL:https://reps.mozilla.org/e/mozilla-guarat-qa-1st-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:22.9550214542
+X-COORDINATES-LON:70.9907233715
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

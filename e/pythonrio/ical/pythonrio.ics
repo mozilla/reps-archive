@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6255
+CLASS:PUBLIC
+DTSTAMP:20200423T145321Z
+DTSTART:20160924T170000Z
+DTEND:20160924T210000Z
+LOCATION:Stone\, Rio de Janeiro\, Brazil
+SUMMARY:PythonRio
+DESCRIPTION:PythonRio is a monthly meetup for Python developers in Rio and
+  Niterói city. \n\nDuring this edition I spoke about Web of Things and Ph
+ ysical Computing using ESP8266 and MicroPython.
+URL:https://reps.mozilla.org/e/pythonrio/
+SEQUENCE:0
+X-COORDINATES-LAT:-22.840320721
+X-COORDINATES-LON:-43.2319334149
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1260
+CLASS:PUBLIC
+DTSTAMP:20200423T210844Z
+DTSTART:20130921T040000Z
+DTEND:20130921T120000Z
+LOCATION:TBD\, Dhaka\, Bangladesh
+SUMMARY:PHPXperts Seminar 2013
+DESCRIPTION:This is our country&#39;s biggest Web Developer&#39;s annual event. Th
+ ey arrange a day long event\, where speakers speak on cutting edge web tec
+ hnologies. We have been requesting them to be a part of their event for la
+ st two years. This year they agreed to give us a slot. More than 700 devel
+ opers already signed in to participate. This would be a sheer opportunity 
+ for us to present all of our web technologies including FirefoxOS and moti
+ vating them to develop apps.
+URL:https://reps.mozilla.org/e/phpxperts-seminar-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7067806248
+X-COORDINATES-LON:90.4240036011
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

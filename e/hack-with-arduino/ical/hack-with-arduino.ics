@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5498
+CLASS:PUBLIC
+DTSTAMP:20200423T152116Z
+DTSTART:20160604T033000Z
+DTEND:20160604T113000Z
+LOCATION:Malabar House\,Kunummal\,Malappuram\, Malappuram\, India
+SUMMARY:Hack with Arduino
+DESCRIPTION:-Introduction to Arduino\n-Hands on Projects with Arduino\n\nI
+ n association with Kerala Startup Mission and Makerfox
+URL:https://reps.mozilla.org/e/hack-with-arduino/
+SEQUENCE:2
+X-COORDINATES-LAT:11.0426220209
+X-COORDINATES-LON:76.0795383481
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7726
+CLASS:PUBLIC
+DTSTAMP:20200423T093356Z
+DTSTART:20180519T010000Z
+DTEND:20180519T090000Z
+LOCATION:名古屋市中小企業振興会館\, Nagoya\, Japan
+SUMMARY:MDN booth and seminar at OSC Nagoya
+DESCRIPTION:OSC Nagoya is yearly held event in Nagoya city\, located in th
+ e central area of Japan\, with over 500 people attendees.\n\nJapanese Mozi
+ lla Translation Community will host a booth at the event and hold a semina
+ r to introduce people how MDN works and how they can contribute to it.
+URL:https://reps.mozilla.org/e/mdn-booth-and-seminar-at-osc-nagoya/
+SEQUENCE:4
+X-COORDINATES-LAT:35.158637
+X-COORDINATES-LON:136.929877
+X-COUNTRY-CODE:jp
+END:VEVENT
+
+END:VCALENDAR

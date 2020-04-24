@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6549
+CLASS:PUBLIC
+DTSTAMP:20200423T111335Z
+DTSTART:20170428T083000Z
+DTEND:20170428T103000Z
+LOCATION:Peoples University\, Bhopal\, India
+SUMMARY:Mozillla Club Inaugration
+DESCRIPTION:This will be an introductory event with establishing mozilla c
+ lub to involve more and more contributor.This event will include introduct
+ ion to Mozilla and its mission with describing its products.Also it will i
+ nclude the key areas of contribution where they can contribute and what be
+ nefit they will get\,and also there will be small introduction about emerg
+ ing technologies like MozVR\,Rust\,IoT etc.
+URL:https://reps.mozilla.org/e/mozillla-club-inaugration/
+SEQUENCE:2
+X-COORDINATES-LAT:23.2998608
+X-COORDINATES-LON:77.4213696
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

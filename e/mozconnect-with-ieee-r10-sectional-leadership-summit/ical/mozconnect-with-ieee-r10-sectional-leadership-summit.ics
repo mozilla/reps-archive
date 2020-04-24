@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6826
+CLASS:PUBLIC
+DTSTAMP:20200423T105005Z
+DTSTART:20170803T043000Z
+DTEND:20170804T113000Z
+LOCATION:G H Patel College of Engineering &amp; Technology\,Vallabh Vidyanagar
+ \, Gujarat.\, Anand\, India
+SUMMARY:MozConnect with IEEE R10 Sectional Leadership Summit
+DESCRIPTION:This is the first time Mozilla will participate with IEEE R10 
+ Sectional Leadership Summit- Thanks to Mozilla Gujarat Community! The summ
+ it will involve students and tech enthusiasts from all over the city and s
+ tate.
+URL:https://reps.mozilla.org/e/mozconnect-with-ieee-r10-sectional-leadersh
+ ip-summit/
+SEQUENCE:5
+X-COORDINATES-LAT:23.0062675943
+X-COORDINATES-LON:72.5363158062
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

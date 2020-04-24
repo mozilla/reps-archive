@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8076
+CLASS:PUBLIC
+DTSTAMP:20200423T091653Z
+DTSTART:20180717T083000Z
+DTEND:20180717T133000Z
+LOCATION:Computer Institute\,Kaghaznagar\, Kaghaznagar\, India
+SUMMARY:SUMO #OnAir2
+DESCRIPTION:This will be series of Online Meetup for SUMO Tamil Localizati
+ on. We will be Meeting Online over hangouts for SUMO Localization in Tamil
+ . In this event we will also having a Training session of Tamil Localizati
+ on for new contributors to guide them about the process and SUMO Localizat
+ ion.
+URL:https://reps.mozilla.org/e/sumo-onair2/
+SEQUENCE:1
+X-COORDINATES-LAT:19.3589812821
+X-COORDINATES-LON:79.5325469691
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

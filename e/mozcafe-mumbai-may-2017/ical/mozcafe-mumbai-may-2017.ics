@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6622
+CLASS:PUBLIC
+DTSTAMP:20200423T110725Z
+DTSTART:20170521T123000Z
+DTEND:20170521T143000Z
+LOCATION:Mcdonalds\, Sai Elegance\, Village Mulgaon\, Mahakali Caves Road\
+ , Taluka Andheri\, Andheri East\,\, Sai Elegance - Andheri\, Subhash Nagar
+ \, Andheri East\, Mumbai\, India
+SUMMARY:MozCafe Mumbai May 2017
+DESCRIPTION:This will be an informal meetup of Mozillians\, around the cit
+ y\, coming together and discussing on the future plans to expand the Mozil
+ la Mumbai Community and strategic planning for Activate Mozilla campaign.
+URL:https://reps.mozilla.org/e/mozcafe-mumbai-may-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:19.1232131
+X-COORDINATES-LON:72.864267
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

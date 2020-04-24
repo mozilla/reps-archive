@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8188
+CLASS:PUBLIC
+DTSTAMP:20200423T084928Z
+DTSTART:20181206T080000Z
+DTEND:20181207T170000Z
+LOCATION:Les docs de Paris\, Paris\, France
+SUMMARY:Paris Open Source Summit 2018
+DESCRIPTION:Merge of two events: - Solutions Linux - Open World Forum Mozi
+ lla was usually present at these two events. Now the event is called Paris
+  Open Source Summit (POSS) This event aims to be global. With aims to cove
+ r the major issues of open source\, the program will be divided into three
+  main themes: business\, technological and societal. &#34;Business-wise\, the 
+ focus will be on feedback\, particularly in the areas of governance\, purc
+ hases or open source innovation&#34;
+URL:https://reps.mozilla.org/e/paris-open-source-summit-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8912077629
+X-COORDINATES-LON:2.47119158506
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5763
+CLASS:PUBLIC
+DTSTAMP:20200423T150243Z
+DTSTART:20160823T053000Z
+DTEND:20160823T071500Z
+LOCATION:K.K.Wagh College of Arts\,Commerce\,Science and Computer Science\
+ ,  Saraswati Nagar\, Amrutdham\, Panchavati\, Nashik\, India
+SUMMARY:Mozilla Club Inauguration at Mozilla Nashik
+DESCRIPTION:This will be a Mozilla Club Inauguration session for local cam
+ pus in Mozilla Nashik Community. The agenda for the event will be:\n1. Int
+ roduction to Mozilla Clubs. 2. Mentoring Club Lead. 3. Introduction to Moz
+ illa and the communities. 4. Contribution pathways.
+URL:https://reps.mozilla.org/e/mozilla-club-inauguration-at-mozilla-nashik
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:20.0241984597
+X-COORDINATES-LON:73.8302636138
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

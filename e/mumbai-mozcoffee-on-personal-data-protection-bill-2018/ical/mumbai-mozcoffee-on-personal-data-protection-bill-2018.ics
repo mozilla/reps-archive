@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8029
+CLASS:PUBLIC
+DTSTAMP:20200423T090633Z
+DTSTART:20180901T103000Z
+DTEND:20180901T123000Z
+LOCATION:IIT Bombay\, Powai\, Mumbai\, India\, Mumbai\, India
+SUMMARY:Mumbai: MozCoffee on Personal Data Protection Bill 2018
+DESCRIPTION:Inviting all Mozilla Community Members in and around Mumbai to
+  discuss on Personal Data Protection Bill 2018 over a Coffee and snacks. D
+ ates and Venue: Yet to be decided\, suggest a good venue and dates in plan
+ ning pad.
+URL:https://reps.mozilla.org/e/mumbai-mozcoffee-on-personal-data-protectio
+ n-bill-2018/
+SEQUENCE:0
+X-COORDINATES-LAT:19.1298418682
+X-COORDINATES-LON:72.9151647093
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

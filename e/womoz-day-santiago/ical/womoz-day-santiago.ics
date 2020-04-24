@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3717
+CLASS:PUBLIC
+DTSTAMP:20200423T173049Z
+DTSTART:20150423T140000Z
+DTEND:20150423T170000Z
+LOCATION:INACAP Sede Maipu\, Santiago\, Chile
+SUMMARY:WoMoz Day Santiago
+DESCRIPTION:Women&#39;s Day - University INACAP Maipú.\n\nLightning talk of W
+ OMOZ project by Scarlett Melgarejo\, she is the mozillian creative &amp; desig
+ ner of our chilean community from Chile.\n\nTarget: Students from the seat
+  (Computer Area\, Design\, Business\, Management and High School Students)
+URL:https://reps.mozilla.org/e/womoz-day-santiago/
+SEQUENCE:11
+X-COORDINATES-LAT:-33.5055850913
+X-COORDINATES-LON:-70.7337341312
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

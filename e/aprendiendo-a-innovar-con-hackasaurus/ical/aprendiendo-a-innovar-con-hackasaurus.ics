@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@844
+CLASS:PUBLIC
+DTSTAMP:20200423T213643Z
+DTSTART:20130607T140000Z
+DTEND:20130607T180000Z
+LOCATION:Jinotepe\, Carazo\, Managua\, Nicaragua
+SUMMARY:Aprendiendo a Innovar con Hackasaurus
+DESCRIPTION:The Mozilla Community in Nicaragua is organizing an activity c
+ alled &#34;Innovating with Hackasaurus&#34;\, which has as main objective to devel
+ op the skills of children from the social to technology and determining th
+ e ability to innovate through the different dynamics prepared by the Commu
+ nity .
+URL:https://reps.mozilla.org/e/aprendiendo-a-innovar-con-hackasaurus/
+SEQUENCE:4
+X-COORDINATES-LAT:11.8451015183
+X-COORDINATES-LON:-86.1980384588
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

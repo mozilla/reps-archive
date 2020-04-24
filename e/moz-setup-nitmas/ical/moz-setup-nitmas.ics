@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3341
+CLASS:PUBLIC
+DTSTAMP:20200423T175642Z
+DTSTART:20150214T033000Z
+DTEND:20150214T113000Z
+LOCATION:Neotia Institute of Technology\, Management and Science\, Diamond
+  Harbour\, India
+SUMMARY:Moz Setup @ NITMAS
+DESCRIPTION:Description: The event will start with Inauguration of Firefox
+  Club\, moving on to Mozilla mission and Mozilla&#39;s Innovation. Students wi
+ ll be encouraged to contribute in FOSS. Talk session will be based on Webm
+ aker\, Localization\, Firefox OS\, Privacy etc.
+URL:https://reps.mozilla.org/e/moz-setup-nitmas/
+SEQUENCE:8
+X-COORDINATES-LAT:22.1846498358
+X-COORDINATES-LON:88.1552123465
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

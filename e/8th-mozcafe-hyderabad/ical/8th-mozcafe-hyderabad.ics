@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@927
+CLASS:PUBLIC
+DTSTAMP:20200423T214008Z
+DTSTART:20130526T093000Z
+DTEND:20130526T113000Z
+LOCATION:Barista Lavazza Kondapur Main Road Hyderabad\, Hyderabad\, India
+SUMMARY:8th MozCafe Hyderabad
+DESCRIPTION:Gathering of Mozillans in and around Hyderabad.
+URL:https://reps.mozilla.org/e/8th-mozcafe-hyderabad/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4578470328
+X-COORDINATES-LON:78.3716529608
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

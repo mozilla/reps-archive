@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5378
+CLASS:PUBLIC
+DTSTAMP:20200423T152645Z
+DTSTART:20160511T050000Z
+DTEND:20160511T170000Z
+LOCATION:Liberty Technology Park Cluj\, Clausemburgo\, Romania
+SUMMARY:DevTalks Cluj
+DESCRIPTION:Ioana is having a Keynote on: &#34;Unblock users – Why mobile we
+ b compatibility is (so) important&#34; \nJobava is having a Keynote on: &#34;Chall
+ enges Of Data Protection&#34;\n\nDevTalks will have 4 tracks\, as it follows :
+  “Transition to 2020”(IoT\, Smart Devices\, AI &amp; Machine Learning)\, M
+ obile (Win\, iOS\, Android)\, The Everlasting Web (Web 3.0) and Infrastruc
+ ture of Internet (BigData &amp; Cloud Computing).
+URL:https://reps.mozilla.org/e/devtalks-cluj/
+SEQUENCE:2
+X-COORDINATES-LAT:46.7880273862
+X-COORDINATES-LON:23.5947922467
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

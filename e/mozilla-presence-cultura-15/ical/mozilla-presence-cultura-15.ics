@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3439
+CLASS:PUBLIC
+DTSTAMP:20200423T175355Z
+DTSTART:20150221T043000Z
+DTEND:20150222T143000Z
+LOCATION:CMR Institute of Technology\, Bangalore\, India
+SUMMARY:Mozilla presence @ Cultura &#39;15
+DESCRIPTION:Cultra is an annual cultural and tech fest of CMR Institute of
+  Technology. \nThis time\, they have invited Mozilla to be a part of this 
+ fest. We have decided to host a Webmaker hackathon for the same. The facil
+ itaros will demonstrate a Webmaker tool for the initial 10mins and then op
+ en a contest for the next 45mins\, where the students will have to create 
+ something using the same tool. Each round will have elimination and at the
+  end\, the top one or two groups will be awarded some prize.
+URL:https://reps.mozilla.org/e/mozilla-presence-cultura-15/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9732714409
+X-COORDINATES-LON:77.7440328596
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

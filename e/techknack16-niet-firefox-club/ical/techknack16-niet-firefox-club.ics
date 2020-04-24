@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5155
+CLASS:PUBLIC
+DTSTAMP:20200423T154607Z
+DTSTART:20160226T033000Z
+DTEND:20160226T113000Z
+LOCATION:Noida Institute of Engineering &amp; Technology\, Noida\, India
+SUMMARY:TechKnack&#39;16 - NIET Firefox Club
+DESCRIPTION:Phase 1 : Introduction of Mozilla\, FSA program and NIET Firef
+ ox Club\n\nPhase 2 :\n1. Workshop on &#34;J2EE and Web Hosting&#34;\n2. Workshop o
+ n &#34;Privacy and Ethical Hacking&#34;\n\nInterval Break\n\nPhase 3: Coding Conte
+ st\n\nDeclaration of Winners and Swag Distribution !
+URL:https://reps.mozilla.org/e/techknack16-niet-firefox-club/
+SEQUENCE:5
+X-COORDINATES-LAT:28.5744594792
+X-COORDINATES-LON:77.3654651642
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

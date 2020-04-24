@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@968
+CLASS:PUBLIC
+DTSTAMP:20200423T205338Z
+DTSTART:20131109T010000Z
+DTEND:20131110T090000Z
+LOCATION:School of Design &amp; Arts Campus\, De La Salle - College of St. Ben
+ ilde\, Manila\, Philippines
+SUMMARY:&lt;Form&gt; Function() &amp; .Class Web Design Conference 2013
+DESCRIPTION:FFC will be held on November 9–10\, 2013 with a target audie
+ nce of 200 participants hailing from the web design/development industry a
+ nd academe. The first day will be devoted to multiple-track\, 3-hour works
+ hop sessions in the morning and afternoon. The second day will be the main
+  conference consisting of plenary sessions for the whole day.
+URL:https://reps.mozilla.org/e/form-function-class-web-design-conference-2
+ 013/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5631882398
+X-COORDINATES-LON:120.997421264
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

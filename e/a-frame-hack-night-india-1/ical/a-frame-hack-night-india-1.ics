@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6526
+CLASS:PUBLIC
+DTSTAMP:20200423T111433Z
+DTSTART:20170422T133000Z
+DTEND:20170423T013000Z
+LOCATION:Runwal Garden City\, Thane\, Mumbai\, India
+SUMMARY:A-Frame Hack Night India @ Mumbai
+DESCRIPTION:WebVR India community event as WebVR Hackathon night.
+URL:https://reps.mozilla.org/e/a-frame-hack-night-india-1/
+SEQUENCE:2
+X-COORDINATES-LAT:19.2277781
+X-COORDINATES-LON:72.9873923
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

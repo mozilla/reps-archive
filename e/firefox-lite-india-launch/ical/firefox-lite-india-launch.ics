@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8455
+CLASS:PUBLIC
+DTSTAMP:20200423T083857Z
+DTSTART:20190313T063000Z
+DTEND:20190313T103000Z
+LOCATION:Delhi\, New Delhi\, India
+SUMMARY:Firefox Lite - India Launch
+DESCRIPTION:Hardcore Firefox fans will know that Mozilla launched a lighte
+ r version of its mobile web browser Firefox on Play Store in October 2017.
+  Mozilla is now launching the Firefox Lite officially in India on March 13
+ \, Head of Product and Head of Business Development at Mozilla Asia will t
+ alk about how the new browser is fulfilling the needs of users and discuss
+  local partnerships in India.
+URL:https://reps.mozilla.org/e/firefox-lite-india-launch/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6322822369
+X-COORDINATES-LON:77.2201251949
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

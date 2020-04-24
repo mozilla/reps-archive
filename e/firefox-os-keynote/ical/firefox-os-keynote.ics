@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4092
+CLASS:PUBLIC
+DTSTAMP:20200423T170523Z
+DTSTART:20150707T230000Z
+DTEND:20150708T010000Z
+LOCATION:Compusis de Colombia\, Fusagasugá\, Colombia
+SUMMARY:Firefox OS keynote
+DESCRIPTION:Keynote about Firefox OS for students at Compusis de Colombia.
+  Will be teach Firefox OS as a platform for building native mobile applica
+ tions using HTML\, CSS and JavaScript. \n\nThis event is organized by Giov
+ anny Cifuentes
+URL:https://reps.mozilla.org/e/firefox-os-keynote/
+SEQUENCE:1
+X-COORDINATES-LAT:4.52429029364
+X-COORDINATES-LON:-74.2825012235
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

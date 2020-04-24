@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@990
+CLASS:PUBLIC
+DTSTAMP:20200423T212943Z
+DTSTART:20130702T080000Z
+DTEND:20130706T140000Z
+LOCATION:iERAN\, Nuweiba\, Egypt
+SUMMARY:iEARN Youth summit 2013
+DESCRIPTION:The event will be a 5 days Camp at Nuweiba city\n\n\niEARN (In
+ ternational Education and Resources Network) is the largest non-profit glo
+ bal network that enables teachers and youth to use the Internet and techno
+ logies to collaborate on projects that enhance learning and make a differe
+ nce in the world.
+URL:https://reps.mozilla.org/e/iearn-youth-summit-2013/
+SEQUENCE:5
+X-COORDINATES-LAT:29.3517497022
+X-COORDINATES-LON:34.7782087326
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

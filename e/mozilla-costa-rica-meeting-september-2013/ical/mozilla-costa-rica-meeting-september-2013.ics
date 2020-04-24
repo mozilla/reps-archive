@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1330
+CLASS:PUBLIC
+DTSTAMP:20200423T210615Z
+DTSTART:20130926T010000Z
+DTEND:20130926T020000Z
+LOCATION:TBD\, San José\, Costa Rica
+SUMMARY:Mozilla Costa Rica meeting - September 2013
+DESCRIPTION:We&#39;re meeting to plan an event for the month of October\, wher
+ e we will be doing apps and add-ons workshops for students.
+URL:https://reps.mozilla.org/e/mozilla-costa-rica-meeting-september-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:9.93516174486
+X-COORDINATES-LON:-84.0940976143
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

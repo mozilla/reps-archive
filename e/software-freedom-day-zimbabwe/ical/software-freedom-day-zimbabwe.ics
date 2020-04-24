@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@103
+CLASS:PUBLIC
+DTSTAMP:20200423T230216Z
+DTSTART:20120915T070000Z
+DTEND:20120915T140000Z
+LOCATION:National University of Science and Technology\, Bulawayo\, Zimbab
+ we
+SUMMARY:Software Freedom Day Zimbabwe
+DESCRIPTION:Local Software Freedom Day celebration in Bulawayo\, Zimbabwe
+URL:https://reps.mozilla.org/e/software-freedom-day-zimbabwe/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1655439486
+X-COORDINATES-LON:28.656463623
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

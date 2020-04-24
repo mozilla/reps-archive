@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4879
+CLASS:PUBLIC
+DTSTAMP:20200423T154934Z
+DTSTART:20160211T033000Z
+DTEND:20160211T080000Z
+LOCATION:AIUB Auditorium\, Dhaka\, Bangladesh
+SUMMARY:Introduction to QA - AIUB
+DESCRIPTION:This event will be the first ever QA event in American Interna
+ tional University-Bangladesh(AIUB)\, organized by the FSA of Firefox@AIUB 
+ club where we will focus on mostly the introduction part of QA. We will be
+  introducing the students with how we contribute in Mozilla QA and what ar
+ e the opportunities or possibilities etc After this introduction event we 
+ will have follow up events where we will have hands on events on QA. This 
+ event will create an awareness and start the hype.
+URL:https://reps.mozilla.org/e/introduction-to-qa-aiub/
+SEQUENCE:6
+X-COORDINATES-LAT:23.800214298
+X-COORDINATES-LON:90.4362487234
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

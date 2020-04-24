@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2108
+CLASS:PUBLIC
+DTSTAMP:20200423T195726Z
+DTSTART:20140426T153000Z
+DTEND:20140426T163000Z
+LOCATION:Universidad del Valle de Puebla.\, San Baltasar\, Mexico
+SUMMARY:Firefox OS: An Open Source Operating System
+DESCRIPTION:Talk about Firefox OS\, structure about the system\, and how w
+ e can to develop in this operating system\, what we need to build an app. 
+ \n\nThe main objective is to promote the operating system\, the web tools 
+ that we have to use to develop and to promote the open web apis.
+URL:https://reps.mozilla.org/e/firefox-os-an-open-source-operating-system/
+SEQUENCE:3
+X-COORDINATES-LAT:19.0179390496
+X-COORDINATES-LON:-98.2155114414
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

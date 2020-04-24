@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1328
+CLASS:PUBLIC
+DTSTAMP:20200423T210832Z
+DTSTART:20130921T043000Z
+DTEND:20130921T063000Z
+LOCATION:Chittagong Independent University\, Chittagong\, Bangladesh
+SUMMARY:Software Freedom Day 2013 - Chittagong
+DESCRIPTION:Software Freedom Day is a worldwide celebration of Free and Op
+ en Source Software (FOSS). Our goal in this celebration is to educate the 
+ worldwide public about the benefits of using high quality FOSS in educatio
+ n\, in government\, at home\, and in businesses - in short: everywhere! \n
+ \nWe will have a session on Firefox OS\, presenting Mozilla&#39;s mission\, St
+ udent Ambassador\, WoMoz.
+URL:https://reps.mozilla.org/e/software-freedom-day-2013-chittagong/
+SEQUENCE:1
+X-COORDINATES-LAT:22.3399144256
+X-COORDINATES-LON:91.8331718445
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6703
+CLASS:PUBLIC
+DTSTAMP:20200423T110226Z
+DTSTART:20170610T043000Z
+DTEND:20170610T073000Z
+LOCATION:Lambent IT Park\, Harihar Nagar\, Besa\, Nagpur - 440027\,\, Nagp
+ ur\, India
+SUMMARY:RainOfRust Camp Nagpur - I
+DESCRIPTION:An activities and initiative followed by https://reps.mozilla.
+ org/e/rainofrust-campaign/
+URL:https://reps.mozilla.org/e/rainofrust-camp-nagpur-i/
+SEQUENCE:0
+X-COORDINATES-LAT:21.1220818149
+X-COORDINATES-LON:78.2944321632
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

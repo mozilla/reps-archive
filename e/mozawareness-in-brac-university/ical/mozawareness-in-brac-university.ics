@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4946
+CLASS:PUBLIC
+DTSTAMP:20200423T162316Z
+DTSTART:20151025T040000Z
+DTEND:20151025T070000Z
+LOCATION:BRAC University\, Dhaka\, Bangladesh
+SUMMARY:Windows 10 Community Activation with MSP @Dhaka
+DESCRIPTION:MozAwareness in BRAC University with Windows 10 community acti
+ vation
+URL:https://reps.mozilla.org/e/mozawareness-in-brac-university/
+SEQUENCE:2
+X-COORDINATES-LAT:23.5362910939
+X-COORDINATES-LON:90.1593017578
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

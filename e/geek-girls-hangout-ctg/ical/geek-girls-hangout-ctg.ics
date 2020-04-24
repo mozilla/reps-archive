@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1781
+CLASS:PUBLIC
+DTSTAMP:20200423T203516Z
+DTSTART:20140117T073000Z
+DTEND:20140117T090000Z
+LOCATION:Sugar Bun\, GEC Circle\, Chittagong\, Bangladesh
+SUMMARY:Geek Girls&#39; Hangout @CTG
+DESCRIPTION:It is a WoMoz and FOSS awareness inter – university introduc
+ tory meetup where representatives of three distinct universities participa
+ ted. They will meet each other\, brain storm for their activities &amp; discus
+ sing over their communication in other missing universities they plan to e
+ xpand the WoMoz community in future.
+URL:https://reps.mozilla.org/e/geek-girls-hangout-ctg/
+SEQUENCE:16
+X-COORDINATES-LAT:22.3593407633
+X-COORDINATES-LON:91.8224986196
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

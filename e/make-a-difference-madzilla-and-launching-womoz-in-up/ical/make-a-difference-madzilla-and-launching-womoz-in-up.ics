@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4561
+CLASS:PUBLIC
+DTSTAMP:20200423T163159Z
+DTSTART:20151004T063000Z
+DTEND:20151004T083000Z
+LOCATION:Lucknow\, Lucknow\, India
+SUMMARY:(Make a Difference)MADzilla and Launching WoMoz in UP
+DESCRIPTION:This is the first ever WoMoz event in Lucknow\, UP in collabor
+ ation with MAD(Make A Difference) organization. It will be a web literacy 
+ event wherein we teach the shelter home girls about Computer and Internet.
+  The event will aim at awareness about the web and Mozilla Mission. Along 
+ with this we will launch our WoMoz community in Uttar Pradesh hosted by Vn
+ isha.
+URL:https://reps.mozilla.org/e/make-a-difference-madzilla-and-launching-wo
+ moz-in-up/
+SEQUENCE:0
+X-COORDINATES-LAT:26.8400534089
+X-COORDINATES-LON:80.9539945
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1761
+CLASS:PUBLIC
+DTSTAMP:20200423T211714Z
+DTSTART:20130820T123000Z
+DTEND:20130820T153000Z
+LOCATION:Smt. Sivagami  Pethachi Auditorium\, Chennai\, India
+SUMMARY:Firefox Tamil Launch Event
+DESCRIPTION:This event is to celebrate the successful  official launch of 
+ Firefox in tamil language after so many years . Event is organized with th
+ e help of Free Software Foundation Tamilnadu (FSFTN) in order recognise th
+ e effort put in by Tamil Localization team as well as to create a tremdous
+  outreach about Firefox Tamil across the country. The event was sponsored 
+ and supported by Mozilla Foundation
+URL:https://reps.mozilla.org/e/firefox-tamil-launch-event/
+SEQUENCE:6
+X-COORDINATES-LAT:13.1218340179
+X-COORDINATES-LON:80.2448730357
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

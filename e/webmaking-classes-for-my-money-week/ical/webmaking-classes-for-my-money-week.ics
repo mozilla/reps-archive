@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@489
+CLASS:PUBLIC
+DTSTAMP:20200423T220614Z
+DTSTART:20130225T140000Z
+DTEND:20130301T150000Z
+LOCATION:International School\, Cluj-Napoca\, Romania
+SUMMARY:Webmaking classes for My Money Week
+DESCRIPTION:The International School in Cluj is holding a week called My M
+ oney Week which aims  to prepare young people to leave school with the con
+ fidence\, skills and knowledge they need in financial matters so that they
+  can participate fully in society. They are suspending timetable for a wee
+ k and doing all kinds of activities.
+URL:https://reps.mozilla.org/e/webmaking-classes-for-my-money-week/
+SEQUENCE:0
+X-COORDINATES-LAT:46.7644788303
+X-COORDINATES-LON:23.6240386963
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

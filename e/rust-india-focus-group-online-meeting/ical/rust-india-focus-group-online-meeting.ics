@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6289
+CLASS:PUBLIC
+DTSTAMP:20200423T113126Z
+DTSTART:20170204T150000Z
+DTEND:20170204T160000Z
+LOCATION:Hangout Air\, Coimbatore\, India
+SUMMARY:Rust India Focus Group Online Meeting
+DESCRIPTION:Online meeting with mozillians across India to discuss about h
+ ow to grow rust in India.
+URL:https://reps.mozilla.org/e/rust-india-focus-group-online-meeting/
+SEQUENCE:2
+X-COORDINATES-LAT:11.0017704443
+X-COORDINATES-LON:76.9911804143
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

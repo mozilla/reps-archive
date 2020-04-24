@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1305
+CLASS:PUBLIC
+DTSTAMP:20200423T210918Z
+DTSTART:20130920T230000Z
+DTEND:20130921T010000Z
+LOCATION:Ihub\, Nairobi\, Kenya
+SUMMARY:Web Dev Meetup
+DESCRIPTION:We are seeking to create a web dev community in Kenya which ca
+ n the contribute to web dev activities in Mozilla.
+URL:https://reps.mozilla.org/e/web-dev-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:-1.29846424113
+X-COORDINATES-LON:36.7961096764
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

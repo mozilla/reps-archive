@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3248
+CLASS:PUBLIC
+DTSTAMP:20200423T181204Z
+DTSTART:20150105T010000Z
+DTEND:20150105T030000Z
+LOCATION:Pizzaria Cantinho da Pizza\, Rio Branco\, Brazil
+SUMMARY:MozCoffee Rio Branco
+DESCRIPTION:Meeting of volunteers and Mozilla enthusiasts to talk about pr
+ ojects and eat.
+URL:https://reps.mozilla.org/e/mozcoffe-1/
+SEQUENCE:7
+X-COORDINATES-LAT:-9.96196270917
+X-COORDINATES-LON:-67.8338034153
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

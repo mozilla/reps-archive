@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@684
+CLASS:PUBLIC
+DTSTAMP:20200423T215309Z
+DTSTART:20130413T130000Z
+DTEND:20130413T170000Z
+LOCATION:UAHB\, Dakar \, Dakar\, Senegal
+SUMMARY:UAHB Meetup
+DESCRIPTION:As part of the school tour\, Mozilla Senegal after ESTM will b
+ e at UAHB ( Amadou Hampaté BA University) to make a presentation of Mozil
+ la.
+URL:https://reps.mozilla.org/e/uahb-meetup/
+SEQUENCE:5
+X-COORDINATES-LAT:14.694738
+X-COORDINATES-LON:-17.454318
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

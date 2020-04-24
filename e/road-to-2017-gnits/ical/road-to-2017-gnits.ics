@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5786
+CLASS:PUBLIC
+DTSTAMP:20200423T145410Z
+DTSTART:20160923T053000Z
+DTEND:20160923T103000Z
+LOCATION:G. Narayanamma Institute of Technology and Science\, Hyderabad\, 
+ India
+SUMMARY:Road to 2017 [GNITS]
+DESCRIPTION:To Empower the WoMoz Contributors from the GNITS College club 
+ and guiding them in a proper direction where they can? And how they can co
+ ntribute to Mozilla and open source Projects in different fields?
+URL:https://reps.mozilla.org/e/road-to-2017-gnits/
+SEQUENCE:8
+X-COORDINATES-LAT:17.4055985171
+X-COORDINATES-LON:78.4007906905
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

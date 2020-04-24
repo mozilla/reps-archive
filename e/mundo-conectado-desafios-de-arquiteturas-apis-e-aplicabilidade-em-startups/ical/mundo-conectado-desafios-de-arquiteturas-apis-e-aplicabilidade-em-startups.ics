@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5544
+CLASS:PUBLIC
+DTSTAMP:20200423T151326Z
+DTSTART:20160714T220000Z
+DTEND:20160715T000000Z
+LOCATION:IBM São Paulo\, Sao Paulo\, Brazil
+SUMMARY:Mundo Conectado - Desafios de Arquiteturas APIs e Aplicabilidade e
+ m Startups
+DESCRIPTION:Representatives from various sectors show the existing challen
+ ges in creating architectures for APIs\, covering various items such as ro
+ bustness\, scalability\, security\, engagement\, documentation\, etc. It w
+ ill also be presented by Startups the applicability of APIs in their busin
+ esses\, in addition to highlighting which partners or business are seeking
+ .
+URL:https://reps.mozilla.org/e/mundo-conectado-desafios-de-arquiteturas-ap
+ is-e-aplicabilidade-em-startups/
+SEQUENCE:5
+X-COORDINATES-LAT:-23.550146397
+X-COORDINATES-LON:-46.6368398652
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

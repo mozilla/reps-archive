@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2884
+CLASS:PUBLIC
+DTSTAMP:20200423T184105Z
+DTSTART:20141024T080000Z
+DTEND:20141026T160000Z
+LOCATION:Antigua Biblioteca y Teatro Municipal de El Ejido.\, El Ejido\, S
+ pain
+SUMMARY:I Jornadas Tecnológicas Hacklab Almería
+DESCRIPTION:The event will include a series of Workshops (Arduino\, 3D Imp
+ ression\, mobile apps)\, talks\, a hacklab.\nIs the first event that will 
+ take place in Almeria\, and several students and developers will participa
+ te.
+URL:https://reps.mozilla.org/e/i-jornadas-tecnologicas-hacklab-almeria/
+SEQUENCE:5
+X-COORDINATES-LAT:36.7759816797
+X-COORDINATES-LON:-2.81113672274
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

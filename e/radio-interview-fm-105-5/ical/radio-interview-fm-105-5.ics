@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2729
+CLASS:PUBLIC
+DTSTAMP:20200423T191201Z
+DTSTART:20140822T220000Z
+DTEND:20140822T230000Z
+LOCATION:Villa Olimpica UEB University\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Radio interview FM 105.5
+DESCRIPTION:A local radio program show at FM 105.5 UEB University Radio. I
+ nterview about the Web\, Mozilla and WebMaker in Bolivia. Advises and reco
+ mendations about the web.
+URL:https://reps.mozilla.org/e/radio-interview-fm-105-5/
+SEQUENCE:4
+X-COORDINATES-LAT:-17.8234748438
+X-COORDINATES-LON:-63.215595244
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

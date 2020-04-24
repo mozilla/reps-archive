@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4862
+CLASS:PUBLIC
+DTSTAMP:20200423T160817Z
+DTSTART:20151130T083000Z
+DTEND:20151130T100000Z
+LOCATION:Urumqi fortieth high school\, urumqi\, China
+SUMMARY:Firefox Tianshan tour-    six -Parapara Animation
+DESCRIPTION:How to use Firefox learn a foreign language\n\nDescription\nSh
+ ow students how to use Firefox to learn Chinese\, English\, Japanese with 
+ extensions.
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson-4-firefox-exte
+ nsion/
+SEQUENCE:5
+X-COORDINATES-LAT:43.6712180174
+X-COORDINATES-LON:2607.57687601
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@277
+CLASS:PUBLIC
+DTSTAMP:20200423T225023Z
+DTSTART:20121030T170000Z
+DTEND:20121103T170000Z
+LOCATION:Bogota\, Bogota\, Colombia
+SUMMARY:JDayColombia 2012 (Jokte)
+DESCRIPTION:The event is the celebration of a CMS developed from Joomla (R
+ )\, being a fork produced and developed in Latin America and Latin America
+ \, will feature several speakers during the event all united by a feeling 
+ and a struggle the narrowing of the gap digital.\n
+URL:https://reps.mozilla.org/e/jdaycolombia-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:4.60972723805
+X-COORDINATES-LON:-74.066208601
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

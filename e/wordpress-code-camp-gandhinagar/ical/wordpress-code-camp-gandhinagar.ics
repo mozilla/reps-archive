@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6092
+CLASS:PUBLIC
+DTSTAMP:20200423T114226Z
+DTSTART:20161203T043000Z
+DTEND:20161203T093000Z
+LOCATION:LDRP ITR Campus\, Near ITI\, Kh-5 Circle\, Sector-15\, Gandhinaga
+ r\, Gujarat 382015\, Gandhinagar\, India
+SUMMARY:Wordpress Camp Gandhinagar
+DESCRIPTION:There will be a workshop for making web literates at VPMP Poly
+ technic College. There will be an introduction to Mozilla followed by the 
+ introduction of WordPress. The workshop will cover the following points: M
+ ozilla Mission . Intros to Domain and Hosting (free and paid). Wordpress.c
+ om vs Wordpress.org\,  WordPress Installation and setup. Installing Plugin
+ s and themes.
+URL:https://reps.mozilla.org/e/wordpress-code-camp-gandhinagar/
+SEQUENCE:3
+X-COORDINATES-LAT:23.3405747362
+X-COORDINATES-LON:72.0578616858
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

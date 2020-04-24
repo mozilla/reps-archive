@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6730
+CLASS:PUBLIC
+DTSTAMP:20200423T105943Z
+DTSTART:20170617T160000Z
+DTEND:20170617T171500Z
+LOCATION:Hangout\, Kottayam\, India
+SUMMARY:Mozilla Kerala Community 17-06-17
+DESCRIPTION:This call is to discuss about MozillaKerala Upcoming events an
+ d programs that can be done.
+URL:https://reps.mozilla.org/e/mozilla-kerala-community-17-06-17/
+SEQUENCE:1
+X-COORDINATES-LAT:9.59134898291
+X-COORDINATES-LON:76.5218553547
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

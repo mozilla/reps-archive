@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2797
+CLASS:PUBLIC
+DTSTAMP:20200423T190344Z
+DTSTART:20140910T071500Z
+DTEND:20140910T081500Z
+LOCATION:NCIT college\, Lalitpur\, Nepal\, Lalitpur\, Nepal
+SUMMARY:FOSS Ka Kura September 2014
+DESCRIPTION:FOSS Ka Kura a.k.a FKK is a monthly open-discussion program or
+ ganized by FOSS Nepal Community\, where we can discuss about FOSS\, FOSS a
+ pplications\, Localization\, Open Source\, Linux\, etc. The main objective
+ s of this program is to create public awareness about FOSS applications an
+ d developing a Free/Open Source Community in Nepal. The Open Source Commun
+ ity could involve a wide range of people ranging from experts\, enthusiast
+ s\, FOSS advocates and so on.
+URL:https://reps.mozilla.org/e/foss-ka-kura-september-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:27.6609774875
+X-COORDINATES-LON:85.3262328962
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

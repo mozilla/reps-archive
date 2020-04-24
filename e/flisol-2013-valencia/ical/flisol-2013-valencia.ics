@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@646
+CLASS:PUBLIC
+DTSTAMP:20200423T214801Z
+DTSTART:20130427T130000Z
+DTEND:20130427T200000Z
+LOCATION:Universidad José Antonio Paez\, San Diego\, Venezuela
+SUMMARY:FLISoL 2013 Valencia 
+DESCRIPTION:The Festival of Latin American Free Software Installation (FLI
+ SoL) is the largest reach event of of Free Software in Latin America. It&#39;s
+  carried out since 2005 and its main objective is to promote the use of fr
+ ee software\, informing the general public philosophy\, scope\, progress a
+ nd development.
+URL:https://reps.mozilla.org/e/flisol-2013-valencia/
+SEQUENCE:3
+X-COORDINATES-LAT:10.2361869851
+X-COORDINATES-LON:-67.9643440247
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

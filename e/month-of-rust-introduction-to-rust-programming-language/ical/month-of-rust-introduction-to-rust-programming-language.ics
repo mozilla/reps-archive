@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6902
+CLASS:PUBLIC
+DTSTAMP:20200423T103718Z
+DTSTART:20170923T043000Z
+DTEND:20170923T073000Z
+LOCATION:CBIT\, Hyderabad\, Hyderabad\, India
+SUMMARY:Dive into Rust @ CBIT\, Hyderabad
+DESCRIPTION:Rust is a systems programming language important to the future
+  of the web. It runs blazingly fast\, prevents segfaults\, and guarantees 
+ thread safety. With your help\, we want more developers to understand\, us
+ e and evangelize this language in order to make the web better and more se
+ cure.
+URL:https://reps.mozilla.org/e/month-of-rust-introduction-to-rust-programm
+ ing-language/
+SEQUENCE:5
+X-COORDINATES-LAT:17.392097217
+X-COORDINATES-LON:78.3187805416
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1639
+CLASS:PUBLIC
+DTSTAMP:20200423T202828Z
+DTSTART:20140208T170000Z
+DTEND:20140208T230000Z
+LOCATION:Avenida Civica #2851\, Potosí\, Bolivia
+SUMMARY:Firefox OS App Days Potosí
+DESCRIPTION:Part of the worldwide App Days events. Developers gathering to
+  hack around FirefoxOS\, Web Apps\, Web APIs. This is the first time that 
+ we made a Firefox OS App Days\, even the first time that we made an event 
+ in Potosí city!!! there are a lot of developers\, who want to learn about
+  Firefox OS Apps!!!. This is our first event in the 2014.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-potosi/
+SEQUENCE:3
+X-COORDINATES-LAT:-19.5839336693
+X-COORDINATES-LON:-65.7564125065
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

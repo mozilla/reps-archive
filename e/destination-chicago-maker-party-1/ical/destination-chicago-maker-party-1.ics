@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2208
+CLASS:PUBLIC
+DTSTAMP:20200423T195135Z
+DTSTART:20140510T130000Z
+DTEND:20140510T210000Z
+LOCATION:Jones College Preparatory High School\, Chicago\, United States
+SUMMARY:Destination Chicago: Maker Party (Spring 2014)
+DESCRIPTION:Chicago City of Learning presents Destination Chicago featurin
+ g an all-day Maker Party. The space is full of stations and mini-sessions 
+ resulting with a “make”. Designed for youth from ages 4- 24\, attendee
+ s\, kids young and old\, are able to pick and choose the stations that mos
+ t draw them in. In this way\, they make their way through the room\, sampl
+ ing\, observing or diving into the offerings.\n\nFor more on Chicago City 
+ of Learning &amp; Destination Chicago: Check out explorechi.org\n\n\nFREE
+URL:https://reps.mozilla.org/e/destination-chicago-maker-party-1/
+SEQUENCE:6
+X-COORDINATES-LAT:41.8781749523
+X-COORDINATES-LON:-87.6276640885
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

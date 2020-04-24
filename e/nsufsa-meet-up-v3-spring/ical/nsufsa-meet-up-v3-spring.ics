@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3527
+CLASS:PUBLIC
+DTSTAMP:20200423T175454Z
+DTSTART:20150220T083000Z
+DTEND:20150220T100000Z
+LOCATION:North South University\, Dhaka\, Bangladesh
+SUMMARY:NSUFSA Meet Up v3(spring)
+DESCRIPTION:The spring is about to set in and so is our awesomeness!!! COM
+ E!! Be a part of our courteous &amp; fun loving family. Let’s get awesome to
+ gether!!\n This is the first event in 2015 from NSUFC. Through this event\
+ , the present members of NSUFC will be welcoming the newly recruited membe
+ rs.
+URL:https://reps.mozilla.org/e/nsufsa-meet-up-v3-spring/
+SEQUENCE:2
+X-COORDINATES-LAT:24.1233599177
+X-COORDINATES-LON:90.0278319418
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

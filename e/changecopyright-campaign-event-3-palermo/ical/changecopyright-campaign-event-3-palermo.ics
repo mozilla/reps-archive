@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6838
+CLASS:PUBLIC
+DTSTAMP:20200423T103649Z
+DTSTART:20170923T160000Z
+DTEND:20170923T190000Z
+LOCATION:Via Re Federico\, 23\, Palermo\, Italy
+SUMMARY:ChangeCopyright Campaign: EVENT 3 (Palermo)
+DESCRIPTION:The ChangeCopyright Campaign come to Palermo. In this third st
+ ep we want to continue the work done first at Cagliari and Bari. Actually 
+ it&#39;s in real important inolve the people in the Copyright Reform. Now in t
+ his third step we will continute to make activities and laboratories with 
+ the people in order to engage they in the discuss about the reform of the 
+ European Copyright Regulation.
+URL:https://reps.mozilla.org/e/changecopyright-campaign-event-3-palermo/
+SEQUENCE:4
+X-COORDINATES-LAT:38.1214237601
+X-COORDINATES-LON:13.3472045657
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

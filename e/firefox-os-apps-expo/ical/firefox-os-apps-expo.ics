@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2554
+CLASS:PUBLIC
+DTSTAMP:20200423T185258Z
+DTSTART:20140927T050000Z
+DTEND:20140927T100000Z
+LOCATION:Jomo Kenyatta University of Agriculture and Technology Mombasa\, 
+ Kenya\, Mombasa\, Kenya
+SUMMARY:Firefox OS Apps Expo
+DESCRIPTION:This event is aimed at encouraging members to not only learn b
+ ut apply the skills to develop working app prototypes running on Firefox O
+ S.\n\n7 universities will be targeted during this event with a minimum of 
+ at least 2 apps from each university being presented during the Expo.\n\nA
+ ll participants will be given one month period prior to the Expo to come u
+ p with Apps and during the Expo\, the winning application gets a great rew
+ ard!
+URL:https://reps.mozilla.org/e/firefox-os-apps-expo/
+SEQUENCE:8
+X-COORDINATES-LAT:-4.09098666287
+X-COORDINATES-LON:39.8345375061
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

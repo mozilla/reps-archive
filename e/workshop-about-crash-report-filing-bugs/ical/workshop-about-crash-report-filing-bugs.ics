@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6860
+CLASS:PUBLIC
+DTSTAMP:20200423T104932Z
+DTSTART:20170804T170000Z
+DTEND:20170804T180000Z
+LOCATION:SUMO&#39;s Vidyo Room\, Online\, Brazil
+SUMMARY:Workshop about Crash Report - Filing Bugs
+DESCRIPTION:We will have two online workshops about the Crash Report\, giv
+ en by Philipp Madersbacher. Crash reports are super important because they
+  help Firefox and Thunderbird developers to monitor and fix bugs and also 
+ help SUMO&#39;s contributors to help users!\n\nFiling Bugs will be the second 
+ workshop and will teach you how to filling a bug.
+URL:https://reps.mozilla.org/e/workshop-about-crash-report-filing-bugs/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.5880105454
+X-COORDINATES-LON:-46.6585378649
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

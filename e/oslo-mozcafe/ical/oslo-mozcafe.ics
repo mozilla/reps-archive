@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1105
+CLASS:PUBLIC
+DTSTAMP:20200423T211719Z
+DTSTART:20130819T170000Z
+DTEND:20130819T190000Z
+LOCATION:Bitraf Hackerspace\, Youngs Gate 6\, Oslo\, Norway
+SUMMARY:Oslo MozCafe
+DESCRIPTION:Community building meetup for all Mozillians and anyone else i
+ nterested in the open web! We&#39;ll be focusing on localization\, how to get 
+ involved\, and community organization. This event will be hosted with the 
+ Bitraf Hackers.
+URL:https://reps.mozilla.org/e/oslo-mozcafe/
+SEQUENCE:5
+X-COORDINATES-LAT:59.914504
+X-COORDINATES-LON:10.750634
+X-COUNTRY-CODE:no
+END:VEVENT
+
+END:VCALENDAR

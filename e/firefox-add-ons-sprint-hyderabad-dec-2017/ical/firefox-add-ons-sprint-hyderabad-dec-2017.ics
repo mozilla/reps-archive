@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7342
+CLASS:PUBLIC
+DTSTAMP:20200423T100839Z
+DTSTART:20171231T033000Z
+DTEND:20171231T063000Z
+LOCATION:A3-301\, Vindhya C2\, IIIT Hyderabad\, Bedide Gachibowli Stadium\
+ , Hyderabad.\, Hyderabad\, India
+SUMMARY:Firefox Add-ons Sprint - Hyderabad Dec 2017
+DESCRIPTION:Add-on hackathon open of a short group(limited seats) of peopl
+ e who are aiming to create multiple add-ons and publish on AMO.\n\nAgenda:
+ \nIntro to Firefox WebExtensions\nAdd-ons 365 Initiative
+URL:https://reps.mozilla.org/e/firefox-add-ons-sprint-hyderabad-dec-2017/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4355844706
+X-COORDINATES-LON:78.3592185973
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

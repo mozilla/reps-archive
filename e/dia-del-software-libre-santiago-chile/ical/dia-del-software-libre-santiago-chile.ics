@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1323
+CLASS:PUBLIC
+DTSTAMP:20200423T205851Z
+DTSTART:20131019T140000Z
+DTEND:20131019T180000Z
+LOCATION:Duoc Uc - Padre Alonso de Ovalle\, Santiago\, Santiago\, Chile
+SUMMARY:Día del Software Libre Santiago\, Chile
+DESCRIPTION:The Software Freedom Day is a global celebration\, celebrating
+  the Free Software. Our goal in this celebration is to educate the general
+  public about the benefits of using quality free software in education\, i
+ n government\, at home and in business... In short\, everywhere! In Santia
+ go\, Chile\, GNUHILE Foundation coordinates the event along with other org
+ anizations and a team of volunteers to allow this event.
+URL:https://reps.mozilla.org/e/dia-del-software-libre-santiago-chile/
+SEQUENCE:2
+X-COORDINATES-LAT:-33.447319276
+X-COORDINATES-LON:-70.6576412916
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

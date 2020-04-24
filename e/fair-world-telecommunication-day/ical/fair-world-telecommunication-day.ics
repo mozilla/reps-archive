@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@901
+CLASS:PUBLIC
+DTSTAMP:20200423T214218Z
+DTSTART:20130519T130000Z
+DTEND:20130519T180000Z
+LOCATION:24 de Septiembre Ave.\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Fair World Telecommunication Day
+DESCRIPTION:Fair to show the advances in telecommunications\, in this fair
+ \, Mozilla will show Firefox OS and devices Geeksphone Keon for the purpos
+ e of the telephone service operators in the country are aware of this OS a
+ s a good alternative proposal.
+URL:https://reps.mozilla.org/e/fair-world-telecommunication-day/
+SEQUENCE:3
+X-COORDINATES-LAT:-17.7839205524
+X-COORDINATES-LON:-63.1823086739
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

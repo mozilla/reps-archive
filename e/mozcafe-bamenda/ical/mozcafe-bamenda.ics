@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4757
+CLASS:PUBLIC
+DTSTAMP:20200423T161601Z
+DTSTART:20151113T100000Z
+DTEND:20151113T120000Z
+LOCATION:COMINSUD- Ntarikon Mankon\, Bamenda\, Cameroon
+SUMMARY:MozCafe Bamenda
+DESCRIPTION:Open Meet-up of about 2 hours between Firefox Students Ambassa
+ dors\, WoMoz Members\, other Mozillians\, some target audience of Firefox 
+ OS\, Bloggers\, It&amp;web specialist\n3 Main presentations:\n- What&#39;s Mozilla
+  Cameroon and different dedicated programs by Mozilla?\n- Firefox OS: Why?
+ \n- How to develop and App for Firefox OS MarketPlace?
+URL:https://reps.mozilla.org/e/mozcafe-bamenda/
+SEQUENCE:5
+X-COORDINATES-LAT:5.93925543969
+X-COORDINATES-LON:10.1900023967
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6230
+CLASS:PUBLIC
+DTSTAMP:20200423T113634Z
+DTSTART:20170115T023000Z
+DTEND:20170116T093000Z
+LOCATION:Parul University\, Vadodara\, India
+SUMMARY:Hackathon @ Parul University
+DESCRIPTION:At this event for all of attendees\, with a lot of events to e
+ ngage yourself with!\nThis new year\, learn and start your journey with Mo
+ zilla through technologies related to WebVR and Rust  and with Designing a
+ nd many more.
+URL:https://reps.mozilla.org/e/hackathon-parul-university/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2785070324
+X-COORDINATES-LON:73.1328736246
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

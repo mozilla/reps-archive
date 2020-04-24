@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4428
+CLASS:PUBLIC
+DTSTAMP:20200423T163241Z
+DTSTART:20151003T063000Z
+DTEND:20151003T113000Z
+LOCATION:Knowlarity Communications\, Gurgaon\, New Delhi\, India
+SUMMARY:Mozcoffee for Windows 10 -Delhi NCR
+DESCRIPTION:his event helps us to retain Firefox Users on Windows 10. In s
+ upport to Windows 10 Community Activation Campaign we are hosting this eve
+ nt\, inviting lots of Mozillians \, FSAs and newbies.
+URL:https://reps.mozilla.org/e/mozcoffee-for-windows-10-delhi-ncr/
+SEQUENCE:5
+X-COORDINATES-LAT:28.6255144488
+X-COORDINATES-LON:77.2043609619
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

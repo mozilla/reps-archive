@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5958
+CLASS:PUBLIC
+DTSTAMP:20200423T115023Z
+DTSTART:20161023T043000Z
+DTEND:20161023T063000Z
+LOCATION:Amity University\, New Delhi\, India
+SUMMARY:MozActivate @ Colossus v6.0
+DESCRIPTION:We will represent Mozilla @ Amity University \, Noida.\nAlong 
+ with the other open source communities\, like linux\, red hat\, ubuntu\, K
+ DE\, Linux etc.\n\nWe will induce first/second year students to get starte
+ d with open source and contribute.
+URL:https://reps.mozilla.org/e/mozactivate-colossus-v6-0/
+SEQUENCE:5
+X-COORDINATES-LAT:28.6339019232
+X-COORDINATES-LON:77.2101516835
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

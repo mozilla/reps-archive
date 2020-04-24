@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7338
+CLASS:PUBLIC
+DTSTAMP:20200423T100323Z
+DTSTART:20180128T043000Z
+DTEND:20180128T103000Z
+LOCATION:NIT Surathkal\, Suratkal NIT\, India
+SUMMARY:Dive into Rust - NIT Surathkal
+DESCRIPTION:Rust is a systems programming language important to the future
+  of the web. It runs blazingly fast\, prevents segfaults\, and guarantees 
+ thread safety. With your help\, we want more developers to understand\, us
+ e and evangelize this language in order to make the web better and more se
+ cure. \n\nThis event is a part of the MozActiviate campaign.
+URL:https://reps.mozilla.org/e/dive-into-rust-nit-surathkal/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9834543856
+X-COORDINATES-LON:74.8016624339
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

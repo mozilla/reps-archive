@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7553
+CLASS:PUBLIC
+DTSTAMP:20200423T095024Z
+DTSTART:20180327T120000Z
+DTEND:20180327T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar : Syncing Product Design with Developer and User
+DESCRIPTION:We invite Prima Yogi to give talks about Syncing Product Desig
+ n with Developer and User. This is an event targeting people with UI/UX De
+ sign background.
+URL:https://reps.mozilla.org/e/mozbelajar-syncing-product-design-with-deve
+ loper-and-user/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.235116
+X-COORDINATES-LON:106.820993
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

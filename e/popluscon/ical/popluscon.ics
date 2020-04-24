@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2211
+CLASS:PUBLIC
+DTSTAMP:20200423T195701Z
+DTSTART:20140428T130000Z
+DTEND:20140429T130000Z
+LOCATION:Universidad Católica\, Providencia\, Providencia\, Chile
+SUMMARY:PoplusCon
+DESCRIPTION:Collaborative Civic coding\nSoftware components that help civi
+ l society groups and campaigners launch powerful websites - anywhere in th
+ e world.\n\nPoplus is an international community of activists\, citizens a
+ nd developers.\n\nTogether we are creating standardised\, internationalise
+ d\, interoperable\, open-source Components\, to make it easier to build we
+ bsites that empower citizens\, no matter where you are based.
+URL:https://reps.mozilla.org/e/popluscon/
+SEQUENCE:3
+X-COORDINATES-LAT:-33.4193667996
+X-COORDINATES-LON:-70.6180136204
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

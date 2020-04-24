@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@832
+CLASS:PUBLIC
+DTSTAMP:20200423T214001Z
+DTSTART:20130527T010000Z
+DTEND:20130529T130000Z
+LOCATION:MTC Megamas\, Manado\, Indonesia
+SUMMARY:Festival Mapalus TIK untuk Rakyat Sulut
+DESCRIPTION:3 days event (seminar\, workshop\, demo\, and exhibition) abou
+ t ICT (Information and Communication Technologies) in Manado\, North Sulaw
+ esi\, Indonesia. Organized by Relawan TIK Sulut. Mozilla invited to give t
+ alks about community.
+URL:https://reps.mozilla.org/e/festival-mapalus-tik-untuk-rakyat-sulut/
+SEQUENCE:5
+X-COORDINATES-LAT:1.48950962346
+X-COORDINATES-LON:124.847259521
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

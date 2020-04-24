@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@828
+CLASS:PUBLIC
+DTSTAMP:20200423T214426Z
+DTSTART:20130514T230000Z
+DTEND:20130515T000000Z
+LOCATION:1 de Mayo Ave.\, Santa Cruz\, Bolivia
+SUMMARY:TPIAI Aniversary
+DESCRIPTION:It is a technology center\, in the week May 13 to 17 are anniv
+ ersary. Mozilla will participate in this event to show Webmaker\, Firefox 
+ OS and the Mozilla philosophy.
+URL:https://reps.mozilla.org/e/tpiai-aniversary/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.8018132604
+X-COORDINATES-LON:-63.1267547607
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

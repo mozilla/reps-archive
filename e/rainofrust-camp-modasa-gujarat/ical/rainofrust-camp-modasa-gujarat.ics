@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6897
+CLASS:PUBLIC
+DTSTAMP:20200423T105447Z
+DTSTART:20170714T063000Z
+DTEND:20170714T093000Z
+LOCATION:Government Engineering College\, Shamlaji Road\, Aravali District
+ \, Modasa\, Gujarat 383315\, Modasa\, India
+SUMMARY:RainOfRust Camp Modasa\, Gujarat
+DESCRIPTION:An activities and initiative followed by https://reps.mozilla.
+ org/e/rainofrust-campaign/ Rust India community come up with RainOfRust Ca
+ mpaign to spread the awesomeness of Rust language. This event is focused o
+ n introducing and teaching the state of art system programming language Ru
+ st to Students/ Developers and Mozillians around.
+URL:https://reps.mozilla.org/e/rainofrust-camp-modasa-gujarat/
+SEQUENCE:1
+X-COORDINATES-LAT:24.4111399002
+X-COORDINATES-LON:73.1088852882
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

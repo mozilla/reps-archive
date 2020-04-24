@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7426
+CLASS:PUBLIC
+DTSTAMP:20200423T095609Z
+DTSTART:20180303T033000Z
+DTEND:20180303T103000Z
+LOCATION:Madras Institute of Technology\, Chennai\, Chennai\, India
+SUMMARY:WebExtension Workshop  prayatna 18
+DESCRIPTION:One Day Workshop for helping students to get started with WebE
+ xtension
+URL:https://reps.mozilla.org/e/webextension-workshop-carte-blanche-18/
+SEQUENCE:4
+X-COORDINATES-LAT:12.9486731394
+X-COORDINATES-LON:80.1381282834
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

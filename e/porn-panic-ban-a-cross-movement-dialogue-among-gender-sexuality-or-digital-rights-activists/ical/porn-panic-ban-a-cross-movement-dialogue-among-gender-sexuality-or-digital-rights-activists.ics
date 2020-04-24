@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4748
+CLASS:PUBLIC
+DTSTAMP:20200423T162221Z
+DTSTART:20151028T033000Z
+DTEND:20151029T123000Z
+LOCATION:Hotel Shervani Nehru Place\, Chirag Enclave\, New Delhi\, New Del
+ hi\, India
+SUMMARY:Porn. Panic. Ban - A cross movement dialogue among Gender\, sexual
+ ity or digital rights activists
+DESCRIPTION:Point of View and the Internet Democracy Project are organisin
+ g a conference in order to hold and facilitate an informed conversation on
+  sexual expression\, pornography\, sexual exploitation and consent. This c
+ onference is a first attempt to have an indepth civil society conversation
+  - among activists\, lawyers\, researchers working on either gender\, sexu
+ ality or internet rights\, or at their intersections.\n\nProgram is invite
+  only
+URL:https://reps.mozilla.org/e/porn-panic-ban-a-cross-movement-dialogue-am
+ ong-gender-sexuality-or-digital-rights-activists/
+SEQUENCE:5
+X-COORDINATES-LAT:28.5467077
+X-COORDINATES-LON:77.2497454
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2379
+CLASS:PUBLIC
+DTSTAMP:20200423T194157Z
+DTSTART:20140602T120000Z
+DTEND:20140602T130000Z
+LOCATION:Mozilla Community Space Taipei\, Jhongshan District\, Taiwan
+SUMMARY:Webmaker Training Study Group: Facilitating
+DESCRIPTION:Study group on Webmaker Training
+URL:https://reps.mozilla.org/e/webmaker-training-study-group-facilitating/
+SEQUENCE:2
+X-COORDINATES-LAT:25.066510291
+X-COORDINATES-LON:121.526862143
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

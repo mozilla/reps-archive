@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1064
+CLASS:PUBLIC
+DTSTAMP:20200423T212723Z
+DTSTART:20130712T040000Z
+DTEND:20130712T110000Z
+LOCATION:Chittagong University of Engineering &amp; Technology\, Chittagong\, 
+ Bangladesh
+SUMMARY:Firefox OS App Training Day CUET
+DESCRIPTION:Chittagong University of Engineering and Technology\, asked to
+  help their students learn how to develop Firefox OS apps. It&#39;s a communit
+ y call for help and we need to increase developer engagement in Bangladesh
+ . I&#39;m doing this. Day-long training - 1st of the day will be teaching and 
+ learning\, 2nd half of the day will be developing and mentoring. Two fanta
+ stic person agreed to travel and teach the students\, Robin Rahid and Robi
+ n Mehdee will be trainers.
+URL:https://reps.mozilla.org/e/firefox-os-app-training-day-cuet/
+SEQUENCE:3
+X-COORDINATES-LAT:22.462570437
+X-COORDINATES-LON:91.9738322496
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

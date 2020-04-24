@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6955
+CLASS:PUBLIC
+DTSTAMP:20200423T104448Z
+DTSTART:20170831T000000Z
+DTEND:20170831T030000Z
+LOCATION:San Luis Potosí 196\, Oficina 401\, Roma Norte\, México City\, 
+ Ciudad de México\, Mexico
+SUMMARY:Rust Meetup #7
+DESCRIPTION:Meetup number seven Rust programming language workshop in Mexi
+ co City. Meeting to create activities within Actívate de mozilla\, the co
+ mmunity is helping the local Rust community to create a larger and more pa
+ rticipatory community.
+URL:https://reps.mozilla.org/e/rust-meetup-7/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4128057761
+X-COORDINATES-LON:-99.1642484668
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

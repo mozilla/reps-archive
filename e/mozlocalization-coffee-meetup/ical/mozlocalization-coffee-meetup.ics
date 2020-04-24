@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1157
+CLASS:PUBLIC
+DTSTAMP:20200423T211431Z
+DTSTART:20130901T050000Z
+DTEND:20130901T070000Z
+LOCATION:CCD Gaurav Tower Malviya Nagar Jaipur\, Jaipur\, India
+SUMMARY:MozL10n Coffee Meetup
+DESCRIPTION:A small localization meetup with local mozillians and interest
+ ed new people.
+URL:https://reps.mozilla.org/e/mozlocalization-coffee-meetup/
+SEQUENCE:9
+X-COORDINATES-LAT:26.9150290629
+X-COORDINATES-LON:75.8202552795
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

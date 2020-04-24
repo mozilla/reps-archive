@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@887
+CLASS:PUBLIC
+DTSTAMP:20200423T212001Z
+DTSTART:20130810T000000Z
+DTEND:20130810T090000Z
+LOCATION:Visayas State University\, Baybay\, Philippines
+SUMMARY:Mozilla @ VSU 89th Foundation Day
+DESCRIPTION:In celebration with Visayas State University\, 89th Founding A
+ nniversary\, the VSU Firefox Student Ambassadors\, shall be putting up a M
+ ozilla Booth wherein they shall be rendering free services that shall cate
+ r to the Mozilla-related needs of the participants\, like helping them ins
+ tall &amp; or updates Mozilla applications on their netbooks and sharing to th
+ em basic information about Mozilla\, Firefox\, FirefoxOS\, the Firefox Stu
+ dent Ambassador Program and other Mozilla products.
+URL:https://reps.mozilla.org/e/mozilla-vsu-89th-foundation-day/
+SEQUENCE:6
+X-COORDINATES-LAT:10.7464634
+X-COORDINATES-LON:124.7926712
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3712
+CLASS:PUBLIC
+DTSTAMP:20200423T173707Z
+DTSTART:20150328T091500Z
+DTEND:20150328T111500Z
+LOCATION:Kaula Chen\, Lalitpur\, Kathmandu\, Nepal
+SUMMARY:Mozilla Nepal Bi-Weekly Meetup II
+DESCRIPTION:About around 2  weeks earlier\, some of the mozillians in Nepa
+ l decided to meet every 2 weeks\, and discuss on various stuff. In general
+ \, this is a mozcafe style meetup\, but we keep the event open to all\, an
+ d everyone is expected to pay for their own expense.
+URL:https://reps.mozilla.org/e/mozilla-nepal-bi-weekly-meetup-ii/
+SEQUENCE:3
+X-COORDINATES-LAT:27.6806657696
+X-COORDINATES-LON:85.3274728954
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

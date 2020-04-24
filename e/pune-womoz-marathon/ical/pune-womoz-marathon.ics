@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3901
+CLASS:PUBLIC
+DTSTAMP:20200423T170646Z
+DTSTART:20150704T043000Z
+DTEND:20150704T113000Z
+LOCATION:Cummins College of Engineering for Women\, Pune\, Pune\, India
+SUMMARY:Pune Womoz Marathon
+DESCRIPTION:This event will be a combination of three technologies- Market
+ place apps\, Webmaker and Moz Stumbler. Focussing majorly on increasing wo
+ men app developers\, this session will also teach the essentials of Webmak
+ er and a brief description on stumbling.
+URL:https://reps.mozilla.org/e/pune-womoz-marathon/
+SEQUENCE:10
+X-COORDINATES-LAT:18.5101710304
+X-COORDINATES-LON:73.8859862834
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

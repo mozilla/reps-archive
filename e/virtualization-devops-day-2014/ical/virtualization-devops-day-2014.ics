@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3147
+CLASS:PUBLIC
+DTSTAMP:20200423T182453Z
+DTSTART:20141127T070000Z
+DTEND:20141127T160000Z
+LOCATION:Magyar Telekom Nyrt. vezérigazgatóság / 1013 Budapest\, Kriszt
+ ina körút 55\, Budapest\, Hungary
+SUMMARY:Virtualization &amp; DevOps day 2014
+DESCRIPTION:We will run OpenSource booth with other folks from open source
+  community. My goal is to show Mozilla projects\, Firefox OS and engage po
+ ssible new contributors.
+URL:https://reps.mozilla.org/e/virtualization-devops-day-2014/
+SEQUENCE:15
+X-COORDINATES-LAT:47.4981235503
+X-COORDINATES-LON:19.0280771247
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

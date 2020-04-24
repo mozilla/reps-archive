@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3745
+CLASS:PUBLIC
+DTSTAMP:20200423T172346Z
+DTSTART:20150516T080000Z
+DTEND:20150516T140000Z
+LOCATION:Kranenburg praktijkonderwijs\, Utrecht\, Netherlands
+SUMMARY:Dutch linux User Group meetup
+DESCRIPTION:National meeting of the the Dutch Linux User Group.
+URL:https://reps.mozilla.org/e/dutch-linux-user-group-meetup-1/
+SEQUENCE:1
+X-COORDINATES-LAT:52.0766695698
+X-COORDINATES-LON:5.13977623021
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

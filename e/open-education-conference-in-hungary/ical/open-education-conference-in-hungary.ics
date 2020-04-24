@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3978
+CLASS:PUBLIC
+DTSTAMP:20200423T171009Z
+DTSTART:20150624T060000Z
+DTEND:20150624T150000Z
+LOCATION:Eszterházy Károly Főiskola 3300 Eger Eszterházy tér 1. “A
+ ” épület\, Líceum\, Kápolna\, Erlau\, Hungary
+SUMMARY:Open Education Conference in Hungary
+DESCRIPTION:I will present  open Firefox OS KMOOC course\, \nand  support 
+ of training at the Óbuda University\, University of Szeged\, Kecskemét C
+ ollege.
+URL:https://reps.mozilla.org/e/open-education-conference-in-hungary/
+SEQUENCE:9
+X-COORDINATES-LAT:47.9000035564
+X-COORDINATES-LON:20.3763788941
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

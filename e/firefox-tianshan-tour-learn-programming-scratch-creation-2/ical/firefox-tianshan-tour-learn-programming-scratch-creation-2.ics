@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5496
+CLASS:PUBLIC
+DTSTAMP:20200423T150937Z
+DTSTART:20160726T070000Z
+DTEND:20160726T090000Z
+LOCATION:Urumqi gaoxin community\, Urumqi\, China
+SUMMARY:Firefox Tianshan Tour-Learn programming --scratch Creation 2
+DESCRIPTION:Objective:\nLearn programming --scratch Creation\nHow to use F
+ irefox learn a foreign language? Why use a modern browser?\nMoving target\
+ nLet children know js\nLearn to use scratch to make a simple program
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-learn-programming-scr
+ atch-creation-2/
+SEQUENCE:1
+X-COORDINATES-LAT:43.8803469967
+X-COORDINATES-LON:2607.55236518
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

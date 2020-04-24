@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1222
+CLASS:PUBLIC
+DTSTAMP:20200423T210838Z
+DTSTART:20130921T040000Z
+DTEND:20130921T060000Z
+LOCATION:SAU Central Auditorium\, Sher-e-Bangla Agricultural University (S
+ AU)\, Sher-e-Bangla Nagar\, Dhaka-1207\, Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Software Freedom Day 2013\, Bangladesh
+DESCRIPTION:We are glad to inform you that\, Mozilla Bangladesh is organiz
+ ing an event to celebrate Software Freedom Day (SFD)\, 2013. Whether you c
+ ontribute your time\, funds\, expertise or ideas ..... Join with us and he
+ lp us in our ongoing effort to spread open web technologies in Bangladesh
+URL:https://reps.mozilla.org/e/software-freedom-day-2013-bangladesh/
+SEQUENCE:6
+X-COORDINATES-LAT:23.7652368898
+X-COORDINATES-LON:90.4064941406
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

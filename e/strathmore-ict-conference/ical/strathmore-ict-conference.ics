@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@41
+CLASS:PUBLIC
+DTSTAMP:20200423T230454Z
+DTSTART:20120907T090000Z
+DTEND:20120908T090000Z
+LOCATION:Strathmore University\, Nairobi\, Kenya
+SUMMARY:Strathmore ICT Conference
+DESCRIPTION:Strathmore University&#39;s Annual ICT Conference brings together 
+ academics\, researchers\, information technology students\, young professi
+ onals and industry experts to share on findings or ongoing research/projec
+ ts and innovations. The Conference provides a forum to exchange the experi
+ ences about the trends and latest developments in the Academia and/or ICT 
+ Industry and its applications in both Private and Public sectors. 
+URL:https://reps.mozilla.org/e/strathmore-ict-conference/
+SEQUENCE:0
+X-COORDINATES-LAT:-1.30935655293
+X-COORDINATES-LON:36.8127018213
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

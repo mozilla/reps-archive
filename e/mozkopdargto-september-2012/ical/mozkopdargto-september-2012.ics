@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@92
+CLASS:PUBLIC
+DTSTAMP:20200423T225753Z
+DTSTART:20120928T110000Z
+DTEND:20120928T130000Z
+LOCATION:Double Dipps Coffee\, Gorontalo\, Indonesia
+SUMMARY:MozKopdarGTO - September 2012
+DESCRIPTION:First meetup for mozillians in Gorontalo\, Indonesia.
+URL:https://reps.mozilla.org/e/mozkopdargto-september-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:0.535575696436
+X-COORDINATES-LON:123.046875
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

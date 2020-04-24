@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8070
+CLASS:PUBLIC
+DTSTAMP:20200423T090235Z
+DTSTART:20180922T073000Z
+DTEND:20180922T130000Z
+LOCATION:SLIIT Malabe  Campus\, Colombo\, Sri Lanka
+SUMMARY:Software Freedom Day 2018 - Sri Lanka
+DESCRIPTION:FOSS (Free Open Source Software) Sri Lanka community\, FOSS.LK
+  is a well and most renowned community in Sri Lanka for its contribution t
+ o Free and Open Source Software and Internet Freedom among professional fo
+ rums and all layers of the society. FOSS Sri Lanka community is backed by 
+ Lanka Software Foundation ( opensouce.lk ) along with a huge community.  \
+ n\nThis time it revamping back to action with support from Mozilla Sri Lan
+ ka community and we together hosting SFD.
+URL:https://reps.mozilla.org/e/software-freedom-day-2018-sri-lanka/
+SEQUENCE:2
+X-COORDINATES-LAT:6.87916473188
+X-COORDINATES-LON:80.0566408038
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

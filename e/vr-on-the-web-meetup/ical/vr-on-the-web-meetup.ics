@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6434
+CLASS:PUBLIC
+DTSTAMP:20200423T111547Z
+DTSTART:20170419T113000Z
+DTEND:20170419T133000Z
+LOCATION:Mozilla Space Taipei\, Taipei\, Taiwan
+SUMMARY:WebGL&amp;WebVR #04 meetup: WebVR update in 2017
+DESCRIPTION:(Hopefully) bi-monthly meetup about WebVR in Taipei.
+URL:https://reps.mozilla.org/e/vr-on-the-web-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0324645852
+X-COORDINATES-LON:121.567000866
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

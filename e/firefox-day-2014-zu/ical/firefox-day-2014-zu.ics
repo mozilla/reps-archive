@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2988
+CLASS:PUBLIC
+DTSTAMP:20200423T183920Z
+DTSTART:20141026T050000Z
+DTEND:20141026T120000Z
+LOCATION:Zarqa Uni.\, Zarqa\, Jordan
+SUMMARY:firefox day 2014 -zu
+DESCRIPTION:first event at zarqa university \, we will talk to the student
+  about mozilla and mozilla jordan and how to join us and start contribute 
+ \, and how to use mozilla products .
+URL:https://reps.mozilla.org/e/firefox-day-2014-zu/
+SEQUENCE:3
+X-COORDINATES-LAT:32.0567785349
+X-COORDINATES-LON:36.1061095633
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

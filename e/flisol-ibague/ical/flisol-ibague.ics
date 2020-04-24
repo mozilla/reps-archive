@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@695
+CLASS:PUBLIC
+DTSTAMP:20200423T214907Z
+DTSTART:20130426T130000Z
+DTEND:20130426T230000Z
+LOCATION:Universidad Cooperativa de Colombia\, Seccional Ibagué \, Ibagu
+ é\, Colombia
+SUMMARY:Flisol Ibagué
+DESCRIPTION:VIII Latinamerican festival of open source installation. Sever
+ al open source communities in different cities of each country in LaTam or
+ ganises this event in order to spread\, share\, install\, teach and learn 
+ about open source. Ibagué will join to this open source activity. 
+URL:https://reps.mozilla.org/e/flisol-ibague/
+SEQUENCE:2
+X-COORDINATES-LAT:4.44327522062
+X-COORDINATES-LON:-75.2432048321
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

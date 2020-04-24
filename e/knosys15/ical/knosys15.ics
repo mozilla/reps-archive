@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3410
+CLASS:PUBLIC
+DTSTAMP:20200423T180220Z
+DTSTART:20150131T073000Z
+DTEND:20150131T123000Z
+LOCATION:NIT\,Puducherry\, Puducherry\, India
+SUMMARY:Knosys&#39;15
+DESCRIPTION:*Open Source Software and Importance\n*A session on Mozilla Mi
+ ssion and Manifesto.\n*A session on various platforms of contribution.\n*I
+ nteractive session on the methods for being a strong\, independent and pot
+ ential community.\n*Introduction to Firefox OS
+URL:https://reps.mozilla.org/e/knosys15/
+SEQUENCE:1
+X-COORDINATES-LAT:11.8987077321
+X-COORDINATES-LON:79.7808835655
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

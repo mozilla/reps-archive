@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8003
+CLASS:PUBLIC
+DTSTAMP:20200423T091142Z
+DTSTART:20180808T150000Z
+DTEND:20180808T163000Z
+LOCATION:Online\, Online\, India
+SUMMARY:Mozilla Kerala Community Weekly Call 08-08-2018
+DESCRIPTION:This call is to discuss MozillaKerala Upcoming events and prog
+ rams that can be done.
+URL:https://reps.mozilla.org/e/mozilla-kerala-community-weekly-call-08-08-
+ 2018/
+SEQUENCE:1
+X-COORDINATES-LAT:9.58508518167
+X-COORDINATES-LON:76.5271081925
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

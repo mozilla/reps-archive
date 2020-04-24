@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6883
+CLASS:PUBLIC
+DTSTAMP:20200423T104755Z
+DTSTART:20170813T043000Z
+DTEND:20170813T073000Z
+LOCATION:105\, Himalaya Building\, Gachibowli\, IIIT Hyderabad\, Hyderabad
+ \, India
+SUMMARY:Intro to WebVR with A-frame @ IIIT Hyderabad
+DESCRIPTION:Event Flow: https://mozilla.github.io/activate.mozilla.communi
+ ty/webvr-camp/#event-flow\n\nPlanning &amp; Discussions: https://public.etherp
+ ad-mozilla.org/p/remo-intro-to-webvr-with-a-frame-iiit-hyderabad
+URL:https://reps.mozilla.org/e/intro-to-webvr-with-a-frame-iiit-hyderabad/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4456153703
+X-COORDINATES-LON:78.3492343427
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

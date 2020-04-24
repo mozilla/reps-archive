@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2872
+CLASS:PUBLIC
+DTSTAMP:20200423T185813Z
+DTSTART:20140919T033000Z
+DTEND:20140919T113000Z
+LOCATION:St. Peters Engineering College\, Hyderabad\, India
+SUMMARY:FSA Club Launch @SPEC
+DESCRIPTION:Intro to OpenSource\,Mozilla and its Mission. A Short intro of
+  Various Products of Mozilla.A Complete Handson Webmaker Session with Thim
+ ble and Appmaker.
+URL:https://reps.mozilla.org/e/fsa-club-launch-spec/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4501507078
+X-COORDINATES-LON:78.457661
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

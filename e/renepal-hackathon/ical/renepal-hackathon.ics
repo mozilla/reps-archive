@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3951
+CLASS:PUBLIC
+DTSTAMP:20200423T171941Z
+DTSTART:20150529T121500Z
+DTEND:20150530T121500Z
+LOCATION:Kathmandu Engineering College\, Kathmandu\, Nepal
+SUMMARY:ReNepal Hackathon
+DESCRIPTION:Hackathon for Rebuilding a Disaster free Nepal.
+URL:https://reps.mozilla.org/e/renepal-hackathon/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6986327187
+X-COORDINATES-LON:85.2965889573
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

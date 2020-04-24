@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5673
+CLASS:PUBLIC
+DTSTAMP:20200423T150722Z
+DTSTART:20160731T043000Z
+DTEND:20160731T073000Z
+LOCATION:Bits and Bytes Institute\, Opp: Haritha Kakatiya\, Hanamkonda\, W
+ arangal\, India
+SUMMARY:Mozilla India Planning Meetup Updates - Mozilla Warangal
+DESCRIPTION:This Meetup is to discuss about the latest updates announced a
+ t the Mozilla India Planning Meetup happened on July 9-10\, 2016 at Pune\,
+  India.
+URL:https://reps.mozilla.org/e/mozilla-india-planning-meetup-updates-mozil
+ la-warangal/
+SEQUENCE:2
+X-COORDINATES-LAT:17.97829771
+X-COORDINATES-LON:79.6252440289
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

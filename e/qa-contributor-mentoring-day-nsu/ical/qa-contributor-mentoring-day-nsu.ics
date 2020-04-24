@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5296
+CLASS:PUBLIC
+DTSTAMP:20200423T162953Z
+DTSTART:20151010T040000Z
+DTEND:20151010T110000Z
+LOCATION:North South University\, Dhaka\, Bangladesh
+SUMMARY:QA Contributor Mentoring Day @ NSU
+DESCRIPTION:Description  QA Event in NSU supported by NSU Firefox Club!
+URL:https://reps.mozilla.org/e/qa-contributor-mentoring-day-nsu/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7983033383
+X-COORDINATES-LON:90.4419636726
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2074
+CLASS:PUBLIC
+DTSTAMP:20200423T200100Z
+DTSTART:20140419T010000Z
+DTEND:20140419T050000Z
+LOCATION:Lab. Multimedia - Politeknik Negeri Ujung Pandang\, Ujung Pandang
+ \, Indonesia
+SUMMARY:Firefox OS: Make an App in a Day
+DESCRIPTION:Firefox OS: Make an App in a Day is one day event to help deve
+ loper getting started to make an app in Firefox OS.
+URL:https://reps.mozilla.org/e/firefox-os-make-an-app-in-a-day/
+SEQUENCE:4
+X-COORDINATES-LAT:-5.11045032437
+X-COORDINATES-LON:119.477577206
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

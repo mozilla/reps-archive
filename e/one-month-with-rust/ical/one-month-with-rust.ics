@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1709
+CLASS:PUBLIC
+DTSTAMP:20200423T202604Z
+DTSTART:20140219T173000Z
+DTEND:20140219T210000Z
+LOCATION:Rackspace\, Pfingstweidstrasse 60\, 8005 Zurich\, Switzerland\, Z
+ ürich\, Switzerland
+SUMMARY:One month with Rust
+DESCRIPTION:Description from the organizer:\n\n\n\nMozilla&#39;s RUST piqued m
+ y interest and I decided to give it a go. According to http://www.rust-lan
+ g.org/:\n\n&#34;It supports a mixture of imperative procedural\, concurrent ac
+ tor\, object-oriented and pure functional styles. Rust also supports gener
+ ic programming and metaprogramming\, in both static and dynamic styles.&#34;\n
+ \nPlease join me for a report on the &#34;4 weeks with Mozilla&#39;s RUST&#34; experim
+ ent :-)
+URL:https://reps.mozilla.org/e/one-month-with-rust/
+SEQUENCE:2
+X-COORDINATES-LAT:47.3884400452
+X-COORDINATES-LON:8.51363754264
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@240
+CLASS:PUBLIC
+DTSTAMP:20200423T225443Z
+DTSTART:20121013T100000Z
+DTEND:20121015T100000Z
+LOCATION:EUROSITES GEORGE V Convention center\, paris\, France
+SUMMARY:FUDCon Paris EMEA 2012
+DESCRIPTION:FUDCon is the Fedora Users and Developers Conference\, a major
+  free software event held in various regions around the world\, usually an
+ nually per region. FUDCon is a combination of sessions\, talks\, workshops
+ \, and hackfests in which contributors work on specific initiatives. Topic
+ s include infrastructure\, feature development\, community building\, gene
+ ral management and governance\, marketing\, testing and QA\, packaging\, e
+ tc.\n\nFUDCon is always free to attend for anyone in the world. 
+URL:https://reps.mozilla.org/e/fudcon-paris-emea-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:48.8679894965
+X-COORDINATES-LON:2.30159282684
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

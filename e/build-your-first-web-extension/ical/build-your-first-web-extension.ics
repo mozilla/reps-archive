@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7311
+CLASS:PUBLIC
+DTSTAMP:20200423T101042Z
+DTSTART:20171220T021500Z
+DTEND:20171220T041500Z
+LOCATION:Amrit Campus\, Kathmandu\, Nepal
+SUMMARY:Build Your First Web Extension
+DESCRIPTION:Second event by Mozilla Campus Club\, ASCOL in Nepal. Build yo
+ ur own extension with new WebExtensions API by - ASCOL Campus Club\, Nepal
+  supported by Mozilla Nepal Community.
+URL:https://reps.mozilla.org/e/build-your-first-web-extension/
+SEQUENCE:2
+X-COORDINATES-LAT:27.7156324819
+X-COORDINATES-LON:85.312487125
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

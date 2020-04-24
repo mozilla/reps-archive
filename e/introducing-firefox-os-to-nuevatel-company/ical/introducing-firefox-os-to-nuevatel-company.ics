@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1970
+CLASS:PUBLIC
+DTSTAMP:20200423T201941Z
+DTSTART:20140307T130000Z
+DTEND:20140307T140000Z
+LOCATION:San Martin Ave.\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Introducing Firefox OS to NUEVATEL Company
+DESCRIPTION:NUEVATEL is a Telecomunication Company in Bolivia\, one of 3 b
+ est company. They want to know more about Firefox OS and the possibility t
+ o sell Smartphone with Firefox OS.
+URL:https://reps.mozilla.org/e/introducing-firefox-os-to-nuevatel-company/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.7658540624
+X-COORDINATES-LON:-63.1953864099
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

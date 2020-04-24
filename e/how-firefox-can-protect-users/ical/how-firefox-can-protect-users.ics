@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5233
+CLASS:PUBLIC
+DTSTAMP:20200423T153937Z
+DTSTART:20160322T180000Z
+DTEND:20160322T210000Z
+LOCATION:Liip\, Limmatstrasse 183\, Zürich\, Zurich\, Switzerland
+SUMMARY:How Firefox can protect users
+DESCRIPTION:J0WI will talk about the security and privacy features in Fire
+ fox\, including Cookies\, HTTPS\, Plugins\, Referer and then dives into th
+ e Content Security Policy.
+URL:https://reps.mozilla.org/e/how-firefox-can-protect-users/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3860877695
+X-COORDINATES-LON:8.52928161577
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

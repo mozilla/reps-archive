@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1359
+CLASS:PUBLIC
+DTSTAMP:20200423T205012Z
+DTSTART:20131117T210000Z
+DTEND:20131119T150000Z
+LOCATION:Universidad Loyola del Pacífico\, Acapulco\, Mexico
+SUMMARY:Twentieth anniversary of the National Week of Science and Technolo
+ gy
+DESCRIPTION:As part of the celebration of the twentieth anniversary of the
+  National Week of science and technology which every year takes place CONA
+ CyT to promote research and technological development.\nThe goal of the Ap
+ p Day is to introduce Firefox OS and Firefox Marketplace\, and share knowl
+ edge about the tools available to help developers get started building app
+ s to submit to the Marketplace. Learn\, Hack and Celebrate the Firefox OS\
+ , Mozilla&#39;s open source operating system for the mobile web.
+URL:https://reps.mozilla.org/e/twentieth-anniversary-of-the-national-week-
+ of-science-and-technology/
+SEQUENCE:7
+X-COORDINATES-LAT:16.8277924661
+X-COORDINATES-LON:-99.8471832275
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

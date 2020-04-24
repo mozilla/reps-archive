@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6878
+CLASS:PUBLIC
+DTSTAMP:20200423T104457Z
+DTSTART:20170830T070000Z
+DTEND:20170903T160000Z
+LOCATION:Venezia\, Venezia\, Italy
+SUMMARY:End Summer Camp 2017
+DESCRIPTION:End Summer Camp is the biggest hacking event camping in Italy 
+ about coding\, security and open source.
+URL:https://reps.mozilla.org/e/end-summer-camp-2017/
+SEQUENCE:6
+X-COORDINATES-LAT:45.4979
+X-COORDINATES-LON:12.33106
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

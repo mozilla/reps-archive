@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4611
+CLASS:PUBLIC
+DTSTAMP:20200423T163144Z
+DTSTART:20151005T043000Z
+DTEND:20151101T093000Z
+LOCATION:JNCT\, Bhopal\, India
+SUMMARY:Fx-Hn Download: MozMP@JNCT
+DESCRIPTION:In support of Grow Firefox download in Indian Languages - Pilo
+ t campaign. We are organizing a session to tell the web users why Firefox 
+ is best browser. Features of Firefox (privacy\, security\, Hello\, do not 
+ track me etc). And after installing the Hindi version\, make Firefox their
+  default browser by their choice.
+URL:https://reps.mozilla.org/e/fx-hn-download-mozmp-jnct/
+SEQUENCE:1
+X-COORDINATES-LAT:23.2651975271
+X-COORDINATES-LON:77.38095045
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

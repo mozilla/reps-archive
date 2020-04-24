@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5637
+CLASS:PUBLIC
+DTSTAMP:20200423T151259Z
+DTSTART:20160716T043000Z
+DTEND:20160716T103000Z
+LOCATION:HSR Layout\, Bangalore\, India
+SUMMARY:Python 101 and web UI testing using selenium and Firefox - week 3/
+ 3
+DESCRIPTION:This is a 3 day (spread across 3 weeks) workshop starting from
+  basics of python scripting\, selenium bindings and testing websites using
+  Firefox. The ultimate aim of this event is to help developers transition 
+ to using Firefox as a test platform and also help them contribute to Mozil
+ la&#39;s automation &amp; QA team.\n\nDay 3 of this series\, we focus on selenium 
+ bindings for python and how to use Firefox in a test automation scenario!
+URL:https://reps.mozilla.org/e/python-101-and-web-ui-testing-using-seleniu
+ m-and-firefox-week-3-3/
+SEQUENCE:3
+X-COORDINATES-LAT:12.8850394583
+X-COORDINATES-LON:77.9673614586
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

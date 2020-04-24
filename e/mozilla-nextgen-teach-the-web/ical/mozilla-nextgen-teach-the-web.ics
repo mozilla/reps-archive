@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5648
+CLASS:PUBLIC
+DTSTAMP:20200423T151129Z
+DTSTART:20160719T063000Z
+DTEND:20160719T093000Z
+LOCATION:K.J.Mehta High School\, Nashik\, Maharashtra 422214\, Nashik\, In
+ dia
+SUMMARY:Mozilla NextGen - Teach The Web
+DESCRIPTION:This is a seminar for young school students to spread awarenes
+ s about web literacy. The agenda for the event is: \n1) Introduction to In
+ ternet.\n2) The Mozilla Story.\n3) Introduction to the Open Web.\n4) Why i
+ s Privacy important?\nThis will be first of a series of events focused on 
+ educating school going students the importance of the Web and Internet.
+URL:https://reps.mozilla.org/e/mozilla-nextgen-teach-the-web/
+SEQUENCE:2
+X-COORDINATES-LAT:19.9588843302
+X-COORDINATES-LON:73.8285398466
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

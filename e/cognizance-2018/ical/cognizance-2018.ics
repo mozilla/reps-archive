@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8104
+CLASS:PUBLIC
+DTSTAMP:20200423T090315Z
+DTSTART:20180920T043000Z
+DTEND:20180921T103000Z
+LOCATION:CHARUSAT Campus\, Highway 139\, Off\, Nadiad - Petlad Road\, Chan
+ ga\, India
+SUMMARY:VR and AR on the Web @ Cognizance 2018
+DESCRIPTION:Mozilla India&#39;s first collaboration with Cognizance 2k18. Spre
+ ading the Mozilla mission in Changa. Also spreading awareness for online p
+ rivacy\, MozActivate campaign. Amongst students from all over Gujarat\, in
+  the technical fest hosted by CHARUSAT\, Changa. This will be the 1st year
+  when Mozilla India will be present at Cognizance or Changa.
+URL:https://reps.mozilla.org/e/cognizance-2018/
+SEQUENCE:3
+X-COORDINATES-LAT:22.9550214542
+X-COORDINATES-LON:72.6562491059
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

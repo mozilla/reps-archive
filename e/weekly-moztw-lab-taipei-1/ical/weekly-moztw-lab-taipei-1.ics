@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1504
+CLASS:PUBLIC
+DTSTAMP:20200423T205141Z
+DTSTART:20131115T110000Z
+DTEND:20131115T140000Z
+LOCATION:六號茶\, Taipei City\, Taiwan
+SUMMARY:Weekly MozTW Lab\, Taipei
+DESCRIPTION:A weekly MozCafe in Taipei. We do event planning\, l10n\, Fire
+ fox OS testing\, webpage of moztw.org\, and endless chatting on Mozilla-re
+ lated topics.  Anyone can bring his own works/tasks/fun to attend this eve
+ nt and sharing.
+URL:https://reps.mozilla.org/e/weekly-moztw-lab-taipei-1/
+SEQUENCE:3
+X-COORDINATES-LAT:25.0440539679
+X-COORDINATES-LON:121.532694698
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

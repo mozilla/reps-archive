@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7182
+CLASS:PUBLIC
+DTSTAMP:20200423T101329Z
+DTSTART:20171202T150000Z
+DTEND:20171202T200000Z
+LOCATION:Google São Paulo - Av. Brg. Faria Lima\, 3477 Itaim Bibi\, São 
+ Paulo\, Brazil
+SUMMARY:CodePen Meetup Brasil
+DESCRIPTION:Codepen meetups have been happened since 2014 around the world
+ . In 2016 Brazil (and Latin America) received this meetup\, which happened
+  on October 22th at Fatec Sorocaba.\nThe format of the event is based on S
+ how &amp; Tell with curated speakers and Dribbble + CodePen dojo cross-overs.\
+ nIn 2017 the event will happen in São Paulo on November 25th. We will pre
+ sent a Pen about WebVR/A-frame at the event to show how easy is to start u
+ sing A-frame to build a VR scene.
+URL:https://reps.mozilla.org/e/codepen-meetup-brasil/
+SEQUENCE:6
+X-COORDINATES-LAT:-23.586496
+X-COORDINATES-LON:-46.682407
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@948
+CLASS:PUBLIC
+DTSTAMP:20200423T214348Z
+DTSTART:20130516T230000Z
+DTEND:20130517T020000Z
+LOCATION:GozCafe\, Taipei City\, Taiwan
+SUMMARY:Community meeting with Gen Kanai. (MozTW Lab\, special ver.)
+DESCRIPTION:Community meeting with Gen Kanaid from Mozilla foundation Japa
+ n\, discussion on recent issues between MoCo Taiwan and local community\, 
+ share the experience and opinion on Mozilla culture\, community and volunt
+ eer-employee problems\, which we don&#39;t want it to happen again at other re
+ gion.
+URL:https://reps.mozilla.org/e/community-meeting-with-gen-kanai-moztw-lab-
+ special-ver/
+SEQUENCE:1
+X-COORDINATES-LAT:25.05658
+X-COORDINATES-LON:121.54687
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8031
+CLASS:PUBLIC
+DTSTAMP:20200423T090638Z
+DTSTART:20180901T103000Z
+DTEND:20180901T123000Z
+LOCATION:SFLC\, New Delhi\, New Delhi\, India
+SUMMARY:New Delhi: MozCoffee on Personal Data Protection Bill 2018
+DESCRIPTION:Inviting all Mozilla Community Members in and around New Delhi
+  to discuss on Personal Data Protection Bill 2018 over a Coffee and snacks
+ . Dates and Venue: Yet to be decided\, suggest a good venue and dates in p
+ lanning pad.
+URL:https://reps.mozilla.org/e/new-delhi-mozcoffee-on-personal-data-protec
+ tion-bill-2018/
+SEQUENCE:0
+X-COORDINATES-LAT:28.5520955005
+X-COORDINATES-LON:77.2311286954
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

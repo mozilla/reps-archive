@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3721
+CLASS:PUBLIC
+DTSTAMP:20200423T172830Z
+DTSTART:20150426T063000Z
+DTEND:20150426T113000Z
+LOCATION:OpenWorld Academy\, 3rd Floor\, Plot-17\,Manish Gouri Plaza\, Sec
+ tor-10 Market\, Dwarka\, New Delhi\, 110075\, Delhi\, India
+SUMMARY:Make Mobile Apps Using Appmaker
+DESCRIPTION:In this Event\, we would be giving a demo  of the Appmaker too
+ l of Mozilla and helping participants build their Mobile Apps with Appmake
+ r. We are collaborating with Openworld Academy for the same and students w
+ ill learn making Apps and after the end of the whole session we would be h
+ aving some presentable apps with us. We are also going to discuss the idea
+  of cache Youtube Videos in Firefox Browser in this session .
+URL:https://reps.mozilla.org/e/make-mobile-apps-using-appmaker/
+SEQUENCE:4
+X-COORDINATES-LAT:28.5869334991
+X-COORDINATES-LON:76.8438720703
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

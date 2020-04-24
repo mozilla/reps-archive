@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7053
+CLASS:PUBLIC
+DTSTAMP:20200423T102617Z
+DTSTART:20171008T053000Z
+DTEND:20171008T083000Z
+LOCATION:Hacker Space\, 2nd floor\, Kundlini complex\, Above Honest restau
+ rant\, Opp. to Vastrapur Lake\, Ahmedabad\, Gujarat- 380015\, Ahmedabad\, 
+ India
+SUMMARY:Firefox 57 Sprint Ahmedabad\, Gujarat
+DESCRIPTION:Firefox 57 we are going to introduce to the world a product wh
+ ich is faster and more reliable than ever. Mozilla’s employees and contr
+ ibutors have put thousands of hours of work to ensure that this is going t
+ o be successful.
+URL:https://reps.mozilla.org/e/firefox-57-sprint-ahmedabad-gujarat/
+SEQUENCE:2
+X-COORDINATES-LAT:22.7930634333
+X-COORDINATES-LON:71.0434556007
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

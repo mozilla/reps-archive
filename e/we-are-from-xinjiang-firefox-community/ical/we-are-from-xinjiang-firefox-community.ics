@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5474
+CLASS:PUBLIC
+DTSTAMP:20200423T151655Z
+DTSTART:20160629T110000Z
+DTEND:20160629T123000Z
+LOCATION:Xinjiang Normal University\, Urumqi\, China
+SUMMARY:We are from Xinjiang Firefox community
+DESCRIPTION:Students volunteer training\n\nWhat is mozilla?\nWhat is Web L
+ iteracy? Why do we have to organize this event? Description The goal of th
+ is activity is to let parents\, teachers\, and students to understand the 
+ significance of Firefox Tianshan tour activities\, and recognize that thro
+ ugh our joint efforts\, the students will gain what? How to improve the le
+ vel of computer applications?
+URL:https://reps.mozilla.org/e/we-are-from-xinjiang-firefox-community/
+SEQUENCE:0
+X-COORDINATES-LAT:43.8234271342
+X-COORDINATES-LON:2607.69582832
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

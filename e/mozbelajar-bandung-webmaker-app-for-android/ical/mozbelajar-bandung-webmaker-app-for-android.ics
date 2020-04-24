@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4292
+CLASS:PUBLIC
+DTSTAMP:20200423T165232Z
+DTSTART:20150815T030000Z
+DTEND:20150815T073000Z
+LOCATION:CO &amp; CO Space\, Bandung\, Indonesia
+SUMMARY:#MozBelajar Bandung : Webmaker App for Android
+DESCRIPTION:The Webmaker team and the Participation team will be organizin
+ g a series of interactive events to celebrate the official launch of the W
+ ebmaker app\, across 5 major cities in Indonesia: Jakarta\, Bandung\, Sura
+ baya\, Semarang\, Makassar. There will be Webmaker App downloading session
+  and hands on workshop in making projects using the app. This event is org
+ anized by Mozilla Indonesia
+URL:https://reps.mozilla.org/e/mozbelajar-bandung-webmaker-app-for-android
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:-6.89794690118
+X-COORDINATES-LON:107.613861322
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

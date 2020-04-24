@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@507
+CLASS:PUBLIC
+DTSTAMP:20200423T214645Z
+DTSTART:20130429T140000Z
+DTEND:20130430T010000Z
+LOCATION:Av. Ing. Victor Bravo Ahuja #125 esq. Calz. Tecnológico\, Oaxaca
+  de Juarez\, Mexico
+SUMMARY: Translathon in Isthmus Zapotec (Feb 21th)
+DESCRIPTION:We proposed Translathon event\, an activitie to make the local
+ ization of Firefox and creation of Wikipedia articles\, in this case in Is
+ thmus Zapotec. The main objective is form community committed to support t
+ he localization\, looking for awareness in our society about the importanc
+ e of language preservation and promotion of the use on an important issue 
+ of digital inclusion of indigenous communities. It calls on key dates such
+  as February 21\, the International Day Native Languages. 
+URL:https://reps.mozilla.org/e/translathon-in-zapotec-feb-21th/
+SEQUENCE:1
+X-COORDINATES-LAT:17.0803637867
+X-COORDINATES-LON:-96.745852232
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

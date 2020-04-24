@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4514
+CLASS:PUBLIC
+DTSTAMP:20200423T160827Z
+DTSTART:20151130T040000Z
+DTEND:20151130T103000Z
+LOCATION:Conference Room\,SEC\, Sylhet\, Bangladesh
+SUMMARY:Hack on MDN
+DESCRIPTION:1. Making new contributor for MDN\n2. Enriching MDN by updatin
+ g\,translating\,reviewing contents\n3. Making existing mozillian intereste
+ d in MDN
+URL:https://reps.mozilla.org/e/hack-on-mdn/
+SEQUENCE:8
+X-COORDINATES-LAT:24.9046545657
+X-COORDINATES-LON:91.8501663208
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

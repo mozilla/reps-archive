@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1158
+CLASS:PUBLIC
+DTSTAMP:20200423T212146Z
+DTSTART:20130802T140000Z
+DTEND:20130804T160000Z
+LOCATION:CERN\, Meyrin\, Switzerland\, Geneva\, Switzerland
+SUMMARY:CERN Webfest
+DESCRIPTION:From their wiki:\nParticipants (that&#39;s you!) will create or jo
+ in a project team\, and work with that team for the duration of the weeken
+ d.\n\nA project can be anything about sharing science on the web. It might
+  be a way to communicate ideas\, visualize a dataset\, or even recruit hel
+ p! If you have an idea you&#39;re excited about\, you should create a project.
+URL:https://reps.mozilla.org/e/cern-webfest/
+SEQUENCE:1
+X-COORDINATES-LAT:46.2315092673
+X-COORDINATES-LON:6.05466842651
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

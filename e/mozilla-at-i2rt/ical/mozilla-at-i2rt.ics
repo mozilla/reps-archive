@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6785
+CLASS:PUBLIC
+DTSTAMP:20200423T105526Z
+DTSTART:20170708T083000Z
+DTEND:20170708T113000Z
+LOCATION:I2RT\, Pune\, India
+SUMMARY:Mozilla at I2RT
+DESCRIPTION:This is a first Mozilla event at I2RT. \nThe agenda includes i
+ ntroduction to Mozilla\, VR and Rust.
+URL:https://reps.mozilla.org/e/mozilla-at-i2rt/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5935109371
+X-COORDINATES-LON:73.7390098628
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

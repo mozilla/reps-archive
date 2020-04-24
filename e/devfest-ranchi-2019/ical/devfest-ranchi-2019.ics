@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8834
+CLASS:PUBLIC
+DTSTAMP:20200423T081028Z
+DTSTART:20190922T043000Z
+DTEND:20190922T113000Z
+LOCATION:ABVIL\, Excise Building\, Ranchi\, India
+SUMMARY:DevFest Ranchi 2019
+DESCRIPTION:DevFest Ranchi 2019\, large\, community-run developer events h
+ appening in Ranchi\, the capital city of Jharkhand\, focusing on community
+  building and learning about Google’s technologies and Open Source techn
+ ologies.
+URL:https://reps.mozilla.org/e/devfest-ranchi-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:23.34
+X-COORDINATES-LON:85.3
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

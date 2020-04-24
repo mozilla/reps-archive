@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5860
+CLASS:PUBLIC
+DTSTAMP:20200423T145717Z
+DTSTART:20160911T053000Z
+DTEND:20160911T083000Z
+LOCATION:Red Hat\, Pune\, Pune\, India
+SUMMARY:Mozilla Pune Planning Meetup
+DESCRIPTION:This is a planning meetup organized by the Mozilla Pune commun
+ ity.
+URL:https://reps.mozilla.org/e/mozilla-pune-planning-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:18.5121408177
+X-COORDINATES-LON:73.9290046622
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

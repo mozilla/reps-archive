@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1077
+CLASS:PUBLIC
+DTSTAMP:20200423T212815Z
+DTSTART:20130706T080000Z
+DTEND:20130706T140000Z
+LOCATION:Microsoft Philippines\, Makati City\, Philippines
+SUMMARY:Web Chixies Meetup
+DESCRIPTION:Women of the Web :Techno preneur Meet up discussion with some 
+ of our women in the IT community and business world.
+URL:https://reps.mozilla.org/e/web-chixies-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5532105973
+X-COORDINATES-LON:121.025755405
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

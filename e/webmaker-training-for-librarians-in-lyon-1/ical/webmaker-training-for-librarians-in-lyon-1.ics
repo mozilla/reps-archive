@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1380
+CLASS:PUBLIC
+DTSTAMP:20200423T212041Z
+DTSTART:20130807T073000Z
+DTEND:20130807T093000Z
+LOCATION:Bibliothèque de la part Dieu\, Lyon\, France
+SUMMARY:Webmaker training for librarians in Lyon
+DESCRIPTION:Two hour training to 5 librarians on webmaker tools. So they c
+ an later organize activities with webmaker in the different public librair
+ ies in Lyon.
+URL:https://reps.mozilla.org/e/webmaker-training-for-librarians-in-lyon-1/
+SEQUENCE:3
+X-COORDINATES-LAT:45.7593197539
+X-COORDINATES-LON:4.85773801804
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6488
+CLASS:PUBLIC
+DTSTAMP:20200423T110414Z
+DTSTART:20170603T033000Z
+DTEND:20170603T113000Z
+LOCATION:Go-JEK Engineering\, Bangalore\, IN.\, Bangalore\, India
+SUMMARY:HelloWeb Curriculum Workshop
+DESCRIPTION:Teaching by traditional means has existed since time immemoria
+ l and the only way to change this way for the better is by designing curri
+ culums that are genre specific and more importantly target group specific.
+  It is this subject that we choose to address in this event. Experienced M
+ ozillians from across the country and abroad come together to inspire Web 
+ Literacy enthusiasts pertaining to various parts of the national spectrum.
+URL:https://reps.mozilla.org/e/helloweb-curriculum-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:12.8251919721
+X-COORDINATES-LON:77.7186584473
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

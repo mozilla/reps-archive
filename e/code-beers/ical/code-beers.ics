@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3538
+CLASS:PUBLIC
+DTSTAMP:20200423T174153Z
+DTSTART:20150317T220000Z
+DTEND:20150318T025500Z
+LOCATION:Campus 3 Rock Bar\, Novo Hamburgo\, Brazil
+SUMMARY:Code Beers
+DESCRIPTION:Code Beers is a Developers meeting created to exchange knowled
+ ge about technology\, tendencies and pratices while drinking beer.
+URL:https://reps.mozilla.org/e/code-beers/
+SEQUENCE:2
+X-COORDINATES-LAT:-29.6672946003
+X-COORDINATES-LON:-51.1175572874
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6057
+CLASS:PUBLIC
+DTSTAMP:20200423T114626Z
+DTSTART:20161114T033000Z
+DTEND:20161114T103000Z
+LOCATION:GEMS Arts and Science College\,Ramapuram Town\, Malappuram\, Indi
+ a
+SUMMARY:Mozilla Day
+DESCRIPTION:This event will show the latest development and experiments th
+ at Mozilla has been working on(IOT). Students and Makers from electronics 
+ and computers background will be invited for this event. Basic training wi
+ ll be given to the attendees and then they will be divided into teams poss
+ essing required skills to collaborate with each other while brainstorming 
+ and Idealization.
+URL:https://reps.mozilla.org/e/mozilla-day-3/
+SEQUENCE:4
+X-COORDINATES-LAT:11.0423763159
+X-COORDINATES-LON:76.0812349292
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

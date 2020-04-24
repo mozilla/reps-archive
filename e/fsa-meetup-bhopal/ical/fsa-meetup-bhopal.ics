@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4294
+CLASS:PUBLIC
+DTSTAMP:20200423T165430Z
+DTSTART:20150809T063000Z
+DTEND:20150809T093000Z
+LOCATION:Snow Vision Itech P No 60\,2nd Floor\, Balaji Tower Chetak Bridge
+ \, Zone-I\, Maharana Pratap Nagar Bhopal\, Bhopal\, India
+SUMMARY:FSA Meetup Bhopal
+DESCRIPTION:Agenda : \n1. Demo for contribution pathways (Geo Stumbling\, 
+ SuMo\, L10n\,   Webmaker and Evangelism).\n2. Setting up route map for upc
+ oming events and activities by community.\n3. Formation of WoMoz MP\, by b
+ ooting up WoMoz contributors and assigning roles in community.\n4. Recruit
+ ing more FSA&#39;s and Mozillians
+URL:https://reps.mozilla.org/e/fsa-meetup-bhopal/
+SEQUENCE:1
+X-COORDINATES-LAT:23.2410203633
+X-COORDINATES-LON:77.417145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

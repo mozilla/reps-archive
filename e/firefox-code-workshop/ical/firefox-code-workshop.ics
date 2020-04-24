@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@729
+CLASS:PUBLIC
+DTSTAMP:20200423T215523Z
+DTSTART:20130407T090000Z
+DTEND:20130407T130000Z
+LOCATION:Facultatea de Automatica si Calculatoare - Room EG106\, Bucharest
+ \, Romania
+SUMMARY:Firefox Code Workshop
+DESCRIPTION:A session where students get together and hack on Firefox.\n
+URL:https://reps.mozilla.org/e/firefox-code-workshop/
+SEQUENCE:4
+X-COORDINATES-LAT:44.4364075214
+X-COORDINATES-LON:26.047757864
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

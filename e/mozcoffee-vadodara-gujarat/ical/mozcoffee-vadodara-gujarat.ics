@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6617
+CLASS:PUBLIC
+DTSTAMP:20200423T110745Z
+DTSTART:20170521T053000Z
+DTEND:20170521T063000Z
+LOCATION:Cafe Coffee Day\, Ginger Plaza\, 201/202\, Fatehgunj Main Rd\, Op
+ p. Saffron Complex\, Jayesh Colony\, Fatehgunj\, Vadodara\, Gujarat 390002
+ \, Vadodara\, India
+SUMMARY:MozCoffee Vadodara\, Gujarat
+DESCRIPTION:This is a small informal meetup with peoples where a report is
+  given of recent activities and upcoming projects of a community as well a
+ s get ideas and feedback from the general public.
+URL:https://reps.mozilla.org/e/mozcoffee-vadodara-gujarat/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2785070324
+X-COORDINATES-LON:73.1394651532
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

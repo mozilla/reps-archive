@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4304
+CLASS:PUBLIC
+DTSTAMP:20200423T164911Z
+DTSTART:20150824T030000Z
+DTEND:20150824T160000Z
+LOCATION:Biswa Sahitya Kendra\, Dhaka\, Bangladesh
+SUMMARY:QA - Bug Triage Workshop
+DESCRIPTION:Bug Triage is one of the Goals for QA in this quarter! Banglad
+ esh QA Community has been working on Bug Verification for a long time now.
+  Now\, it is planning to do Bug Triage as a continuous way!\n\nThis event 
+ will help to train the existing contributors as well as recruit some new c
+ ontributors!
+URL:https://reps.mozilla.org/e/qa-bug-triage-workshop/
+SEQUENCE:3
+X-COORDINATES-LAT:24.3796225351
+X-COORDINATES-LON:89.9045562744
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

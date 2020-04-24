@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6081
+CLASS:PUBLIC
+DTSTAMP:20200423T114116Z
+DTSTART:20161212T043000Z
+DTEND:20161212T113000Z
+LOCATION:Siliguri Institute of Technology\, Siliguri\, India
+SUMMARY:MozActivate Tour 2 - SIT
+DESCRIPTION:Web Compatibility Sprint + Test Pilot will be held among the s
+ tudents.
+URL:https://reps.mozilla.org/e/mozactivate-tour-2/
+SEQUENCE:6
+X-COORDINATES-LAT:22.444033419
+X-COORDINATES-LON:88.3225250244
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

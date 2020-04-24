@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@965
+CLASS:PUBLIC
+DTSTAMP:20200423T213443Z
+DTSTART:20130615T070000Z
+DTEND:20130616T150000Z
+LOCATION:Kindermedienzentrum\, Erfurt\, Germany
+SUMMARY:Barcamp Erfurt
+DESCRIPTION:Freely translated from their website:\n\nKids and teenager gro
+ w up with digital media. It is important to teach them a safe the necessar
+ y competency and knowledge.\n\nA barcamp with different workshops and talk
+ s from the attendees of several different subject areas to share knowledge
+  and ideas.
+URL:https://reps.mozilla.org/e/barcamp-erfurt/
+SEQUENCE:5
+X-COORDINATES-LAT:50.9636976046
+X-COORDINATES-LON:11.0023784637
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

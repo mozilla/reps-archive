@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1811
+CLASS:PUBLIC
+DTSTAMP:20200423T201649Z
+DTSTART:20140315T010000Z
+DTEND:20140316T100000Z
+LOCATION:Taichung City\, Taichung City\, Taiwan
+SUMMARY:MozTW Steps 2014 Spring
+DESCRIPTION:MozTW Steps 2014 Spring is a two-day planning and discussing h
+ ackthon. We would like to invite all community members who contributed to 
+ Mozilla-related projects during last six months to participate\, planning 
+ events for the following months\, setting targets\, and recruiting new com
+ munity members/Mozillians by producing videos\, blog posts\, and documents
+ .
+URL:https://reps.mozilla.org/e/moztw-steps-2014-spring/
+SEQUENCE:4
+X-COORDINATES-LAT:24.1760217356
+X-COORDINATES-LON:120.64910388
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

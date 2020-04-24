@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4644
+CLASS:PUBLIC
+DTSTAMP:20200423T161906Z
+DTSTART:20151105T043000Z
+DTEND:20151105T093000Z
+LOCATION:JNCT College\, Bhopal\, India
+SUMMARY:MozWelcome
+DESCRIPTION:In this event we will target students of Foundation year which
+  are very new in Grad. School and don&#39;t ever listen about our culture\, ab
+ out the Mozilla Mission. Through this they come to know about the meaning 
+ of Open Source Community. How we work and how they can Contribute to Mozil
+ la and Get involved in Mozilla also they will create Persona login.
+URL:https://reps.mozilla.org/e/mozwelcome/
+SEQUENCE:4
+X-COORDINATES-LAT:23.2626906894
+X-COORDINATES-LON:77.0372771937
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

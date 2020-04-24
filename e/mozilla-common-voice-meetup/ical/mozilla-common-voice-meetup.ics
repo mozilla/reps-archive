@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8446
+CLASS:PUBLIC
+DTSTAMP:20200423T083912Z
+DTSTART:20190309T080000Z
+DTEND:20190309T090000Z
+LOCATION:Wan Chai\, Hong Kong\, Hong Kong
+SUMMARY:Mozilla Common Voice Meetup
+DESCRIPTION:A meetup to introduce Mozilla Common Voice project to push Man
+ darin (Chinese (Taiwan)) voice data.
+URL:https://reps.mozilla.org/e/mozilla-common-voice-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2813248586
+X-COORDINATES-LON:114.17446027
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1737
+CLASS:PUBLIC
+DTSTAMP:20200423T203436Z
+DTSTART:20140118T051500Z
+DTEND:20140118T111500Z
+LOCATION:Smart Samaj\, GPF Building\, Kamaladi\, Dillibazar\, Nepal
+SUMMARY:Education Freedom Day Nepal
+DESCRIPTION:Education Freedom Day is a worldwide celebration of Free Softw
+ are used in Education and Free Educational Resources. Launched in 2013 wit
+ h its first celebration in 2014 by the same organization behind Software F
+ reedom Day. It aims at educating the worldwide public and educators about 
+ the benefits of making and sharing free knowledge and the tools already in
+  place to achieve that objective.
+URL:https://reps.mozilla.org/e/education-freedom-day-nepal/
+SEQUENCE:1
+X-COORDINATES-LAT:27.7118997997
+X-COORDINATES-LON:85.3487548605
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

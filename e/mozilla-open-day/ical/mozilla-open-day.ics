@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1525
+CLASS:PUBLIC
+DTSTAMP:20200423T204240Z
+DTSTART:20131207T080000Z
+DTEND:20131207T130000Z
+LOCATION:Mount Kenya University\, Mombasa\, Kenya
+SUMMARY:Mozilla Open Day
+DESCRIPTION:This is an event organized by the Regional Marketing Ambassado
+ r Kenya in conjunction with the Firefox Student Ambassadors\, core Mozilli
+ ans and Mozilla Representative within Mombasa to create awareness of Mozil
+ la\, its projects and products to attendants as well introduce them to the
+  Firefox Clubs in the region and ways in which they can participate.\n\nTh
+ e event aims to target students from across 5 universities in Mombasa
+URL:https://reps.mozilla.org/e/mozilla-open-day/
+SEQUENCE:5
+X-COORDINATES-LAT:-4.46416536603
+X-COORDINATES-LON:39.8947906494
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

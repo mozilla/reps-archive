@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7393
+CLASS:PUBLIC
+DTSTAMP:20200423T100201Z
+DTSTART:20180203T000000Z
+DTEND:20180203T023000Z
+LOCATION:Pavilhão de Exposições do Anhembi – Av. Olavo Fontoura\, 120
+ 9\, São Paulo\, Brazil
+SUMMARY:WebVR A-Frame workshop @Campus Party Brasil
+DESCRIPTION:A Workshop about how to build scenes with WebVR and A-Frame. W
+ e will also discuss how to make augmented reality scenes using A-frame and
+  AR.js.
+URL:https://reps.mozilla.org/e/webvr-a-frame-workshop-campus-party-brasil/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.516579
+X-COORDINATES-LON:-46.643271
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6027
+CLASS:PUBLIC
+DTSTAMP:20200423T114640Z
+DTSTART:20161112T080000Z
+DTEND:20161113T160000Z
+LOCATION:Fontys University of Applied Science\, Eindhoven\, Netherlands
+SUMMARY:T-DOSE
+DESCRIPTION:T-DOSE is a free and yearly event held in The Netherlands to p
+ romote use and development of Open Source Software. During this event Open
+  Source projects\, developers and visitors can exchange ideas and knowledg
+ e. This years event will be held at the Fontys University of Applied Scien
+ ce in Eindhoven on November 12 and 13.
+URL:https://reps.mozilla.org/e/t-dose-2/
+SEQUENCE:3
+X-COORDINATES-LAT:51.4517460086
+X-COORDINATES-LON:5.4821119312
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

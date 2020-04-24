@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6448
+CLASS:PUBLIC
+DTSTAMP:20200423T111716Z
+DTSTART:20170410T080000Z
+DTEND:20170410T090000Z
+LOCATION:TBD\, Urumqi\, China
+SUMMARY:火狐天山行--让世界听到我们的声音
+DESCRIPTION:Mozilla始终坚信：全世界的每一人都可以成为网
+ 络的贡献者和创建者，Mozilla 认为 每一个都以可以成为
+ 创客 ，他需要的仅仅是适当的教育和开放的平台，面对
+ 计算机科学的高速发展，Mozilla推出了互联网学习网络计
+ 划 ，帮助全世界的每一位互联网公民学习我们这个时代
+ 最重要的技能：网络素养和数字技能：读，写和参与数
+ 字世界活动的能力
+URL:https://reps.mozilla.org/e/huo-hu-tian-shan-xing-rang-shi-jie-ting-dao
+ -wo-men-de-sheng-yin/
+SEQUENCE:1
+X-COORDINATES-LAT:43.8004543908
+X-COORDINATES-LON:2607.61830711
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

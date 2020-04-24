@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5539
+CLASS:PUBLIC
+DTSTAMP:20200423T151908Z
+DTSTART:20160617T140000Z
+DTEND:20160617T153000Z
+LOCATION:Avenida Independência\, Setor Leste Vila Nova\, Goiânia\, Apare
+ cida de Goiania\, Brazil
+SUMMARY:#HandsOn Especial no Mulheres na Tecnologia
+DESCRIPTION:Neste hands-on\, vamos desenvolver um site responsivo para div
+ ulgar nosso perfil profissional online\, utilizando Jekyll\, HTML5\, CSS3 
+ e Javascript!
+URL:https://reps.mozilla.org/e/handson-especial-no-mulheres-na-tecnologia/
+SEQUENCE:1
+X-COORDINATES-LAT:-16.791394153
+X-COORDINATES-LON:-49.2482757568
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1414
+CLASS:PUBLIC
+DTSTAMP:20200423T204945Z
+DTSTART:20131121T150000Z
+DTEND:20131125T020000Z
+LOCATION:Krystal Puerto Vallarta\, Vallarta\, Mexico
+SUMMARY:Hackthon Vallarta Firefox OS
+DESCRIPTION:The goal of the App Day is to introduce Firefox OS and Firefox
+  Marketplace\, and share knowledge about the tools available to help devel
+ opers get started building apps to submit to the Marketplace. Learn\, Hack
+  and Celebrate the Firefox OS\, Mozilla&#39;s open source operating system for
+  the mobile web.
+URL:https://reps.mozilla.org/e/hackthon-vallarta-firefox-os/
+SEQUENCE:4
+X-COORDINATES-LAT:20.6484468857
+X-COORDINATES-LON:-105.240054131
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6162
+CLASS:PUBLIC
+DTSTAMP:20200423T113944Z
+DTSTART:20161220T060000Z
+DTEND:20161220T090000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Mozilla Equal Rating Innovation Challenge Briefing
+DESCRIPTION:This challenge is designed to spur innovations for bringing th
+ e members of the Next Billion online. The Equal Rating Innovation Challeng
+ e is focused on identifying creative new solutions to connect the unconnec
+ ted. These solutions may range from consumer products and novel mobile ser
+ vices to new business models and infrastructure proposals. Mozilla will aw
+ ard US$250\,000 in funding and provide expert mentorship to bring these so
+ lutions to the market.
+URL:https://reps.mozilla.org/e/mozilla-equal-rating-innovation-challenge-b
+ riefing/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5468014766
+X-COORDINATES-LON:121.015703201
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

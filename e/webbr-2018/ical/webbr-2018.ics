@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8041
+CLASS:PUBLIC
+DTSTAMP:20200423T085935Z
+DTSTART:20181004T110000Z
+DTEND:20181004T123000Z
+LOCATION:Centro de Convenções Rebouças\, São Paulo\, Brazil
+SUMMARY:Webbr 2018
+DESCRIPTION:Web.br was born in 2008 to lead discussions on open web techno
+ logies\, and to show\, in the Brazilian context\, the main topics addresse
+ d in the world about Web.\n\nThe Conference\, created by W3C Brasil\, and 
+ currently organized and held by the Center for Studies of Web Technologies
+  - Ceweb.br and NIC.br.
+URL:https://reps.mozilla.org/e/webbr-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.557596
+X-COORDINATES-LON:-46.6683462
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

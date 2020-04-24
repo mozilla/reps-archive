@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4137
+CLASS:PUBLIC
+DTSTAMP:20200423T165628Z
+DTSTART:20150801T043000Z
+DTEND:20150801T123000Z
+LOCATION:Cvent India Pvt Limited \, Gurgaon\, New Delhi\, India
+SUMMARY:Mozilla Delhi Dev Sprint V 2.0
+DESCRIPTION:The dev sprint is all about doing some productive work and lea
+ rn some new skills . One of the community member developer a extension for
+  Firefox Browser \, while some of them are helping organize the git branch
+   and doing lots of other productive work.
+URL:https://reps.mozilla.org/e/mozilla-delhi-dev-sprint-v-2-0/
+SEQUENCE:2
+X-COORDINATES-LAT:28.6640812244
+X-COORDINATES-LON:77.2922515869
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

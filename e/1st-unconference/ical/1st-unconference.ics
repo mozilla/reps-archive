@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@322
+CLASS:PUBLIC
+DTSTAMP:20200423T224612Z
+DTSTART:20121114T100000Z
+DTEND:20121114T190000Z
+LOCATION:Olympion Theater\, Thessaloniki\, Greece
+SUMMARY:1st UnConference
+DESCRIPTION:In 14th of November\, professionals and libraries&#39; friends wil
+ l have the opportunity to meet\, exchange opinions and experiences through
+  a creative hubs&#39; session and learn from inspirational speeches.\n\nThe ke
+ ynote speakers and workshop runners are:\n- June Garcia\, librarian consul
+ tant of the Bill &amp; Melinda Foundation\n- Kari Lämsä\, director of the in
+ novative &#39;Library 10&#39; from Helsinki\n- Chloe Varelidi\, Mozilla Foundation
+  \n- Simon Morisson\, Google\n- Dimitris Protopsaltou\, Future Library
+URL:https://reps.mozilla.org/e/1st-unconference/
+SEQUENCE:0
+X-COORDINATES-LAT:40.6328691965
+X-COORDINATES-LON:22.9417437315
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

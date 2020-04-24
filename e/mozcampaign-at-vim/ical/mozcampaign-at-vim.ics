@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@177
+CLASS:PUBLIC
+DTSTAMP:20200423T225245Z
+DTSTART:20121020T043000Z
+DTEND:20121020T123000Z
+LOCATION:Vidyasagar Institute of Management (VIM)\,  Bhopal  \, India
+SUMMARY:MozCampaign at VIM
+DESCRIPTION:A full day event focused on Mozilla\, promoting its mission\, 
+ projects\, teaching tools developed by Mozilla\, let people know how they 
+ can contribute in various ways.\n\n
+URL:https://reps.mozilla.org/e/mozcampaign-at-vim/
+SEQUENCE:0
+X-COORDINATES-LAT:23.4027649054
+X-COORDINATES-LON:78.0029296875
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

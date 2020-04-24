@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6339
+CLASS:PUBLIC
+DTSTAMP:20200423T112454Z
+DTSTART:20170308T163000Z
+DTEND:20170308T183000Z
+LOCATION:Telmex Hub\, Delegacion Iztapalapa\, Mexico
+SUMMARY:Web Literacy - Session 3
+DESCRIPTION:Profile of the assistant: We will start from scratch\, whoever
+  wants to learn to use a computer is welcome. Do you know someone who woul
+ d love to learn how to use the computer and make the most of tools such as
+ : spreadsheets\, presentations\, documents or know how to use facebook? Yo
+ ur mom\, sister\, cousin or yourself want to stop asking\, how do you send
+  an email? We teach you from scratch.
+URL:https://reps.mozilla.org/e/web-literacy-session-3/
+SEQUENCE:0
+X-COORDINATES-LAT:19.4311932787
+X-COORDINATES-LON:-99.1368051768
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

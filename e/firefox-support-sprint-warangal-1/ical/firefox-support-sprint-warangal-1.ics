@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7887
+CLASS:PUBLIC
+DTSTAMP:20200423T092324Z
+DTSTART:20180609T180000Z
+DTEND:20180609T200000Z
+LOCATION:Coffe Longue Hanamkonda\, Warangal\, India
+SUMMARY:Firefox Support Sprint Warangal
+DESCRIPTION:With more and more people getting connected to the internet vi
+ a their phones nowadays\, Firefox for Android a key product for Mozilla to
+  remain relevant and influence the market. Participate in the support spri
+ nt and help our users to get better Firefox experience in your language.
+URL:https://reps.mozilla.org/e/firefox-support-sprint-warangal-1/
+SEQUENCE:1
+X-COORDINATES-LAT:17.9948153788
+X-COORDINATES-LON:79.5696187019
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

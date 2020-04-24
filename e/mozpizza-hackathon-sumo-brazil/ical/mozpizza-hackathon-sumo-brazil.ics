@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5731
+CLASS:PUBLIC
+DTSTAMP:20200423T145346Z
+DTSTART:20160924T010000Z
+DTEND:20160924T090000Z
+LOCATION:SUMO video Room\, Sao Paulo\, Brazil
+SUMMARY:MozPizza Hackathon SUMO Brazil
+DESCRIPTION:The community brazilian is growing and thinking about narrow t
+ ies friendship and fellowship among the members of the team\, while mainta
+ ining an atmosphere of togetherness\, warmth and fun\, but also increase t
+ he number of contributors with the functional team\, we planned this marat
+ hon online with a focus on completing the existing backlog and metrics on 
+ the platform.
+URL:https://reps.mozilla.org/e/mozpizza-hackathon-sumo-brazil/
+SEQUENCE:10
+X-COORDINATES-LAT:-23.5541263178
+X-COORDINATES-LON:-46.6382446513
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

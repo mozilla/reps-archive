@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@74
+CLASS:PUBLIC
+DTSTAMP:20200423T230505Z
+DTSTART:20120903T170000Z
+DTEND:20120907T170000Z
+LOCATION:Facultad de Ingeniería de la UNAM.\, Coyoacan\, Mexico
+SUMMARY:Congreso Universitario Móvil telcel 2012
+DESCRIPTION:It&#39;s an unprecedented event meeting between the leaders of mob
+ ile technology\, developers and academics to interact\, attract talent and
+  generate great ideas.\n\nLast year more than 6000 students attended the c
+ onference.
+URL:https://reps.mozilla.org/e/congreso-universitario-movil-telcel-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:19.3310280301
+X-COORDINATES-LON:-99.1842699051
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

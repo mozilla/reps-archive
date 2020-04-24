@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4268
+CLASS:PUBLIC
+DTSTAMP:20200423T164840Z
+DTSTART:20150828T070000Z
+DTEND:20150828T100000Z
+LOCATION:SMA 1 Kendal\, Kendal\, Indonesia
+SUMMARY:#MozBelajar SMA 1 Kendal
+DESCRIPTION:An event to introduce the newly launched Webmaker App to vocat
+ ional high school students in SMA 1 Kendal. There will be Webmaker App dow
+ nloading session and hands on workshop in making projects using the app. T
+ his event is organized as part of Webmaker App Launch initiatives in Indon
+ esia.
+URL:https://reps.mozilla.org/e/mozbelajar-sma-1-kendal/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.93483358064
+X-COORDINATES-LON:110.219055153
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

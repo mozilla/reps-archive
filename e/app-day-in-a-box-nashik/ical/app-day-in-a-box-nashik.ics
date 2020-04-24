@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3878
+CLASS:PUBLIC
+DTSTAMP:20200423T171547Z
+DTSTART:20150612T043000Z
+DTEND:20150612T103000Z
+LOCATION:Sofine Color Lab\, Opp. Takle Jewellers\, College Rd\, Nashik\, N
+ ashik\, India
+SUMMARY:Firefox OS Apps Sprint - Nashik
+DESCRIPTION:Mozilla Apps Sprint have not been organized in Nashik till dat
+ e. This event aims at introducing the community to FirefoxOS &amp; Marketplace
+  and share knowledge about the tools available to help developers get star
+ ted building creative\, innovative apps and submit them to the Marketplace
+  &amp; get recognized.\n\nEventually\, they would enter the quarterly app maki
+ ng/submitting scheme of Mozilla.
+URL:https://reps.mozilla.org/e/app-day-in-a-box-nashik/
+SEQUENCE:9
+X-COORDINATES-LAT:19.9884127667
+X-COORDINATES-LON:73.7837145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

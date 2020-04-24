@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@338
+CLASS:PUBLIC
+DTSTAMP:20200423T224405Z
+DTSTART:20121124T180000Z
+DTEND:20121124T210000Z
+LOCATION:Casa Vecina\, Mexico\, D.F.\, Mexico
+SUMMARY:Enter colaboratorio Copyleft - Meeting of artists collective and r
+ elated to free culture.
+DESCRIPTION:The creation and distribution of many of the cultural property
+  has diversified with every technological advance\, the invention of all k
+ inds of systems\, tools and devices ranging from print and radio\, to came
+ ras\, camcorders and now internet have made it possible to tell the storie
+ s and adapt the ways in many different ways\, so you might not expanding a
+ t the same rate\, are the mechanisms that protect and / or restrict the sp
+ read of these art objects\, ie IP very specific and copyrights.
+URL:https://reps.mozilla.org/e/enter-colaboratorio-copyleft-meeting-of-art
+ ists-collective-and-related-to-free-culture/
+SEQUENCE:0
+X-COORDINATES-LAT:19.4324790696
+X-COORDINATES-LON:-99.1331577301
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

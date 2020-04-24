@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2539
+CLASS:PUBLIC
+DTSTAMP:20200423T192717Z
+DTSTART:20140712T043000Z
+DTEND:20140712T063000Z
+LOCATION:MIT-Chrompet\, Chennai\, India
+SUMMARY:Initiating Firefox Club in MIT
+DESCRIPTION:Introduction to Mozilla Mission\, Projects &amp; Community\nIntrod
+ uction to Firefox Student Ambassador Program \n\nHow to contribute:\nCodin
+ g\nEvangelization\nLocalization\nWebmaker\nFirefox OS - Mobilizers\nOrgani
+ zing future club events\nQ&amp;A round
+URL:https://reps.mozilla.org/e/initiating-firefox-club-in-mit/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9483246062
+X-COORDINATES-LON:79.9354362418
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

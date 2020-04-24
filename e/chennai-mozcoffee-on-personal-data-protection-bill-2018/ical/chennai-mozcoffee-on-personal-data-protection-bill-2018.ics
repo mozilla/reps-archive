@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8030
+CLASS:PUBLIC
+DTSTAMP:20200423T090629Z
+DTSTART:20180901T103000Z
+DTEND:20180901T123000Z
+LOCATION:Chennai\, Chennai\, India
+SUMMARY:Chennai: MozCoffee on Personal Data Protection Bill 2018
+DESCRIPTION:Inviting all Mozilla Community Members in and around Chennai t
+ o discuss on Personal Data Protection Bill 2018 over a Coffee and snacks. 
+ Dates and Venue: Yet to be decided\, suggest a good venue and dates in pla
+ nning pad.
+URL:https://reps.mozilla.org/e/chennai-mozcoffee-on-personal-data-protecti
+ on-bill-2018/
+SEQUENCE:0
+X-COORDINATES-LAT:13.0497064946
+X-COORDINATES-LON:80.1653423323
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

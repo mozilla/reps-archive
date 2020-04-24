@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3994
+CLASS:PUBLIC
+DTSTAMP:20200423T170949Z
+DTSTART:20150625T100000Z
+DTEND:20150707T140000Z
+LOCATION:Dhaka\, Dhaka\, Bangladesh
+SUMMARY:MozCoffee in Dhaka- 2015
+DESCRIPTION:This MozCoffee will be an event to support the Spring Campaign
+ .\nThere are six Firefox clubs who are helping us for this Spring Campaign
+ .\n\nAdamjee Cantonment College IT Club\nAUST firefox club\nBRACU Firefox 
+ Club\nFirefox@EWU\nNSU Firefox Community\nULAB Mozilla Community
+URL:https://reps.mozilla.org/e/mozcoffee-in-dhaka-2015/
+SEQUENCE:9
+X-COORDINATES-LAT:24.142834489
+X-COORDINATES-LON:90.2786293886
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

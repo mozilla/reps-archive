@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1725
+CLASS:PUBLIC
+DTSTAMP:20200423T202514Z
+DTSTART:20140222T010000Z
+DTEND:20140222T040000Z
+LOCATION:University of Santo Tomas\, Intramuros\, Philippines
+SUMMARY:MozTour in UST
+DESCRIPTION:In cooperation with the UST Firefox Club\, the Mozilla Philipp
+ ines Community will be holding a MozTour in the University\, there would b
+ e a discussion about how the community started in the country and will int
+ roduce to them the Mozilla Products and Tools\,
+URL:https://reps.mozilla.org/e/moztour-in-ust/
+SEQUENCE:7
+X-COORDINATES-LAT:14.6097885771
+X-COORDINATES-LON:120.989575803
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

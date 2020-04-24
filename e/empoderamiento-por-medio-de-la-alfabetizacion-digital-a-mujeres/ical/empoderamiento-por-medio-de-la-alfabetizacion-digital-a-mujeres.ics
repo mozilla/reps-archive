@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6111
+CLASS:PUBLIC
+DTSTAMP:20200423T114312Z
+DTSTART:20161128T130000Z
+DTEND:20161128T220000Z
+LOCATION:Wayra México\, Mexico City\, Mexico
+SUMMARY:Empoderamiento por medio de la alfabetización digital a mujeres i
+ ndígenas
+DESCRIPTION:Learners will have the opportunity to practice and learn web l
+ iteracy skills\, and be introduced to information on how to teach others h
+ ow to read\, write\, and participate on the Web.
+URL:https://reps.mozilla.org/e/empoderamiento-por-medio-de-la-alfabetizaci
+ on-digital-a-mujeres/
+SEQUENCE:1
+X-COORDINATES-LAT:19.412847938
+X-COORDINATES-LON:-99.1644530298
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

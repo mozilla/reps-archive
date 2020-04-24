@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4104
+CLASS:PUBLIC
+DTSTAMP:20200423T165622Z
+DTSTART:20150801T053000Z
+DTEND:20150801T093000Z
+LOCATION:Cvent India Pvt Limited \, Gurgaon\, New Delhi\, India
+SUMMARY:Know Firefox OS Security and Architecture
+DESCRIPTION:The Firefox OS platform uses a multi-layered security model th
+ at is designed to mitigate exploitation risks at every level.  This event 
+ will focus of two things : 1) Impart knowledge about the Architecture of F
+ irefox OS - 1.5 Hours.  2) Take a Quiz about the Firefox OS Security wrt t
+ o Development point of view.  At last summarize the level of access a deve
+ loper gets while developing an App on Firefox OS.
+URL:https://reps.mozilla.org/e/develop-apps-using-firefox-os-and-quiz/
+SEQUENCE:7
+X-COORDINATES-LAT:28.5097291268
+X-COORDINATES-LON:77.2483062744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

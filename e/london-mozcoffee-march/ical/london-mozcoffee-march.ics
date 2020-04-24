@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7522
+CLASS:PUBLIC
+DTSTAMP:20200423T094712Z
+DTSTART:20180331T130000Z
+DTEND:20180331T150000Z
+LOCATION:Ole &amp; Steen\, Nova South\, 1 Sir Simon Milton Square\, Victoria\,
+  London\, SW1E 5DJ\, Westminster\, United Kingdom
+SUMMARY:London MozCoffee - March
+DESCRIPTION:This March 31st event (14:00 - 16:00) will be a low-key affair
+ \, I&#39;ll even buy you a drink in exchange of your time and have swag on han
+ d. An opportunity to meet face-to-face and improve the UK Community for al
+ l who seek to participate.\n\nI look forward to meeting you in person.\n\n
+ Grab a ticket via the above URL.
+URL:https://reps.mozilla.org/e/london-mozcoffee-march/
+SEQUENCE:2
+X-COORDINATES-LAT:51.4968763913
+X-COORDINATES-LON:-0.143947899396
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

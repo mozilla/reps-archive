@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6718
+CLASS:PUBLIC
+DTSTAMP:20200423T110249Z
+DTSTART:20170608T160000Z
+DTEND:20170609T160000Z
+LOCATION:Cyberport 3\, 100 Cyberport Road\, Telegraph Bay\, Hong Kong\, Ho
+ ng Kong
+SUMMARY:Ｍozilla at Hong Kong Open Source Conference (HKOSCon) 2017
+DESCRIPTION:Hong Kong Open Source Conference is an annual international op
+ en source conference in Hong Kong. It is aimed to demonstrate the use of o
+ pen source software technology\, open hardware technology and latest devel
+ opment in the world.\n\nWe will have a Mozilla (community) table at HKOSCo
+ n\, as well as many related-talks.
+URL:https://reps.mozilla.org/e/mozilla-at-hong-kong-open-source-conference
+ -2017-hkoscon/
+SEQUENCE:7
+X-COORDINATES-LAT:22.2621576134
+X-COORDINATES-LON:114.130172208
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

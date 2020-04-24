@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@387
+CLASS:PUBLIC
+DTSTAMP:20200423T223429Z
+DTSTART:20121215T070000Z
+DTEND:20121215T090000Z
+LOCATION:Costa Coffee\, Bangalore\, India
+SUMMARY:MozCafe Bangalore
+DESCRIPTION:We&#39;ve a great number of contributors from Bangalore and we are
+  getting started to gather everyone in and around bangalore to discuss and
+  learn the latest technologies happening around Mozilla. Plan future event
+ s.
+URL:https://reps.mozilla.org/e/mozcafe-bangalore/
+SEQUENCE:0
+X-COORDINATES-LAT:12.9375302634
+X-COORDINATES-LON:77.6272165775
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

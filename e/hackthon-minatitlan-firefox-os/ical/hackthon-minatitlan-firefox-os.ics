@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1274
+CLASS:PUBLIC
+DTSTAMP:20200423T225328Z
+DTSTART:20121017T150000Z
+DTEND:20131019T000000Z
+LOCATION:Instituto Tecnológico de Minatitlan\, Minatitlan\, Mexico
+SUMMARY:Hackthon Minatitlan Firefox OS
+DESCRIPTION:The goal of the App Day is to introduce Firefox OS and Firefox
+  Marketplace\, and share knowledge about the tools available to help devel
+ opers get started building apps to submit to the Marketplace. Learn\, Hack
+  and Celebrate the Firefox OS\, Mozilla&#39;s open source operating system for
+  the mobile web The event will be held at the Instituto Tecnologico de Min
+ atitlan.
+URL:https://reps.mozilla.org/e/hackthon-minatitlan-firefox-os/
+SEQUENCE:1
+X-COORDINATES-LAT:17.9878765023
+X-COORDINATES-LON:-94.5648193359
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

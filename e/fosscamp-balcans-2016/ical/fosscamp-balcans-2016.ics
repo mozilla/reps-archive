@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5735
+CLASS:PUBLIC
+DTSTAMP:20200423T150131Z
+DTSTART:20160827T070000Z
+DTEND:20160830T150000Z
+LOCATION:Drymades Camping site\, Tirana\, Albania
+SUMMARY:FOSScamp Balkans 2016
+DESCRIPTION:FOSScamp Balkans 2016 is an adventure with free open source ge
+ eks from communities all around the Balkans aside the beach. Three days of
+  co-working for the community in the Balkans in what is expected to be an 
+ un-conference where different communities in the region will collaborate\,
+  present and host workshops about different free software projects includi
+ ng\, but not limited to Mozilla Firefox and tech speakers program. FOSScam
+ p requires active participation from al participants.
+URL:https://reps.mozilla.org/e/fosscamp-balcans-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:41.3268106824
+X-COORDINATES-LON:19.8289489746
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

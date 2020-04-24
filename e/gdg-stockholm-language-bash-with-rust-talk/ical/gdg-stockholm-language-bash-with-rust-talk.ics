@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6306
+CLASS:PUBLIC
+DTSTAMP:20200423T113218Z
+DTSTART:20170202T170000Z
+DTEND:20170202T204000Z
+LOCATION:Valtech AB\, Hantverkargatan 5\, Sweden
+SUMMARY:GDG Stockholm Language bash! with Rust Talk
+DESCRIPTION:It&#39;s time for the annual language bash once again. New and old
+ \, advanced and introductory. \n\nBeer and food: YES\n\nAgenda\;\n\n1. Joh
+ an Burell\, Valtech - Latest news on Rust\n\n2. Göran Krampe\, Evothings 
+ - Introducing Spry\n\n3. TBA
+URL:https://reps.mozilla.org/e/gdg-stockholm-language-bash-with-rust-talk/
+SEQUENCE:0
+X-COORDINATES-LAT:59.3279224
+X-COORDINATES-LON:18.0484016
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

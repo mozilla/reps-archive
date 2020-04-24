@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@296
+CLASS:PUBLIC
+DTSTAMP:20200423T224800Z
+DTSTART:20121109T040000Z
+DTEND:20121111T040000Z
+LOCATION:Gedung LAN Antang\, Makassar\, Indonesia
+SUMMARY:Blogger Nusantara 2012
+DESCRIPTION:Three days event for Indonesian bloggers\, for cross-regional 
+ and cross-community with the ideals of fostering a spirit togetherness and
+  brotherhood of Indonesian bloggers.\n\nIt&#39;s an annual event\, last year w
+ as Blogger Nusantara 2011 (https://wiki.mozilla.org/Blogger_Nusantara)\n\n
+ Unlike last year\, this time will be estimated 600 attendees in this event
+ . But the real thing is\, this is an event from communities to communities
+  ^o^
+URL:https://reps.mozilla.org/e/blogger-nusantara-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-5.1521963326
+X-COORDINATES-LON:119.480051994
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

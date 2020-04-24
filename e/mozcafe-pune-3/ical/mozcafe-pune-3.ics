@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3326
+CLASS:PUBLIC
+DTSTAMP:20200423T181105Z
+DTSTART:20150109T133000Z
+DTEND:20150109T143000Z
+LOCATION:CCD FC Road\, Pune\, India
+SUMMARY:MozCafe Pune
+DESCRIPTION:Mozillians from Pune and the surrounding regions meet over a c
+ offee to discuss about:-  \nthe current and future activities of the commu
+ nity\,  \nlearnings and experiences from past contributions and events\,  
+ \ncreating a roadmap of events in the upcoming months\,  \nwebmaker resear
+ ch team visit\,  \nwomoz
+URL:https://reps.mozilla.org/e/mozcafe-pune-3/
+SEQUENCE:16
+X-COORDINATES-LAT:18.525443243
+X-COORDINATES-LON:73.8418335915
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

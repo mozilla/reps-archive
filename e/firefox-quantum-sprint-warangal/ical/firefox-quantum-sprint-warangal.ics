@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7061
+CLASS:PUBLIC
+DTSTAMP:20200423T102308Z
+DTSTART:20171021T083000Z
+DTEND:20171021T103000Z
+LOCATION:Balaji Institute of Technological Sciences\, Laknepally\, Narsamp
+ et\, Warangal\, Warangal\, India
+SUMMARY:Firefox Quantum Sprint Warangal
+DESCRIPTION:With the introduction of Stylo on Nightly\, we know that websi
+ tes might break. The Firefox team is not able to test all of those website
+ s\, especially the local ones. For that reason\, we need your help to test
+  as many local websites as possible.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-warangal/
+SEQUENCE:3
+X-COORDINATES-LAT:17.9821619286
+X-COORDINATES-LON:79.5817422867
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

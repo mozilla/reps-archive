@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2484
+CLASS:PUBLIC
+DTSTAMP:20200423T193040Z
+DTSTART:20140630T040000Z
+DTEND:20140701T110000Z
+LOCATION:BASIS\, Karwan Bazar\, Bangladesh
+SUMMARY:Train-the-trainer event Dhaka\, Bangladesh for FxOS.
+DESCRIPTION:Event Description:\nTrain a group of selected Mozillians from 
+ Mozilla Bangladesh community\, so they are not only equipped with the know
+ ledge about developing apps for FxOS\; but they can then train at events i
+ n Bangladesh themselves. They will become good trainers\, learnt special e
+ xpertise to present and key things of Firefox OS. Telenor will provide the
+  trainer to train the Moz community.
+URL:https://reps.mozilla.org/e/train-the-trainer-event-dhaka-bangladesh-fo
+ r-fxos/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7506244642
+X-COORDINATES-LON:90.3933248519
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

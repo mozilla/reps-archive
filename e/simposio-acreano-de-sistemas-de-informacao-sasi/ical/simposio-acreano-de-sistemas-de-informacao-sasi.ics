@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3039
+CLASS:PUBLIC
+DTSTAMP:20200423T183004Z
+DTSTART:20141117T130000Z
+DTEND:20141122T020000Z
+LOCATION:UFAC - Endereço: Distrito Industrial\, Rio B ranco\, Brazil
+SUMMARY:Simpósio Acreano de Sistemas de Informação - SASI
+DESCRIPTION:Acreano Symposium of Information Systems is an open event that
+  favors the integration of teaching\, research and extension in the scope 
+ of the Federal University of Acre (UFAC) and other educational institution
+ s in the state.
+URL:https://reps.mozilla.org/e/simposio-acreano-de-sistemas-de-informacao-
+ sasi/
+SEQUENCE:3
+X-COORDINATES-LAT:-9.9548404226
+X-COORDINATES-LON:-67.8639729023
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

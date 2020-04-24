@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3805
+CLASS:PUBLIC
+DTSTAMP:20200423T173446Z
+DTSTART:20150409T220000Z
+DTEND:20150411T220000Z
+LOCATION:Uniwersytet Przyrodniczo Humanistyczny\, Siedlce\, Poland
+SUMMARY:IGK XII
+DESCRIPTION:IGK conference takes place in Siedlce\, Poland and is focused 
+ on game development in various tecnologies.
+URL:https://reps.mozilla.org/e/igk-xii/
+SEQUENCE:3
+X-COORDINATES-LAT:52.1644417493
+X-COORDINATES-LON:22.2725815771
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

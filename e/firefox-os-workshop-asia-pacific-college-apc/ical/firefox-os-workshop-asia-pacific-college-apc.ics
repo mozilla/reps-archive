@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2400
+CLASS:PUBLIC
+DTSTAMP:20200423T191938Z
+DTSTART:20140802T050000Z
+DTEND:20140802T090000Z
+LOCATION:Asia Pacific College\, Ninoy Aquino International Airport\, Phili
+ ppines
+SUMMARY:Firefox OS Workshop Asia Pacific College (APC)
+DESCRIPTION:Team MozillaPH will be conducting a half-day Firefox OS Worksh
+ op at the Asia Pacific College (APC) in Makati City.\n\nAsia Pacific Colle
+ ge was established in 1991 as a non-profit joint venture between IBM Phili
+ ppines and the SM Foundation. It was envisioned as a learning institution 
+ that produces graduates that fulfill information technology industry deman
+ ds.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-asia-pacific-college-ap
+ c/
+SEQUENCE:4
+X-COORDINATES-LAT:14.5310483203
+X-COORDINATES-LON:121.021370172
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

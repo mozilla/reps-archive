@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7339
+CLASS:PUBLIC
+DTSTAMP:20200423T100911Z
+DTSTART:20171229T030000Z
+DTEND:20171229T160000Z
+LOCATION:TBD\, Dhaka\, Bangladesh
+SUMMARY:Firefox Dev Edition 58 Beta 12 Test Day
+DESCRIPTION:Welcome to Today&#39;s Test-day! Today we will be hosting Firefox 
+ Dev Edition 58 Beta 12 Test Day. We will be focusing our testing on Graphi
+ cs\, Web Compatibility\, Bug Verification and Bug Triage. No previous test
+ ing experience is required. No previous testing experience is required\, L
+ ets Make Firefox Better!
+URL:https://reps.mozilla.org/e/firefox-dev-edition-58-beta-12-test-day/
+SEQUENCE:1
+X-COORDINATES-LAT:24.0087273
+X-COORDINATES-LON:90.3233287
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

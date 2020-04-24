@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3161
+CLASS:PUBLIC
+DTSTAMP:20200423T181924Z
+DTSTART:20141208T050000Z
+DTEND:20141213T130000Z
+LOCATION:TBD\, Indore\, India
+SUMMARY:Hour of Code Indore 2014
+DESCRIPTION:This year\, &#34;Hour of Code&#34; initiative has plans to target 100 
+ million students and expose them to computer science! Let&#39;s involve our In
+ dore and inspire students of our city to code their first programs this Co
+ mputer Science Ed Week\n We plan to organize this for an hour daily in the
+  evening at different schools \, Indore. Also\, Webmaker is partnering wit
+ h Code.org on their global Hour of Code campaign.
+URL:https://reps.mozilla.org/e/hour-of-code-indore/
+SEQUENCE:20
+X-COORDINATES-LAT:22.716018455
+X-COORDINATES-LON:75.8956857026
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

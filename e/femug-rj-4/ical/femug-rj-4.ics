@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6253
+CLASS:PUBLIC
+DTSTAMP:20200423T151030Z
+DTSTART:20160723T160000Z
+DTEND:20160723T210000Z
+LOCATION:Globo.com\, Rio de Janeiro\, Brazil
+SUMMARY:Femug RJ 4
+DESCRIPTION:Femug is a monthly meetup for front-end developers. It is base
+ d on the idea of lightning talks and open discussion. People share their o
+ wn projects\, challenges\, ideas and we all talk about them.
+URL:https://reps.mozilla.org/e/femug-rj-4/
+SEQUENCE:0
+X-COORDINATES-LAT:-22.9617650979
+X-COORDINATES-LON:-43.1879881024
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

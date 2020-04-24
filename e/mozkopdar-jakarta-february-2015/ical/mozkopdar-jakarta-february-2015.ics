@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3516
+CLASS:PUBLIC
+DTSTAMP:20200423T175049Z
+DTSTART:20150226T120000Z
+DTEND:20150226T140000Z
+LOCATION:Eatology\, Jakarta\, Indonesia
+SUMMARY:MozKopdar Jakarta - February 2015
+DESCRIPTION:This is a monthly meetup event for Mozillians across Jakarta. 
+ We will share about latest news around Mozilla\, such as Firefox Hello\, F
+ unctional Team or How to Contribute\, Firefox Addons Tips\, and Mozilla Ya
+ hoo Partnership.
+URL:https://reps.mozilla.org/e/mozkopdar-jakarta-february-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:-6.1839852788
+X-COORDINATES-LON:106.824716806
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

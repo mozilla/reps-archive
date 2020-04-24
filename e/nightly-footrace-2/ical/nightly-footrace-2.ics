@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6630
+CLASS:PUBLIC
+DTSTAMP:20200423T110331Z
+DTSTART:20170604T053000Z
+DTEND:20170604T083000Z
+LOCATION:Surabhi&#39;s Food Court\, Kaloji Junction\, Nakkalagutta\, Hanamkond
+ a\, India
+SUMMARY:Nightly Footrace #2
+DESCRIPTION:This time with SR Engineering College students and as we all k
+ now we have a great Mozilla community around India. We have a large number
+  of dedicated students\, developers and evangelists who are really passion
+ ate about Mozilla. We have seen that very few people in India actually kno
+ w about Firefox Nightly Desktop.So it needs a little bit of general promot
+ ion\, which will pump to bring a good number of tech-savvy\, power users w
+ ho will be our active community members.
+URL:https://reps.mozilla.org/e/nightly-footrace-2/
+SEQUENCE:5
+X-COORDINATES-LAT:18.0001469036
+X-COORDINATES-LON:79.5555062592
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

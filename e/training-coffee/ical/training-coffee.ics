@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2098
+CLASS:PUBLIC
+DTSTAMP:20200423T201030Z
+DTSTART:20140329T090000Z
+DTEND:20140329T140000Z
+LOCATION:Food&#39;Z\, Ariana\, Tunisia
+SUMMARY:Training Coffee
+DESCRIPTION:Encourage my local community to get involved on the alpha trai
+ ning webmaker\,\nSo i made a coffee training to talk about the training ma
+ terials and trying the content and we can accord this agenda : https://lau
+ ra.makes.org/thimble/exploring-making-connected-learning-teaching-kit.\nwe
+  will make a rount table and talking about he &#34;connected learning&#34;\, &#34;Maki
+ ng&#34; and what does it mean for them .\nWe discuss about the webmaker progra
+ m in tunisia .
+URL:https://reps.mozilla.org/e/training-coffee/
+SEQUENCE:1
+X-COORDINATES-LAT:36.7711592601
+X-COORDINATES-LON:10.3374025226
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

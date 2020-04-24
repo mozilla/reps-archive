@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6420
+CLASS:PUBLIC
+DTSTAMP:20200423T111514Z
+DTSTART:20170421T083000Z
+DTEND:20170421T123000Z
+LOCATION:Institute Of Technology\, Nirma University\, Gota\, Ahmedabad\, I
+ ndia
+SUMMARY:WebVR Camp by MozNirma Club
+DESCRIPTION:WebVR Workshop is to increase the VR promotion as well as VR d
+ evelopment. In this event participants will learn WebVR development using 
+ A-Frame framework (one of emerging future technologies by Mozilla).
+URL:https://reps.mozilla.org/e/webvr-camp-by-moznirma-club/
+SEQUENCE:7
+X-COORDINATES-LAT:22.8740665864
+X-COORDINATES-LON:70.858887434
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

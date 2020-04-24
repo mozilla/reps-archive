@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7438
+CLASS:PUBLIC
+DTSTAMP:20200423T095042Z
+DTSTART:20180325T043000Z
+DTEND:20180325T113000Z
+LOCATION:Hackfest\, IIT (ISM) Dhanbad\, IIT (ISM) Dhanbad\, India
+SUMMARY:Virtual Reality @ Hackfest\, IIT (ISM) Dhanbad
+DESCRIPTION:HackFest is IIT(ISM) Dhanbad&#39;s 36-hour annual hackathon organi
+ sed by the Computer Science and Engineering Society (CSES) and ACM Student
+  Chapter\, IIT(ISM) Dhanbad. It aims for student programmers from differen
+ t colleges to collaborate to come up with innovative solutions to problems
+  both old and new\, and see their ideas come to life.
+URL:https://reps.mozilla.org/e/virtual-reality-hackfest-iit-ism-dhanbad/
+SEQUENCE:3
+X-COORDINATES-LAT:23.7902665889
+X-COORDINATES-LON:86.4330596477
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

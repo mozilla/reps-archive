@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6675
+CLASS:PUBLIC
+DTSTAMP:20200423T110559Z
+DTSTART:20170529T235000Z
+DTEND:20170530T005000Z
+LOCATION:TBD\, Anápolis\, Brazil
+SUMMARY:XVI SITES - Interdisciplinary Seminar on Technology and Society
+DESCRIPTION:SITES is an event promoted by the UniEvangelica institution th
+ at aims to awaken the skills and competences necessary to the profile of t
+ he egress of Computer Engineering.\n\nThe activities developed at the even
+ t consist of presentation to the academic community of posters\, papers\, 
+ prototypes and the offer of mini-courses developed by the students \nof th
+ e bachelor&#39;s degree in Computer Engineering in the disciplines of Interdis
+ ciplinary Projects.
+URL:https://reps.mozilla.org/e/xvi-sites-interdisciplinary-seminar-on-tech
+ nology-and-society/
+SEQUENCE:13
+X-COORDINATES-LAT:-16.29423
+X-COORDINATES-LON:-48.944348
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

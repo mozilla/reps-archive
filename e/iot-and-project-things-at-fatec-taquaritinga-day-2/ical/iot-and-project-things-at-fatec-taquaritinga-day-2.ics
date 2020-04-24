@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8515
+CLASS:PUBLIC
+DTSTAMP:20200423T083216Z
+DTSTART:20190422T120000Z
+DTEND:20190422T190000Z
+LOCATION:Fatec Taquaritinga\, Taquaritinga\, Brazil
+SUMMARY:IoT and Project Things at Fatec Taquaritinga (day 2)
+DESCRIPTION:Fatec Taquaritinga is promoting talks about IoT for students. 
+ We will deliver a talk about Project Things and how people can start using
+  it.
+URL:https://reps.mozilla.org/e/iot-and-project-things-at-fatec-taquariting
+ a-day-2/
+SEQUENCE:2
+X-COORDINATES-LAT:-21.4294826039
+X-COORDINATES-LON:-48.5146522526
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

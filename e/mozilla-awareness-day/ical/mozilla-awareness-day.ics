@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4638
+CLASS:PUBLIC
+DTSTAMP:20200423T162929Z
+DTSTART:20151010T053000Z
+DTEND:20151010T073000Z
+LOCATION:College of Engineering\, Pune\, Pune\, India
+SUMMARY:Mozilla Awareness Day
+DESCRIPTION:Event Agenda :\n* Mozilla and Mozilla Mission\n* Mozilla Proje
+ cts\, whatcanidoformozilla.org\n* Privacy and Security\n* Firefox for Desk
+ top [Marathi] Grow Campaign
+URL:https://reps.mozilla.org/e/mozilla-awareness-day/
+SEQUENCE:4
+X-COORDINATES-LAT:18.5293334842
+X-COORDINATES-LON:73.8570356352
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

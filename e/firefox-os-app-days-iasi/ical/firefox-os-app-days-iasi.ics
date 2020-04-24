@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@549
+CLASS:PUBLIC
+DTSTAMP:20200423T220028Z
+DTSTART:20130323T080000Z
+DTEND:20130323T180000Z
+LOCATION:Biblioteca Facultatii de Informatica Iasi - str. General Berthelo
+ t\, nr. 16\, Iași\, Romania
+SUMMARY:Firefox OS App Days - Iași
+DESCRIPTION:Part of the worldwide App Days events (organized after the Jan
+  26th milestone). Developers gathering to hack around FirefoxOS\, Web Apps
+ \, Web APIs 
+URL:https://reps.mozilla.org/e/firefox-os-app-days-iasi/
+SEQUENCE:0
+X-COORDINATES-LAT:47.1740636128
+X-COORDINATES-LON:27.5750184059
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

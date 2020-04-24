@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4840
+CLASS:PUBLIC
+DTSTAMP:20200423T160643Z
+DTSTART:20151204T053000Z
+DTEND:20151204T083000Z
+LOCATION:st.Joseph convent school\, bilakhed\, chalisgaon\, Chalisgaon\, I
+ ndia
+SUMMARY:Because Privacy Matters
+DESCRIPTION:This event is organized by one of our FSA. His name is Rahul P
+ arekh. He has been very active in spreading mozilla mission in rural areas
+ . \n\nAgenda:\n1) why privacy matters\n2) what to share and what not on so
+ cial networks\n3) what is tracking?\n4) prevention from it?\n5) demonstrat
+ e security features in browsers\n6) tracking protection\n7) other privacy 
+ softwares and tools (duckduckgo\, telegram\,etc)
+URL:https://reps.mozilla.org/e/because-privacy-matters/
+SEQUENCE:2
+X-COORDINATES-LAT:20.4471735022
+X-COORDINATES-LON:75.0126340985
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

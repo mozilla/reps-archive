@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5045
+CLASS:PUBLIC
+DTSTAMP:20200423T155538Z
+DTSTART:20160114T163000Z
+DTEND:20160114T173000Z
+LOCATION:Arya College of Engineering &amp; I.T.\, Amber\, India
+SUMMARY:WoMoz User Privacy Awareness @ ACEIT
+DESCRIPTION:This event is being organized by WoMoz Team of OpenMoz club to
+  spread awareness about user privacy and making the audience aware the imp
+ ortance of privacy over the Internet and will also highlight Mozilla&#39;s eff
+ orts in safeguarding an individual&#39;s privacy.
+URL:https://reps.mozilla.org/e/womoz-user-privacy-awareness-aceit/
+SEQUENCE:2
+X-COORDINATES-LAT:27.030070182
+X-COORDINATES-LON:75.8918495176
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

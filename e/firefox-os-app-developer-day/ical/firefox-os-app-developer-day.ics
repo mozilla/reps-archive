@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2257
+CLASS:PUBLIC
+DTSTAMP:20200423T194316Z
+DTSTART:20140531T070000Z
+DTEND:20140531T160000Z
+LOCATION:PentaSchool\, Budapest\, Hungary
+SUMMARY:Firefox OS App Developer Day
+DESCRIPTION:This is the first all day long Firefox OS event in this year. 
+ We are going to have a special traning day for beginners and a hackerspace
+  for already involved Firefox OS hackers.
+URL:https://reps.mozilla.org/e/firefox-os-app-developer-day/
+SEQUENCE:17
+X-COORDINATES-LAT:47.5020539323
+X-COORDINATES-LON:19.0518372061
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

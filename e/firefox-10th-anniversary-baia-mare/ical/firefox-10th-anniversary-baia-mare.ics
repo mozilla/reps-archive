@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3088
+CLASS:PUBLIC
+DTSTAMP:20200423T183409Z
+DTSTART:20141110T100000Z
+DTEND:20141110T180000Z
+LOCATION:Softvision Office Baia Mare\, Baia Mare\, Romania
+SUMMARY:Firefox 10th Anniversary - Baia Mare
+DESCRIPTION:Celebrating 10 years of Firefox with the local Mozillians!
+URL:https://reps.mozilla.org/e/firefox-10th-anniversary-baia-mare/
+SEQUENCE:2
+X-COORDINATES-LAT:46.7671269429
+X-COORDINATES-LON:23.5942153819
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

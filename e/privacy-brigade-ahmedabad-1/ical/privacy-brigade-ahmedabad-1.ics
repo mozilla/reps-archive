@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8317
+CLASS:PUBLIC
+DTSTAMP:20200423T084417Z
+DTSTART:20190128T080000Z
+DTEND:20190128T160000Z
+LOCATION:Shri Hk arts College\, Ahemedabad\, India
+SUMMARY:Privacy Brigade Ahmedabad
+DESCRIPTION:This event is aimed at making students aware about the Privacy
+  and security on the web with a hands-on session on different tools\, Fire
+ fox Add-ons meant for online privacy and security.
+URL:https://reps.mozilla.org/e/privacy-brigade-ahmedabad-1/
+SEQUENCE:2
+X-COORDINATES-LAT:23.0114923201
+X-COORDINATES-LON:70.929107666
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

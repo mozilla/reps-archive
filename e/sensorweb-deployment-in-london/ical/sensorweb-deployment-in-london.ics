@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5466
+CLASS:PUBLIC
+DTSTAMP:20200423T152232Z
+DTSTART:20160530T070000Z
+DTEND:20160624T220000Z
+LOCATION:London\, London\, United Kingdom
+SUMMARY:SensorWeb Deployment in London
+DESCRIPTION:Deploy 10 sensors across London\, building a community of peop
+ le interested in IoT in the United Kingdom\, while also contributing to Mo
+ zilla&#39;s SensorWeb Connected Devices initiative.
+URL:https://reps.mozilla.org/e/sensorweb-deployment-in-london/
+SEQUENCE:3
+X-COORDINATES-LAT:51.5039254464
+X-COORDINATES-LON:-0.112037662184
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

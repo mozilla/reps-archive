@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3242
+CLASS:PUBLIC
+DTSTAMP:20200423T181157Z
+DTSTART:20150105T043000Z
+DTEND:20150105T113000Z
+LOCATION:SIEC\, Thanjavur\, India
+SUMMARY:MozLaunch
+DESCRIPTION:This is a Club launch event in a college in Thanjavur region w
+ here we are going to Introduce about Mozilla Community from scratch to the
+  end .
+URL:https://reps.mozilla.org/e/mozlaunch/
+SEQUENCE:3
+X-COORDINATES-LAT:10.779123643
+X-COORDINATES-LON:79.1093444265
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

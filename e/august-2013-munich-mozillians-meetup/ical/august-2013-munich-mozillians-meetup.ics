@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1168
+CLASS:PUBLIC
+DTSTAMP:20200423T212051Z
+DTSTART:20130804T170000Z
+DTEND:20130804T190000Z
+LOCATION:Hacker-Pschorr Bräuhaus\, Munich\, Germany
+SUMMARY:August 2013 Munich Mozillians Meetup
+DESCRIPTION:Casual meetup of local contributors (volunteers and employees)
+ .
+URL:https://reps.mozilla.org/e/august-2013-munich-mozillians-meetup/
+SEQUENCE:4
+X-COORDINATES-LAT:48.1360650008
+X-COORDINATES-LON:11.5476822853
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

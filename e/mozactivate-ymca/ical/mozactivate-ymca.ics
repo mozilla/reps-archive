@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6343
+CLASS:PUBLIC
+DTSTAMP:20200423T112139Z
+DTSTART:20170324T053000Z
+DTEND:20170326T093000Z
+LOCATION:YMCA University Of Science And Technology\, Faridabad\, India
+SUMMARY:MozActivate @ YMCA
+DESCRIPTION:YMCA\, Faridabad is having their annual techfest in March. We 
+ are setting up a Mozilla booth\, where various verticals of Mozilla will b
+ e promoted. We will explain webVR\, webCompat\, webExtensions\, about camp
+ us clubs and other projects of Mozilla\,\n\nIn addition we will also be a 
+ part of hackathon where we will give a explicit session on webVR and then 
+ expect students to build something on webVR
+URL:https://reps.mozilla.org/e/mozactivate-ymca/
+SEQUENCE:2
+X-COORDINATES-LAT:28.401341662
+X-COORDINATES-LON:77.3064765986
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

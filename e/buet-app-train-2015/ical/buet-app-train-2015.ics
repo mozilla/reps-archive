@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3831
+CLASS:PUBLIC
+DTSTAMP:20200423T171602Z
+DTSTART:20150612T040000Z
+DTEND:20150612T120000Z
+LOCATION:Bangladesh University of Engineering and Technology\, Dhaka\, Ban
+ gladesh
+SUMMARY:BUET App Train 2015
+DESCRIPTION:This will be an App Train event where we will be working with 
+ BUETians\, focusing on some little advanced topics. The participants will 
+ learn Firefox OS basics &amp; a little bit of internal things of Firefox OS fr
+ om the event. Moreover\, they will execute their ideas with the help of ou
+ r mentor and build mobile app for Firefox OS. The event is divided into 2 
+ different sessions. One is &#34;Hack Session&#34; and another one is &#34;Make Session
+ &#34;.
+URL:https://reps.mozilla.org/e/buet-app-train-2015/
+SEQUENCE:5
+X-COORDINATES-LAT:23.7264252937
+X-COORDINATES-LON:90.3912262918
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

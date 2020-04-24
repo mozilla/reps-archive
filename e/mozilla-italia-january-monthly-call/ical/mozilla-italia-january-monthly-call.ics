@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7381
+CLASS:PUBLIC
+DTSTAMP:20200423T100424Z
+DTSTART:20180126T170000Z
+DTEND:20180126T180000Z
+LOCATION:TBD\, Quartu Sant&#39;Elena\, Italy
+SUMMARY:Mozilla Italia - January Monthly Call
+DESCRIPTION:The Monthly Call of Italian Mozilla Community
+URL:https://reps.mozilla.org/e/mozilla-italia-january-monthly-call/
+SEQUENCE:1
+X-COORDINATES-LAT:42.3558379342
+X-COORDINATES-LON:12.8159165382
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

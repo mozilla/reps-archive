@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4896
+CLASS:PUBLIC
+DTSTAMP:20200423T160403Z
+DTSTART:20151212T070000Z
+DTEND:20151212T160000Z
+LOCATION:CDTIC Ngaoundere\, Ngaoundere\, Cameroon
+SUMMARY:NdereCamp 2015
+DESCRIPTION:NdereCamp 2015\, the 3rd Barcamp Cameroon regionalized Camp is
+  going to take place under the theme: ‘local content for innovation’ a
+ nd will give you the chance to see how to improve the region thanks to ICT
+ . \nThe event will promote diversity and inclusion of people living in Nor
+ thern regions of Cameroon.\n1. ICT for Education \n2. ICT Communities\n3. 
+ Coding Sessions \n2. Free topics \n\nMozilla Cameroon will have there 5 pr
+ esentations.
+URL:https://reps.mozilla.org/e/nderecamp-2015/
+SEQUENCE:0
+X-COORDINATES-LAT:7.28700736982
+X-COORDINATES-LON:13.551818803
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

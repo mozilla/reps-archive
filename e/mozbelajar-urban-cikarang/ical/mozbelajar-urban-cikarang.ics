@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4266
+CLASS:PUBLIC
+DTSTAMP:20200423T164937Z
+DTSTART:20150822T080000Z
+DTEND:20150822T100000Z
+LOCATION:Urban Cikarang\, Cikarang\, Indonesia
+SUMMARY:#MozBelajar Urban Cikarang
+DESCRIPTION:An event to introduce the newly launched Webmaker App to stude
+ nts and youngsters gathered in Urban Cikarang. There will be Webmaker App 
+ downloading session and hands on workshop in making projects using the app
+ . This event is organized as part of Webmaker App Launch initiatives in In
+ donesia.
+URL:https://reps.mozilla.org/e/mozbelajar-urban-cikarang/
+SEQUENCE:3
+X-COORDINATES-LAT:-6.26490640954
+X-COORDINATES-LON:107.149017323
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

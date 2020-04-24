@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4705
+CLASS:PUBLIC
+DTSTAMP:20200423T162632Z
+DTSTART:20151018T063000Z
+DTEND:20151018T083000Z
+LOCATION:Purple Talk\, Hyderabad\, India
+SUMMARY:Mozilla Purple Talk
+DESCRIPTION:Tech Talk at Purple Talk on Whats Mozilla doing lately in Tech
+ nical side.
+URL:https://reps.mozilla.org/e/mozilla-purple-talk/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4380882
+X-COORDINATES-LON:78.3900414
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

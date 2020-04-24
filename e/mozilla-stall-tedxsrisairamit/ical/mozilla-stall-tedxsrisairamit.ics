@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6856
+CLASS:PUBLIC
+DTSTAMP:20200423T104732Z
+DTSTART:20170818T033000Z
+DTEND:20170818T113000Z
+LOCATION:Sairam Institute of Technology\, Sairam College Rd\, Sai Leo Naga
+ r\, West Tambaram\, Chennai\, Tamil Nadu 600044\, Chennai\, India
+SUMMARY:Mozilla Stall @ TedxSriSairamIT
+DESCRIPTION:Technical Evangelizing on:\n\nFirefox Nightly\nWebVR\nMozilla 
+ Communities
+URL:https://reps.mozilla.org/e/mozilla-stall-tedxsrisairamit/
+SEQUENCE:3
+X-COORDINATES-LAT:12.9606578
+X-COORDINATES-LON:80.0510635
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

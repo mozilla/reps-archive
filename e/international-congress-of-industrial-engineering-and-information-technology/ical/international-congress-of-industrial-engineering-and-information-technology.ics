@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1999
+CLASS:PUBLIC
+DTSTAMP:20200423T200430Z
+DTSTART:20140411T140000Z
+DTEND:20140413T000000Z
+LOCATION:Tecnológico de Monterrey Campus Central de Veracruz\, Córdoba\,
+  Mexico
+SUMMARY:International Congress of Industrial Engineering and Information T
+ echnology
+DESCRIPTION:Fourteenth International Congress of Industrial Engineering an
+ d Information Technology\, will be held on 11 and 12 April 2014\, with an 
+ enriched with lectures\, workshops\, mini-conferences\, demos\, a success 
+ and Expo program focused on the evolution technology in multidisciplinary 
+ work. Engineering Congress is highly recognized by various participants\, 
+ speakers and companies attending from different places in Mexico\, the Ame
+ ricas and other parts of the world.
+URL:https://reps.mozilla.org/e/international-congress-of-industrial-engine
+ ering-and-information-technology/
+SEQUENCE:1
+X-COORDINATES-LAT:18.8913416258
+X-COORDINATES-LON:-96.9787287721
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

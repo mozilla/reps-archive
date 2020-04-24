@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4349
+CLASS:PUBLIC
+DTSTAMP:20200423T165059Z
+DTSTART:20150820T050000Z
+DTEND:20150820T100000Z
+LOCATION:Technological Institute of the Philippines\, Manila\, Philippines
+SUMMARY:Firefox OS Workshop at TIP-Manila
+DESCRIPTION:The Mozilla Philippines Community has been invited by the Tech
+ nological Institute of the Philippines -Manila for a Firefox OS Workshop a
+ t their campus.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-at-tip-manila/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5952726877
+X-COORDINATES-LON:-239.012003303
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

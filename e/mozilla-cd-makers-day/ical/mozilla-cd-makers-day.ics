@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5991
+CLASS:PUBLIC
+DTSTAMP:20200423T113923Z
+DTSTART:20161223T010000Z
+DTEND:20161223T060000Z
+LOCATION:AITS College\, Tirupati\, India
+SUMMARY:Mozilla CD- Makers Day
+DESCRIPTION:This is a 2-day hackathon which provides the understanding of 
+ the projects of Mozilla Connected Devices and brain storm &amp; innovate new p
+ roject ideas. Also\, this event uses open innovation toolkit for the hacka
+ thon.&#34;
+URL:https://reps.mozilla.org/e/mozilla-cd-makers-day/
+SEQUENCE:5
+X-COORDINATES-LAT:13.6317497072
+X-COORDINATES-LON:79.4193613529
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

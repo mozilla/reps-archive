@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3929
+CLASS:PUBLIC
+DTSTAMP:20200423T165552Z
+DTSTART:20150804T060000Z
+DTEND:20150804T110000Z
+LOCATION:Mozilla Community Space Manila (MozSpaceMNL)\, Makati City\, Phil
+ ippines
+SUMMARY:Firefox for iOS Tagalog Localization Sprint
+DESCRIPTION:A recent study conducted on Philippine mobile users revealed t
+ hat 60% prefers to have Filipino (Tagalog) as the language on their device
+ s (remaining 40% wants English).  \n  \niOS devices account to around 15% 
+ of all smartphone/devices sold in the Philippines in 2014.\n\nHelp us tran
+ slate the soon-to-be launched Firefox for iOS to Tagalog in this Localizat
+ ion Sprint.
+URL:https://reps.mozilla.org/e/firefox-for-ios-tagalog-localization-sprint
+ /
+SEQUENCE:16
+X-COORDINATES-LAT:14.5481722791
+X-COORDINATES-LON:121.015188217
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

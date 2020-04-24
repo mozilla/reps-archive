@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@400
+CLASS:PUBLIC
+DTSTAMP:20200423T223413Z
+DTSTART:20121215T100000Z
+DTEND:20121216T100000Z
+LOCATION:Adobe Romania - Anchor Plaza\, Bd. Timișoara nr. 26\, Bucharest\
+ , Romania
+SUMMARY:WebDev Hackathon by ROSEdu
+DESCRIPTION:Hacking on web applications and project. After 9 weeks of lear
+ ning about WEB programming during a course organized by a ROSEdu (an commu
+ nity that promotes open source)\, students will hack on some web applicati
+ ons and projects. I will mentor students\, helping them to develop their i
+ deas.
+URL:https://reps.mozilla.org/e/webdev-hackathon/
+SEQUENCE:0
+X-COORDINATES-LAT:44.430202034
+X-COORDINATES-LON:26.0355699062
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

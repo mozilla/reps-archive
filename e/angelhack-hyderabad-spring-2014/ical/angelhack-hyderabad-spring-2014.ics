@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2168
+CLASS:PUBLIC
+DTSTAMP:20200423T195225Z
+DTSTART:20140510T033000Z
+DTEND:20140511T103000Z
+LOCATION:Microsoft: Gachibowli\,\, Hyderabad\, India
+SUMMARY:AngelHack Hyderabad Spring 2014
+DESCRIPTION:Angel Hack Spring 2014 is the largest Hackathon series\, ever.
+  Over 30 cities and 6\,000 developers will join in to build stronger devel
+ oper ecosystem around the world. In friendly partnership with Angel Hack\,
+  we will be giving a talk and demo FirefoxOS for a crowd of 1000+ and help
+  the participants build apps for FirefoxOS.
+URL:https://reps.mozilla.org/e/angelhack-hyderabad-spring-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:17.3812212805
+X-COORDINATES-LON:78.4822997823
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

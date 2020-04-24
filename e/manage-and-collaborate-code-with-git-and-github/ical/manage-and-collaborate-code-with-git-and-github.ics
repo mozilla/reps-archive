@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8631
+CLASS:PUBLIC
+DTSTAMP:20200423T082615Z
+DTSTART:20190602T113000Z
+DTEND:20190602T143000Z
+LOCATION:Yuvalay eLab\, Vadodara\, India
+SUMMARY:Manage and Collaborate Code with Git and GitHub
+DESCRIPTION:We are a community of passionate student developers\, creating
+  a platform to bring together student developers from around Vadodara to c
+ ome together and learn something new\, meet new people and form greater te
+ ch network all this every fortnight. To give this a kick start\, we are ho
+ sting our first event in partnership with Major League Hacking and Yuvalay
+  Elab. We will be having an introductory session followed by workshop on G
+ it\, GitHub and GitHub Pages\, followed by a networking session.
+URL:https://reps.mozilla.org/e/manage-and-collaborate-code-with-git-and-gi
+ thub/
+SEQUENCE:2
+X-COORDINATES-LAT:22.2947730062
+X-COORDINATES-LON:73.1537883275
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

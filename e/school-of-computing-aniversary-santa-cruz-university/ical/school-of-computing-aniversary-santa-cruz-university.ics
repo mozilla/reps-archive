@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@777
+CLASS:PUBLIC
+DTSTAMP:20200423T215117Z
+DTSTART:20130419T191500Z
+DTEND:20130419T193000Z
+LOCATION:Avenida Bush\, 2do Anillo\, Santa Cruz\, Bolivia
+SUMMARY:School of Computing Aniversary\, Santa Cruz University
+DESCRIPTION:Mozilla was invited to attend to celebrate the school of compu
+ ting anniversary of Autonoma Gabriel Rene Moreno University\, in the Santa
+  Cruz city.\nwe will doing a presentation about Mozilla technologies\, com
+ munities and Firefox OS 
+URL:https://reps.mozilla.org/e/school-of-computing-aniversary-santa-cruz-u
+ niversity/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.7740872276
+X-COORDINATES-LON:-63.1951618195
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

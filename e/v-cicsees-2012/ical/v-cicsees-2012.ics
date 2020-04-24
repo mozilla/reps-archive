@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@225
+CLASS:PUBLIC
+DTSTAMP:20200423T225029Z
+DTSTART:20121029T170000Z
+DTEND:20121031T170000Z
+LOCATION:IESTP Luis E. Valcárcel\, Ilo\, Peru
+SUMMARY:V CICSEES 2012
+DESCRIPTION:ENGLISH: The Fifth International Congress of Computing\, Syste
+ ms and Education will place in Ilo\, Peru\, a mining pole at the south of 
+ the country. During three days experts in information technology\, represe
+ ntatives of mining corporations and a congressman will give talks to stude
+ nts of an institute and public with interest in these topics.\n\nESPAÑOL:
+  Durante tres días expertos en tecnologías de información\, representan
+ tes de corporaciones mineras y un congresista darán charlas.
+URL:https://reps.mozilla.org/e/v-cicsees-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.6617702444
+X-COORDINATES-LON:-71.3308811188
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

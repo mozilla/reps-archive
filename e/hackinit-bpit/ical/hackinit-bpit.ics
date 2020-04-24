@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8743
+CLASS:PUBLIC
+DTSTAMP:20200423T081303Z
+DTSTART:20190831T033000Z
+DTEND:20190901T054500Z
+LOCATION:BPIT - Rohini\, New Delhi\, New Delhi\, India
+SUMMARY:HackInit-BPIT
+DESCRIPTION:With the first version of HackInit\, get ready to witness one 
+ of its kind\, a 24-hour breath-taking coding sprint which is all about tec
+ h-oriented designing\, building and creating.\n\nThe Computer Society of I
+ ndia (CSI- BPIT) and BPIT Open Source Community (BOSC) are organizing an e
+ vent of hackathon &#34;HACKINIT&#34; on 31st Aug-1st Sept at Bhagwan Parshuram Ins
+ titute of Technology\, Rohini\, New Delhi.
+URL:https://reps.mozilla.org/e/hackinit-bpit/
+SEQUENCE:1
+X-COORDINATES-LAT:28.7149671431
+X-COORDINATES-LON:77.1089401189
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

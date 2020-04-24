@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5049
+CLASS:PUBLIC
+DTSTAMP:20200423T153117Z
+DTSTART:20160423T070000Z
+DTEND:20160423T220000Z
+LOCATION:Wikimedia Sverige Hantverkargatan 21\, Stockholm\, Sweden
+SUMMARY:Mozilla Nordic Localization Hackathon 2016
+DESCRIPTION:Localizers for the languages of the Nordic countries will be m
+ eeting together to localize projects together\, meet with localization dri
+ vers\, and discuss the use of Firefox and other Mozilla projects in their 
+ local languages.
+URL:https://reps.mozilla.org/e/mozilla-nordic-localization-hackathon-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:59.3328100213
+X-COORDINATES-LON:18.0690994207
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

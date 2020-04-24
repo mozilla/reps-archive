@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4460
+CLASS:PUBLIC
+DTSTAMP:20200423T171607Z
+DTSTART:20150611T170000Z
+DTEND:20150611T200000Z
+LOCATION:Mozilla\, Paris\, France
+SUMMARY:Paris Android User Group
+DESCRIPTION:Paris Android User Group meetup hosted at Mozilla Paris\, with
+  a talk on Firefox OS/Gonk
+URL:https://reps.mozilla.org/e/paris-android-user-group/
+SEQUENCE:2
+X-COORDINATES-LAT:48.8718847285
+X-COORDINATES-LON:2.34193181994
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

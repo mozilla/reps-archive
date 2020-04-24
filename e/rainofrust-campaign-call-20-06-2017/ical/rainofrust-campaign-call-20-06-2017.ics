@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6679
+CLASS:PUBLIC
+DTSTAMP:20200423T105909Z
+DTSTART:20170620T170000Z
+DTEND:20170620T173000Z
+LOCATION:Reps vidyo room\, Bengaluru\, India
+SUMMARY:RainOfRust Campaign Call 20/06/2017
+DESCRIPTION:Weekly campaign update call\n\n- Campaign updates\n- Doubt cle
+ arance\n- TechSpeaker updates\n\nOnline call setup details: https://wiki.m
+ ozilla.org/Vidyo
+URL:https://reps.mozilla.org/e/rainofrust-campaign-call-20-06-2017/
+SEQUENCE:2
+X-COORDINATES-LAT:12.8680372789
+X-COORDINATES-LON:77.7447509766
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

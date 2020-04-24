@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1828
+CLASS:PUBLIC
+DTSTAMP:20200423T202219Z
+DTSTART:20140228T090000Z
+DTEND:20140302T153000Z
+LOCATION:Norton University\, Phnom Penh\, Phnom Penh\, Cambodia
+SUMMARY:FOSS Asia 2014
+DESCRIPTION:FOSSASIA 2014 is an exciting Open Technology event for develop
+ ers\, students\, and start ups using open source to build up their busines
+ ses. \nFOSSASIA 2014 will take place for the first time in Cambodia. It wi
+ ll be held at Norton University in Phnom Penh from February 28 - March 2. 
+ FOSSASIA 2014 will focus on the use of open technologies in sustainable de
+ velopment in order to improve the lives and conditions of those living in 
+ poverty.
+URL:https://reps.mozilla.org/e/foss-asia-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:11.5562072171
+X-COORDINATES-LON:104.931077954
+X-COUNTRY-CODE:kh
+END:VEVENT
+
+END:VCALENDAR

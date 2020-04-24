@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7073
+CLASS:PUBLIC
+DTSTAMP:20200423T103218Z
+DTSTART:20171003T110000Z
+DTEND:20171003T140000Z
+LOCATION:Classroom B5-310\, 5/F Yeung Kin Man Acad Building (AC1)\, City U
+ niversity of Hong Kong\, Kowloon Tong.\, Hong Kong\, Hong Kong
+SUMMARY:Open Source Developer Meetup #7 - Mozilla
+DESCRIPTION:Organise a Mozilla meetup with Open Source Hong Kong\, invites
+  Mozilla staff and community member to share and networking.
+URL:https://reps.mozilla.org/e/open-source-developer-meetup-7-mozilla/
+SEQUENCE:1
+X-COORDINATES-LAT:22.3373524633
+X-COORDINATES-LON:114.17508316
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

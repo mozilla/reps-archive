@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4420
+CLASS:PUBLIC
+DTSTAMP:20200423T163549Z
+DTSTART:20150926T080000Z
+DTEND:20150927T150000Z
+LOCATION:Academie Lounge @ Potsdamer Platz\, Köthener Str. 44\, 10963 Ber
+ lin\, Germany\, Berlin\, Germany
+SUMMARY:TV Hack Day Berlin
+DESCRIPTION:Andre Fiedler is coordinating this effort. &#34;At TV Hackday\, we
+ ’ll hack the future of TV. Creatives\, developers\, designers\, concepte
+ rs and TV Stations alike will work together to do remixes\, apps\, hacks o
+ r the next TV Set. Anything goes as long as it is a TV related project tha
+ t can be done in 24 hours. &#34; See the planning pad for more info!
+URL:https://reps.mozilla.org/e/tv-hack-day-berlin/
+SEQUENCE:2
+X-COORDINATES-LAT:52.5071034094
+X-COORDINATES-LON:13.3776798245
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

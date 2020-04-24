@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8062
+CLASS:PUBLIC
+DTSTAMP:20200423T085846Z
+DTSTART:20181006T100000Z
+DTEND:20181007T160000Z
+LOCATION:Globalhagen\, Fælledvej 12\, 2200 København N\, Copenhagen\, De
+ nmark
+SUMMARY:Danish L10N Hackathon
+DESCRIPTION:Hackathon of the Danish l10n community. I&#39;m not organizing thi
+ s event\, I&#39;m just helping them with budget. This is an invite-only event.
+URL:https://reps.mozilla.org/e/danish-l10n-hackathon/
+SEQUENCE:0
+X-COORDINATES-LAT:55.6804235303
+X-COORDINATES-LON:12.5603026897
+X-COUNTRY-CODE:dk
+END:VEVENT
+
+END:VCALENDAR

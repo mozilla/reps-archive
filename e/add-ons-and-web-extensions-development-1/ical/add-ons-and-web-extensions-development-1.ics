@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5764
+CLASS:PUBLIC
+DTSTAMP:20200423T145820Z
+DTSTART:20160909T013000Z
+DTEND:20160909T103000Z
+LOCATION:Tirupati\, Tirupati\, India
+SUMMARY:Add-ons and web Extensions Development
+DESCRIPTION:This event is aims to teach students about adding extra featur
+ es to the browser by building Add-ons and web Extensions for firefox Brows
+ er.
+URL:https://reps.mozilla.org/e/add-ons-and-web-extensions-development-1/
+SEQUENCE:2
+X-COORDINATES-LAT:13.6355135313
+X-COORDINATES-LON:79.397934
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

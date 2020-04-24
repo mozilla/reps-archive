@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@639
+CLASS:PUBLIC
+DTSTAMP:20200423T222632Z
+DTSTART:20130117T050000Z
+DTEND:20130117T113000Z
+LOCATION:Computer Lab\, Mauritius Institute of Health\, Pamplemousses\, Ma
+ uritius
+SUMMARY:Mozilla meeting with doctors
+DESCRIPTION:Postgraduate medical students will be attending a 2-week train
+ ing on ICT tools for research and data analysis. One module will be  cover
+ ed by the myself on medical literature. Firefox and its add-ons will be in
+ troduced to the doctors to help them to retrieve medical literature for th
+ eir studies and also to show them how they can use add-ons in their studie
+ s.
+URL:https://reps.mozilla.org/e/mozilla-meeting-with-doctors/
+SEQUENCE:0
+X-COORDINATES-LAT:-20.0967629015
+X-COORDINATES-LON:57.55900383
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@719
+CLASS:PUBLIC
+DTSTAMP:20200423T214926Z
+DTSTART:20130425T070000Z
+DTEND:20130425T150000Z
+LOCATION:Mundaneum\, 7000 Mons\, Belgium
+SUMMARY:Web Fair Day
+DESCRIPTION:This day is intended to raise awareness among young people for
+  careers in Information Technology and Communication (ICT).\nThroughout th
+ e day\, there will be presentations of success stories\, workshops ... and
+  a &#34;news room&#34; for live and online coverage.\nIn the web Village\, exhibit
+ ors will answer questions from visitors. Free software will be represented
+  by a Linux local association and by Mozilla.
+URL:https://reps.mozilla.org/e/web-fair-day/
+SEQUENCE:16
+X-COORDINATES-LAT:50.4580777804
+X-COORDINATES-LON:3.95567893982
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

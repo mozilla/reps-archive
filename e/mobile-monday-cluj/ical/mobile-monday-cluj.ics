@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1357
+CLASS:PUBLIC
+DTSTAMP:20200423T210435Z
+DTSTART:20130930T160000Z
+DTEND:20130930T180000Z
+LOCATION:Cluj HUB\, Cluj-Napoca\, Romania
+SUMMARY:Mobile Monday Cluj
+DESCRIPTION:Monday\, September 30th\, Cluj will formally enter in the Mobi
+ le Monday Network of more than 130 cities worldwide\, where vibrant commun
+ ities of people are jointly pursuing their interests to learn about\, to f
+ ollow and\, why not\, to influence the revolutions within the global mobil
+ e industry.
+URL:https://reps.mozilla.org/e/mobile-monday-cluj/
+SEQUENCE:1
+X-COORDINATES-LAT:46.7737307301
+X-COORDINATES-LON:23.5997164249
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

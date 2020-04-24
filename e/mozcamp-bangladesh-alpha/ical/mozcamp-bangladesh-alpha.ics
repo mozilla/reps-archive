@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2271
+CLASS:PUBLIC
+DTSTAMP:20200423T193904Z
+DTSTART:20140610T040000Z
+DTEND:20140611T110000Z
+LOCATION:Hub Dhaka\, Dhaka\, Bangladesh
+SUMMARY:MozCamp Bangladesh Alpha
+DESCRIPTION:Alpha test bed for &#34;New content and format designed for evolve
+ d MozCamp&#34;. This will be basically a &#34;Train the trainers&#34; event.
+URL:https://reps.mozilla.org/e/mozcamp-bangladesh-alpha/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7412499533
+X-COORDINATES-LON:90.4017333873
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

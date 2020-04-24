@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@31
+CLASS:PUBLIC
+DTSTAMP:20200423T230525Z
+DTSTART:20120901T063000Z
+DTEND:20120902T063000Z
+LOCATION:Allana Institute of Mgmt Sciences \,Azam Campus\, Pune\, India
+SUMMARY:Mozilla Urdu Localization Sprint
+DESCRIPTION:The event will be organized at Allana Institute of management 
+ Sciences Pune Maharashtra. After the great success of Mozfestpune \,We got
+  the translation rights for the Firefox and our team started contributing 
+ to localization. \nGoals:.\nTo invite and motivate more contributors in an
+ d around region to come forward for Urdu localization.\nTo conduct a hando
+ n session for new contributors.\nSpreading words about Mozilla Projects ha
+ ving localization like L10n\,Sumo\,NeMo
+URL:https://reps.mozilla.org/e/mozilla-urdu-localization-sprint/
+SEQUENCE:0
+X-COORDINATES-LAT:18.5043848992
+X-COORDINATES-LON:73.8761472702
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

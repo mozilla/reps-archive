@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8541
+CLASS:PUBLIC
+DTSTAMP:20200423T083041Z
+DTSTART:20190502T080000Z
+DTEND:20190504T150000Z
+LOCATION:FH Technikum Wien\, Vienna\, Austria
+SUMMARY:Linuxwochen Wien
+DESCRIPTION:Linuxwochen Wien is a yearly conference in Vienna on Free and 
+ Open Source Software. The Mozillians in Vienna are planning to man a booth
+  at the event and give some talks.
+URL:https://reps.mozilla.org/e/linuxwochen-wien-2/
+SEQUENCE:2
+X-COORDINATES-LAT:48.23930672
+X-COORDINATES-LON:16.377268061
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

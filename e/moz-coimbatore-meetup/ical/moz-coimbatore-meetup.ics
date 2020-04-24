@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5609
+CLASS:PUBLIC
+DTSTAMP:20200423T151531Z
+DTSTART:20160702T123000Z
+DTEND:20160702T143000Z
+LOCATION:Mint Hotel\, Coimbatore\, India
+SUMMARY:Moz Coimbatore Meetup
+DESCRIPTION:Few mozillians around coimbatore meet to dicuss about the futu
+ re events around the area.
+URL:https://reps.mozilla.org/e/moz-coimbatore-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:10.9769203304
+X-COORDINATES-LON:77.0000839233
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

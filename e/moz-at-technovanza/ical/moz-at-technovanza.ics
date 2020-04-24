@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4938
+CLASS:PUBLIC
+DTSTAMP:20200423T155913Z
+DTSTART:20151228T053000Z
+DTEND:20151228T103000Z
+LOCATION:Vjti\, Mumbai\, India
+SUMMARY:Moz at Technovanza
+DESCRIPTION:Technovanza is a Technical festival at V.J.T.I. I and certain 
+ volunteers would distribute swags and spread open source awareness to stud
+ ents attending the event. Its a small effort from my side to promote moz.
+URL:https://reps.mozilla.org/e/moz-at-technovanza/
+SEQUENCE:1
+X-COORDINATES-LAT:19.605398662
+X-COORDINATES-LON:75.4462051392
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

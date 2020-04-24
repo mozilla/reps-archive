@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@586
+CLASS:PUBLIC
+DTSTAMP:20200423T215845Z
+DTSTART:20130330T043000Z
+DTEND:20130331T163000Z
+LOCATION:Hackspace\, 3rd floor\, Beside Electric Substation\, Near YSR sta
+ tue\, 100 Feet Road\, Ayyappa Society Layout\, Madhapur\,\, Hyderabad\, In
+ dia
+SUMMARY:Devthon 0.1d 2013
+DESCRIPTION:Launchpad for ideas\, code contributions &amp; discussions. &#34;Meet 
+ curious and tinkering minds and spend a weekend sparking new product ideas
+ \, Opensource code contributions or hacking hardware.&#34; - Devthon 
+URL:https://reps.mozilla.org/e/devthon-0-1d-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:17.4508873422
+X-COORDINATES-LON:78.3816146851
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

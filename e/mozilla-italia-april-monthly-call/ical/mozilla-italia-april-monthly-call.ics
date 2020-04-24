@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7662
+CLASS:PUBLIC
+DTSTAMP:20200423T094554Z
+DTSTART:20180406T163000Z
+DTEND:20180406T173000Z
+LOCATION:TBD\, Quartu Sant&#39;Elena\, Italy
+SUMMARY:Mozilla Italia - April Monthly Call
+DESCRIPTION:The Monthly Call of Italian Mozilla Community
+URL:https://reps.mozilla.org/e/mozilla-italia-april-monthly-call/
+SEQUENCE:1
+X-COORDINATES-LAT:41.8668338861
+X-COORDINATES-LON:12.2885727882
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

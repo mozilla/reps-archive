@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1115
+CLASS:PUBLIC
+DTSTAMP:20200423T212012Z
+DTSTART:20130809T113000Z
+DTEND:20130809T140000Z
+LOCATION:Miracle House\, Flat 697\, 3/F Winner Mansion\, 691-697 Nathan Ro
+ ad\, Mong Kok\, Kowloon\, Hong Kong\, Hong Kong\, Hong Kong
+SUMMARY:Meet the Mozillians 2013 Hong Kong
+DESCRIPTION:Meet with oversea Mozillians who will attend Wikimania 2013 in
+  Hong Kong and local Mozillians - Arky (Mozilla Community Manager)\, Sammy
+  Fung (Rep HK)\, Haggen So (Mozillian HK)\, Irvin Chen (Rep TW\, Liaison o
+ f MozTW)\, Orin Chen (Rep TW).
+URL:https://reps.mozilla.org/e/meet-the-mozillians-2013-hong-kong/
+SEQUENCE:5
+X-COORDINATES-LAT:22.3198871934
+X-COORDINATES-LON:114.169278145
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1483
+CLASS:PUBLIC
+DTSTAMP:20200423T202542Z
+DTSTART:20140221T070000Z
+DTEND:20140221T130000Z
+LOCATION:Nairobits School of Digital Design\, Nairobi\, Kenya
+SUMMARY:UI hacking at Nairobits
+DESCRIPTION:I will be teaching Nairobits students how to create responsive
+  websites with the help of Mozilla Developer tools and twitter bootstrap U
+ I framework. \n\nThe session is going to be highly interactive and also ha
+ nds on. I will also teach the students how to use their skills to create m
+ obile apps and also how to deploy apps to Firefox OS market place
+URL:https://reps.mozilla.org/e/ui-hacking-at-nairobits/
+SEQUENCE:6
+X-COORDINATES-LAT:-1.30391665957
+X-COORDINATES-LON:36.8312630639
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

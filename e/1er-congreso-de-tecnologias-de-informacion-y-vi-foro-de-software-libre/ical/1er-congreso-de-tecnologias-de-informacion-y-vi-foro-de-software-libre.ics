@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@159
+CLASS:PUBLIC
+DTSTAMP:20200423T224605Z
+DTSTART:20121114T180000Z
+DTEND:20121116T180000Z
+LOCATION:Universidad Politécnica de Tlaxcala\, Tlaxcala\, Mexico
+SUMMARY:1er. Congreso de Tecnologías de Información y VI foro de Softwar
+ e Libre
+DESCRIPTION:Conference on information technologies and talks on free softw
+ are.
+URL:https://reps.mozilla.org/e/1er-congreso-de-tecnologias-de-informacion-
+ y-vi-foro-de-software-libre/
+SEQUENCE:0
+X-COORDINATES-LAT:19.3059591726
+X-COORDINATES-LON:-98.2067871094
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

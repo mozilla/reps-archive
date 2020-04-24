@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4240
+CLASS:PUBLIC
+DTSTAMP:20200423T165008Z
+DTSTART:20150822T020000Z
+DTEND:20150822T060000Z
+LOCATION:SMA 8 Makassar\, Makassar\, Indonesia
+SUMMARY:#MozBelajar SMA 8 Makassar
+DESCRIPTION:An event to introduce the newly launched Webmaker App to unive
+ rsity students in SMA 8 Makassar . There will be Webmaker App downloading 
+ session and hands on workshop in making projects using the app. This event
+  is organized as part of Webmaker App Launch initiatives in Indonesia.
+URL:https://reps.mozilla.org/e/mozbelajar-sma-8-makassar/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.46132821909
+X-COORDINATES-LON:119.949417114
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

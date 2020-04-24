@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3917
+CLASS:PUBLIC
+DTSTAMP:20200423T182007Z
+DTSTART:20141206T080000Z
+DTEND:20141206T160000Z
+LOCATION:CENAJES-KRIBI\, Kribi\, Cameroon
+SUMMARY:Barcamp Cameroon 2014
+DESCRIPTION:BarCamp Cameroon is the biggest annual gathering of passionate
+  individuals from all fields of the digital and technology society: entrep
+ reneurs\, enthusiasts\, bloggers\, journalists\, activists and students. B
+ arcamp is dubbed a « non » because of its informal format and on the spo
+ t scheduling. The event focuses on the latest innovations in terms of inte
+ rnet applications\, free software and social networks in Cameroon and Afri
+ ca.
+URL:https://reps.mozilla.org/e/barcamp-cameroon-2014/
+SEQUENCE:0
+X-COORDINATES-LAT:3.05252527846
+X-COORDINATES-LON:10.9438476339
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2013
+CLASS:PUBLIC
+DTSTAMP:20200423T200452Z
+DTSTART:20140411T103000Z
+DTEND:20140411T133000Z
+LOCATION:NIT Trichy\, Thuvakudi\, India
+SUMMARY:HTML5 Dev Day
+DESCRIPTION:Learn how to make best out of HTML5. Learn to develop apps usi
+ ng MVC. Try CRUD apps &amp; Gaming Apps using Angular.js.
+URL:https://reps.mozilla.org/e/html5-dev-day/
+SEQUENCE:21
+X-COORDINATES-LAT:10.762695566
+X-COORDINATES-LON:78.8158035243
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

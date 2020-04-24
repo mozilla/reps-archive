@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4597
+CLASS:PUBLIC
+DTSTAMP:20200423T163456Z
+DTSTART:20150930T040000Z
+DTEND:20150930T070000Z
+LOCATION:Kantor YPPI Jalan Rungkut Asri Barat X/9\, Surabaya\, Surabaya\, 
+ Indonesia
+SUMMARY:Mozilla MLN Research in Indonesia: Visit to YPPI
+DESCRIPTION:A research related to Mozilla Learning Network in Indonesia.  
+ \nThe visit and interview is part of research conducted by Mozilla Foundat
+ ion. The research team are Laura de Reynal (London) and Bobby Richter (Tor
+ onto)\n\nThis is part of research take place in YPPI (Yayasan Pengembangan
+  Perpustakaan Indonesia--Foundation for Library Development in Indonesia. 
+ We visit their headquarters to meet with the founder and director.
+URL:https://reps.mozilla.org/e/mozilla-mln-research-in-indonesia-visit-to-
+ yppi/
+SEQUENCE:3
+X-COORDINATES-LAT:-7.25769645134
+X-COORDINATES-LON:112.742431629
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

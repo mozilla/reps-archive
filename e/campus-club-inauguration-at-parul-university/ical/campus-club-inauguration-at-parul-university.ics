@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6347
+CLASS:PUBLIC
+DTSTAMP:20200423T112506Z
+DTSTART:20170308T044500Z
+DTEND:20170308T063000Z
+LOCATION:Parul University\, Vadodara\, India
+SUMMARY:Campus Club Inauguration at Parul University
+DESCRIPTION:It will be a Club Inauguration event for the college students 
+ and also a brief introduction to the Mozilla Campus Clubs. Agenda for the 
+ event will be: 1. Introduction to Mozilla. 2. Introduction to Mozilla Camp
+ us Clubs. 3. Why is online privacy important? 4. How to get involved.\n\nh
+ ttps://campus.mozilla.community/
+URL:https://reps.mozilla.org/e/campus-club-inauguration-at-parul-universit
+ y/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7434499092
+X-COORDINATES-LON:69.706787467
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

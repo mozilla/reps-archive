@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2639
+CLASS:PUBLIC
+DTSTAMP:20200423T185953Z
+DTSTART:20140914T033000Z
+DTEND:20140914T103000Z
+LOCATION:ludhiana\,Punjab\, Ludhiana\, India
+SUMMARY:Fennec Launch-Punjab India
+DESCRIPTION:Fennec Regional Launch Event for Punjab \,India. Jeff or Arky 
+ would be attending this event
+URL:https://reps.mozilla.org/e/fennec-launch-punjab-india/
+SEQUENCE:8
+X-COORDINATES-LAT:30.5145547066
+X-COORDINATES-LON:76.3897703961
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

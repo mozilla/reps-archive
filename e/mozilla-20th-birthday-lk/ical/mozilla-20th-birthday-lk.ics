@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7587
+CLASS:PUBLIC
+DTSTAMP:20200423T094706Z
+DTSTART:20180331T140000Z
+DTEND:20180331T160000Z
+LOCATION:Kandy\, Kandy\, Sri Lanka
+SUMMARY:Mozilla 20th Birthday LK
+DESCRIPTION:Mozilla turns 20 on 3/31. Mozilla LK will hold a mini-party wi
+ th  fellow Mozillians in celebration of Mozilla&#39;s birthday!\n\nWe&#39;ll prepa
+ re a cake to share with everyone. Anyone is welcomed to join with us\, no 
+ matter you&#39;re a Mozillian or not :)\n\n#MozillaTurns20 #LK #SriLanka
+URL:https://reps.mozilla.org/e/mozilla-20th-birthday-lk/
+SEQUENCE:1
+X-COORDINATES-LAT:7.13268930741
+X-COORDINATES-LON:80.6916504353
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

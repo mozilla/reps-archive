@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@243
+CLASS:PUBLIC
+DTSTAMP:20200423T225342Z
+DTSTART:20121016T220000Z
+DTEND:20121017T040000Z
+LOCATION:Calle 44 # 8-50 Apto 201\, Bogotá\, Colombia
+SUMMARY:Ada Loveace Day in HackBo
+DESCRIPTION:Sharing stories of women (engineers\, scientists\, technologis
+ ts or mathematicians) who have inspired us to become who we are. Discuss  
+ role models for girls and women in these male-dominated fields and make a 
+ brainstorm to increase women contributing in those fields.\n\nOur idea is 
+ to share a Fondue and talk about women influence and participation in scie
+ nce\, IT\, engineering\, mathematics.\n\nAfter Fondue\, we will watch a mo
+ vie &#34;Las palmas del Doctor Schultz&#34;
+URL:https://reps.mozilla.org/e/ada-loveace-day-in-hackbo/
+SEQUENCE:0
+X-COORDINATES-LAT:4.63135044131
+X-COORDINATES-LON:-74.0657794476
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

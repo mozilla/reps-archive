@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@452
+CLASS:PUBLIC
+DTSTAMP:20200423T221340Z
+DTSTART:20130206T020000Z
+DTEND:20130206T060000Z
+LOCATION:SMAN 1 Bukittinggi (High School)\, Bukittinggi\, Indonesia
+SUMMARY:MozSekolah Bukittinggi
+DESCRIPTION:Mozilla Indonesia Community will held a talk about Mozilla Pro
+ jects and Updates\, Firefox OS Introduction\, sharing about how to join an
+ d contribute in Mozilla projects. This event will be held at SMAN 1 Bukitt
+ inggi at Bukittinggi\, West Sumatra\, Indonesia.
+URL:https://reps.mozilla.org/e/mozsekolah-bukittinggi/
+SEQUENCE:0
+X-COORDINATES-LAT:-0.305555802611
+X-COORDINATES-LON:100.370407104
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

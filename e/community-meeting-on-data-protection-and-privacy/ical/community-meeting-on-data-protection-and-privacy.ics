@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7527
+CLASS:PUBLIC
+DTSTAMP:20200423T095414Z
+DTSTART:20180310T093000Z
+DTEND:20180310T123000Z
+LOCATION:International Institute of Information Technology\, Hyderabad\, H
+ yderabad\, India
+SUMMARY:Community Meeting on Data Protection and Privacy
+DESCRIPTION:Senior global policy manager of Mozilla along with his colleag
+ ues is visiting India on March 10\, 2018\, to speak about Aadhaar and the 
+ right to privacy in India.\n\nMozilla is increasingly focused on policies 
+ surrounding privacy and security of users. They&#39;d love to hear from the co
+ mmunity on this: what are our thoughts and concerns surrounding Aadhar? Ho
+ w do we think Mozilla can be helpful?
+URL:https://reps.mozilla.org/e/community-meeting-on-data-protection-and-pr
+ ivacy/
+SEQUENCE:7
+X-COORDINATES-LAT:17.4447918
+X-COORDINATES-LON:78.3483098
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

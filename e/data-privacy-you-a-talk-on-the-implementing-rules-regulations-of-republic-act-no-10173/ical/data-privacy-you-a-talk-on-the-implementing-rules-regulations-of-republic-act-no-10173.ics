@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5935
+CLASS:PUBLIC
+DTSTAMP:20200423T115557Z
+DTSTART:20161007T103000Z
+DTEND:20161007T130000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Data Privacy &amp; You: A Talk on the Implementing Rules &amp; Regulations
+  of Republic Act No. 10173
+DESCRIPTION:Data Privacy &amp; You:\nA Talk on the Implementing Rules and Regu
+ lations of Republic Act No. 10173 (Data Privacy Act of 2012)\n\nWe will ha
+ ve Atty. Ivy Patdu\, Deputy Commissioner - National Privacy Commision and 
+ Atty. Francis Euston Acero\, Complaints and Investigation Division Chief -
+  National Privacy Commission as resource speakers for this talk.
+URL:https://reps.mozilla.org/e/data-privacy-you-a-talk-on-the-implementing
+ -rules-regulations-of-republic-act-no-10173/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5470515794
+X-COORDINATES-LON:121.015794039
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

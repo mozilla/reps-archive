@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6175
+CLASS:PUBLIC
+DTSTAMP:20200423T113908Z
+DTSTART:20161224T043000Z
+DTEND:20161224T103000Z
+LOCATION:KGISL\, Coimbatore\, India
+SUMMARY:Mozcbe IOTmaker meetup #5
+DESCRIPTION:A series of 6 community meetup in Coimbatore area aiming to le
+ arn IOT domain related skills &amp; produce a range of open source IOT prototy
+ pes of different verticals.\n\nAll these meetups will have great documenta
+ tion and lectures recorded for later use by every IOT enthusiast. This mee
+ tup is a form of continuous learning effort\, where a handful of skilled c
+ ontributors are nurtured and motivated to give back to a community.\n\nThi
+ s meetup will be focussing on web service and pi board connection.
+URL:https://reps.mozilla.org/e/mozcbe-iotmaker-meetup-5/
+SEQUENCE:2
+X-COORDINATES-LAT:10.9877054553
+X-COORDINATES-LON:76.9890975952
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

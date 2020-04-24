@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5534
+CLASS:PUBLIC
+DTSTAMP:20200423T152003Z
+DTSTART:20160611T230000Z
+DTEND:20160612T010000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Insights of Participation goals.
+DESCRIPTION:As part of his tour to most active communities in the country\
+ ,\nGeorge Roter visited Hyderabad recently\, providing updates form the pa
+ rticipation team and the programs that they are working on.\n\nThe agenda 
+ includes the steps and actions to be taken to refresh and break the ice wh
+ ile providing clarity on the goals of Participation team\, clarity on wher
+ e Mozilla is heading.\n\nA quick discussion on how to align things and wor
+ k on the goals of participation.
+URL:https://reps.mozilla.org/e/insights-of-participation-goals/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4162239038
+X-COORDINATES-LON:78.4112754324
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2841
+CLASS:PUBLIC
+DTSTAMP:20200423T184825Z
+DTSTART:20141008T170000Z
+DTEND:20141008T190000Z
+LOCATION:Liip\, Limmatstrasse 183\, 8005 Zürich\, Zürich\, Switzerland
+SUMMARY:FIrefox Addons SDK Talk
+DESCRIPTION:Developing Firefox extensions is easy. Martin Giger will intro
+ duce you to the basic concepts and workflows of the Add-on SDK in this tal
+ k by Mozilla Switzerland.
+URL:https://reps.mozilla.org/e/firefox-addons-sdk-talk/
+SEQUENCE:4
+X-COORDINATES-LAT:47.3820778841
+X-COORDINATES-LON:8.53489923473
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

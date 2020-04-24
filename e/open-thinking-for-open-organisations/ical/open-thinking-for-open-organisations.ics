@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@737
+CLASS:PUBLIC
+DTSTAMP:20200423T215150Z
+DTSTART:20130418T160000Z
+DTEND:20130418T190000Z
+LOCATION:Cluj Hub \, str. Pitesti\, Cluj Napoca\, Romania
+SUMMARY:Open thinking for open organisations
+DESCRIPTION:ClujHub presents an evening of lightning talks and networking 
+ on the theme of &#39;open&#39;. Join Sourcefabric\, Mozilla\, OSOM (Open Source Op
+ en Mind) and journalist Andrei Aroneț to see how open strategies\, tactic
+ s and tools are revolutionising the web\, the media and business. Are you 
+ an entrepreneur\, coder or journalist open to new ideas? Join us -everyone
+  is welcome to contribute\, share ideas and collaborate!
+URL:https://reps.mozilla.org/e/open-thinking-for-open-organisations/
+SEQUENCE:12
+X-COORDINATES-LAT:46.7734808982
+X-COORDINATES-LON:23.5999631882
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

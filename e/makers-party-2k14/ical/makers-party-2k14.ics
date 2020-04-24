@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2832
+CLASS:PUBLIC
+DTSTAMP:20200423T185148Z
+DTSTART:20140930T033000Z
+DTEND:20140930T083000Z
+LOCATION:Sri Amman Matriculation Higher Secondary School\,Vaikuntham\,Sank
+ ari\,Salem-637103\, SALEM\, India
+SUMMARY:Makers Party 2k14
+DESCRIPTION:The main session will include\, Introduction to Mozilla and co
+ mmunity\, WebMaker tools\, Internet\,popcorn \,Thimble\, Firefox OS launch
+  in India.
+URL:https://reps.mozilla.org/e/makers-party-2k14/
+SEQUENCE:2
+X-COORDINATES-LAT:11.6108748998
+X-COORDINATES-LON:78.1448078156
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

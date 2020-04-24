@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5793
+CLASS:PUBLIC
+DTSTAMP:20200423T150015Z
+DTSTART:20160903T043000Z
+DTEND:20160903T083000Z
+LOCATION:School For Excellence\, Bhopal\,  Nasrullaganj\, India
+SUMMARY:Web of things
+DESCRIPTION:This event aims the school students of outer area of city\, an
+ yone near can join. Event speaker Mukesh will talk about Mozilla Introduct
+ ion and Mission for open source world. \nAfter that he will also perform a
+ n activity to show them imporatance of leadership quality. After that he w
+ ill explain what is open source\, how open source community work. How they
+  can start using the web.
+URL:https://reps.mozilla.org/e/web-of-things-1/
+SEQUENCE:1
+X-COORDINATES-LAT:22.6650156752
+X-COORDINATES-LON:77.2266862134
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3140
+CLASS:PUBLIC
+DTSTAMP:20200423T181552Z
+DTSTART:20141220T033000Z
+DTEND:20141221T120000Z
+LOCATION:Prem Hari Bhavan Malancha\, Kharagpur\, India
+SUMMARY:Hive Pop-up Maker Party KGP
+DESCRIPTION:Maker Party is Mozilla’s annual global campaign to teach the
+  web through hands-on learning and making.\nHives are comprised of organiz
+ ations and individuals (educators\, designers and makers). Together\, they
+  create opportunities for youth to learn within and beyond the confines of
+  traditional classroom experiences\, design innovative practices and tools
+  that build the field for greater impact\, and contribute to their own pro
+ fessional development within an active community of practice.
+URL:https://reps.mozilla.org/e/hive-pop-up-maker-party-kgp/
+SEQUENCE:12
+X-COORDINATES-LAT:22.3648931838
+X-COORDINATES-LON:87.3321532086
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

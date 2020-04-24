@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5270
+CLASS:PUBLIC
+DTSTAMP:20200423T153818Z
+DTSTART:20160326T043000Z
+DTEND:20160326T073000Z
+LOCATION:IIITD&amp;M KANCHEEPURAM\, Near Kandigai (Off Vandalur - Kelambakkam 
+ road)\, India
+SUMMARY:Maker Fair Samgatha 2016
+DESCRIPTION:Mozilla TN members conducting a seminar on the following topic
+ s below at Samgatha techno-cultural fest of IIITDM KANCHEEPURAM ( www.iiit
+ dm.ac.in/ )
+URL:https://reps.mozilla.org/e/makers-fair-samgathan-2016/
+SEQUENCE:9
+X-COORDINATES-LAT:12.8232880317
+X-COORDINATES-LON:80.1691997051
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

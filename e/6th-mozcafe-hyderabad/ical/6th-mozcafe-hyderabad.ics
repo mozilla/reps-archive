@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@438
+CLASS:PUBLIC
+DTSTAMP:20200423T222439Z
+DTSTART:20130120T093000Z
+DTEND:20130120T120000Z
+LOCATION:IIIT-Hyderabad\, Gachibowli \,Mumbai Road\, India
+SUMMARY:6th MozCafe Hyderabad
+DESCRIPTION:The idea for this meetup is to be easily reproducible and as f
+ requent as possible\, serving as a meeting point and reference event for l
+ ocal communities and people who want to get involved in their regional Moz
+ illa community.\n\n
+URL:https://reps.mozilla.org/e/6th-mozcafe-hyderabad/
+SEQUENCE:0
+X-COORDINATES-LAT:17.4455445759
+X-COORDINATES-LON:78.3482909203
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

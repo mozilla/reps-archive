@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2846
+CLASS:PUBLIC
+DTSTAMP:20200423T185710Z
+DTSTART:20140920T030000Z
+DTEND:20140920T070000Z
+LOCATION:JP University\,Bhopal\, Bhopal\, India
+SUMMARY:StartupCamp
+DESCRIPTION:This Event is a start up of Mozilla Mission at JP university.I
+ t contains also about The Firefox OS\,FSA and Our Awesome tool Webmaker .
+URL:https://reps.mozilla.org/e/startupcamp/
+SEQUENCE:2
+X-COORDINATES-LAT:23.2410203633
+X-COORDINATES-LON:77.417145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

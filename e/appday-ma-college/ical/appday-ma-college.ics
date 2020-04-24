@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3405
+CLASS:PUBLIC
+DTSTAMP:20200423T175658Z
+DTSTART:20150214T033000Z
+DTEND:20150214T120000Z
+LOCATION:Mar Athanasius College of Engineering Kothamangalam\, Kothamangal
+ am\, India
+SUMMARY:AppDay @ MA College
+DESCRIPTION:The event aims at introduction to the Mozilla and its communit
+ ies \, the technologies it creates and the way it makes web a productive p
+ lace each and every day. The event showcases the Firefox OS App day which 
+ focusses on the latest revolutionary Firefox OS-helping students get start
+ ed with App Development It also aims at encouraging people to contribute t
+ o the Mozilla in their respective field of interest
+URL:https://reps.mozilla.org/e/appday-ma-college/
+SEQUENCE:2
+X-COORDINATES-LAT:10.0685860503
+X-COORDINATES-LON:76.625862
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

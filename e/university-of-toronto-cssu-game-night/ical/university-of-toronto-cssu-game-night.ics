@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@561
+CLASS:PUBLIC
+DTSTAMP:20200423T220048Z
+DTSTART:20130322T220000Z
+DTEND:20130323T020000Z
+LOCATION:Bahen Centre for Information Technology\, University of Toronto\,
+  Toronto\, Canada
+SUMMARY:University of Toronto CSSU Game Night
+DESCRIPTION:Game Night allows students to come together and celebrate gami
+ ng and game culture the only way possible: pure hard core gaming. Game Nig
+ ht is open to all students of all faculty’s at UofT\, to encourage more 
+ gamers to participate and have an exciting night at Department of Computer
+  Science.\n\nMozilla will have a chance to present during the evening.
+URL:https://reps.mozilla.org/e/university-of-toronto-cssu-game-night/
+SEQUENCE:0
+X-COORDINATES-LAT:43.6122167682
+X-COORDINATES-LON:-79.6508789062
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

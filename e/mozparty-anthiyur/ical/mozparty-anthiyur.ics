@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@208
+CLASS:PUBLIC
+DTSTAMP:20200423T230822Z
+DTSTART:20120707T043000Z
+DTEND:20120708T123000Z
+LOCATION:Anthiyur\, Anthiyur\, India
+SUMMARY:Mozparty @ Anthiyur
+DESCRIPTION:It&#39;s our third Mozparty event but in a different location Anth
+ iyur with kids and few adults. It&#39;s a two day event where kids enjoyed a l
+ ot of fun hacking. Adults gave me some useful tips on improving my l10n ef
+ fort. Event had spot out many Next Generation Web Makers and New members f
+ or Mozilla Community Erode. 
+URL:https://reps.mozilla.org/e/mozparty-anthiyur/
+SEQUENCE:0
+X-COORDINATES-LAT:11.4416662548
+X-COORDINATES-LON:77.6827812195
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

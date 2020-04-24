@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3551
+CLASS:PUBLIC
+DTSTAMP:20200423T174911Z
+DTSTART:20150228T050000Z
+DTEND:20150228T090000Z
+LOCATION:University of Rizal System- Antipolo City\, Antipolo\, Philippine
+ s
+SUMMARY:MozTour URSAC
+DESCRIPTION:For the first time\, the Mozilla Philippines Community will se
+ t foot at the University of Rizal System- Antipolo City\, the province&#39;s s
+ tate university. This will also be the first time that the community will 
+ be visiting Antipolo City\, a mountainous city east of Manila.\n\nThis eve
+ nt aims to introduce Mozilla to the students and get them informed of how 
+ they can contribute and learn by helping to keep the Web open.
+URL:https://reps.mozilla.org/e/moztour-ursac/
+SEQUENCE:4
+X-COORDINATES-LAT:14.5711963341
+X-COORDINATES-LON:121.171286345
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

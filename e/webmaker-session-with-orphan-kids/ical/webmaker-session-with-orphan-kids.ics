@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1802
+CLASS:PUBLIC
+DTSTAMP:20200423T201618Z
+DTSTART:20140315T053000Z
+DTEND:20140315T083000Z
+LOCATION:S.O.S. Village / TBD\, Jaipur\, India
+SUMMARY:Webmaker Session with Orphan Kids
+DESCRIPTION:Why are we teaching the web to only those who already know abo
+ ut it? Why not to teach it to orphans and mentally challenged kids\, who a
+ re the future\, who don&#39;t have anyone who can teach them and introduce the
+ m with it.
+URL:https://reps.mozilla.org/e/webmaker-session-with-orphan-kids/
+SEQUENCE:16
+X-COORDINATES-LAT:26.8483424092
+X-COORDINATES-LON:75.8032464964
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3776
+CLASS:PUBLIC
+DTSTAMP:20200423T173158Z
+DTSTART:20150418T043000Z
+DTEND:20150418T093000Z
+LOCATION:JUET\, Guna\, Guna\, India
+SUMMARY:JUET Womaniya
+DESCRIPTION:There will be a session to guide all the WoMoz about webmaker 
+ tools  &amp; FXOS app development so that they can help us in future events.\n
+ It is interactive session within a FSA club of college
+URL:https://reps.mozilla.org/e/juet-womaniya/
+SEQUENCE:1
+X-COORDINATES-LAT:24.6588612741
+X-COORDINATES-LON:77.3018360103
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

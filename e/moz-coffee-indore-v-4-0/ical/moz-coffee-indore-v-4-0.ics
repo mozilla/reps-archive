@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3839
+CLASS:PUBLIC
+DTSTAMP:20200423T171902Z
+DTSTART:20150531T120000Z
+DTEND:20150531T133000Z
+LOCATION:Indian Coffee House \, Sp Office Campus Rnt Marg \,Regal Square\,
+  Indore\, India
+SUMMARY:Moz Coffee Indore  V 4.0
+DESCRIPTION:This is the standard Moz Coffee event of Mozilla Indore which 
+ would be focused on discussing the growth of community and planning the fu
+ ture roadmap of the Mozilla Indore.This event would also bring up some new
+  contributors to our Community.\nand will be a meeting place for the exist
+ ing contributes after 3 months. Also\, we are focusing on new WoMoz volunt
+ eers this time. Moreover its getting to know better\, build a better relat
+ ionship between the community members so as to work efficiently.
+URL:https://reps.mozilla.org/e/moz-coffee-indore-v-4-0/
+SEQUENCE:9
+X-COORDINATES-LAT:22.7314985
+X-COORDINATES-LON:75.8824308
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

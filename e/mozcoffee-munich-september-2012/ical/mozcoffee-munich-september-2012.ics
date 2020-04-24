@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@160
+CLASS:PUBLIC
+DTSTAMP:20200423T230025Z
+DTSTART:20120921T150000Z
+DTEND:20120921T170000Z
+LOCATION:Stadtcafé\, St. Jakobsplatz 1\, 80331 Munich\, Munich\, Germany
+SUMMARY:MozCoffee Munich September 2012
+DESCRIPTION:An informal meetup by Munich&#39;s Mozilla community.\n\nIf you pl
+ an to come\, please RSVP henrik dot mitsch at gmx dot at.\n
+URL:https://reps.mozilla.org/e/mozcoffee-munich-september-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:48.134783338
+X-COORDINATES-LON:11.5728521347
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

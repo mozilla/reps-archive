@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3933
+CLASS:PUBLIC
+DTSTAMP:20200423T172040Z
+DTSTART:20150524T063000Z
+DTEND:20150524T090000Z
+LOCATION:Mozilla Comunity Space Taipei\, Da-an District\, Taiwan
+SUMMARY:OCF: Experience about International Conference -- Embedded Linux C
+ onference
+DESCRIPTION:Partner with the International Exchange Program of [Open Cultu
+ re Foundation](http://ocf.tw)\, famous FLOSS hacker [jserv](https://about.
+ me/jserv) and his student are coming to Mozilla Community Space Taipei (
+ 摩茲工寮) and share their experience about their trip to Embedded Linu
+ x Conference 2015.
+URL:https://reps.mozilla.org/e/ocf-experience-about-international-conferen
+ ce-embedded-linux-conference/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0448239
+X-COORDINATES-LON:121.5320358
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

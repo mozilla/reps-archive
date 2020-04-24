@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1756
+CLASS:PUBLIC
+DTSTAMP:20200423T203156Z
+DTSTART:20140125T043000Z
+DTEND:20140125T083000Z
+LOCATION:Xavier Institute of Engineering\, Mahim Causeway\, Mahim.\, Mumba
+ i\, India
+SUMMARY:MozMaker Mumbai
+DESCRIPTION:MozMaker Event is the first event organized in Mumbai at Xavie
+ r Institute of Engineering to empower the students and there presence in F
+ OSS world!\nThis event will help us to grow and get more Mozilla&#39;s contrib
+ utors on different projects. Currently more focus is giving on Webmaker pr
+ oject and WoMoz.
+URL:https://reps.mozilla.org/e/mozmaker-mumbai/
+SEQUENCE:11
+X-COORDINATES-LAT:18.9969826826
+X-COORDINATES-LON:72.8129303455
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7924
+CLASS:PUBLIC
+DTSTAMP:20200423T091905Z
+DTSTART:20180704T021500Z
+DTEND:20180707T041500Z
+LOCATION:IOE Pulchowk Campus\, Kathmandu\, Nepal
+SUMMARY:KiCad and Board Development
+DESCRIPTION:Mozilla Campus Club and Free Students’ Union Pulchowk Campus
+  2073 are going to conduct a 4 day workshop on “KiCad and Board Developm
+ ent” starting on 4th July\, Wednesday. The mentors for this event have b
+ een called from the Second year and this workshop will cover everything fr
+ om designing of circuits using KiCad to the fabrication of the circuits. E
+ veryone attending this workshop are required to bring a laptop with “KiC
+ ad” software pre-installed on it.
+URL:https://reps.mozilla.org/e/kicad-and-board-development/
+SEQUENCE:3
+X-COORDINATES-LAT:25.2016278696
+X-COORDINATES-LON:84.1127926111
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

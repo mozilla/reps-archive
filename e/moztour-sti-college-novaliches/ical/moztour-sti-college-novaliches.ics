@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1141
+CLASS:PUBLIC
+DTSTAMP:20200423T210525Z
+DTSTART:20130928T010000Z
+DTEND:20130928T050000Z
+LOCATION:STI College Novaliches\, Quezon City\, Philippines
+SUMMARY:MozTour STI College Novaliches
+DESCRIPTION:Team MozillaPH has been invited to visit STI College Novaliche
+ s to share insights about the Open Web\, Mozilla products\, Firefox OS.
+URL:https://reps.mozilla.org/e/moztour-sti-college-novaliches/
+SEQUENCE:4
+X-COORDINATES-LAT:13.0687767344
+X-COORDINATES-LON:120.849609375
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

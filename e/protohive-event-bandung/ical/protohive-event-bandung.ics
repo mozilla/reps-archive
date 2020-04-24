@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@881
+CLASS:PUBLIC
+DTSTAMP:20200423T214320Z
+DTSTART:20130518T020000Z
+DTEND:20130518T050000Z
+LOCATION:Campus Center\, Institut Teknologi Bandung\, Bandung\, Indonesia
+SUMMARY:ProtoHive Event Bandung
+DESCRIPTION:ProtoHive Event is a prototype Hive event and targeting studen
+ t IT clubs who wants to be mentors for their schools. In this ProtoHive ev
+ ent\, we will collaborate with Five Cyber Community of SMAN 5 Bandung (Sen
+ ior High School 5 Bandung)
+URL:https://reps.mozilla.org/e/protohive-event-bandung/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.9124318364
+X-COORDINATES-LON:107.615611553
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

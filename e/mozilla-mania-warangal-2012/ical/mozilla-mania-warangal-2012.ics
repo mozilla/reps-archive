@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@211
+CLASS:PUBLIC
+DTSTAMP:20200423T225606Z
+DTSTART:20121009T043000Z
+DTEND:20121009T123000Z
+LOCATION:JITS Campus\, Narsampet\, Warangal\, India
+SUMMARY:Mozilla Mania: Warangal 2012
+DESCRIPTION:A full day event sponsored by http://jits.in\, organized by st
+ udents of the same institute in presence of some active Mozilla Reps\; set
+  out to cover various tracks\, from General Contribution to Localisation t
+ o Firefox OS - with both talks and hand on session.
+URL:https://reps.mozilla.org/e/mozilla-mania-warangal-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:17.9
+X-COORDINATES-LON:79.88
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

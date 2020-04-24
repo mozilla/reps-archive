@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3151
+CLASS:PUBLIC
+DTSTAMP:20200423T181538Z
+DTSTART:20141220T053000Z
+DTEND:20141220T093000Z
+LOCATION:Jai Jyoti School\, Guna\, Raghogarh\, India
+SUMMARY:KidzMaker@Jai Jyoti School
+DESCRIPTION:This event is dedicated to school Students about Mozilla and i
+ ts product and mission. And to make them build their interest in web desig
+ ning &amp; app development using Mozilla Webmaker tools. \nContact : Priyam Sr
+ ivastava [+918982896585]
+URL:https://reps.mozilla.org/e/kidzmaker-jai-jyoti-school/
+SEQUENCE:5
+X-COORDINATES-LAT:23.1942918528
+X-COORDINATES-LON:77.4366903288
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2157
+CLASS:PUBLIC
+DTSTAMP:20200423T195105Z
+DTSTART:20140510T140000Z
+DTEND:20140511T010000Z
+LOCATION:Oaxaca México\, Oaxaca de Juarez\, Mexico
+SUMMARY:Mozilla Firefox in Indigenous Languages of Oaxaca Mexico
+DESCRIPTION:General Objective: To disseminate and present the progress of 
+ localization Zapotec\, Mixtec\, Mazatec and chatino in Mozilla Firefox bro
+ wser.\nSpecific objectives: To review the potential challenges in locating
+  indigenous language in the browser\, analyze proposals to move locations 
+ and support new indigenous languages.
+URL:https://reps.mozilla.org/e/mozilla-firefox-in-indigenous-languages-of-
+ oaxaca-mexico/
+SEQUENCE:2
+X-COORDINATES-LAT:17.0633352507
+X-COORDINATES-LON:-96.7252063786
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

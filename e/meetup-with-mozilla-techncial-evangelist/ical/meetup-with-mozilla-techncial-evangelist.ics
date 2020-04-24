@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4011
+CLASS:PUBLIC
+DTSTAMP:20200423T171640Z
+DTSTART:20150609T100000Z
+DTEND:20150609T110000Z
+LOCATION:Starbucks Coffee Company\, G/F Great Eagle Centre\, Wan Chai\, Ho
+ ng Kong\, Hong Kong\, Hong Kong
+SUMMARY:Meetup with Mozilla Techncial Evangelist
+DESCRIPTION:Soledad Penadés from Mozilla London office visit Hong Kong\, 
+ Mozilla Hong Kong Community organize a MozCoffee meetup to share opinions 
+ from local Mozillians to Sole on different Mozilla products.
+URL:https://reps.mozilla.org/e/meetup-with-mozilla-techncial-evangelist/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2807358136
+X-COORDINATES-LON:114.175920009
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

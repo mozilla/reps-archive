@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2180
+CLASS:PUBLIC
+DTSTAMP:20200423T195809Z
+DTSTART:20140426T133000Z
+DTEND:20140426T213000Z
+LOCATION:Avenida Turín Transversal 3\, Avienda Turin\, Caracas\, Petare\,
+  Venezuela
+SUMMARY:Encuentro Android
+DESCRIPTION:This is the 3rd National Conference proposes to discuss the ev
+ olution of social networks at local and international level\, its impact o
+ n business\, journalism\, marketing\, liability of Internet Service Provid
+ ers\, reputation on linel.
+URL:https://reps.mozilla.org/e/encuentro-android/
+SEQUENCE:5
+X-COORDINATES-LAT:10.4843902776
+X-COORDINATES-LON:-66.8239917756
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

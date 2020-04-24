@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5395
+CLASS:PUBLIC
+DTSTAMP:20200423T151241Z
+DTSTART:20160514T070000Z
+DTEND:20160514T150000Z
+LOCATION:Via Ospedale\, 77\, 09124 Cagliari\, Cagliari\, Italy
+SUMMARY:MozillaDay Cagliari
+DESCRIPTION:In concomitanza con l&#39;evento sarà realizzata una diretta Onli
+ ne.   \n\nEvento realizzato a cura del gruppo dei FirefoxStudentAmbassador
+ s di Cagliari\, del Mozilla Club di Cagliari e del Regional Ambassador Lea
+ d del programma FirefoxStudentAmbassadors Italiano.   \n\nPer qualunque in
+ fo contattateci all&#39;indirizzo email: fsaitaly@gmail.com
+URL:https://reps.mozilla.org/e/mozilladay-cagliari/
+SEQUENCE:3
+X-COORDINATES-LAT:39.221033
+X-COORDINATES-LON:9.112615
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR
