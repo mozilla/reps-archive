@@ -8,14 +8,17 @@
     "start": "npm run clean && DEBUG=reps-archive:* node index.js",
     "eslint": "eslint .",
     "test": "nyc ava",
-    "deploy": "npm run start && gh-pages -d dist"
+    "deploy": "npm run start && gh-pages -d dist",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "async": "^3.2.0",
     "axios": "^0.19.2",
     "debug": "^4.2.0",
     "jsdom": "^16.2.2",
-    "mustache": "^4.0.1"
+    "mustache": "^4.0.1",
+    "snyk": "^1.346.0"
   },
   "devDependencies": {
     "@ava/babel": "^1.0.1",
@@ -59,5 +62,6 @@
         "tests/**/*.js"
       ]
     }
-  }
+  },
+  "snyk": true
 }
