@@ -76,7 +76,7 @@ test.serial('should fetch and save data', async (t) => {
 
   t.true(fs.promises.writeFile.called);
   const [, writeArgument] = fs.promises.writeFile.getCall(0).args;
-  t.is(writeArgument, JSON.stringify(expected));
+  t.is(writeArgument, JSON.stringify(expected, null, 2));
 });
 
 test.serial('should throw if fetch unsuccessful', async (t) => {
