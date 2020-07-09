@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1136
+CLASS:PUBLIC
+DTSTAMP:20200407T180631Z
+DTSTART:20130831T030000Z
+DTEND:20130831T070000Z
+LOCATION:Jogja Digital Valley\, Yogyakarta\, Indonesia
+SUMMARY:MozKopdarJOG Agustus 2013
+DESCRIPTION:An official Mozillians meetup in Yogyakarta. Share the latest 
+ update of Mozilla Community\, Mozilla Projects\, and more about #FirefoxOS
+ \, #Keon\, and introduction about Firefox Student Ambassador.
+URL:https://reps.mozilla.org/e/mozkopdarjog-agustus-2013/
+SEQUENCE:6
+X-COORDINATES-LAT:-7.77986959639
+X-COORDINATES-LON:110.377820134
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

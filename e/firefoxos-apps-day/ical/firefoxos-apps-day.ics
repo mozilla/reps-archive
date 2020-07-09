@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2355
+CLASS:PUBLIC
+DTSTAMP:20200407T180230Z
+DTSTART:20140621T033000Z
+DTEND:20140622T113000Z
+LOCATION:National School of Business Management (NSBM)\, 309\, High Level 
+ Rd\,\, Sri Lanka
+SUMMARY:FirefoxOS Apps Day
+DESCRIPTION:This will be a two day hands on training for under graduates a
+ t NSBM. We are expecting around 50-60 students to participate.\n\nDay 1:\n
+ \nHTML5 / Javascript / CSS3\nBowser API\nBest practises\nFrameworks for We
+ bApps\nHow to use the FirefoxOS simulator?\nHow to deploy an App through t
+ he App Manager?\nHow to submit an App the Mozilla Marketplace?\nHow conver
+ t FirefoxOS App to other OS\n\nDay 2 :\nFirefoxOS Application Development 
+ \n* There will be 5-6 FirefoxOS Developer (Keon) phones available
+URL:https://reps.mozilla.org/e/firefoxos-apps-day/
+SEQUENCE:4
+X-COORDINATES-LAT:6.87095383174
+X-COORDINATES-LON:79.8859183788
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5199
+CLASS:PUBLIC
+DTSTAMP:20200423T154343Z
+DTSTART:20160305T093000Z
+DTEND:20160305T140000Z
+LOCATION:Sitarail \, Plateaux \, Abidjan\, Abidjan\, Ivory Coast
+SUMMARY:NOUCHI LOCALIZATION TEAM MEETING
+DESCRIPTION:This event is the first meeting of the NOUCHI localization Tea
+ m .\nNouchi (very popular local language in Ivory Coast) .Objective of thi
+ s meeting is to make clear the importance of this localization project and
+  draft the roadmap for this year and the one to come.
+URL:https://reps.mozilla.org/e/nouchi-localization-team-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:5.32376047831
+X-COORDINATES-LON:-4.02069425618
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2025
+CLASS:PUBLIC
+DTSTAMP:20200423T201446Z
+DTSTART:20140316T020000Z
+DTEND:20140316T070000Z
+LOCATION:Food Mall\, Kochi\, India
+SUMMARY:Mozilla Kerala Community Meetup 2.1
+DESCRIPTION:Mozilla Kerala Community meetup 2.1 is the second meetup this 
+ year to discuss the progress and future plans of the community.
+URL:https://reps.mozilla.org/e/mozilla-kerala-community-meetup-2-1/
+SEQUENCE:1
+X-COORDINATES-LAT:9.97826201656
+X-COORDINATES-LON:76.2796068226
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

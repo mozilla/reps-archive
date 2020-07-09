@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8402
+CLASS:PUBLIC
+DTSTAMP:20200423T084405Z
+DTSTART:20190129T043000Z
+DTEND:20190129T073000Z
+LOCATION:KCI - Kazhanagar Computer Institute\, Kaghaznagar\, India
+SUMMARY:Firefox 65 Release Party
+DESCRIPTION:Our agenda: \n 1. Firefox fights for you\n 2. Migrating from C
+ hrome to Firefox\n 3. Firefox add-ons for online privacy\n 4. Women in Moz
+ illa\n 5. Contributing to Open Source Projects\n 6. Talking about Mozilla 
+ and Communities\n 7. Firefox Adele Challenge.
+URL:https://reps.mozilla.org/e/firefox-65-release-party/
+SEQUENCE:1
+X-COORDINATES-LAT:19.3573482142
+X-COORDINATES-LON:79.5031321049
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

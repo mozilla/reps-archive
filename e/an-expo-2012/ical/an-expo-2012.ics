@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@295
+CLASS:PUBLIC
+DTSTAMP:20200423T224136Z
+DTSTART:20121203T020000Z
+DTEND:20121203T030000Z
+LOCATION:University of Indonesia\, Jakarta\, Indonesia
+SUMMARY:AN EXPO 2012
+DESCRIPTION:An event held by students at University of Indonesia\, with to
+ pic &#34;Technology and Lifestyle&#34;. The event held from 3 to 7 December 2012. 
+ Mozilla Indonesia had the opportunity to give talks about Mozilla at the f
+ irst day. There will be about 300 students attend the talk.
+URL:https://reps.mozilla.org/e/an-expo-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.40957860548
+X-COORDINATES-LON:106.82734251
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

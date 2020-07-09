@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2238
+CLASS:PUBLIC
+DTSTAMP:20200407T174847Z
+DTSTART:20140509T160000Z
+DTEND:20140509T200000Z
+LOCATION:foss.ntua community @ NTUA\, Athens\, Greece
+SUMMARY:Firefox OS Workshop 2014/05/09
+DESCRIPTION:This is a workshop about Firefox OS. There will be a short pre
+ sentation about Firefox OS and then we are going to try building and flash
+ ing devices.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-2014-05-09/
+SEQUENCE:1
+X-COORDINATES-LAT:37.9778679124
+X-COORDINATES-LON:23.7821035982
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

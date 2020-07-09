@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1464
+CLASS:PUBLIC
+DTSTAMP:20200423T204805Z
+DTSTART:20131126T120000Z
+DTEND:20131126T140000Z
+LOCATION:Facultad Politecnica - Universidad Nacional de Asuncion\, Ciudad 
+ del Este\, Paraguay
+SUMMARY:Pre-launch meeting L10n Guaraní Paraguay
+DESCRIPTION:Pre-Launch Meeting of the localization of Firefox in Guarani\,
+  for support of the MEC (Ministry of Education and Culture) and the Minist
+ ry of languages​​\, and report it scientific interest. This meeting wi
+ ll define the scale of work and time and people involved in the project an
+ d carrying
+URL:https://reps.mozilla.org/e/pre-launch-meeting-l10n-guarani-paraguay/
+SEQUENCE:10
+X-COORDINATES-LAT:-25.3332578894
+X-COORDINATES-LON:-57.5173394677
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

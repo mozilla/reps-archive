@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6505
+CLASS:PUBLIC
+DTSTAMP:20200423T111552Z
+DTSTART:20170419T053000Z
+DTEND:20170419T083000Z
+LOCATION:Saras parlour \, JLN Marg\, Malviya Nagar\, Jaipur\, India
+SUMMARY:MozCoffee Jaipur
+DESCRIPTION:Introduction to open source and mozilla.\nFocusing on:\n# Cont
+ ribution areas\n# Recruiting new mozillians\n# Discussing future events\n#
+  Passing the mentorship role to new leaders
+URL:https://reps.mozilla.org/e/mozcoffee-jaipur/
+SEQUENCE:4
+X-COORDINATES-LAT:26.8620502
+X-COORDINATES-LON:75.8064311
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

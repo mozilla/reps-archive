@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7358
+CLASS:PUBLIC
+DTSTAMP:20200423T100638Z
+DTSTART:20180114T083000Z
+DTEND:20180114T123000Z
+LOCATION:Lamakaan\, Road No. 1 Banjara Hills\, Hyderabad\, India.\, Hydera
+ bad\, India
+SUMMARY:Talks And Discussions On The Current State of Aadhaar
+DESCRIPTION:Speakers:\nSrinivas Kodali\nDr. Shanta Sinha
+URL:https://reps.mozilla.org/e/talks-and-discussions-on-the-current-state-
+ of-aadhaar/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4211308166
+X-COORDINATES-LON:78.4474031927
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

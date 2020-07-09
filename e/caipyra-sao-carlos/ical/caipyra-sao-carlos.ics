@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7777
+CLASS:PUBLIC
+DTSTAMP:20200407T171703Z
+DTSTART:20180608T110000Z
+DTEND:20180611T195000Z
+LOCATION:Universidade de São Paulo (ICMC - USP)\, São Carlos\, Brazil
+SUMMARY:Caipyra São Carlos 2018
+DESCRIPTION:Caipyra is an event inspired by Python Brazil (the largest Pyt
+ hon event in Latin America) and aims\, non-profit\, to disseminate knowled
+ ge about various areas of technology. As the name says\, Caipyra is a meet
+ ing organized by the Python community in the interior of São Paulo\, for 
+ people interested in knowing or deepening in this language\, but open to v
+ arious technologies that are brought and approached by our distinguished g
+ uests.
+URL:https://reps.mozilla.org/e/caipyra-sao-carlos/
+SEQUENCE:6
+X-COORDINATES-LAT:-23.8014286545
+X-COORDINATES-LON:-46.4003920555
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

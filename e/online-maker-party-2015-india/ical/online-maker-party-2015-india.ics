@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4108
+CLASS:PUBLIC
+DTSTAMP:20200407T175609Z
+DTSTART:20150712T150000Z
+DTEND:20150712T170000Z
+LOCATION:India\, India\, India
+SUMMARY:Online Maker Party 2015 India
+DESCRIPTION:Maker Party 2015 is less than two months away! The party start
+ s on July 15 and runs to July 31. Each day\, makers\, mentors\, and learne
+ rs across the world will celebrate making and teaching by running events t
+ o create awesome things on the open Web. *This event will focus on making 
+ agendas for future events and training for new contributors*
+URL:https://reps.mozilla.org/e/online-maker-party-2015-india/
+SEQUENCE:1
+X-COORDINATES-LAT:18.7260339926
+X-COORDINATES-LON:74.0009772778
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

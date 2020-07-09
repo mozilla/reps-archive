@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7350
+CLASS:PUBLIC
+DTSTAMP:20200423T100616Z
+DTSTART:20180118T053000Z
+DTEND:20180118T063000Z
+LOCATION:Sabaragamuwa University of Sri Lanka\, Colombo\, Sri Lanka
+SUMMARY:Mozilla Contributions &amp; Community Building
+DESCRIPTION:Event for Sabaragamuwa University of Sri Lanka \, and event ho
+ st by Google Crowd  Source Community \,\nI will be representing as Mozilla
+  Reps deliver the part.
+URL:https://reps.mozilla.org/e/mozilla-contributions-community-building/
+SEQUENCE:3
+X-COORDINATES-LAT:6.67267790133
+X-COORDINATES-LON:80.4195556697
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2866
+CLASS:PUBLIC
+DTSTAMP:20200423T183133Z
+DTSTART:20141115T050000Z
+DTEND:20141115T100000Z
+LOCATION:Shan-Chih Hall\, Tatung University\, Jhongshan District\, Taiwan
+SUMMARY:Firefox 10th Anniversary Party Taipei
+DESCRIPTION:It&#39;s been 10 years since Firefox 1.0 release! This time\, we&#39;r
+ e going to have a big party like Firefox 4 release Party we had in 2011. \
+ n\nIn party\, there&#39;s going to be many talks\, booths\, handicrafts about 
+ Firefox\, Mozilla\, and the Web for people in any age\, and computer/web s
+ kill levels.\n\nLet&#39;s celebrate the 10th Anniversary of Firefox!\n\nFor mo
+ re information and schedule\, please see: http://moztw.kktix.cc/events/fir
+ efox10years (in Chinese)
+URL:https://reps.mozilla.org/e/firefox-10th-anniversary-party-taipei/
+SEQUENCE:4
+X-COORDINATES-LAT:25.0673088134
+X-COORDINATES-LON:121.521445512
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

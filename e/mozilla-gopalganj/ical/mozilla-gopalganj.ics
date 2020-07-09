@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1099
+CLASS:PUBLIC
+DTSTAMP:20200423T211708Z
+DTSTART:20130820T170000Z
+DTEND:20130823T170000Z
+LOCATION:Govt. Bangabondhu Collge\, Model Polytechnic Institute\, Gopalgan
+ j\, Bangladesh
+SUMMARY:mozilla @ Gopalganj
+DESCRIPTION:We will start from Dhaka and Chittagong to Gopalganj on 17 Aug
+ ust Night. On 21 August we will arrange a public maker party at Govt. Bang
+ abondhu Collge. On 22 August we will arrange a day long Firefox OS applica
+ tion training program at Model Polytechnic Institute. On the same night we
+  will return to our home.
+URL:https://reps.mozilla.org/e/mozilla-gopalganj/
+SEQUENCE:10
+X-COORDINATES-LAT:23.0046980771
+X-COORDINATES-LON:89.8267936707
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

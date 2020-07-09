@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3754
+CLASS:PUBLIC
+DTSTAMP:20200407T174554Z
+DTSTART:20150412T071500Z
+DTEND:20150423T071500Z
+LOCATION:King Hussein Business Park\, Amman\, Jordan
+SUMMARY:Girls In Tech Boot Camp - Jordan
+DESCRIPTION:This is going to be a life changing experience \, in this boot
+  camp the girls will understand \, collaborate \, use technology\, Meet su
+ ccessful female role models  \, and become a part of women in technology c
+ ommunities.\nAfter Launching Girls In Tech Jordan on the 8th of March whic
+ h i reported previously \,as a WoMoz leader in Jordan i was invited to giv
+ e sessions about Open Source \, Mozilla and its mission \, Womoz and women
+  empowerment \, besides mentoring the girls all along the boot camp period
+ .
+URL:https://reps.mozilla.org/e/girls-in-tech-boot-camp-jordan/
+SEQUENCE:2
+X-COORDINATES-LAT:31.9695388181
+X-COORDINATES-LON:35.874966681
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

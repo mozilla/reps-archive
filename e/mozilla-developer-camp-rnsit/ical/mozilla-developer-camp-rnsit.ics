@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5654
+CLASS:PUBLIC
+DTSTAMP:20200407T174147Z
+DTSTART:20160825T043000Z
+DTEND:20161124T113000Z
+LOCATION:RNS Institute of Technology\, Bangalore\, India
+SUMMARY:Mozilla Developer Camp - RNSIT
+DESCRIPTION:The event is 3 month long track whihc will train students on 3
+  Technologies namely Android\, Python and Web Development. We have 60 seat
+ s per track so that brings the attendance of the event to 180 candidates. 
+ Registrations have already opened and we&#39;ve recieved an overwhelming respo
+ nse. This is not a beginner&#39;s course. We have partnered with Udacity for t
+ he course structure and project assistance and the event will be organized
+  under the Mozilla Club along with the IEEE Student Chapter.
+URL:https://reps.mozilla.org/e/mozilla-developer-camp-rnsit/
+SEQUENCE:7
+X-COORDINATES-LAT:12.85107877
+X-COORDINATES-LON:76.4003902674
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@825
+CLASS:PUBLIC
+DTSTAMP:20200423T214421Z
+DTSTART:20130515T063000Z
+DTEND:20130515T160000Z
+LOCATION:Géode\, 6000 Charleroi\, Belgium
+SUMMARY:ReWICs 2013
+DESCRIPTION:&#34;Rencontres des territoires numériques innovants&#34;\, a day ded
+ icated to digital territories\, citizen participation\, collaborative tool
+ s ... open source is well represented. Mozilla will have a stand and will 
+ show demos.
+URL:https://reps.mozilla.org/e/rewics-2013/
+SEQUENCE:5
+X-COORDINATES-LAT:50.414507
+X-COORDINATES-LON:4.442081
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

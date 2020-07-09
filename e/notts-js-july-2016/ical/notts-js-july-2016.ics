@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5572
+CLASS:PUBLIC
+DTSTAMP:20200407T182335Z
+DTSTART:20160712T173000Z
+DTEND:20160712T200000Z
+LOCATION:34 Stoney Street\, Nottingham\, United Kingdom
+SUMMARY:Notts JS July 2016
+DESCRIPTION:NottsJS is a meetup for developers and anyone else interested 
+ in development. We meet every 2nd Tuesday of the month to talk about Node\
+ , JavaScript and Full Stack development in the Nottingham area.
+URL:https://reps.mozilla.org/e/notts-js-july-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:52.983295869
+X-COORDINATES-LON:-1.1776825
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

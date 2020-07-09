@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8989
+CLASS:PUBLIC
+DTSTAMP:20200407T170256Z
+DTSTART:20200201T090000Z
+DTEND:20200201T133000Z
+LOCATION:WittyHub\, Effurun-Warri\, Delta state\, Nigeria.\, Warri\, Niger
+ ia
+SUMMARY:Encouraging Safe Operations on the Web
+DESCRIPTION:The objective of this event is to create awareness of Data Pri
+ vacy Day as well as Mozilla\, and to promote the mission and vision of Moz
+ illa which focus on making the web safe for all\; through collaborative ap
+ proach with Mozillians and developers in the city of Warri and environs. \
+ nAlso\, this will be an opportunity to start and grow a community of Mozil
+ lians in Warri.
+URL:https://reps.mozilla.org/e/encouraging-safe-operations-on-the-web/
+SEQUENCE:4
+X-COORDINATES-LAT:5.5566555
+X-COORDINATES-LON:5.7818744
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

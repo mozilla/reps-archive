@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5806
+CLASS:PUBLIC
+DTSTAMP:20200423T145838Z
+DTSTART:20160908T060000Z
+DTEND:20160909T160000Z
+LOCATION:Litexpo parodų rūmai\, Vilnius\, Lithuania
+SUMMARY:SwitchIT
+DESCRIPTION:#SWITCH! is the biggest ICT and entrepreneurship event in the 
+ Baltics. Experience drones serving your food and drinks. Listen to success
+  stories told by great visioneers. Meet experienced e-businessmen\, sharin
+ g their best practices. AND be a part of the Guinness World Record – The
+  Largest Coding Lesson in the world. Join #SWITCH! and experience digital 
+ revolution!
+URL:https://reps.mozilla.org/e/switchit/
+SEQUENCE:2
+X-COORDINATES-LAT:54.6791606613
+X-COORDINATES-LON:25.2252545353
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2390
+CLASS:PUBLIC
+DTSTAMP:20200423T193413Z
+DTSTART:20140621T050000Z
+DTEND:20140621T080000Z
+LOCATION:Suni Islamic Centre\, Centre de Flacq\, Mauritius
+SUMMARY:Webmaking for Kids
+DESCRIPTION:Mozilla Mauritius is organising this training/presentation eve
+ nt for children aged between 11-15. It is going to be an introduction to w
+ ebmaking which will be held for the first in the Eastern region of Mauriti
+ us in Flacq. This session was schedule since the beginning of this year fo
+ llowing an invitation from the school teacher. This event will be mainly a
+  showcase presentation about webmaking and help the children to do somethi
+ ng on the web.
+URL:https://reps.mozilla.org/e/webmaking-for-kids-1/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.1961841309
+X-COORDINATES-LON:57.7368736197
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

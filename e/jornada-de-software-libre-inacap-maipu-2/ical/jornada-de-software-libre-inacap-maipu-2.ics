@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8231
+CLASS:PUBLIC
+DTSTAMP:20200407T174113Z
+DTSTART:20181129T110000Z
+DTEND:20181130T010000Z
+LOCATION:Av. Américo Vespucio 974\, Maipú\, Maipú\, Chile
+SUMMARY:Jornada de Software Libre Inacap Maipú
+DESCRIPTION:Celebrating the Free Software. Our goal in this celebration is
+  to educate the general public about the benefits of using quality free so
+ ftware in education\, in government\, at home and in business... In short\
+ , everywhere! In Santiago\, Chile\, Inacap Maipú coordinates the event al
+ ong with other organizations and a team of volunteers to allow this event.
+URL:https://reps.mozilla.org/e/jornada-de-software-libre-inacap-maipu-2/
+SEQUENCE:6
+X-COORDINATES-LAT:-33.4806757133
+X-COORDINATES-LON:-70.7558226594
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

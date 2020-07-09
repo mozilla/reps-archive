@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8184
+CLASS:PUBLIC
+DTSTAMP:20200407T165036Z
+DTSTART:20181123T093000Z
+DTEND:20181123T113000Z
+LOCATION:91 Springboard\, Noida sector 1\, Noida\, India
+SUMMARY:Rust Community Meetup - Delhi NCR
+DESCRIPTION:Workshop by Abhiram on &#34;Rust - the go-to language for WASM&#34; fo
+ r 30 minutes.\n\nA quick chat about Rust and apps that use Rust in product
+ ion with the local community. I will discuss Rust basics\, syntax\, garbag
+ e collector and we&#39;ll go through Dive into Rust exercises.\n\nhttps://acti
+ vate.mozilla.community/rust-hack/
+URL:https://reps.mozilla.org/e/rust-community-meetup-delhi/
+SEQUENCE:7
+X-COORDINATES-LAT:28.5675874618
+X-COORDINATES-LON:77.3587417463
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

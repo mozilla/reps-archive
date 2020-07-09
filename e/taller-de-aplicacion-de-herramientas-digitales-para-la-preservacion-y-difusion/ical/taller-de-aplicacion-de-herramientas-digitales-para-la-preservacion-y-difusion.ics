@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4677
+CLASS:PUBLIC
+DTSTAMP:20200407T182116Z
+DTSTART:20151019T140000Z
+DTEND:20151023T190000Z
+LOCATION:Museo de las Culturas de Oaxaca Santo Domingo\, Oaxaca de Juarez\
+ , Mexico
+SUMMARY:Aplicación de Herramientas Digitales para la Preservación y Difu
+ sión del Conocimiento Tradicional
+DESCRIPTION:El taller tiene como objetivo mostrar la implementación de he
+ rramientas digitales para la preservación del conocimiento tradicional\, 
+ capacitar a los asistentes en el uso de herramientas digitales\, establece
+ r un diálogo fructífero entre los participantes para generar redes colab
+ orativas y crear un antecedente en el uso de herramientas digitales dentro
+  de las comunidades indígenas en temas relacionados con conocimiento trad
+ icional y patrimonio inmaterial.
+URL:https://reps.mozilla.org/e/taller-de-aplicacion-de-herramientas-digita
+ les-para-la-preservacion-y-difusion/
+SEQUENCE:1
+X-COORDINATES-LAT:17.0690916573
+X-COORDINATES-LON:-96.7225939038
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

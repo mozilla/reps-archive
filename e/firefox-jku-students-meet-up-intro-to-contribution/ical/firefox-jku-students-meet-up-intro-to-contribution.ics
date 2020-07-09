@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1702
+CLASS:PUBLIC
+DTSTAMP:20200423T203246Z
+DTSTART:20140123T120000Z
+DTEND:20140123T130000Z
+LOCATION:Jomo Kenyatta University of Agriculture and Technology Mombasa Ca
+ mpus\, Mombasa\, Kenya
+SUMMARY:Firefox JKU Students meet-up &amp; Intro to contribution
+DESCRIPTION:This event will be mainly organized and conducted by the Mozil
+ la Mombasa&#39;s Firefox Student Ambassador\; Musa Alfan with the major aim of
+  introducing the Firefox JKU club to all students within the university\, 
+ to  spread the word about Mozilla\, the club and invite members to contrib
+ ute as well as plan for the clubs activities for 2014
+URL:https://reps.mozilla.org/e/firefox-jku-students-meet-up-intro-to-contr
+ ibution/
+SEQUENCE:3
+X-COORDINATES-LAT:-4.06906969327
+X-COORDINATES-LON:39.7905921936
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

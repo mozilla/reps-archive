@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2335
+CLASS:PUBLIC
+DTSTAMP:20200407T183606Z
+DTSTART:20140531T160000Z
+DTEND:20140531T170000Z
+LOCATION:Pune\,Maharashtra\, Pune\, India
+SUMMARY:Moz Coffee@Pune !
+DESCRIPTION:I&#39;m going to have a meeting with a medium group of students at
+  a local Coffee in Pune to show Firefox OS and make some demos. The idea i
+ s to begin creating community about Firefox OS and eventually reach some a
+ pp developers interested in the OS. I&#39;ll give a short speech and show them
+  some other of the amazing Mozilla&#39;s technologies and projects.Depending o
+ n attendees interests\, this may be just one day event\, or a multiple day
+  meeting with lots of coffee.
+URL:https://reps.mozilla.org/e/moz-coffee-pune/
+SEQUENCE:1
+X-COORDINATES-LAT:18.4778725139
+X-COORDINATES-LON:73.9123530686
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

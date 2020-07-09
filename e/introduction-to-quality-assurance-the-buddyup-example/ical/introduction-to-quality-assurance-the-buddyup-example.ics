@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4018
+CLASS:PUBLIC
+DTSTAMP:20200407T174346Z
+DTSTART:20150610T160000Z
+DTEND:20150610T180000Z
+LOCATION:TechMinistry\, Thessaloniki\, Greece
+SUMMARY:Introduction to Quality Assurance - the BuddyUP example
+DESCRIPTION:Using the BuddyUp case we will take a closer look into Mozilla
+  QA&#39;s tools\, techniques and methodologies. We will explore: - How to prep
+ are a QA test plan\, - How to write manual test cases and enter them into 
+ MozTrap - QA best practices - QA Testing methodology - Testing and debuggi
+ ng an app on FX OS - How to write automated test cases (briefly)
+URL:https://reps.mozilla.org/e/introduction-to-quality-assurance-the-buddy
+ up-example/
+SEQUENCE:0
+X-COORDINATES-LAT:40.6399354787
+X-COORDINATES-LON:22.9427118302
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

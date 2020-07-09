@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5278
+CLASS:PUBLIC
+DTSTAMP:20200423T153932Z
+DTSTART:20160323T043000Z
+DTEND:20160423T043000Z
+LOCATION:Online\, Pune\, India
+SUMMARY:Connected Devices- Connected World
+DESCRIPTION:Ideathon\n\nDetails on https://public.etherpad-mozilla.org/p/p
+ NpSizV0BS
+URL:https://reps.mozilla.org/e/connected-devices-connected-world/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5108657091
+X-COORDINATES-LON:73.8562774658
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

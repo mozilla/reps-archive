@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3396
+CLASS:PUBLIC
+DTSTAMP:20200407T175921Z
+DTSTART:20150313T050000Z
+DTEND:20150314T150000Z
+LOCATION:Strathmore University\, Nairobi\, Kenya
+SUMMARY:CMS Africa Summit 2015
+DESCRIPTION:CMS AFRICA SUMMIT is a premier tech event that brings together
+ \ntop ranking web developers\, online marketers\, software engineers\, onl
+ ine\nsellers\, web administrators\, banks\, company owners\, and universit
+ y\nstudents to a two day conference at the prestigious Strathmore School o
+ f Business\,Strathmore University in Nairobi\, Kenya.
+URL:https://reps.mozilla.org/e/cms-africa-summit-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:-1.31477140669
+X-COORDINATES-LON:36.8028187743
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

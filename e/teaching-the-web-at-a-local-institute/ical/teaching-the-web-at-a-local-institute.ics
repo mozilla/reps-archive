@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5775
+CLASS:PUBLIC
+DTSTAMP:20200423T150120Z
+DTSTART:20160827T103000Z
+DTEND:20160827T120000Z
+LOCATION:Pavan Nagar\, Nashik\, Nashik\, India
+SUMMARY:Teaching the Web at a local Institute
+DESCRIPTION:The audience for the session will be non-technical students an
+ d staff members. Main purpose is to educate people about the importance of
+  online privacy and the do&#39;s and don&#39;ts of t he Internet. It will be an in
+ teractive session. Agenda for the session will be: 1. Introduction to Mozi
+ lla 2. Why is Privacy important? 3. How to be secure when using Internet. 
+ 4. How to get involved with Mozilla
+URL:https://reps.mozilla.org/e/teaching-the-web-at-a-local-institute/
+SEQUENCE:1
+X-COORDINATES-LAT:19.980763356
+X-COORDINATES-LON:73.7577295286
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

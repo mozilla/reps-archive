@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8654
+CLASS:PUBLIC
+DTSTAMP:20200407T171703Z
+DTSTART:20190806T170000Z
+DTEND:20190806T210000Z
+LOCATION:Casa Hacker hackerspace\, Campinas\, Brazil
+SUMMARY:Using &amp; Testing Nightly @Casa Hacker hackerspace
+DESCRIPTION:Get engaged in tasks related to Firefox Nightly by finding and
+  filing issues early in the cycle means by the time Firefox gets to releas
+ e\, the code is in good shape.
+URL:https://reps.mozilla.org/e/using-testing-nightly-casa-hacker-hackerspa
+ ce/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.5599587312
+X-COORDINATES-LON:-46.532227993
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1010
+CLASS:PUBLIC
+DTSTAMP:20200423T212804Z
+DTSTART:20130706T120000Z
+DTEND:20130707T000000Z
+LOCATION:Facultad de Ciencias Exactas\, Naturales y Agrimensura\,  9 de Ju
+ lio 1449\, Corrientes\, Argentina
+SUMMARY:Hackaton Express NEA
+DESCRIPTION:A hackaton to create apps. This year Pablo Terradillos (Mozill
+ a Argentina community member) will go to give a talk about Firefox OS and 
+ help developers create apps.
+URL:https://reps.mozilla.org/e/hackaton-express-nea/
+SEQUENCE:3
+X-COORDINATES-LAT:-27.4708105428
+X-COORDINATES-LON:-58.798828125
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

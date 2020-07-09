@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6596
+CLASS:PUBLIC
+DTSTAMP:20200423T103529Z
+DTSTART:20170929T080000Z
+DTEND:20171001T170000Z
+LOCATION:Place de la république\, Paris\, Paris\, France
+SUMMARY:Alternatiba 2017
+DESCRIPTION:It&#39;s a city of alternative solution and numerous french open-s
+ ource software or association will be there\, for show an alternative to t
+ he proprietary software.\n\nWe will have a booth for speaking about Mozill
+ a
+URL:https://reps.mozilla.org/e/alternatiba-2015-1/
+SEQUENCE:10
+X-COORDINATES-LAT:48.8676045734
+X-COORDINATES-LON:2.36410027745
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

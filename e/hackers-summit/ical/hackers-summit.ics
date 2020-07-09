@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4070
+CLASS:PUBLIC
+DTSTAMP:20200407T174425Z
+DTSTART:20150709T030000Z
+DTEND:20150711T130000Z
+LOCATION:IIIT Hyderabad\, Hyderabad\, India
+SUMMARY:Hackers Summit
+DESCRIPTION:First ever HACKER-SUMMIT in Hyderabad! Celebrating hackers and
+  hacking. Celebrate hot tech startup founders/CTOs\, exciting talks\, open
+  source/tech thought leaders leading hacker unconferences\, deliberate on 
+ new hack technologies\, debate ethical hacking\, spot-create tech solution
+ s\, showcase recent hackathon winners and more.
+URL:https://reps.mozilla.org/e/hackers-summit/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4163053
+X-COORDINATES-LON:78.4106853
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

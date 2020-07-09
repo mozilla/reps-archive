@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5399
+CLASS:PUBLIC
+DTSTAMP:20200423T153018Z
+DTSTART:20160424T150000Z
+DTEND:20160424T173000Z
+LOCATION:Limassol Hackerspace\, Limassol\, Cyprus
+SUMMARY:cryptoparty.in/Cyprus April 2016
+DESCRIPTION:Series of discussions around privacy\, security\, encryption a
+ nd digital freedom.
+URL:https://reps.mozilla.org/e/cryptoparty-in-cyprus-april-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:34.6779672966
+X-COORDINATES-LON:33.0387482642
+X-COUNTRY-CODE:cy
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5973
+CLASS:PUBLIC
+DTSTAMP:20200423T114936Z
+DTSTART:20161028T150000Z
+DTEND:20161028T230000Z
+LOCATION:Matagalpa\, Nicaragua\, Matagalpa\, Nicaragua
+SUMMARY:Technology Fair UNAN Matagalpa
+DESCRIPTION:It is an event in which various technologies are presented and
+  conducted demonstrations for students are encouraged to participate in de
+ velopment projects in the community.
+URL:https://reps.mozilla.org/e/technology-fair-unan-matagalpa/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9238488888
+X-COORDINATES-LON:-85.9213209897
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

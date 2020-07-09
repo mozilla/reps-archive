@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7595
+CLASS:PUBLIC
+DTSTAMP:20200407T171704Z
+DTSTART:20180331T090000Z
+DTEND:20180331T130000Z
+LOCATION:Mozilla Community Space Jakarta Gedung TIFA\, ANNEX Suite Jalan K
+ uningan Barat 1 no 26 Mampang Prpt 12710 Indonesia\, Jakarta\, Indonesia
+SUMMARY:Mozilla 20th Anniversary
+DESCRIPTION:A community event to celebrate Mozilla&#39;s 20th anniversary this
+  Saturday (31 March 2018) with local mozillians and web enthusiasts in Jak
+ arta\, Indonesia.
+URL:https://reps.mozilla.org/e/mozilla-20th-anniversary/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.24261658546
+X-COORDINATES-LON:106.826465606
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@357
+CLASS:PUBLIC
+DTSTAMP:20200407T165746Z
+DTSTART:20130126T010000Z
+DTEND:20130126T080000Z
+LOCATION:Alphaland Southgate Tower\, Makati City\, Philippines
+SUMMARY:Firefox OS App Days - Manila
+DESCRIPTION:(from the event wiki)\n\nA series of App Days which will take 
+ place over the course of approx one week in ~20 locations around the world
+ .\n\nGOALS:\n~ Demonstrate grassroots developer momentum worldwide\n~ Educ
+ ate and inspire developers to work on apps and submit them to the Marketpl
+ ace\n~ Create opportunities for local developers to showcase their apps\n~
+  Drive some buzz in tech press in advance of MWC\n~ Launch the developer p
+ hone program (TBD) 
+URL:https://reps.mozilla.org/e/firefox-os-app-days-manila/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5399594525
+X-COORDINATES-LON:121.017794609
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

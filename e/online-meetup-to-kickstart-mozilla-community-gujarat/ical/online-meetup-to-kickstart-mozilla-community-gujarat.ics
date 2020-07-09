@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5088
+CLASS:PUBLIC
+DTSTAMP:20200407T182310Z
+DTSTART:20160204T163000Z
+DTEND:20160204T180000Z
+LOCATION:TBD\, Vadodara\, India
+SUMMARY:Online Meetup to Kickstart Mozilla Community Gujarat
+DESCRIPTION:The Mozilla Community Gujarat will have a kickstart meeting wh
+ erein all the new contributors will get to introduce themselves and intera
+ ct with other community members from different parts of the state. This me
+ etup will be online because all the contributors are from different cities
+  and locations.
+URL:https://reps.mozilla.org/e/online-meetup-to-kickstart-mozilla-communit
+ y-gujarat/
+SEQUENCE:2
+X-COORDINATES-LAT:22.2949731964
+X-COORDINATES-LON:73.1923770905
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

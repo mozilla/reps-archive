@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@784
+CLASS:PUBLIC
+DTSTAMP:20200423T214852Z
+DTSTART:20130427T010000Z
+DTEND:20130427T071500Z
+LOCATION:National Academy for Educational Research\, New Taipei City\, Tai
+ wan
+SUMMARY:HTML5 Track of ICOS conference
+DESCRIPTION:MozTW Community joint working with TonyQ of JavaScript.tw to b
+ ring a general introduction of HTML5 at ICOS Open Source conference / Qual
+ ity Learning conference host by Ministry of Education\, the audience conta
+ ins teacher from grade 1-12 and employee of government.
+URL:https://reps.mozilla.org/e/html5-track-of-icos-conference/
+SEQUENCE:5
+X-COORDINATES-LAT:24.936977
+X-COORDINATES-LON:121.376931
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

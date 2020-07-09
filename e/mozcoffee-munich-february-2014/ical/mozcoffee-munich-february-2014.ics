@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1839
+CLASS:PUBLIC
+DTSTAMP:20200407T175403Z
+DTSTART:20140211T180000Z
+DTEND:20140211T200000Z
+LOCATION:Starbucks Odeonsplatz\, Munich\, Germany
+SUMMARY:MozCoffee Munich February 2014
+DESCRIPTION:An informal meetup of Munich&#39;s Mozilla community.
+URL:https://reps.mozilla.org/e/mozcoffee-munich-february-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:48.1432078353
+X-COORDINATES-LON:11.5784111019
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

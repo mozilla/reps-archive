@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5874
+CLASS:PUBLIC
+DTSTAMP:20200423T145600Z
+DTSTART:20160917T043000Z
+DTEND:20160918T093000Z
+LOCATION:Panjab University\, Chandigarh\, India
+SUMMARY:Software freedom day @ Chandigarh
+DESCRIPTION:On software freedom day \, we will represent Mozilla @ Panjab 
+ University \, Chandigarh.\nAlong with the other open source communities\, 
+ like linux\, red hat\, ubuntu\, KDE\, Linux etc.\n\nWe will induce first/s
+ econd year students to get started with open source and contribute.
+URL:https://reps.mozilla.org/e/software-freedom-day-chandigarh/
+SEQUENCE:4
+X-COORDINATES-LAT:30.7045994222
+X-COORDINATES-LON:76.7673339788
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

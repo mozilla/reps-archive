@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8044
+CLASS:PUBLIC
+DTSTAMP:20200407T180042Z
+DTSTART:20181020T100000Z
+DTEND:20181020T150000Z
+LOCATION:Wennovation Hub Ibadan\, Ibadan\, Nigeria
+SUMMARY:Internet Health Report Advocacy
+DESCRIPTION:We&#39;ll be talking about Internet Health Report.\nThis is an adv
+ ocacy session that will engage major stakeholders in the core areas that a
+ re paramount to the health of the internet: Openness\, \nDigital Inclusion
+ \, \nWeb literacy\,\nPrivacy/Security and Decentralization and
+URL:https://reps.mozilla.org/e/internet-health-report-advocacy/
+SEQUENCE:7
+X-COORDINATES-LAT:7.42409165352
+X-COORDINATES-LON:3.83165359497
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

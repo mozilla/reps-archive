@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1791
+CLASS:PUBLIC
+DTSTAMP:20200423T202808Z
+DTSTART:20140210T120000Z
+DTEND:20140210T170000Z
+LOCATION:Amman-Jordan\, Amman\, Jordan
+SUMMARY:FSAs MeetUP mozcoffee
+DESCRIPTION:Meeting with FSAs to  corporate with local Community and regio
+ nal Ambassador \,also plan some events ideas \, we focus to open discussio
+ n   about Firefox Club leads \, Students working Group and Mozillians.
+URL:https://reps.mozilla.org/e/fsas-meetup-mozcoffee/
+SEQUENCE:2
+X-COORDINATES-LAT:31.0270477699
+X-COORDINATES-LON:36.5281677246
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

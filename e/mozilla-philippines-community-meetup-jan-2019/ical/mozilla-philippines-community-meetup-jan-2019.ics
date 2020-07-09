@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8326
+CLASS:PUBLIC
+DTSTAMP:20200423T084625Z
+DTSTART:20190112T060000Z
+DTEND:20190112T100000Z
+LOCATION:Canva Manila\, Makati City\, Philippines
+SUMMARY:Mozilla Philippines Community Meetup (JAN 2019)
+DESCRIPTION:To kickoff the new year\, the Mozilla Philippines Community is
+  hosting a meetup with our very special guest: Mr. Georg Fritzsche\, Mozil
+ la Engineering Manager (Firefox Telemetry).
+URL:https://reps.mozilla.org/e/mozilla-philippines-community-meetup-jan-20
+ 19/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5486032497
+X-COORDINATES-LON:121.010424611
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

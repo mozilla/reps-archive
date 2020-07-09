@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6507
+CLASS:PUBLIC
+DTSTAMP:20200423T111049Z
+DTSTART:20170507T170000Z
+DTEND:20170507T210000Z
+LOCATION:Diversion Bistro\, Mělnická 12\, Prague\, Prague\, Czech Republ
+ ic
+SUMMARY:MozBeer Prague #1
+DESCRIPTION:This will be our initial meetup to discuss the future meetups 
+ format and frequency and have some good time.
+URL:https://reps.mozilla.org/e/mozbeer-prague-1/
+SEQUENCE:4
+X-COORDINATES-LAT:50.0800879456
+X-COORDINATES-LON:14.4051088392
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

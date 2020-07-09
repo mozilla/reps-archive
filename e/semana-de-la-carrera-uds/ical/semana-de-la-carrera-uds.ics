@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@314
+CLASS:PUBLIC
+DTSTAMP:20200423T224600Z
+DTSTART:20121114T210000Z
+DTEND:20121117T000000Z
+LOCATION:Mcal. López nº 2929 esq. Gómez de Castro\, Asunción\, Paragua
+ y
+SUMMARY:Semana de la Carrera UDS
+DESCRIPTION:La Universidad de Desarrollo Sustentable del Paraguay lleva a 
+ cabo la semana de ingenieria con el fin de dar charlas sobre las nuevas te
+ cnologias
+URL:https://reps.mozilla.org/e/semana-de-la-carrera-uds/
+SEQUENCE:0
+X-COORDINATES-LAT:-25.2908159858
+X-COORDINATES-LON:-57.5870811939
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

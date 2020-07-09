@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5509
+CLASS:PUBLIC
+DTSTAMP:20200407T181627Z
+DTSTART:20160604T153000Z
+DTEND:20160604T170000Z
+LOCATION:Online\, Ujjain\, India
+SUMMARY:UR Localization Sync Up Meet
+DESCRIPTION:An online hangout with the localization team to set Quarterly 
+ goals and work on the pending tasks. Train newbies\, sort out problems whi
+ ch folks are getting while doing the translation.
+URL:https://reps.mozilla.org/e/ur-localization-sync-up-meet/
+SEQUENCE:2
+X-COORDINATES-LAT:22.7636317
+X-COORDINATES-LON:75.8828139
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

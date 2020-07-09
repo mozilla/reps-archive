@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1945
+CLASS:PUBLIC
+DTSTAMP:20200423T194745Z
+DTSTART:20140520T070000Z
+DTEND:20140521T160000Z
+LOCATION:CNIT Paris la Défense - Hall Marie Curie\, Courbevoie\, France
+SUMMARY:Salon Solutions Linux
+DESCRIPTION:The &#34;Salon Solutions Libres et Open Source&#34; is a very importan
+ t FOSS event in France. The fair will host in 2014 nearly 6000 visitors an
+ d 180 exhibitors / partners for two days.\nThis 16th edition will brings t
+ ogether leading names in the computer but also start-ups.\nWe will hold a 
+ booth\, as we always do\, speaking about Mozilla and especially Firefox OS
+  !
+URL:https://reps.mozilla.org/e/salon-solutions-linux/
+SEQUENCE:6
+X-COORDINATES-LAT:48.8926977749
+X-COORDINATES-LON:2.23938310111
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2634
+CLASS:PUBLIC
+DTSTAMP:20200423T191840Z
+DTSTART:20140803T150000Z
+DTEND:20140803T170000Z
+LOCATION:#WebmakerIndia mozilla[webirc]\, online\, India
+SUMMARY:Makerparty IRC WebmakerIndia
+DESCRIPTION:This online maker paty will help Collaborate\, Make\, Share\, 
+ Learn\, Teach and Hack over IRC using webmaker tools. Work with other peop
+ le remotely\, Make something Awesome and Help beginners and spread Web Lit
+ eracy. Come up with an idea of what you want to make and we will help u to
+  make it a reality using the power of TogetherJS. Time: 3:00PM IST Locatio
+ n: #WebmakerIndia
+URL:https://reps.mozilla.org/e/makerparty-irc-webmakerindia/
+SEQUENCE:3
+X-COORDINATES-LAT:19.9458133481
+X-COORDINATES-LON:74.8242115974
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@493
+CLASS:PUBLIC
+DTSTAMP:20200407T165704Z
+DTSTART:20130223T031500Z
+DTEND:20130224T121500Z
+LOCATION:Yak &amp; Yeti\, Kathmandu\, Nepal
+SUMMARY:Mozilla South Asia 2013
+DESCRIPTION:The Mozilla South Asia meetup will bring together community le
+ aders from the South Asia\, including paid staff from across the world\, t
+ o meet for 3 days of presentations\, breakout sessions and discussions foc
+ used on operations &amp; roadmap planning for each existing local communities 
+ of the SAARC nations for 2013 and ensure that the regional community is fu
+ lly aligned with greater engagement efforts across the Mozilla organizatio
+ n.
+URL:https://reps.mozilla.org/e/mozilla-south-asia-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:27.7120738839
+X-COORDINATES-LON:85.3205537796
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

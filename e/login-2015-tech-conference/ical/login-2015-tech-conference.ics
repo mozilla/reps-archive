@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3777
+CLASS:PUBLIC
+DTSTAMP:20200423T172653Z
+DTSTART:20150507T060000Z
+DTEND:20150508T150000Z
+LOCATION:Litexpo\, Vilnius\, Lithuania
+SUMMARY:Login 2015 (tech conference)
+DESCRIPTION:LOGIN is the largest gathering of internet and tech community 
+ in the Baltic States. In 2015 we are expecting more than 100 speakers and 
+ 4 000 participants from Lithuania and all over the world. But LOGIN is mor
+ e than just a conference! We take the opportunity to introduce all LOGIN p
+ articipants to the brightest upcoming tendencies through various workshops
+ \, seminars and competitions. Besides\, LOGIN is the place where old frien
+ ds meet and new relationships are built.
+URL:https://reps.mozilla.org/e/login-2015-tech-conference/
+SEQUENCE:4
+X-COORDINATES-LAT:54.6787305897
+X-COORDINATES-LON:25.2253782745
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

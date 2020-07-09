@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@459
+CLASS:PUBLIC
+DTSTAMP:20200423T221242Z
+DTSTART:20130206T170000Z
+DTEND:20130210T170000Z
+LOCATION:Centro Convenciones Tunja\, Tunja\, Colombia
+SUMMARY:Boya.ca powered by Campus Party
+DESCRIPTION:Boya.ca is a technological event focused in mobile devices\, t
+ his will be from february 6 - 10\, in the conventions center in Tunja - Co
+ lombia\, this  meet around 450\, entrepeneurs \, developers\,companies and
+  media\, from all the country. \nThis will be the first version of Boya.ca
+  and the most bigger about mobile devices in Colombia. We have a talk and 
+ a workshop planned to this event.\n
+URL:https://reps.mozilla.org/e/boya-ca-powered-by-campus-party/
+SEQUENCE:0
+X-COORDINATES-LAT:5.54303369165
+X-COORDINATES-LON:-73.3608627319
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@61
+CLASS:PUBLIC
+DTSTAMP:20200423T230401Z
+DTSTART:20120912T210000Z
+DTEND:20120913T000000Z
+LOCATION:Universidad Americana\, Ciudad del Este\, Paraguay
+SUMMARY:LibraBus Paraguay
+DESCRIPTION:LibreBus is a project born in Central America in order to gene
+ rate dialogue between different communities of software and free culture\,
+  share experiences and strengthen regional networks. In May 2011\, thirtee
+ n activists linked to the free culture movement (knowledge\, software\, ar
+ t\, biodiversity) and experienced in using ICT for advocacy and freedom of
+  expression\, traveled aboard a bus\, touring Costa Rica\, Nicaragua\, Hon
+ duras\, \nNOTE: exists a swags request associated Bug 777234
+URL:https://reps.mozilla.org/e/librabus-paraguay/
+SEQUENCE:0
+X-COORDINATES-LAT:-25.5199811513
+X-COORDINATES-LON:-54.6146249771
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

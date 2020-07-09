@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8890
+CLASS:PUBLIC
+DTSTAMP:20200407T170215Z
+DTSTART:20200118T043000Z
+DTEND:20200118T073000Z
+LOCATION:Swecha Office\, Hyderabad\, India
+SUMMARY:Global Diversity CFP Day 2020 - Hyderabad
+DESCRIPTION:The workshop will have experienced speakers on hand to:\n- giv
+ e you a warm\, inclusive welcome in a safe space (check out our Code of Co
+ nduct which all participants must adhere to)\n- mentor you with your propo
+ sal\n- provide speaking advice\n- and share their enthusiasm to get you to
+  the stage!
+URL:https://reps.mozilla.org/e/global-diversity-cfp-day-2020-hyderabad/
+SEQUENCE:0
+X-COORDINATES-LAT:17.4357128457
+X-COORDINATES-LON:78.35931015
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1097
+CLASS:PUBLIC
+DTSTAMP:20200407T173725Z
+DTSTART:20130824T140000Z
+DTEND:20130824T233000Z
+LOCATION:University Ibague - COR\, Ibague\, Colombia
+SUMMARY:FirefoxOS App Days Ibague
+DESCRIPTION:This event has as a goal\, bringing together students\, teache
+ rs and developers in one of the best universities in the city with one goa
+ l\, learn how to build an application for firefoxOS and help spread the ea
+ sy and comfortable which is creating applications with technologies with H
+ TML5. This is a one day event\, is give attendees all the necessary elemen
+ ts included Colombian cuisine\, to begin their development in time. We wan
+ t that many apps are created in Firefox OS market.
+URL:https://reps.mozilla.org/e/firefoxos-app-days-ibague/
+SEQUENCE:26
+X-COORDINATES-LAT:4.41761365366
+X-COORDINATES-LON:-75.1849365234
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

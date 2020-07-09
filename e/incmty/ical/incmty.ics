@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4800
+CLASS:PUBLIC
+DTSTAMP:20200407T174238Z
+DTSTART:20151120T060000Z
+DTEND:20151122T060000Z
+LOCATION:Cintermex / Tecnológico de Monterrey\, Monterrey\, Mexico
+SUMMARY:INCmty
+DESCRIPTION:INCmty is an unparalleled entrepreneurship festival in Latin A
+ merica where entrepreneurs\, innovators\, investors and organisms from the
+  entrepreneurial scene gather\, learn\, network and launch initiatives.
+URL:https://reps.mozilla.org/e/incmty/
+SEQUENCE:1
+X-COORDINATES-LAT:25.6784090241
+X-COORDINATES-LON:-100.288034678
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

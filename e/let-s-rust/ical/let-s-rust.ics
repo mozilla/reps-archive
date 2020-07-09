@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6411
+CLASS:PUBLIC
+DTSTAMP:20200423T105119Z
+DTSTART:20170728T033000Z
+DTEND:20170728T113000Z
+LOCATION:CMRIT\, Hyderabad\, Hyderabad\, India
+SUMMARY:Let&#39;s Rust
+DESCRIPTION:Rust is a new systems programming language sponsored by Mozill
+ a. This event is to train developers\, students\, mozillians and budding p
+ rogrammers on Rust. Never written a single line of code in Rust? Don’t w
+ orry\, most of us are just starting off.
+URL:https://reps.mozilla.org/e/let-s-rust/
+SEQUENCE:10
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

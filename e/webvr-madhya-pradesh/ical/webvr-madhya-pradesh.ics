@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8765
+CLASS:PUBLIC
+DTSTAMP:20200407T171652Z
+DTSTART:20200225T053000Z
+DTEND:20200225T093000Z
+LOCATION:Radharaman Institute of Technology &amp; Science Bhopal\, Bhopal\, In
+ dia
+SUMMARY:WebVR @Madhya Pradesh
+DESCRIPTION:This workshop will introduce participants to VR and WebVR. Spe
+ aker will also introduce various frameworks around WebVR.This event is for
+  participants who already know HTML.
+URL:https://reps.mozilla.org/e/webvr-madhya-pradesh/
+SEQUENCE:7
+X-COORDINATES-LAT:23.2712065579
+X-COORDINATES-LON:77.4252318218
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

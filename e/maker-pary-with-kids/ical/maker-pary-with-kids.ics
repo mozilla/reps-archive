@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1048
+CLASS:PUBLIC
+DTSTAMP:20200423T213010Z
+DTSTART:20130630T123000Z
+DTEND:20130630T143000Z
+LOCATION:Meraj Imran&#39;s Residence\, Warangal\, India
+SUMMARY:Maker Party with Kids
+DESCRIPTION:This event helps kids know about history of Fort Warangal and 
+ to make a popcorn video on it.!!
+URL:https://reps.mozilla.org/e/maker-pary-with-kids/
+SEQUENCE:2
+X-COORDINATES-LAT:17.9772635753
+X-COORDINATES-LON:79.6031570435
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

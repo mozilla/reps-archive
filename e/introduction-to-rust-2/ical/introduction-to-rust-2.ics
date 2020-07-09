@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7222
+CLASS:PUBLIC
+DTSTAMP:20200423T102314Z
+DTSTART:20171020T230000Z
+DTEND:20171021T010000Z
+LOCATION:CINDEHU\, Villahermosa\, Mexico
+SUMMARY:Introduction to Rust
+DESCRIPTION:Rust is a systems programming language sponsored by Mozilla. T
+ his event is part of the activities organized by the Rust community in Mex
+ ico. This event is aim to introduce Rust to students and professionals int
+ erested in knowing new technologies.
+URL:https://reps.mozilla.org/e/introduction-to-rust-2/
+SEQUENCE:2
+X-COORDINATES-LAT:17.990143
+X-COORDINATES-LON:-92.9462802
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

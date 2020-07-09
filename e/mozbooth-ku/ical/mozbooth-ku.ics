@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2024
+CLASS:PUBLIC
+DTSTAMP:20200407T182012Z
+DTSTART:20140315T050000Z
+DTEND:20140315T080000Z
+LOCATION:Kakatiya University\, Hanamkonda\, India
+SUMMARY:MozBooth@KU
+DESCRIPTION:A mozilla booth at a college fest\,where students who come to 
+ attend the fest from various colleges will get to know about the mission a
+ nd vision of mozilla and open source.
+URL:https://reps.mozilla.org/e/mozbooth-ku/
+SEQUENCE:1
+X-COORDINATES-LAT:17.9935012632
+X-COORDINATES-LON:79.5658835
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

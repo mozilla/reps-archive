@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4902
+CLASS:PUBLIC
+DTSTAMP:20200423T160257Z
+DTSTART:20151216T081000Z
+DTEND:20151216T093000Z
+LOCATION:Urumqi tenth primary school\, Urumqi\, China
+SUMMARY:Firefox Tianshan tour-  Students learn hands-on creation
+DESCRIPTION:After four lesson study\, students will become familiar with s
+ cratch panel layout\, the use of roles\, the code runs\, individual smart 
+ kids can have a bigger independent producers can interact with a small ani
+ mation\, and watch the progress of students school that the requirements o
+ f the school is to allow us to help students at the end when there is work
+  out our own requirements is to allow students to help teachers create a s
+ imple English dictation software
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-how-to-use-firefox-le
+ arn-a-foreign-language/
+SEQUENCE:1
+X-COORDINATES-LAT:43.7723327422
+X-COORDINATES-LON:2607.62314045
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

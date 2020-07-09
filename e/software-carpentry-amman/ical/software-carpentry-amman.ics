@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2401
+CLASS:PUBLIC
+DTSTAMP:20200407T181610Z
+DTSTART:20140616T060000Z
+DTEND:20140617T010000Z
+LOCATION:31.956578\,35.945695\, amman\, Jordan
+SUMMARY:software carpentry amman
+DESCRIPTION:Software Carpentry&#39;s mission is to help scientists and enginee
+ rs become more productive by teaching them basic lab skills for computing 
+ like program design\, version control\, data management\, and task automat
+ ion. This two-day hands-on bootcamp will cover basic concepts and tools\; 
+ participants will be encouraged to help one another and to apply what they
+  have learned to their own research problems. \n\nInstructors: Luis Pedro 
+ Coelho\, Marios Isaakidis
+URL:https://reps.mozilla.org/e/software-carpentry-amman/
+SEQUENCE:2
+X-COORDINATES-LAT:32.2790733091
+X-COORDINATES-LON:35.9133853856
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

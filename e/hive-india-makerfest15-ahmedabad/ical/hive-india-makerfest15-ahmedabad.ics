@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2933
+CLASS:PUBLIC
+DTSTAMP:20200407T175042Z
+DTSTART:20150110T090000Z
+DTEND:20150111T160000Z
+LOCATION:Ahmedabad\, Ahmedabad\, India
+SUMMARY:Hive India Makerfest&#39;15 Ahmedabad
+DESCRIPTION:Hive India in collaboration with Makerfest&#39;15.
+URL:https://reps.mozilla.org/e/hive-india-makerfest15-ahmedabad/
+SEQUENCE:2
+X-COORDINATES-LAT:22.470686109
+X-COORDINATES-LON:72.1910092235
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

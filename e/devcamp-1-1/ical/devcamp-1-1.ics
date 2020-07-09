@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6580
+CLASS:PUBLIC
+DTSTAMP:20200407T174136Z
+DTSTART:20170805T023000Z
+DTEND:20170805T133000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Devcamp 1.1
+DESCRIPTION:A developer community boot-camp in Hyderabad gathering partici
+ pants from In and around Hyderabad\, India to work and spread the word abo
+ ut Rust\, Web Compatibility &amp; Campus Program.
+URL:https://reps.mozilla.org/e/devcamp-1-1/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4225511539
+X-COORDINATES-LON:78.4077858916
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

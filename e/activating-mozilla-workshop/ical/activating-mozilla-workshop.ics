@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6592
+CLASS:PUBLIC
+DTSTAMP:20200407T175531Z
+DTSTART:20170826T043000Z
+DTEND:20170827T123000Z
+LOCATION:Runwal Garden City Club House\, Thane\, Mumbai\, India
+SUMMARY:Activating Mozilla Workshop
+DESCRIPTION:This is a two days workshop which will be held in Mumbai for a
+ ll the passionate students/graduates and workers\, who have been actively 
+ participating and attending weekly calls for having hands on and learning 
+ in depth. This workshop is for upgrading their skill sets to contribute.
+URL:https://reps.mozilla.org/e/activating-mozilla-workshop/
+SEQUENCE:6
+X-COORDINATES-LAT:19.23054
+X-COORDINATES-LON:72.98436
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

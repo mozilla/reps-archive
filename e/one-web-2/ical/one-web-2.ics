@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5876
+CLASS:PUBLIC
+DTSTAMP:20200423T145154Z
+DTSTART:20161002T103000Z
+DTEND:20161002T133000Z
+LOCATION:IISER Kolkata\, Nadia\, India
+SUMMARY:One Web
+DESCRIPTION:One web - an Initiative by Mozilla Kolkata Community: This eve
+ nt is jointly planned by Mozilla India and an NGO &#39;Ek Pahel&#39;
+URL:https://reps.mozilla.org/e/one-web-2/
+SEQUENCE:3
+X-COORDINATES-LAT:22.5441636314
+X-COORDINATES-LON:88.5006866511
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

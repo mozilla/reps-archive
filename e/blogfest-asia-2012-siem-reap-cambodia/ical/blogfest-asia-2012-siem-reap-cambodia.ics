@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@218
+CLASS:PUBLIC
+DTSTAMP:20200423T224949Z
+DTSTART:20121101T010000Z
+DTEND:20121104T110000Z
+LOCATION:Phum Viheachen\, Svay Dangkum Commune\, Siem Reap\, Siem Reap\, C
+ ambodia
+SUMMARY:BlogFest Asia 2012 (Siem Reap\, Cambodia)
+DESCRIPTION:Blogfest.asia is a festival for bloggers in Asia.\n\nThis is t
+ he region’s 3rd cross-border gathering for blogger community. Everyone i
+ s welcome to join the festival and meet hundreds of bloggers from the neig
+ hborhood community. Participants will be able to learn blogger / blogging 
+ activities in respective countries / territories\, and interact with key b
+ loggers in Asia.\n\n
+URL:https://reps.mozilla.org/e/blogfest-asia-2012-siem-reap-cambodia/
+SEQUENCE:0
+X-COORDINATES-LAT:19.020577111
+X-COORDINATES-LON:103.051757812
+X-COUNTRY-CODE:kh
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6294
+CLASS:PUBLIC
+DTSTAMP:20200423T113107Z
+DTSTART:20170207T063000Z
+DTEND:20170207T083000Z
+LOCATION:Government Engineering College\, Shamlaji Road\, Aravali District
+ \, Modasa\, Gujarat 383315\, Modasa\, India
+SUMMARY:Privacy &amp; Security Workshop At GEC Modasa
+DESCRIPTION:Privacy awareness workshop for the Engineering students. This 
+ event comes under the global #PrivacyMonth . Agenda is simple making stude
+ nts and staff aware about the rich Privacy Features of Firefox desktop and
+  Mobile.
+URL:https://reps.mozilla.org/e/privacy-workshop-at-gec-modasa/
+SEQUENCE:5
+X-COORDINATES-LAT:22.8409961653
+X-COORDINATES-LON:71.6059577465
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

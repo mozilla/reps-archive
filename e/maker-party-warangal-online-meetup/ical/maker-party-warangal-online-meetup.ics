@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4218
+CLASS:PUBLIC
+DTSTAMP:20200423T165843Z
+DTSTART:20150726T083000Z
+DTEND:20150726T103000Z
+LOCATION:Online\, Warangal\, India
+SUMMARY:Maker Party Warangal Online Meetup
+DESCRIPTION:An Online Meetup where the mozillians from Warangal will discu
+ ss the plans of hosting the maker parties in Warangal Region. Recruiting n
+ ew Contributors in the Community and helping them to kickstart the contrib
+ ution in mozilla.
+URL:https://reps.mozilla.org/e/maker-party-warangal-online-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:18.3944927534
+X-COORDINATES-LON:78.7683100998
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

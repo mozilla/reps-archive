@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3945
+CLASS:PUBLIC
+DTSTAMP:20200423T164752Z
+DTSTART:20150829T140000Z
+DTEND:20150829T190000Z
+LOCATION:Av. Américo Vespucio 974\, Maipú\, Maipú\, Chile
+SUMMARY:Taller de Mozilla Stumbler
+DESCRIPTION:We will have a GeoLocation Sprint where we will talk about the
+  Mozilla Location Service. Contribute to Mozilla and free and open project
+ s introduction to stumbling tools that bring knowledge to participants on 
+ how to gather geolocation information in their cities. After which\, parti
+ cipants will gather information and upload it to the mozilla servers
+URL:https://reps.mozilla.org/e/taller-de-mozilla-stumbler/
+SEQUENCE:1
+X-COORDINATES-LAT:-33.4804609461
+X-COORDINATES-LON:-70.7559084901
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

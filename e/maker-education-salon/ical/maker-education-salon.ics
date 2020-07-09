@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3664
+CLASS:PUBLIC
+DTSTAMP:20200407T174313Z
+DTSTART:20150304T030000Z
+DTEND:20150304T050000Z
+LOCATION:Mozilla YVR\, Vancouver\, Canada
+SUMMARY:Maker Education Salon
+DESCRIPTION:A joint production of the Vancouver Mozilla Hive Learning Netw
+ ork and Maker Foundation
+URL:https://reps.mozilla.org/e/maker-education-salon/
+SEQUENCE:0
+X-COORDINATES-LAT:49.1948675152
+X-COORDINATES-LON:-123.000000045
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

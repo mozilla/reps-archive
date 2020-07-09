@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5945
+CLASS:PUBLIC
+DTSTAMP:20200423T115006Z
+DTSTART:20161026T033000Z
+DTEND:20161026T123000Z
+LOCATION:Kaghaznagar Institute of Computers \,\, Sirpur Kaghaznagar\, Indi
+ a
+SUMMARY:Internet of Things &amp; MozActivate at Kaghaznagar
+DESCRIPTION:1. Session on Web Literacy and Open Web.\n2. Briefing about Mo
+ zillaVR \n3. IoT which creates on-the-spot teams of technologists to shape
+  the next generation of the connected internet. \n4.The Internet of Things
+  (IoT) is a system of interrelated computing devices\, mechanical and digi
+ tal machines\, objects\, animals or people that are provided with unique i
+ dentifiers and the ability to transfer data over a network without requiri
+ ng human-to-human or human-to-computer interaction.
+URL:https://reps.mozilla.org/e/internet-of-things-mozactivate-at-kaghaznag
+ ar/
+SEQUENCE:3
+X-COORDINATES-LAT:19.36097872
+X-COORDINATES-LON:79.4605636457
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

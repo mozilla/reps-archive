@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3665
+CLASS:PUBLIC
+DTSTAMP:20200423T173038Z
+DTSTART:20150424T070000Z
+DTEND:20150424T190000Z
+LOCATION:Podjetniški inkubator Podbreznik\, Podbreznik 15\, Novo mesto\, 
+ Slovenia
+SUMMARY:Open Way
+DESCRIPTION:Open Way is the biggest non-profit Open Source conference in S
+ lovenia organized by community for community. Aim of this event is to prom
+ ote software freedom\, open knowledge and Open Source mentality in differe
+ nt areas. \n\nThis event has 5 years long tradition. I&#39;m one of the organi
+ zers of this event. We will promote Mozilla in general\, showcase Firefox 
+ OS devices and also have Web development related workshops in Mozilla Spac
+ e Novo mesto.
+URL:https://reps.mozilla.org/e/open-way-1/
+SEQUENCE:6
+X-COORDINATES-LAT:45.8211434008
+X-COORDINATES-LON:14.7244262695
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

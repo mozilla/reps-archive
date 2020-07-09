@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@245
+CLASS:PUBLIC
+DTSTAMP:20200423T224533Z
+DTSTART:20121117T100000Z
+DTEND:20121117T180000Z
+LOCATION:Starbucks Cluj\, Cluj-Napoca\, Romania
+SUMMARY:Monthly l10n Sprint
+DESCRIPTION:During the Summer Code campaign we had a few localizers presen
+ t which showed an interest in doing that more. So we decided to create a m
+ onthly sprint for them to meet and work/review together. This being our fi
+ rst sprint\, we want to make it special. We&#39;ll be translating together SUM
+ O KB articles in a comfortable room in a local Cafe.
+URL:https://reps.mozilla.org/e/monthly-l10n-sprint/
+SEQUENCE:0
+X-COORDINATES-LAT:46.771877
+X-COORDINATES-LON:23.625841
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

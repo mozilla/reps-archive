@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3702
+CLASS:PUBLIC
+DTSTAMP:20200407T181538Z
+DTSTART:20150327T200000Z
+DTEND:20150328T000000Z
+LOCATION:TBD\, Buenos Aires\, Argentina
+SUMMARY:Testday in Spanish for LATAM and Spain
+DESCRIPTION:The idea is to do mentoring so the people joining learn conten
+ ts that will help them contribute more efficiently with Mozilla QA.\nThe m
+ ain difference with testdays is it will be in Spanish to favor Spanish and
+  Latinamerican users.\nIn this case\, I will coordinate with Yunito&#39;s help
+ . Yunito is a long time Hispano QA contributor. We will teach the followin
+ g:\nHow to enable safe mode (me)\nHow to create different Firefox profiles
+  and work with them (me)\nHow to run a Moztrap testcase (Yunito)
+URL:https://reps.mozilla.org/e/testday-in-spanish-for-latam-and-spain/
+SEQUENCE:1
+X-COORDINATES-LAT:-34.6940524463
+X-COORDINATES-LON:-58.4128421545
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

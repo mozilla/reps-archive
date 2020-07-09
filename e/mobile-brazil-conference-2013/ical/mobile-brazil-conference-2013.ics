@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1134
+CLASS:PUBLIC
+DTSTAMP:20200423T211112Z
+DTSTART:20130914T110000Z
+DTEND:20130914T230000Z
+LOCATION:Espaço de eventos nós coworking\, Porto Alegre\, Brazil
+SUMMARY:Mobile Brazil Conference 2013
+DESCRIPTION:Small tech conference in Brazil about new mobile technologies.
+  It covers new HTML5 based platforms and toolkits.
+URL:https://reps.mozilla.org/e/mobile-brazil-conference-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.5937260639
+X-COORDINATES-LON:-45.0
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

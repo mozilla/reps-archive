@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@747
+CLASS:PUBLIC
+DTSTAMP:20200407T181128Z
+DTSTART:20130418T203000Z
+DTEND:20130418T223000Z
+LOCATION:American International University Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Firefox OS Hack Session @ AIUB
+DESCRIPTION:* Introduction to Firefox OS\n* Understanding Gaia\, Gonk &amp; Ge
+ cko\n* Building &amp; Installing Firefox OS\n* Writing apps for Firefox OS
+URL:https://reps.mozilla.org/e/firefox-os-hack-session-1/
+SEQUENCE:9
+X-COORDINATES-LAT:23.794264
+X-COORDINATES-LON:90.405469
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

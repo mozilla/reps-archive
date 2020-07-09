@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2490
+CLASS:PUBLIC
+DTSTAMP:20200407T175116Z
+DTSTART:20140830T133000Z
+DTEND:20140830T213000Z
+LOCATION:TBD\, El Tigre\, Venezuela
+SUMMARY:Webmaker Party El Tigre
+DESCRIPTION:the event will be attended by students who are beginning the c
+ areer of computer engineering at the local university. These people undert
+ ake websites with Webmaker tool and making videos with popcorn\, then the 
+ pages will be uploaded to great webmaker. This event is the first  webmake
+ r party in Venezuela
+URL:https://reps.mozilla.org/e/webmaker-party-el-tigre/
+SEQUENCE:11
+X-COORDINATES-LAT:8.883495
+X-COORDINATES-LON:-64.2387398
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

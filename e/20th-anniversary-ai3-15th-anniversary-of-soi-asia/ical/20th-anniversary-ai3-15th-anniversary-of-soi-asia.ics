@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5759
+CLASS:PUBLIC
+DTSTAMP:20200423T145923Z
+DTSTART:20160906T020000Z
+DTEND:20160906T094500Z
+LOCATION:Aula Timur ITB\, Bandung\, Indonesia
+SUMMARY:20th Anniversary AI3 &amp; 15th Anniversary of SOI Asia
+DESCRIPTION:After twenty years\, Bandung Institute of Technology wants to 
+ commemorate the historic moment\, the events\, the 20th anniversary of the
+  Internet network at the Bandung Institute of Technology was named &#34;20th A
+ nniversary Internet in ITB&#34; in conjunction with the anniversary of the 20t
+ h anniversary of AI3 network and 15th anniversary of SOI-ASIA network.\n\n
+ In this event\, Mozilla Indonesia is invited to hold a workshop and become
+  a speaker on a panel discussion about the future of the Internet.
+URL:https://reps.mozilla.org/e/20th-anniversary-ai3-15th-anniversary-of-so
+ i-asia/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.89245219333
+X-COORDINATES-LON:107.61098814
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

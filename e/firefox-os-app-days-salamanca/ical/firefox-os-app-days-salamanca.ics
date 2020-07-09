@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@822
+CLASS:PUBLIC
+DTSTAMP:20200423T214556Z
+DTSTART:20130506T140000Z
+DTEND:20130506T180000Z
+LOCATION:Universidad Pontificia de Salamanca\, Salamanca\, Spain
+SUMMARY:Firefox OS App Days Salamanca
+DESCRIPTION:Firefox OS App Day in Salamanca in collaboration with Telefoni
+ ca Digital and the University of Salamanca
+URL:https://reps.mozilla.org/e/firefox-os-app-days-salamanca/
+SEQUENCE:3
+X-COORDINATES-LAT:40.9630162926
+X-COORDINATES-LON:-5.66692829132
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@149
+CLASS:PUBLIC
+DTSTAMP:20200423T225302Z
+DTSTART:20121019T000000Z
+DTEND:20121019T090000Z
+LOCATION:RECS Village\, Brgy. Bubukal Sta.Cruz\, Laguna\, Laguna\, Philipp
+ ines
+SUMMARY:Mozilla Campus Tour Laguna University
+DESCRIPTION:A whole day event introducing the presence of Mozilla in the P
+ hilippines with break out session of Mozilla technologies and open source 
+ project. 
+URL:https://reps.mozilla.org/e/mozilla-campus-tour-laguna-university/
+SEQUENCE:0
+X-COORDINATES-LAT:14.2569171595
+X-COORDINATES-LON:121.400406361
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

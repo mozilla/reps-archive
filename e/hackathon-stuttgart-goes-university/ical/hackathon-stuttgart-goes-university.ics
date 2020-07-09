@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3112
+CLASS:PUBLIC
+DTSTAMP:20200423T182346Z
+DTSTART:20141128T170000Z
+DTEND:20141130T170000Z
+LOCATION:Hochschule der Medien Stuttgart\, Nobelstraße 10\, 70569 Stuttga
+ rt-Vaihingen\, Stuttgart\, Germany
+SUMMARY:Hackathon Stuttgart goes University
+DESCRIPTION:From their website: &#34;The goal is to create a Webapp\, Mobileap
+ p\, Game or Service in 22 h which has something to do with the motto &#34;Stud
+ y smart&#34;. The languages will be German and English. Students from all Univ
+ ersities are welcome. Coder and Designer are needed to realized the projec
+ ts\, people which define theirselfs between are welcome too.&#34;
+URL:https://reps.mozilla.org/e/hackathon-stuttgart-goes-university/
+SEQUENCE:2
+X-COORDINATES-LAT:48.7458844966
+X-COORDINATES-LON:9.10788345267
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6776
+CLASS:PUBLIC
+DTSTAMP:20200407T174239Z
+DTSTART:20170930T080000Z
+DTEND:20170930T180000Z
+LOCATION:Innovation Hub Tirana\, Tirana\, Albania
+SUMMARY:Crypto Party Tirana 2017
+DESCRIPTION:CryptoParties are free and open for everyone\, but especially 
+ ​those without prior knowledge\, who haven&#39;t yet attended one.\n\nThe go
+ al is to pass on knowledge about protecting yourself in the digital space.
+  This can include encrypted communication\, preventing being tracked while
+  browsing the web\, and general security advice regarding computers and sm
+ artphones.\n\nWe will show you how to use Firefox and Tor with various set
+ tings to protect yourself on the interwebs.
+URL:https://reps.mozilla.org/e/crypto-party/
+SEQUENCE:3
+X-COORDINATES-LAT:41.3219800037
+X-COORDINATES-LON:19.8224133251
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

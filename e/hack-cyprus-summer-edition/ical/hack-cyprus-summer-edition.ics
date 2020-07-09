@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2447
+CLASS:PUBLIC
+DTSTAMP:20200423T193120Z
+DTSTART:20140628T060000Z
+DTEND:20140629T150000Z
+LOCATION:Cyprus University of Technology\, Limassol\, Cyprus
+SUMMARY:hack{cyprus} summer edition
+DESCRIPTION:hack{cyprus} strikes back for a summer edition of their awesom
+ e hackathons\, featured as one of the best European tech events in Techcru
+ nch. Put your hacking hat on and join 90+ creative developers\, designers 
+ and ideators for 30 hours of hacking\, designing\, tinkering and general m
+ aking of awesome things – web\, mobile\, hardware\, anything goes.
+URL:https://reps.mozilla.org/e/hack-cyprus-summer-edition/
+SEQUENCE:4
+X-COORDINATES-LAT:34.6759313649
+X-COORDINATES-LON:33.0450128319
+X-COUNTRY-CODE:cy
+END:VEVENT
+
+END:VCALENDAR

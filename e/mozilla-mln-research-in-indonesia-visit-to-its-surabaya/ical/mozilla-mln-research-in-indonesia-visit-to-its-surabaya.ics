@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4598
+CLASS:PUBLIC
+DTSTAMP:20200423T163410Z
+DTSTART:20151001T090000Z
+DTEND:20151001T100000Z
+LOCATION:Faculty of Information Technology\, Institut Teknologi Sepuluh No
+ pember\, Surabaya\, Indonesia
+SUMMARY:Mozilla MLN Research in Indonesia: Visit to ITS Surabaya
+DESCRIPTION:A research related to Mozilla Learning Network in Indonesia.  
+ \nThe visit and interview is part of research conducted by Mozilla Foundat
+ ion. The research team are Laura de Reynal (London) and Bobby Richter (Tor
+ onto)\n\nThis is part of research take place in Institut Teknologi Sepuluh
+  Nopember in Surabaya. We visit their Faculty of Information Technology to
+  give public lecture\, meet with students and interview one of the lecture
+ rs.
+URL:https://reps.mozilla.org/e/mozilla-mln-research-in-indonesia-visit-to-
+ its-surabaya/
+SEQUENCE:4
+X-COORDINATES-LAT:-7.24715456554
+X-COORDINATES-LON:112.791771412
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

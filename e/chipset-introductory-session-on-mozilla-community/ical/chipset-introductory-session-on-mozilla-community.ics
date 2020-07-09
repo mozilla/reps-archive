@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3877
+CLASS:PUBLIC
+DTSTAMP:20200407T175344Z
+DTSTART:20150704T043000Z
+DTEND:20150704T113000Z
+LOCATION:SRM UNIVERSITY - RAMAPURAM\, Chennai\, India
+SUMMARY:CHiPSET - Introductory session on Mozilla
+DESCRIPTION:This event is on introductory session on how to start contribu
+ ting to Mozilla in SRM UNIVERSITY - Ramapuram campus. This event concentra
+ tes more on contributing to Mozilla Location Service \, SuMo and few other
+  contribution areas. Initiating an FSA club in their college and guiding t
+ hem.This event ll give a good idea to students on getting started.
+URL:https://reps.mozilla.org/e/chipset-introductory-session-on-mozilla-com
+ munity/
+SEQUENCE:7
+X-COORDINATES-LAT:13.0279589124
+X-COORDINATES-LON:80.1685810054
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

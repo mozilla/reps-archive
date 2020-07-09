@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1940
+CLASS:PUBLIC
+DTSTAMP:20200407T174204Z
+DTSTART:20140425T170000Z
+DTEND:20140427T180000Z
+LOCATION:16 Boulevard Montmartre\, Paris\, France
+SUMMARY:Locasprint
+DESCRIPTION:More and more localization tasks\, more and more volunteers wh
+ o want to contribute\, but need to be taught how it works. This is the aim
+  of this event made to strenghten the links between localizers\, and to in
+ crease the number of members in each team. All kind of localization will b
+ e represented.\nThis event is connected with the Sumo Australis Sprint.
+URL:https://reps.mozilla.org/e/locasprint/
+SEQUENCE:10
+X-COORDINATES-LAT:48.8719078103
+X-COORDINATES-LON:2.34069254999
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

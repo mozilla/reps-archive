@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1217
+CLASS:PUBLIC
+DTSTAMP:20200423T211446Z
+DTSTART:20130831T063000Z
+DTEND:20130831T093000Z
+LOCATION:TBD\, Nasik\, India
+SUMMARY:Nasik Webmakers
+DESCRIPTION:The Nashik Webmaker chapter takes its next steps forward with 
+ this event. Participants will learn\, Interact and share the web. Informat
+ ion and details about Mozilla Organizations current projects\, Webmaker &amp; 
+ Firefox OS\, to have a great fun with learning experiment.
+URL:https://reps.mozilla.org/e/nasik-webmakers/
+SEQUENCE:2
+X-COORDINATES-LAT:20.0004509404
+X-COORDINATES-LON:73.7951660156
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

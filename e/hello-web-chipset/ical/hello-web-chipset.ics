@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4890
+CLASS:PUBLIC
+DTSTAMP:20200423T160510Z
+DTSTART:20151209T183000Z
+DTEND:20151219T183000Z
+LOCATION:kolkata\, Kolkata\, India
+SUMMARY:Hello Web - CHiPSET
+DESCRIPTION:Hello Web is an initiative by CHiPSET to enhance and improve t
+ he knowledge about tech driven communities in collaboration Mozilla &amp; Scro
+ llback backing the cause. It&#39;s a joint venture to spread Web Literacy. It 
+ brings together various common masses together to know about the Web.\nThe
+  entire duration of this event is 10 days during which the team would cond
+ uct sessions in colleges\, cafeterias and even slums.
+URL:https://reps.mozilla.org/e/hello-web-chipset/
+SEQUENCE:1
+X-COORDINATES-LAT:22.4869703551
+X-COORDINATES-LON:88.3708190359
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

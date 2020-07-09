@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@378
+CLASS:PUBLIC
+DTSTAMP:20200423T221710Z
+DTSTART:20130201T050000Z
+DTEND:20130202T050000Z
+LOCATION:SMK Telkom Sandhy Putra Malang\, Malang\, Indonesia
+SUMMARY:WikuFest 2013 : The Connected World Series
+DESCRIPTION:WikuFest is an annual education festival talks about ICT &#34;The 
+ Connected World Series&#34;\, networking\, and other technologies. \n\nWikuFes
+ t is organized by the school&#39;s alumni for the students in the SMK Telkom S
+ andhy Putra Malang\, to encourage the students to learn more about IT and 
+ open the world wide :)
+URL:https://reps.mozilla.org/e/wikufest-2013-the-connected-world-series/
+SEQUENCE:0
+X-COORDINATES-LAT:-7.98601017226
+X-COORDINATES-LON:112.65393734
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

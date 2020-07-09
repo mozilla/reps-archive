@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3697
+CLASS:PUBLIC
+DTSTAMP:20200423T173925Z
+DTSTART:20150325T030000Z
+DTEND:20150325T173000Z
+LOCATION:TBD\, Banani Model Town\, Bangladesh
+SUMMARY:QA - Bug Verification Day ( Online Mentoring Session)
+DESCRIPTION:We just have organized a two day long QA Marathon Dhaka event 
+ and now people are enthusiast to contribute in QA. So\, to help them more 
+ verifying the bug\, We will be holding whole day long online mentoring ses
+ sion. We will help people to write bug Comments\, Verify a bug and more to
+  help them to get started.
+URL:https://reps.mozilla.org/e/qa-bug-verification-day-online-mentoring-se
+ ssion/
+SEQUENCE:2
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

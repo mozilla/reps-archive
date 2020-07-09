@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8749
+CLASS:PUBLIC
+DTSTAMP:20200407T181526Z
+DTSTART:20190831T100000Z
+DTEND:20190901T160000Z
+LOCATION:Bridge+\, Park Square Mall\,  ITPL\, Whitefield Road\, Bangalore\
+ , India
+SUMMARY:Internet Health Hackathon - Bangalore
+DESCRIPTION:Welcome to Mozilla’s open source initiative to document and 
+ explain what’s happening to the health of the Internet.
+URL:https://reps.mozilla.org/e/internet-health-hackathon-bangalore/
+SEQUENCE:5
+X-COORDINATES-LAT:12.9192712709
+X-COORDINATES-LON:77.0718383789
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4976
+CLASS:PUBLIC
+DTSTAMP:20200423T155816Z
+DTSTART:20151231T123000Z
+DTEND:20151231T133000Z
+LOCATION:Sylhet\, Sylhet\, Bangladesh
+SUMMARY:FSA Boosup Pre-Camp with Win10 Activation in Sylhat
+DESCRIPTION:This event held in 28 Dec 2015 01:00 PM to 03:00 PM
+URL:https://reps.mozilla.org/e/fsa-boosup-pre-camp-with-win10-activation-i
+ n-sylhat/
+SEQUENCE:1
+X-COORDINATES-LAT:24.8928598368
+X-COORDINATES-LON:91.8660449982
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

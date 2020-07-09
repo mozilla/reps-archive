@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1697
+CLASS:PUBLIC
+DTSTAMP:20200423T203009Z
+DTSTART:20140201T123000Z
+DTEND:20140201T153000Z
+LOCATION:McDonald\, wanowrie\,  Pune\, Pune\, India
+SUMMARY:Firefox Student Ambassadors Meetup - Pune
+DESCRIPTION:A good number of interested persons from pune (India) are join
+ ing in the Firefox Student Ambassadors (FSA) program. But unfortunately mo
+ st of them don&#39;t know much about Mozilla. But they are keen to know. So it
+ s time to enrich them about the awesomeness of Mozilla.
+URL:https://reps.mozilla.org/e/firefox-student-ambassadors-meetup-pune/
+SEQUENCE:12
+X-COORDINATES-LAT:18.5197573471
+X-COORDINATES-LON:73.8515460491
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

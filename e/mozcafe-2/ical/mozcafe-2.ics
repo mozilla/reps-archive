@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1123
+CLASS:PUBLIC
+DTSTAMP:20200423T212306Z
+DTSTART:20130727T150000Z
+DTEND:20130727T160000Z
+LOCATION:St Paul\, St Paul\, Mauritius
+SUMMARY:MozCafe
+DESCRIPTION:This will a meeting between mozillians and ReMo to look into t
+ he strategy how to organise our future events specially the present &#39;Maker
+  Party&#39;. This will help us in organising these events successfully
+URL:https://reps.mozilla.org/e/mozcafe-2/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.2989095718
+X-COORDINATES-LON:57.4921417236
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8648
+CLASS:PUBLIC
+DTSTAMP:20200423T082423Z
+DTSTART:20190615T023000Z
+DTEND:20190616T123000Z
+LOCATION:Convention Center\, Jawahar Lal Nehru University\, New Delhi\, In
+ dia
+SUMMARY:Drupal Camp Delhi 2019
+DESCRIPTION:One of the largest Drupal events across India\, DrupalCamp Del
+ hi is an annual conference where the finest minds in technology come toget
+ her to discuss Drupal and associated technologies. \n\nBringing together t
+ echnocrats\, marketers\, and business user community to learn\, engage\, a
+ nd contribute. It provides you with the stage to explore the ambitious and
+  largest open source community by offering a glimpse into “the art of th
+ e possible” when you choose Drupal.
+URL:https://reps.mozilla.org/e/drupal-camp-delhi-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:31.8452101283
+X-COORDINATES-LON:76.2590331584
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

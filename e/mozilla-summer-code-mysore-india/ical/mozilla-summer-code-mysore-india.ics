@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@84
+CLASS:PUBLIC
+DTSTAMP:20200407T182541Z
+DTSTART:20120923T100000Z
+DTEND:20120923T130000Z
+LOCATION:Ani Frames School of Animation\, Saraswathipuram \, Mysore\, Indi
+ a
+SUMMARY:Mozilla Summer Code Mysore India
+DESCRIPTION:In this event we will organize summer code with the WebMaking.
+ \n\nWe will tell attendees about the Mozilla WebMaker and various webmakin
+ g tools \,seminar about OpenWeb and Boot2gecko.\nMost of the part of event
+  will be Technical\,will start with the HTML5 and then Web making.\nThere 
+ will be some Professional  from  IT  industry on special invitation by us 
+ to guide attendees about\nLatest happening in web designing.
+URL:https://reps.mozilla.org/e/mozilla-summer-code-mysore-india/
+SEQUENCE:0
+X-COORDINATES-LAT:12.1682256774
+X-COORDINATES-LON:76.3330078125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

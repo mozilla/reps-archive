@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2405
+CLASS:PUBLIC
+DTSTAMP:20200423T193524Z
+DTSTART:20140617T180000Z
+DTEND:20140617T200000Z
+LOCATION:Collab House\, #10\, Serenity\, 3rd Floor\, Palm Grove Road\, Aus
+ tin Town\, Bangalore\, Bangalore\, India
+SUMMARY:MozCoffee Bangalore v5.0
+DESCRIPTION:Closing of MozGeo Pilot 2 event in India and the announcement 
+ of winners of MozStumbler along with coffee and cookies :D
+URL:https://reps.mozilla.org/e/mozcoffee-bangalore-v5-0-1/
+SEQUENCE:5
+X-COORDINATES-LAT:12.9963061958
+X-COORDINATES-LON:77.5877379812
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

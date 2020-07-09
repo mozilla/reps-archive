@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@318
+CLASS:PUBLIC
+DTSTAMP:20200423T224457Z
+DTSTART:20121122T163000Z
+DTEND:20121122T213000Z
+LOCATION:Universidad Antonio José Paez\, San Diego\, Venezuela
+SUMMARY:Talleres de Software Libre en la UJAP
+DESCRIPTION:Free Software community VasLibre is organizing workshops to te
+ ach students from the Antonio José Paez University about Fedora RPM\, Pin
+ guino Robotics\, Python and of course a workshop of Mozilla WebMaker in ch
+ arge of ReMo Arturo Martinez.
+URL:https://reps.mozilla.org/e/talleres-de-software-libre-en-la-ujap/
+SEQUENCE:0
+X-COORDINATES-LAT:10.2361658689
+X-COORDINATES-LON:-67.9648160934
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5040
+CLASS:PUBLIC
+DTSTAMP:20200407T170236Z
+DTSTART:20160312T053000Z
+DTEND:20160312T123000Z
+LOCATION:Gitanjali Apartment\, Sonali Park\, Garia\, Kolkata\, India
+SUMMARY:SUMO Knowledge Base Hackathon
+DESCRIPTION:As we have some active SUMO contributors in Kolkata\, we are g
+ oing to organize a Hackathon Based on Knowledge Base. Here we will create 
+ and as well as localize SUMO articles in BN_IN.
+URL:https://reps.mozilla.org/e/sumo-knowledge-base-hackathon/
+SEQUENCE:8
+X-COORDINATES-LAT:22.469403137
+X-COORDINATES-LON:88.3701193146
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

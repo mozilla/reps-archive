@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3023
+CLASS:PUBLIC
+DTSTAMP:20200423T182447Z
+DTSTART:20141127T160000Z
+DTEND:20141129T120000Z
+LOCATION:Instituto Tecnológico Superior de Pátzcuaro\, Pátzcuaro\, Mexi
+ co
+SUMMARY:1st. Congress information technology and communication
+DESCRIPTION:Build a space where teachers\, researchers\, students\, manage
+ rs and stakeholders at national and international levels\, to meet and exc
+ hange experiences\, promote and disseminate the achievements and challenge
+ s of the Information Technology and Communications.
+URL:https://reps.mozilla.org/e/1st-congress-information-technology-and-com
+ munication/
+SEQUENCE:6
+X-COORDINATES-LAT:19.5161701402
+X-COORDINATES-LON:-101.609571219
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

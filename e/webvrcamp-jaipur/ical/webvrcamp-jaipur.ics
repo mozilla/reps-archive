@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6003
+CLASS:PUBLIC
+DTSTAMP:20200407T174149Z
+DTSTART:20161215T103000Z
+DTEND:20161215T133000Z
+LOCATION:MCR Community House Jaipur\, Jaipur\, India
+SUMMARY:WebVRCamp Jaipur
+DESCRIPTION:Event to build WebVR community in Jaipur and learn A-Frame fra
+ mework.
+URL:https://reps.mozilla.org/e/webvrcamp-jaipur/
+SEQUENCE:3
+X-COORDINATES-LAT:26.8813365828
+X-COORDINATES-LON:75.7683334337
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

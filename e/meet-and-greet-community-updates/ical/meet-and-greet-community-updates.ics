@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6607
+CLASS:PUBLIC
+DTSTAMP:20200407T181848Z
+DTSTART:20170526T090000Z
+DTEND:20170526T110000Z
+LOCATION:Rust RestoBar\, Bacolod City\, Philippines
+SUMMARY:Meet and Greet + Community Updates
+DESCRIPTION:To help strengthen Mozilla Community in the Negros Island Regi
+ on. \n\nThis includes the following:\n\n- Introduction and Greetings.\n- M
+ ozilla’s development and roadmaps.\n- Issues in Bacolod City/NIR locale 
+ community.
+URL:https://reps.mozilla.org/e/meet-and-greet-community-updates/
+SEQUENCE:1
+X-COORDINATES-LAT:10.6718648585
+X-COORDINATES-LON:122.949179649
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

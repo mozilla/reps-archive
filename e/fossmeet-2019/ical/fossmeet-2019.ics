@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8369
+CLASS:PUBLIC
+DTSTAMP:20200423T084158Z
+DTSTART:20190215T033000Z
+DTEND:20190217T123000Z
+LOCATION:National Institute of Technology\, Kozhikode\, India
+SUMMARY:FOSSMEET 2019
+DESCRIPTION:FOSSMeet is the annual event on Free and Open source software\
+ , conducted at National Institute of Technology\, Calicut to create awaren
+ ess about and encourage the use of free and open source softwares. The eve
+ nt includes a wide array of workshops\, talks hackathons\, tech competitio
+ ns\, discussions and a lot more. This is to encourage the utilization of o
+ pen source software in various fields.
+URL:https://reps.mozilla.org/e/fossmeet-2019/
+SEQUENCE:3
+X-COORDINATES-LAT:11.2222288321
+X-COORDINATES-LON:75.8170165122
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

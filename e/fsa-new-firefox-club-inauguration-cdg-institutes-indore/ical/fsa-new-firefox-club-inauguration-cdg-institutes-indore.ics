@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4507
+CLASS:PUBLIC
+DTSTAMP:20200423T163513Z
+DTSTART:20150928T203000Z
+DTEND:20150928T233000Z
+LOCATION:Chameli devi group of institutes\, Indore\, India
+SUMMARY:FSA &amp; New Firefox Club Inauguration @ CDG Institutes Indore
+DESCRIPTION:The much-awaited inauguration of the Firefox Student Ambassado
+ rs Club Inauguration was held on the 29th September at Chameli Devi Group 
+ Of Institutes.
+URL:https://reps.mozilla.org/e/fsa-new-firefox-club-inauguration-cdg-insti
+ tutes-indore/
+SEQUENCE:2
+X-COORDINATES-LAT:22.6893923591
+X-COORDINATES-LON:75.8358192374
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

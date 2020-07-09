@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2531
+CLASS:PUBLIC
+DTSTAMP:20200407T175517Z
+DTSTART:20140728T040000Z
+DTEND:20140728T090000Z
+LOCATION:Jayamukhi Institute Of Technological Sciences\, Warangal\, India
+SUMMARY:WoMoz Warangal&#39;14
+DESCRIPTION:An event which focuses on increasing women contributors in FOS
+ S and mozilla projects.An initiative to make female students learn about t
+ he importance of open source and in what way they can bring changes to the
+  FOSS communities.
+URL:https://reps.mozilla.org/e/womoz-2014/
+SEQUENCE:11
+X-COORDINATES-LAT:17.9935012632
+X-COORDINATES-LON:79.5658835
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

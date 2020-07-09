@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9158
+CLASS:PUBLIC
+DTSTAMP:20200407T170247Z
+DTSTART:20200605T040000Z
+DTEND:20200607T170000Z
+LOCATION:Castle Selles sur cher\, Selles sur cher\, France
+SUMMARY:Geek Faeries 2020
+DESCRIPTION:Geek Faeries is a French festival dedicated to geek culture si
+ nce 2010\, modeled Do It Yourself\, dedicated to Internet culture and imag
+ inary worlds. For the seventh edition\, a village will be digital and we w
+ ill-have a booth along with other open source. We were contacted to hold a
+  booth and make demos of Firefox on desktop and free culture in 2015\, 80%
+  increase in attendance compared to 2014. In 2016\, the event was canceled
+  by decree of the prefecture because of the floods.It&#39;s 11 years
+URL:https://reps.mozilla.org/e/geek-faeries-2020/
+SEQUENCE:0
+X-COORDINATES-LAT:48.6809270465
+X-COORDINATES-LON:2.17603683122
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

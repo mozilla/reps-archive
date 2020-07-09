@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@279
+CLASS:PUBLIC
+DTSTAMP:20200423T224627Z
+DTSTART:20121110T170000Z
+DTEND:20121111T170000Z
+LOCATION:TBD\, Duitama\, Colombia
+SUMMARY:jornadas software libre colombia 2012 -free software journeys 2012
+DESCRIPTION:The Free Software Journeys were formed as an annual meeting of
+  the Free Software community in Colombia\, that is primarily aimed at the 
+ evangelism of Free Software and socialization in work groups of progress m
+ ade ​​by each region (community) in a year to propose attainable goals
+  to be met in the same time period.\n
+URL:https://reps.mozilla.org/e/jornadas-software-libre-colombia-2012-free-
+ software-journeys-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:5.82300354396
+X-COORDINATES-LON:-73.0311012268
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@236
+CLASS:PUBLIC
+DTSTAMP:20200423T224259Z
+DTSTART:20121130T060000Z
+DTEND:20121130T120000Z
+LOCATION:TBA\, Quezon City\, Philippines
+SUMMARY:DevCon Philippines + Globe Labs 2012 Code Challenge Cup (C-Cup) 
+DESCRIPTION:3-man teams will be given 6 hours to solve 10 problems sets.\n
+ \nCash prizes\, trophies\, medals\, gadgets\, contest shirts\, freebies an
+ d other surprises await the winners and participants.\n\nMultiple programm
+ ing languages/platforms will be supported. Open to professionals and stude
+ nts especially ACM-ICPC alumni.
+URL:https://reps.mozilla.org/e/devcon-philippines-globe-labs-2012-code-cha
+ llenge-cup-c-cup/
+SEQUENCE:0
+X-COORDINATES-LAT:14.0939571778
+X-COORDINATES-LON:122.87109375
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

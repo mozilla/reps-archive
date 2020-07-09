@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1240
+CLASS:PUBLIC
+DTSTAMP:20200407T175444Z
+DTSTART:20130915T080000Z
+DTEND:20130915T180000Z
+LOCATION:Faculty of Law and Administration\, Silesian University in Katowi
+ ce\,\, Katowice\, Poland
+SUMMARY:Hackaton at SmartDevConf
+DESCRIPTION:The conference SmartDevCon is orientated at companies and spec
+ ialists connected with modern device solutions that within recent years ha
+ ve dominated and redefined this market segment.\nThe conference language i
+ s English\, and the attendees are coming from countries such as Czech Repu
+ blic\, Germany\, Austria and of course Poland\, among the others. \nImmedi
+ ately the day following the conference\, they&#39;re organizing the mobile hac
+ katon and Firefox OS would be one of the targeted systems.
+URL:https://reps.mozilla.org/e/hackaton-at-smartdevconf/
+SEQUENCE:1
+X-COORDINATES-LAT:50.2586199695
+X-COORDINATES-LON:19.0084075928
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

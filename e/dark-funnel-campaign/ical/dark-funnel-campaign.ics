@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8088
+CLASS:PUBLIC
+DTSTAMP:20200423T090437Z
+DTSTART:20180915T043000Z
+DTEND:20180915T103000Z
+LOCATION:Sai Bhuvaneswari Vidyalaya\, N&amp;P school\, Salem\, India
+SUMMARY:Dark Funnel campaign
+DESCRIPTION:We want to understand where Firefox downloads come from. So fa
+ r\, we know that 30% of Firefox installs come from the official Mozilla we
+ bsite or from known partners. The other 70% come from mystery download sou
+ rces that we call “the dark funnel”. Some are friendly sites\, but oth
+ ers put users at risk of getting old editions\, a bad experience or even m
+ alicious installs. Help Firefox understand what’s in the dark funnel\, b
+ y participating in this campaign and spreading the light!
+URL:https://reps.mozilla.org/e/dark-funnel-campaign/
+SEQUENCE:2
+X-COORDINATES-LAT:11.6190580703
+X-COORDINATES-LON:78.1768796593
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

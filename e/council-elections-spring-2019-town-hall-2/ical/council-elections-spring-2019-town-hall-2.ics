@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8448
+CLASS:PUBLIC
+DTSTAMP:20200407T170231Z
+DTSTART:20190404T180000Z
+DTEND:20190404T190000Z
+LOCATION:Online\, Online\, Germany
+SUMMARY:Council Elections Spring 2019 - Town Hall 2
+DESCRIPTION:The Town Halls will provide an opportunity for all Reps to ask
+  questions to the nominees to get informed about the candidates. This will
+  be in addition to the Discourse questions. At the beginning of the call t
+ he Peers will share general information regarding the Elections.
+URL:https://reps.mozilla.org/e/council-elections-spring-2019-town-hall-2/
+SEQUENCE:2
+X-COORDINATES-LAT:60.3033712873
+X-COORDINATES-LON:-14.4345706701
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

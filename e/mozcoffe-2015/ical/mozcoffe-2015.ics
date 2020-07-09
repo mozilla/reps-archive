@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4622
+CLASS:PUBLIC
+DTSTAMP:20200423T161527Z
+DTSTART:20151114T080000Z
+DTEND:20151114T120000Z
+LOCATION:Salon Salomon de la Selva\, Managua\, Nicaragua
+SUMMARY:Mozcoffe 2015
+DESCRIPTION:A brief meeting with members of the community about the events
+  in which we participated\, besides giving the welcome to the new members\
+ , in addition to sharing new knowledge we have acquired
+URL:https://reps.mozilla.org/e/mozcoffe-2015/
+SEQUENCE:7
+X-COORDINATES-LAT:12.1404785613
+X-COORDINATES-LON:-86.2287314237
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

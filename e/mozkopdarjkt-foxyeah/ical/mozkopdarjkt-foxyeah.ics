@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3967
+CLASS:PUBLIC
+DTSTAMP:20200407T165858Z
+DTSTART:20150615T120000Z
+DTEND:20150615T140000Z
+LOCATION:Jakarta Digital Valley\, Jakarta\, Indonesia
+SUMMARY:#MozKopdarJKT - #FoxYeah
+DESCRIPTION:Regular Mozillians meetup in Jakarta. But this time is special
+ \, it is all about #FoxYeah\, a campaign that encourages fans of Firefox (
+ that’s us) to share fun photos\, memes and videos about what makes Firef
+ ox great.
+URL:https://reps.mozilla.org/e/mozkopdarjkt-foxyeah/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.18240175952
+X-COORDINATES-LON:106.830346942
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

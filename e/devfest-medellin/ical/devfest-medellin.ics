@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4343
+CLASS:PUBLIC
+DTSTAMP:20200407T174259Z
+DTSTART:20151015T140000Z
+DTEND:20151015T210000Z
+LOCATION:Ruta N / CALLE 34 NO. 32 - 41\, Medellin\, Colombia
+SUMMARY:DevFest - Medellin
+DESCRIPTION:DevFest is a free and open event about Functional Programming 
+ Languages. A series of talks that will show how. We are going to talk abou
+ t Rust language. \\o/
+URL:https://reps.mozilla.org/e/devfest-medellin/
+SEQUENCE:1
+X-COORDINATES-LAT:6.257256172
+X-COORDINATES-LON:-75.5676956184
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

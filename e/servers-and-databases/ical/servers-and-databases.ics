@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5442
+CLASS:PUBLIC
+DTSTAMP:20200407T182338Z
+DTSTART:20160818T033000Z
+DTEND:20160818T053000Z
+LOCATION:Online IRC irc://moznet/web-and-software-development and Vidyo vi
+ deo\, Covington\, United States
+SUMMARY:Servers and DataBases
+DESCRIPTION:This event will teach about the server and database side of We
+ b Development. An example website (already coded) will be provided (to sav
+ e time to just focus mainly on Database and Server part of the event) to b
+ e used in this event that event attendees can use to practise adding to a 
+ database and server for teaching purposes for event attendees (in the inte
+ rest of time).
+URL:https://reps.mozilla.org/e/servers-and-databases/
+SEQUENCE:8
+X-COORDINATES-LAT:37.7762327032
+X-COORDINATES-LON:-79.9942474463
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

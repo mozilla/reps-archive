@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2215
+CLASS:PUBLIC
+DTSTAMP:20200423T195453Z
+DTSTART:20140504T120000Z
+DTEND:20140504T150000Z
+LOCATION:Olten\, Olten\, Switzerland
+SUMMARY:Introduction to Firefox Development
+DESCRIPTION:In-person meeting with SJW to explain how Firefox development 
+ works.
+URL:https://reps.mozilla.org/e/introduction-to-firefox-development/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3519637353
+X-COORDINATES-LON:7.9069004058
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

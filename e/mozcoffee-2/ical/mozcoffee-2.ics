@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3903
+CLASS:PUBLIC
+DTSTAMP:20200423T171841Z
+DTSTART:20150602T083000Z
+DTEND:20150602T143000Z
+LOCATION:Collabs House\,Opp Film nagar society complex\,Filmnagar\, Secund
+ erabad\, India
+SUMMARY:MozCoffee
+DESCRIPTION:In support to Spring Campaign we are hosting our First Mozcoff
+ ee to Create a teaching Kit before the kick of of the campaign!
+URL:https://reps.mozilla.org/e/mozcoffee-2/
+SEQUENCE:6
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

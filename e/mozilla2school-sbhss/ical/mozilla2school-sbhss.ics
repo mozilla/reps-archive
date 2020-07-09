@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7195
+CLASS:PUBLIC
+DTSTAMP:20200407T174132Z
+DTSTART:20171104T043000Z
+DTEND:20171104T093000Z
+LOCATION:St Berchmans Higher Secondary School\, Changanaserry\, India
+SUMMARY:Mozilla2School @SBHSS
+DESCRIPTION:Mozilla2School project in order to\nenhance its practical outp
+ ut from the attendees\, Since we are concentrating on the budding\ntechies
+  we are introducing current trends and awareness about Mozilla clubs and c
+ ontributions\nto school students so they can know all about the opportunit
+ ies they have . We will be teaching\nthem to how to use the free and open 
+ source tools and teaching them how to build websites and\nprograms and pro
+ viding the resources to learn by themselves.
+URL:https://reps.mozilla.org/e/mozilla2school-sbhss/
+SEQUENCE:1
+X-COORDINATES-LAT:9.44036227183
+X-COORDINATES-LON:76.5403854847
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

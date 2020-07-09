@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2900
+CLASS:PUBLIC
+DTSTAMP:20200423T184010Z
+DTSTART:20141025T010000Z
+DTEND:20141025T060000Z
+LOCATION:Nri College\,Bhopal\, Bhopal\, India
+SUMMARY:Firefox OS Appday
+DESCRIPTION:This event is intended to those attendees who wants to start c
+ ontributing in Firefox OS. They learn about making apps\,and other differe
+ nt parts of Apps Making.This event gives us a good platform to Know about 
+ attendees\,and there knowledge towards apps .
+URL:https://reps.mozilla.org/e/firefox-os-appday/
+SEQUENCE:4
+X-COORDINATES-LAT:23.2410203633
+X-COORDINATES-LON:77.417145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

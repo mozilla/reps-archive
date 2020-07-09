@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5587
+CLASS:PUBLIC
+DTSTAMP:20200407T175211Z
+DTSTART:20160815T060000Z
+DTEND:20160827T210000Z
+LOCATION:Universitatea Sapientia\, Targu Mures\, Romania
+SUMMARY:IP Workshop Summer School - Rust Training
+DESCRIPTION:Alex Radovici wants to use this event to hold a rust course fo
+ r beginners.
+URL:https://reps.mozilla.org/e/ip-workshop-summer-school-rust-training/
+SEQUENCE:2
+X-COORDINATES-LAT:46.5228380247
+X-COORDINATES-LON:24.598631233
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

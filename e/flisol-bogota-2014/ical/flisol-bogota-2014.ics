@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2071
+CLASS:PUBLIC
+DTSTAMP:20200407T173723Z
+DTSTART:20140503T120000Z
+DTEND:20140504T010000Z
+LOCATION:Instituto Distrital de Recreación y Deporte - IDRD\, Bogota\, Co
+ lombia
+SUMMARY:Flisol Bogota 2014
+DESCRIPTION:The Latin American Festival  of Free Software Installat
+ ion (FLISoL) is the broadcast event Free \n\nSoftware largest in
+  Latin America\, was born in Colombia in 2005\, and is now cel
+ ebrated in over \n\n20 countries and in  over  100  cities world
+ wide.  Its  main objective is to promote the use of free \n\nso
+ ftware\, revealing publicly his philosophy\, scope\, progress and 
+ development.
+URL:https://reps.mozilla.org/e/flisol-bogota-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:4.65732788858
+X-COORDINATES-LON:-74.084847942
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

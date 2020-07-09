@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@350
+CLASS:PUBLIC
+DTSTAMP:20200407T180507Z
+DTSTART:20121201T110000Z
+DTEND:20121220T110000Z
+LOCATION:TBD\, Subotica\, Serbia
+SUMMARY:Test pilot study: Firefox for Android Community Campaign Challenge
+DESCRIPTION:Mozilla Serbia is going to do a test pilot study with poster t
+ hat were created by Aleksandra and Oskar. Poster will be put on various pl
+ aces such as bus stops\, universities and other places that are visited by
+  a lot of people or where a lot of people pass by. Poster will make a clea
+ r call for people to download Firefox for Android. Subotica city will be o
+ ur start where we will track QR codes to see how many people are downloadi
+ ng Firefox\, and from which places is being most downloaded.
+URL:https://reps.mozilla.org/e/test-pilot-study-firefox-for-android-commun
+ ity-campaign-challenge/
+SEQUENCE:1
+X-COORDINATES-LAT:46.094022465
+X-COORDINATES-LON:19.6612250805
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

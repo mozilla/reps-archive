@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@616
+CLASS:PUBLIC
+DTSTAMP:20200407T183338Z
+DTSTART:20130406T070000Z
+DTEND:20130407T170000Z
+LOCATION:USTREAM\, Budapest\, Hungary
+SUMMARY:Mozilla Weekend
+DESCRIPTION:Two days with Mozillians. Two days are spending with Firefox O
+ S apllication development\, translation\, and community building.\nMozilla
+  Weekend Plan: Applications. Translation. Community.\nGoals\n 1. Introduce
+  application development process\n 2. Web Application development (create 
+ useful\, funny applications)\n 3. Mozilla Support article localization\n 4
+ . Extension translation\n 5. Represent Firefox OS HW\n 6.WebMaker/Fx/Fenne
+ c/Tb/WebFWD/OpenBadges\n 7. Community building
+URL:https://reps.mozilla.org/e/mozilla-weekend/
+SEQUENCE:6
+X-COORDINATES-LAT:47.5607740552
+X-COORDINATES-LON:19.0502929688
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4789
+CLASS:PUBLIC
+DTSTAMP:20200423T161930Z
+DTSTART:20151104T040000Z
+DTEND:20151104T070000Z
+LOCATION:Zeal COE Pune\, Pune\, India
+SUMMARY:Cyber Security Seminar @ Zeal COE
+DESCRIPTION:Security Threats and Security features in Firefox Web browser.
+ \nFirefox Web browser setps to validate digital certificate of a website.
+URL:https://reps.mozilla.org/e/cyber-security-seminar-zeal-coe/
+SEQUENCE:2
+X-COORDINATES-LAT:18.3740758201
+X-COORDINATES-LON:73.9867401123
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8137
+CLASS:PUBLIC
+DTSTAMP:20200423T090321Z
+DTSTART:20180920T010000Z
+DTEND:20180920T090000Z
+LOCATION:Our Lady of Fatima University\, Valenzuela City\, Philippines
+SUMMARY:Our Lady of Fatima University 3rd Computing Conference
+DESCRIPTION:These year&#39;s theme: Structure Programming Languages &#34;Current T
+ rends in Industry Programming&#34;
+URL:https://reps.mozilla.org/e/our-lady-of-fatima-university-3rd-computing
+ -conference/
+SEQUENCE:1
+X-COORDINATES-LAT:14.6773840019
+X-COORDINATES-LON:120.98092246
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

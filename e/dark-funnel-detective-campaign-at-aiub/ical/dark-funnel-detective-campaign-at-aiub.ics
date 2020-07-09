@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8117
+CLASS:PUBLIC
+DTSTAMP:20200423T090113Z
+DTSTART:20180926T200000Z
+DTEND:20180927T000000Z
+LOCATION:Ka-66/1\, Kuratoli Road\, Kuril\, Khilkhet\, Dhaka 1229\, Banglad
+ esh\, Dhaka\, Bangladesh
+SUMMARY:Dark Funnel Detective Campaign at AIUB
+DESCRIPTION:At first\, the Dark Funnel Campaign will be introduced to the 
+ audience. Then they will be informed\nabout what to do at this event. Afte
+ r that participants will start to find the unauthorized download link\nof 
+ Firefox browser and they will report those sites. At that time\, swags and
+  snacks will be distributed among\nthe participants. Finally\, the event w
+ ill be closed by an ending speech about the mission and vision of Mozilla.
+URL:https://reps.mozilla.org/e/dark-funnel-detective-campaign-at-aiub/
+SEQUENCE:3
+X-COORDINATES-LAT:23.7988843
+X-COORDINATES-LON:90.3911206
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

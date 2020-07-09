@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2491
+CLASS:PUBLIC
+DTSTAMP:20200407T180444Z
+DTSTART:20140709T170000Z
+DTEND:20140709T200000Z
+LOCATION:16bis Boulevard Montmartre 75009 Paris\, France\, Paris\, France
+SUMMARY:Mercredi Doc #42
+DESCRIPTION:Mercredi Doc is an event in order to complete Mozilla Develope
+ r Network documentation. Let&#39;s contribute to MDN with us! We will all be r
+ eally proud to invite you at the Mozilla Office for improving  documentati
+ on about MDN !
+URL:https://reps.mozilla.org/e/mercredi-doc-42/
+SEQUENCE:6
+X-COORDINATES-LAT:48.8719623537
+X-COORDINATES-LON:2.34121835234
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1620
+CLASS:PUBLIC
+DTSTAMP:20200407T180255Z
+DTSTART:20131216T000000Z
+DTEND:20131216T020000Z
+LOCATION:University of San Jose of Recolletos\, cebu\, Philippines
+SUMMARY:Mozilla at USJR
+DESCRIPTION:Invited to talk about Mozilla at University of San Jose Recoll
+ ectos(Mani Campus) Cebu City for Engineering Department. Event is similar 
+ to Mozilla Campus tour as the expected participants is from the 4th and 2n
+ d year college student from the department.
+URL:https://reps.mozilla.org/e/mozilla-at-usjr/
+SEQUENCE:2
+X-COORDINATES-LAT:9.68234462448
+X-COORDINATES-LON:124.154662862
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

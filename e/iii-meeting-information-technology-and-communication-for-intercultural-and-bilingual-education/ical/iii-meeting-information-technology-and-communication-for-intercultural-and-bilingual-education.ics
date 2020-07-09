@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1610
+CLASS:PUBLIC
+DTSTAMP:20200423T204711Z
+DTSTART:20131128T183000Z
+DTEND:20131129T000000Z
+LOCATION:Las Birsas Hotel\, Peralvillo\, Mexico
+SUMMARY:III MEETING INFORMATION TECHNOLOGY AND COMMUNICATION FOR Intercult
+ ural and Bilingual Education
+DESCRIPTION:A talk about Mozilla and l10n work in Mexican native languages
+  ​​are taught.
+URL:https://reps.mozilla.org/e/iii-meeting-information-technology-and-comm
+ unication-for-intercultural-and-bilingual-education/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4270542274
+X-COORDINATES-LON:-99.1632127766
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

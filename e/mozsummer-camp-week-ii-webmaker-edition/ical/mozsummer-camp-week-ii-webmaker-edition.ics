@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3876
+CLASS:PUBLIC
+DTSTAMP:20200423T172329Z
+DTSTART:20150516T090000Z
+DTEND:20150517T070000Z
+LOCATION:Pushpak Apt.\, Pandit colony\, Lane no-3\, Opp. Gopal Park\, Nash
+ ik - 422 002.\, Nashik\, India
+SUMMARY:MozSummer Camp Week - II Webmaker Edition
+DESCRIPTION:MozSummer Camp Week - II Webmaker Edition\n\nAbout the event :
+  \n\nEntering the second week of MozSUmmer Camp\, we will be focusing on t
+ eaching the web. Webmaker has always been a very important and creative as
+ pect of Mozilla. It introduces tools to build the web as we see it. This w
+ eek\, we will see how we can Make The Web.
+URL:https://reps.mozilla.org/e/mozsummer-camp-week-ii-webmaker-edition/
+SEQUENCE:2
+X-COORDINATES-LAT:20.0151783
+X-COORDINATES-LON:73.753658
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

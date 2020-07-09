@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3939
+CLASS:PUBLIC
+DTSTAMP:20200423T171719Z
+DTSTART:20150607T053000Z
+DTEND:20150607T103000Z
+LOCATION:Rotary Club\, Nabha\, India
+SUMMARY:MozCoffee Spring Campaign \, Nabha
+DESCRIPTION:This event is being Hosted by Ajay Kumar (https://mozillians.o
+ rg/en-US/u/Ajay1188/) . I have just created the page on his behalf. A MozC
+ offee event in Nabha to support Spring Campaign
+URL:https://reps.mozilla.org/e/mozcoffee-spring-campaign-nabha/
+SEQUENCE:2
+X-COORDINATES-LAT:30.3736156923
+X-COORDINATES-LON:76.1540079117
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

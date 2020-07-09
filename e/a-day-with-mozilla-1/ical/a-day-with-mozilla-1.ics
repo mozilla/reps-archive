@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6273
+CLASS:PUBLIC
+DTSTAMP:20200423T111948Z
+DTSTART:20170330T140000Z
+DTEND:20170330T210000Z
+LOCATION:TDB\, Tegucigalpa\, Honduras
+SUMMARY:A day with Mozilla
+DESCRIPTION:This event is dedicated to the students of the UNAH-VS univers
+ ity who want to learn about mozilla\, and the open web.\n\nDuring this eve
+ nt the main topics will be:\nThe Mozilla community\, the importance of the
+  web as a free and accessible resource and the Use of a internet based on 
+ equality\, inclusion and respect.
+URL:https://reps.mozilla.org/e/a-day-with-mozilla-1/
+SEQUENCE:3
+X-COORDINATES-LAT:14.0850246
+X-COORDINATES-LON:-87.1681618
+X-COUNTRY-CODE:hn
+END:VEVENT
+
+END:VCALENDAR

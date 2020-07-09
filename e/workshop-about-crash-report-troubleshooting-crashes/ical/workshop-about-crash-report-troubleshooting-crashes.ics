@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6859
+CLASS:PUBLIC
+DTSTAMP:20200423T105016Z
+DTSTART:20170802T170000Z
+DTEND:20170802T180000Z
+LOCATION:SUMO&#39;s Vidyo Room\, Online\, Brazil
+SUMMARY:Workshop about Crash Report - Troubleshooting Crashes
+DESCRIPTION:We will have two online workshops about the Crash Report\, giv
+ en by Philipp Madersbacher. Crash reports are super important because they
+  help Firefox and Thunderbird developers to monitor and fix bugs and also 
+ help SUMO&#39;s contributors to help users!\n\nTroubleshooting Crashes will be
+  the first workshop and will teach you how to read crash reports.
+URL:https://reps.mozilla.org/e/workshop-about-crash-report-troubleshooting
+ -crashes/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.5880105454
+X-COORDINATES-LON:-46.6585378649
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

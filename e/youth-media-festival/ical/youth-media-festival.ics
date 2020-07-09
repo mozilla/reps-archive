@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4376
+CLASS:PUBLIC
+DTSTAMP:20200423T162824Z
+DTSTART:20151015T170000Z
+DTEND:20151017T170000Z
+LOCATION:Universitas Dian Nuswantoro\, Semarang\, Indonesia
+SUMMARY:Youth Media Festival
+DESCRIPTION:Youth Media Festival is the Youth Center PILAR’s flagship an
+ nual event\, welcoming around 200 delegates to the awesome city – Semara
+ ng for three days of intensive forum and exciting social events
+URL:https://reps.mozilla.org/e/youth-media-festival/
+SEQUENCE:3
+X-COORDINATES-LAT:-7.01957425962
+X-COORDINATES-LON:110.474853404
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

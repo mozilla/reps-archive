@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9145
+CLASS:PUBLIC
+DTSTAMP:20200407T164828Z
+DTSTART:20200621T053000Z
+DTEND:20200621T073000Z
+LOCATION:IISER Kolkata\, Mohanpur\, Nadia\, Kolkata\, India
+SUMMARY:MozFOSS Indcution in Inquivesta X
+DESCRIPTION:Inquivesta&#39; is a 3-day annual extravaganza\, hosted by the stu
+ dents of IISER Kolkata.  It&#39;s one of the largest Science festival of easte
+ rn India. Approximate 10000 students across the region is expected to part
+ icipate in the 10th edition of event\, Inquivesta X. The objective of MozF
+ OSS Induction to introduce Mozilla and creating FOSS culture in the region
+ . Another objective is to create awareness and motivation toward contribut
+ ion in FOSS in general and for Mozilla in particular.
+URL:https://reps.mozilla.org/e/mozfoss-indcution-in-inquivesta-x/
+SEQUENCE:4
+X-COORDINATES-LAT:22.5657767333
+X-COORDINATES-LON:88.385925279
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

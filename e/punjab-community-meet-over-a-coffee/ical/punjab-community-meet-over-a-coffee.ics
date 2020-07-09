@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1812
+CLASS:PUBLIC
+DTSTAMP:20200423T201058Z
+DTSTART:20140329T033000Z
+DTEND:20140329T103000Z
+LOCATION:Punjab\, Punjab\, India
+SUMMARY:Punjab Community Meet over a Coffee
+DESCRIPTION:Mozilla Punjab is gathering to lay a path and discuss their fu
+ ture events.
+URL:https://reps.mozilla.org/e/punjab-community-meet-over-a-coffee/
+SEQUENCE:4
+X-COORDINATES-LAT:30.6119136339
+X-COORDINATES-LON:74.8924255371
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

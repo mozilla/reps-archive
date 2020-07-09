@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5359
+CLASS:PUBLIC
+DTSTAMP:20200407T173813Z
+DTSTART:20160423T140000Z
+DTEND:20160423T190000Z
+LOCATION:Palacio Central de Computación\, Havana\, Cuba
+SUMMARY:FliSol La Habana 2016
+DESCRIPTION:FLISoL is the most popular event of Free Software in LATAM. Pe
+ ople from all the continent\, in every country and city\, join together to
+  teach\, learn and share\, free software\, try and install linux isos\, gi
+ ve talks\, lectures and workshops. Mozilla Cuba will have presence as ever
+ y year in Havana. Being part of the organization team\, giving talks\, wor
+ kshops and setting an stand for demoing B2G OS devices\, copying Mozilla S
+ oftwares and giving live support to attendees.
+URL:https://reps.mozilla.org/e/flisol-la-habana-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:23.1327677469
+X-COORDINATES-LON:-82.360956967
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

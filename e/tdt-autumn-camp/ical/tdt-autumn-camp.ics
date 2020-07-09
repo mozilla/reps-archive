@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1280
+CLASS:PUBLIC
+DTSTAMP:20200423T211326Z
+DTSTART:20130906T140000Z
+DTEND:20130908T140000Z
+LOCATION:Pensiunea Andreea\, Muntele Baisorii\, Romania
+SUMMARY:TDT Autumn Camp
+DESCRIPTION:Tabara de Testare is a community group for QA that organizes w
+ eekly meetings to share knowledge in quality field. \nTabara de testare Au
+ tump Camp is an event during a weekend in whick mobile testing technologie
+ s will be shared\, thought\, etc. \nWe will have a worksjop on Sunday abou
+ t Firefox OS.
+URL:https://reps.mozilla.org/e/tdt-autumn-camp/
+SEQUENCE:12
+X-COORDINATES-LAT:46.5422146869
+X-COORDINATES-LON:23.3377075195
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

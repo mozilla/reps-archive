@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1572
+CLASS:PUBLIC
+DTSTAMP:20200423T203505Z
+DTSTART:20140117T120000Z
+DTEND:20140117T160000Z
+LOCATION:Wimpy- Game City\, Gaborone\, Botswana
+SUMMARY:Firefox Aurora Gabz  Translation Sprint
+DESCRIPTION:This event will be focusing on promoting web literacy through 
+ translating the Firefox Aurora version to our native language (Setswana). 
+ It will also engage community members and other stakeholders (Linguist)\, 
+ students and every members who is passionate for the web.We hope to make t
+ he online experience richer and more relevant for speakers of Setswana in 
+ Botswana and other parts of the world.
+URL:https://reps.mozilla.org/e/firefox-aurora-gabz-translation-sprint/
+SEQUENCE:16
+X-COORDINATES-LAT:-24.6977659574
+X-COORDINATES-LON:25.8709714562
+X-COUNTRY-CODE:bw
+END:VEVENT
+
+END:VCALENDAR

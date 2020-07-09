@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5462
+CLASS:PUBLIC
+DTSTAMP:20200423T152340Z
+DTSTART:20160526T070000Z
+DTEND:20160527T150000Z
+LOCATION:Folkets Hus\, Barnhusgatan 12-14\, Stockholm\, Stockholm\, Sweden
+SUMMARY:DevSum
+DESCRIPTION:Swedens largest .NET conference\n\nThis year DevSum is organiz
+ ed for the eleventh consecutive year in late May in Stockholm\, Sweden. De
+ vSum16 is the largest\, best and funniest .NET conference you’ll visit a
+ nd it will take place at Folkets Hus at Norra Bantorget in the centre of S
+ tockholm on the 26th and 27th of May 2016.
+URL:https://reps.mozilla.org/e/devsum/
+SEQUENCE:1
+X-COORDINATES-LAT:59.3172871809
+X-COORDINATES-LON:18.0711421953
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

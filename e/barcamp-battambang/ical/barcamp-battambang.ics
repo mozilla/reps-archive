@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2137
+CLASS:PUBLIC
+DTSTAMP:20200407T182557Z
+DTSTART:20140524T020000Z
+DTEND:20140525T050000Z
+LOCATION:13.0860596\,103.2187386\, Batdambang\, Cambodia
+SUMMARY:BarCamp Battambang
+DESCRIPTION:BarCamp Cambodia\nis a set of events that bring together IT pr
+ ofessionals\, innovators\, businesses\, NGOs and students to network\, cre
+ ate synergies and catch up the state-of-the-art of technology.
+URL:https://reps.mozilla.org/e/barcamp-battambang/
+SEQUENCE:5
+X-COORDINATES-LAT:13.0925166716
+X-COORDINATES-LON:103.202889918
+X-COUNTRY-CODE:kh
+END:VEVENT
+
+END:VCALENDAR

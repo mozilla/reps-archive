@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2166
+CLASS:PUBLIC
+DTSTAMP:20200423T195841Z
+DTSTART:20140426T093000Z
+DTEND:20140426T133000Z
+LOCATION:Red Hat Premises\, IBC Knowledge Center\, Bannerghtta Main Road\,
+  Bangalore\, India
+SUMMARY:Geolocation in a Box: Bangalore
+DESCRIPTION:This geolocation pilot event will evangelize the community to 
+ adopt MozStumbler &amp; use it on daily basis to enrich the Mozilla location-s
+ ervice.
+URL:https://reps.mozilla.org/e/geolocation-in-a-box-bangalore/
+SEQUENCE:6
+X-COORDINATES-LAT:12.9328134741
+X-COORDINATES-LON:77.6035609245
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

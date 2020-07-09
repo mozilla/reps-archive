@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@72
+CLASS:PUBLIC
+DTSTAMP:20200423T230406Z
+DTSTART:20120912T010000Z
+DTEND:20120912T080000Z
+LOCATION:Southern Leyte State University\, Sogod\, \, Philippines
+SUMMARY:Membership Drive &amp; Firefox Clinic
+DESCRIPTION:Membership Drive &amp; Firefox Clinic during the annual Southern L
+ eyte State University Intramural
+URL:https://reps.mozilla.org/e/membership-drive-firefox-clinic/
+SEQUENCE:0
+X-COORDINATES-LAT:10.392218
+X-COORDINATES-LON:124.97982
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

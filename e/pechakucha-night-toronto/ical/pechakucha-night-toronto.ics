@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@566
+CLASS:PUBLIC
+DTSTAMP:20200423T220824Z
+DTSTART:20130220T003000Z
+DTEND:20130220T030000Z
+LOCATION:Gladstone Hotel\, Toronto\, Canada
+SUMMARY:PechaKucha Night - Toronto
+DESCRIPTION:PechaKucha Nights are informal and fun gatherings where creati
+ ve people get together and share their ideas\, works\, thoughts\, holiday 
+ snaps -- just about anything\, really -- in the PechaKucha 20x20 format.
+URL:https://reps.mozilla.org/e/pechakucha-night-toronto/
+SEQUENCE:0
+X-COORDINATES-LAT:43.663897974
+X-COORDINATES-LON:-79.4750976562
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

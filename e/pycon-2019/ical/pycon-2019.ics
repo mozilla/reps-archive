@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8638
+CLASS:PUBLIC
+DTSTAMP:20200407T170252Z
+DTSTART:20191011T183000Z
+DTEND:20191012T183000Z
+LOCATION:Chennai\, Chennai\, India
+SUMMARY:Pycon 2019
+DESCRIPTION:Pycon 2019 is the biggest event in India for the open-source c
+ ommunities to bond. Pycon makes the mainstream news. There are many talks\
+ , workshops etc. I will be giving a talk if my proposal is accepted\, also
+  a workshop is being organized if I am accepted there
+URL:https://reps.mozilla.org/e/pycon-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:13.0872812065
+X-COORDINATES-LON:80.2637328207
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

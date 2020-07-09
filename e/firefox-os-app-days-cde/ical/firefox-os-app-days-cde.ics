@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1351
+CLASS:PUBLIC
+DTSTAMP:20200423T205856Z
+DTSTART:20131019T120000Z
+DTEND:20131019T200000Z
+LOCATION:Facultad Politecnica - Universidad Nacional del Este\, Ciudad del
+  Este\, Paraguay
+SUMMARY:Firefox OS App Days CDE
+DESCRIPTION:Workshop of apps for Firefox OS\, continuing with which we had
+  already done in Asuncion.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-cde/
+SEQUENCE:2
+X-COORDINATES-LAT:-25.5011770828
+X-COORDINATES-LON:-54.6297633648
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

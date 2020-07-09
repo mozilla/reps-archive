@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1515
+CLASS:PUBLIC
+DTSTAMP:20200423T205256Z
+DTSTART:20131109T183000Z
+DTEND:20131109T213000Z
+LOCATION:Restaurant Contertulio\, Calle 8 entre Carreras 21 y 22\, Barquis
+ imeto\, Venezuela
+SUMMARY:Firefox 9th Birthday Party
+DESCRIPTION:To celebrate the 9th aniversary of the launch of Mozilla Firef
+ ox web browser we are going to have a party with a lot of CAKE\, share exp
+ eriences\, and talk with the local contributors and free software adepts.
+URL:https://reps.mozilla.org/e/firefox-9th-birthday-party/
+SEQUENCE:3
+X-COORDINATES-LAT:10.069659
+X-COORDINATES-LON:-69.2994
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5794
+CLASS:PUBLIC
+DTSTAMP:20200407T180521Z
+DTSTART:20160929T060000Z
+DTEND:20160929T100000Z
+LOCATION:Galesia Hotel &amp; Restaurant\, Banani Model Town\, Bangladesh
+SUMMARY:MozCoffee at AIUB 2K16
+DESCRIPTION:This event will cover several topics\, current situation of Fi
+ refox at AIUB community\, welcoming new recruits. Besides that other focus
+ ing topics are discussion about Active Mozilla Community\, Maker Party\, C
+ onnected Devices\, Mozilla Tech Speaker Program\, Mozilla Clubs\, inspirin
+ g WoMoz. Also new club lead will be announced. \n\nWe will use hashtag: #M
+ ozCoffeeAIUB2k16
+URL:https://reps.mozilla.org/e/mozcoffee-at-aiub-2k16/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7940592342
+X-COORDINATES-LON:90.4038691512
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7586
+CLASS:PUBLIC
+DTSTAMP:20200407T174250Z
+DTSTART:20180324T080000Z
+DTEND:20180325T160000Z
+LOCATION:249 rue de Vendôme 69003 Lyon\, Lyon\, France
+SUMMARY:JDLL 2018
+DESCRIPTION:JDLL 20 years edition (aka Journées du Logiciel Libre = Free 
+ Software Days) is a french speaking event on free and open source software
+  held in Lyon since 1998.\n2018 is the 19th edition of the event.\nLast ed
+ ition was in 2017: https://reps.mozilla.org/e/jdll-2017/
+URL:https://reps.mozilla.org/e/jdll-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:45.7559962132
+X-COORDINATES-LON:4.8474919796
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

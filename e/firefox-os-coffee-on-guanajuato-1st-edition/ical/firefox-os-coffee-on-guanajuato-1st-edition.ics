@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2063
+CLASS:PUBLIC
+DTSTAMP:20200423T215447Z
+DTSTART:20130410T010000Z
+DTEND:20130411T170000Z
+LOCATION:TBD\, Guanajuato\, Mexico
+SUMMARY:Firefox OS Coffee on Guanajuato (1st edition)
+DESCRIPTION:I&#39;m going to have a meeting with a medium group of students at
+  a local Coffee on Guanajuato to show Firefox OS and make some demos.\n\nT
+ he idea is to begin creating community about Firefox OS and eventually rea
+ ch some app developers interested in the OS in Guanajuato.\n\nGuanajuato i
+ s well known for its high-percent-of-students population.\nLong story shor
+ t: \nwait for it (500 characters limit)===
+URL:https://reps.mozilla.org/e/firefox-os-coffee-on-guanajuato-1st-edition
+ /
+SEQUENCE:3
+X-COORDINATES-LAT:17.9733101238
+X-COORDINATES-LON:-92.9400869681
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

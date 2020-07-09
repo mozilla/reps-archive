@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4182
+CLASS:PUBLIC
+DTSTAMP:20200423T163914Z
+DTSTART:20150919T050000Z
+DTEND:20150919T090000Z
+LOCATION:TBA\, Angeles City\, Philippines
+SUMMARY:Firefox OS Workshop Pampanga Developers Group
+DESCRIPTION:At the request of the Pampanga Developers Group\, the Mozilla 
+ Philippines Community will be conducting a Firefox OS Apps Development Wor
+ kshop in the province.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-pampanga-developers-gro
+ up/
+SEQUENCE:1
+X-COORDINATES-LAT:15.0692504342
+X-COORDINATES-LON:120.675292946
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

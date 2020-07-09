@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6170
+CLASS:PUBLIC
+DTSTAMP:20200407T174628Z
+DTSTART:20170120T043000Z
+DTEND:20170121T103000Z
+LOCATION:IET\, DAVV College\, Indore\, India
+SUMMARY:Science Week DAVV
+DESCRIPTION:The science week is a week long event in which all of the city
+  colleges participate and is expo of the latest technologies and developme
+ nt. The last 2 days are reserved for talks/sessions/workshops in this even
+ t.\nWe have been given opportunity to present a talk on connected devices 
+ on one day and workshop for the same on the other day.
+URL:https://reps.mozilla.org/e/science-week-davv/
+SEQUENCE:3
+X-COORDINATES-LAT:22.7126453345
+X-COORDINATES-LON:75.8645325154
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

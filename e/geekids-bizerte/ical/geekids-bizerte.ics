@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@223
+CLASS:PUBLIC
+DTSTAMP:20200407T173659Z
+DTSTART:20121123T110000Z
+DTEND:20121123T170000Z
+LOCATION:37.2737321 9.8555674\, Bizerte\, Tunisia
+SUMMARY:GeekTeens-Bizerte
+DESCRIPTION:As Open Web advocates\, it is our mission to make young people
+  know about a safe and total user experience web and this since their youn
+ g age. As a first step\, we wish to introducing to those people the best p
+ ractices to use the web.Then we wish to show them that the web is not only
+  visiting Facebook but also they can build it by coding and learn programi
+ ng. In this context we are launching a whole program for 2012/2013 named B
+ eGeek where Geekids will be one of it variants. 
+URL:https://reps.mozilla.org/e/geekids-bizerte/
+SEQUENCE:0
+X-COORDINATES-LAT:37.2705011478
+X-COORDINATES-LON:9.86263275146
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

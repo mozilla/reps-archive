@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4119
+CLASS:PUBLIC
+DTSTAMP:20200423T165905Z
+DTSTART:20150725T070000Z
+DTEND:20150725T130000Z
+LOCATION:Mahebourg\, Mahebourg\, Mauritius
+SUMMARY:Mauritius Firefox OS Launch wk 6
+DESCRIPTION:Firefox OS launching campaign through the Orange KLIFF mobile 
+ continues for week-6 in Mauritius. This is the 6th and last week of a publ
+ ic launch campaign\, organised by Orange Mauritius from 9 May 2015\, which
+  will last for 6 weeks till July 25\, 2015. These events have been conduct
+ ed in different regions (cities and villages) of the Mauritius. Mozilla Ma
+ uritius team will be at the Orange Lor Baz event which will be held on 25 
+ July 2015 in the South of Mauritius at Mahebourg.
+URL:https://reps.mozilla.org/e/mauritius-firefox-os-launch-wk-6/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.4116760668
+X-COORDINATES-LON:57.6876067836
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

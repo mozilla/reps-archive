@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7295
+CLASS:PUBLIC
+DTSTAMP:20200423T100849Z
+DTSTART:20171230T093000Z
+DTEND:20171230T123000Z
+LOCATION:Silver Bird Cafe Agra\, Agra\, India
+SUMMARY:lets work with Rust @MozMPCG
+DESCRIPTION:Rust is a new systems programming language sponsored by Mozill
+ a. This event is to train developers\, students\, mozillians and budding p
+ rogrammers on Rust. Introduction to Rust\, Features of Rust\, Its Benefits
+ \, Don&#39;t worry most of us are just starting off.
+URL:https://reps.mozilla.org/e/moz-work-rust-mozmpcg/
+SEQUENCE:11
+X-COORDINATES-LAT:27.1565131813
+X-COORDINATES-LON:78.0283813365
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

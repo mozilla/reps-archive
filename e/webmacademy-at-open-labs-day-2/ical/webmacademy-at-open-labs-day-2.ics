@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3162
+CLASS:PUBLIC
+DTSTAMP:20200423T182226Z
+DTSTART:20141129T150000Z
+DTEND:20141129T180000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:Webmacademy at Open Labs - Day 2
+DESCRIPTION:After the success of the first Maker Party some of the attende
+ es of that event had the idea of a series of Maker Parties in a more inten
+ sive manner\, in order to be more fluent in web literacy. This is how the 
+ idea of Webmacademy was born. Webmacademy is a series of workshops that wi
+ ll teach the attendees code philosophy and web literacy. It is mainly focu
+ sed on the usage of  the Webmaker platform while still using the MDN resou
+ rces as a reference for HTML\, CSS and Javascript.
+URL:https://reps.mozilla.org/e/webmacademy-at-open-labs-day-2/
+SEQUENCE:3
+X-COORDINATES-LAT:41.3219450712
+X-COORDINATES-LON:19.8165486306
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

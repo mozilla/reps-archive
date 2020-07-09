@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8444
+CLASS:PUBLIC
+DTSTAMP:20200407T174242Z
+DTSTART:20190518T073000Z
+DTEND:20190519T153000Z
+LOCATION:Oficina\, Tirana\, Tirana\, Albania
+SUMMARY:OSCAL&#39;19 - Open Source Conference Albania 2019
+DESCRIPTION:OSCAL is the only annual conference in Albania organized to pr
+ omote software freedom\, open source software\, free culture and open know
+ ledge. The conference has a multi-track approach with 2 parallel talks\, 2
+  workshops tracks and community meetups. The 6th edition of the conference
+  is taking on 18th &amp; 19th of May 2019 and  will gather FLOSS users\, devel
+ opers\, academics\, governmental agencies. Participation and attendance is
+  free of charge and the organizing team is fully volunteer-based.
+URL:https://reps.mozilla.org/e/oscal-19-open-source-conference-albania-201
+ 9/
+SEQUENCE:1
+X-COORDINATES-LAT:41.3268106824
+X-COORDINATES-LON:19.8289489746
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

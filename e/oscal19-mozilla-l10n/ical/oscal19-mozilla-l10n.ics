@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8535
+CLASS:PUBLIC
+DTSTAMP:20200407T171645Z
+DTSTART:20190518T080000Z
+DTEND:20190519T160000Z
+LOCATION:Rruga Asim Vokshi\, Tirana\, Albania
+SUMMARY:OSCAL’19 - Mozilla L10n
+DESCRIPTION:OSCAL (Open Source Conference Albania) is the first annual con
+ ference in Albania organized to promote software freedom\, open source sof
+ tware\, free culture and open knowledge\, a global movement that originall
+ y started more than 30 years ago.
+URL:https://reps.mozilla.org/e/oscal19-mozilla-l10n/
+SEQUENCE:2
+X-COORDINATES-LAT:41.2803865546
+X-COORDINATES-LON:19.6306800842
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

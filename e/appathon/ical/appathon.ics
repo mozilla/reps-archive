@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3539
+CLASS:PUBLIC
+DTSTAMP:20200423T173904Z
+DTSTART:20150326T043000Z
+DTEND:20150327T113000Z
+LOCATION:CMR College of engineering\, Hyderabad\, India
+SUMMARY:Appathon
+DESCRIPTION:A day totally concentrated on Developing and Publishing apps f
+ or Firefox OS Mobile Platform. with hands- on sessions for This event is m
+ eant to Give a Clear view about Firefox OS Platform and how easily we can 
+ develop native applications for firefox OS and Encourage People to Develop
+  Apps for Firefox OS and also for the web developers to port their Apps to
+  Firefox OS.\n\nFirst Firefox OS Appathon in Hyderabad
+URL:https://reps.mozilla.org/e/appathon/
+SEQUENCE:7
+X-COORDINATES-LAT:17.2969121695
+X-COORDINATES-LON:78.6839990609
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

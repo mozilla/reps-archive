@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3609
+CLASS:PUBLIC
+DTSTAMP:20200423T174636Z
+DTSTART:20150306T213000Z
+DTEND:20150307T003000Z
+LOCATION:Food court City center mall\, Nashik\, India
+SUMMARY:MozCoffee Nashik
+DESCRIPTION:A small meet over coffee. (Council member + REPs + FSAs)\nAgen
+ da:\n1) planing future events\n2) community building \n3) discussion on ne
+ w event formats\n4) new contribution areas for the FSAs
+URL:https://reps.mozilla.org/e/mozcoffee-nashik/
+SEQUENCE:0
+X-COORDINATES-LAT:19.9833
+X-COORDINATES-LON:73.8
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

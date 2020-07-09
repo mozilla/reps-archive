@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4411
+CLASS:PUBLIC
+DTSTAMP:20200423T163306Z
+DTSTART:20151003T033000Z
+DTEND:20151003T103000Z
+LOCATION:Oriental College\, Bhopal\, Bhopal\, India
+SUMMARY:Mozilla Awareness Day at Firefox Club OCT
+DESCRIPTION:Firefox Club OCT \, leaded by Aditya Shah has give so many con
+ tributors to the regional community (Mozilla MP) and now they are organizi
+ ng a workshop for the fresh wave of students admitted this year in college
+ . This will not only strengthen the roots of club but will also help us gr
+ ow our community base in the college.\n\n\nPics: https://drive.google.com/
+ folderview?id=0B9PKhbiaSRjHRjktUjdTdlpVTGs&amp;usp=sharing
+URL:https://reps.mozilla.org/e/mozilla-awareness-day-at-firefox-club-oct/
+SEQUENCE:4
+X-COORDINATES-LAT:23.2674431328
+X-COORDINATES-LON:77.3751492798
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

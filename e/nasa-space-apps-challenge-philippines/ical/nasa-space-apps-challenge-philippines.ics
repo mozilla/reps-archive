@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5215
+CLASS:PUBLIC
+DTSTAMP:20200423T153148Z
+DTSTART:20160422T110000Z
+DTEND:20160424T100000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:NASA Space Apps Challenge Philippines
+DESCRIPTION:Spearheaded by NASA\, Space Apps is an international hackathon
+  that occurs over 48 hours in cities around the world. In the Philippines\
+ , several cities are hosting this hackathon.\n\nOur event will be held in 
+ Makati City\, the country’s Commercial and Business District from Friday
+  22 April 2016 evening until the afternoon of Sunday 24 April 2016 at the 
+ Mozilla Community Space Manila (MozSpaceMNL).
+URL:https://reps.mozilla.org/e/nasa-space-apps-challenge-philippines/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5470714838
+X-COORDINATES-LON:121.015853405
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7929
+CLASS:PUBLIC
+DTSTAMP:20200423T091018Z
+DTSTART:20180815T050000Z
+DTEND:20180816T000000Z
+LOCATION:Wizeline Mexico City\,  Av. Álvaro Obregón 190\, Roma Nte.\, 06
+ 700 Ciudad de México\, CDMX\, Ciudad de México\, Mexico
+SUMMARY:Eventloop Meetup
+DESCRIPTION:The javascript community in Mexico City is a non-profit organi
+ zation\, with the objective of rising the technical prowess of the the dev
+ elopers in city\, through cooperation and the sharing of professional expe
+ riences.\n\nWe have three main areas of interest:\n\nCommunity - Monthly e
+ vents oriente to JavaScript programming language.\nEducation - Free worksh
+ ops to help the community acquire basic to intermediate level skills.\nVis
+ ibility - Highlight the national technology creators.
+URL:https://reps.mozilla.org/e/eventloop-meetup/
+SEQUENCE:5
+X-COORDINATES-LAT:19.2662085284
+X-COORDINATES-LON:-99.0292972326
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

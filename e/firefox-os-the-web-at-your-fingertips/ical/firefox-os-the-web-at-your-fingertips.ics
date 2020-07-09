@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1076
+CLASS:PUBLIC
+DTSTAMP:20200423T210119Z
+DTSTART:20131014T220000Z
+DTEND:20131016T010000Z
+LOCATION:Rua Alcyr Antonio de Lima\, 200\, Fernandópolis\, Brazil
+SUMMARY:Firefox OS\, the web at your fingertips
+DESCRIPTION:The event will take place at the FEF (Educational Foundation F
+ ernandopolis). It is a college with courses in various fields and perform 
+ weeks of talks to disclose matters relevant to their students.\n\nAbout th
+ e talk: Explain what is Firefox OS and show in practice with Keon&#39;s the sy
+ stem running.\nBring new members to Mobilizers Brazil\, evangelizing peopl
+ e to know the Brazilian community and above all\, show the principles of M
+ ozilla.
+URL:https://reps.mozilla.org/e/firefox-os-the-web-at-your-fingertips/
+SEQUENCE:3
+X-COORDINATES-LAT:-22.895311
+X-COORDINATES-LON:-47.030198
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

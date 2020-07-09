@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5913
+CLASS:PUBLIC
+DTSTAMP:20200423T145419Z
+DTSTART:20160923T033000Z
+DTEND:20160923T110000Z
+LOCATION:Daffodil International University\, Dhaka\, Bangladesh
+SUMMARY:Firefox QA Hack Day\, Dhaka
+DESCRIPTION:Firefox QA Hack Day\, Dhaka will be our first try to align Moz
+ Activate with QA. We shall be working together\, Contributors and Particip
+ ants\, to see how this goes and how we can improve.\n\nThis is a day long 
+ hack session where the main purpose will be learn and hack so that we can 
+ improve in our upcoming sessions. We will be collecting feedback from the 
+ participants which we shall use to improve our further initiatives.
+URL:https://reps.mozilla.org/e/firefox-qa-hack-day-dhaka/
+SEQUENCE:0
+X-COORDINATES-LAT:23.746328883
+X-COORDINATES-LON:90.3817601502
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6366
+CLASS:PUBLIC
+DTSTAMP:20200423T111751Z
+DTSTART:20170408T043000Z
+DTEND:20170409T093000Z
+LOCATION:Sahayadri College\, Mangalore\, India
+SUMMARY:Mozilla Developer Camp - Mangalore
+DESCRIPTION:A student run event on campus including Rust\, python and Fire
+ fox.
+URL:https://reps.mozilla.org/e/mozilla-developer-camp-mangalore/
+SEQUENCE:3
+X-COORDINATES-LAT:12.8327797213
+X-COORDINATES-LON:74.8747558147
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

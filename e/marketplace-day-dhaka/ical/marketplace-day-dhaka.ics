@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4807
+CLASS:PUBLIC
+DTSTAMP:20200423T155945Z
+DTSTART:20151226T030000Z
+DTEND:20151226T130000Z
+LOCATION:HubDhaka\, Dhaka\, Bangladesh
+SUMMARY:Marketplace &amp; AMO Hackfest Dhaka
+DESCRIPTION:This event will be co-organized by Tanha Islam and Atique Ahme
+ d Ziad. In this event participants will be\nHacking marketplace\,\nAmo cod
+ ebase &amp; \nFixing bugs.
+URL:https://reps.mozilla.org/e/marketplace-day-dhaka/
+SEQUENCE:18
+X-COORDINATES-LAT:24.142834489
+X-COORDINATES-LON:90.2786293886
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2021
+CLASS:PUBLIC
+DTSTAMP:20200407T183219Z
+DTSTART:20140322T013000Z
+DTEND:20140322T100000Z
+LOCATION:International Club Office Tower 800A\, 21 Jian Guo Men Wai Avenue
+ \, Chaoyang District\, Beijing\, 100020\, P.R.China\, Beijing\, China
+SUMMARY:Firefox OS App Workshop - Beijing
+DESCRIPTION:Welcome to join Firefox OS App workshop in Beijing! We will ha
+ ve speakers from Mozilla China to introduce and share Firefox OS and Firef
+ ox OS application development tips in the morning. We will have hackthon i
+ n the afternoon. And there will be Firefox OS engineers on site support fo
+ r any question you meet during developing Firefox OS applications Also\, w
+ e will provide 6 Firefox OS phones for developer teams to deploy and test 
+ their applications on the phone physically.
+URL:https://reps.mozilla.org/e/firefox-os-app-workshop-beijing/
+SEQUENCE:1
+X-COORDINATES-LAT:39.9083207253
+X-COORDINATES-LON:116.433813572
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

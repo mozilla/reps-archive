@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4443
+CLASS:PUBLIC
+DTSTAMP:20200407T165853Z
+DTSTART:20150912T160000Z
+DTEND:20160116T200000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:Mozilla Academy Albania 2015
+DESCRIPTION:Mozilla Academy is a series of technical events focused on eve
+ rything Firefox OS\, Firefox and Webmaker. It consists of weekly events\, 
+ presentations and meetups with the aim to boost local technical contributi
+ ons throughout an intensive 4 month long campaign.\n\nMozilla Academy even
+ ts will take place in the local Open Labs hackerspace\, public and private
+  institutions and other venues.
+URL:https://reps.mozilla.org/e/mozilla-academy-albania-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:41.3216292341
+X-COORDINATES-LON:19.8289986845
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

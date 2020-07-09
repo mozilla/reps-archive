@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6943
+CLASS:PUBLIC
+DTSTAMP:20200423T104209Z
+DTSTART:20170909T053000Z
+DTEND:20170909T083000Z
+LOCATION:Gyan Ganga College of Technology\, Jabalpur\, India
+SUMMARY:Introduction to Web and Mozilla
+DESCRIPTION:This is the first event by GGCT campus club\, basically this i
+ s an introductory event so that students can get in touch with Mozilla and
+  its functionality. \nAfter introduction to Web and Mozilla\, we are conce
+ ntrating on teaching HTML.\nContact Organizer for more details: \nGaganpre
+ et Singh : +918319782718
+URL:https://reps.mozilla.org/e/introduction-to-web-and-mozilla/
+SEQUENCE:6
+X-COORDINATES-LAT:23.1455286649
+X-COORDINATES-LON:79.9157506225
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

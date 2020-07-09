@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@433
+CLASS:PUBLIC
+DTSTAMP:20200407T173707Z
+DTSTART:20130126T140000Z
+DTEND:20130127T010000Z
+LOCATION:Tecnoparque.  Calle 54 # 10-39  Piso 5\, Bogotá\, Colombia
+SUMMARY:FirefoxOS App Days Bogotá
+DESCRIPTION:This event is a Hackathon. We will share an space\, experience
+ s\, videos and food building apps for FirefoxOS. You can bring your HTML5 
+ application that has begun to continue it\, stop it\, or simply present it
+ .
+URL:https://reps.mozilla.org/e/firefoxos-app-days-bogota/
+SEQUENCE:0
+X-COORDINATES-LAT:4.64055240041
+X-COORDINATES-LON:-74.0644544363
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2720
+CLASS:PUBLIC
+DTSTAMP:20200423T191100Z
+DTSTART:20140823T093000Z
+DTEND:20140823T123000Z
+LOCATION:Ganpati Mandir Hall\, Kalpana nagar\, College Road\, Nashik 5\, N
+ ashik\, India
+SUMMARY:Mahila Mandal Internet Session
+DESCRIPTION:A basic internet session for the house wives. As these house w
+ ives have very less or no knowledge about computers and internet. So this 
+ event is totally focused on teaching basic internet.
+URL:https://reps.mozilla.org/e/mahila-mandal-internet-session/
+SEQUENCE:2
+X-COORDINATES-LAT:20.0062828055
+X-COORDINATES-LON:73.7617739436
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

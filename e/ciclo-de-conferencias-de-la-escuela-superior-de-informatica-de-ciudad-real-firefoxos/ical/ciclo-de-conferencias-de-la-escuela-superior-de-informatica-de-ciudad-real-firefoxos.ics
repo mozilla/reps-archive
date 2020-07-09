@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@775
+CLASS:PUBLIC
+DTSTAMP:20200407T181241Z
+DTSTART:20130425T103000Z
+DTEND:20130425T123000Z
+LOCATION:Escuela superior de informática\, Ciudad Real\, Spain
+SUMMARY:Ciclo de Conferencias de la Escuela Superior de Informática de Ci
+ udad Real - FirefoxOS
+DESCRIPTION:Talk about FirefoxOS and HTML5.\n\nI will talk about FirefoxOS
+ \, Mozilla efforts on a trully open mobile device\, and also who is Mozill
+ a in the internet world. Also\, try to engage some students to help with t
+ he FirefoxOS launch in Spain.
+URL:https://reps.mozilla.org/e/ciclo-de-conferencias-de-la-escuela-superio
+ r-de-informatica-de-ciudad-real-firefoxos/
+SEQUENCE:2
+X-COORDINATES-LAT:38.9848993527
+X-COORDINATES-LON:-3.93980026245
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

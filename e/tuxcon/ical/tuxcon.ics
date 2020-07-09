@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2498
+CLASS:PUBLIC
+DTSTAMP:20200407T182328Z
+DTSTART:20140628T050000Z
+DTEND:20140629T150000Z
+LOCATION:International Fair\, Plovdiv\, Bulgaria
+SUMMARY:TuxCon
+DESCRIPTION:TuxCon is a community-driven event about free and open-source 
+ software for mobile\, embedded and wearable devices. The event is organize
+ d by Plovdiv&#39;s hackerspace Hackafe and the entry is free.
+URL:https://reps.mozilla.org/e/tuxcon/
+SEQUENCE:3
+X-COORDINATES-LAT:42.156371634
+X-COORDINATES-LON:24.7536678312
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2754
+CLASS:PUBLIC
+DTSTAMP:20200423T185545Z
+DTSTART:20140920T140000Z
+DTEND:20140920T170000Z
+LOCATION:Isabel la católica No. 51\, esq. con Venustiano carranza Col Cen
+ tro\, México D.F.\, Lindavista\, Mexico
+SUMMARY:Software Freedom Day G3ek Army
+DESCRIPTION:In G3ekArmy we are planning to celebrate one of the most impor
+ tant days of free software !. Worldwide Learn from the hands of the expert
+ s and users every day dealing Free Software technologies and we share thei
+ r experiences. We will have a series of workshops\, roundtables and Video 
+ about meaning free software\, which is the cause and what are the benefits
+  and philosophy of it.
+URL:https://reps.mozilla.org/e/software-freedom-day-g3ek-army/
+SEQUENCE:5
+X-COORDINATES-LAT:19.4310294977
+X-COORDINATES-LON:-99.1367973984
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

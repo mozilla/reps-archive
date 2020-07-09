@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8633
+CLASS:PUBLIC
+DTSTAMP:20200423T082213Z
+DTSTART:20190628T000000Z
+DTEND:20190628T030000Z
+LOCATION:Universidad de Ingeniería y Tecnología\, Barranco\, Peru
+SUMMARY:Mozilla Perú Meetup June 2019
+DESCRIPTION:En este meetup nos enfocaremos en Rust\, un nuevo lenguaje de 
+ programación que está siendo desarrollador por Mozilla.\n\nAgenda:
+URL:https://reps.mozilla.org/e/mozilla-peru-meetup-june-2019/
+SEQUENCE:3
+X-COORDINATES-LAT:-12.1351088537
+X-COORDINATES-LON:-77.021961987
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4570
+CLASS:PUBLIC
+DTSTAMP:20200407T182310Z
+DTSTART:20160130T043000Z
+DTEND:20160130T113000Z
+LOCATION:Babaria Institute of  Technology\, Vadodara\, Gujarat\, Vadodara\
+ , India
+SUMMARY:Mozilla Outreach Program at BIT\, Vadodara
+DESCRIPTION:Mozilla is absent in Vadodara. This event mainly focuses on re
+ aching out to the students of Babaria Institute of Technology(BIT)\, intro
+ duce them and help them understand\, the Mozilla missions\, projects &amp; pro
+ ducts. The program will also target at encouraging students to explore the
+ ir interests in a plethora of ideas followed by a Firefox Club launch.
+URL:https://reps.mozilla.org/e/mozilla-outreach-program-at-bit-vadodara/
+SEQUENCE:7
+X-COORDINATES-LAT:22.2829414205
+X-COORDINATES-LON:73.1990396976
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

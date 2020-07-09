@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8204
+CLASS:PUBLIC
+DTSTAMP:20200407T180454Z
+DTSTART:20181020T090000Z
+DTEND:20181020T140000Z
+LOCATION:Blokhuisplein 40 8911 LJ  Leeuwarden\, Leeuwarden\, Netherlands
+SUMMARY:digi bites
+DESCRIPTION:digi bites - je leven online\n\nEen tof festival. Voor jong en
+  oud. Zaterdag 20 oktober 11.00-16.00 uur. dbieb Leeuwarden. Gratis toegan
+ g. Aanmelden is niet nodig.\n\n\ndigi bites - your online live\n\nA cool f
+ estival. For young en old. Saturday October 20\, 11.00-16.00. dbieb Leeuwa
+ rden. Free access. Registration is not needed.
+URL:https://reps.mozilla.org/e/digi-bites/
+SEQUENCE:1
+X-COORDINATES-LAT:53.199881968
+X-COORDINATES-LON:5.80017328241
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

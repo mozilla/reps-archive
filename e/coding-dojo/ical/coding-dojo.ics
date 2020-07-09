@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1275
+CLASS:PUBLIC
+DTSTAMP:20200407T175504Z
+DTSTART:20130918T230000Z
+DTEND:20130919T020000Z
+LOCATION:Casa Blanca\, Medellin\, Colombia
+SUMMARY:Coding Dojo
+DESCRIPTION:This is a meeting for developers.  A challenge is proposed jus
+ t for fun or to teach how to code and improve coding habilities. The group
+  &#34;Agiles Colombia&#34; will be present and thi group promotes software metodol
+ ogies\, frameworks\, APIs\, programming languages etc.
+URL:https://reps.mozilla.org/e/coding-dojo/
+SEQUENCE:3
+X-COORDINATES-LAT:6.2102715381
+X-COORDINATES-LON:-75.5653810501
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8804
+CLASS:PUBLIC
+DTSTAMP:20200407T174043Z
+DTSTART:20190908T090000Z
+DTEND:20190909T130000Z
+LOCATION:AUST\, Dhaka\, Bangladesh
+SUMMARY:Introduction to Git and Github at AUST
+DESCRIPTION:The event is designed to help students who want to learn Git\,
+  Github and interested in contributing to open source.
+URL:https://reps.mozilla.org/e/introduction-to-git-and-github-at-aust/
+SEQUENCE:9
+X-COORDINATES-LAT:23.7643003919
+X-COORDINATES-LON:90.4065011814
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

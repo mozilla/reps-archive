@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8578
+CLASS:PUBLIC
+DTSTAMP:20200407T165021Z
+DTSTART:20190512T170000Z
+DTEND:20190513T160000Z
+LOCATION:The internet\, Jakarta\, Indonesia
+SUMMARY:Review Team nomination
+DESCRIPTION:**This is limited for the Resources Rep.**\n\nThe Review Team 
+ is a specialized group responsible in review and approving or rejecting ev
+ ery budget requests made by Mozilla Reps. This team is working in close co
+ ordination and supervision of Reps Council. \n\nIf you&#39;re part of the Reso
+ urces Rep group\, you can nominate yourselves to join as a Review Team mem
+ ber. The nomination will last until Monday\, 13 of May 2019 and The Reps C
+ ouncil will take the final decision.
+URL:https://reps.mozilla.org/e/review-team-nomination/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.27525802178
+X-COORDINATES-LON:106.898437142
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

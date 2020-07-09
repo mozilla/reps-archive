@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1875
+CLASS:PUBLIC
+DTSTAMP:20200423T200552Z
+DTSTART:20140409T220000Z
+DTEND:20140411T020000Z
+LOCATION:Milton Terra Verde St.\, 420\, Fernandópolis\, Brazil
+SUMMARY:Out of The Box - Meeting of recycling and IT innovation and market
+ ing
+DESCRIPTION:Providing to professionals in the IT area in Fernandópolis an
+ d region\, opportunities to know new ways to development in the world of i
+ nformation technology. The event will have speakers from all over Brazil t
+ eaching these new technologies to leveraging innovation processes and stim
+ ulating the growth of IT sector and its services.
+URL:https://reps.mozilla.org/e/1o-out-of-the-box/
+SEQUENCE:7
+X-COORDINATES-LAT:-20.2827382463
+X-COORDINATES-LON:-50.2496395115
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2801
+CLASS:PUBLIC
+DTSTAMP:20200407T182123Z
+DTSTART:20140910T220000Z
+DTEND:20140913T010000Z
+LOCATION:UNIT - Campus Farolândia\, Aracaju\, Brazil
+SUMMARY:Semana da Informática UNIT
+DESCRIPTION:UNIT (Universidade Tiradentes) is organizing a technology week
+  from September 10 to 12. We&#39;ll be presenting about Firefox OS and how we 
+ are reinventing and creating a new web. \n\nOn September 10th\, we&#39;ll be g
+ iving a presentation for around 250 people to introduce them to Firefox OS
+  and WebAPIs. \n\nOn September 11th\, we&#39;ll host a hands-on hackathon for 
+ approximately 40 attendees\, with the purpose of getting apps created and 
+ to answer questions that developers might have.
+URL:https://reps.mozilla.org/e/semana-da-informatica-unit/
+SEQUENCE:6
+X-COORDINATES-LAT:-10.9681750324
+X-COORDINATES-LON:-37.0581521984
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

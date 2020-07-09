@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2897
+CLASS:PUBLIC
+DTSTAMP:20200423T185209Z
+DTSTART:20140928T033000Z
+DTEND:20140928T173000Z
+LOCATION:https://scrollback.io/remote-maker-party (Remote participation)\,
+  being monitored from Kolkata\, Kolkata\, India
+SUMMARY:Remote Maker Party
+DESCRIPTION:We are organizing this event for some of our new contributors 
+ who are unaware of maker party.\n\nGetting a venue\, gathering everyone to
+ gether has often been a problem both from the logistical view point as wel
+ l as for the participants. We thus thought of experimenting with an online
+  version of Maker Party\, where anyone with a decent internet connection\,
+  from any part of the world can join in and make the web.
+URL:https://reps.mozilla.org/e/remote-maker-party/
+SEQUENCE:2
+X-COORDINATES-LAT:22.5568329656
+X-COORDINATES-LON:88.358738
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7622
+CLASS:PUBLIC
+DTSTAMP:20200423T093736Z
+DTSTART:20180510T053000Z
+DTEND:20180510T123000Z
+LOCATION:Computer Institute\,Kaghaznagar\, Warangal\, India
+SUMMARY:Sumo Marathon #2018
+DESCRIPTION:After the event Sumo Marathon #2017 we have are doing this eve
+ nt as a part of series in order to extend SUMO activities to other cities.
+  Getting started with SUMO and the knowledge base Localization sprint. Als
+ o \,In this event we will discuss for tools to be used for Translation of 
+ articles in Tamil we will set our goal for upcoming quarter of 2018.
+URL:https://reps.mozilla.org/e/sumo-marathon-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:19.3499115119
+X-COORDINATES-LON:79.4913482387
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

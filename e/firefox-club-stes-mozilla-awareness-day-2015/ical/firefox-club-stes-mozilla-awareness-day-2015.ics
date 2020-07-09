@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3913
+CLASS:PUBLIC
+DTSTAMP:20200423T170557Z
+DTSTART:20150706T053000Z
+DTEND:20150706T103000Z
+LOCATION:Smt. Kashibai Navale College of Engineering\, Vadgaon(Bk.)\, Pune
+ \, Pune\, India
+SUMMARY:FIREFOX CLUB STES - Mozilla Awareness Day (2015)
+DESCRIPTION:The event has been organized to create an awareness about Open
+  Source\, Mozilla and Webmaker tools. A special emphasis of this event wou
+ ld be on the Firefox Student Ambassador program and Webmaker tools.
+URL:https://reps.mozilla.org/e/firefox-club-stes-mozilla-awareness-day-201
+ 5/
+SEQUENCE:3
+X-COORDINATES-LAT:18.4680881712
+X-COORDINATES-LON:73.8366143703
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

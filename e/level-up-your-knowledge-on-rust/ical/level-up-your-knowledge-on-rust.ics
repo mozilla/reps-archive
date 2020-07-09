@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6854
+CLASS:PUBLIC
+DTSTAMP:20200407T180021Z
+DTSTART:20170924T030000Z
+DTEND:20170924T080000Z
+LOCATION:Padepokan Asa Wedomartini\, Sleman\, Indonesia
+SUMMARY:Level up your knowledge on Rust
+DESCRIPTION:Second Rust meetup from Rust Community Indonesia. In this meet
+ up we will discuss about tips and tricks around programming in Rust. There
+  will be some speakers from around Jogja &amp; Jakarta.
+URL:https://reps.mozilla.org/e/level-up-your-knowledge-on-rust/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.7076154
+X-COORDINATES-LON:110.4344184
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

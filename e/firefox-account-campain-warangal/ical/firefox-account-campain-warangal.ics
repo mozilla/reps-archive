@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9006
+CLASS:PUBLIC
+DTSTAMP:20200407T171645Z
+DTSTART:20200125T043000Z
+DTEND:20200125T073000Z
+LOCATION:TBD\, Warangal\, India
+SUMMARY:Firefox Account Campain - Warangal
+DESCRIPTION:This event is about supporting the Firefox Account Campain\, a
+ im of this to introduce firefox accounts and Mozilla privacy tools.
+URL:https://reps.mozilla.org/e/firefox-account-campain-warangal/
+SEQUENCE:1
+X-COORDINATES-LAT:17.990373172
+X-COORDINATES-LON:79.5913231373
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

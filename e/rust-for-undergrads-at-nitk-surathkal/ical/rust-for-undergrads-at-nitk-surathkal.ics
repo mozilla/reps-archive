@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7437
+CLASS:PUBLIC
+DTSTAMP:20200423T095648Z
+DTSTART:20180224T043000Z
+DTEND:20180224T103000Z
+LOCATION:NITK Surathkal\, Surathkal\, India
+SUMMARY:Rust for undergrads at NITK-Surathkal
+DESCRIPTION:Aim: Encouraging undergrads to re-write C/C++ questions in the
+ ir academics\, job interview and programming practice problems into Rust l
+ anguage.\n\nGoals: To make it easy for undergrads to start programming in 
+ Rust. To advocate universities/schools to use Rust for beginner courses(li
+ ke example C/C++ is used) and courses like operating systems.\n\nLevel: Be
+ ginner/Intermediate
+URL:https://reps.mozilla.org/e/rust-for-undergrads-at-nitk-surathkal/
+SEQUENCE:4
+X-COORDINATES-LAT:13.010839
+X-COORDINATES-LON:74.79431
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

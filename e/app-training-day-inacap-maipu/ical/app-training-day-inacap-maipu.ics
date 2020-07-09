@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3946
+CLASS:PUBLIC
+DTSTAMP:20200423T164509Z
+DTSTART:20150905T140000Z
+DTEND:20150905T190000Z
+LOCATION:Av. Américo Vespucio 974\, Maipú\, Maipú\, Chile
+SUMMARY:App Training Day Inacap Maipú
+DESCRIPTION:This event is a Hackathon. We will share an space\, experience
+ s\, videos and food building apps for FirefoxOS. Important Bring your lapt
+ op (GNU/Linux\, Mac or Windows and device (s)). We&#39;ll provide everything e
+ lse.
+URL:https://reps.mozilla.org/e/app-training-day-inacap-maipu/
+SEQUENCE:2
+X-COORDINATES-LAT:-33.4803893569
+X-COORDINATES-LON:-70.7557368287
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

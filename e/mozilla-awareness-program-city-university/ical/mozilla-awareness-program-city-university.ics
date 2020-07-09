@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4771
+CLASS:PUBLIC
+DTSTAMP:20200423T162140Z
+DTSTART:20151029T070000Z
+DTEND:20151029T110000Z
+LOCATION:City University\, City Campus\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awareness Program @ City University
+DESCRIPTION:Awareness Event in Support of Windows 10 Campaign
+URL:https://reps.mozilla.org/e/mozilla-awareness-program-city-university/
+SEQUENCE:1
+X-COORDINATES-LAT:23.9980638611
+X-COORDINATES-LON:90.4275789857
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

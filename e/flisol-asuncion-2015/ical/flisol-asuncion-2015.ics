@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3757
+CLASS:PUBLIC
+DTSTAMP:20200407T182133Z
+DTSTART:20150425T180000Z
+DTEND:20150425T220000Z
+LOCATION:Molas Lopez Nº 480\, Asuncion\, Paraguay
+SUMMARY:Flisol Paraguay - Asunción
+DESCRIPTION:FLISoL is the biggest event for spreading Software Libre since
+  2005\, performed simultaneously in different countries of Latin America. 
+ \n\nThis festival is an opportunity for all those people interested on kno
+ w more about Software Libre. Getting involved makes it possible to get in 
+ touch with the world of Software Libre\, meet other users\, resolve doubts
+  and questions\, exchange opinions and experiences\, attend to informative
+  talks and others activities.
+URL:https://reps.mozilla.org/e/flisol-asuncion-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:-25.2782565377
+X-COORDINATES-LON:-57.5623628777
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

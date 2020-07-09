@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2783
+CLASS:PUBLIC
+DTSTAMP:20200407T171716Z
+DTSTART:20140927T070000Z
+DTEND:20140927T140000Z
+LOCATION:jordan unvirsty of since and technolgy\, irbed\, Jordan
+SUMMARY:J.U.S.T FSA traning
+DESCRIPTION:this event for training fsa&#39;s of Jordan university of since an
+ d technology \nwe will be training the fsa on different subject of Mozilla
+  so they can mange the club and represent there role effectively .\nsubjec
+ ts:\n1-what is Mozilla ?\n2-the fsa program.\n3-webmaker\n4-firefox OS  de
+ velopment and programming.\n5-loclization.\n6-addons.\n7-documntion.\n8-WO
+ MZ.\n9-privacy and security\nAlso we are having multiple hackathons for lo
+ calization and webmaker .
+URL:https://reps.mozilla.org/e/j-u-s-t-fsa-traning/
+SEQUENCE:5
+X-COORDINATES-LAT:32.4918034209
+X-COORDINATES-LON:35.9871454211
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

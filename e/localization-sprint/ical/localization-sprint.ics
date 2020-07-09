@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3016
+CLASS:PUBLIC
+DTSTAMP:20200407T180455Z
+DTSTART:20141128T123000Z
+DTEND:20141128T150000Z
+LOCATION:Kafee Van Buren\, Oranjehotel\, Leeuwarden\, Netherlands
+SUMMARY:Localization sprint
+DESCRIPTION:We are going to gather people to do a localization sprint for 
+ Facebook. While working on this we will demonstrate the powers of Firefox 
+ with add-ons like dictionaries and social media.
+URL:https://reps.mozilla.org/e/localization-sprint/
+SEQUENCE:3
+X-COORDINATES-LAT:53.1970947025
+X-COORDINATES-LON:5.79347670076
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2468
+CLASS:PUBLIC
+DTSTAMP:20200407T175859Z
+DTSTART:20140823T050000Z
+DTEND:20140823T090000Z
+LOCATION:Palet Express\, Molave Building 2231 Chino Roces Ave.\, Pasay Cit
+ y\, Philippines
+SUMMARY:FSA Maker Party Training I
+DESCRIPTION:In celebration of the Maker Party Season\, the Mozilla Philipp
+ ines Community organize a Maker Party for FSA\, where the attendees can ha
+ ve a deepen understanding what is Webmaker project of Mozilla. In this ses
+ sion\, we will focus on the Thimble\, Popmaker maker and X-ray goggles. At
+  the end of the training session attendees will be more confident in creat
+ ing their own maker party and teach the others.
+URL:https://reps.mozilla.org/e/fsa-maker-party-training-i/
+SEQUENCE:5
+X-COORDINATES-LAT:14.5386387947
+X-COORDINATES-LON:121.020312309
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

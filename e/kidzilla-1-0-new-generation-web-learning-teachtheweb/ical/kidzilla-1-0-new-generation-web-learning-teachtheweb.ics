@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4351
+CLASS:PUBLIC
+DTSTAMP:20200423T164048Z
+DTSTART:20150918T043000Z
+DTEND:20150918T093000Z
+LOCATION:ZP Primary School Narhe School\, Pune\, India
+SUMMARY:KidZilla 1.0 : New generation web learning  #TeachTheWeb
+DESCRIPTION:1)Computer Basics\n2)Internet : Another source for learning \n
+ 3)Introduction to Mozilla.\n 4)MozKids: ways to connect with Mozilla. (for
+  kids)\n5)Introduction to Mozilla products and tools.\n6)Competition \n7)D
+ oubts and Ending Notes.
+URL:https://reps.mozilla.org/e/kidzilla-1-0-new-generation-web-learning-te
+ achtheweb/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5111108306
+X-COORDINATES-LON:73.857563
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

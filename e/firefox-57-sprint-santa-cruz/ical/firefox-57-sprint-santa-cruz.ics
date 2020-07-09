@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6958
+CLASS:PUBLIC
+DTSTAMP:20200407T173912Z
+DTSTART:20171007T130000Z
+DTEND:20171007T160000Z
+LOCATION:Unidad de Postgrado - FICCT - UAGRM\, Santa Cruz de la Sierra\, B
+ olivia
+SUMMARY:Firefox Quantum Sprint Santa Cruz
+DESCRIPTION:Firefox 57 Campaign. We Will check Firefox Nightly with our mo
+ st important web page in Bolivia\, so we can ensure that they work correct
+ ly. we expect between 15 and 20 people.\n\nYou can get more information at
+ : http://www.mozillabolivia.org/firefox-57-sprint-invitacion/\n\nAnd you c
+ an confirm your attendance at: https://www.facebook.com/events/39662206075
+ 4430/
+URL:https://reps.mozilla.org/e/firefox-57-sprint-santa-cruz/
+SEQUENCE:9
+X-COORDINATES-LAT:-17.7859390839
+X-COORDINATES-LON:-63.1808062793
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

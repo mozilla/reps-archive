@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@787
+CLASS:PUBLIC
+DTSTAMP:20200423T213942Z
+DTSTART:20130527T110000Z
+DTEND:20130527T150000Z
+LOCATION:@america\, Jakarta\, Indonesia
+SUMMARY:WordPress 10th Anniversary - Jakarta
+DESCRIPTION:Celebrate the 10th anniversary of the very first WordPress rel
+ ease in 2003!
+URL:https://reps.mozilla.org/e/wordpress-10th-anniversary-jakarta/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.2240623335
+X-COORDINATES-LON:106.809747219
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

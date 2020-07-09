@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7921
+CLASS:PUBLIC
+DTSTAMP:20200407T171704Z
+DTSTART:20180701T070000Z
+DTEND:20180701T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:#MozKopdarJKT - Data and Privacy: Making Decision with Firefox
+DESCRIPTION:Telemetry is non-personal data about the performance &amp; usage o
+ f Firefox sent to Mozilla while you use Firefox browser.  If you like data
+  &amp; want to know how Mozilla treats data to support various decisions\, the
+ n this event is perfect for you!\n\nOn this occasion\, Georg Fritzsche (En
+ gineering Manager\, Firefox Telemetry) will share his experience on how Mo
+ zilla collects and uses data from Telemetry to make product-related decisi
+ ons.
+URL:https://reps.mozilla.org/e/mozkopdarjkt-data-and-privacy-making-decisi
+ on-with-firefox/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23500600882
+X-COORDINATES-LON:106.820953846
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

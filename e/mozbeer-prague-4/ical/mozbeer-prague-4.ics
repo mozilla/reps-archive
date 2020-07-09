@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7095
+CLASS:PUBLIC
+DTSTAMP:20200407T181220Z
+DTSTART:20170825T170000Z
+DTEND:20170825T200000Z
+LOCATION:Diversion Bistro\, Mělnická 12\, Prague\, Prague\, Czech Republ
+ ic
+SUMMARY:MozBeer Prague #4
+DESCRIPTION:Our first (and last) meetup during the summer holidays will ha
+ ppen on 25/08/2017 in Diversion Bistro. For those\, who haven&#39;t been to ou
+ r previous meetups\, know that it&#39;s a place of good drink and food and it&#39;
+ d be sin not to come. Whether you are JS coder or curious user\, remember 
+ to sign up for a place at out table.
+URL:https://reps.mozilla.org/e/mozbeer-prague-4/
+SEQUENCE:1
+X-COORDINATES-LAT:50.0872012363
+X-COORDINATES-LON:14.4211013317
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

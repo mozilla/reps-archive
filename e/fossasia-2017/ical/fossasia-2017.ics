@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6374
+CLASS:PUBLIC
+DTSTAMP:20200423T112318Z
+DTSTART:20170317T033000Z
+DTEND:20170319T113000Z
+LOCATION:Science Center Singapore 15 Science Centre Rd 609081 Singapore\, 
+ Jurong East\, Singapore
+SUMMARY:FOSSASIA 2017
+DESCRIPTION:FOSSASIA is the premier Free and Open Source technology event 
+ in Asia for developers\, start-ups\, and contributors. Projects at FOSSASI
+ A range from open hardware\, to design\, graphics and software. FOSSASIA w
+ as established in 2009. Previous events took place in Cambodia and Vietnam
+ .
+URL:https://reps.mozilla.org/e/fossasia-2017/
+SEQUENCE:3
+X-COORDINATES-LAT:1.47452289208
+X-COORDINATES-LON:103.772552535
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1959
+CLASS:PUBLIC
+DTSTAMP:20200407T175027Z
+DTSTART:20140328T033000Z
+DTEND:20140328T110000Z
+LOCATION:NOSEGAY PUBLIC SCHOOL\, Ganganagar\, India
+SUMMARY:MozIgnite
+DESCRIPTION:An interactive event with School students to introduce Open We
+ b and Mozilla as a lead taker. To involve students in projects.
+URL:https://reps.mozilla.org/e/mozignite-1/
+SEQUENCE:4
+X-COORDINATES-LAT:29.9040556847
+X-COORDINATES-LON:73.8585090637
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

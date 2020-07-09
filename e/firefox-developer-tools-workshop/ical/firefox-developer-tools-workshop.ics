@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5988
+CLASS:PUBLIC
+DTSTAMP:20200423T115334Z
+DTSTART:20161015T140000Z
+DTEND:20161015T160000Z
+LOCATION:University of the Aegean - Papanikolaou Building\, Karlovassi\, G
+ reece
+SUMMARY:Firefox Developer Tools Workshop
+DESCRIPTION:Workshop on the Firefox Developer Tools\, presented at the Fre
+ e &amp; Open Source Software Community of the University of the Aegean (https:
+ //fossaegean.gr/).
+URL:https://reps.mozilla.org/e/firefox-developer-tools-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:37.7971015822
+X-COORDINATES-LON:26.7021464111
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

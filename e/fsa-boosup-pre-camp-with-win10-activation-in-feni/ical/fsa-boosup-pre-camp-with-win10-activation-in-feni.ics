@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4977
+CLASS:PUBLIC
+DTSTAMP:20200423T155820Z
+DTSTART:20151231T103000Z
+DTEND:20151231T113000Z
+LOCATION:Feni\, Feni\, Bangladesh
+SUMMARY:FSA Boosup Pre-Camp with Win10 Activation in Feni
+DESCRIPTION:This event held in 23 Dec 2015 02:00 PM to 04:00 PM
+URL:https://reps.mozilla.org/e/fsa-boosup-pre-camp-with-win10-activation-i
+ n-feni/
+SEQUENCE:1
+X-COORDINATES-LAT:23.0068311902
+X-COORDINATES-LON:91.3823890686
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

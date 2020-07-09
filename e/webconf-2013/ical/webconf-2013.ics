@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@293
+CLASS:PUBLIC
+DTSTAMP:20200407T175927Z
+DTSTART:20130112T010000Z
+DTEND:20130113T090000Z
+LOCATION:Academia Sinica\, Taipei City\, Taiwan
+SUMMARY:WebConf 2013 (Taiwan)
+DESCRIPTION:The first conference includes all kinds of web stuffs in Taiwa
+ n\, for Web developers\, art designers\, planners and ones who love web.
+URL:https://reps.mozilla.org/e/webconf-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:25.0410876697
+X-COORDINATES-LON:121.611635685
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

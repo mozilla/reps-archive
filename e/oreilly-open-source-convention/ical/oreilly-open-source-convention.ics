@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@910
+CLASS:PUBLIC
+DTSTAMP:20200407T174913Z
+DTSTART:20130722T190000Z
+DTEND:20130726T190000Z
+LOCATION:Oregon Convention Center\, Portland\, United States
+SUMMARY:O&#39;Reilly Open Source Convention
+DESCRIPTION:OSCON is where all of the pieces come together: developers\, i
+ nnovators\, businesspeople\, and investors. In the early days\, this trail
+ blazing O&#39;Reilly event was focused on changing mainstream business thinkin
+ g and practices\; today OSCON is about how the close partnership between b
+ usiness and the open source community is building the future. That future 
+ is everywhere you look.
+URL:https://reps.mozilla.org/e/oreilly-open-source-convention/
+SEQUENCE:3
+X-COORDINATES-LAT:46.1874367843
+X-COORDINATES-LON:-124.156494141
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

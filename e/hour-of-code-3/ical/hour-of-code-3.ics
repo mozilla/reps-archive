@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8938
+CLASS:PUBLIC
+DTSTAMP:20200407T165008Z
+DTSTART:20191206T033000Z
+DTEND:20191207T113000Z
+LOCATION:GRD college of Arts and Science and Sri Krishna College of Engine
+ ering\, Coimbatore\, India
+SUMMARY:Hour of code - briefing on Mozilla&#39;s projects
+DESCRIPTION:GDG Coimbatore is a Coimbatore-based non-profit developers gro
+ up to learn\, share and know more about technologies.The industry is growi
+ ng like never before\, and they are trying to push the community forward t
+ o keep up with the industry. They are constantly trying to push ourselves 
+ to bring the best of technology to you through sessions and unlimited reso
+ urces.GDG Coimbatore is going to organize &#34;Hour of Code&#34; sessions in Insti
+ tutions which are in and around Coimbatore\, from 2nd -22nd December.
+URL:https://reps.mozilla.org/e/hour-of-code-3/
+SEQUENCE:10
+X-COORDINATES-LAT:10.9834364453
+X-COORDINATES-LON:76.9903562218
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

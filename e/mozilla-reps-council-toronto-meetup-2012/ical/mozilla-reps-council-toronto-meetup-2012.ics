@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@375
+CLASS:PUBLIC
+DTSTAMP:20200407T180454Z
+DTSTART:20121214T170000Z
+DTEND:20121216T170000Z
+LOCATION:Mozilla Toronto Office\, Toronto\, Canada
+SUMMARY:Mozilla Reps Council - Toronto Meetup 2012
+DESCRIPTION:The Mozilla Reps Council will meet in Toronto for 3 days to pl
+ an for 2013 and define a 6-month roadmap for the program. Expanding the Re
+ Mo mentorship base\, implementing the new council election system and alig
+ ning the program with organization-wide goals will be on top of the agenda
+ . 
+URL:https://reps.mozilla.org/e/mozilla-reps-council-toronto-meetup-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:43.6472322254
+X-COORDINATES-LON:-79.3943631649
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

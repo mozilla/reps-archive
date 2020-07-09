@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8308
+CLASS:PUBLIC
+DTSTAMP:20200423T084654Z
+DTSTART:20190110T033000Z
+DTEND:20190110T113000Z
+LOCATION:MCCIA Trade Tower\, Pune\, India
+SUMMARY:JSFoo Pune 2019
+DESCRIPTION:JSFoo is India’s premier JavaScript conference\, hosted by H
+ asGeek. The conference explores new ideas\, implementing innovative soluti
+ ons\, and learning from experiences\, especially negative ones!
+URL:https://reps.mozilla.org/e/jsfoo-pune-2019/
+SEQUENCE:3
+X-COORDINATES-LAT:18.6240361133
+X-COORDINATES-LON:74.4096681476
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3738
+CLASS:PUBLIC
+DTSTAMP:20200423T173315Z
+DTSTART:20150412T043000Z
+DTEND:20150412T073000Z
+LOCATION:Jagruthi e Learning Center\, 2nd Floor\, GMR &amp; GS Complex\, Kisha
+ npura\, Hanamkonda\, Warangal\, India
+SUMMARY:Jayamukhi Firefox Club - FSA&#39;s Meetup
+DESCRIPTION:This Meetup is intended to discuss and build the road-map of t
+ he activities for Jayamukhi Firefox Club for the year 2015.
+URL:https://reps.mozilla.org/e/jayamukhi-firefox-club-fsas-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:18.0073828941
+X-COORDINATES-LON:79.5520806304
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

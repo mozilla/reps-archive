@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6578
+CLASS:PUBLIC
+DTSTAMP:20200407T174136Z
+DTSTART:20170918T023000Z
+DTEND:20170918T133000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Devcamp 1.0
+DESCRIPTION:A full day developer community bootcamp in Hyderabad gathering
+  participants from In and around Hyderabad\, India to work and spread the 
+ word about WebVR\, WebExtensions.
+URL:https://reps.mozilla.org/e/mozdeccan-2017/
+SEQUENCE:7
+X-COORDINATES-LAT:17.4215267
+X-COORDINATES-LON:78.4094636
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

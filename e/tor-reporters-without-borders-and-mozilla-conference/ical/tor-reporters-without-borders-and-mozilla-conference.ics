@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2493
+CLASS:PUBLIC
+DTSTAMP:20200407T173720Z
+DTSTART:20140703T173000Z
+DTEND:20140703T210000Z
+LOCATION:Mozilla Space 16 bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Tor\, Reporters without borders and Mozilla Conference
+DESCRIPTION:Tor\, Mozilla and RWB join their forces and organize this spec
+ ial conference. With Roger Dingledine\, Andrew Lewman\, Tristan Nitot and 
+ Christophe Deloire\, come and discuss the issues at stake in digital Priva
+ cy.
+URL:https://reps.mozilla.org/e/tor-reporters-without-borders-and-mozilla-c
+ onference/
+SEQUENCE:5
+X-COORDINATES-LAT:48.871948387
+X-COORDINATES-LON:2.34121772648
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

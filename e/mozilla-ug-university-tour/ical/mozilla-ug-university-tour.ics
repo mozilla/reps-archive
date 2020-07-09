@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2052
+CLASS:PUBLIC
+DTSTAMP:20200407T175405Z
+DTSTART:20140621T060000Z
+DTEND:20140712T130000Z
+LOCATION:kampala\, Gulu\, Mbarara\, Luwero\, kampala\, Uganda
+SUMMARY:Mozilla Webmaker University Tour
+DESCRIPTION:we shall travel to 5 different universities in the country tar
+ geting students\, developers and all who are interested to work in open so
+ urce projects to build communities.We will mentor students and developers 
+ to not only use Firefox and Mozilla products\, but to advocate and promote
+ \, and actively participate in Mozilla through small communities set in ea
+ ch of the universities\,
+URL:https://reps.mozilla.org/e/mozilla-ug-university-tour/
+SEQUENCE:14
+X-COORDINATES-LAT:0.248564894133
+X-COORDINATES-LON:32.6122283936
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

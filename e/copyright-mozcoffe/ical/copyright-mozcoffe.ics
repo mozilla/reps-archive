@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5950
+CLASS:PUBLIC
+DTSTAMP:20200407T174256Z
+DTSTART:20161026T150000Z
+DTEND:20161026T170000Z
+LOCATION:Starbucks Cluj\, Clausemburgo\, Romania
+SUMMARY:Copyright MozCoffe
+DESCRIPTION:Mozcoffe meetup focused on copyright\n\nThis event is part of 
+ the European MakerParty campaign.\n\nSee event page for more info: \nhttps
+ ://www.makerparty.community/bebe/copyright_mozcoffe
+URL:https://reps.mozilla.org/e/copyright-mozcoffe/
+SEQUENCE:4
+X-COORDINATES-LAT:46.7714944489
+X-COORDINATES-LON:23.6260228159
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

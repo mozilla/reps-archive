@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4181
+CLASS:PUBLIC
+DTSTAMP:20200423T170039Z
+DTSTART:20150719T120000Z
+DTEND:20150719T150000Z
+LOCATION:Meetup space\, Barasat\, India
+SUMMARY:Maker Party  Kolkata
+DESCRIPTION:This event will be the first Maker Party in 2015 organized by 
+ Mozilla Kolkata. We will have a whole bunch of things to teach this year a
+ bout reading\, making and remixing the web!
+URL:https://reps.mozilla.org/e/maker-party-kolkata/
+SEQUENCE:0
+X-COORDINATES-LAT:22.7166567843
+X-COORDINATES-LON:88.4701538086
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

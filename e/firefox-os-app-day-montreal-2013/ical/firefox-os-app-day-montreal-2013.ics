@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@808
+CLASS:PUBLIC
+DTSTAMP:20200407T175108Z
+DTSTART:20130525T140000Z
+DTEND:20130525T220000Z
+LOCATION:5795\, avenue De Gaspe\, Montreal\, Canada
+SUMMARY:Firefox OS App Day Montreal 2013
+DESCRIPTION:Join us on Saturday May 25 to learn\, hack and celebrate the F
+ irefox OS\, Mozilla&#39;s open source operating system for the mobile web.\n\n
+ If you&#39;re a web developer\, you’ll be right at home coding apps in HTML5
+ \, JavaScript and CSS for the Firefox OS. We’ll help you with everything
+  else\, including how to access mobile Web APIs and how to use the Firefox
+  OS Simulator in your desktop browser to view and test your mobile apps.\n
+ \nInformation and reservation in  http://app-day-2013.eventbrite.ca
+URL:https://reps.mozilla.org/e/firefox-os-app-day-montreal-2013/
+SEQUENCE:10
+X-COORDINATES-LAT:45.5290199173
+X-COORDINATES-LON:-73.6003088951
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

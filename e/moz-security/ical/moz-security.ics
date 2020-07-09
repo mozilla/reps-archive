@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5277
+CLASS:PUBLIC
+DTSTAMP:20200423T153726Z
+DTSTART:20160327T230000Z
+DTEND:20160328T010000Z
+LOCATION:Petrolera Ave. and Comercio street\, Camiri\, Bolivia
+SUMMARY:Moz Security
+DESCRIPTION:A great chat about security on the web and how Mozilla can hel
+ p with this. share about free and open web.
+URL:https://reps.mozilla.org/e/moz-security/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.0399279139
+X-COORDINATES-LON:-63.5179595949
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

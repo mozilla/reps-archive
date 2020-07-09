@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5173
+CLASS:PUBLIC
+DTSTAMP:20200423T154235Z
+DTSTART:20160310T160000Z
+DTEND:20160310T180000Z
+LOCATION:GREFA\, Madrid\, Spain
+SUMMARY:Mozilla day at GREFA
+DESCRIPTION:We will be hosting a series of talks about Mozilla and OpenSou
+ rce technologies at GREFA\, a wildlife association that supports Free Soft
+ ware. It will be an internal event for the people that work there\, and co
+ llaborators.\n\nThe program will be:\n- Intro to Free Software (Manrique L
+ ópez)\n- Firefox and Thunderbird (Guillermo López)\n- What&#39;s a GNU/Linux
+  distro? (Abel Serrano)\n- Open Source communities and how to join (Franci
+ sco Picolini)
+URL:https://reps.mozilla.org/e/mozilla-day-at-grefa/
+SEQUENCE:1
+X-COORDINATES-LAT:40.4688222247
+X-COORDINATES-LON:-3.83957004582
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

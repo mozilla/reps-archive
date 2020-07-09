@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4219
+CLASS:PUBLIC
+DTSTAMP:20200407T180030Z
+DTSTART:20150828T070000Z
+DTEND:20150829T160000Z
+LOCATION:KLab\, Katshuriro\, Rwanda
+SUMMARY:MENYA BOOTCAMP
+DESCRIPTION:Mozilla Rwanda was approached to support this event. The camp 
+ is scheduled to take place from August 28th to 29th 2015 at the kLab space
+  in Kigali. The Participants will be introduced to and taught how to use d
+ ifferent programming web and app tools including Alice and Mozilla toolkit
+ s - Webmaker.
+URL:https://reps.mozilla.org/e/nextgen-bootcamp/
+SEQUENCE:6
+X-COORDINATES-LAT:-1.94431453918
+X-COORDINATES-LON:30.0884410144
+X-COUNTRY-CODE:rw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2597
+CLASS:PUBLIC
+DTSTAMP:20200423T192151Z
+DTSTART:20140728T180000Z
+DTEND:20140728T210000Z
+LOCATION:Restaurant le Caveau\, Lyon-2e Arrondissement\, France
+SUMMARY:Flame presentation and dinner
+DESCRIPTION:I received my Flame and invited the other mozillians from Lyon
+  to see what it looks like and have a small dinner
+URL:https://reps.mozilla.org/e/flame-presentation-and-dinner/
+SEQUENCE:4
+X-COORDINATES-LAT:45.756585551
+X-COORDINATES-LON:4.83468478909
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

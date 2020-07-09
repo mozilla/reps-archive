@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5638
+CLASS:PUBLIC
+DTSTAMP:20200423T150853Z
+DTSTART:20160728T120000Z
+DTEND:20160728T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: Introduction to the Rust Programming Language
+DESCRIPTION:Mozilla Indonesia in cooperation with Froyo Frameworks will in
+ troduce participants to the Rust programming language with a basic level. 
+ Participants who attend must have minimal C ++ skill or have at least 2 ye
+ ars of coding experience.
+URL:https://reps.mozilla.org/e/mozbelajar-introduction-to-the-rust-program
+ ming-language/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.1875764678
+X-COORDINATES-LON:106.836698681
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

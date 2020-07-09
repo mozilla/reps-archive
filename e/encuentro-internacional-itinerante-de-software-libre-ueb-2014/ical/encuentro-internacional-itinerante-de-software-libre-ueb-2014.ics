@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3116
+CLASS:PUBLIC
+DTSTAMP:20200407T181242Z
+DTSTART:20141117T130000Z
+DTEND:20141119T190000Z
+LOCATION:Centro de Eventos Nacionales e Internacionales CENI de UEB.\, Gua
+ randa\, Ecuador
+SUMMARY:ENCUENTRO INTERNACIONAL  ITINERANTE DE SOFTWARE LIBRE   UEB-2014
+DESCRIPTION:Minga por la Educación y soberanía tecnológica que se desar
+ rollara del 17 al 19 de Noviembre de 2014\n\nConferencias: Las ponencias y
+ /o Conferencias se realizarán en el horario de 8h00 a 12h30  Lugar: Centr
+ o de Eventos Nacionales e Internacionales CENI de la Universidad. Ubicado 
+ en la ciudadela los Trigales\n\nTalleres: Los Talleres se realizarán en l
+ os laboratorios de la Facultad de Ciencias de la Educación. Horario de 14
+ h30 a 18h00.
+URL:https://reps.mozilla.org/e/encuentro-internacional-itinerante-de-softw
+ are-libre-ueb-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:-1.57119486193
+X-COORDINATES-LON:-79.006864071
+X-COUNTRY-CODE:ec
+END:VEVENT
+
+END:VCALENDAR

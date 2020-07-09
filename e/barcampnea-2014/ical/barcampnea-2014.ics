@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2117
+CLASS:PUBLIC
+DTSTAMP:20200407T182746Z
+DTSTART:20140510T120000Z
+DTEND:20140511T000000Z
+LOCATION:Módulo Informatico de la Facultad de Ciencias Exactas\, Química
+ s y Naturales de la Universidad Nacional de Misiones  - Calle Pellegrini 2
+ 69\, Apostoles\, Argentina
+SUMMARY:BarcampNEA 2014
+DESCRIPTION:Like any other Barcamp\, this is a conference day where everyo
+ ne could propose a talk. This will be for NE Argentina&#39;s region and is the
+  biggest event related to IT on this region. \nI&#39;ll be there as part of th
+ e organization and giving talks about FirefoxOS and Javascript development
+ .
+URL:https://reps.mozilla.org/e/barcampnea-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:-27.9170147089
+X-COORDINATES-LON:-55.75523901
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

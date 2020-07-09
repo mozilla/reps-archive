@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3813
+CLASS:PUBLIC
+DTSTAMP:20200423T170120Z
+DTSTART:20150718T033000Z
+DTEND:20150718T103000Z
+LOCATION:Hindon Air force Station\, Ghaziabad\, India
+SUMMARY:Make the web with housewives
+DESCRIPTION:This is a full day maker party with the housewives on the vari
+ ous tools of webmaker. After the end of session we would be having various
+  makes on the 4 tools of Webmaker.
+URL:https://reps.mozilla.org/e/make-the-web-with-housewives/
+SEQUENCE:3
+X-COORDINATES-LAT:28.9721036994
+X-COORDINATES-LON:77.3361968994
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

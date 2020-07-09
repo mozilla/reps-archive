@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4766
+CLASS:PUBLIC
+DTSTAMP:20200423T161850Z
+DTSTART:20151106T070000Z
+DTEND:20151106T113000Z
+LOCATION:Heritage Institute of Technology\, Kolkata\, India
+SUMMARY:Contribution Pathways 2015\,Kolkata
+DESCRIPTION:This is the very first event in Heritage which will brief abou
+ t how the students can contribute to Mozilla.One day event focusing on the
+  technical side(FxOS App Dev) and onboarding FSAs.
+URL:https://reps.mozilla.org/e/mozsetup-hit/
+SEQUENCE:2
+X-COORDINATES-LAT:22.5628705451
+X-COORDINATES-LON:88.3121338114
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

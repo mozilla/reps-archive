@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6493
+CLASS:PUBLIC
+DTSTAMP:20200423T111701Z
+DTSTART:20170412T130000Z
+DTEND:20170412T183000Z
+LOCATION:CEU Florence Campinas\, Campinas\, Brazil
+SUMMARY:Web Literacy Bingo @Leão Mozilla Clubs
+DESCRIPTION:This activity can be used in offline settings\, or between scr
+ een-based activities. Web literacy bingo allows you to explore a web liter
+ acy competency of your choice with a group of learners.
+URL:https://reps.mozilla.org/e/web-literacy-bingo-leao-mozilla-clubs/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.5464
+X-COORDINATES-LON:-46.6289
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

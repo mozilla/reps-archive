@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7728
+CLASS:PUBLIC
+DTSTAMP:20200407T165132Z
+DTSTART:20180610T170000Z
+DTEND:20180614T170000Z
+LOCATION:San Francisco Marriott Marquis\, San Francisco\, United States
+SUMMARY:Mozilla All Hands San Francisco 2018
+DESCRIPTION:An all company meeting that includes multiple team meetings\, 
+ happening in the same city\, at the same time + several opportunities to g
+ et together as one big group as well as with other teams. Then\, on the la
+ st day\, we have a fun social event for all\, Mozilla-style!
+URL:https://reps.mozilla.org/e/mozilla-all-hands-san-francisco-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:37.7171419897
+X-COORDINATES-LON:237.624023259
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

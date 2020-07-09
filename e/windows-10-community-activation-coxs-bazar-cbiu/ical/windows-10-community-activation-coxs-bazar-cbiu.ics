@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4665
+CLASS:PUBLIC
+DTSTAMP:20200423T162807Z
+DTSTART:20151016T030000Z
+DTEND:20151016T070000Z
+LOCATION:Cox&#39;s Bazar International University\, Cox&#39;s Bazar\, Bangladesh
+SUMMARY:Windows 10 Community Activation @ Cox&#39;s Bazar\, CBIU
+DESCRIPTION:This event helps us to retain Firefox Users on Windows 10. In 
+ support to Windows 10 Community Activation Campaign we are hosting this ev
+ ent.
+URL:https://reps.mozilla.org/e/windows-10-community-activation-coxs-bazar-
+ cbiu/
+SEQUENCE:2
+X-COORDINATES-LAT:21.4307062459
+X-COORDINATES-LON:91.9729045
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

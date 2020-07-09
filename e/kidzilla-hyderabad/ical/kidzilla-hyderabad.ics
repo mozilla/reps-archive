@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4824
+CLASS:PUBLIC
+DTSTAMP:20200423T161136Z
+DTSTART:20151124T043000Z
+DTEND:20151124T083000Z
+LOCATION:Tagore&#39;s High School\,Balnagar\, Hyderabad\, India
+SUMMARY:Kidzilla @Hyderabad
+DESCRIPTION:A Kidzilla Intiative in Hyderabad at a local school to teach t
+ eachers and school students about Use of technology in academics\,New prac
+ tical approaches on the web\,Importance of Open Source and Open Web.
+URL:https://reps.mozilla.org/e/kidzilla-hyderabad/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

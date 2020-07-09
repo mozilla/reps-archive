@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5839
+CLASS:PUBLIC
+DTSTAMP:20200423T145814Z
+DTSTART:20160909T043000Z
+DTEND:20160909T073000Z
+LOCATION:Jaipur National University\, Jaipur\, India
+SUMMARY:Virtual day @ Mozunicorn
+DESCRIPTION:This event is about open source organizations \, their role an
+ d code ethics. Participants will get to know about open-source organizatio
+ ns such as Mozilla\,DuckDuckGo\,etc and lots of other and ways to contribu
+ te in those organizations. Primary focus of this event is rebooting of Uni
+ corn Club and make them aware of the opportunities waiting ahead. With thi
+ s event \, participants will learn about basics of web designing and virtu
+ al reality.
+URL:https://reps.mozilla.org/e/virtual-day-mozunicorn/
+SEQUENCE:1
+X-COORDINATES-LAT:26.946352401
+X-COORDINATES-LON:75.8645325154
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

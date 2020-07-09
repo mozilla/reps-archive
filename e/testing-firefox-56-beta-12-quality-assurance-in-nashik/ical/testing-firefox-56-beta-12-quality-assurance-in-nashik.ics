@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7055
+CLASS:PUBLIC
+DTSTAMP:20200422T115000Z
+DTSTART:20170917T053000Z
+DTEND:20170917T083000Z
+LOCATION:501 krishna enclave \, near sur hotel\, above active Suzuki showr
+ oom\, gangapur road\, nashik\, Nashik\, India
+SUMMARY:Testing Firefox 56 Beta 12. Quality Assurance in Nashik.
+DESCRIPTION:This is first Quality Assurance Session in nashik.\nAgenda is 
+ creating Bugzilla accounts for contributors.
+URL:https://reps.mozilla.org/e/testing-firefox-56-beta-12-quality-assuranc
+ e-in-nashik/
+SEQUENCE:0
+X-COORDINATES-LAT:20.0119362
+X-COORDINATES-LON:73.7564564
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

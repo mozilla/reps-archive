@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1807
+CLASS:PUBLIC
+DTSTAMP:20200423T200759Z
+DTSTART:20140404T070000Z
+DTEND:20140404T160000Z
+LOCATION:VAM Design center\, Budapest\, Hungary
+SUMMARY:Smartmobil 2014 - CANCELLED our attendance
+DESCRIPTION:The 2014 edition of the Smartmobil conference in Budapest will
+  be held on April xxxth (first week of April). This year\, they have devel
+ oped a dedicated startup section\, looking for the region’s best mobile 
+ startups and bringing a group of international investors and accelerators 
+ in the audience.\nAlthough the main focus of the conference seems to be on
+  the Hungarian tech scene\, the organizers specifically state they are acc
+ epting applications from “neighbouring countries”.
+URL:https://reps.mozilla.org/e/smartmobil-2014/
+SEQUENCE:5
+X-COORDINATES-LAT:47.5226203672
+X-COORDINATES-LON:19.0563869476
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

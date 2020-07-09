@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3180
+CLASS:PUBLIC
+DTSTAMP:20200407T175415Z
+DTSTART:20141228T083000Z
+DTEND:20141228T163000Z
+LOCATION:Marine Drive\, Ernakulam\, India
+SUMMARY:MozCoffee v3
+DESCRIPTION:MozCoffee for contributors in Kerala. The event will mainly fo
+ cus on bringing the contributors across Kerala locale to discuss the progr
+ ess of the community and plan activities for next year.
+URL:https://reps.mozilla.org/e/mozcoffee-kerala/
+SEQUENCE:13
+X-COORDINATES-LAT:9.97844428863
+X-COORDINATES-LON:76.2759211063
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

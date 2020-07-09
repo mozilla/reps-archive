@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4017
+CLASS:PUBLIC
+DTSTAMP:20200423T170944Z
+DTSTART:20150625T230000Z
+DTEND:20150626T000000Z
+LOCATION:Tecnoparque Calle 5 No. 3 - 15\, Espinal\, Colombia
+SUMMARY:Rust for beginners
+DESCRIPTION:Meetup about Rust language by Mozilla. We are going to introdu
+ ce the concept behind this new language and the vision. Teach how to get s
+ tarted and implementing Rust on daily jobs.
+URL:https://reps.mozilla.org/e/rust-for-beginners/
+SEQUENCE:3
+X-COORDINATES-LAT:4.14456370344
+X-COORDINATES-LON:-74.8951492313
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5203
+CLASS:PUBLIC
+DTSTAMP:20200423T155135Z
+DTSTART:20160203T070000Z
+DTEND:20160203T080000Z
+LOCATION:North South University\, Dhaka\, Bangladesh
+SUMMARY:Privacy Talk at NSU
+DESCRIPTION:This event is a part of Mozilla Bangladesh Privacy Week . The 
+ aim of this event is to aware the students of North South University who a
+ re not concern about their online privacy and security .
+URL:https://reps.mozilla.org/e/privacy-talk-at-nsu/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7173633681
+X-COORDINATES-LON:90.4162902804
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

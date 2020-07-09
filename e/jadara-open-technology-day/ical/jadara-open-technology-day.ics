@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2056
+CLASS:PUBLIC
+DTSTAMP:20200423T195413Z
+DTSTART:20140506T090000Z
+DTEND:20140506T120000Z
+LOCATION:Jadara university\, Irbid\, Jordan
+SUMMARY:Jadara Open technology day
+DESCRIPTION:Every year Jadara university make an open technology day for s
+ tudents to talk about the latest technologies that appeared within the yea
+ r.\n\nAs a Mozilla community we would love to attend this event to talk ab
+ out Mozilla in front of fresh students so they could start their way with 
+ helping us as a part of our community.
+URL:https://reps.mozilla.org/e/jadara-open-technology-day/
+SEQUENCE:4
+X-COORDINATES-LAT:32.5004723612
+X-COORDINATES-LON:35.970760351
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

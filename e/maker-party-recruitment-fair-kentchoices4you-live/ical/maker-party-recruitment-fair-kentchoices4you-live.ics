@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3316
+CLASS:PUBLIC
+DTSTAMP:20200423T173919Z
+DTSTART:20150325T100000Z
+DTEND:20150326T160000Z
+LOCATION:Kent County Showground\, Maidstone\, United Kingdom
+SUMMARY:Maker party recruitment fair KentChoices4you Live
+DESCRIPTION:Industry information and making event from Minecraft/ to How T
+ he web works/Buildong the web with Operatins And System administration. Th
+ e 2 day event is to inform and help young people find meaningful work expe
+ rience doing things that are of interest to them.\nby attending this event
+  you can collect the webmaker skill share badge\n\n\nThis event will also 
+ help to recrout new volinteers for MozFest London Next year
+URL:https://reps.mozilla.org/e/maker-party-recruitment-fair-kentchoices4yo
+ u-live/
+SEQUENCE:5
+X-COORDINATES-LAT:51.2739352627
+X-COORDINATES-LON:0.519315720303
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2222
+CLASS:PUBLIC
+DTSTAMP:20200423T193512Z
+DTSTART:20140618T064500Z
+DTEND:20140618T090000Z
+LOCATION:Stamford University Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awareness Program at SUB\, June 2014
+DESCRIPTION:After the Awareness Booth\, the FSAs of SUB want to arrange a 
+ Awareness Program to let the students know a bit more about Mozulla. The p
+ articipants will get to know about different projects and products of Mozi
+ lla\, along with the ways of contributing to them.
+URL:https://reps.mozilla.org/e/mozilla-awareness-program-at-sub-june-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:24.1049759078
+X-COORDINATES-LON:89.8864741623
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

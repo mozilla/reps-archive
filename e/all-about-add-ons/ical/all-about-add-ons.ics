@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7335
+CLASS:PUBLIC
+DTSTAMP:20200407T171622Z
+DTSTART:20180120T043000Z
+DTEND:20180120T113000Z
+LOCATION:Indira Gandhi Delhi Technical University for Women\, New Delhi\, 
+ India
+SUMMARY:All About Add-ons
+DESCRIPTION:The event is more like a workshop on how to create add-ons and
+  customise browsers. Attendees will get a step by step session to get star
+ ted with browser extension development using web extension API. The sessio
+ n will be preceded by a hands-on workshop\, where attendees will actually 
+ hack on some add-ons ideas.
+URL:https://reps.mozilla.org/e/all-about-add-ons/
+SEQUENCE:2
+X-COORDINATES-LAT:28.5226008446
+X-COORDINATES-LON:76.9276428223
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

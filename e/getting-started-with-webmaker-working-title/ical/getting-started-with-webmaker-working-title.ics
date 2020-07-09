@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@458
+CLASS:PUBLIC
+DTSTAMP:20200407T175130Z
+DTSTART:20130206T123000Z
+DTEND:20130206T133000Z
+LOCATION:Sussex Downs College\, Lewes\, United Kingdom
+SUMMARY:Killer tips on webmaking (working title)
+DESCRIPTION:A talk about webmaker\, the open web\, and how to get started 
+ making websites.\n\nFuzzyFox is working with teachers at the college to cr
+ eate a talk that not only promotes the open web\, and webmaker\, but also 
+ includes some topics to aid the students encouraged to attend the talk wit
+ h their studies.\n\nStill a work in progress...
+URL:https://reps.mozilla.org/e/getting-started-with-webmaker-working-title
+ /
+SEQUENCE:0
+X-COORDINATES-LAT:50.8700302396
+X-COORDINATES-LON:0.0164794921875
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

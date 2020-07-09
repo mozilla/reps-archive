@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1461
+CLASS:PUBLIC
+DTSTAMP:20200407T175027Z
+DTSTART:20131116T043000Z
+DTEND:20131116T063000Z
+LOCATION:Jaipur National University\, Jaipur\, India
+SUMMARY:Hi Mozilla!
+DESCRIPTION:A Hi Mozilla event\, to get people know about Mozilla\, the mi
+ ssion\, projects\, how to contribute\, the awesomness\, fun and the spirit
+  we share at the community a moreover a Community Building event.
+URL:https://reps.mozilla.org/e/hi-mozilla/
+SEQUENCE:3
+X-COORDINATES-LAT:26.7047242252
+X-COORDINATES-LON:75.9492185712
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

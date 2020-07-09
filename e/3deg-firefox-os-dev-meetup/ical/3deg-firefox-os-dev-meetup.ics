@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2177
+CLASS:PUBLIC
+DTSTAMP:20200407T181944Z
+DTSTART:20140423T000000Z
+DTEND:20140423T030000Z
+LOCATION:Av. Arenales 1555\, Lince\, Lima - Perú\, Lince\, Peru
+SUMMARY:3° Firefox OS Dev MeetUp
+DESCRIPTION:The Team of Mozilla Peru organizes this meeting where he prese
+ nted development issues in Firefox OS\, show the devices available in Peru
+  and  will respond technical questions about the development of applicatio
+ ns in this new mobile platform.\n\nTopics: \n\n* Application Manager (of F
+ irefox for Firefox OS)\n* Which brings Firefox OS in 2014
+URL:https://reps.mozilla.org/e/3deg-firefox-os-dev-meetup/
+SEQUENCE:6
+X-COORDINATES-LAT:-12.0803672035
+X-COORDINATES-LON:-77.0359647278
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

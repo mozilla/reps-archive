@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6302
+CLASS:PUBLIC
+DTSTAMP:20200423T151950Z
+DTSTART:20160613T163000Z
+DTEND:20160613T190000Z
+LOCATION:Trifork AB\, Ferkens Gränd 3\, Sweden
+SUMMARY:Rust Stockholm #1:  Getting started with Rust
+DESCRIPTION:Welcome fellow Rustaceans! :)\n\nI think a good theme for a fi
+ rst meetup could be to talk about what makes Rust great and how to learn i
+ t coming from different backgrounds.\n\nIf anyone has a good first rust pr
+ oject story to tell that would fit perfectly too I think.\n\nA few I have 
+ in mind for the future:\n-Rust on the server/web\n-Rust community\n-Rust e
+ verywhere (cross compile story in general)\n-Functional Rust\n-Servo
+URL:https://reps.mozilla.org/e/rust-stockholm-1-getting-started-with-rust/
+SEQUENCE:0
+X-COORDINATES-LAT:59.3241852
+X-COORDINATES-LON:18.0721432
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

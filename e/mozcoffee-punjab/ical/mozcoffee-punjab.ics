@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4721
+CLASS:PUBLIC
+DTSTAMP:20200423T161355Z
+DTSTART:20151118T043000Z
+DTEND:20151118T083000Z
+LOCATION:ChandigarhUniversity\, Chandigarh\, India
+SUMMARY:Mozcoffee Punjab
+DESCRIPTION:Mozcoffee Punjab is  the follow up event after the Contributio
+ n Pathways Event  held  in Punjab.\n\nAll the students are requesting  for
+  an online feedback and doubt clearing session .\nso this event will be fo
+ r the same and we will discuss on the Road map ahead.
+URL:https://reps.mozilla.org/e/mozcoffee-punjab/
+SEQUENCE:6
+X-COORDINATES-LAT:30.7349914671
+X-COORDINATES-LON:76.7613407735
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

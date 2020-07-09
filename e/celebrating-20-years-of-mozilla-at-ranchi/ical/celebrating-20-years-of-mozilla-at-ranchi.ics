@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7565
+CLASS:PUBLIC
+DTSTAMP:20200423T094721Z
+DTSTART:20180331T103000Z
+DTEND:20180331T123000Z
+LOCATION:CCD \, Inside Hotel Capitol Hill\, MG Road\, Ranchi\, India
+SUMMARY:Celebrating 20 Years of Mozilla at Ranchi
+DESCRIPTION:Let&#39;s join together to celebrate the 20th anniversary of Mozil
+ la this March 31\, 2018\, at Ranchi.
+URL:https://reps.mozilla.org/e/celebrating-20-years-of-mozilla-at-ranchi/
+SEQUENCE:3
+X-COORDINATES-LAT:23.34
+X-COORDINATES-LON:85.3
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

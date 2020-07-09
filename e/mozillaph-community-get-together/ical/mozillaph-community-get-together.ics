@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5429
+CLASS:PUBLIC
+DTSTAMP:20200407T175729Z
+DTSTART:20160517T110000Z
+DTEND:20160517T130000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:MozillaPH Community Get-together
+DESCRIPTION:Brian King of Mozilla&#39;s Participation Team will be in Manila n
+ ext week. Appreciate your presence to attend the Community Get-together on
+  the 17th of this month\, 6:30PM at the Mozilla Community Space Manila.\n\
+ nHear updates about Mozilla. Know ways on how to participate and be involv
+ ed in the Mozilla Philippines Community. Mingle with fellow Mozillians.\n\
+ nMaraming salamat po!
+URL:https://reps.mozilla.org/e/mozillaph-community-get-together/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5468231118
+X-COORDINATES-LON:121.015928149
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3486
+CLASS:PUBLIC
+DTSTAMP:20200407T174310Z
+DTSTART:20150717T060000Z
+DTEND:20150719T140000Z
+LOCATION:Victoria University Kampala\, Kampala\, Uganda
+SUMMARY:Mozilla Festival East Africa (MEA15)
+DESCRIPTION:The Mozilla Festival East Africa (MEA15) is a 3 day maker part
+ y that brings together educators\, innovators\, learners and makers from E
+ ast Africa and beyond to share experiences and build the web together layi
+ ng a foundation for growth of the internet and information of technology i
+ n Africa. This is an annual event that is intended to spread across Africa
+  helping address the technological challenges faced in the African contine
+ nt through meaningful collaborations across academic disciplines.
+URL:https://reps.mozilla.org/e/mozilla-festival-east-africa-mea15/
+SEQUENCE:8
+X-COORDINATES-LAT:0.331446453049
+X-COORDINATES-LON:32.5704822242
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

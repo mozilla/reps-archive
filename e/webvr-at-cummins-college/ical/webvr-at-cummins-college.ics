@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6923
+CLASS:PUBLIC
+DTSTAMP:20200423T104339Z
+DTSTART:20170902T030000Z
+DTEND:20170902T053000Z
+LOCATION:K.B. Joshi Hall\, Cummins College of Engineering for Women\, Pune
+ \, India
+SUMMARY:WebVR at Cummins College
+DESCRIPTION:A Virtual Reality Event at Cummins College of Engineering for 
+ Women.
+URL:https://reps.mozilla.org/e/webvr-at-cummins-college/
+SEQUENCE:2
+X-COORDINATES-LAT:18.4844521586
+X-COORDINATES-LON:73.8111231923
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

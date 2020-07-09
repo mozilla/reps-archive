@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2700
+CLASS:PUBLIC
+DTSTAMP:20200407T175924Z
+DTSTART:20140913T110000Z
+DTEND:20140913T150000Z
+LOCATION:Debonairs Muindi Mbingu street\, Nairobi\, Kenya
+SUMMARY:Nairobi MozCoffee
+DESCRIPTION:This MozCoffee for Mozilla Kenya Community is for reflecting o
+ n the goals set during the last meetup and decide on the way forward
+URL:https://reps.mozilla.org/e/nairobi-mozcoffee-1/
+SEQUENCE:4
+X-COORDINATES-LAT:-1.28149088733
+X-COORDINATES-LON:36.8187849596
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

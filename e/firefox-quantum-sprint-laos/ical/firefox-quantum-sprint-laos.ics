@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7079
+CLASS:PUBLIC
+DTSTAMP:20200423T102028Z
+DTSTART:20171104T030000Z
+DTEND:20171104T060000Z
+LOCATION:LaoITDev\, Chanthaboury\, Laos
+SUMMARY:Firefox Quantum Sprint - Laos
+DESCRIPTION:We&#39;re going to test local website in Laos to ensure that Firef
+ ox Quantum will run smoothly when it launched.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-laos/
+SEQUENCE:3
+X-COORDINATES-LAT:20.0524914046
+X-COORDINATES-LON:102.591796517
+X-COUNTRY-CODE:la
+END:VEVENT
+
+END:VCALENDAR

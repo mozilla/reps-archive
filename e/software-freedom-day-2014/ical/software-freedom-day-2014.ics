@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2809
+CLASS:PUBLIC
+DTSTAMP:20200407T180125Z
+DTSTART:20140920T090000Z
+DTEND:20140920T180000Z
+LOCATION:Campus Numérique Francophone\, Ouagadougou\, Burkina Faso
+SUMMARY:Software Freedom Day 2014
+DESCRIPTION:The 20 of sept. is the day of global software freedom celebrat
+ ion. The mozilla Community is inviting others communities and free softwar
+ e fighters to discuss about common actions to raise awareness about the im
+ portance of using free software.
+URL:https://reps.mozilla.org/e/software-freedom-day-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:12.3774081207
+X-COORDINATES-LON:-1.49970048667
+X-COUNTRY-CODE:bf
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@810
+CLASS:PUBLIC
+DTSTAMP:20200407T181856Z
+DTSTART:20130601T031500Z
+DTEND:20130601T111500Z
+LOCATION:TBD (Possibley SAP Falcha\, or Islington College)\, Kathmandu\, N
+ epal
+SUMMARY:Firefox OS App Days\, Nepal
+DESCRIPTION:Following the path of App Days organized in different parts of
+  the world by different Mozilla Communities\, the Mozilla Nepal community 
+ has also taken a step to organize an App Day in Nepal.\nWe will be targett
+ ing web developers as done in other App Days too.
+URL:https://reps.mozilla.org/e/firefox-app-days-nepal/
+SEQUENCE:4
+X-COORDINATES-LAT:27.7073911748
+X-COORDINATES-LON:85.3144168854
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

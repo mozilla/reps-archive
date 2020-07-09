@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2673
+CLASS:PUBLIC
+DTSTAMP:20200407T165901Z
+DTSTART:20140920T030000Z
+DTEND:20140920T050000Z
+LOCATION:Comma | Coworking Space\, Jakarta\, Indonesia
+SUMMARY:Online Privacy Awareness for Breastfeeding Association
+DESCRIPTION:Indonesia Breastfeeding Association have about 40 women acting
+  as webmaster for their website (http://aimi-asi.org)\, including the bran
+ ch website.\nI would like to give awareness about online privacy to all of
+  them so that they can spread the knowledge about online privacy to other 
+ association members. The main point for this one is Do Not Track and Light
+ beam.\n\nAdditionally I can give them some info about how to contribute to
+  Mozilla and maybe some introduction about WoMoz.
+URL:https://reps.mozilla.org/e/online-privacy-awareness-for-breastfeeding-
+ association/
+SEQUENCE:5
+X-COORDINATES-LAT:-6.23889285625
+X-COORDINATES-LON:106.810870081
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

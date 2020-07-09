@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6975
+CLASS:PUBLIC
+DTSTAMP:20200423T104117Z
+DTSTART:20170911T053000Z
+DTEND:20170912T113000Z
+LOCATION:Government Engineering College\, Patan\, Patan\, India
+SUMMARY:Arduino Workshop
+DESCRIPTION:Interested to learn about world&#39;s first Open Source Embedded P
+ latform Arduino!!! Mozilla Campus Club Patan have come with 2 Days worksho
+ p based on Arduino.
+URL:https://reps.mozilla.org/e/arduino-workshop/
+SEQUENCE:2
+X-COORDINATES-LAT:23.0062675943
+X-COORDINATES-LON:72.5363158062
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

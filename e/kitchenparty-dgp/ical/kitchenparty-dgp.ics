@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1185
+CLASS:PUBLIC
+DTSTAMP:20200407T182303Z
+DTSTART:20130808T090000Z
+DTEND:20130808T120000Z
+LOCATION:Dr. B.C. Roy Engineering College\, Durgapur\, India
+SUMMARY:kitchenparty@Dgp
+DESCRIPTION:As the participants are college students so following was the 
+ events:\n 1) Warm up with advance knowledge of Web.\n 2) Advance knowledge
+  of HTML.\n 3) How we can remix video through Popcorn Maker.\n 4) How to H
+ ack the Web with X-Ray Goggles.\n 5) How to design a new web page with Thi
+ mble.
+URL:https://reps.mozilla.org/e/kitchenparty-dgp/
+SEQUENCE:2
+X-COORDINATES-LAT:23.5136263635
+X-COORDINATES-LON:87.3303222656
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7717
+CLASS:PUBLIC
+DTSTAMP:20200423T093702Z
+DTSTART:20180510T090000Z
+DTEND:20180510T160000Z
+LOCATION:Mozilla Berlin\, Gebäude 3\, 3. Obergeschoss\, Schlesische Stra
+ ße 27\, Berlin\, Germany\, Berlin\, Germany
+SUMMARY:Global Sprint Berlin - focus on Common Voice
+DESCRIPTION:Please register at https://ti.to/Mozilla/global-sprint-berlin1
+ 8 !\n\nA fun\, fast-paced\, two-day collaborative event to hack and build 
+ projects for a healthy Internet. You&#39;re joining a diverse network of scien
+ tists\, educators\, artists\, engineers\, students and others as we come t
+ ogether in person and online to innovate in the open. On Thursday we will 
+ have a focus on Common Voice contributions\, but you are welcome to work o
+ n other things too!
+URL:https://reps.mozilla.org/e/global-sprint-berlin-focus-on-common-voice/
+SEQUENCE:1
+X-COORDINATES-LAT:52.4993970433
+X-COORDINATES-LON:13.449305534
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

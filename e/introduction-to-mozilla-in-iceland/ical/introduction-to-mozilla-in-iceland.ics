@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2275
+CLASS:PUBLIC
+DTSTAMP:20200423T194437Z
+DTSTART:20140528T164500Z
+DTEND:20140528T180000Z
+LOCATION:Room M106\, School of Computer Science\, Reykjavík University\, 
+ Gardabaer\, Iceland
+SUMMARY:Introduction to Mozilla in Iceland
+DESCRIPTION:A discussion about open source and Mozilla with university stu
+ dents and the general public in Iceland. Topics of discussion will include
+ :\n  *   Why we need open source\n  *   Benefits of contributing to open s
+ ource\n  *   Where Mozilla fits in the realm of open source projects\n  * 
+   How to get involved in Mozilla\n  *   Adoption to open source culture th
+ rough receiving first laptop stickers with Firefox logo \;-)\n\nThis event
+  is being organized in collaboration with Reykjavík University.
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-in-iceland/
+SEQUENCE:2
+X-COORDINATES-LAT:64.1236582257
+X-COORDINATES-LON:-21.9255123142
+X-COUNTRY-CODE:is
+END:VEVENT
+
+END:VCALENDAR

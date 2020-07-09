@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@732
+CLASS:PUBLIC
+DTSTAMP:20200423T215128Z
+DTSTART:20130419T130000Z
+DTEND:20130420T010000Z
+LOCATION:Universidad Loyola del Pacífico ( Av. Heroico Colegio Militar s/
+ n. Fracc. Cumbres de Llano Largo. C.P. 39820 Acapulco\, Guerero\; México)
+ \, Acapulco\, Mexico
+SUMMARY:4th Conference of Engineering
+DESCRIPTION:This event is intended to\, meet the diverse opinions of exper
+ ts in technology and engineering\, coupled with learning from the experien
+ ces of the private sector specialists\, government and education\, with th
+ e opportunity to promote awareness class as nutritional Extra real cases t
+ o generate self-critical and reflective knowledge.\n
+URL:https://reps.mozilla.org/e/4th-conference-of-engineering/
+SEQUENCE:2
+X-COORDINATES-LAT:16.8307911126
+X-COORDINATES-LON:-99.8405313492
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

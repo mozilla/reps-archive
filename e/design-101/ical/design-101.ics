@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8748
+CLASS:PUBLIC
+DTSTAMP:20200423T081613Z
+DTSTART:20190810T070000Z
+DTEND:20190810T120000Z
+LOCATION:Sahayadri college of engineering &amp; Management (2nd floor Seminar 
+ hall)\, Mangalore\, India
+SUMMARY:Design 101
+DESCRIPTION:Come join us in the exploration of the vast and creative domai
+ n of Design. We are excited and thrilled to announce our very first free w
+ orkshop for this academic year - Design 101\, conducted by the Mozilla Clu
+ b of Sahyadri. Experience learning with hands-on experience while keeping 
+ the spark of inquisitiveness in you alive.
+URL:https://reps.mozilla.org/e/design-101/
+SEQUENCE:1
+X-COORDINATES-LAT:12.8357254157
+X-COORDINATES-LON:74.8376769572
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

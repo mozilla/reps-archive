@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3201
+CLASS:PUBLIC
+DTSTAMP:20200423T181820Z
+DTSTART:20141212T033000Z
+DTEND:20141212T103000Z
+LOCATION:Sathyabama University\, Chennai\, India
+SUMMARY:Hour Of Code @ Sathyabama University Chennai
+DESCRIPTION:The Computer Science week is here! The Hour of Code is a globa
+ l movement reaching tens of millions of students in 180+ countries. Also\,
+  Webmaker is partnering with Code.org on their global Hour of Code campaig
+ n. This year the Firefox Student Ambassadors from Sathyabama University Fi
+ refox Club are here to teach you something new.\nThis season we will be te
+ aching students about game development using one among the best Game Engin
+ es so far called &#34;Blender&#34;.
+URL:https://reps.mozilla.org/e/hour-of-code-sathyabama-university-chennai/
+SEQUENCE:3
+X-COORDINATES-LAT:13.060422
+X-COORDINATES-LON:80.249583
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

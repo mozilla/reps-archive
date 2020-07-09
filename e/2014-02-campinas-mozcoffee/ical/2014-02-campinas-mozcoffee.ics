@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1823
+CLASS:PUBLIC
+DTSTAMP:20200423T202734Z
+DTSTART:20140212T210000Z
+DTEND:20140213T010000Z
+LOCATION:Galleria Shopping\, Campinas\, Brazil
+SUMMARY:2014-02 Campinas MozCoffee
+DESCRIPTION:A gathering of Mozillians from Campinas and near cities for fo
+ od and chat.\n\nCampus Party and some local Webmaker events planning.
+URL:https://reps.mozilla.org/e/2014-02-campinas-mozcoffee/
+SEQUENCE:7
+X-COORDINATES-LAT:-22.8634633346
+X-COORDINATES-LON:-47.0235053301
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

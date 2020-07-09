@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2574
+CLASS:PUBLIC
+DTSTAMP:20200407T173625Z
+DTSTART:20140912T070000Z
+DTEND:20140912T100000Z
+LOCATION:Aula Serba Guna STIKOM Surabaya Jl. Raya Kedung Baruk No. 98\, Su
+ rabaya\, Indonesia
+SUMMARY:STIKOM Surabaya Maker Party 2014
+DESCRIPTION:Learning About Webmaker specially appmaker\, Firefox OS and et
+ c. This is a series of events #MakerParty in the world.
+URL:https://reps.mozilla.org/e/stikom-surabaya-maker-party-2014/
+SEQUENCE:5
+X-COORDINATES-LAT:-7.31141316237
+X-COORDINATES-LON:112.782407284
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

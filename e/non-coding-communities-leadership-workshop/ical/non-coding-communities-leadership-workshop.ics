@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7254
+CLASS:PUBLIC
+DTSTAMP:20200407T174238Z
+DTSTART:20171118T083000Z
+DTEND:20171119T170000Z
+LOCATION:Mozilla Office Berlin\, Berlin\, Germany
+SUMMARY:Non-coding communities leadership workshop
+DESCRIPTION:Workshop to work on the leadership part of the non-coding comm
+ unities project. Find more info here: https://discourse.mozilla.org/t/non-
+ coding-communities-and-contributors-proposal/21728/1
+URL:https://reps.mozilla.org/e/non-coding-communities-leadership-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:52.4992903637
+X-COORDINATES-LON:13.4490169287
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

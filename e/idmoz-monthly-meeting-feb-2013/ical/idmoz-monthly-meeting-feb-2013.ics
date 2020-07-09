@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@544
+CLASS:PUBLIC
+DTSTAMP:20200407T180632Z
+DTSTART:20130211T140000Z
+DTEND:20130212T140000Z
+LOCATION:IRC\, Jakarta Pusat\, Indonesia
+SUMMARY:IDMoz Monthly Meeting - Feb 2013
+DESCRIPTION:Monthly Meeting - Feb 2013\n=====================\n\nMonthly M
+ eeting Core Member of Mozilla Indonesia Community : Community Manager + Re
+ gional Leader + ReMo Member + l10n Lead + Add-On Developer + Volunteer
+URL:https://reps.mozilla.org/e/idmoz-monthly-meeting-feb-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.33713739499
+X-COORDINATES-LON:106.831054688
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

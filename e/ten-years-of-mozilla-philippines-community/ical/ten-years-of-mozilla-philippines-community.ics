@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8803
+CLASS:PUBLIC
+DTSTAMP:20200407T173243Z
+DTSTART:20190921T050000Z
+DTEND:20190921T090000Z
+LOCATION:Canva Manila\, Makati City\, Philippines
+SUMMARY:Ten Years of Mozilla Philippines Community
+DESCRIPTION:The Mozilla Philippines Community (MozillaPH) will be celebrat
+ ing it&#39;s 10 years of existence. To celebrate this feat\, we are organizing
+  a meetup for active volunteers\, contributors and members of the MozillaP
+ H community.
+URL:https://reps.mozilla.org/e/ten-years-of-mozilla-philippines-community/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5322292517
+X-COORDINATES-LON:121.007972716
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3996
+CLASS:PUBLIC
+DTSTAMP:20200423T171451Z
+DTSTART:20150613T113000Z
+DTEND:20150613T123000Z
+LOCATION:CCD at FC Road\, Pune\, India
+SUMMARY:MozCafe meetup Pune
+DESCRIPTION:The Mozilla Pune Annual community meetup is scheduled on the 2
+ 1st of June 2015. With just a week left to the event\, there is a lot we n
+ eed to plan\, coordinate and finalize to make sure our day on 21st is best
+  utilized together. \n\nThis MozCafe meetup is scheduled to finalize on th
+ e event plans and come up with a final agenda for the event on 21st.
+URL:https://reps.mozilla.org/e/mozcafe-meetup-pune/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5111108306
+X-COORDINATES-LON:73.857563
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

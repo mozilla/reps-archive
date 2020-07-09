@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3065
+CLASS:PUBLIC
+DTSTAMP:20200407T174459Z
+DTSTART:20141127T060000Z
+DTEND:20141128T160000Z
+LOCATION:Lagoon Beach Hotel in Cape Town\, Cape Town\, South Africa
+SUMMARY:6th Workshop on African Language Technology (AfLaT)
+DESCRIPTION:The 25th annual symposium of the Pattern Recognition Associati
+ on of South Africa (PRASA) will be held in conjunction with the 6th Worksh
+ op on African Language Technology (AfLaT) and the 7th conference of Roboti
+ cs and Mechatronics (RobMech) on 27 and 28 November 2014 at the Lagoon Bea
+ ch Hotel in Cape Town (http://www.lagoonbeachhotel.co.za).
+URL:https://reps.mozilla.org/e/6th-workshop-on-african-language-technology
+ -aflat/
+SEQUENCE:11
+X-COORDINATES-LAT:49.5073766584
+X-COORDINATES-LON:0.136299133301
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

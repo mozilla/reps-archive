@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@648
+CLASS:PUBLIC
+DTSTAMP:20200423T220101Z
+DTSTART:20130321T113000Z
+DTEND:20130321T140000Z
+LOCATION:Miracle House\, Room 697\, 3/F Nathan Road 691-697\, Mongkok\, Ko
+ wloon\, Hong Kong.\, Hong Kong\, Hong Kong
+SUMMARY:MozCafe x Hacking Thursday Hong Kong (2013-03)
+DESCRIPTION:It is a small scale informal meetup to gather local Mozillians
+ \, we works with Hacking Thursday Hong Kong (HKLUG) to host it.\n\nChinese
+  Event Page: http://www.opensource.hk/node/804\nH4 RSVP Form: http://regis
+ trano.com/events/b9c66e
+URL:https://reps.mozilla.org/e/mozcafe-x-hacking-thursday-hong-kong-2013-0
+ 3/
+SEQUENCE:0
+X-COORDINATES-LAT:22.3199963685
+X-COORDINATES-LON:114.16904211
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

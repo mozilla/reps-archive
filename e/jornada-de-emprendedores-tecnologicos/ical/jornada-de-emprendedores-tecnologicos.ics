@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8628
+CLASS:PUBLIC
+DTSTAMP:20200407T175738Z
+DTSTART:20190607T190000Z
+DTEND:20190607T233000Z
+LOCATION:Busch Avenue\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Jornada de Emprendedores Tecnológicos
+DESCRIPTION:&#34;Day of Technological Entrepreneurs&#34; It is an event oriented t
+ o entrepreneurship in the Internet technology area. Participants were invi
+ ted to the event from various universities in Santa Cruz...It will be a gr
+ eat day!
+URL:https://reps.mozilla.org/e/jornada-de-emprendedores-tecnologicos/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.7732094386
+X-COORDINATES-LON:-63.1984573605
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

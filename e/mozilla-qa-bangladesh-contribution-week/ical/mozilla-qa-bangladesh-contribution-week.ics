@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5595
+CLASS:PUBLIC
+DTSTAMP:20200423T114406Z
+DTSTART:20161125T030000Z
+DTEND:20161125T120000Z
+LOCATION:Daffodil International University\, Dhaka\, Bangladesh
+SUMMARY:Mozilla QA Bangladesh: Bug Week\, Dhaka
+DESCRIPTION:As a Community\, We want to unleash our contributing skills an
+ d want to contribute as much as we can. This will be a 7 Day long Activiti
+ es sprint\, where the first day will start with training on how to contrib
+ ute\, helping each other and so on and then the rest of the activities wil
+ l be done online!
+URL:https://reps.mozilla.org/e/mozilla-qa-bangladesh-contribution-week/
+SEQUENCE:9
+X-COORDINATES-LAT:23.7024068
+X-COORDINATES-LON:90.5001017
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@348
+CLASS:PUBLIC
+DTSTAMP:20200423T223954Z
+DTSTART:20121206T110000Z
+DTEND:20121206T130000Z
+LOCATION:Bangabandhu International Conference Center.\, Dhaka\, Bangladesh
+SUMMARY:Coffee with Gen Kanai and Mozilla Bangladesh community website lau
+ nching.
+DESCRIPTION:Gen Kanai will travel Bangladesh from 5th to 9th December 2012
+ . On 6th December\, Thursday he will deliver a keynote in Digital World Ba
+ ngladesh at Bangabandhu International Conference Centre. He might remain b
+ usy during the day. We are planning a meet up with him at evening and will
+  have coffee with snacks.\n\nAnd to mark Gen&#39;s visit we will take this opp
+ ortunity to announce our Mozilla Bangladesh Community website for public. 
+ Gen will do the formal announcement.
+URL:https://reps.mozilla.org/e/coffee-with-gen-kanai-and-mozilla-banglades
+ h-community-website-launching/
+SEQUENCE:0
+X-COORDINATES-LAT:23.7698714117
+X-COORDINATES-LON:90.3816461563
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@331
+CLASS:PUBLIC
+DTSTAMP:20200423T223228Z
+DTSTART:20121220T113000Z
+DTEND:20121220T133000Z
+LOCATION:TBD\, Surabaya\, Indonesia
+SUMMARY:MozKopDarSUB Desember 2012
+DESCRIPTION:Small meetup for mozillians in Surabaya. Update about latest i
+ nfo from Mozilla projects (Firefox\, Social API\, Popcorn\, FirefoxOS\, et
+ c).
+URL:https://reps.mozilla.org/e/mozkopdarsub-december-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-7.26439432534
+X-COORDINATES-LON:112.714233398
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

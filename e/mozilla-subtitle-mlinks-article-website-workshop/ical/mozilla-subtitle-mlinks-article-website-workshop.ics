@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3399
+CLASS:PUBLIC
+DTSTAMP:20200423T180806Z
+DTSTART:20150117T053000Z
+DTEND:20150117T110000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Da-an District\, Ta
+ iwan
+SUMMARY:Mozilla subtitle/MLinks article/website workshop
+DESCRIPTION:Saturday afternoon\, welcome to Mozilla Community Space Taipei
+  co-working on localize video subtitle / MLinks article and working on dev
+ elopeing moztw.org website! \n\nWe&#39;re doing L10n on video subtitle\, Mozil
+ la links articles\, SUMO and webmaker website on transifex.
+URL:https://reps.mozilla.org/e/mozilla-subtitle-mlinks-article-website-wor
+ kshop/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0440811033
+X-COORDINATES-LON:121.532266617
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

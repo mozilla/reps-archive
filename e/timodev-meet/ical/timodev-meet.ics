@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@268
+CLASS:PUBLIC
+DTSTAMP:20200423T224328Z
+DTSTART:20121126T043000Z
+DTEND:20121126T180000Z
+LOCATION:CBDC 10th/D\, C. Brediceanu St.\, Mezzanine\, Timisoara\, Romania
+SUMMARY:TiMoDev  Meetup
+DESCRIPTION:Timisoara Mobile Software is the community of mobile developer
+ s active in the Timisoara area. Beside other events or competitions they o
+ rganize monthly meetups for Mobile Developers.\nWe will participate at the
+  monthly meeting in November to present Firefox OS and I will also make a 
+ demo on the phone. 
+URL:https://reps.mozilla.org/e/timodev-meet/
+SEQUENCE:0
+X-COORDINATES-LAT:45.758211929
+X-COORDINATES-LON:21.2186551094
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

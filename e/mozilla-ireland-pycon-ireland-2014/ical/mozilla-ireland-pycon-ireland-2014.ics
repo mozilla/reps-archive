@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2665
+CLASS:PUBLIC
+DTSTAMP:20200407T174554Z
+DTSTART:20141013T110000Z
+DTEND:20141014T110000Z
+LOCATION:Ballsbridge Hotel\, Blackrock-Glenomena\, Ireland
+SUMMARY:Mozilla Ireland @ PyCon Ireland 2014
+DESCRIPTION:Python Ireland has been kind enough to invite us to PyCon Irel
+ and 2014! It’s happening on the weekend of October 11th and 12th and the
+ n we have an entire room to ourselves during the sprints on Monday\, Octob
+ er 13th.\n\n\nhttp://mozillaireland.org/mozilla-sprint-pycon-ireland-octob
+ er-13th/
+URL:https://reps.mozilla.org/e/mozilla-ireland-pycon-ireland-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:53.3316920272
+X-COORDINATES-LON:-6.23307752627
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

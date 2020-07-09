@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2958
+CLASS:PUBLIC
+DTSTAMP:20200423T184804Z
+DTSTART:20141010T040000Z
+DTEND:20141010T110000Z
+LOCATION:Federal Institute of Science and Technology\, Angamaly\, India
+SUMMARY:MakerParty @ FISAT
+DESCRIPTION:The event aims at introduction to the Mozilla and its communit
+ ies \, the technologies it creates and the way it makes web a productive p
+ lace each and every day. The event showcases the webmaker project which ar
+ e a great use to the developers all over the world . It also aims at encou
+ raging people to contribute to the Mozilla in their respective field of in
+ terest.
+URL:https://reps.mozilla.org/e/makerparty-fisat/
+SEQUENCE:2
+X-COORDINATES-LAT:10.1847624262
+X-COORDINATES-LON:76.4145435
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

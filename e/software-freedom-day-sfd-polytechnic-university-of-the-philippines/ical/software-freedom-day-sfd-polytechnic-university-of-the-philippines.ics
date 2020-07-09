@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1239
+CLASS:PUBLIC
+DTSTAMP:20200407T175430Z
+DTSTART:20130907T010000Z
+DTEND:20130907T090000Z
+LOCATION:PUP Manila\, Manila\, Philippines
+SUMMARY:Software Freedom Day (SFD) Polytechnic University of the Philippin
+ es
+DESCRIPTION:SFD is a yearly celebration for Software Freedom! Every year t
+ here are thousands teams organizing Software Freedom Day in different coun
+ tries and cities.
+URL:https://reps.mozilla.org/e/software-freedom-day-sfd-polytechnic-univer
+ sity-of-the-philippines/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5855770143
+X-COORDINATES-LON:120.975952148
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

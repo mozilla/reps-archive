@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5183
+CLASS:PUBLIC
+DTSTAMP:20200407T180241Z
+DTSTART:20160116T050000Z
+DTEND:20160116T090000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:#TrainTheTrainers on Online Privacy
+DESCRIPTION:In line with the Privacy Month\, a session for aspiring traine
+ rs to spread the word about online privacy.\nWe will talk about the basics
+  of online privacy\, how they can protect it\, what tools they can use and
+  how they can spread the word.
+URL:https://reps.mozilla.org/e/trainthetrainers-on-online-privacy/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5468287369
+X-COORDINATES-LON:121.015629709
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

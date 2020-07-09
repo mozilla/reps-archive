@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2442
+CLASS:PUBLIC
+DTSTAMP:20200407T174551Z
+DTSTART:20140725T050000Z
+DTEND:20140727T200000Z
+LOCATION:MozSpace 16 bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Remix it GameJam with Redwire
+DESCRIPTION:We’re very excited to announce that we’re teaming up with 
+ Gamelier and Jam Shaker to host the Remix it Game Jam.\n\nIn this Game jam
+  we will focus on Webgl/HTML5 and Redwire framework games and reuse of pub
+ lic domain assets.\n\nWe planed to test the Firefox development tools for 
+ profiling games during the gamejam!
+URL:https://reps.mozilla.org/e/remix-it-gamejam/
+SEQUENCE:8
+X-COORDINATES-LAT:48.8719939256
+X-COORDINATES-LON:2.34097183496
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

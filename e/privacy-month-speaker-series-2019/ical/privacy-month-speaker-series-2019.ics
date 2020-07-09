@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8367
+CLASS:PUBLIC
+DTSTAMP:20200407T181213Z
+DTSTART:20190130T160000Z
+DTEND:20190130T170000Z
+LOCATION:TBD\, Hyderabad\, India
+SUMMARY:Privacy Month Speaker Series 2019
+DESCRIPTION:As a part of the Privacy Month initiative\, we will be hosting
+  a couple of speaker series webinars on Privacy\, Security and related top
+ ics. \nThe webinars will see renowned speakers talking to us about their w
+ ork around privacy\, how to take control of your digital self\, some priva
+ cy-security tips and much more. Registration and participation is Free :)
+URL:https://reps.mozilla.org/e/privacy-month-speaker-series-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:17.3962076938
+X-COORDINATES-LON:78.4526653332
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

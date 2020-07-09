@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3890
+CLASS:PUBLIC
+DTSTAMP:20200423T170849Z
+DTSTART:20150627T130000Z
+DTEND:20150627T220000Z
+LOCATION:IDRD\, Bogota\, Colombia
+SUMMARY:Flisol Bogota - 2015
+DESCRIPTION:The Latin American Festival of Free Software Installation (FLI
+ SoL) is the broadcast event Free Software largest in Latin America\, was b
+ orn in Colombia in 2005\, and is now celebrated in over 20 countries and i
+ n over 100 cities worldwide. Its main objective is to promote the use of f
+ ree software\, revealing publicly his philosophy\, scope\, progress and de
+ velopment.
+URL:https://reps.mozilla.org/e/flisol-bogota-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:4.68111052448
+X-COORDINATES-LON:-74.0910644538
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2922
+CLASS:PUBLIC
+DTSTAMP:20200407T174905Z
+DTSTART:20141002T110000Z
+DTEND:20141002T150000Z
+LOCATION:Amman\, Amman\, Jordan
+SUMMARY:Welcome To Mozilla Jordan
+DESCRIPTION:1- Talk about Mozilla Jordan\n2- Talk about Womoz\n3-Talk abou
+ t localization\n4-Talk about how contributing with Mozilla and Jordan comm
+ unity  \n5- Talk about Ambassador programming \n6-View Videos for Mozilla 
+ Jordan\n7-Talk about Web maker \n8-Talk about Add-ons\n9-Talk about Firefo
+ x OS\n10- Showing operating system Firefox OS\n11- Talk about Arabic Commu
+ nity
+URL:https://reps.mozilla.org/e/welcome-to-mozilla-jordan/
+SEQUENCE:3
+X-COORDINATES-LAT:31.9669981105
+X-COORDINATES-LON:35.928139
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

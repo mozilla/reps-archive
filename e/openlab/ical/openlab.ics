@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7318
+CLASS:PUBLIC
+DTSTAMP:20200422T230123Z
+DTSTART:20180120T150000Z
+DTEND:20180120T180000Z
+LOCATION:Ciudad Universitaria - Av. Germán Amézaga\, Lima\, Peru
+SUMMARY:OpenLab
+DESCRIPTION:This year we will start new workshops for students at OpenLab.
+URL:https://reps.mozilla.org/e/openlab/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.0533709931
+X-COORDINATES-LON:-77.0854314567
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

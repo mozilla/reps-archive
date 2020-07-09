@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8469
+CLASS:PUBLIC
+DTSTAMP:20200407T170226Z
+DTSTART:20190412T123000Z
+DTEND:20190414T063000Z
+LOCATION:Shri Vaishnav Vidyapeeth Vishwavidyalaya\, Indore\, India
+SUMMARY:VOID HACKS ()
+DESCRIPTION:Hackathon goal: VOID HACKS() is a 36-hour national-level hacka
+ thon fostering innovation and creativity through learning by doing. It is 
+ to serve as a significant step towards a dexterous\, technology-driven fut
+ ure led by constructive\, problem-solving mindsets for the next generation
+ .\nEvent format: 36-hour national level hackathon\, Technical Talks.
+URL:https://reps.mozilla.org/e/void-hacks/
+SEQUENCE:2
+X-COORDINATES-LAT:22.7633729184
+X-COORDINATES-LON:75.8707036078
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6071
+CLASS:PUBLIC
+DTSTAMP:20200407T174232Z
+DTSTART:20161126T150000Z
+DTEND:20161126T170000Z
+LOCATION:University of the Aegean - Papanikolaou Building\, Karlovassi\, G
+ reece
+SUMMARY:Introduction to the EU Copyright Reform @ the University of the Ae
+ gean
+DESCRIPTION:Introduction to the EU Copyright Reform\, held at the Universi
+ ty of the Aegean in Samos island\, Greece.\n\nMore information to be added
+  soon.
+URL:https://reps.mozilla.org/e/introduction-to-the-eu-copyright-reform-the
+ -university-of-the-aegean-1/
+SEQUENCE:4
+X-COORDINATES-LAT:37.7970761489
+X-COORDINATES-LON:26.7021678688
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

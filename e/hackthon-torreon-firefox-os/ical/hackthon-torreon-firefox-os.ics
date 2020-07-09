@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1252
+CLASS:PUBLIC
+DTSTAMP:20200423T211201Z
+DTSTART:20130913T200000Z
+DTEND:20130915T010000Z
+LOCATION:Instituto Tecnológico de la Laguna\, Torreón\, Mexico
+SUMMARY:Hackthon Torreon Firefox OS
+DESCRIPTION:The goal of the App Day is to introduce Firefox OS and Firefox
+  Marketplace\, and share knowledge about the tools available to help devel
+ opers get started building apps to submit to the Marketplace. Learn\, Hack
+  and Celebrate the Firefox OS\, Mozilla&#39;s open source operating system for
+  the mobile web\n\nThe event will be held at the Instituto Tecnologico de 
+ la Laguna.\n\nDate: 14 and \nHours: 15:00 am to 20:00 pm or more.\n\nDate:
+  15 September\nHours: 10:00 am to 17 pm.
+URL:https://reps.mozilla.org/e/hackthon-torreon-firefox-os/
+SEQUENCE:19
+X-COORDINATES-LAT:25.5331867792
+X-COORDINATES-LON:-103.438425064
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@186
+CLASS:PUBLIC
+DTSTAMP:20200423T225407Z
+DTSTART:20121014T090000Z
+DTEND:20121014T170000Z
+LOCATION:Starbucks Cluj\, Cluj Napoca\, Romania
+SUMMARY:Hacking a Coffee with Mozilla
+DESCRIPTION:After the success of the both Code Party Cluj editions\, we de
+ cide to keep a regular meeting to hack and code together.\n\nSo\, this is 
+ how Hacking Coffee was founded - a MozCoffee event in Cluj that we&#39;ll try 
+ to make it monthly.  
+URL:https://reps.mozilla.org/e/hacking-coffee/
+SEQUENCE:0
+X-COORDINATES-LAT:46.7708943356
+X-COORDINATES-LON:23.6279225349
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

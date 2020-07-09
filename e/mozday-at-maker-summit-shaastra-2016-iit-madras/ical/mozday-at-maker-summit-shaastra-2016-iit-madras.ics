@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4895
+CLASS:PUBLIC
+DTSTAMP:20200423T155327Z
+DTSTART:20160126T043000Z
+DTEND:20160126T113000Z
+LOCATION:Indian Institute of Technology Madras\, Chennai\, India
+SUMMARY:MozDay at Maker Summit\, Shaastra 2016  [IIT Madras]
+DESCRIPTION:As part of Shaastra 2016\, we&#39;re setting up a Mozilla Booth at
+  IIT Madras. There will also be a talk as a part of their Maker Summit on 
+ the lines of:\n\n-Free and Open Source Software\n\n-Mozilla &amp; various Cont
+ ribution pathways\n\n-Talk on User Online privacy\n\n-Demo with Lightbeam 
+ addon on Firefox browser\n\n-FSA program\n\n-Mozilla Clubs\n\n-Web literac
+ y and Webmaker App\n\n\nOther content yet to be decided upon!
+URL:https://reps.mozilla.org/e/mozday-at-maker-summit-shaastra-2016-iit-ma
+ dras/
+SEQUENCE:8
+X-COORDINATES-LAT:12.9942423773
+X-COORDINATES-LON:80.2364252508
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

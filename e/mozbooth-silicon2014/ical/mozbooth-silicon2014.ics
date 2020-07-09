@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1747
+CLASS:PUBLIC
+DTSTAMP:20200423T202942Z
+DTSTART:20140206T033000Z
+DTEND:20140207T093000Z
+LOCATION:Satyabama University\,Chennai\, Kanchipuram\, India
+SUMMARY:Mozbooth- Silicon2014
+DESCRIPTION:Mozbooth at ieee symposium(silicon-2014) A booth to teach abou
+ t Open Source\, to aspread awareness about Mozilla Products and mission . 
+ Reaching out to students about Webmaking and other mozilla initiatives .\n
+ A Mozilla Booth at Silicon 2014 (ieee symposium)\nFb page : www.facebook.c
+ om/silicon2014
+URL:https://reps.mozilla.org/e/mozbooth-silicon2014/
+SEQUENCE:28
+X-COORDINATES-LAT:12.9527300375
+X-COORDINATES-LON:80.1459960931
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

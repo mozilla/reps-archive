@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@667
+CLASS:PUBLIC
+DTSTAMP:20200423T214745Z
+DTSTART:20130427T130000Z
+DTEND:20130427T170000Z
+LOCATION:Hackerspace.gr - Ampatielou 11\, Ag. Eleftherios\, Athens\, Greec
+ e
+SUMMARY:Mozilla Greece Meetup
+DESCRIPTION:Greek Community Meetup
+URL:https://reps.mozilla.org/e/mozilla-greece-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:38.0169432216
+X-COORDINATES-LON:23.7312699905
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

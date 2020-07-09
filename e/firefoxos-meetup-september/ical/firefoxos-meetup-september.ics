@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2751
+CLASS:PUBLIC
+DTSTAMP:20200423T185837Z
+DTSTART:20140917T170000Z
+DTEND:20140917T180000Z
+LOCATION:MediaLab Prado\, Madrid\, Spain
+SUMMARY:FirefoxOS Meetup - September
+DESCRIPTION:Monthly meeting. We talk about FirefoxOS and its new features\
+ , new technologies\, etc. In this ocassion we will talk about the new Flam
+ e and the FirefoxOS Tablet\, also the launch in the Indian market
+URL:https://reps.mozilla.org/e/firefoxos-meetup-september/
+SEQUENCE:3
+X-COORDINATES-LAT:40.4105375244
+X-COORDINATES-LON:-3.69360923811
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

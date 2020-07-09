@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7525
+CLASS:PUBLIC
+DTSTAMP:20200407T165054Z
+DTSTART:20180630T130000Z
+DTEND:20180630T150000Z
+LOCATION:Westfield London\, Ariel Way\, Shepherds Bush\, London W12 7GF\, 
+ Hammersmith &amp; Fulham\, United Kingdom
+SUMMARY:London MozCoffee - June
+DESCRIPTION:This 30th June event (14:00 - 16:00) will be a low-key affair\
+ , I&#39;ll have swag on hand. An opportunity to meet face-to-face and improve 
+ the UK Community for all who seek to participate.\n\nI look forward to mee
+ ting you in person.\n\nPlease grab a ticket via the above &#39;URL&#39;.
+URL:https://reps.mozilla.org/e/london-mozcoffee-june/
+SEQUENCE:3
+X-COORDINATES-LAT:51.5074314093
+X-COORDINATES-LON:-0.221686364093
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

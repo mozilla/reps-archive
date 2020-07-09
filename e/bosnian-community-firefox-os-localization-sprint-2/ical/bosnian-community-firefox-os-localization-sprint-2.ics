@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2711
+CLASS:PUBLIC
+DTSTAMP:20200407T180511Z
+DTSTART:20140815T150000Z
+DTEND:20140815T190000Z
+LOCATION:Alta Shopping Center\, Sarajevo\, Sarajevo\, Bosnia and Herzegovi
+ na
+SUMMARY:Bosnian Community Firefox OS localization sprint #2
+DESCRIPTION:Members of the Bosnian Mozilla Community localization crew wil
+ l gather to work on localizing Firefox OS into Bosnian language in order t
+ o have everything settled down for Firefox OS 2.1 release.
+URL:https://reps.mozilla.org/e/bosnian-community-firefox-os-localization-s
+ print-2/
+SEQUENCE:4
+X-COORDINATES-LAT:43.856391576
+X-COORDINATES-LON:18.4059449135
+X-COUNTRY-CODE:ba
+END:VEVENT
+
+END:VCALENDAR

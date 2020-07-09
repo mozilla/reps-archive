@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2650
+CLASS:PUBLIC
+DTSTAMP:20200407T175020Z
+DTSTART:20140805T123000Z
+DTEND:20140805T143000Z
+LOCATION:Navodaya Medical Store\, Station Road\, Warangal\, Warangal - AP\
+ , India
+SUMMARY:Maker Party @ Navodaya Medical Store
+DESCRIPTION:A campaign called MozRide where we host Maker Parties all over
+  Warangal City to teach the web.
+URL:https://reps.mozilla.org/e/maker-party-navodaya-medical-store/
+SEQUENCE:2
+X-COORDINATES-LAT:17.9046976797
+X-COORDINATES-LON:79.9456784874
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

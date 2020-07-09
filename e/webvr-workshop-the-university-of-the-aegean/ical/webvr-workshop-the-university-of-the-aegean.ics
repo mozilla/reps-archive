@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6342
+CLASS:PUBLIC
+DTSTAMP:20200407T174232Z
+DTSTART:20170325T140000Z
+DTEND:20170325T160000Z
+LOCATION:University of the Aegean - Papanikolaou Building\, Karlovassi\, G
+ reece
+SUMMARY:WebVR Workshop @ the University of the Aegean
+DESCRIPTION:WebVR Workshop\, held at the University of the Aegean in Samos
+  island\, Greece.\n\nOur aim is to increase awareness around WebVR and A-F
+ rame.
+URL:https://reps.mozilla.org/e/webvr-workshop-the-university-of-the-aegean
+ /
+SEQUENCE:7
+X-COORDINATES-LAT:37.7970761489
+X-COORDINATES-LON:26.7021678688
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

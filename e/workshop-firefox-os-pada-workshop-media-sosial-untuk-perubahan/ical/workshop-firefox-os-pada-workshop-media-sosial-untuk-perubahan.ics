@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2561
+CLASS:PUBLIC
+DTSTAMP:20200423T190306Z
+DTSTART:20140911T010000Z
+DTEND:20140911T040000Z
+LOCATION:Aula Kampus STAIN Watampone\, Bone\, Indonesia
+SUMMARY:Firefox OS Workshop at  “Media Sosial Untuk Perubahan”
+DESCRIPTION:&#34;Media Sosial Untuk Perubahan&#34; or Social Media for a brighter 
+ future is series of workshop agenda by South Sulawesi&#39;s Relawan TIK. The p
+ urpose of this workshop is so that participants are able to use social med
+ ia to spread positive values.
+URL:https://reps.mozilla.org/e/workshop-firefox-os-pada-workshop-media-sos
+ ial-untuk-perubahan/
+SEQUENCE:2
+X-COORDINATES-LAT:-4.78307480093
+X-COORDINATES-LON:120.042646409
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

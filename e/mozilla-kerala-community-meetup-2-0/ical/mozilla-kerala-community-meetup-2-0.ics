@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1638
+CLASS:PUBLIC
+DTSTAMP:20200423T203347Z
+DTSTART:20140119T040000Z
+DTEND:20140119T103000Z
+LOCATION:Bharath Hotel\, Kochi\, India
+SUMMARY:Mozilla Kerala Community Meetup 2.0
+DESCRIPTION:Second meetup of the Mozilla Kerala Community. The most fiery 
+ Mozillians across the state are meeting to reflect up the past activities 
+ and plan and plot the future. Mozilla Kerala Meetup 1 was held in Septembe
+ r 2013 with 20 attendees (http://blog.mozillakerala.org/2013/11/meetup1/) 
+ and here we are again with Mozilla Kerala Meetup 2.0\, with 40 attendees.
+URL:https://reps.mozilla.org/e/mozilla-kerala-community-meetup-2-0/
+SEQUENCE:7
+X-COORDINATES-LAT:10.000605975
+X-COORDINATES-LON:76.2867736747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

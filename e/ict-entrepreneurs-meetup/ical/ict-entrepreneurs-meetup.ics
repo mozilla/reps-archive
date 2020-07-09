@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1172
+CLASS:PUBLIC
+DTSTAMP:20200407T174831Z
+DTSTART:20140531T100000Z
+DTEND:20140531T120000Z
+LOCATION:FREPD Auditorium - Sonargaon Road\, Palashi Crossing\, Dhaka Univ
+ ersity Campus\,\, Dhaka\, Bangladesh
+SUMMARY:ICT entrepreneurs meetup
+DESCRIPTION:Mozilla Bangladesh and Chakri Khujbo Na Chakri Debo group (BdO
+ SN initiative) is co-organizing a Mozilla WebFWD Event to inspire the loca
+ l ICT entrepreneurs get participate in the WebFWD program. An exciting opp
+ ortunity for ICT entrepreneurs to share and brainstorm their open source i
+ deas &amp; projects.
+URL:https://reps.mozilla.org/e/ict-entrepreneurs-meetup/
+SEQUENCE:15
+X-COORDINATES-LAT:23.6445241986
+X-COORDINATES-LON:90.439453125
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

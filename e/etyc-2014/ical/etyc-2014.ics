@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2278
+CLASS:PUBLIC
+DTSTAMP:20200407T182134Z
+DTSTART:20140922T180000Z
+DTEND:20140927T000000Z
+LOCATION:Facultad Politecnica - Universidad Nacional de Asuncion\, San Lor
+ enzo\, Paraguay
+SUMMARY:MozPy Week 2014
+DESCRIPTION:MozPy Week: aims in reach all the Paraguayan population\, give
+  important knowledge about the resources\, tools and open and free to deve
+ lop technologies\, entrepreneurship\, innovation and research that broadly
+  favor the stakeholders.
+URL:https://reps.mozilla.org/e/etyc-2014/
+SEQUENCE:37
+X-COORDINATES-LAT:-25.3390323689
+X-COORDINATES-LON:-57.5189373492
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6238
+CLASS:PUBLIC
+DTSTAMP:20200423T113551Z
+DTSTART:20170119T073000Z
+DTEND:20170119T093000Z
+LOCATION:Sandip Foundation\, Trimbak Road\, Nashik\, Maharashtra 422213\, 
+ Nashik\, India
+SUMMARY:Privacy Workshop at SIP
+DESCRIPTION:Privacy awareness workshop for the polytechnic students. This 
+ event comes under the global #PrivacyMonth . Agenda is simple making stude
+ nts and staff aware about the rich Privacy Features of Firefox desktop and
+  Mobile. https://wiki.mozilla.org/India/task_force/Policy_and_Advocacy/Jan
+ uary_Privacy_Month_Campaign
+URL:https://reps.mozilla.org/e/privacy-workshop-at-sip/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0100753879
+X-COORDINATES-LON:73.7975235097
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

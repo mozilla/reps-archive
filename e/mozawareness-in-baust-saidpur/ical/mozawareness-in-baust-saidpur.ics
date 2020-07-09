@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5156
+CLASS:PUBLIC
+DTSTAMP:20200407T174317Z
+DTSTART:20160420T040000Z
+DTEND:20160420T080000Z
+LOCATION:Bangladesh Army University of Science &amp; Technology\, Saidpur\, Sa
+ idpur\, Bangladesh
+SUMMARY:MozAwareness in BAUST\, Saidpur
+DESCRIPTION:This is a new city and new institute where Mozilla will go to 
+ organize a mozawareness event where we will do these task: \n  \n- Show ab
+ out the Mozilla’s History.\n- Show the present and future Mozilla’s mi
+ ssions including Campus - Campaign &amp; Connected Devices.\n- Show the Mozill
+ a Bangladesh&#39;s history and present situation.\n- Share some Senior Mozilli
+ ans histories.\n- Aware about Privacy on the web.\n- Open and Talk about F
+ SA Clubs.
+URL:https://reps.mozilla.org/e/mozawareness-in-baust-saidpur/
+SEQUENCE:3
+X-COORDINATES-LAT:25.77874008
+X-COORDINATES-LON:88.8959276676
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

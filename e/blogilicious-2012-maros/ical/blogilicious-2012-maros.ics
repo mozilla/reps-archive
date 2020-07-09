@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@123
+CLASS:PUBLIC
+DTSTAMP:20200423T230536Z
+DTSTART:20120901T040000Z
+DTEND:20120902T040000Z
+LOCATION:Kantor Bupati Maros\, Maros\, Indonesia
+SUMMARY:Blogilicious 2012 Maros
+DESCRIPTION:Blogilicious\, is a seminar and workshop event in 7 cities in 
+ Indonesia with targeting of 200 bloggers per-city that aims to encourage y
+ oung generation of Indonesia to be a &#34;positive blogger&#34; that that share po
+ sitive contents/infos/news to Internet citizen. Blogilicious welcome Mozil
+ la Indonesia as one if the community who support open source\, user privac
+ y\, and internet safety. That&#39;s why Mozilla Indonesia were invited to Blog
+ ilicious in those 7 cities.
+URL:https://reps.mozilla.org/e/blogilicious-2012-maros/
+SEQUENCE:0
+X-COORDINATES-LAT:-5.02391489489
+X-COORDINATES-LON:119.566955566
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

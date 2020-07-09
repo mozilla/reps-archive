@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2968
+CLASS:PUBLIC
+DTSTAMP:20200407T181354Z
+DTSTART:20150110T080000Z
+DTEND:20150110T190000Z
+LOCATION:Jomo Kenyatta Univerisity - Mombasa Campus\, Mombasa\, Kenya
+SUMMARY:MozBooth @ Pwani ExpoTech 2015
+DESCRIPTION:Mombasa Tech Community CBO will be hosting it&#39;s inauguration e
+ vent where by more than 20 organizations and local companies will be atten
+ ding the event. The event aims to bring about high school students\, unive
+ rsity students\, IT professionals and Business professionals and tech enth
+ usiasts under one common space.\n\nMozilla Mombasa Community aims to have 
+ one booth at the venue to showcase Mozilla products and technologies\, Keo
+ n phone and help as a help desk for new comers and the entire public
+URL:https://reps.mozilla.org/e/mozbooth-mombasa-tech-cbo/
+SEQUENCE:7
+X-COORDINATES-LAT:-4.06975460762
+X-COORDINATES-LON:39.767074585
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

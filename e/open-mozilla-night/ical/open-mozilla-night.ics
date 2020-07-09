@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7920
+CLASS:PUBLIC
+DTSTAMP:20200407T174239Z
+DTSTART:20180705T163000Z
+DTEND:20180705T193000Z
+LOCATION:Toolbox Coworking\, Torino\, Italy
+SUMMARY:Open Mozilla Night @ Toolbox Coworking
+DESCRIPTION:Sit down\, and hack on Deep Speech and Common Voice
+URL:https://reps.mozilla.org/e/open-mozilla-night/
+SEQUENCE:2
+X-COORDINATES-LAT:45.0501866
+X-COORDINATES-LON:7.6666622
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

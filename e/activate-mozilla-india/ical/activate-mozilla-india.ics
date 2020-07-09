@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5966
+CLASS:PUBLIC
+DTSTAMP:20200423T145217Z
+DTSTART:20160930T183000Z
+DTEND:20161230T183000Z
+LOCATION:India\, India\, India
+SUMMARY:Activate Mozilla - India
+DESCRIPTION:Activate Mozilla Community is a significant campaign with four
+  focus initiatives. It supports the current organizational goals by enthus
+ ing someone on how he can start participating on the web and build web a b
+ etter place to live in. It also encourages mobilization of one’s communi
+ ty by predominantly focusing on special initiatives like development on Ru
+ st\, WebVR\, testing as well as non-technical ones like Maker Party and pr
+ ivacy policy.
+URL:https://reps.mozilla.org/e/activate-mozilla-india/
+SEQUENCE:1
+X-COORDINATES-LAT:22.1568831869
+X-COORDINATES-LON:79.7222900391
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

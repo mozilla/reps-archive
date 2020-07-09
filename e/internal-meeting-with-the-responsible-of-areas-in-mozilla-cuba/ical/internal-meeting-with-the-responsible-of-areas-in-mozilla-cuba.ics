@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4765
+CLASS:PUBLIC
+DTSTAMP:20200407T173813Z
+DTSTART:20151015T210000Z
+DTEND:20151016T000000Z
+LOCATION:Moz-space @erick :-)\, La Havana\, Cuba
+SUMMARY:Internal meeting with the responsible of areas in mozilla Cuba
+DESCRIPTION:Internal meeting with the responsible of areas in Mozilla Cuba
+  where we evaluate the state of each area in the community and we plan the
+  next activities for November\, also I talked about the service we offer f
+ or Cuban intranet and the important of update these for bring the best ser
+ vice for community in our country\, addition to attract new collaborators 
+ for participate actively in the community.
+URL:https://reps.mozilla.org/e/internal-meeting-with-the-responsible-of-ar
+ eas-in-mozilla-cuba/
+SEQUENCE:1
+X-COORDINATES-LAT:22.8740665864
+X-COORDINATES-LON:-82.5234375894
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

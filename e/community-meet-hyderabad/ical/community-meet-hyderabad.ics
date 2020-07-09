@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2464
+CLASS:PUBLIC
+DTSTAMP:20200423T193047Z
+DTSTART:20140629T083000Z
+DTEND:20140629T093000Z
+LOCATION:Hyderabad\, Secunderabad\, India
+SUMMARY:Community Meet-Hyderabad
+DESCRIPTION:To Increase the Community Database and Activate all the Firefo
+ x Clubs in Hyderabad. To announce our Action plan about the various upcomi
+ ng events in our Community Space at Hyderabad.
+URL:https://reps.mozilla.org/e/community-meet-hyderabad/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3650
+CLASS:PUBLIC
+DTSTAMP:20200423T174159Z
+DTSTART:20150317T071500Z
+DTEND:20150317T091500Z
+LOCATION:Himalaya College of Engineering\, Kathmandu\, Nepal
+SUMMARY:Build Your Own Firefox @ HCOE
+DESCRIPTION:Inspired by similar kind of event that recently took place in 
+ India\, one of our active FSA\, Nootan Ghimire\, will be conducting the ev
+ ent in his college.\n\nThe attendees will be distributed source code of Fi
+ refox and taught how to build from it.\n\nThis is the first of such kind o
+ f events.\n\nApart from that\, the current club of HCOE needs a new lead\,
+  they will also decide on the new club lead on the same day.
+URL:https://reps.mozilla.org/e/build-your-own-firefox-hcoe/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6769146211
+X-COORDINATES-LON:85.3325414655
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

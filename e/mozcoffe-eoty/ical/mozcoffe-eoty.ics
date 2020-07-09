@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1535
+CLASS:PUBLIC
+DTSTAMP:20200423T204342Z
+DTSTART:20131205T160000Z
+DTEND:20131205T203000Z
+LOCATION:Starbucks Cluj\, Cluj-Napoca\, Romania
+SUMMARY:MozCoffe EOTY
+DESCRIPTION:MozCoffee End Of The Year edition. We&#39;re doing this so we can 
+ get as many mozillians together over a cup of christmasy coffee\, to talk 
+ about what we want and can do over the course of next year. It&#39;s a show an
+ d tell of what everyone was up to in the past six months\, and a place to 
+ share the plans for the next six months.
+URL:https://reps.mozilla.org/e/mozcoffe-eoty/
+SEQUENCE:3
+X-COORDINATES-LAT:46.7716670566
+X-COORDINATES-LON:23.6257157475
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

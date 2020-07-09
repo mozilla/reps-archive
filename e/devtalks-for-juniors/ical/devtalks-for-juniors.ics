@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6044
+CLASS:PUBLIC
+DTSTAMP:20200423T114710Z
+DTSTART:20161111T070000Z
+DTEND:20161111T170000Z
+LOCATION:Impact Hub\, Bucharest\, Romania
+SUMMARY:DevTalks for Juniors
+DESCRIPTION:DevTalks for Juniors is specifically a one day bootcamp concep
+ t with focus on know-how and developing new technical skills and giving dr
+ ive on taking action for a better understanding of the field. The talks an
+ d networking with speakers or other professionals are about finding insigh
+ tful ideas and solutions about the most desired technologies nowadays.
+URL:https://reps.mozilla.org/e/devtalks-for-juniors/
+SEQUENCE:0
+X-COORDINATES-LAT:44.4231067331
+X-COORDINATES-LON:26.1097733974
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3314
+CLASS:PUBLIC
+DTSTAMP:20200407T180528Z
+DTSTART:20150620T040000Z
+DTEND:20150620T070000Z
+LOCATION:Rangpur\, Rangpur\, Bangladesh
+SUMMARY:Mozilla Awareness Day\, BRUR
+DESCRIPTION:Handful of Mozillians of Begum Rokeya University\, Rangpur hav
+ e been planning on letting the university students know about Mozilla at a
+  great level. The have recently teamed up with some active Mozillians from
+  Rajshahi and planned a Mozilla Awareness Day!\n\nParticipants will get to
+  know what Mozilla is and what Mozilla does in the introductoty session\, 
+ where as individual sessions on Webmaker\, Sumo\, MLS and Firefox OS will 
+ describe each projects and products.
+URL:https://reps.mozilla.org/e/mozilla-awareness-day-brur/
+SEQUENCE:7
+X-COORDINATES-LAT:25.719910365
+X-COORDINATES-LON:89.2280273885
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

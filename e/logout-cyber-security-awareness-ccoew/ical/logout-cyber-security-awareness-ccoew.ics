@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7385
+CLASS:PUBLIC
+DTSTAMP:20200423T100409Z
+DTSTART:20180127T033000Z
+DTEND:20180127T043000Z
+LOCATION:Cummins College of Engineering\, Pune\, India
+SUMMARY:Logout Cyber Security Awareness CCOEW
+DESCRIPTION:Cyber Awareness Event at Cummins College of Engineerin\,Pune
+URL:https://reps.mozilla.org/e/logout-cyber-security-awareness-ccoew/
+SEQUENCE:2
+X-COORDINATES-LAT:18.486559
+X-COORDINATES-LON:73.816107
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

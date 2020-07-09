@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6987
+CLASS:PUBLIC
+DTSTAMP:20200423T101759Z
+DTSTART:20171114T103000Z
+DTEND:20171114T123000Z
+LOCATION:IIIT Hyderabad\, Hyderabad\, India
+SUMMARY:Firefox 57 Release Party - Hyderabad
+DESCRIPTION:Yayyy! It&#39;s party time. \n\nhttps://www.cnet.com/special-repor
+ ts/mozilla-firefox-fights-back-against-google-chrome/\n\nhttp://www.zdnet.
+ com/article/why-you-should-root-for-mozillas-firefox-57-in-the-browser-war
+ s/
+URL:https://reps.mozilla.org/e/firfox-57-release-party-hyderabad/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4461348128
+X-COORDINATES-LON:78.3501334197
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

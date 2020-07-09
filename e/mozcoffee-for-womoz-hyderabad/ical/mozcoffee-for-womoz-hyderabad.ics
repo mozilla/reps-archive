@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7365
+CLASS:PUBLIC
+DTSTAMP:20200423T095835Z
+DTSTART:20180217T100000Z
+DTEND:20180217T130000Z
+LOCATION:Cafe Coffe Day\, VinayakaNagar\, Gachibowli - 500032\, Hyderabad\
+ , India
+SUMMARY:MozCoffee for WoMoz - Hyderabad
+DESCRIPTION:Women &amp; Mozilla (&#34;WoMoz&#34;) a community composed of members from
+  different Open Source projects. We are mainly dedicated to improving wome
+ n&#39;s visibility and involvement in Free/Open Source and Mozilla\, and to in
+ crease the number of women contributors.\n\nAnyone can participate in this
+  project\, regardless of sex\, age\, job\, etc. We are united by the commo
+ n goal of promoting women&#39;s visibility and involvement in open source comm
+ unities. \nhttps://wiki.mozilla.org/WoMoz
+URL:https://reps.mozilla.org/e/mozcoffee-for-womoz-hyderabad/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4430659023
+X-COORDINATES-LON:78.3551559452
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

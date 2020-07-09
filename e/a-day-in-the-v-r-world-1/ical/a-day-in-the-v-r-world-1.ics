@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7928
+CLASS:PUBLIC
+DTSTAMP:20200423T091511Z
+DTSTART:20180722T043000Z
+DTEND:20180722T103000Z
+LOCATION:Myntra\, Bangalore\, India
+SUMMARY:A Day in the V R world
+DESCRIPTION:A-Frame is a web framework for building virtual reality (VR) e
+ xperiences. This Mozilla-supported framework is powerful\, open source\, a
+ nd is easy to learn. In this talk\, we will explore the intro to trends in
+  Virtual Reality and how one can create VR scenes for Web with visual 3D i
+ nspector without any coding and then doing the same with coding. We will l
+ ook into cool demos of VR scenes created by Mozilla VR community.
+URL:https://reps.mozilla.org/e/a-day-in-the-v-r-world-1/
+SEQUENCE:8
+X-COORDINATES-LAT:12.962962622
+X-COORDINATES-LON:77.6438598521
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

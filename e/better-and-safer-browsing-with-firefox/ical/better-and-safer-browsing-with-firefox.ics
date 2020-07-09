@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2971
+CLASS:PUBLIC
+DTSTAMP:20200407T183103Z
+DTSTART:20141029T170000Z
+DTEND:20141029T190000Z
+LOCATION:Robert Morris University\, Coraopolis\, United States
+SUMMARY:Better and Safer Browsing with Firefox!
+DESCRIPTION:Informational table with hand-outs on how to avoid common web 
+ dangers (malware\, phishing\, etc) and how to use Add-Ons to improve the i
+ nternet browsing experience.
+URL:https://reps.mozilla.org/e/better-and-safer-browsing-with-firefox/
+SEQUENCE:1
+X-COORDINATES-LAT:40.5215223237
+X-COORDINATES-LON:-80.2115503553
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

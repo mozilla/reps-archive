@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3295
+CLASS:PUBLIC
+DTSTAMP:20200423T181053Z
+DTSTART:20150110T000000Z
+DTEND:20150111T100000Z
+LOCATION:Ateneo de Manila University\, Quezon City\, Philippines
+SUMMARY:AteneoHacks
+DESCRIPTION:AteneoHacks is the premiere student hackathon of the Ateneo de
+  Manila University. It will pit schools from all over against each other t
+ o create innovative and sustainable projects that have impact to Philippin
+ e society.
+URL:https://reps.mozilla.org/e/ateneohacks/
+SEQUENCE:1
+X-COORDINATES-LAT:14.6393063168
+X-COORDINATES-LON:121.076248168
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

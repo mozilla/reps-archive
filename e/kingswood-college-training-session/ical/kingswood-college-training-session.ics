@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2247
+CLASS:PUBLIC
+DTSTAMP:20200407T182537Z
+DTSTART:20140526T023000Z
+DTEND:20140526T073000Z
+LOCATION:7.2770683\,80.6148756\, Kandy\, Sri Lanka
+SUMMARY:Kingswood College Training Session
+DESCRIPTION:Sessions for school student to about firefox development\, fea
+ tures and local community. this event has two parts. one for Advanced Leve
+ l IT students. other one for Ordinary level students. both run parallel. \
+ nwe targeting 50 A/L students and 150 O/L students
+URL:https://reps.mozilla.org/e/kingswood-college-training-session/
+SEQUENCE:3
+X-COORDINATES-LAT:7.27811590509
+X-COORDINATES-LON:80.6162555516
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

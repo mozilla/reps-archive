@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3940
+CLASS:PUBLIC
+DTSTAMP:20200423T171159Z
+DTSTART:20150620T023000Z
+DTEND:20150621T133000Z
+LOCATION:Knowlarity Communications\, Gurgaon\, India
+SUMMARY:AngelHack Delhi 2015
+DESCRIPTION:AngelHack is a premier developer marketing agency\, which offe
+ rs comprehensive marketing programs to enhance existing corporate initiati
+ ves around developer relations\, developer marketing\, startup outreach\, 
+ and the creation of developer ecosystems. Specialized in hackathons and in
+ novation events\, they have thrown over 100 events in 35 cities operating 
+ in 25 countries. The flagship event is our Global Hackathon competition\, 
+ bringing together 10\,000+ developers each time.
+URL:https://reps.mozilla.org/e/angelhack-delhi-2015/
+SEQUENCE:6
+X-COORDINATES-LAT:28.455788244
+X-COORDINATES-LON:77.0578694344
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

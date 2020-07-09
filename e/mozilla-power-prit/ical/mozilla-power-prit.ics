@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@848
+CLASS:PUBLIC
+DTSTAMP:20200423T211947Z
+DTSTART:20130810T073000Z
+DTEND:20130810T113000Z
+LOCATION:Pulla Reddy Institute of Technology (PRIT)\, Hyderabad\, India
+SUMMARY:Mozilla Power @ Pulla Reddy Institute of Technology (PRIT)
+DESCRIPTION:What is Open source?\nWhat is Mozilla ?\nProjects of Mozilla ?
+ \nFirefox OS ?\nWomoz ?\nWebmaker tools ?\nHow to contribute ?\n\nWant to 
+ know answer for all these questions.Come\,join us.!
+URL:https://reps.mozilla.org/e/mozilla-power-prit/
+SEQUENCE:10
+X-COORDINATES-LAT:21.6165793367
+X-COORDINATES-LON:80.5078125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

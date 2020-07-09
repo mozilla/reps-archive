@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6329
+CLASS:PUBLIC
+DTSTAMP:20200407T174309Z
+DTSTART:20170401T060000Z
+DTEND:20170401T140000Z
+LOCATION:The Innovation Village\, Kampala\, Kampala\, Uganda
+SUMMARY:Mozilla Uganda L10n Sprint
+DESCRIPTION:This event is planned to strengthen our community and its loca
+ lization efforts by recruiting and training new localizers. We will be tar
+ geting 4 languages. Acholi\, which is already a fully localized build of F
+ irefox\, Luganda\, Ruchiga and Lusoga that are also widely spoken.
+URL:https://reps.mozilla.org/e/mozilla-uganda-l10n-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:0.338685924312
+X-COORDINATES-LON:32.5794839859
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

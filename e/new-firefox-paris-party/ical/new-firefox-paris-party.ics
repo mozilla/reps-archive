@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2185
+CLASS:PUBLIC
+DTSTAMP:20200423T195639Z
+DTSTART:20140429T170000Z
+DTEND:20140429T200000Z
+LOCATION:16bis Boulevard Montmartre\, Paris\, France
+SUMMARY:New Firefox Paris Party
+DESCRIPTION:In France\, we use to have the &#34;New Beaujolais&#34;... it&#39;s time t
+ o discover the New Firefox! For it&#39;s official launch\, let&#39;s discover and 
+ then celebrate a more fantastic Firefox\, closer and closer to users\, bea
+ utiful and easy to use!\nThis party is also dedicated to the Paris Office 
+ which will celebrate on that day its first anniversary.
+URL:https://reps.mozilla.org/e/new-firefox-paris-party/
+SEQUENCE:3
+X-COORDINATES-LAT:48.871888257
+X-COORDINATES-LON:2.34162658442
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

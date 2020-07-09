@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5578
+CLASS:PUBLIC
+DTSTAMP:20200407T181530Z
+DTSTART:20160626T153000Z
+DTEND:20160626T173000Z
+LOCATION:Indore\, Indore\, India
+SUMMARY:OnlineMeetup vth mentor
+DESCRIPTION:It is great to held hangout@knight with all hands london atten
+ dees councils member my mentors.\n\nIt is gathering after all hands london
+  &amp; important to delivered messages for better ideas to grow and path findi
+ ng for new contribution areas.
+URL:https://reps.mozilla.org/e/onlinemeetup-vth-mentor/
+SEQUENCE:1
+X-COORDINATES-LAT:22.7194225127
+X-COORDINATES-LON:75.8468341792
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

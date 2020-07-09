@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2041
+CLASS:PUBLIC
+DTSTAMP:20200423T195946Z
+DTSTART:20140424T150000Z
+DTEND:20140424T230000Z
+LOCATION:FES Aragón)\, Mexico City\, Mexico
+SUMMARY:FLISOL FES Aragón
+DESCRIPTION:FLISOL is an event created to promote the free software genera
+ l use\, and create interactions between users and developers. FLISOL happe
+ ns simultaneously in several countries of Latin America.
+URL:https://reps.mozilla.org/e/flisol-fes-aragon/
+SEQUENCE:3
+X-COORDINATES-LAT:19.4751666053
+X-COORDINATES-LON:-99.0434417728
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6575
+CLASS:PUBLIC
+DTSTAMP:20200407T174137Z
+DTSTART:20170514T113000Z
+DTEND:20170514T133000Z
+LOCATION:Coffee House\, Viviana Mall\, Thane\, Mumbai\, India
+SUMMARY:MozCoffee @ Mumbai
+DESCRIPTION:Moz-Coffee is happening for the first time in Mumbai. There ar
+ e very less students and graduates who are aware about Mozilla communities
+  and contributions. So to increase the number of contributors in Mumbai\, 
+ this is a deep and detailed introductory meetup for all the passionate stu
+ dents and graduates.
+URL:https://reps.mozilla.org/e/mozcoffee-mumbai-2/
+SEQUENCE:2
+X-COORDINATES-LAT:19.1982422913
+X-COORDINATES-LON:72.9792022426
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

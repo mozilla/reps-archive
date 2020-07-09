@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8810
+CLASS:PUBLIC
+DTSTAMP:20200407T173243Z
+DTSTART:20191017T050000Z
+DTEND:20191017T100000Z
+LOCATION:Bacolod City\, Bacolod\, Philippines
+SUMMARY:Mozilla Philippines Meetup in Bacolod City
+DESCRIPTION:The purpose of this event is to activate and energize the loca
+ l Mozilla community in the Negros region (Bacolod + Dumaguete)\, located s
+ ome 700 kilometers away from Manila.\n\nOne of the ultimate goals of this 
+ meetup is to plan for the localization efforts of Firefox to Hiligaynon (o
+ ne of the four indigenous languages in the Philippines\, widely spoken in 
+ the Negros region and has more than 10 million or more native speakers acc
+ ording to: https://en.wikipedia.org/wiki/Languages_of_the_Philippines)
+URL:https://reps.mozilla.org/e/mozilla-philippines-meetup-in-bacolod-city/
+SEQUENCE:4
+X-COORDINATES-LAT:10.5683721809
+X-COORDINATES-LON:122.983886674
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

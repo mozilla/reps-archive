@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1406
+CLASS:PUBLIC
+DTSTAMP:20200407T181126Z
+DTSTART:20131026T070000Z
+DTEND:20131026T160000Z
+LOCATION:BIBLIOTECA CIVICA MULTIMEDIALE ARCHIMEDE\, Torino\, Italy
+SUMMARY:Linux day 2013 - Torino
+DESCRIPTION:Linux day is an event that spreads across all Italy with the g
+ oal to promote Linux and FLOSS in general in the country.\nIt&#39;s organised 
+ by groups of volunteer and sees the participation of hacker\, IT people an
+ d courious citizens that want to enter the Open Source world.
+URL:https://reps.mozilla.org/e/linux-day-2013-torino/
+SEQUENCE:2
+X-COORDINATES-LAT:45.1359562872
+X-COORDINATES-LON:7.76633620262
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

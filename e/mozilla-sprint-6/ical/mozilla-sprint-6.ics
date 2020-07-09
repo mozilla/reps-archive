@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@386
+CLASS:PUBLIC
+DTSTAMP:20200407T175945Z
+DTSTART:20121212T020000Z
+DTEND:20121212T050000Z
+LOCATION:Community Space\, Hanoi\, Hanoi\, Vietnam
+SUMMARY:Mozilla Sprint #6
+DESCRIPTION:Mozilla Localization &amp; Mozila-related Technology Hacking.
+URL:https://reps.mozilla.org/e/mozilla-sprint-6/
+SEQUENCE:0
+X-COORDINATES-LAT:21.0113850864
+X-COORDINATES-LON:105.822458267
+X-COUNTRY-CODE:vn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6016
+CLASS:PUBLIC
+DTSTAMP:20200407T174533Z
+DTSTART:20161216T080000Z
+DTEND:20161216T161500Z
+LOCATION:Université Felix Houphouêt Boigny\, Abidjan\, Côte d’Ivoire
+SUMMARY:VOLUNTARY DAY (Third EDITION)
+DESCRIPTION:The international platform for young people to explore and dev
+ elop their leadership and potential (AIESEC) in partnership with Mozilla c
+ ommunity Ivory Coast\, organise a voluntary day.\n\nThis event aims to pro
+ moting voluntary of young people who contributing greatly on non-profit or
+ ganisation.\n\nUnderstanding the benefits of voluntary work and importance
+  of volunteers for non-profit organisation.\n\nMotivate more people to bec
+ ome volunteer for non-profit organisation
+URL:https://reps.mozilla.org/e/voluntary-day-third-edition/
+SEQUENCE:5
+X-COORDINATES-LAT:5.34581054535
+X-COORDINATES-LON:-3.99683726951
+X-COUNTRY-CODE:
+END:VEVENT
+
+END:VCALENDAR

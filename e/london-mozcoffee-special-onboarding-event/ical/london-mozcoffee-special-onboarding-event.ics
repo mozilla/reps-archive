@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7523
+CLASS:PUBLIC
+DTSTAMP:20200423T094314Z
+DTSTART:20180421T130000Z
+DTEND:20180428T130000Z
+LOCATION:Eat\, 1st Floor\, One New Change\, London\, EC4M 9AF\, City of Lo
+ ndon\, United Kingdom
+SUMMARY:London MozCoffee - Special onboarding event
+DESCRIPTION:We&#39;re in the process of building the foundations of a healthie
+ r Mozilla UK Community.\n\nWe&#39;ve collectively begun a focus on a number of
+  key priorities. Onboarding was flagged as one of those issues we should p
+ rioritise.\n\nThis special gathering is being planned to assist us in coll
+ aborating as a community and take the necessary actions on delivering this
+  goal.\n\nGrab a ticket via the above URL.
+URL:https://reps.mozilla.org/e/london-mozcoffee-special-onboarding-event/
+SEQUENCE:3
+X-COORDINATES-LAT:51.5139337003
+X-COORDINATES-LON:-0.0955063105721
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

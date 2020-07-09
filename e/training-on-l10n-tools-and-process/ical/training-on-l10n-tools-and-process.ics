@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8009
+CLASS:PUBLIC
+DTSTAMP:20200423T090533Z
+DTSTART:20180909T043000Z
+DTEND:20180909T113000Z
+LOCATION:Swecha Hub\, Hyderabad\, India
+SUMMARY:Training on L10n tools and Process
+DESCRIPTION:To train new contributors on the l10n tools and processes. And
+  onboard new  contributors.
+URL:https://reps.mozilla.org/e/training-on-l10n-tools-and-process/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4746857612
+X-COORDINATES-LON:78.6145015061
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

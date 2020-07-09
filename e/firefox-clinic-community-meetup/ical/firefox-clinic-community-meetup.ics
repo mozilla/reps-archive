@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@337
+CLASS:PUBLIC
+DTSTAMP:20200407T165636Z
+DTSTART:20130104T110000Z
+DTEND:20130106T110000Z
+LOCATION:Mozilla Berlin\, Berlin\, Germany
+SUMMARY:Mozilla Germany Meetup
+DESCRIPTION:Meetup of active German community members in Berlin to work on
+  a plan for 2013.
+URL:https://reps.mozilla.org/e/firefox-clinic-community-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:52.512334
+X-COORDINATES-LON:13.418748
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

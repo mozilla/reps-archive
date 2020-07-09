@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7262
+CLASS:PUBLIC
+DTSTAMP:20200423T101527Z
+DTSTART:20171121T140000Z
+DTEND:20171121T150000Z
+LOCATION:En linea via AirMo\, Managua\, Nicaragua
+SUMMARY:Martes Mozillero call 2017-11-21
+DESCRIPTION:Los martes mozillero son un medio de participación para las d
+ iferentes comunidades que desean comentar sobre sus proyectos y áreas inv
+ olucradas. También es una forma para compartir las ultimas novedades sobr
+ e mozilla\, firefox y demás campañas. \n\nDirigido esta vez por @Yunito
+URL:https://reps.mozilla.org/e/martes-mozillero-call-2017-11-21/
+SEQUENCE:2
+X-COORDINATES-LAT:12.8082305728
+X-COORDINATES-LON:-85.2128899097
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

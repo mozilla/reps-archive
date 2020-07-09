@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6556
+CLASS:PUBLIC
+DTSTAMP:20200407T174204Z
+DTSTART:20170422T010000Z
+DTEND:20170423T100000Z
+LOCATION:Mozilla Taipei Office\, Taipei\, Taiwan
+SUMMARY:Taipei L10n Workshop - EA+SEA
+DESCRIPTION:L10n team Taipei workshop\, the event is hosted by L10n Team\,
+  :petercpg\, local MozTW team members\, Gary Kwong and.
+URL:https://reps.mozilla.org/e/taipei-l10n-workshop-ea-sea/
+SEQUENCE:1
+X-COORDINATES-LAT:25.0324995777
+X-COORDINATES-LON:121.56706845
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

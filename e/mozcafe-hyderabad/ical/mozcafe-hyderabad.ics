@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@347
+CLASS:PUBLIC
+DTSTAMP:20200423T224355Z
+DTSTART:20121125T093000Z
+DTEND:20121125T123000Z
+LOCATION:Barista\,Beside Google Office\,Madhapur\,Hyderabad\, Hyderabad\, 
+ India
+SUMMARY:MozCafe Hyderabad
+DESCRIPTION:This event is to gather mozilla enthusiasts together to have d
+ iscussion on mozilla and its products.Taking the feed back too. 
+URL:https://reps.mozilla.org/e/mozcafe-hyderabad/
+SEQUENCE:0
+X-COORDINATES-LAT:17.457882854
+X-COORDINATES-LON:78.371733427
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

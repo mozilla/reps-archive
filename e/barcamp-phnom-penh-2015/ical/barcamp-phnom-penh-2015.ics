@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4150
+CLASS:PUBLIC
+DTSTAMP:20200407T182555Z
+DTSTART:20151024T020000Z
+DTEND:20151025T100000Z
+LOCATION:Institute of Technology of Cambodia\, Phnom Penh\, Cambodia
+SUMMARY:BarCamp Phnom Penh 2015
+DESCRIPTION:is a set of events that bring together IT professionals\, inno
+ vators\, businesses\, NGOs and students under their own agenda to network\
+ , create synergies and catch up the state-of-the-art of technology
+URL:https://reps.mozilla.org/e/barcamp-phnom-penh-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:11.5704986061
+X-COORDINATES-LON:104.897965014
+X-COUNTRY-CODE:kh
+END:VEVENT
+
+END:VCALENDAR

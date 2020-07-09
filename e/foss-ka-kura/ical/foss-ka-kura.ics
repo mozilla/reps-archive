@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3414
+CLASS:PUBLIC
+DTSTAMP:20200423T180115Z
+DTSTART:20150202T051500Z
+DTEND:20150202T091500Z
+LOCATION:Himalaya College of Engineering\, Kathmandu\, Nepal
+SUMMARY:FOSS ka Kura
+DESCRIPTION:Himalaya College of Engineering is organizing the FKK this mon
+ th.\nFKK is a monthly event organized by FOSS Nepal Community and will be 
+ supported by other open communities in Nepal like Mozilla etc.
+URL:https://reps.mozilla.org/e/foss-ka-kura/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6769146211
+X-COORDINATES-LON:85.3325521944
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

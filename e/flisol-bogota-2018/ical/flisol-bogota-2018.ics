@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7570
+CLASS:PUBLIC
+DTSTAMP:20200423T094026Z
+DTSTART:20180428T130000Z
+DTEND:20180428T230000Z
+LOCATION:Autonomous Technological Foundation of Bogotá FABA\, Bogota\, Co
+ lombia
+SUMMARY:FLISoL Bogotá 2018
+DESCRIPTION:FLISoL is the largest Open Software dissemination event in Lat
+ in America and is aimed at all types of audiences: students\, academics\, 
+ businessmen\, workers\, public officials\, enthusiasts and even people who
+  do not have much computer knowledge.\n\nThe FLISoL has been carried out s
+ ince 2005 and since 2008 ansd the admission is open and its main objective
+  is to promote the use of free software\, making known to the general publ
+ ic its philosophy\, scope\, progress and development.
+URL:https://reps.mozilla.org/e/flisol-bogota-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:4.59809907187
+X-COORDINATES-LON:-74.0763245523
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

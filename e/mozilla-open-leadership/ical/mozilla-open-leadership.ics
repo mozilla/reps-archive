@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7936
+CLASS:PUBLIC
+DTSTAMP:20200423T091404Z
+DTSTART:20180728T043000Z
+DTEND:20180728T083000Z
+LOCATION:TBD\, Ahmedabad\, India
+SUMMARY:Mozilla Open Leadership
+DESCRIPTION:A cohort of Open Leaders fueling the #internethealth movement 
+ through mentor-ship &amp; training on working open http://mozilla.github.io/le
+ adership-training/
+URL:https://reps.mozilla.org/e/mozilla-open-leadership/
+SEQUENCE:0
+X-COORDINATES-LAT:23.0376216195
+X-COORDINATES-LON:72.5274689196
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

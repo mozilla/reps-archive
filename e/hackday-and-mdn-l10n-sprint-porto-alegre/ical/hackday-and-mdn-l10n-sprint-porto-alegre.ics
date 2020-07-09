@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@83
+CLASS:PUBLIC
+DTSTAMP:20200407T181122Z
+DTSTART:20120901T123000Z
+DTEND:20120901T220000Z
+LOCATION:Av. Ipiranga\, 6681\, Porto Alegre\, Brazil
+SUMMARY:Hackday and MDN L10N Sprint - Porto Alegre
+DESCRIPTION:This event have two focus: Improve translation of MDN articles
+  (in pt-br) and teach developers on how to make apps for FirefoxOS.\n\nIt 
+ will have two separated efforts that will happen at the same time: A space
+  for localizers and a space for hackers.
+URL:https://reps.mozilla.org/e/hackday-and-mdn-l10n-sprint-porto-alegre/
+SEQUENCE:0
+X-COORDINATES-LAT:-30.0434641332
+X-COORDINATES-LON:-51.2037134171
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

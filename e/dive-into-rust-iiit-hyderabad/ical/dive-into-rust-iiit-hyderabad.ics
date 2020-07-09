@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6867
+CLASS:PUBLIC
+DTSTAMP:20200423T104804Z
+DTSTART:20170812T100000Z
+DTEND:20170812T130000Z
+LOCATION:IIIT Hyderabad\, Hyderabad\, India
+SUMMARY:Dive into Rust @ IIIT Hyderabad
+DESCRIPTION:Rust is a systems programming language that runs blazingly fas
+ t\, prevents segfaults\, and guarantees thread safety.  \n\nAgenda aka Eve
+ nt Flow:\nhttps://activate.mozilla.community/rust-hack/#event-flow
+URL:https://reps.mozilla.org/e/dive-into-rust-iiit-hyderabad/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4455718435
+X-COORDINATES-LON:78.3492755843
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

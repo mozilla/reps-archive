@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5179
+CLASS:PUBLIC
+DTSTAMP:20200407T174319Z
+DTSTART:20160503T050000Z
+DTEND:20160531T090000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Summer Maker Party for Kids 2016
+DESCRIPTION:A maker party series for kids aged from 6-9. This will be held
+  on all Tuesdays of May and will cover basic coding concepts such as synta
+ x\, methods\, strings\, loops\, variables\, etc. to teach students how to 
+ code in real programming languages.
+URL:https://reps.mozilla.org/e/summer-maker-party-for-kids-2016/
+SEQUENCE:5
+X-COORDINATES-LAT:14.5467523212
+X-COORDINATES-LON:121.01567266
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5857
+CLASS:PUBLIC
+DTSTAMP:20200407T181533Z
+DTSTART:20160926T050000Z
+DTEND:20160926T090000Z
+LOCATION:University of the Philippines - Los Banos\, Los Banos\, Philippin
+ es
+SUMMARY:TechNation Caravan at UPLB
+DESCRIPTION:This event is in partnership with 8Layer Technologies Inc. an 
+ advocate of the Free and Open Source Software in the Philippines. \nThis a
+ ims to reach out and educate members of the academe with the Free and Open
+  Source Software.
+URL:https://reps.mozilla.org/e/technation-caravan-at-uplb/
+SEQUENCE:5
+X-COORDINATES-LAT:14.1600838439
+X-COORDINATES-LON:121.241084575
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

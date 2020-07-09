@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2800
+CLASS:PUBLIC
+DTSTAMP:20200423T190659Z
+DTSTART:20140905T180000Z
+DTEND:20140906T210000Z
+LOCATION:Telmex Hub.\, Lindavista\, Mexico
+SUMMARY:Maker Party
+DESCRIPTION:Event for makers of Mexico who want to learn something new and
+  useful. We will fast and fun workshops focused art and technology. It is 
+ free.
+URL:https://reps.mozilla.org/e/maker-party-1/
+SEQUENCE:3
+X-COORDINATES-LAT:19.4312240534
+X-COORDINATES-LON:-99.1368085741
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6961
+CLASS:PUBLIC
+DTSTAMP:20200423T104324Z
+DTSTART:20170902T144500Z
+DTEND:20170902T164500Z
+LOCATION:Online\, Kathmandu\, Nepal
+SUMMARY:Online Localization Sprint - I  (NE Locale)
+DESCRIPTION:First online localization sprint after long period of team. Th
+ is event will me conducted by newly formed localization team of Mozilla Ne
+ pal Community. For this sprint\, we will be focusing on localizing Firefox
+  Beta in Pontoon.
+URL:https://reps.mozilla.org/e/online-localization-sprint-i-ne-locale/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6783392552
+X-COORDINATES-LON:85.3487548605
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@769
+CLASS:PUBLIC
+DTSTAMP:20200423T214551Z
+DTSTART:20130507T140000Z
+DTEND:20130507T163000Z
+LOCATION:St Margaret&#39;s School\, Victoria\, Canada
+SUMMARY:Victoria Webmaker Mentor Hackjam
+DESCRIPTION:Are you interested in empowering kids and youth? An Educator e
+ xploring web and digital literacy? Maybe you’re a techie wanting to lear
+ n more about Mozilla’s cool Webmaker tools? Hackers\, makers\, and ‘Op
+ en’ advocates are all welcome to our first Webmaker Mentor Hackjam!\n\nW
+ e’ll explore Mozilla’s Webmaker tools: Hackasaurus\, Thimble and Popco
+ rn Maker – learn more about our Hacktivity kits\, and other learning res
+ ources. \n\nJoin us!\n
+URL:https://reps.mozilla.org/e/victoria-webmaker-mentor-hackjam/
+SEQUENCE:2
+X-COORDINATES-LAT:48.4437783106
+X-COORDINATES-LON:-123.3984375
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

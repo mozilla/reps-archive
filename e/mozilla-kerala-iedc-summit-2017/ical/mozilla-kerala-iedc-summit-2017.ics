@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6866
+CLASS:PUBLIC
+DTSTAMP:20200423T104719Z
+DTSTART:20170819T033000Z
+DTEND:20170819T113000Z
+LOCATION:Adlux International Convention &amp; Exhibition Centre\, Karukutty \,
+ Angamaly\, Kochi\, India 683576\, Angamaly\, India
+SUMMARY:Mozilla @ Kerala IEDC Summit 2017
+DESCRIPTION:Kerala&#39;s Largest Summit for aspiring Student Entrepreneurs\nTh
+ e Innovation Entrepreneurship development centres are small incubators phy
+ sically available at Engineering\, Polytechnic\, Management and Arts &amp; Sci
+ ence colleges which promotes Innovation and entrepreneurship from the coll
+ ege level. Kerala Startup Mission is supporting 193 IEDC across the state 
+ which helps the students to come up with innovative ideas and work within 
+ the IEDC and start their entrepreneurial journey.
+URL:https://reps.mozilla.org/e/mozilla-kerala-iedc-summit-2017/
+SEQUENCE:8
+X-COORDINATES-LAT:10.2025001
+X-COORDINATES-LON:76.3459925
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

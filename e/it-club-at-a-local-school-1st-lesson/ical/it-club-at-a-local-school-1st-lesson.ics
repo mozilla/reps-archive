@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3299
+CLASS:PUBLIC
+DTSTAMP:20200423T180927Z
+DTSTART:20150113T130000Z
+DTEND:20150113T140000Z
+LOCATION:Harestone Valley Road\, London\, United Kingdom
+SUMMARY:IT club at a local school (1st lesson)
+DESCRIPTION:Mozilla is going to support the foundation of an IT-based club
+  in a school with over a 1000 students. The main aim of the club is to pro
+ mote the idea of the open web for everyone. The students will get an oppor
+ tunity to attend weekly lectures on computing and technology\, provided by
+  professional mentors from Mozilla. At the club pupils will learn a wide r
+ ange of topics from web languages and apps to the basics of IT security.
+URL:https://reps.mozilla.org/e/it-club-at-a-local-school-1st-lesson/
+SEQUENCE:4
+X-COORDINATES-LAT:51.2759801196
+X-COORDINATES-LON:-0.0862741487799
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

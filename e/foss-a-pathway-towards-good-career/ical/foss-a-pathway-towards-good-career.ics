@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4378
+CLASS:PUBLIC
+DTSTAMP:20200423T164717Z
+DTSTART:20150902T033000Z
+DTEND:20150902T113000Z
+LOCATION:Thakur Polytechnic college\, Mumbai\, India
+SUMMARY:FOSS - a pathway towards good career
+DESCRIPTION:Final Year Undergrads and Diploma students are looking towards
+  good placements. Along with their aptitude and academic record\, they mus
+ t maintain a good co-curricular activities to impress the recruiters. Open
+  Source Contributions will definitely server as an X-Factor in their profi
+ le. This event is aimed to provide an opportunity to look towards Open Sou
+ rce as a career enhancing tool.
+URL:https://reps.mozilla.org/e/foss-a-pathway-towards-good-career/
+SEQUENCE:2
+X-COORDINATES-LAT:18.7676479107
+X-COORDINATES-LON:72.9418936372
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

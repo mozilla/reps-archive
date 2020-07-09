@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8153
+CLASS:PUBLIC
+DTSTAMP:20200407T174123Z
+DTSTART:20180928T043000Z
+DTEND:20180928T063000Z
+LOCATION:FOSS lab\, College of Engineering\,Pune\, Pune\, India
+SUMMARY:Mozilla Mixed Reality at COEP Mindspark
+DESCRIPTION:A hands-on workshop on Mozilla Mixed Reality at College of Eng
+ ineering Pune&#39;s Annual technical festival MINDSPARK.
+URL:https://reps.mozilla.org/e/mozilla-mixed-reality-at-coep-mindspark/
+SEQUENCE:1
+X-COORDINATES-LAT:18.531375
+X-COORDINATES-LON:73.855341
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

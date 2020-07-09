@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4975
+CLASS:PUBLIC
+DTSTAMP:20200423T155831Z
+DTSTART:20151231T090000Z
+DTEND:20151231T100000Z
+LOCATION:Bangladesh Skill Development Institute\, Dhaka\, Bangladesh
+SUMMARY:FSA Boostup Pre-Camp @ BSDI
+DESCRIPTION:This event was in 19 Dec at 02:00 pm to 04:00 pm
+URL:https://reps.mozilla.org/e/fsa-boostup-pre-camp-bsdi/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7249724475
+X-COORDINATES-LON:90.3410053253
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

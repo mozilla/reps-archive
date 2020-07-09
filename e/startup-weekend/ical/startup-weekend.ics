@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1400
+CLASS:PUBLIC
+DTSTAMP:20200423T205419Z
+DTSTART:20131108T070000Z
+DTEND:20131110T170000Z
+LOCATION:Gimnazija Novo mesto\, Novo mesto\, Slovenia
+SUMMARY:Startup weekend
+DESCRIPTION:The event will be held at gymnasium Novo mesto. The idea of St
+ artup weekend is to develop business idea or even a working product among 
+ high school students. Mozilla will participate as partners. We will help w
+ ith advices and showcase the opportunities for development offered by the 
+ Open Web.
+URL:https://reps.mozilla.org/e/startup-weekend/
+SEQUENCE:3
+X-COORDINATES-LAT:45.80754
+X-COORDINATES-LON:15.16407
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

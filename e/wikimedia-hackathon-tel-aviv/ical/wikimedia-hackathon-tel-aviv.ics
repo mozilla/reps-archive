@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@908
+CLASS:PUBLIC
+DTSTAMP:20200407T165851Z
+DTSTART:20130523T070000Z
+DTEND:20130523T190000Z
+LOCATION:Google Tel-Aviv Campus\, Tel-Aviv\, Israel
+SUMMARY:Wikimedia Hackathon Tel-Aviv
+DESCRIPTION:The first local hackathon of Israeli developers interested in 
+ the software around Wikipedia.
+URL:https://reps.mozilla.org/e/wikimedia-hackathon-tel-aviv/
+SEQUENCE:1
+X-COORDINATES-LAT:32.0704290241
+X-COORDINATES-LON:34.7939372063
+X-COUNTRY-CODE:il
+END:VEVENT
+
+END:VCALENDAR

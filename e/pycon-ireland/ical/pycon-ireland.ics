@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1082
+CLASS:PUBLIC
+DTSTAMP:20200407T183321Z
+DTSTART:20131012T070000Z
+DTEND:20131015T170000Z
+LOCATION:Burlington Hotel\, Upper Leeson Street\, Dublin 4\, Dublin\, Irel
+ and
+SUMMARY:PyCon Ireland
+DESCRIPTION:PyCon Ireland is the largest annual gathering of the Irish Pyt
+ hon community
+URL:https://reps.mozilla.org/e/pycon-ireland/
+SEQUENCE:1
+X-COORDINATES-LAT:53.3302322596
+X-COORDINATES-LON:-6.24910712242
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

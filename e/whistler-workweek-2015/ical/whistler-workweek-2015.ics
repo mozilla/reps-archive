@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3912
+CLASS:PUBLIC
+DTSTAMP:20200407T173644Z
+DTSTART:20150623T160000Z
+DTEND:20150627T013000Z
+LOCATION:Whistler Conference Centre\, Whistler\, Canada
+SUMMARY:Whistler Workweek 2015
+DESCRIPTION:A Work Week is a meeting on specific topic where all participa
+ nts want to define and coordinate on the specific topics. It becomes very 
+ useful to quickly coordinate and solve issues without delay and plan proje
+ cts for the year to come.
+URL:https://reps.mozilla.org/e/whistler-workweek-2015/
+SEQUENCE:5
+X-COORDINATES-LAT:50.1147844397
+X-COORDINATES-LON:-122.957691908
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

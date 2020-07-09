@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8169
+CLASS:PUBLIC
+DTSTAMP:20200423T085240Z
+DTSTART:20181110T043000Z
+DTEND:20181110T113000Z
+LOCATION:National Institute of Technology\, Mangalore\, India
+SUMMARY:WebVR and Add-ons workshop @ NITK
+DESCRIPTION:A blend of WebVR and Add-ons campaign at the Campus Club of an
+  Indian prime institution.
+URL:https://reps.mozilla.org/e/webvr-and-add-ons-workshop-nitk/
+SEQUENCE:4
+X-COORDINATES-LAT:12.8528636807
+X-COORDINATES-LON:74.8789672181
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

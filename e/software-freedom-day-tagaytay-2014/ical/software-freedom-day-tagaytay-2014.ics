@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2595
+CLASS:PUBLIC
+DTSTAMP:20200407T180255Z
+DTSTART:20140927T010000Z
+DTEND:20140927T090000Z
+LOCATION:Olivarez College Tagaytay\, Tagaytay\, Philippines
+SUMMARY:Software Freedom Day Tagaytay 2014
+DESCRIPTION:An annual celebration of Software Freedom Day Worldwide\, For 
+ 2014 the Olivarez College Tagaytay will host the gathering for SFD 2014 in
+  South area Philippines\, which will gather FOSS enthusiast\, Students and
+  Professionals in one place where they will celebrate the SFD as a confere
+ nce type.\n\nMozilla will have a talk during the event and will have a boo
+ th.
+URL:https://reps.mozilla.org/e/software-freedom-day-tagaytay-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:14.1221726927
+X-COORDINATES-LON:120.962255
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

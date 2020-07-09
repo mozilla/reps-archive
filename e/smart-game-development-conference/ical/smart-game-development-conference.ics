@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@603
+CLASS:PUBLIC
+DTSTAMP:20200423T220043Z
+DTSTART:20130323T020000Z
+DTEND:20130323T100000Z
+LOCATION:12F Smart Tower\, Ayala Avenue\, Makati City\, Philippines
+SUMMARY:Smart Game Development Conference
+DESCRIPTION:SMART DevNet is cooking up a special day for the Game Developm
+ ent Industry in the Philippines: SMART Game Development Conference\, bring
+ ing together all the main elements of the industry in one event: from game
+  designers\, developers\, artists\, and producers - to startups &amp; establis
+ hed game studios\, to VCs\, investors\, students &amp; enthusiasts exploring t
+ he scene.\n\nSmart Communications if the very first telecom in the Philipp
+ ines to signify their intent to launch Firefox OS devices in the country.
+URL:https://reps.mozilla.org/e/smart-game-development-conference/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5585170632
+X-COORDINATES-LON:121.018170118
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6019
+CLASS:PUBLIC
+DTSTAMP:20200423T114929Z
+DTSTART:20161028T170000Z
+DTEND:20161031T000000Z
+LOCATION:Sunscape Puerto Vallarta\, Pitillal\, Mexico
+SUMMARY:Festival Software Libre Vallarta 2016
+DESCRIPTION:The Festival of Free Software Vallarta for 14 years brings tog
+ ether students\, teachers\, researchers\, people from government and busin
+ ess\, and fans Free Software in general to learn\, participate and exchang
+ e ideas for both a public that wants to know and enter these issues\, as w
+ ell as experts and high-level programmers.\n\nwe have over 40 academic and
+  social events presented by leading international speakers and experts fre
+ e software national speakers on various topics.
+URL:https://reps.mozilla.org/e/festival-software-libre-vallarta-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:20.642481553
+X-COORDINATES-LON:-105.238508463
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

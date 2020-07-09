@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7096
+CLASS:PUBLIC
+DTSTAMP:20200423T103141Z
+DTSTART:20171004T043000Z
+DTEND:20171004T073000Z
+LOCATION:Toc H Institute of Science and Technology\, Arakunnam\, Ernakulam
+  PO: 682313\, Ernakulam\, India
+SUMMARY:Mozilla Firefox Quantum Sprint - Ernakulam
+DESCRIPTION:Firefox 57 is coming! We Will check Firefox Nightly with our m
+ ost important web page in India\, so we can ensure that they work correctl
+ y. In this event we will test version 57 of Firefox locally. We will condu
+ ct a day of installation\, talks and also test several pages with the obje
+ ctive of seeing if there are flaws and report them if necessary.
+URL:https://reps.mozilla.org/e/mozilla-firefox-quantum-sprint-ernakulam/
+SEQUENCE:4
+X-COORDINATES-LAT:9.94109383115
+X-COORDINATES-LON:76.3475074782
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

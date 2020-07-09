@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6240
+CLASS:PUBLIC
+DTSTAMP:20200423T113152Z
+DTSTART:20170203T090000Z
+DTEND:20170203T130000Z
+LOCATION:NewsCred\, Dhaka\, Bangladesh
+SUMMARY:Intro to WebVR at Banani
+DESCRIPTION:Intro to webVR will be held in Banani who are interested in le
+ arning about webVR
+URL:https://reps.mozilla.org/e/intro-to-webvr-at-banani/
+SEQUENCE:6
+X-COORDINATES-LAT:23.725686901
+X-COORDINATES-LON:90.3976785
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

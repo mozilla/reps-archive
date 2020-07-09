@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3132
+CLASS:PUBLIC
+DTSTAMP:20200423T182659Z
+DTSTART:20141122T070000Z
+DTEND:20141122T160000Z
+LOCATION:Cluj Arena\, Clausemburgo\, Romania
+SUMMARY:OSOM - V - reInvent
+DESCRIPTION:&#39;&#39;OSOM – Open Source Open Mind&#39;&#39; – an event held annually\
+ , is design to reveal the general Open Source and Free Software concepts\,
+  the differences between the two trends and the types of licenses used in 
+ this area\, to demonstrate that Open Source and Free Software is a valid r
+ eplacement or complement to proprietary software. Beyond this\, the event 
+ tries to promote these open and free concepts in other fields\, covering b
+ ut not limited to\, business\, media and education.
+URL:https://reps.mozilla.org/e/osom-v-reinvent/
+SEQUENCE:6
+X-COORDINATES-LAT:46.756798321
+X-COORDINATES-LON:23.5876464811
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

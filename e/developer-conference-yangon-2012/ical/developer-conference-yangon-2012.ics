@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@17
+CLASS:PUBLIC
+DTSTAMP:20200407T165705Z
+DTSTART:20120914T023000Z
+DTEND:20120915T223000Z
+LOCATION:Myanmar Info Tech\, Yangon\, Myanmar
+SUMMARY:Developer Conference Yangon 2012
+DESCRIPTION:The second Developer Conference in Myanmar will be held on Sep
+  14th-15th-16th\, 2012 at the Myanmar Info-Tech\, Yangon \, Myanmar. 
+URL:https://reps.mozilla.org/e/developer-conference-yangon-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:16.8295793365
+X-COORDINATES-LON:96.1354994774
+X-COUNTRY-CODE:mm
+END:VEVENT
+
+END:VCALENDAR

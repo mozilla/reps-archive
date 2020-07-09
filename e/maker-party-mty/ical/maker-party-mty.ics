@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2537
+CLASS:PUBLIC
+DTSTAMP:20200407T181540Z
+DTSTART:20140802T170000Z
+DTEND:20140802T220000Z
+LOCATION:Coworking Monterrey\, Isaac Garza\, Centro\, Monterrey\, Mexico
+SUMMARY:Maker Party MTY
+DESCRIPTION:Evento para niños y adolescentes de Monterrey que quieren apr
+ ender algo nuevo y útil. Daremos talleres rápidos y divertidos enfocados
+  al arte y a la tecnología.\n\nEvent for children and teens in Monterrey 
+ who want to learn something new and useful. We will fast and fun workshops
+  focused on art and technology.
+URL:https://reps.mozilla.org/e/maker-party-mty/
+SEQUENCE:5
+X-COORDINATES-LAT:25.6407010552
+X-COORDINATES-LON:-100.27294904
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

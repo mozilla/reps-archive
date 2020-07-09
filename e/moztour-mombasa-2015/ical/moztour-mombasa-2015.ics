@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3303
+CLASS:PUBLIC
+DTSTAMP:20200407T180054Z
+DTSTART:20150202T090000Z
+DTEND:20150222T170000Z
+LOCATION:Mombasa\, Mombasa\, Kenya
+SUMMARY:MozTour Mombasa 2015
+DESCRIPTION:MozTour Mombasa 2015\, the first of its kind in Mombasa will b
+ e a tour round all High Schools\, Colleges and Universities scheduled to k
+ ick off on 2nd February until the 20th February 2015.\n\nThe theme of the 
+ tour is: &#34;The art of community building through impartation of Web Literac
+ y&#34;
+URL:https://reps.mozilla.org/e/moztour-mombasa-2015/
+SEQUENCE:5
+X-COORDINATES-LAT:-4.06975460762
+X-COORDINATES-LON:39.67918396
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

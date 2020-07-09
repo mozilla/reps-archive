@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4819
+CLASS:PUBLIC
+DTSTAMP:20200423T161030Z
+DTSTART:20151126T110000Z
+DTEND:20151126T150000Z
+LOCATION:JUST uni\, irbid\, Jordan
+SUMMARY:JUST Club Meetup
+DESCRIPTION:we will talk about this club activities and build new plan for
+  next year
+URL:https://reps.mozilla.org/e/just-club-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:32.4955498093
+X-COORDINATES-LON:35.9925270011
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

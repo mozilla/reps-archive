@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2891
+CLASS:PUBLIC
+DTSTAMP:20200423T183459Z
+DTSTART:20141108T170000Z
+DTEND:20141108T200000Z
+LOCATION:Lintheschergasse 17\, 8001 Zürich (near Globus)\, Zürich\, Swit
+ zerland
+SUMMARY:Million Mask March - Zurich
+DESCRIPTION:Currently there is a discussion in Swiss parliament to reform 
+ the current law regarding digital law enforcement. In privacy-concerned ci
+ rcles this reform is seen as a massive decrement of privacy of Swiss peopl
+ e. One of the means to increase the enforcement would be a trojan horse-li
+ ke tool which would be installed on people&#39;s computers. Therefore there wi
+ ll be a demonstration in Zurich to get us heard and get as many attention 
+ to the topic as possible\, so not only geeks see the problem.
+URL:https://reps.mozilla.org/e/million-mask-march-zurich/
+SEQUENCE:8
+X-COORDINATES-LAT:47.3763609698
+X-COORDINATES-LON:8.53874301902
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

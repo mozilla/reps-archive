@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2662
+CLASS:PUBLIC
+DTSTAMP:20200407T183443Z
+DTSTART:20140716T060000Z
+DTEND:20140716T070000Z
+LOCATION:Mozilla Taipei Office\, Da-an District\, Taiwan
+SUMMARY:SITCON - business visit at Mozilla
+DESCRIPTION:SITCON (Students&#39; Information Technology Conference) Summer Ca
+ mp came to the Mozilla Taipei office to learn about the Mozilla mission\, 
+ products\, and future expectations.
+URL:https://reps.mozilla.org/e/sitcon-business-visit-at-mozilla/
+SEQUENCE:1
+X-COORDINATES-LAT:25.0326322733
+X-COORDINATES-LON:121.567149996
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

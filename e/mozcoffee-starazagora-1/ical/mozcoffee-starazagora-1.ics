@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4212
+CLASS:PUBLIC
+DTSTAMP:20200407T182328Z
+DTSTART:20150723T150000Z
+DTEND:20150723T170000Z
+LOCATION:ул. Александър Батенберг 28\, Stara Zagora\,
+  Bulgaria
+SUMMARY:MozCoffee StaraZagora
+DESCRIPTION:Meetup of new Mozilla enthusiasts and volunteers. This event w
+ ill focus on community development and other related areas.
+URL:https://reps.mozilla.org/e/mozcoffee-starazagora-1/
+SEQUENCE:0
+X-COORDINATES-LAT:42.4247942906
+X-COORDINATES-LON:25.6165931224
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

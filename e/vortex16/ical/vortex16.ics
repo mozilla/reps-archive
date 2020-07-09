@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5070
+CLASS:PUBLIC
+DTSTAMP:20200407T181933Z
+DTSTART:20160130T043000Z
+DTEND:20160131T103000Z
+LOCATION:NIT TRICHY\, Thuvakudi\, India
+SUMMARY:Vortex&#39;16
+DESCRIPTION:This is the annual pan India technical symposium of the Depart
+ ment of Computer Science &amp; Engineering of NIT Trichy conducted under the a
+ uspices of CSEA. It has been a dais of ardent techno-geeks from across the
+  nation to exhibit their zest for technology.\nWorkshop on  version contro
+ l and web application development
+URL:https://reps.mozilla.org/e/vortex16/
+SEQUENCE:0
+X-COORDINATES-LAT:10.7631437
+X-COORDINATES-LON:78.8121456
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

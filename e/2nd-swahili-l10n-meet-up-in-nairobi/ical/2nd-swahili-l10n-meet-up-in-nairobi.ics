@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@994
+CLASS:PUBLIC
+DTSTAMP:20200423T212746Z
+DTSTART:20130707T090000Z
+DTEND:20130707T140000Z
+LOCATION:Naked Pizza - Parklands\, Nairobi\, Kenya
+SUMMARY:2nd Swahili L10n meet-up in Nairobi
+DESCRIPTION:This event shall help further the L10n efforts of the Swahili 
+ locale for Mozilla products. Focus shall be set on Firefox while the atten
+ dees learn the ropes on how to use the various localisation tools.
+URL:https://reps.mozilla.org/e/2nd-swahili-l10n-meet-up-in-nairobi/
+SEQUENCE:3
+X-COORDINATES-LAT:-1.2637222279
+X-COORDINATES-LON:36.8060660362
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

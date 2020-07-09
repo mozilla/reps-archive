@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7872
+CLASS:PUBLIC
+DTSTAMP:20200407T174627Z
+DTSTART:20180610T073000Z
+DTEND:20180610T103000Z
+LOCATION:ITE- Institute For Technical Education\, Bhopal\, India
+SUMMARY:Firefox Support Sprint MozMPCG
+DESCRIPTION:This Firefox Support sprint is all about mobile! this event wi
+ ll enable us to provide support to users. Participate in the support sprin
+ t and help our users to get better Firefox experience in your language.
+URL:https://reps.mozilla.org/e/firefox-support-sprint-mozmpcg/
+SEQUENCE:1
+X-COORDINATES-LAT:23.2800373111
+X-COORDINATES-LON:76.8347163498
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

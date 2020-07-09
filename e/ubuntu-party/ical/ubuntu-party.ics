@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3748
+CLASS:PUBLIC
+DTSTAMP:20200407T173719Z
+DTSTART:20150530T070000Z
+DTEND:20150531T170000Z
+LOCATION:Cité des Sciences et de l&#39;Industrie\, Paris\, France
+SUMMARY:Ubuntu Party #20
+DESCRIPTION:It&#39;s a very important Parisian event about Ubuntu where the Fr
+ ench community traditionnaly held a booth.\n\nThis year\, we will have an 
+ workshop about WebMaker the two days\, in a dedicated room. By thirty minu
+ tes workshop\, we will present HTML\, CSS and X-ray goggle to everyone int
+ erested.
+URL:https://reps.mozilla.org/e/ubuntu-party/
+SEQUENCE:7
+X-COORDINATES-LAT:48.8961540672
+X-COORDINATES-LON:2.38878107062
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

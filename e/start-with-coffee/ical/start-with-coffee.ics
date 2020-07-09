@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3215
+CLASS:PUBLIC
+DTSTAMP:20200407T182354Z
+DTSTART:20141213T033000Z
+DTEND:20141213T073000Z
+LOCATION:Near CUSAT Gate\, Kochi\, India
+SUMMARY:Start with coffee
+DESCRIPTION:Spreading knowledge and celebrating code\, Do-gooders in assoc
+ iation with CITTIC cusat is organizing START WITH COFFEE\, a students&#39; mee
+ tup. The event is an invite only for a select few. And is scheduled to hap
+ pen at 9 &#39;o&#39; clock of 13-December Choccochino (near CUSAT gate).
+URL:https://reps.mozilla.org/e/start-with-coffee/
+SEQUENCE:2
+X-COORDINATES-LAT:10.0551751
+X-COORDINATES-LON:76.3546548
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

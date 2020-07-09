@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7980
+CLASS:PUBLIC
+DTSTAMP:20200423T091620Z
+DTSTART:20180719T113000Z
+DTEND:20180719T133000Z
+LOCATION:Mozilla Taiwan Office\, Taipei\, Taiwan
+SUMMARY:Common Voice - Voice Data Open Night
+DESCRIPTION:Common Voice is a free voice database project by Mozilla. Afte
+ r one and half year&#39;s hard work\, on 29 June\, we finally launch and start
+  the collecting the Taiwanese Chinese voice data! \n\nTonight\, we will jo
+ in with the engineers from Mozilla Common Voice and Deep Speech projects\,
+  to celebrate together\, and talk about the interesting and difficulties o
+ f the project.
+URL:https://reps.mozilla.org/e/common-voice-voice-data-open-night/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0324943559
+X-COORDINATES-LON:121.567027956
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

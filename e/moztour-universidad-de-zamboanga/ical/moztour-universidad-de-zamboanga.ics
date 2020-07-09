@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@511
+CLASS:PUBLIC
+DTSTAMP:20200423T220910Z
+DTSTART:20130216T010000Z
+DTEND:20130216T040000Z
+LOCATION:Universidad De Zamboanga (Main Campus)\, Zamboanga\, Philippines
+SUMMARY:MozTour Universidad De Zamboanga
+DESCRIPTION:Mozilla Campus tour project to be hosted by Universidad De Zam
+ boanga (Main Campus) organized by some I.T students with expected particip
+ ants of 100 from different departments.Mozilla will talk during the event 
+ regarding Mozilla Project
+URL:https://reps.mozilla.org/e/moztour-universidad-de-zamboanga/
+SEQUENCE:0
+X-COORDINATES-LAT:6.91552057305
+X-COORDINATES-LON:122.063598633
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

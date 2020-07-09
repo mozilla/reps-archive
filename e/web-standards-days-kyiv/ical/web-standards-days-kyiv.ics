@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1409
+CLASS:PUBLIC
+DTSTAMP:20200407T183420Z
+DTSTART:20131026T080000Z
+DTEND:20131026T160000Z
+LOCATION:International Exhibition Centre\, Kyiv\, Ukraine
+SUMMARY:Web Standards Days - Kyiv
+DESCRIPTION:The main goal of event is to share experience in web developme
+ nt\, discuss new trends\, find new connections. It is regular\, quite popu
+ lar event for web developers.
+URL:https://reps.mozilla.org/e/web-standards-days-kyiv/
+SEQUENCE:2
+X-COORDINATES-LAT:50.4514108066
+X-COORDINATES-LON:30.5913448334
+X-COUNTRY-CODE:ua
+END:VEVENT
+
+END:VCALENDAR

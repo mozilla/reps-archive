@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4319
+CLASS:PUBLIC
+DTSTAMP:20200423T165209Z
+DTSTART:20150815T060000Z
+DTEND:20150816T180000Z
+LOCATION:Dortmunder U - Center for Art and Creativity\, Dortmund\, Germany
+SUMMARY:OpenTechSchool conference &amp; workshop
+DESCRIPTION:First OpenTechSchool Conference in Dortmund\, giving a talk wi
+ th Dan Callahan on Firefox OS\, hardware hacking and Rust on the conferenc
+ e day\, and also have a workshop on the same topic for the next day.
+URL:https://reps.mozilla.org/e/opentechschool-conference-workshop/
+SEQUENCE:2
+X-COORDINATES-LAT:51.522813781
+X-COORDINATES-LON:7.498386
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

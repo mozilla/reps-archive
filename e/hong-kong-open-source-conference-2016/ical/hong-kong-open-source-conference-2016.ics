@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5569
+CLASS:PUBLIC
+DTSTAMP:20200423T151823Z
+DTSTART:20160623T160000Z
+DTEND:20160625T160000Z
+LOCATION:Cyberport 3\, 100 Cyberport Road\, Telegraph Bay\, Hong Kong\, Ho
+ ng Kong
+SUMMARY:Hong Kong Open Source Conference 2016
+DESCRIPTION:Hong Kong Open Source Conference is an annual international op
+ en source conference in Hong Kong. It is aimed to demonstrate the use of o
+ pen source software technology\, open hardware technology and latest devel
+ opment in the world.
+URL:https://reps.mozilla.org/e/hong-kong-open-source-conference-2016/
+SEQUENCE:4
+X-COORDINATES-LAT:22.2621576134
+X-COORDINATES-LON:114.130172208
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

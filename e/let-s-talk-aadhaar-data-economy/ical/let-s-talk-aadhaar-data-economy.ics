@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7334
+CLASS:PUBLIC
+DTSTAMP:20200423T100757Z
+DTSTART:20180106T053000Z
+DTEND:20180106T073000Z
+LOCATION:Lamakaan\, Road No. 1 Banjara Hills\, Hyderabad\, India.\, Hydera
+ bad\, India
+SUMMARY:Let&#39;s Talk Aadhaar &amp; Data Economy
+DESCRIPTION:What does it mean to link Aadhaar?\n\nData protection committe
+ e - scope and mandate.\n\nHow Aadhaar undermines privacy\, security\, open
+ ness\, leads to threats of centralization \n\nThoughts from Mozilla on Aad
+ haar
+URL:https://reps.mozilla.org/e/let-s-talk-aadhaar-data-economy/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4210521219
+X-COORDINATES-LON:78.4472631812
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

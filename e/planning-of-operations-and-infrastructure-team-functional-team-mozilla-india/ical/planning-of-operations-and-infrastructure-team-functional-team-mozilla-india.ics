@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5850
+CLASS:PUBLIC
+DTSTAMP:20200423T145805Z
+DTSTART:20160909T053000Z
+DTEND:20160909T070000Z
+LOCATION:India\, Hyderabad\, India
+SUMMARY:Planning of Operations and Infrastructure Team(Functional Team Moz
+ illa India)
+DESCRIPTION:Operations and Infrastructure Team is established “ To ensur
+ e smooth\, efficient\, functional Community as a Whole!”
+URL:https://reps.mozilla.org/e/planning-of-operations-and-infrastructure-t
+ eam-functional-team-mozilla-india/
+SEQUENCE:2
+X-COORDINATES-LAT:14.8731236196
+X-COORDINATES-LON:77.2043609619
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

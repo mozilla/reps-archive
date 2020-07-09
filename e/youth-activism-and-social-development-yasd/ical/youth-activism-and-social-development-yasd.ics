@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5310
+CLASS:PUBLIC
+DTSTAMP:20200407T174318Z
+DTSTART:20160407T020000Z
+DTEND:20160407T110000Z
+LOCATION:Embassy of the United States of America\, Dhaka\, Bangladesh
+SUMMARY:Youth Activism and Social Development (YASD)
+DESCRIPTION:YASD is a project aimed to increase the activity of the youth 
+ of the society in community service and societal development processes thr
+ ough the use of technology. A workshop will be held where they will learn 
+ on how to address societal issues and find effective solutions to those pr
+ oblems.They have invited us to represent Mozilla and talk about how Mozill
+ a works for the community and what are the responsibilities of the volunte
+ ers and contributors.
+URL:https://reps.mozilla.org/e/youth-activism-and-social-development-yasd/
+SEQUENCE:0
+X-COORDINATES-LAT:23.7952650711
+X-COORDINATES-LON:90.421757251
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

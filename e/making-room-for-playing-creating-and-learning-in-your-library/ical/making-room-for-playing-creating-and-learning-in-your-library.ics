@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4579
+CLASS:PUBLIC
+DTSTAMP:20200407T182429Z
+DTSTART:20151019T090000Z
+DTEND:20151019T160000Z
+LOCATION:Olympia\, London\, London\, United Kingdom
+SUMMARY:Making Room for Playing\, Creating and Learning in your Library
+DESCRIPTION:An all day maker workshop at Internet Librarian International 
+ conference in London. During the workshop Mozilla&#39;s teaching resources and
+  tools will be highlighted and used\, and Mozilla&#39;s web literacy map will 
+ be presented.\n\nWorkshop facilitators:\nJeroen de Boer\, Bibliotheekservi
+ ce Fryslân\nÅke Nygren\, Mymakerbox.es\nAnnemarie Naylor\, Common Future
+ s\nLouise Overgaard\, Coding Pirates
+URL:https://reps.mozilla.org/e/making-room-for-playing-creating-and-learni
+ ng-in-your-library/
+SEQUENCE:2
+X-COORDINATES-LAT:51.4978689546
+X-COORDINATES-LON:-0.210466861899
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

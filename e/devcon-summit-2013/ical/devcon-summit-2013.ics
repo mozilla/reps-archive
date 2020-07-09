@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1432
+CLASS:PUBLIC
+DTSTAMP:20200423T204627Z
+DTSTART:20131130T010000Z
+DTEND:20131130T100000Z
+LOCATION:SM Megamall Cinema 4\, Calamba\, Philippines
+SUMMARY:DevCon Summit 2013
+DESCRIPTION:The DevCon Summit is a whole day conference that aims to bring
+  together over 800 professionals\, students\, educators and enthusiasts fr
+ om all over the Philippines to showcase the latest trends and opportunitie
+ s in the Information Technology industry.
+URL:https://reps.mozilla.org/e/devcon-summit-2013/
+SEQUENCE:6
+X-COORDINATES-LAT:14.585161691
+X-COORDINATES-LON:121.057405472
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

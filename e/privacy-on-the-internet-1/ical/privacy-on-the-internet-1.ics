@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7469
+CLASS:PUBLIC
+DTSTAMP:20200407T174051Z
+DTSTART:20180407T090000Z
+DTEND:20180407T120000Z
+LOCATION:Oritamefa Baptist Church\, Small Auditorium (Teenage Church).\, I
+ BADAN\, Nigeria
+SUMMARY:PRIVACY ON THE INTERNET
+DESCRIPTION:This is an eye opener to social medial enthusiast\, young\, ol
+ d and passionate individuals who make use of social media and other intern
+ et communication platforms who need to be aware of their rights to privacy
+  on internet.\n\nTOPICS:\n\n1. What I Need to Know About My Privacy on The
+  Internet\n\n2. Rules of Engagement on Internet and Social Media
+URL:https://reps.mozilla.org/e/privacy-on-the-internet-1/
+SEQUENCE:3
+X-COORDINATES-LAT:7.39817365497
+X-COORDINATES-LON:3.90804111936
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

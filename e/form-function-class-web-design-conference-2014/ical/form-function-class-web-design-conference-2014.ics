@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2496
+CLASS:PUBLIC
+DTSTAMP:20200407T165710Z
+DTSTART:20141108T010000Z
+DTEND:20141108T100000Z
+LOCATION:De La Salle University - Manila\, Ermita\, Philippines
+SUMMARY:&lt;Form&gt; Function() &amp; .Class Web Design Conference 2014
+DESCRIPTION:Form Function &amp; Class (FFC) is an annual conference that impar
+ ts essential knowledge to the web design community in Asia and the rest of
+  the world.
+URL:https://reps.mozilla.org/e/form-function-class-web-design-conference-2
+ 014/
+SEQUENCE:12
+X-COORDINATES-LAT:14.5658614443
+X-COORDINATES-LON:120.993375063
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3590
+CLASS:PUBLIC
+DTSTAMP:20200423T172953Z
+DTSTART:20150425T070000Z
+DTEND:20150426T160000Z
+LOCATION:TU Dresden\, Nöthnitzer Strasse 46\, Dresden\, Dresden\, Germany
+SUMMARY:MobileCamp 2015
+DESCRIPTION:MobileCamp is a yearly barcamp style event in Dresden which fo
+ cuses on everything mobile. This is the seventh time the MobileCamp will b
+ e held. Due to the Barcamp style the sessions aren&#39;t planned beforehand. N
+ evertheless we&#39;ll have a room where we can showcase Firefox OS and organiz
+ e a little Firefox OS App Day. We further want to focus on Gaia (like &#34;hey
+ \, Gaia is hackable!&#34;).
+URL:https://reps.mozilla.org/e/mobilecamp-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:51.0508551127
+X-COORDINATES-LON:13.7435760442
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

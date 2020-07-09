@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4970
+CLASS:PUBLIC
+DTSTAMP:20200423T155842Z
+DTSTART:20151230T130000Z
+DTEND:20151230T150000Z
+LOCATION:Wari\, Dhaka\, Bangladesh
+SUMMARY:Windows 10 Community Activation with DoS
+DESCRIPTION:this is a part of win10 campaign with a IT firm
+URL:https://reps.mozilla.org/e/windows-10-community-activation-with-dos/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7416953
+X-COORDINATES-LON:90.409851
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

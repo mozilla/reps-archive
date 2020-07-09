@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3300
+CLASS:PUBLIC
+DTSTAMP:20200407T174820Z
+DTSTART:20150129T043000Z
+DTEND:20150129T123000Z
+LOCATION:Bhagalpur\, Bhagalpur\, India
+SUMMARY:Angika (anp) Community Meetup
+DESCRIPTION:Angika is one of the dying language of India and Mozilla is co
+ mmitted [1] to establish the dying language on the web. Community [2] is w
+ orking for the language and want to grow the community and resources. \n*D
+ iscuss Angika on New technology Mobile and Computer\n* Glossary FUEL\n\n\n
+ [1]. https://blog.mozilla.org/l10n/2012/06/28/mozilla-and-language-preserv
+ ation/\n\n[2]. https://wiki.mozilla.org/L10n:Teams:anp
+URL:https://reps.mozilla.org/e/angika-anp-community-meetup/
+SEQUENCE:5
+X-COORDINATES-LAT:18.312810844
+X-COORDINATES-LON:73.9160156147
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

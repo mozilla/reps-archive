@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9141
+CLASS:PUBLIC
+DTSTAMP:20200407T170245Z
+DTSTART:20200306T173000Z
+DTEND:20200306T183000Z
+LOCATION:TBD\, Trento\, Italy
+SUMMARY:Mozilla Italia - Meeting of March 2020
+DESCRIPTION:The Mozilla Italia monthly meeting. It&#39;s recorded and then it&#39;
+ s published on YouTube.
+URL:https://reps.mozilla.org/e/mozilla-italia-meeting-of-march-2020/
+SEQUENCE:0
+X-COORDINATES-LAT:46.0624798868
+X-COORDINATES-LON:11.122421273
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2873
+CLASS:PUBLIC
+DTSTAMP:20200407T174402Z
+DTSTART:20141018T160000Z
+DTEND:20141019T010000Z
+LOCATION:University of Victoria\, Victoria\, Canada
+SUMMARY:Open Hatch Comes to Campus - University of Victoria!
+DESCRIPTION:Open Hatch Comes to Campus\n\nOpen Source Comes to Campus is a
+  one-day workshop to teach the tools and culture of open source developmen
+ t and to help students impact real projects.  We will focus on contributio
+ n to Mozilla\, and wrap up with a contribution challenge.
+URL:https://reps.mozilla.org/e/open-hatch-comes-to-campus-university-of-vi
+ ctoria/
+SEQUENCE:2
+X-COORDINATES-LAT:48.4361862703
+X-COORDINATES-LON:-123.502624556
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

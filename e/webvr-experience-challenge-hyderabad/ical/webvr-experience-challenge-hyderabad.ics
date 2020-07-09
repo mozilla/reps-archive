@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7568
+CLASS:PUBLIC
+DTSTAMP:20200423T094935Z
+DTSTART:20180330T043000Z
+DTEND:20180331T043000Z
+LOCATION:Collab House\, Hyderabad\, Hyderabad\, India
+SUMMARY:WebVR Experience Challenge - Hyderabad
+DESCRIPTION:To invite more developers and content creators to play with We
+ bVR and A-Frame\, Mozilla is excited to be partnering with Sketchfab for t
+ he Real-time Design Challenge. And what better playground could you imagin
+ e than going back to medieval times?\n\nDetails: https://challenges.mozill
+ a.community/webvr-challenge/\n\n24 Hour Hack-a-thon
+URL:https://reps.mozilla.org/e/webvr-experience-challenge-hyderabad/
+SEQUENCE:3
+X-COORDINATES-LAT:17.421456
+X-COORDINATES-LON:78.409692
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

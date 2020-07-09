@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3279
+CLASS:PUBLIC
+DTSTAMP:20200423T180345Z
+DTSTART:20150129T063000Z
+DTEND:20150129T223000Z
+LOCATION:DAV Institute of Engineering &amp; Technology\, Jalandhar\, India
+SUMMARY:Maker Party DAVIET
+DESCRIPTION:After an amazing Mini-Camp at Punjab and an initiative taken t
+ o Grow Mozilla community Punjab\, here is another amazing event organized 
+ while keeping in mind the initiative\; Grow Mozilla Punjab and strive for 
+ a great community in Punjab.\n\nThe main motive of this event is to innaug
+ rate the new Firefox Club at DAV Institute of Engineering and Technology w
+ ith a Bang!\, teach the students about Open Web and Mozilla\, spread the w
+ ord in Jalandhar.
+URL:https://reps.mozilla.org/e/maker-party-daviet/
+SEQUENCE:13
+X-COORDINATES-LAT:31.324313566
+X-COORDINATES-LON:75.5814743042
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

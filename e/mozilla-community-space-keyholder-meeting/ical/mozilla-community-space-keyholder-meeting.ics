@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8181
+CLASS:PUBLIC
+DTSTAMP:20200423T085841Z
+DTSTART:20181007T040000Z
+DTEND:20181007T080000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Mozilla Community Space Keyholder Meeting
+DESCRIPTION:A meeting for Mozilla Community Space Keyholder to do evaluati
+ on and shape our strategy forward.
+URL:https://reps.mozilla.org/e/mozilla-community-space-keyholder-meeting/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.2352636
+X-COORDINATES-LON:106.8212621
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

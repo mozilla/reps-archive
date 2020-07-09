@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8837
+CLASS:PUBLIC
+DTSTAMP:20200423T080748Z
+DTSTART:20191010T223000Z
+DTEND:20191010T233000Z
+LOCATION:ETEC Araraquara\, Araraquara\, Brazil
+SUMMARY:Tech Week - ETEC Araraquara
+DESCRIPTION:During the Tech Week\, the students will learn more about diff
+ erent technologies presented by the invited speakers. Mozilla will be repr
+ esented with a talk about the WebThings Project.
+URL:https://reps.mozilla.org/e/tech-week-etec-araraquara/
+SEQUENCE:0
+X-COORDINATES-LAT:-21.786421
+X-COORDINATES-LON:-48.1781602
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

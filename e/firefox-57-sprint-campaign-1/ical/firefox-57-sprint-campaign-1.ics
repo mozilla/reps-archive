@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6971
+CLASS:PUBLIC
+DTSTAMP:20200423T103335Z
+DTSTART:20171002T050000Z
+DTEND:20171008T140000Z
+LOCATION:Long Mountain\, Colombo Rd\, Mauritius
+SUMMARY:Firefox 57 Sprint Campaign
+DESCRIPTION:This an opportunity to ensure that Firefox runs smoothly on ev
+ ery part of the globe and regain its momentum. We are participating in thi
+ s rally with local community to participate in the testing and spreading o
+ f Firefox here. Nightly will be installed on several computers to enable w
+ eb surfers to browse and test this new version.
+URL:https://reps.mozilla.org/e/firefox-57-sprint-campaign-1/
+SEQUENCE:5
+X-COORDINATES-LAT:-20.1549218655
+X-COORDINATES-LON:57.5729656185
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@32
+CLASS:PUBLIC
+DTSTAMP:20200407T182837Z
+DTSTART:20121012T130000Z
+DTEND:20121013T000000Z
+LOCATION:Universidad de Morón\, Morón\, Argentina
+SUMMARY:Mozilla en la Universidad
+DESCRIPTION:We will go to a university to give to talks about Mozilla and 
+ also have a stand where we can talk with students\, talk about the Mozilla
+  project and educate about the Open Web.\n\nThe idea of the talks is to ta
+ lk about the Mozilla tail and its present\, specially B2G and its importan
+ ce for the Open Web.
+URL:https://reps.mozilla.org/e/mozilla-en-la-universidad/
+SEQUENCE:0
+X-COORDINATES-LAT:-36.5978891331
+X-COORDINATES-LON:-57.65625
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

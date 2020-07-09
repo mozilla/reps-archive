@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1985
+CLASS:PUBLIC
+DTSTAMP:20200407T174918Z
+DTSTART:20140306T120000Z
+DTEND:20140520T160000Z
+LOCATION:Open Minds Club\, University of Science and Technology Houari Bou
+ mediène\, Algiers\, Bab Ezzouar\, Algeria
+SUMMARY:&#34;Your Way into Open Source&#34; Training
+DESCRIPTION:Mozilla Algeria\, along with Open Minds Club\, is organizing a
+  3-months long training on how to contribute to Open Source\, with a focus
+  on Mozilla (all trainers are from the Mozilla community\, and Mozilla wil
+ l be our case study).\nThe goal is to train new contributors and guide the
+ m through the contribution path\, and with that\, to strengthen the Algeri
+ an community.
+URL:https://reps.mozilla.org/e/your-way-into-open-source-training/
+SEQUENCE:5
+X-COORDINATES-LAT:36.716043628
+X-COORDINATES-LON:3.18330645518
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6774
+CLASS:PUBLIC
+DTSTAMP:20200407T174239Z
+DTSTART:20170831T060000Z
+DTEND:20170904T140000Z
+LOCATION:TBD\, Ermoupoli\, Greece
+SUMMARY:FOSScamp Syros 2017
+DESCRIPTION:The 2nd edition of the summer adventure to spend with free ope
+ n source geeks and Mozillians from communities all around the Balkans and 
+ Europe. \nDuring this edition of FOSScamp we will focus on the theme: empo
+ wering the Commons in Syros Island through WebVR activities.\nWe will shoo
+ t 360&#39; photos of the island\, publish them in Wikimedia commons and throug
+ h a Mozilla WebVR workshops will learn how to create Web VR experiences wi
+ th the images and at the same time contribute to Wikimedia Commons.
+URL:https://reps.mozilla.org/e/fosscamp-syros-2017/
+SEQUENCE:7
+X-COORDINATES-LAT:41.3268106824
+X-COORDINATES-LON:19.8289489746
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

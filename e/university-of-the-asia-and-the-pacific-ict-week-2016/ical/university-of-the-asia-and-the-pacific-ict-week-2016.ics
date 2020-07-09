@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5762
+CLASS:PUBLIC
+DTSTAMP:20200423T150236Z
+DTSTART:20160824T010000Z
+DTEND:20160824T090000Z
+LOCATION:University of the Asia and the Pacific\, Pasig\, Philippines
+SUMMARY:University of the Asia and the Pacific ICT Week 2016
+DESCRIPTION:This event aims to introduce Mozilla to the students and get t
+ hem informed of how they can contribute and learn by helping to keep the W
+ eb open. We will talk about the Mozilla mission\, the community and the pr
+ ojects that we are working on that they can also contribute to. Also intro
+ ducing Firefox Developer Tools to student designers and developers
+URL:https://reps.mozilla.org/e/university-of-the-asia-and-the-pacific-ict-
+ week-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5804441686
+X-COORDINATES-LON:121.061003834
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

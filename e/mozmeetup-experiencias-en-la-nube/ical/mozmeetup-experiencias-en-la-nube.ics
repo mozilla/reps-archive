@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5404
+CLASS:PUBLIC
+DTSTAMP:20200407T181939Z
+DTSTART:20160429T143000Z
+DTEND:20160429T180000Z
+LOCATION:Av. Arenales 1555 - Lince\, Lima\, Lince\, Peru
+SUMMARY:MozMeetup Experiencias en la nube
+DESCRIPTION:ENGLISH: We gather three experts with experience in Amazon Web
+  Services\, Heroku\, and Azure. They will talk us how to deploy web servic
+ es and apps in the cloud.\n \nESPAÑOL: Reunimos a tres personas con exper
+ iencia en Amazon Web Services\, Heroku y Azure para que nos cuenten cómo 
+ es realmente desplegar servicios y aplicaciones web en la nube.
+URL:https://reps.mozilla.org/e/mozmeetup-experiencias-en-la-nube/
+SEQUENCE:3
+X-COORDINATES-LAT:-12.0783310198
+X-COORDINATES-LON:-77.0364822148
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

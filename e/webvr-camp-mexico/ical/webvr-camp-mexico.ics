@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6720
+CLASS:PUBLIC
+DTSTAMP:20200407T174159Z
+DTSTART:20170726T220000Z
+DTEND:20170728T010000Z
+LOCATION:Telmex Hub\, Delegacion Cuauhtemoc\, Mexico
+SUMMARY:WebVR Camp Mexico
+DESCRIPTION:A-Frame is a framework for building virtual reality experience
+ s\, making it easy for anyone who wants to get involved in it. Its goal is
+  to integrate more 3D developers into this open platform.\n\nA-Frame is us
+ ed extensively by the Mozilla VR team to prototype and experiment with Web
+ VR. Having more users who know A-frame\, will give them the opportunity to
+  participate in one of the most exciting revolutions in the field of techn
+ ology.
+URL:https://reps.mozilla.org/e/webvr-camp-mexico/
+SEQUENCE:4
+X-COORDINATES-LAT:19.431163347
+X-COORDINATES-LON:-99.136815548
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

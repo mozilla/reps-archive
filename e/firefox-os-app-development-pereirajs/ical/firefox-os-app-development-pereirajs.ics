@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4308
+CLASS:PUBLIC
+DTSTAMP:20200407T174300Z
+DTSTART:20150829T000000Z
+DTEND:20150829T023000Z
+LOCATION:ViveLab\, Pereira\, Colombia
+SUMMARY:Firefox OS App Development - PereiraJS
+DESCRIPTION:The event would feature presentations on the Firefox OS\,what 
+ exciting about the operating system and ways to contribute through the bui
+ lding of apps for the Firefox OS marketplace.  Participants will learn abo
+ ut making apps for Firefox OS. We will covering our event&#39;s session from v
+ ery basic to hard so that everyone of them can get them started for creati
+ ng Firefox OS apps.
+URL:https://reps.mozilla.org/e/firefox-os-app-development-pereirajs/
+SEQUENCE:4
+X-COORDINATES-LAT:4.81439012103
+X-COORDINATES-LON:-75.7119140628
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

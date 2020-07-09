@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8490
+CLASS:PUBLIC
+DTSTAMP:20200407T174626Z
+DTSTART:20190429T043000Z
+DTEND:20190429T103000Z
+LOCATION:NIT Trichy\, Trichy\, India
+SUMMARY:JS Next NITT
+DESCRIPTION:JavaDcript developers event\, mainly focusing on React\, moder
+ n JabaScript practices\, CSS Grid &amp; ES6. Also learn using Firefox Dev Tool
+ s &amp; fix bugs in Firefox Debugger and other developer tools.
+URL:https://reps.mozilla.org/e/js-next-nitt/
+SEQUENCE:4
+X-COORDINATES-LAT:12.3757748474
+X-COORDINATES-LON:79.6054691076
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

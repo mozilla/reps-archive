@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@785
+CLASS:PUBLIC
+DTSTAMP:20200423T215237Z
+DTSTART:20130416T110000Z
+DTEND:20130416T130000Z
+LOCATION:Sweet Chariott\, FC Road\, Pune\, India
+SUMMARY:MozCafe Pune
+DESCRIPTION:Calling all Mozillians from Pune and the surrounding regions f
+ or a round of discussions about the future activities of the community and
+  creating a roadmap of events in the upcoming months including Summer Camp
+ aign 2013.
+URL:https://reps.mozilla.org/e/mozcafe-pune/
+SEQUENCE:2
+X-COORDINATES-LAT:18.5271429559
+X-COORDINATES-LON:73.8416218758
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

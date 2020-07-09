@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1941
+CLASS:PUBLIC
+DTSTAMP:20200407T174244Z
+DTSTART:20140327T080000Z
+DTEND:20140328T170000Z
+LOCATION:Computer Science Department\, Milan\, Italy
+SUMMARY:Series of Conferences &#34;Voglia di Scienza&#34; Presents Firefox OS
+DESCRIPTION:Firefox OS is a new mobile operating system\, developed by Moz
+ illa and based on Linux and the Gecko engine that powers Firefox. Based on
+  Web technologies\, you can develop your own App only with HTML\, JS &amp; CSS
+ . Bring your website to the App&#39;s world in few steps!
+URL:https://reps.mozilla.org/e/series-of-conferences-voglia-di-scienza-pre
+ sents-firefox-os/
+SEQUENCE:20
+X-COORDINATES-LAT:45.4542524735
+X-COORDINATES-LON:9.21452128852
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

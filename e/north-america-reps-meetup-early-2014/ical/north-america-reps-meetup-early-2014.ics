@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1477
+CLASS:PUBLIC
+DTSTAMP:20200407T174452Z
+DTSTART:20140405T170000Z
+DTEND:20140407T040000Z
+LOCATION:TBD\, Portland\, United States
+SUMMARY:North America Reps Meetup - Early 2014
+DESCRIPTION:The North America Reps meetup aims to follow-up what the previ
+ ous meetup had started and review the plan of action that has been in plac
+ e since August 2013.
+URL:https://reps.mozilla.org/e/north-america-reps-meetup-early-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:45.4755402716
+X-COORDINATES-LON:-122.670959383
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

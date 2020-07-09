@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@227
+CLASS:PUBLIC
+DTSTAMP:20200423T224504Z
+DTSTART:20121122T040000Z
+DTEND:20121123T040000Z
+LOCATION:SM Trade Hall\, SM City Cebu\, Cebu City\, Philippines
+SUMMARY:1st Youth for IT Cebu (Y4IT Cebu)
+DESCRIPTION:The Philippine Youth Congress on Information Technology or &#34;Y4
+ iT&#34; (Youth for IT) is an annual event hosted by UP ITTC and UP SITF in coo
+ peration with the UP ITTC Student Volunteer Corps\, JICA\, PSITE\, CSP\, P
+ CS\, PSIA\, GDAP\, EITSC\, HSF\, and Cyberpress. 
+URL:https://reps.mozilla.org/e/1st-youth-for-it-cebu-y4it-cebu/
+SEQUENCE:0
+X-COORDINATES-LAT:10.2905986102
+X-COORDINATES-LON:123.855743408
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

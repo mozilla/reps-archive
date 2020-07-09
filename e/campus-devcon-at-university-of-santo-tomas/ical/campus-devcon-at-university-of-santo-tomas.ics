@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@871
+CLASS:PUBLIC
+DTSTAMP:20200423T213101Z
+DTSTART:20130628T050000Z
+DTEND:20130628T090000Z
+LOCATION:University of Santo Tomas\, Manila\, Philippines
+SUMMARY:Campus DevCon at University of Santo Tomas
+DESCRIPTION:Developers Connect (DevCon) Philippines is organizing a Campus
+  DevCon at University of Santo Tomas on June 28 \, 2013 (Friday) 1-5PM. Th
+ e event’s objective is to provide an ideal venue for over 150 IT student
+ s to learn the latest trends and opportunities from key players of the IT 
+ community.
+URL:https://reps.mozilla.org/e/campus-devcon-at-university-of-santo-tomas/
+SEQUENCE:3
+X-COORDINATES-LAT:14.6091660929
+X-COORDINATES-LON:120.988440514
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

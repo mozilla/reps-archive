@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8196
+CLASS:PUBLIC
+DTSTAMP:20200423T085640Z
+DTSTART:20181020T120000Z
+DTEND:20181020T123000Z
+LOCATION:Online\, Hyderabad\, India
+SUMMARY:Mozilla Hyderabad Sync Up
+DESCRIPTION:A quick sync up to understand the current status of the commun
+ ity and plan a roadmap for the future.\nShall discuss about the events and
+  course of action that is planned.
+URL:https://reps.mozilla.org/e/mozilla-hyderabad-sync-up/
+SEQUENCE:3
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7907
+CLASS:PUBLIC
+DTSTAMP:20200423T090836Z
+DTSTART:20180820T183000Z
+DTEND:20180821T183000Z
+LOCATION:Vardhaman College of Engineering\, Hyderabad\, India
+SUMMARY:E-Summit Hyderabad 2018
+DESCRIPTION:The E-summit is a 2-day Entrepreneurship carnival aimed to fos
+ ter the spirit of entrepreneurship amongst the brightest minds coming toge
+ ther from various places.\n\nMozilla is conducting 2-day workshop in this 
+ carnival
+URL:https://reps.mozilla.org/e/e-summit-hyderabad-2018/
+SEQUENCE:7
+X-COORDINATES-LAT:17.4023804793
+X-COORDINATES-LON:78.497154233
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

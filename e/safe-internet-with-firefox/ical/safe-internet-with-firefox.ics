@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@676
+CLASS:PUBLIC
+DTSTAMP:20200423T215641Z
+DTSTART:20130405T083000Z
+DTEND:20130405T113000Z
+LOCATION:St. Sebastian&#39;s Mat Higher Second School\, pallavaram\, chennai\,
+  India
+SUMMARY:Safe internet with Firefox
+DESCRIPTION:Bring awareness to School Students on Safe internet with Firef
+ ox.\,Various Session including Web maker are to discussed
+URL:https://reps.mozilla.org/e/safe-internet-with-firefox/
+SEQUENCE:0
+X-COORDINATES-LAT:13.0901793557
+X-COORDINATES-LON:80.2386474609
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7591
+CLASS:PUBLIC
+DTSTAMP:20200423T092317Z
+DTSTART:20180610T043000Z
+DTEND:20180610T073000Z
+LOCATION:Hacker Space\, Ahmedabad\, India
+SUMMARY:Addon&#39;s Day Ahmedabad
+DESCRIPTION:There will be a basic session on Introduction to contribution 
+ pathways to Mozilla. Then there will be hands on session on add-ons develo
+ pment.
+URL:https://reps.mozilla.org/e/addon-s-day-ahmedabad/
+SEQUENCE:2
+X-COORDINATES-LAT:23.0858344728
+X-COORDINATES-LON:72.5288413167
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

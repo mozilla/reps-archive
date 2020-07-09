@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@904
+CLASS:PUBLIC
+DTSTAMP:20200407T173647Z
+DTSTART:20130605T070000Z
+DTEND:20130605T170000Z
+LOCATION:Opificio Telecom\, Rome\, Italy
+SUMMARY:OpenCamp
+DESCRIPTION:Opencamp is an event that promotes new ways of collaboration g
+ etting together innovation\, creativity and values with people that want t
+ o hack and experiment.\nThe event will be a storytelling moment where thos
+ e experiences will be shared with the public.
+URL:https://reps.mozilla.org/e/opencamp/
+SEQUENCE:3
+X-COORDINATES-LAT:41.9104534767
+X-COORDINATES-LON:12.5051879883
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

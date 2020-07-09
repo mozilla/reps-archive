@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3490
+CLASS:PUBLIC
+DTSTAMP:20200423T173300Z
+DTSTART:20150414T060000Z
+DTEND:20150416T150000Z
+LOCATION:Elephant Hills Hotel\, 300 Park Way Drive\, Victoria Falls\, Zimb
+ abwe
+SUMMARY:Innovation Africa Digital Summit 2015
+DESCRIPTION:A coordinated and concerted effort has been made to invite Moz
+ illa Foundation at this years summit to join the OTT Services panel discus
+ sion present about &#34;FirefoxOS Ecosystem Expansion in Africa&#34;. This opens u
+ p for more partnerships and many opportunities to expand Mozilla&#39;s mission
+  of promoting an open web in Africa.
+URL:https://reps.mozilla.org/e/innovation-africa-digital-summit-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:-17.930749665
+X-COORDINATES-LON:25.8469963004
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

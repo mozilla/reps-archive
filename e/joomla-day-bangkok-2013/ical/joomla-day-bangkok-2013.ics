@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1427
+CLASS:PUBLIC
+DTSTAMP:20200407T175644Z
+DTSTART:20131123T020000Z
+DTEND:20131124T050000Z
+LOCATION:CP Tower\, Silom Road. Bangkok\, Bangkok\, Thailand
+SUMMARY:Joomla!Day Bangkok 2013
+DESCRIPTION:Joomla!Day Bangkok is a global gathering of the world’s lead
+ ing Joomla Developers &amp; Joomla users. Not only the Joomla! User group but 
+ also for businesses\, large\, medium and small\, who’s interested in Joo
+ mla!.  Additionally\, We are expecting over 300 enthusiastic attendees. We
+  also invited knowledgeable speakers from around the world to speak on man
+ y topics related to joomla\, its technology\, and its applications and new
+  innovation around the globe.
+URL:https://reps.mozilla.org/e/joomla-day-bangkok-2013/
+SEQUENCE:5
+X-COORDINATES-LAT:13.72624
+X-COORDINATES-LON:100.526799
+X-COUNTRY-CODE:th
+END:VEVENT
+
+END:VCALENDAR

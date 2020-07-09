@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4548
+CLASS:PUBLIC
+DTSTAMP:20200423T160923Z
+DTSTART:20151128T073000Z
+DTEND:20151128T170000Z
+LOCATION:Polo Scientifico dell&#39;Università degli Studi di Udine\, Udine\, 
+ Italy
+SUMMARY:Open Source Day 2015
+DESCRIPTION:Free software event with University of Udine\, City of Udine\,
+  City of Tavagnacco and the autonomous region of Friuli Venezia Giulia.  \
+ n\nWe have also a stand to talk with us and try new technology :-)
+URL:https://reps.mozilla.org/e/open-source-day-2015/
+SEQUENCE:9
+X-COORDINATES-LAT:46.0801807145
+X-COORDINATES-LON:13.2099080081
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8933
+CLASS:PUBLIC
+DTSTAMP:20200423T080317Z
+DTSTART:20191111T130000Z
+DTEND:20191111T141500Z
+LOCATION:Soul Brew Coffee\, Race Coursse\, Vadodara\, India
+SUMMARY:MozBrew
+DESCRIPTION:A MozFam meetup to discuss the work and the future plans. We w
+ ill also have Ayush Bherwani who will share his Droidcon experience.
+URL:https://reps.mozilla.org/e/mozbrew/
+SEQUENCE:2
+X-COORDINATES-LAT:22.3079169
+X-COORDINATES-LON:73.1593923
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

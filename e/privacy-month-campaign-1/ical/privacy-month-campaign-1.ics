@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8378
+CLASS:PUBLIC
+DTSTAMP:20200407T174136Z
+DTSTART:20181231T183000Z
+DTEND:20190130T183000Z
+LOCATION:TBD\, Navi Mumbai\, India
+SUMMARY:Privacy month campaign-2019
+DESCRIPTION:January Privacy Month Campaign is a community-led campaign/ini
+ tiative to celebrate International Data Privacy Day. The campaign was orig
+ inated by Mozilla India in 2016 and is intended to be a global campaign ea
+ ch year. It is a campaign where communities from all over the world come t
+ ogether to learn\, share and spread awareness about current trends and fut
+ ure issues for privacy and steps that we can take against privacy infringe
+ ments.
+URL:https://reps.mozilla.org/e/privacy-month-campaign-1/
+SEQUENCE:2
+X-COORDINATES-LAT:18.7841170395
+X-COORDINATES-LON:72.9457855225
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2440
+CLASS:PUBLIC
+DTSTAMP:20200407T181240Z
+DTSTART:20140626T080000Z
+DTEND:20140626T180000Z
+LOCATION:Centro Cultural Eduardo Úrculo\, Madrid\, Spain
+SUMMARY:OpenExpo 2014
+DESCRIPTION:#OpenExpoDay 2014\, el evento donde encontrar las mejores solu
+ ciones Ecommerce\, CRM\, ERP\, CMS\, Mobile\, Seguridad\, Backup\, Cloud\,
+  BI\,...
+URL:https://reps.mozilla.org/e/openexpo-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:40.4688888814
+X-COORDINATES-LON:-3.69770336169
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

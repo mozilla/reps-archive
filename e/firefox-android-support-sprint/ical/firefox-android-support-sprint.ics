@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8099
+CLASS:PUBLIC
+DTSTAMP:20200423T092709Z
+DTSTART:20180603T060000Z
+DTEND:20180603T090000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Taipei\, Taiwan
+SUMMARY:Firefox Android Support Sprint
+DESCRIPTION:現今越來越多人使用手機上網，Firefox for Android 
+ 成為 Mozilla 的關鍵產品之一。\n\n讓我們一起在這個活動
+ 中，藉由解答 Play Store 上的問題，協助手機上的 Firefox 
+ 使用者獲得更佳的體驗吧！ \n我們要做些什麼\n\n我們要
+ 一起試著使用 Mozilla 新的 Play Store 支援網站，協助解答 F
+ irefox Android 用戶的問題。\n誰能參加？\n\n任何喜歡 Android
+  版 Firefox，想要協助其他使用者的人。不需特殊程式技
+ 能。\n如果我沒有 Android 呢？\n\n不如一起來現場貢獻 Comm
+ on Voice 或是 Internet Health Report？Mozilla 還有好多專案需要
+ 你的協助呢。\n所需裝備\n\n帶著你的筆電來吧。
+URL:https://reps.mozilla.org/e/firefox-android-support-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:25.0435306997
+X-COORDINATES-LON:121.532172204
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

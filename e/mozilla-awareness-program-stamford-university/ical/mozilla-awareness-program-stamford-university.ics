@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5015
+CLASS:PUBLIC
+DTSTAMP:20200423T160915Z
+DTSTART:20151128T090000Z
+DTEND:20151128T113000Z
+LOCATION:Stamford University\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awareness Program @ Stamford University
+DESCRIPTION:A event organized by Mozilla Bangladesh and Stamford Universit
+ y\, to aware the university students about Mozilla&#39;s mission\, contributio
+ n opportunity and show users\, how they can use Firefox as default browser
+  on windows 10!
+URL:https://reps.mozilla.org/e/mozilla-awareness-program-stamford-universi
+ ty/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7396783909
+X-COORDINATES-LON:90.3792946972
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7809
+CLASS:PUBLIC
+DTSTAMP:20200407T171618Z
+DTSTART:20180609T063000Z
+DTEND:20180609T103000Z
+LOCATION:TBD\, Delhi\, India
+SUMMARY:Firefox Support Sprint - New Delhi
+DESCRIPTION:Help users who are asking for support in reviews on the Play s
+ tore by participating in the Firefox Support Sprint. Join Mozillians aroun
+ d the world for a week of answering questions and helping users have a gre
+ at experience in the Firefox Support Sprint!
+URL:https://reps.mozilla.org/e/firefox-support-sprint-2/
+SEQUENCE:4
+X-COORDINATES-LAT:28.6131379334
+X-COORDINATES-LON:77.2169494489
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2495
+CLASS:PUBLIC
+DTSTAMP:20200407T181553Z
+DTSTART:20140719T033000Z
+DTEND:20140726T143000Z
+LOCATION:Bangalore\, HAL Bangalore International Airport\, India
+SUMMARY:WoMozTech
+DESCRIPTION:Women Enhancing Technology (WeTech) is a consortium of dedicat
+ ed partners that has joined IIE to design and support a series of innovati
+ ve activities to provide training\, build networks and offer professional 
+ opportunities. \n\nThis month\, they are hosting 3 events in India across 
+ the cities of Bangalore and Delhi. Mozilla is partnering with WeTech to he
+ lp and support their nobel initiative to train more women in technology.
+URL:https://reps.mozilla.org/e/womoztech/
+SEQUENCE:3
+X-COORDINATES-LAT:12.9531645
+X-COORDINATES-LON:77.6534838
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

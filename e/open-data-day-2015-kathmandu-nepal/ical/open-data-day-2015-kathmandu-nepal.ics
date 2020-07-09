@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3524
+CLASS:PUBLIC
+DTSTAMP:20200423T175403Z
+DTSTART:20150221T041500Z
+DTEND:20150221T111500Z
+LOCATION:mDevSolutions\, Baluwatar\, Kathmandu\, Nepal
+SUMMARY:Open Data Day - 2015\, Kathmandu Nepal
+DESCRIPTION:As every year\, Mozilla Nepal will be co-organizing the Open D
+ ata Day event along with other open communities like Wikipedia Nepal\, Ope
+ n Knowledge Foundation Nepal\, FOSS Nepal etc.
+URL:https://reps.mozilla.org/e/open-data-day-2015-kathmandu-nepal/
+SEQUENCE:1
+X-COORDINATES-LAT:27.7245814939
+X-COORDINATES-LON:85.3309535978
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

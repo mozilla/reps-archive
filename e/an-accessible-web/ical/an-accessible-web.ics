@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@945
+CLASS:PUBLIC
+DTSTAMP:20200423T213908Z
+DTSTART:20130530T090000Z
+DTEND:20130530T120000Z
+LOCATION:Medico-Social &amp; Educational Center &#34;El Walid&#34;\, Tunis\, Tunisia
+SUMMARY:An Accessible Web
+DESCRIPTION:a friendly competition for people who were on the course . The
+  topic is Mother’s Day (similar to to the thimble project called “Happ
+ y Mom’s Day”).I’ll use this model and change the css and content a b
+ it. It’ll then be up to the students to fill the HTML content
+URL:https://reps.mozilla.org/e/an-accessible-web/
+SEQUENCE:3
+X-COORDINATES-LAT:35.4606699515
+X-COORDINATES-LON:10.1953125
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

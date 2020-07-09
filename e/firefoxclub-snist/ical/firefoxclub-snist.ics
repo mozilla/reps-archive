@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5360
+CLASS:PUBLIC
+DTSTAMP:20200407T174234Z
+DTSTART:20160418T100000Z
+DTEND:20160418T130000Z
+LOCATION:Sreenidhi Institute of Science and Technology\, Hyderabad\, India
+SUMMARY:FirefoxClub@SNIST
+DESCRIPTION:This is an event to gather all the club members of the college
+  at one place and invite newbies into club. A meet to discuss current stat
+ us of several ongoing projects at Mozilla and guiding the contributors tow
+ ards those projects. \n\nThe aim of the event includes enhancing public sp
+ eaking skills of the individuals and introducing Mozilla Tech Speaker prog
+ ram.
+URL:https://reps.mozilla.org/e/firefoxclub-snist/
+SEQUENCE:0
+X-COORDINATES-LAT:17.4541689206
+X-COORDINATES-LON:78.6667361856
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

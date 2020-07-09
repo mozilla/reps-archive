@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4216
+CLASS:PUBLIC
+DTSTAMP:20200423T164850Z
+DTSTART:20150828T033000Z
+DTEND:20150912T113000Z
+LOCATION:Nirula\, Sector 2 \, Noida\, New Delhi\, India
+SUMMARY:Mozpacers Mozstumbler V 2.0
+DESCRIPTION:This event will evangelize the community to adopt MozStumbler 
+ &amp; use it on daily basis to enrich the Mozilla location-service. Here we wi
+ ll show the tools available for different platforms to gather location inf
+ ormation. Also after the event a global free geolocation service will be c
+ reated that can be used openly by organizations around the world to create
+  apps and mobile services.
+URL:https://reps.mozilla.org/e/mozpacers-mozstumbler-v-2-0/
+SEQUENCE:4
+X-COORDINATES-LAT:28.6640812244
+X-COORDINATES-LON:77.2483062744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8874
+CLASS:PUBLIC
+DTSTAMP:20200423T081146Z
+DTSTART:20190914T140000Z
+DTEND:20190916T010000Z
+LOCATION:Wizeline Guadalajara\, Mexico City\, Mexico
+SUMMARY:CCOSS - Cumbre de Contribuidores de Open Source Software
+DESCRIPTION:El propósito principal de CCOSS es aumentar la cantidad de pe
+ rsonas y organizaciones de Latinoamérica que contribuyen a los proyectos 
+ de código abierto. Lo lograremos por medio de pláticas y talleres que gu
+ íen a los interesados a contribuir en los principales proyectos open sour
+ ce en el mundo.
+URL:https://reps.mozilla.org/e/ccoss-cumbre-de-contribuidores-de-open-sour
+ ce-software/
+SEQUENCE:1
+X-COORDINATES-LAT:20.6440661959
+X-COORDINATES-LON:-103.416129113
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

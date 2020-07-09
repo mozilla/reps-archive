@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8412
+CLASS:PUBLIC
+DTSTAMP:20200423T094902Z
+DTSTART:20180331T020000Z
+DTEND:20180331T040000Z
+LOCATION:Campus 11\,KiiT University\, Bhubaneswar\, Bhubaneswar\, India
+SUMMARY:Mozilla Hello Web Hackathon 2.0 @ Mozilla Bhubaneswar
+DESCRIPTION:This Hackathon will mainly focus on Curriculum Design with the
+  intent of providing open source communities and educational sectors with 
+ better tools and kits to teach the web undertaking detailed planning\, str
+ ucture\, and workflow of the contribution pathways. There will be a series
+  of tech-talks by various community leaders on AI\, IoT\, Machine Learning
+  and more followed by a 24-hour hackathon where students from various univ
+ ersities build various teaching prototypes/modules to teach the web.
+URL:https://reps.mozilla.org/e/mozilla-hello-web-hackathon-2-0-mozilla-bhu
+ baneswar/
+SEQUENCE:1
+X-COORDINATES-LAT:20.2143109658
+X-COORDINATES-LON:85.8570686728
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

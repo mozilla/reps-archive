@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1707
+CLASS:PUBLIC
+DTSTAMP:20200407T183114Z
+DTSTART:20140217T090000Z
+DTEND:20140217T160000Z
+LOCATION:Obafemi Awolowo University in Nigeria\, Ife\, Nigeria
+SUMMARY:Firefox student Ambassador Meet up - Nigeria
+DESCRIPTION:There are lot of student that are joining the Firefox student 
+ Ambassador Program who need to be tutored more on Mozilla and the Firefox 
+ OS Including Mozilla products.
+URL:https://reps.mozilla.org/e/firefox-student-ambassador-meet-up-nigeria/
+SEQUENCE:3
+X-COORDINATES-LAT:7.51086807395
+X-COORDINATES-LON:4.55377578037
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

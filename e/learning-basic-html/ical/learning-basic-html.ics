@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5452
+CLASS:PUBLIC
+DTSTAMP:20200423T152315Z
+DTSTART:20160527T180000Z
+DTEND:20160527T220000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: Learning Basic HTML
+DESCRIPTION:Mozillian from Jakarta\, Deryan will teach about basic HTML at
+  Mozilla Community Space Jakarta.  In this workshop\, attendees will learn
+  basic introduction about HTML\, how to use HTML to create a simple web pa
+ ge and maximize its use.
+URL:https://reps.mozilla.org/e/learning-basic-html/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.18881491637
+X-COORDINATES-LON:106.838416099
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

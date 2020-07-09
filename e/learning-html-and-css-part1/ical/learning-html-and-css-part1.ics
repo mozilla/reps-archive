@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1643
+CLASS:PUBLIC
+DTSTAMP:20200423T204411Z
+DTSTART:20131204T160000Z
+DTEND:20131204T180000Z
+LOCATION:Thessaloniki&#39;s Central Library\, Thessaloniki\, Greece
+SUMMARY:Learning HTML and CSS part1
+DESCRIPTION:Mozilla’s and Webvistas‘ communities are co-organizing alo
+ ng with the municipality of Thessaloniki a series of workshops in the cent
+ ral public library of the city.
+URL:https://reps.mozilla.org/e/learning-html-and-css-part1/
+SEQUENCE:2
+X-COORDINATES-LAT:40.6298480733
+X-COORDINATES-LON:22.9520940185
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

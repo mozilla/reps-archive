@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2373
+CLASS:PUBLIC
+DTSTAMP:20200407T182537Z
+DTSTART:20140627T043000Z
+DTEND:20140627T053000Z
+LOCATION:Zone24x7\, Nawala\, Sri Jayewardenepura-Kotte\, Sri Lanka
+SUMMARY:Mozilla Event at Zone24x7 about how to contribute as Engineer
+DESCRIPTION:This event held for Zone24x7 staff about Mozilla projects and 
+ how to contribute to Mozilla projects as a Software Engineer\, QA Engineer
+  and UI Engineer.
+URL:https://reps.mozilla.org/e/mozilla-event-at-zone24x7-about-how-to-cont
+ ribute-as-engineer/
+SEQUENCE:6
+X-COORDINATES-LAT:6.89939834375
+X-COORDINATES-LON:79.8938915692
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

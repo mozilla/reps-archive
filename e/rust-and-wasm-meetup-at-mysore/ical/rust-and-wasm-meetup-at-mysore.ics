@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8144
+CLASS:PUBLIC
+DTSTAMP:20200407T165039Z
+DTSTART:20180929T083000Z
+DTEND:20180929T123000Z
+LOCATION:TBD\, Mysore\, India
+SUMMARY:Rust and WASM - meetup at Mysore
+DESCRIPTION:Quick chat about rust and apps that use Rust in production wit
+ h the local community. I will discuss about WASM and how web assembly is t
+ he next big thing in Mozilla.  https://github.com/rustwasm
+URL:https://reps.mozilla.org/e/rust-and-wasm-meetup-at-mysore/
+SEQUENCE:2
+X-COORDINATES-LAT:12.3004227286
+X-COORDINATES-LON:76.6804504395
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

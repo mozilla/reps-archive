@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5065
+CLASS:PUBLIC
+DTSTAMP:20200423T154428Z
+DTSTART:20160303T110000Z
+DTEND:20160303T140000Z
+LOCATION:Taikos st. 157\, Vilnius\, Lithuania
+SUMMARY:&#34;IT manija&#34; contest
+DESCRIPTION:&#34;IT manija&#34; is an IT quiz event for students aged 14 to 16 in 
+ Lithuania. Main mission - to introduce students to IT news and information
+  in an interactive way of playing. Some of the question will contain infor
+ mation about Mozilla and its projects.
+URL:https://reps.mozilla.org/e/it-manija-contest/
+SEQUENCE:3
+X-COORDINATES-LAT:54.7149894708
+X-COORDINATES-LON:25.2127568715
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

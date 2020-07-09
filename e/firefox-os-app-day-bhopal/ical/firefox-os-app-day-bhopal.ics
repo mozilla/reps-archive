@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@517
+CLASS:PUBLIC
+DTSTAMP:20200423T215930Z
+DTSTART:20130325T043000Z
+DTEND:20130325T123000Z
+LOCATION:Sagar Institute of Research and Technology\, Bhopal\, India
+SUMMARY:Firefox Os App Day Bhopal
+DESCRIPTION:Event &#34;Firefox OS Promotion In Bhopal&#34; at  Sagar Institute of 
+ Research and Technology\, will have 200 people in attendance.  with a few 
+ local bloggers attending. We are inviting some other Engineering Collages 
+ also. For get more Contributors for Mozilla\, and Firefox OS.\n     Attend
+ ees will have the chance to participate in a talk I will be facilitating\,
+  where I will invite people to get involved in Mozilla. I estimate 5 peopl
+ e will be signing up at the “Get Involved” page at the Mozilla site.
+URL:https://reps.mozilla.org/e/firefox-os-app-day-bhopal/
+SEQUENCE:35
+X-COORDINATES-LAT:23.2604844242
+X-COORDINATES-LON:77.3935317993
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

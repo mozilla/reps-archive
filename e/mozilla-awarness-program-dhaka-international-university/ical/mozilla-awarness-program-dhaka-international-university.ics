@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3694
+CLASS:PUBLIC
+DTSTAMP:20200423T170805Z
+DTSTART:20150630T030000Z
+DTEND:20150630T090000Z
+LOCATION:Dhaka International University\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awarness Program @ Dhaka International University
+DESCRIPTION:Dhaka International University is one of the prime university 
+ of Bangladesh. Students are enthusiast about connecting with Mozilla and s
+ tart contributing as an FSA. This event will help them to know about Mozil
+ la&#39;s mission and open web and how to be connected with being an FSA.
+URL:https://reps.mozilla.org/e/mozilla-awarness-program-dhaka-internationa
+ l-university/
+SEQUENCE:6
+X-COORDINATES-LAT:23.7503760952
+X-COORDINATES-LON:90.387092717
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

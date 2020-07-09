@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@490
+CLASS:PUBLIC
+DTSTAMP:20200423T220850Z
+DTSTART:20130216T090000Z
+DTEND:20130216T170000Z
+LOCATION:Astina d.o.o.\, Barjanska cesta 5\, Ljubljana\, Ljubljana\, Slove
+ nia
+SUMMARY:Mozilla Slovenia Meetup 1 2013
+DESCRIPTION:First Slovenian Mozilla community meeting. Due to new contribu
+ tors in our community we decided to organize community meeting to help new
+  contributors to start contributing to the Mozilla.  
+URL:https://reps.mozilla.org/e/mozilla-slovenia-meetup-1-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:46.04555
+X-COORDINATES-LON:14.50106
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

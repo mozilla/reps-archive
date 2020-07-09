@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5552
+CLASS:PUBLIC
+DTSTAMP:20200407T181557Z
+DTSTART:20160621T033000Z
+DTEND:20160621T073000Z
+LOCATION:Masab Tank\, Hyderabad\, India
+SUMMARY:Mozilla Web- Web Literacy Campaign
+DESCRIPTION:Hello Web is a Mozilla Clubs Web Literacy campaign launched to
+  inspire students from across cities from different parts of India to be b
+ etter Web Citizens.
+URL:https://reps.mozilla.org/e/mozilla-web-web-literacy-campaign/
+SEQUENCE:0
+X-COORDINATES-LAT:17.4161824
+X-COORDINATES-LON:78.4107169
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2381
+CLASS:PUBLIC
+DTSTAMP:20200407T182507Z
+DTSTART:20140612T060000Z
+DTEND:20140612T080000Z
+LOCATION:Superior University\, Lahore\, Pakistan
+SUMMARY:Contributing to Mozilla @ Superior University - Lahore
+DESCRIPTION:Introducing the local Mozilla community to the students and he
+ lping them setup a Firefox Club at the University. Moreover\, the students
+  will be given an overview of some cutting edge technologies and products 
+ by Mozilla e.g. Firefox OS\, Webmaker\, Appmaker\, etc. There will also be
+  demos of the latest Firefox\, developer preview versions of Firefox OS de
+ vices\, and alpha version of the Urdu Firefox (a work in progress by Mozil
+ la Pakistan).
+URL:https://reps.mozilla.org/e/contributing-to-mozilla-superior-university
+ -lahore/
+SEQUENCE:5
+X-COORDINATES-LAT:31.3333803537
+X-COORDINATES-LON:74.2355918814
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

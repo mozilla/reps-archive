@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1866
+CLASS:PUBLIC
+DTSTAMP:20200407T173257Z
+DTSTART:20140720T140000Z
+DTEND:20140725T060000Z
+LOCATION:Oregon Convention Center\, Portland\, United States
+SUMMARY:OSCON 2014
+DESCRIPTION:From the early days of open source\, OSCON has been the only e
+ vent that covers the open source stack in its entirety. Not just one langu
+ age\, tool\, or philosophy\, but all of the moving parts\, integrated and 
+ working together. It&#39;s everything you need to know about open source to ke
+ ep you ahead of the curve.
+URL:https://reps.mozilla.org/e/oscon-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:45.5149280431
+X-COORDINATES-LON:-122.66848756
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

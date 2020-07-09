@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5287
+CLASS:PUBLIC
+DTSTAMP:20200423T153756Z
+DTSTART:20160326T093000Z
+DTEND:20160326T143000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Leadership training on Campus Campaigning
+DESCRIPTION:A quick gathering of Mozilla Community Hyderabad. Sessions on 
+ Campus Campaigning to create an impact. Metrics to measure the impact of a
+ n event. A day dedicated to leadership training.
+URL:https://reps.mozilla.org/e/leadership-training-on-campus-campaigning/
+SEQUENCE:1
+X-COORDINATES-LAT:17.418649252
+X-COORDINATES-LON:78.4122160077
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

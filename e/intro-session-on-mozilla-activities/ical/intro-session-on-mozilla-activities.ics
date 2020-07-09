@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8492
+CLASS:PUBLIC
+DTSTAMP:20200407T171646Z
+DTSTART:20190406T040000Z
+DTEND:20190406T070000Z
+LOCATION:Srkr engineering college\, bhimavaram\, India
+SUMMARY:INTRO SESSION ON MOZILLA ACTIVITIES
+DESCRIPTION:In this event we are planning to give introduction about the m
+ ozilla and the open source and here we teach how to contribute to mozilla 
+ and open source and also discuss about the importance of open source in my
+  college for juniors
+URL:https://reps.mozilla.org/e/intro-session-on-mozilla-activities/
+SEQUENCE:0
+X-COORDINATES-LAT:16.5460229169
+X-COORDINATES-LON:81.5422439575
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

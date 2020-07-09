@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3642
+CLASS:PUBLIC
+DTSTAMP:20200423T174220Z
+DTSTART:20150315T103000Z
+DTEND:20150315T153000Z
+LOCATION:Online Based Event\, Chennai\, India
+SUMMARY:MDN Basic Contribution - Mozhennai
+DESCRIPTION:**Introduction about Contributors\n**Introduction about Projec
+ t\n**Learning basics of MDN Editing\n**Editing pages in MDN
+URL:https://reps.mozilla.org/e/mdn-basic-contribution-mozhennai/
+SEQUENCE:2
+X-COORDINATES-LAT:13.0523222235
+X-COORDINATES-LON:80.2428130992
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

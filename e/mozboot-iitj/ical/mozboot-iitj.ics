@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@474
+CLASS:PUBLIC
+DTSTAMP:20200407T175249Z
+DTSTART:20130223T043000Z
+DTEND:20130224T113000Z
+LOCATION: IIT Jodhpur\, Jodhpur\, India
+SUMMARY:Mozboot @ IITJ
+DESCRIPTION:A two days event at IIT Jodhpur comprising of Talks\, Hackatho
+ n &amp; Hands on Sessions to get people acquainted to Open-Source software\, s
+ pread the awareness and know about Mozilla and the open web platform.
+URL:https://reps.mozilla.org/e/mozboot-iitj/
+SEQUENCE:0
+X-COORDINATES-LAT:26.2600137154
+X-COORDINATES-LON:73.0364227295
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

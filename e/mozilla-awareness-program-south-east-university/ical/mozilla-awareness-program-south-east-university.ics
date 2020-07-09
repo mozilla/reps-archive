@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5013
+CLASS:PUBLIC
+DTSTAMP:20200423T160315Z
+DTSTART:20151215T080000Z
+DTEND:20151215T100000Z
+LOCATION:South East University\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awareness Program @ South East University
+DESCRIPTION:A event organized by Mozilla Bangladesh and South East Univers
+ ity Firefox Club\, to aware the university students about Mozilla&#39;s missio
+ n\, contribution opportunity and show users\, how they can use Firefox as 
+ default browser on windows 10!
+URL:https://reps.mozilla.org/e/mozilla-awareness-program-south-east-univer
+ sity/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7949294585
+X-COORDINATES-LON:90.4062348045
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

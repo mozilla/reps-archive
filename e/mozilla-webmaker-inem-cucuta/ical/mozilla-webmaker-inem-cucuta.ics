@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2742
+CLASS:PUBLIC
+DTSTAMP:20200423T185732Z
+DTSTART:20140919T130000Z
+DTEND:20140920T133000Z
+LOCATION:Calle 4N No 11E - 121 Guamaral\, Cucuta\, Colombia
+SUMMARY:Mozilla Webmaker - Cúcuta
+DESCRIPTION:Mozilla Colombia Community will be hosting this event with stu
+ dents and professors on the 18th and 19th of September 2014. This event is
+  a 2-day session for developing new mentor and providing teaching skills w
+ orking with Webmaker tools especially those who are passionate to teach an
+ d also to educate other people about the Web!
+URL:https://reps.mozilla.org/e/mozilla-webmaker-inem-cucuta/
+SEQUENCE:11
+X-COORDINATES-LAT:7.86484846036
+X-COORDINATES-LON:-72.5090682507
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

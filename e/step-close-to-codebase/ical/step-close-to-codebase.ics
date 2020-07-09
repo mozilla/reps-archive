@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4776
+CLASS:PUBLIC
+DTSTAMP:20200423T160938Z
+DTSTART:20151128T053000Z
+DTEND:20151129T093000Z
+LOCATION:MITS College\, Laxmangarh\, India
+SUMMARY:Step close to codebase
+DESCRIPTION:In our recent MCR community meetup\, we came across several wo
+ moz contributors(majorly from MITS - a girls only college) who are current
+ ly contributing to L10n and SUMO\, and are highly willing to jump into Moz
+ illa Codebase contributions. This event will serve as a platform for volun
+ teers from MITS to understand the code as well as pre-requisites like Git 
+ etc.
+URL:https://reps.mozilla.org/e/step-close-to-codebase/
+SEQUENCE:7
+X-COORDINATES-LAT:26.5881178192
+X-COORDINATES-LON:75.1911620982
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

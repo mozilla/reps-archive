@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3811
+CLASS:PUBLIC
+DTSTAMP:20200407T175311Z
+DTSTART:20150515T000000Z
+DTEND:20150516T000000Z
+LOCATION:Centre de formation pour le développement - CFD Mali (distance-l
+ earning center)\, Hamdallaye ACI 2000\, Bamako\, Mali\, Bamako\, Mali
+SUMMARY:Firefox OS Localization Workshop\, Bamako\, Mali 2015
+DESCRIPTION:The two-day workshop is organized as pre-event to the World Su
+ mmit on the Information Society conference (WSIS/SMSI)\, to be held in Bam
+ ako on 17 May 2015. \n\nThe conference also features a public debate on &#34;I
+ CTs in national languages&#34;. The event will help us interact with a broad r
+ ange of participants from West Africa and hold demos of Firefox OS devices
+ .
+URL:https://reps.mozilla.org/e/firefox-os-localization-workshop-bamako-mal
+ i-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:12.6445251902
+X-COORDINATES-LON:-7.981336
+X-COUNTRY-CODE:ml
+END:VEVENT
+
+END:VCALENDAR

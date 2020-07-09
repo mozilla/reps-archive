@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1849
+CLASS:PUBLIC
+DTSTAMP:20200407T175651Z
+DTSTART:20140112T030000Z
+DTEND:20140112T090000Z
+LOCATION:Peony Teafe&#39; And Gallery\, Bangkok\, Thailand
+SUMMARY:MozCoffee Bangkok
+DESCRIPTION:Meetup for community members in Bangkok area. Chance for recru
+ iting new members and small localization sprint.
+URL:https://reps.mozilla.org/e/mozcoffee-bangkok/
+SEQUENCE:1
+X-COORDINATES-LAT:13.7255331805
+X-COORDINATES-LON:100.538007975
+X-COUNTRY-CODE:th
+END:VEVENT
+
+END:VCALENDAR

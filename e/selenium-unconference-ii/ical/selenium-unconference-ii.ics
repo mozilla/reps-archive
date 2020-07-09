@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2120
+CLASS:PUBLIC
+DTSTAMP:20200423T194851Z
+DTSTART:20140517T090000Z
+DTEND:20140517T130000Z
+LOCATION:Cluj-Napoca\, Cluj-Napoca\, Romania
+SUMMARY:Selenium Unconference II
+DESCRIPTION:Selenium automates browsers. It&#39;is a tool widely used in autom
+ ated testing. Everybody uses it but there is nobody in Cluj that talks abo
+ ut using it. The Selenium Unconference will present Selenium to the Cluj-N
+ apoca community\, how it is used by big players in the industry and how we
+  as a team can contribute to the Selenium project.
+URL:https://reps.mozilla.org/e/selenium-unconference-ii/
+SEQUENCE:11
+X-COORDINATES-LAT:46.7717896041
+X-COORDINATES-LON:23.5897479061
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

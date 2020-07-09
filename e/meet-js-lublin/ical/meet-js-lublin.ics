@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4388
+CLASS:PUBLIC
+DTSTAMP:20200423T164631Z
+DTSTART:20150903T160000Z
+DTEND:20150903T190000Z
+LOCATION:Klubokawiarnia Komitet\, Lublin\, Poland
+SUMMARY:meet.js Lublin
+DESCRIPTION:Local meetup for JavaScript programmers\, part of the bigger i
+ nitiative organized in 7 different cities in Poland.
+URL:https://reps.mozilla.org/e/meet-js-lublin/
+SEQUENCE:1
+X-COORDINATES-LAT:51.2296929415
+X-COORDINATES-LON:22.5459835
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

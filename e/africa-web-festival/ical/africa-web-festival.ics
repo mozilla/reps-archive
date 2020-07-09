@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6011
+CLASS:PUBLIC
+DTSTAMP:20200407T174605Z
+DTSTART:20161130T090000Z
+DTEND:20171201T170000Z
+LOCATION:Espace Latrille Event \, Cote d&#39;Ivoire\, Abidjan\, Ivory Coast
+SUMMARY:AFRICA WEB FESTIVAL
+DESCRIPTION:Regional showcase\, continental and international digital\, AW
+ F since 2014 is the largest event promotion and emulation of ICTs in Franc
+ ophone Africa.\nDuring three days\, visitors and professionals have the op
+ portunity to discover trends and innovation\, training\, forming business 
+ relationships and become visible. AWF is also an inspiring moment\, during
+  which wrote the Success Story of the Africa of tomorrow.\nhttp://africawe
+ bfestival.com
+URL:https://reps.mozilla.org/e/africa-web-festival/
+SEQUENCE:3
+X-COORDINATES-LAT:5.38692673054
+X-COORDINATES-LON:-3.99244594591
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

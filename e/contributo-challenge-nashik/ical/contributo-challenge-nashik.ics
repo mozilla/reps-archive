@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3188
+CLASS:PUBLIC
+DTSTAMP:20200407T173757Z
+DTSTART:20141227T090000Z
+DTEND:20141227T160000Z
+LOCATION:City Center mall\, Nashik\, India
+SUMMARY:Contributo Challenge Nashik
+DESCRIPTION:As part of the Contribution Challenge program\, community memb
+ ers at Nashik will go to a shopping mall to show\, demo and talk about Fir
+ efox OS with end users
+URL:https://reps.mozilla.org/e/contributo-challenge-nashik/
+SEQUENCE:2
+X-COORDINATES-LAT:23.5371320927
+X-COORDINATES-LON:-280.675781965
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

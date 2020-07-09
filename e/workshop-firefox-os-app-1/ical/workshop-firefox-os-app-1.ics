@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@592
+CLASS:PUBLIC
+DTSTAMP:20200423T220151Z
+DTSTART:20130316T190000Z
+DTEND:20130316T220000Z
+LOCATION:Sucre\, Aniceto Arce.\, Sucre\, Bolivia
+SUMMARY:Workshop Firefox OS App
+DESCRIPTION:Conference and Workshop for developing applications in HTML5 a
+ nd CSS3 for Firefox OS\, this will be at the city of Sucre for the very fi
+ rst time.
+URL:https://reps.mozilla.org/e/workshop-firefox-os-app-1/
+SEQUENCE:0
+X-COORDINATES-LAT:-19.0462573506
+X-COORDINATES-LON:-65.2583813667
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8889
+CLASS:PUBLIC
+DTSTAMP:20200407T174626Z
+DTSTART:20191012T033000Z
+DTEND:20191012T113000Z
+LOCATION:BIT Mesra\, Ranchi\, India
+SUMMARY:Hacktoberfest Ranchi
+DESCRIPTION:A month-long celebration from October 1st - 31st presented by 
+ Digital Ocean and DEV Community collaborated with GitHub to get people inv
+ olved in Open Source. Create your very first pull request to any public re
+ pository on GitHub and contribute to the open-source developer community.
+URL:https://reps.mozilla.org/e/hacktoberfest-ranchi/
+SEQUENCE:1
+X-COORDINATES-LAT:23.34
+X-COORDINATES-LON:85.3
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

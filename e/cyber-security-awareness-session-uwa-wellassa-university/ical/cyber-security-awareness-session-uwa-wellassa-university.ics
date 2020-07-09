@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8967
+CLASS:PUBLIC
+DTSTAMP:20200407T182913Z
+DTSTART:20191214T033000Z
+DTEND:20191214T093000Z
+LOCATION:Uwa Wellassa University\, Badula\, Sri Lanka
+SUMMARY:Cyber Security Awareness Session - Uwa Wellassa University
+DESCRIPTION:Cyber Security Awareness Session which organized by Uwa Wellas
+ sa University
+URL:https://reps.mozilla.org/e/cyber-security-awareness-session-uwa-wellas
+ sa-university/
+SEQUENCE:1
+X-COORDINATES-LAT:6.93857682927
+X-COORDINATES-LON:81.0403404152
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2601
+CLASS:PUBLIC
+DTSTAMP:20200423T190823Z
+DTSTART:20140830T083000Z
+DTEND:20140830T123000Z
+LOCATION:CCD near Navina cinemas\, Kolkata\, India
+SUMMARY:Bengali-India Fennec launch party
+DESCRIPTION:Bengali -India Firefox for Android launching party where we re
+ cognize our valueable contributors.
+URL:https://reps.mozilla.org/e/bengali-india-fennec-launch-party/
+SEQUENCE:7
+X-COORDINATES-LAT:22.5501881818
+X-COORDINATES-LON:88.3352966979
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

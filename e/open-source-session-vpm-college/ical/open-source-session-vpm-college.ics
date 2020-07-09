@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5165
+CLASS:PUBLIC
+DTSTAMP:20200407T175531Z
+DTSTART:20160302T053000Z
+DTEND:20160302T083000Z
+LOCATION:Vidya Prasarak Mandal\, Thane\, Thane\, India
+SUMMARY:Open Source Session @ VPM College
+DESCRIPTION:VPM College wants their students to involve in Open Source Pro
+ jects. Hence they call me to throw a light on it and help them getting sta
+ rted. Hence I would introduce them to concepts of Open Source and explain 
+ about many ongoing projects. I will devote specific time to them telling a
+ bout Mozilla. It will include the manifesto and ongoing activities. This w
+ ould be my first session where I would talk about Connected Devices and Fo
+ x-Fooding Program.
+URL:https://reps.mozilla.org/e/open-source-session-vpm-college/
+SEQUENCE:1
+X-COORDINATES-LAT:19.1937232764
+X-COORDINATES-LON:72.9702329618
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1201
+CLASS:PUBLIC
+DTSTAMP:20200407T165531Z
+DTSTART:20130906T023000Z
+DTEND:20130908T063000Z
+LOCATION:Jaaga.in\, Bangalore\, India
+SUMMARY:Maker Party Bangalore - Hive Pop-up 2013
+DESCRIPTION:Hive India promotes experiential learning through the interest
+ s of young people and the creative use of digital media. The Hive India is
+  an attempt to map and empower a community of educators and creative peopl
+ e who share a passion to innovate\, evolve and change the learning landsca
+ pe.
+URL:https://reps.mozilla.org/e/maker-party-bangalore-hive-pop-up-2013/
+SEQUENCE:6
+X-COORDINATES-LAT:12.8974891838
+X-COORDINATES-LON:77.5634765625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2135
+CLASS:PUBLIC
+DTSTAMP:20200423T214947Z
+DTSTART:20130423T000000Z
+DTEND:20130423T030000Z
+LOCATION:Av. Arenales 1555\, Lince\, Lima - Perú\, Lince\, Peru
+SUMMARY:Firefox OS Dev Meetup Lima 3
+DESCRIPTION:It is an informal meeting where we talk about Firefox OS\, giv
+ e you tips on how to make an application\, we will discuss technical and n
+ on-technical issues.\n\nObjectives\n\n* Firefox OS 2014\n* If you have web
+ sites\, making them host applications
+URL:https://reps.mozilla.org/e/firefox-os-dev-meetup-lima-3/
+SEQUENCE:5
+X-COORDINATES-LAT:-12.0803672035
+X-COORDINATES-LON:-77.0359647278
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

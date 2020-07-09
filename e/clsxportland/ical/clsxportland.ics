@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3113
+CLASS:PUBLIC
+DTSTAMP:20200407T182510Z
+DTSTART:20141115T180000Z
+DTEND:20141116T010000Z
+LOCATION:Mozilla Portland\, Portland\, United States
+SUMMARY:CLSxPortland
+DESCRIPTION:This event brings together community leaders\, organizers and 
+ managers and the projects and organizations that are interested in growing
+  and empowering a strong community\, At the heart of CLSx Portland 2014\, 
+ styled after the annual Community Leadership Summit\, is an open unconfere
+ nce-style event in which everyone who attends is welcome to lead and contr
+ ibute sessions on any topic that is relevant.
+URL:https://reps.mozilla.org/e/clsxportland/
+SEQUENCE:1
+X-COORDINATES-LAT:45.5231555
+X-COORDINATES-LON:-122.6830778
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

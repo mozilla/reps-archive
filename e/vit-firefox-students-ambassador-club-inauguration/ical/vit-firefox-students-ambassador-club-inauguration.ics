@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3498
+CLASS:PUBLIC
+DTSTAMP:20200407T175347Z
+DTSTART:20150221T023000Z
+DTEND:20150221T103000Z
+LOCATION:VIT Chennai\, Chennai\, India
+SUMMARY:VIT Firefox Students Ambassador Club inauguration
+DESCRIPTION:Inaugurating FSA club.\nSharing various areas of Contributions
+ \nIntroduction about Firefox OS.\nIntroducing Mozilla Appmaker for App dev
+ elopment\nIntroduction to Various Tools for Firefox OS app development. \n
+ Build simple apps using HTML\,CSS\,JS\nBuilding apps using API’s\nUpload
+ ing Apps to Marketplace.
+URL:https://reps.mozilla.org/e/vit-firefox-students-ambassador-club-inaugu
+ ration/
+SEQUENCE:1
+X-COORDINATES-LAT:13.0518038049
+X-COORDINATES-LON:80.2605128288
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

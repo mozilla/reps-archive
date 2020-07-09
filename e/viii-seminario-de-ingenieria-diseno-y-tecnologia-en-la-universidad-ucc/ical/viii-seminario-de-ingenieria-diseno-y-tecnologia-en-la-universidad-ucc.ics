@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2975
+CLASS:PUBLIC
+DTSTAMP:20200423T183815Z
+DTSTART:20141030T150000Z
+DTEND:20141030T210000Z
+LOCATION:University UCC in Managua\, Managua\, Nicaragua
+SUMMARY:VIII Seminario de ingenieria\, Diseño y Técnologia en la Univers
+ idad UCC
+DESCRIPTION:El seminario es un encuentro de estudiante como invitado en el
+  campo de la ingeniería en Industrial\, Civil\, Arquitecto y Informático
+  Tecnológico\, donde se expondrá a los invitados las nuevas formas de de
+ sarrollo de apps con firefox OS y al público en general acerca de las bon
+ dades de Firefox OS.
+URL:https://reps.mozilla.org/e/viii-seminario-de-ingenieria-diseno-y-tecno
+ logia-en-la-universidad-ucc/
+SEQUENCE:3
+X-COORDINATES-LAT:12.1227882517
+X-COORDINATES-LON:-86.2497721911
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

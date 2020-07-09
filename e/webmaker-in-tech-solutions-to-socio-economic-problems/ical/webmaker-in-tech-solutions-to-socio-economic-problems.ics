@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1919
+CLASS:PUBLIC
+DTSTAMP:20200423T201546Z
+DTSTART:20140315T090000Z
+DTEND:20140327T093000Z
+LOCATION:emk centre\,Midas tower\, Dhanmondi\, Bangladesh
+SUMMARY:WebMaker in &#34;Tech Solutions to Socio-Economic Problems&#34;
+DESCRIPTION:YES Alumni Bangladesh are organizing “Tech Solutions to Soci
+ o-Economic Problem (TSSEP)”. It is a project of Bureau of Educational an
+ d Cultural Affairs (ECA)\, US Department of State. TSSEP is a follow-up pr
+ oject of “South Asian Summit on Social Media for Digital Empowerment” 
+ organized by DEF in American Center\, New Delhi on September 2013. TSSEP w
+ ill take place on March 15 - 27\, 2014.
+URL:https://reps.mozilla.org/e/webmaker-in-tech-solutions-to-socio-economi
+ c-problems/
+SEQUENCE:6
+X-COORDINATES-LAT:23.7513290603
+X-COORDINATES-LON:90.3767809867
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

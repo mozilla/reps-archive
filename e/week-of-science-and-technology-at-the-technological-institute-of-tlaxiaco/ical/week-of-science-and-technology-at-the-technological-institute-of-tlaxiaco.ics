@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2955
+CLASS:PUBLIC
+DTSTAMP:20200423T184258Z
+DTSTART:20141020T150000Z
+DTEND:20141024T170000Z
+LOCATION:Instituto Tecnológico de Tlaxiaco\, Tlaxiaco\, Mexico
+SUMMARY:Week of Science and Technology at the Technological Institute of T
+ laxiaco
+DESCRIPTION:Introducing Firefox OS to the student community of Technologic
+ al Tiaxiaco Oaxaca within a week of science and technology. The event will
+  take place on 20 to 24 October.
+URL:https://reps.mozilla.org/e/week-of-science-and-technology-at-the-techn
+ ological-institute-of-tlaxiaco/
+SEQUENCE:3
+X-COORDINATES-LAT:17.268339749
+X-COORDINATES-LON:-97.6791572641
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4698
+CLASS:PUBLIC
+DTSTAMP:20200423T162558Z
+DTSTART:20151020T033000Z
+DTEND:20151020T063000Z
+LOCATION:Wadia College Campus\, Pune\, India
+SUMMARY:Firefox for Desktop [Marathi] Campaign
+DESCRIPTION:This event has been aimed to create an awareness about Firefox
+  in Marathi.
+URL:https://reps.mozilla.org/e/firefox-for-desktop-marathi-campaign/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5326734763
+X-COORDINATES-LON:73.8799595824
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

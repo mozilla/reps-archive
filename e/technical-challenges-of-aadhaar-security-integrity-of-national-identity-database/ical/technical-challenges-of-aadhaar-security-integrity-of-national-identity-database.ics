@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7323
+CLASS:PUBLIC
+DTSTAMP:20200423T100944Z
+DTSTART:20171223T123000Z
+DTEND:20171223T133000Z
+LOCATION:Pheonix Arena\, TSIIC Park\, Opposite to HSBC Phase 2\, HITEC Cit
+ y · Hyderabad\, Hyderabad\, India
+SUMMARY:Technical Challenges of Aadhaar: Security &amp; Integrity of National 
+ Identity Database
+DESCRIPTION:Speaker: Srinivas Kodali(twitter @digitaldutta)\, will share h
+ is knowledge on the topic with the audience.\n\nSrinivas Kodali is a inter
+  disciplinary researcher working on data\n\n\n\n\n\, cities and internet. 
+ He graduated from IIT Madras with a Bachelor of Technology in Civil Engine
+ ering. He has been associated with various internet communities and moveme
+ nts in India. As part of these communities\, he has been advocating data\n
+ \n\n\n\nstandards\, open data\n\n\n\n\nand cyber security in India.
+URL:https://reps.mozilla.org/e/technical-challenges-of-aadhaar-security-in
+ tegrity-of-national-identity-database/
+SEQUENCE:1
+X-COORDINATES-LAT:17.445153927
+X-COORDINATES-LON:78.3745880125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

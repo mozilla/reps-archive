@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6091
+CLASS:PUBLIC
+DTSTAMP:20200423T114050Z
+DTSTART:20161216T043000Z
+DTEND:20161216T083000Z
+LOCATION:Jamia arts and science college\, edavanna\, malappuram\, Malappur
+ am\, India
+SUMMARY:VR Camp Kerala
+DESCRIPTION:In this event you will learn WebVR development using A-Frame f
+ ramework (one of emerging future technologies by Mozilla). This event is f
+ or participants who already know HTML
+URL:https://reps.mozilla.org/e/vr-camp-kerala/
+SEQUENCE:6
+X-COORDINATES-LAT:11.0422850546
+X-COORDINATES-LON:76.080945963
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

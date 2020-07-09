@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2270
+CLASS:PUBLIC
+DTSTAMP:20200423T193913Z
+DTSTART:20140609T133000Z
+DTEND:20140609T150000Z
+LOCATION:Fernwood Inn\, Victoria\, Canada
+SUMMARY:MozCoffee Victoria
+DESCRIPTION:Monthly Meetup of Victoria BC Community for a round of beverag
+ es of their choice and discussion on community\, events and opportunities 
+ to get involved.
+URL:https://reps.mozilla.org/e/mozcoffee-victoria/
+SEQUENCE:1
+X-COORDINATES-LAT:48.3976012176
+X-COORDINATES-LON:-123.484863639
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

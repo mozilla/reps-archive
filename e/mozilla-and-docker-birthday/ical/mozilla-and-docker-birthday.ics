@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5246
+CLASS:PUBLIC
+DTSTAMP:20200423T153922Z
+DTSTART:20160323T140000Z
+DTEND:20160323T230000Z
+LOCATION:HUB 170\, San Salvador\, El Salvador
+SUMMARY:Mozilla and Docker birthday
+DESCRIPTION:Mozilla El salvador community attend this event\, organized by
+  docker El salvador community\, members of mozilla El salvador we will tal
+ k about as colaborate with mozilla project and with the people learn about
+  web technologies.
+URL:https://reps.mozilla.org/e/mozilla-and-docker-birthday/
+SEQUENCE:1
+X-COORDINATES-LAT:13.7023359875
+X-COORDINATES-LON:-89.2252464301
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

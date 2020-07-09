@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@284
+CLASS:PUBLIC
+DTSTAMP:20200423T225000Z
+DTSTART:20121031T183000Z
+DTEND:20121031T193000Z
+LOCATION:N/A\, Puerto Ordaz\, Venezuela
+SUMMARY:First Regional Technology Event &#34;Free Software for All&#34;
+DESCRIPTION:&#34;Firefox is the platform&#34; .Event to update people on new web t
+ echnologies
+URL:https://reps.mozilla.org/e/first-regional-technology-event-free-softwa
+ re-for-all/
+SEQUENCE:0
+X-COORDINATES-LAT:8.05651016218
+X-COORDINATES-LON:-63.5256958008
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6759
+CLASS:PUBLIC
+DTSTAMP:20200407T181214Z
+DTSTART:20170706T010000Z
+DTEND:20170706T090000Z
+LOCATION:Pusat Internet 1 Malaysia (PI1M) Belimbing Kanan\, Alor Star\, Ma
+ laysia
+SUMMARY:PI1M Tech
+DESCRIPTION:Event were freshmen year students meet the PI1M\, the trainer 
+ and the main student groups in school.\n\n- WebVR\n- WebMaker\n- Mozilla B
+ rowser
+URL:https://reps.mozilla.org/e/pi1m-tech/
+SEQUENCE:1
+X-COORDINATES-LAT:6.25227540695
+X-COORDINATES-LON:100.60411904
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

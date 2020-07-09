@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8464
+CLASS:PUBLIC
+DTSTAMP:20200423T083832Z
+DTSTART:20190315T043000Z
+DTEND:20190315T073000Z
+LOCATION:Rajagiri School of Engineering and Technology\, Cochin\, India
+SUMMARY:Kode Kochi Kode
+DESCRIPTION:Kode Kochi Kode is a State Level hackathon organised BY Rajagi
+ ri School of Engineering and Technology [ https://www.rajagiritech.ac.in ]
+  .\nMozilla Kerala is an event partner\,  mentoring participants and teach
+ ing and helping the teams in the event.
+URL:https://reps.mozilla.org/e/kode-kochi-kode/
+SEQUENCE:1
+X-COORDINATES-LAT:9.9934657
+X-COORDINATES-LON:76.3559022
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6574
+CLASS:PUBLIC
+DTSTAMP:20200407T174137Z
+DTSTART:20170507T113000Z
+DTEND:20170507T123000Z
+LOCATION:Runwal Garden City\, Thane\, Mumbai\, India
+SUMMARY:Moz - Mumbai Online Meetup
+DESCRIPTION:Mumbai a very big metropolitan city with lots of passionate st
+ udents and workers where there are people who are not aware of Mozilla com
+ munities and contributions. This is a online hangout call meetup for a gro
+ up of passionate and interested workers and students in Mumbai.
+URL:https://reps.mozilla.org/e/moz-mumbai-online-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:18.8508449247
+X-COORDINATES-LON:72.9418936372
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

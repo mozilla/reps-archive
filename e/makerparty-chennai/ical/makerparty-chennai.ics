@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2734
+CLASS:PUBLIC
+DTSTAMP:20200407T175043Z
+DTSTART:20140913T023000Z
+DTEND:20140914T113000Z
+LOCATION:MIT\, Chrompet\, Chennai\, India
+SUMMARY:MakerParty Chennai
+DESCRIPTION:A grand mix of Hive and MakerParty Event in association with v
+ arious other Free and Open Source communities and organizations in and aro
+ und Chennai.\n3D printing to Digital Animation\,Google Cardboard to Origam
+ i\, Science lab chain reaction to network security\,Arduino to Bonsai\, Ki
+ ds exclusive session to a Mini CTF!\nYou name it\, we have it!
+URL:https://reps.mozilla.org/e/makerparty-chennai/
+SEQUENCE:3
+X-COORDINATES-LAT:13.052414
+X-COORDINATES-LON:80.250825
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

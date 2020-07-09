@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5518
+CLASS:PUBLIC
+DTSTAMP:20200423T160302Z
+DTSTART:20151216T080000Z
+DTEND:20151216T093000Z
+LOCATION:Urumqi tenth Primary school\, Urumqi\, China
+SUMMARY:Firefox Tianshan tour  Learning  scratch 3
+DESCRIPTION:Learning scratch for students to learn hands-on creation
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-learning-scratch-3/
+SEQUENCE:2
+X-COORDINATES-LAT:43.7697121836
+X-COORDINATES-LON:2607.62712264
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

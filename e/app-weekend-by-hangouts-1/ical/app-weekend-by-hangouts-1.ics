@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2243
+CLASS:PUBLIC
+DTSTAMP:20200423T195549Z
+DTSTART:20140503T010000Z
+DTEND:20140503T030000Z
+LOCATION:Ciudad Sandino\, Ciudad Sandino\, Nicaragua
+SUMMARY:App Weekend by Hangouts #1
+DESCRIPTION:La Comunidad Mozilla de Nicaragua decidio realizar cada vierne
+ s un taller via Hangouts utilizando técnicas para desarrollar aplicacione
+ s en firefox OS. En este primer viernes se dio una breve introducción de 
+ lo que es firefox OS y como funciona.
+URL:https://reps.mozilla.org/e/app-weekend-by-hangouts-1/
+SEQUENCE:1
+X-COORDINATES-LAT:12.163777943
+X-COORDINATES-LON:-86.354989171
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

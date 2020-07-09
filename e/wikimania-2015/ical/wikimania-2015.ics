@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4140
+CLASS:PUBLIC
+DTSTAMP:20200407T174354Z
+DTSTART:20150715T130000Z
+DTEND:20150719T163000Z
+LOCATION:Hotel Hilton Mexico City Reforma\, Mexico City\, Aguilera\, Mexic
+ o
+SUMMARY:Wikimania 2015
+DESCRIPTION:Wikimania is the annual conference for Wikipedians and Wikimed
+ ians.\nPlease see conference for full details and programme here: https://
+ wikimania2015.wikimedia.org/wiki/Main_Page
+URL:https://reps.mozilla.org/e/wikimania-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:19.4325971091
+X-COORDINATES-LON:-99.1329288491
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

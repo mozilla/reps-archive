@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8127
+CLASS:PUBLIC
+DTSTAMP:20200423T090146Z
+DTSTART:20180923T150000Z
+DTEND:20180923T220000Z
+LOCATION:San Francisco 238\, Mexico City\, Mexico
+SUMMARY:Dark Funnel Campaign - Mexico City
+DESCRIPTION:Understanding the dark funnel is one of Firefox&#39;s most importa
+ nt goals this year. By participating in this campaign you’ll be helping 
+ Mozilla shine light on unknown download sources. Every site reported by a 
+ community member will get us one step closer to our goal of understanding 
+ the entire dark funnel\, which in turn helps us keep all Firefox users saf
+ e.
+URL:https://reps.mozilla.org/e/dark-funnel-campaign-mexico-city/
+SEQUENCE:3
+X-COORDINATES-LAT:19.39604804
+X-COORDINATES-LON:-99.1697845462
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

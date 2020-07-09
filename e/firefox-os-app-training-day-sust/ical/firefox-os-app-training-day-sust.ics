@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2186
+CLASS:PUBLIC
+DTSTAMP:20200407T174832Z
+DTSTART:20140516T030000Z
+DTEND:20140516T100000Z
+LOCATION:Shahjalal University of Science &amp; Technology\, Sylhet\, Banglades
+ h
+SUMMARY:Firefox OS App Training Day — SUST
+DESCRIPTION:A day long event for Firefox OS App development training. Mozi
+ lla Bangladesh regularly arrange #AppTrain events in different university 
+ campuses. This time we are planing to arrange in Shahjalal University of S
+ cience &amp; Technology (SUST).
+URL:https://reps.mozilla.org/e/firefox-os-app-training-day-sust/
+SEQUENCE:12
+X-COORDINATES-LAT:24.887656305
+X-COORDINATES-LON:91.9084053033
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

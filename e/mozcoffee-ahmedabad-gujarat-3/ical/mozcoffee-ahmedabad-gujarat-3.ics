@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6286
+CLASS:PUBLIC
+DTSTAMP:20200423T112938Z
+DTSTART:20170212T053000Z
+DTEND:20170212T073000Z
+LOCATION:F412\, sigma icon 1\, OPP. Medilink hospital\, nr. Shyamal cross 
+ road\, satellite Ahmedabad\, Ahmedabad\, India
+SUMMARY:MozCoffee Ahmedabad\, Gujarat
+DESCRIPTION:This is a small informal meetup with peoples where a report is
+  given of recent activities and upcoming projects of a community as well a
+ s get ideas and feedback from the general public.
+URL:https://reps.mozilla.org/e/mozcoffee-ahmedabad-gujarat-3/
+SEQUENCE:2
+X-COORDINATES-LAT:22.9550214542
+X-COORDINATES-LON:72.1333014965
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

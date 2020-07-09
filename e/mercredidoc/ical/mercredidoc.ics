@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@190
+CLASS:PUBLIC
+DTSTAMP:20200407T180448Z
+DTSTART:20121107T180000Z
+DTEND:20121107T200000Z
+LOCATION:Mozilla Paris Office and Remotely\, Paris\, France
+SUMMARY:MercrediDoc
+DESCRIPTION:Every Wednesday\, come to learn and to contribute to MDN
+URL:https://reps.mozilla.org/e/mercredidoc/
+SEQUENCE:0
+X-COORDINATES-LAT:48.8714192691
+X-COORDINATES-LON:2.34442234039
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1263
+CLASS:PUBLIC
+DTSTAMP:20200407T182527Z
+DTSTART:20130928T120000Z
+DTEND:20130930T013000Z
+LOCATION:266 St Paul St E\, Montréal\, Canada
+SUMMARY:FOXHACK - Firefox OS Hackathon
+DESCRIPTION:A look at Mozilla&#39;s latest open platform initiative!\n\nA hack
+ athon in the true sense of the word\, augmented with timely labs throughou
+ t the event\, presented in collaboration with Mozilla\, Mozilla Québec\, 
+ Startup Weekend Montréal\, FACIL and La Commune.\n\nWhether you&#39;re a java
+ script enthusiast or a veteran\, this is an action-packed event that will 
+ be full of pleasant surprises.
+URL:https://reps.mozilla.org/e/foxhack-firefox-os-hackathon/
+SEQUENCE:4
+X-COORDINATES-LAT:45.508482
+X-COORDINATES-LON:-73.552158
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

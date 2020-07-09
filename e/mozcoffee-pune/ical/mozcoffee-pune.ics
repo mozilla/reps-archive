@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2190
+CLASS:PUBLIC
+DTSTAMP:20200423T194051Z
+DTSTART:20140606T113000Z
+DTEND:20140606T143000Z
+LOCATION:Katraj\, pune\, Pune\, India
+SUMMARY:MozCoffee Pune
+DESCRIPTION:This MozCoffee event aims to celebrate and promote volunteerin
+ g for Mozilla. It is organize for VIIT Engineering (University of Pune) st
+ udents.  The event will consist of talks about Mozilla Mission\, Firefox 2
+ 9 features\, Firefox OS apps and Jetpack add-on developments.
+URL:https://reps.mozilla.org/e/mozcoffee-pune/
+SEQUENCE:9
+X-COORDINATES-LAT:18.4092607593
+X-COORDINATES-LON:73.9695739746
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7969
+CLASS:PUBLIC
+DTSTAMP:20200423T091008Z
+DTSTART:20180815T110000Z
+DTEND:20180815T200000Z
+LOCATION:Fatec Taquaritinga\, Taquaritinga\, Brazil
+SUMMARY:Debian Day Taquaritinga 2018
+DESCRIPTION:Debian Day\, celebrated every August 16\, marks the anniversar
+ y of the birth of the Debian Project. Mozilla Brazil will be there to show
+  Firefox and present the Mozilla Mission. The event will be held on Aug 15
+ th because of a local holiday.
+URL:https://reps.mozilla.org/e/debian-day-taquaritinga-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:-21.4294426554
+X-COORDINATES-LON:-48.514695168
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

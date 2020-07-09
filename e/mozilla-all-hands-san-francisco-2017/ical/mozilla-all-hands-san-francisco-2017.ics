@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6508
+CLASS:PUBLIC
+DTSTAMP:20200407T173256Z
+DTSTART:20170626T160000Z
+DTEND:20170702T013000Z
+LOCATION:TBD\, San Francisco\, United States
+SUMMARY:Mozilla All Hands San Francisco 2017
+DESCRIPTION:An All Hands is a meeting on specific topic where all particip
+ ants want to define and coordinate on the specific topics. It becomes very
+  useful to quickly coordinate and solve issues without delay and plan proj
+ ects for the year to come.\n\nPlease check Discourse FAQ: (link to be publ
+ ished)
+URL:https://reps.mozilla.org/e/mozilla-all-hands-san-francisco-2017/
+SEQUENCE:2
+X-COORDINATES-LAT:37.7910291256
+X-COORDINATES-LON:-122.404881478
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

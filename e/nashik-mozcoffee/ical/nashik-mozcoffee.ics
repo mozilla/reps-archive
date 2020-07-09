@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2909
+CLASS:PUBLIC
+DTSTAMP:20200423T184948Z
+DTSTART:20141004T103000Z
+DTEND:20141004T133000Z
+LOCATION:TBD\, Nashik\, India
+SUMMARY:Nashik MozCoffee
+DESCRIPTION:1) Planing future activities\n2) FSA orientation and task disc
+ ussions\n3) Future l10 event and Bootcamp event discussion\n4) Creating te
+ ams \n5) Delegating responsibilities\n6) Exploring new contribution areas\
+ n7) Guiding and setting up WOMOZ team.
+URL:https://reps.mozilla.org/e/nashik-mozcoffee/
+SEQUENCE:2
+X-COORDINATES-LAT:20.0062828055
+X-COORDINATES-LON:73.7617739436
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8643
+CLASS:PUBLIC
+DTSTAMP:20200423T081438Z
+DTSTART:20190823T063000Z
+DTEND:20190824T113000Z
+LOCATION:Indraprastha Institute of Information Technology Delhi Okhla Indu
+ strial Estate\,Phase III (Near Govind Puri Metro Station) New Delhi\, Indi
+ a - 110020\, New Delhi\, India
+SUMMARY:HackIIITD IIIT-Delhi
+DESCRIPTION:HackIIITD is a software hackathon event where developers\, stu
+ dents\, hobbyists participate to engineer an innovative application revolv
+ ing around the themes provided a day before the event. The flagship event 
+ is HackIIITD which is an overnight hackathon fuelled by creativity\, passi
+ on\, grit and coffee with prizes for winners and Best X ( X=Design\, Best 
+ Pitch etc.). The school students would also participate only if they have 
+ a consent letter from their parents.
+URL:https://reps.mozilla.org/e/hackiiitd-iiit-delhi/
+SEQUENCE:6
+X-COORDINATES-LAT:28.5463777094
+X-COORDINATES-LON:77.2732563614
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

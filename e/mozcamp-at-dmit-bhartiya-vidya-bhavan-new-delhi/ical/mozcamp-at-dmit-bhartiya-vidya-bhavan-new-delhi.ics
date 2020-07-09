@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@37
+CLASS:PUBLIC
+DTSTAMP:20200407T182213Z
+DTSTART:20120809T030000Z
+DTEND:20120809T060000Z
+LOCATION:Bharitya Vidhya Bhawan School\, K.G. Marg\, New Delh\, New Delhi\
+ , India
+SUMMARY:MozCamp at DMIT\, Bhartiya Vidya Bhavan\, New Delhi
+DESCRIPTION:DMITs is all about technologies and its aspects\, And what do 
+ we do there? Hack it and most important Learn. School students are an inte
+ gral part of any community\, but most of the students aren&#39;t aware about w
+ hat technologies they must use and the power and potential they behold. DM
+ ITs Cross the barriers and bring the potential out of them by organizing s
+ everal events and talks for them. From the community point of view\, this 
+ could be a major contribution towards itself.\n
+URL:https://reps.mozilla.org/e/mozcamp-at-dmit-bhartiya-vidya-bhavan-new-d
+ elhi/
+SEQUENCE:0
+X-COORDINATES-LAT:28.6213518545
+X-COORDINATES-LON:77.2262477875
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

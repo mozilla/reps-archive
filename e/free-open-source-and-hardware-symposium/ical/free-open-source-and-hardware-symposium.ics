@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1208
+CLASS:PUBLIC
+DTSTAMP:20200407T180027Z
+DTSTART:20131010T070000Z
+DTEND:20131011T150000Z
+LOCATION:Department of Information Technology\, Cape Peninsula University 
+ of Technology\, Cape Town\, South Africa
+SUMMARY:Free Open Source and Hardware Symposium
+DESCRIPTION:Free Open Source and Hardware Symposium (FOSHS &#39;13) is aimed a
+ t bringing together industry\, developers\, educators\, the community and 
+ any other interested parties to discuss open source\, open hardware\, open
+  web and academic/industry partnerships. We&#39;ll be running the two-day work
+ shop at the Department of Information Technology\, Cape Peninsula Universi
+ ty of Technology on October 10-11\, 2013.
+URL:https://reps.mozilla.org/e/free-open-source-and-hardware-symposium/
+SEQUENCE:5
+X-COORDINATES-LAT:-34.0890613158
+X-COORDINATES-LON:18.193359375
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1804
+CLASS:PUBLIC
+DTSTAMP:20200423T203015Z
+DTSTART:20140201T113000Z
+DTEND:20140201T140000Z
+LOCATION:Bandung Creative City Forum - Simpul Space II\, Bandung\, Indones
+ ia
+SUMMARY:Screening &amp; Discussion: Linimassa 3 &amp; Terpenjara di Udara
+DESCRIPTION:This event is held by ICT Watch and Internet Sehat. In this ev
+ ent\, they do a screening of a movie titled &#34;Linimassa 3 &amp; Terpenjara di U
+ dara&#34;. Mozilla Indonesia\, specifcally Bandung Region\, get the opportunit
+ y to introduce about Mozilla Indonesia Community. I will talk about Mozill
+ a and Privacy since a few days ago is International Data Privacy Day.
+URL:https://reps.mozilla.org/e/screening-discussion-linimassa-3-terpenjara
+ -di-udara/
+SEQUENCE:5
+X-COORDINATES-LAT:-6.90391196647
+X-COORDINATES-LON:107.609728217
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

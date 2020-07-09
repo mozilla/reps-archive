@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6712
+CLASS:PUBLIC
+DTSTAMP:20200423T110808Z
+DTSTART:20170520T080000Z
+DTEND:20170520T160000Z
+LOCATION:Yamoussoukro\, Abidjan\, Ivory Coast
+SUMMARY:International Women Day (IWD) 2017 - Yamoussoukro
+DESCRIPTION:March is declared Women&#39;s Month and we decided through an\neve
+ nt to celebrate women in the world of technology.\nThis event is Internati
+ onal Women&#39;s Day meetup in Yamoussoukro\, aims to introduce the technologi
+ es\, web universe and the code to the women (Students or not). This is rea
+ l opportunity to grow the number of women in the tech area in our city and
+  to invite female tech lead to bring our experiences to other women.
+URL:https://reps.mozilla.org/e/iwd-2017-yamoussoukro/
+SEQUENCE:2
+X-COORDINATES-LAT:6.72189266995
+X-COORDINATES-LON:-5.19309997559
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

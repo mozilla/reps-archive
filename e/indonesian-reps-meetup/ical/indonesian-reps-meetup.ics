@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2746
+CLASS:PUBLIC
+DTSTAMP:20200407T180631Z
+DTSTART:20140828T110000Z
+DTEND:20140828T160000Z
+LOCATION:Artotel Thamrin\, Jakarta\, Indonesia
+SUMMARY:Indonesian Reps Meetup
+DESCRIPTION:A meetup for Indonesian Reps\, with Gen Kanai and Michelle Tho
+ rne.
+URL:https://reps.mozilla.org/e/indonesian-reps-meetup/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.18872647508
+X-COORDINATES-LON:106.824385822
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

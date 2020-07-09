@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2719
+CLASS:PUBLIC
+DTSTAMP:20200423T185705Z
+DTSTART:20140920T031500Z
+DTEND:20140920T111500Z
+LOCATION:TBD\, Kathmandu\, Nepal
+SUMMARY:Software Freedom Day 2014 (Nepal)
+DESCRIPTION:Software Freedom Day (SFD) is an annual worldwide celebration 
+ of the free/open-source software. SFD is a public education effort\, not o
+ nly to celebrate the alleged virtues of free and open source software\, bu
+ t also to encourage its use\, to the benefit of the public.\n\nIn Nepal\, 
+ Software Freedom Day is being celebrated since last seven years. Every yea
+ r we celebrate the day with several events like documentary show\, distro 
+ demo\, and many more..
+URL:https://reps.mozilla.org/e/software-freedom-day-2014-nepal/
+SEQUENCE:4
+X-COORDINATES-LAT:27.4855326576
+X-COORDINATES-LON:85.448731184
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3000
+CLASS:PUBLIC
+DTSTAMP:20200423T183346Z
+DTSTART:20141111T043000Z
+DTEND:20141111T093000Z
+LOCATION:West Bengal University Of Technology\, BF-142\,Sector-1\, Saltlak
+ e\, Kol-700064\, Salt Lake\, India
+SUMMARY:Mozilla Day 2014 - Kolkata
+DESCRIPTION:Mozilla Mission for students of WBUT. Awareness about Localiza
+ tion. Awareness about SUMO Localization\,Mozilla codebase . Hands-on sessi
+ on on Mozilla Webmaker tools. Demo on FirefoxOS. Awareness about FOSS. How
+  we can contribute in FOSS. Recruiting new FSA. Encouraging WoMoz.
+URL:https://reps.mozilla.org/e/mozilla-day-2014-kolkata/
+SEQUENCE:4
+X-COORDINATES-LAT:22.5700963035
+X-COORDINATES-LON:88.4288749681
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2416
+CLASS:PUBLIC
+DTSTAMP:20200407T183632Z
+DTSTART:20140708T210000Z
+DTEND:20140711T050000Z
+LOCATION:SkyCity Convention Centre\, Auckland\, New Zealand
+SUMMARY:Nethui 2014
+DESCRIPTION:3 day conference that brings together everyone involved with I
+ nternet issues in New Zealand. NetHui is based on the format of multi-stak
+ eholder collaboration successfully introduced by the global Internet Gover
+ nance Forum (IGF). The theme this year is &#34;The next 25 years&#34;.
+URL:https://reps.mozilla.org/e/nethui-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:-36.8488143967
+X-COORDINATES-LON:174.76265037
+X-COUNTRY-CODE:nz
+END:VEVENT
+
+END:VCALENDAR

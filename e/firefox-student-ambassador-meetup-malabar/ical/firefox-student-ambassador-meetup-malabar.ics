@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2436
+CLASS:PUBLIC
+DTSTAMP:20200423T175621Z
+DTSTART:20150215T063000Z
+DTEND:20150215T120000Z
+LOCATION:Seazone\, Kozhikode\, India
+SUMMARY:Firefox Student Ambassador Meetup - Malabar
+DESCRIPTION:The event will be a gathering of FSA&#39;s who are interested to c
+ ontribute   as   well as interested to Share things about Mozilla . Mostly
+  FSA&#39;s in   and   around of Kerala will be joining the event. It is expect
+ ed to   have  100+  FSA&#39;s at the event. The event mainly aims to educate F
+ SA&#39;s   clearly  with  the much needed \, &#34; What is Mozilla \, it&#39;s Mission
+  \, and   it&#39;s  various  products \, projects and initiatives &#34;.
+URL:https://reps.mozilla.org/e/firefox-student-ambassador-meetup-malabar/
+SEQUENCE:11
+X-COORDINATES-LAT:11.2632583597
+X-COORDINATES-LON:75.7689399717
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8807
+CLASS:PUBLIC
+DTSTAMP:20200423T080947Z
+DTSTART:20190928T033000Z
+DTEND:20190928T083000Z
+LOCATION:Uwa Wellassa University of Sri Lanka\, Badulla\, Sri Lanka
+SUMMARY:Software Freedom Day - UWU Edition
+DESCRIPTION:Uva Wellassa University of Sri Lanka will be held their Softwa
+ re Freedom Day 2019 in 28th of September in their university premises.
+URL:https://reps.mozilla.org/e/software-freedom-day-uwu-edition/
+SEQUENCE:1
+X-COORDINATES-LAT:6.97707806558
+X-COORDINATES-LON:81.054264307
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3868
+CLASS:PUBLIC
+DTSTAMP:20200423T165523Z
+DTSTART:20150807T040000Z
+DTEND:20150808T100000Z
+LOCATION:University of Liberal Arts Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Firefox OS App Train\, ULAB
+DESCRIPTION:ULAB Mozilla Community is going to arrange a 2 days long train
+ ing teach and enhance Firefox OS app development skills for Mozillians in 
+ ULAB and whoever wants to participate.\n\nCoordinator: \nAmena Islam Synth
+ ia (Lead)\nTareq Mahammud (Lead Peer)
+URL:https://reps.mozilla.org/e/firefox-os-app-train-ulab/
+SEQUENCE:14
+X-COORDINATES-LAT:23.7409388494
+X-COORDINATES-LON:90.3743699938
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

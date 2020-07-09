@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1279
+CLASS:PUBLIC
+DTSTAMP:20200423T211232Z
+DTSTART:20130910T170000Z
+DTEND:20130910T190000Z
+LOCATION:Av. Jorge Carrasco y Las Palmas s/n\, Bolognia - Irpavi\, La Paz\
+ , Bolivia
+SUMMARY:Firefox OS Meetup La Paz
+DESCRIPTION:The La Salle University and Bolivia Mozilla are organizing a p
+ resentation / workshop about Mozilla\, Mozilla Bolivia and Firefox OS in L
+ a Paz City with the assistance of at least 50 students of the University.
+URL:https://reps.mozilla.org/e/firefox-os-meetup-la-paz/
+SEQUENCE:1
+X-COORDINATES-LAT:-16.5252208132
+X-COORDINATES-LON:-68.0959224701
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

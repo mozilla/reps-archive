@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@402
+CLASS:PUBLIC
+DTSTAMP:20200423T225034Z
+DTSTART:20121029T150000Z
+DTEND:20121029T180000Z
+LOCATION:Universidad Nacional Jorge Basadre Grohmann\, Tacna\, Peru
+SUMMARY:Seminario de Tecnologías Web Abiertas
+DESCRIPTION:This was an event coordinated with a free software community\,
+  Basadrinux (from Tacna\, Peru). The objective is to give some talks about
+  Mozilla and Web Technologies. Also\, the community asked for a talk about
+  Mozilla and the way mozillians and communities work around the world.
+URL:https://reps.mozilla.org/e/seminario-de-tecnologias-web-abiertas/
+SEQUENCE:0
+X-COORDINATES-LAT:-18.0146508962
+X-COORDINATES-LON:-70.2479553223
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

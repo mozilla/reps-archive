@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2724
+CLASS:PUBLIC
+DTSTAMP:20200423T190047Z
+DTSTART:20140913T083000Z
+DTEND:20140913T153000Z
+LOCATION:Digital Brand Group Private Limited\, Technopark Road\, Technopar
+ k Campus\,\, Thiruvananthapuram\, India
+SUMMARY:Firefox OS Hack Day @ Technopark
+DESCRIPTION:A HackDay for Mozilla&#39;s about new mobile operating system Fire
+ foxOS. This event will help students to get familiarize with all the aspec
+ ts of Firefox OS\, Web Apps\, Web APIs. Also it will be a great opportunit
+ y for students and Professionals to create quality apps and submit to mark
+ etplace.
+URL:https://reps.mozilla.org/e/firefox-os-hack-day-technopark/
+SEQUENCE:8
+X-COORDINATES-LAT:8.49206719092
+X-COORDINATES-LON:76.9255828857
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

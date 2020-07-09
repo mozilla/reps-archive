@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5743
+CLASS:PUBLIC
+DTSTAMP:20200407T175902Z
+DTSTART:20160827T000000Z
+DTEND:20160828T090000Z
+LOCATION:University of the Philippines Los Baños\, Los Baños\, Philippin
+ es
+SUMMARY:Forest Hack 2016
+DESCRIPTION:ForestHack2016 is the the inaugural event in the Forest Geoinf
+ ormatics Series (FGS) for the ELDF Science\, Technology\, Informatics &amp; In
+ novation for Communities (SITI-Communities) Initiative. As the first hacka
+ thon of the series\, ForestHack2016 shall focus on mobile apps for informa
+ tion collection tools and sharing platforms that promote participatory for
+ estry.
+URL:https://reps.mozilla.org/e/forest-hack-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:14.1618211166
+X-COORDINATES-LON:121.22522735
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

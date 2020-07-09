@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6852
+CLASS:PUBLIC
+DTSTAMP:20200423T104534Z
+DTSTART:20170826T043000Z
+DTEND:20170826T100000Z
+LOCATION:MGIT\, Hyderabad\, Hyderabad\, India
+SUMMARY:Month of WebVR @ MGIT\, Hyderabad: Week 4
+DESCRIPTION:Full Day hack-a-thon and bug-fixing on A-frame github repo.\nD
+ istribution of prizes to top contributors
+URL:https://reps.mozilla.org/e/month-of-webvr-week-4/
+SEQUENCE:5
+X-COORDINATES-LAT:15.1534391836
+X-COORDINATES-LON:79.4018545747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

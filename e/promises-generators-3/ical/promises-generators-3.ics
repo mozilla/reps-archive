@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4356
+CLASS:PUBLIC
+DTSTAMP:20200423T164141Z
+DTSTART:20150915T170000Z
+DTEND:20150915T190000Z
+LOCATION:Liip\, Limmatstrasse 183\, 8005 Zürich\, Zurich\, Switzerland
+SUMMARY:Promises + Generators = ♥️
+DESCRIPTION:Asynchronous JavaScript is changing a lot with the upcoming ES
+ 2015 (also known as ES6) standard. This talk by Martin Giger introduces yo
+ u to promises and the versatile generators. It also explains Iterables\, w
+ hich are the generic protocol implemented by generators are used throughou
+ t ES2015. When generators and promises are combined they result in awesome
+  asynchronous code!
+URL:https://reps.mozilla.org/e/promises-generators-3/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3861537508
+X-COORDINATES-LON:8.52930164328
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

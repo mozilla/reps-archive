@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3708
+CLASS:PUBLIC
+DTSTAMP:20200407T180311Z
+DTSTART:20150328T180000Z
+DTEND:20150329T060000Z
+LOCATION:Abidjan\, 2 plateau\, Angree 22 arrondissement\, Williamsville\, 
+ Ivory Coast
+SUMMARY:Hackathon MIAGE- GI Firefox Club
+DESCRIPTION:Firefox OS\, the new operating mobile system from Mozilla\, re
+ presents a wonder for many students and developers who want to create apps
+  for it. On 28 March\, they have a chance to prove their abilities with We
+ b technologies (CSS\, HTML and JavaScript)\, to learn new things about Fir
+ efox OS and to test apps on new devices (Keon and Peak).
+URL:https://reps.mozilla.org/e/hackathon-miage-gi-firefox-club-1/
+SEQUENCE:2
+X-COORDINATES-LAT:5.316667
+X-COORDINATES-LON:-4.033333
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

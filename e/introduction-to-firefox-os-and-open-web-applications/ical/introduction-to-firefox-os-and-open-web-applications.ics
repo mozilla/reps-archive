@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1758
+CLASS:PUBLIC
+DTSTAMP:20200423T202400Z
+DTSTART:20140222T160000Z
+DTEND:20140222T180000Z
+LOCATION:Thessaloniki&#39;s Central Library\, Thessaloniki\, Greece
+SUMMARY:Introduction to Firefox OS and Open Web Applications
+DESCRIPTION:Mozilla’s and Webvistas‘ communities are co-organizing alo
+ ng with the municipality of Thessaloniki a series of workshops in the cent
+ ral public library of the city. This week we are going to talk about Firef
+ ox OS and Open Web Applications.\nWe are going to present the developer to
+ ols and the process of creating your first Open Web Application.
+URL:https://reps.mozilla.org/e/introduction-to-firefox-os-and-open-web-app
+ lications/
+SEQUENCE:2
+X-COORDINATES-LAT:40.6299128737
+X-COORDINATES-LON:22.9521199465
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

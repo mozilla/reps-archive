@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4019
+CLASS:PUBLIC
+DTSTAMP:20200407T174345Z
+DTSTART:20150612T170000Z
+DTEND:20150630T180000Z
+LOCATION:St. Minas Arcade\, Thessaloniki\, Greece
+SUMMARY:STAMP Festival
+DESCRIPTION:STAMP festival is a creative and entertaining event for innova
+ tion and new ideas from people around the world.\n\nFor about a month\, te
+ ams of the city\, with modern and innovative ideas\, will have the chance 
+ to gather in the same place and work together as a team. Exhibitions\, ins
+ tallations\, workshops and parallel music events will liven up the beautif
+ ul space\, creating the appropriate atmosphere for conversations and feasi
+ ble ideas in the common meeting place.
+URL:https://reps.mozilla.org/e/stamp-festival/
+SEQUENCE:3
+X-COORDINATES-LAT:40.6356126854
+X-COORDINATES-LON:22.9391673804
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

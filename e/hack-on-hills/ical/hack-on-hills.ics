@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8407
+CLASS:PUBLIC
+DTSTAMP:20200423T083939Z
+DTSTART:20190308T033000Z
+DTEND:20190310T123000Z
+LOCATION:NIT Hamirpur\, Hamirpur\, India
+SUMMARY:Hack On Hills
+DESCRIPTION:HackonHills is a 3-day Hackathon focused on 6 different tracks
+  including WebApps and AR/VR with 250 participants from different parts of
+  the country. Hack On Hills aims to build an environment of collaborative 
+ growth amongst all the participants regardless of their gender\, caste\, c
+ reed\, sexual preference\, socioeconomic background or cultural belief. Ha
+ ck On Hills is open to everyone with a crazy idea and a will to implement 
+ it into a working prototype.
+URL:https://reps.mozilla.org/e/hack-on-hills/
+SEQUENCE:3
+X-COORDINATES-LAT:31.7068
+X-COORDINATES-LON:76.5264
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

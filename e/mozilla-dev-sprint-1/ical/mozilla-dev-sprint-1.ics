@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7744
+CLASS:PUBLIC
+DTSTAMP:20200407T174125Z
+DTSTART:20180526T043000Z
+DTEND:20180526T113000Z
+LOCATION:Classroom\, Ground floor\, National Institute of Public Finance a
+ nd Policy (NIPFP)\, New Delhi\, India
+SUMMARY:Mozilla Dev Sprint
+DESCRIPTION:There are three projects for which new people will be on-board
+ ed to start contributing:\n\n- Addons-server\n- Addons-frontend\n- Remo
+URL:https://reps.mozilla.org/e/mozilla-dev-sprint-1/
+SEQUENCE:2
+X-COORDINATES-LAT:28.4761205285
+X-COORDINATES-LON:77.0175533288
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

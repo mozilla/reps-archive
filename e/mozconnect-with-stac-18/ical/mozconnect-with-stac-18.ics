@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8074
+CLASS:PUBLIC
+DTSTAMP:20200423T090337Z
+DTSTART:20180918T033000Z
+DTEND:20180919T123000Z
+LOCATION:GCET\, Anand\, India
+SUMMARY:MozConnect with STAC 18
+DESCRIPTION:The Students Technical Awareness Conference\, a national level
+  conference held under IEEE GCET SB is a foregathering of hundreds of stud
+ ents from colleges all over Gujarat in the span of 2 days. STAC is a conve
+ ntion where eminent personalities\, dynamic speakers and achievers from va
+ rious prospects gather to fabricate a platform that motivates each to capt
+ ivate magnificence.
+URL:https://reps.mozilla.org/e/mozconnect-with-stac-18/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5601003146
+X-COORDINATES-LON:72.9202065471
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

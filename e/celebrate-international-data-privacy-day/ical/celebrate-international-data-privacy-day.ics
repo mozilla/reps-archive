@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1777
+CLASS:PUBLIC
+DTSTAMP:20200423T203109Z
+DTSTART:20140128T070000Z
+DTEND:20140128T090000Z
+LOCATION:Jagannath University\, International Islamic University Chittagon
+ g\, Dhaka\, Chittagong\, Bangladesh
+SUMMARY:Celebrate International Data Privacy Day
+DESCRIPTION:On January 28 th\, the world will celebrate Data Privacy Day -
+ - an\ninternational holiday intended to raise awareness and promote data p
+ rivacy education.\n\nWe will go to public WiFi space in the city\, we will
+  talk about how there web data is flowing one web site to another using li
+ ghtbeam. \n\nIn the other part on the country\, FSA of IIUC will arrange a
+  workshop on same idea.
+URL:https://reps.mozilla.org/e/celebrate-international-data-privacy-day/
+SEQUENCE:2
+X-COORDINATES-LAT:23.9226657699
+X-COORDINATES-LON:89.9750983715
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

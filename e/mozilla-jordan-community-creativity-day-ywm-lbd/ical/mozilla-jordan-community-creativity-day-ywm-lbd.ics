@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2788
+CLASS:PUBLIC
+DTSTAMP:20200407T181625Z
+DTSTART:20140910T180000Z
+DTEND:20140910T200000Z
+LOCATION:Amman-Jordan(Cultural palace)\, Amman\, Jordan
+SUMMARY:Mozilla jordan community - Creativity Day (يوم الإبداع)
+DESCRIPTION:Mozilla Jordan community will be participating in creativity  
+ day project in Amman -Jordan \, we will be talking about mozilla and our c
+ ommunity&#39;s work in Jordon and about the impact we are making in Jordan and
+  mozilla .\nalso we will be holding a booth to show different mozilla proj
+ ects and open registration for Firefox student ambassador program .\n\n\nI
+ n addition areej will she talked about womoz community in Jordan and motiv
+ ation to involve with mozilla .
+URL:https://reps.mozilla.org/e/mozilla-jordan-community-creativity-day-ywm
+ -lbd/
+SEQUENCE:4
+X-COORDINATES-LAT:31.2814850324
+X-COORDINATES-LON:35.9124183655
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2454
+CLASS:PUBLIC
+DTSTAMP:20200423T192407Z
+DTSTART:20140720T000000Z
+DTEND:20140720T050000Z
+LOCATION:Dayananda Sagar College of Engineering\, Bangalore\, Karnataka\, 
+ India\, Bangalore\, India
+SUMMARY:Makerparty FSMK Bangalore
+DESCRIPTION:FSMK Summer Camp going to be held from 19th July to 27th July 
+ and they want us to host a Webmaker event during the camp. The number stud
+ ents this time will be 200 along with 50 volunteers and these students wil
+ l be from close to 35 different engineering colleges from Karnataka. Hence
+  definitely a good audience to take the idea of Mozilla Webmaker Tools and
+  idea of Mozilla to different parts of Karnataka.
+URL:https://reps.mozilla.org/e/makerparty-fsmk-bangalore/
+SEQUENCE:4
+X-COORDINATES-LAT:12.9666429212
+X-COORDINATES-LON:77.5900267437
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

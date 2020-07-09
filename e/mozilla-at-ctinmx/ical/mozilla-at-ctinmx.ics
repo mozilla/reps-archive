@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1341
+CLASS:PUBLIC
+DTSTAMP:20200423T210429Z
+DTSTART:20130930T170000Z
+DTEND:20131231T180000Z
+LOCATION:Plaza Carso\, Mexico City\, Mexico
+SUMMARY:Mozilla at CTINmx
+DESCRIPTION:Since I and some other Mozilla México members will be working
+  in a project to build Firefox OS applications at CTINmx\, we will organiz
+ ing conferences and such difusion events in this place during our intershi
+ p.\n\nThere is no website of the event(s)\, yet. I&#39;m providing CTIN&#39;s webs
+ ite as reference.
+URL:https://reps.mozilla.org/e/mozilla-at-ctinmx/
+SEQUENCE:2
+X-COORDINATES-LAT:19.4147924381
+X-COORDINATES-LON:-99.1076660156
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6824
+CLASS:PUBLIC
+DTSTAMP:20200407T174609Z
+DTSTART:20170909T060000Z
+DTEND:20170909T120000Z
+LOCATION:King Fahd University of Petroleum and Minerals\, Al-Kobar\, Saudi
+  Arabia
+SUMMARY:Mozilla FabLab Dhahran Saudi
+DESCRIPTION:Opening the opertunity and introducing the Mozillian Community
+  to Kingdom of Saudi Arabia\, in Collaboration with  King Fahd University 
+ of Petroleum and Minerals
+URL:https://reps.mozilla.org/e/mozilla-fablab-dhahran-saudi/
+SEQUENCE:2
+X-COORDINATES-LAT:26.4111405877
+X-COORDINATES-LON:50.1242064312
+X-COUNTRY-CODE:sa
+END:VEVENT
+
+END:VCALENDAR

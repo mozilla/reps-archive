@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@674
+CLASS:PUBLIC
+DTSTAMP:20200423T215910Z
+DTSTART:20130327T090000Z
+DTEND:20130327T180000Z
+LOCATION:Marahilfer Straße\, Wien\, Austria
+SUMMARY:Document Freedom Day 2013 - Vienna
+DESCRIPTION:Document Freedom Day is a worldwide event promoting the use of
+  open standards - for everything from office documents to Internet video c
+ onferencing.\n\nWith the FSFE Vienna group\, a stand will be organized on 
+ a very frequented corner of a Vienna shopping street\, paralleling the one
+  described here: http://blogs.fsfe.org/franz.gratzer/2012/09/17/software-f
+ reedom-day-2012-in-vienna/\n\nSee event announcement also here: http://gri
+ cal.org/e/show/3807/
+URL:https://reps.mozilla.org/e/document-freedom-day-2013-vienna/
+SEQUENCE:0
+X-COORDINATES-LAT:48.2019880589
+X-COORDINATES-LON:16.3607186079
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

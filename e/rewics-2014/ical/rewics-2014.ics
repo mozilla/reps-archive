@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1989
+CLASS:PUBLIC
+DTSTAMP:20200407T174528Z
+DTSTART:20140507T063000Z
+DTEND:20140507T160000Z
+LOCATION:Géode\, Charleroi\, Belgium
+SUMMARY:Rewics 2014
+DESCRIPTION:&#34;Forum des Territoires numériques innovants&#34;\, a day dedicate
+ d to digital territories\, citizen participation\, collaborative tools ...
+  open source is well represented. \n\nMozilla will have a stand and will s
+ how demos. We&#39;re also planning a Webmaker conference if time and space per
+ mits.
+URL:https://reps.mozilla.org/e/rewics-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:50.4144601619
+X-COORDINATES-LON:4.44120311702
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

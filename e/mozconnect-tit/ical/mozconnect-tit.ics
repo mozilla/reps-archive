@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2188
+CLASS:PUBLIC
+DTSTAMP:20200423T195634Z
+DTSTART:20140430T053000Z
+DTEND:20140430T083000Z
+LOCATION:Technocrats Institute of Technology\, Bhopal\, India
+SUMMARY:MozConnect@TIT
+DESCRIPTION:Topics for Presentation:\n1) What is Mozilla and its Mission?\
+ n2) What is Open source?\n3) What is FSA ?\n4) How to get involved?\n5) Wh
+ at are the Benefits If We Contribute in Mozilla?\n6) Contribution Area (Pr
+ ojects Like L10n\, SUMO)\n\nEvent Host:Mozilla Volunteer:-  Vaibhav Bajaj\
+ ,Shiva Goyal\, Divya Thakre\, Saket Jain
+URL:https://reps.mozilla.org/e/mozconnect-tit/
+SEQUENCE:1
+X-COORDINATES-LAT:23.258373413
+X-COORDINATES-LON:77.4021005613
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

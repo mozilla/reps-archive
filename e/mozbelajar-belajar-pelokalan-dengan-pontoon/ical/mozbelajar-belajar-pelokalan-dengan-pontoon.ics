@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8289
+CLASS:PUBLIC
+DTSTAMP:20200423T085225Z
+DTSTART:20181111T070000Z
+DTEND:20181111T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: Belajar pelokalan dengan Pontoon
+DESCRIPTION:Localization event that facilitates people that want do non-te
+ chnical contribution for Mozilla.
+URL:https://reps.mozilla.org/e/mozbelajar-belajar-pelokalan-dengan-pontoon
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23516687811
+X-COORDINATES-LON:106.820508957
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

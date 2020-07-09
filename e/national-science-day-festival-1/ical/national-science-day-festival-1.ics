@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6336
+CLASS:PUBLIC
+DTSTAMP:20200423T112652Z
+DTSTART:20170227T183000Z
+DTEND:20170228T183000Z
+LOCATION:Giant Meterwave Radio Telescope\, Kodad\, Pune\, India
+SUMMARY:National Science Day Festival 2017
+DESCRIPTION:February 28th is celebrated throughout India as National Scien
+ ce Day. It celebrated by organising one of the biggest science festivals i
+ n the country on Feb 28th and the next day at the GMRT campus in Khodad. T
+ his festival sees about 20\,000 people visiting the festival every year. M
+ ozilla has been participating in the National Science Day Festival from th
+ e past 3 years. The main goal for participating in this festival has been 
+ creating awareness among people about open web.
+URL:https://reps.mozilla.org/e/national-science-day-festival-1/
+SEQUENCE:3
+X-COORDINATES-LAT:19.0918848
+X-COORDINATES-LON:74.0505752
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

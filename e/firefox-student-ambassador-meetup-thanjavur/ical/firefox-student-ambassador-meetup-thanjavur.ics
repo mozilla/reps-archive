@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3823
+CLASS:PUBLIC
+DTSTAMP:20200423T171119Z
+DTSTART:20150620T080000Z
+DTEND:20150620T120000Z
+LOCATION:TAN CAFE SELVAM NAGAR\,M.C ROAD\, Thanjavur\, India
+SUMMARY:Firefox Student Ambassador Meetup - Thanjavur
+DESCRIPTION:The event will be a gathering of FSA&#39;s who are interested to c
+ ontribute as well as interested to Share things about Mozilla . Mostly FSA
+ &#39;s in and around of Thanjavur will be joining the event. The event mainly 
+ aims to educate FSA&#39;s clearly with the much needed \, &#34; What is Mozilla \,
+  it&#39;s Mission \, and it&#39;s various products \, projects and initiatives &#34; a
+ nd support FSA to take up more roles in community building activities.
+URL:https://reps.mozilla.org/e/firefox-student-ambassador-meetup-thanjavur
+ /
+SEQUENCE:7
+X-COORDINATES-LAT:10.2059120875
+X-COORDINATES-LON:78.906372115
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

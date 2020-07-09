@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8590
+CLASS:PUBLIC
+DTSTAMP:20200423T082448Z
+DTSTART:20190613T170000Z
+DTEND:20190613T190000Z
+LOCATION:Mozilla Berlin Office\, 3rd floor\, Schlesische Strasse 27\, 1099
+ 7 Berlin\, Berlin\, Germany
+SUMMARY:Firefox Preview BugHunter event - Berlin
+DESCRIPTION:Mozilla is launching a new Android web browser and we need you
+ r help to get it ready for the free and open web. We’re asking you to be
+ come a fearless beta tester and BUG HUNTER\, join our event in Berlin\, in
+ stall this brand new browser and test it until you can test no more!
+URL:https://reps.mozilla.org/e/firefox-preview-bughunter-event-berlin/
+SEQUENCE:2
+X-COORDINATES-LAT:52.4993447921
+X-COORDINATES-LON:13.44943428
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

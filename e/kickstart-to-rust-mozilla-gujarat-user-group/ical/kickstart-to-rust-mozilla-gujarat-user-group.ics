@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6486
+CLASS:PUBLIC
+DTSTAMP:20200423T111303Z
+DTSTART:20170430T103000Z
+DTEND:20170430T133000Z
+LOCATION:TBD\, Gandhinagar\, India
+SUMMARY:Kickstart to Mozilla Gujarat Rust User Group
+DESCRIPTION:The event is focused on introducing and teaching the state of 
+ art system programming language Rust to local programmers and Mozillians i
+ n Gujarat. Repo : https://github.com/mozguj/Rust
+URL:https://reps.mozilla.org/e/kickstart-to-rust-mozilla-gujarat-user-grou
+ p/
+SEQUENCE:4
+X-COORDINATES-LAT:22.9145500643
+X-COORDINATES-LON:71.4829087257
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

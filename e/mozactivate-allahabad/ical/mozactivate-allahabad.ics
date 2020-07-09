@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6148
+CLASS:PUBLIC
+DTSTAMP:20200407T174138Z
+DTSTART:20170121T100000Z
+DTEND:20170121T160000Z
+LOCATION:United Institute of technology\, National Highway 2\, D-3 UPSIDC 
+ Industrial Area\, Naini\, Allahabad\, India
+SUMMARY:MozActivate@Allahabad
+DESCRIPTION:We are organizing Activate Mozilla Community Campaign to focus
+  on four initiatives taken by Mozilla. It will supports the organizational
+  goals by enthusing someone on how he/she can start participating on the w
+ eb and build web a better place to live.
+URL:https://reps.mozilla.org/e/mozactivate-allahabad/
+SEQUENCE:2
+X-COORDINATES-LAT:27.60242577
+X-COORDINATES-LON:79.3139639497
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

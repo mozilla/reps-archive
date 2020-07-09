@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4745
+CLASS:PUBLIC
+DTSTAMP:20200407T174439Z
+DTSTART:20151031T133000Z
+DTEND:20151031T150000Z
+LOCATION:Pune Community Space\, Pune\, India
+SUMMARY:MozCafe Pune
+DESCRIPTION:MozCafe Pune is an event where the Pune Community meets and ch
+ alk out future plans.
+URL:https://reps.mozilla.org/e/mozcafe-pune-5/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5190036784
+X-COORDINATES-LON:73.8540011642
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

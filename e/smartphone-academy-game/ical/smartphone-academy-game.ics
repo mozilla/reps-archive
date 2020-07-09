@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1318
+CLASS:PUBLIC
+DTSTAMP:20200423T210958Z
+DTSTART:20130918T150000Z
+DTEND:20130918T190000Z
+LOCATION:Akvárium\, Budapest\, Hungary
+SUMMARY:Smartphone Academy - Game
+DESCRIPTION:The Telenor is organizing an event around gaming.
+URL:https://reps.mozilla.org/e/smartphone-academy-game/
+SEQUENCE:7
+X-COORDINATES-LAT:47.4985463808
+X-COORDINATES-LON:19.0540266037
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9000
+CLASS:PUBLIC
+DTSTAMP:20200407T170241Z
+DTSTART:20200115T033000Z
+DTEND:20200115T043000Z
+LOCATION:Digitec Computer Systems\, Negombo\, Sri Lanka
+SUMMARY:Firefox Account Campain - Negombo
+DESCRIPTION:Aim of this event is to introduce firefox accounts and Mozilla
+  privacy tools.
+URL:https://reps.mozilla.org/e/firefox-account-campain-negombo/
+SEQUENCE:2
+X-COORDINATES-LAT:7.21439028768
+X-COORDINATES-LON:79.8427004812
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

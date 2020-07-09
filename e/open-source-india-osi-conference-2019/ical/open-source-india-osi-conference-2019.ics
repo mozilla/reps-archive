@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8876
+CLASS:PUBLIC
+DTSTAMP:20200407T170253Z
+DTSTART:20191017T030000Z
+DTEND:20191017T130000Z
+LOCATION:NIMHANS\, Bangalore\, Bangalore\, India
+SUMMARY:Open Source India (OSI) Conference 2019
+DESCRIPTION:Open Source India (OSI) is the premier conference in Asia targ
+ eted at nurturing and promoting the Open Source ecosystem in the subcontin
+ ent Started as LinuxAsia in 2004\, OSI has been at the helm of bringing to
+ gether the Open Source industry and the community since it’s inception. 
+ The 16th edition of OSI\, this year\, aims to take this event a notch high
+ er by focusing on the Open Source ecosystem in Asia\,and more specifically
+ \, in India.
+URL:https://reps.mozilla.org/e/open-source-india-osi-conference-2019/
+SEQUENCE:0
+X-COORDINATES-LAT:12.97675
+X-COORDINATES-LON:77.57528
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

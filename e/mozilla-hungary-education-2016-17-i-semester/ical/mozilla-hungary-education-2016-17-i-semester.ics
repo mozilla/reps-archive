@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5689
+CLASS:PUBLIC
+DTSTAMP:20200407T182323Z
+DTSTART:20160904T220000Z
+DTEND:20161214T230000Z
+LOCATION:Colleges and Universities across the Carpathian Basin\, Budapest\
+ , Hungary
+SUMMARY:Mozilla Hungary Education - 2016-17/I.  semester
+DESCRIPTION:All necessary preparations needed for the 2016 fall education 
+ semester. Conference presence for presenting the Education efforts\, semes
+ ter opening ceremony in Dunaújváros\, the Firefox tools\, and Webmaker K
+ -MOOC courses\, and the semester-closing ceremony with the Firefox OS Educ
+ ation Award.\n\n15 week 2 venue (Budapest/Dunaújváros)
+URL:https://reps.mozilla.org/e/mozilla-hungary-education-2016-17-i-semeste
+ r/
+SEQUENCE:1
+X-COORDINATES-LAT:47.4375007834
+X-COORDINATES-LON:19.0363776684
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1797
+CLASS:PUBLIC
+DTSTAMP:20200407T182328Z
+DTSTART:20140203T180000Z
+DTEND:20140203T200000Z
+LOCATION:Hristo Smirnenski Str. 1\, Sofia\, Bulgaria\, Sofia\, Bulgaria
+SUMMARY:Bulgaria Community MeetUp
+DESCRIPTION:It will be first official MozCoffee event in Bulgaria. The Loc
+ al Mozilla Community will meet to discuss plans\, projects &amp; events for 20
+ 14.\nNew contributors are welcome - Everyone is invited :)
+URL:https://reps.mozilla.org/e/bulgaria-community-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:42.6849036544
+X-COORDINATES-LON:23.3306615352
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

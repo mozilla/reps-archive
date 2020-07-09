@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7305
+CLASS:PUBLIC
+DTSTAMP:20200407T174137Z
+DTSTART:20180223T110000Z
+DTEND:20180223T230000Z
+LOCATION:Amity University\, Lucknow Campus\, Lucknow\, India
+SUMMARY:Introduction to WebExtensions in Mozilla Firefox : Lucknow
+DESCRIPTION:WebExtensions is a cross-browser system for developing browser
+  add-ons. To a large extent\, the system is compatible with the extension 
+ API supported by Google Chrome and Opera. Extensions written for these bro
+ wsers will in most cases run in Mozilla Firefox or Microsoft Edge with jus
+ t a few changes. The API is also fully compatible with multi process Firef
+ ox.
+URL:https://reps.mozilla.org/e/introduction-to-webextensions-in-mozilla-fi
+ refox-lucknow/
+SEQUENCE:6
+X-COORDINATES-LAT:28.1839566575
+X-COORDINATES-LON:80.6594467023
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1694
+CLASS:PUBLIC
+DTSTAMP:20200423T204824Z
+DTSTART:20131124T120000Z
+DTEND:20131124T133000Z
+LOCATION:Sreenidhi Institute of Science and Technology\, Hyderabad\, India
+SUMMARY:Mozillian&#39;s Meet @SNIST
+DESCRIPTION:A small Meet at Sreenidhi Institute of Science and Technology 
+ regarding the Upcoming App Days @SNIST with the local Firefox Club of Sree
+ nidhi Discussing about the things to do and the campaign to be followed.
+URL:https://reps.mozilla.org/e/mozillians-meet-snist/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4030629933
+X-COORDINATES-LON:79.4146728516
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

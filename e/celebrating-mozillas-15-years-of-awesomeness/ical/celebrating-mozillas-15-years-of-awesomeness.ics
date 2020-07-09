@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@794
+CLASS:PUBLIC
+DTSTAMP:20200423T215751Z
+DTSTART:20130331T103000Z
+DTEND:20130331T123000Z
+LOCATION:SASTRA University\, Thanjavur\, India
+SUMMARY:Celebrating Mozilla&#39;s 15 years of Awesomeness
+DESCRIPTION:Celebrations as the fact that Mozilla has been contributing fo
+ r 15 years. It would be an  informal meet where Open Web Enthusiasts  in a
+ nd around Tanjore and SASTRA University Celebrate. Innovative ways of Cont
+ ributions are discussed
+URL:https://reps.mozilla.org/e/celebrating-mozillas-15-years-of-awesomenes
+ s/
+SEQUENCE:3
+X-COORDINATES-LAT:10.7334769786
+X-COORDINATES-LON:78.9559936523
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

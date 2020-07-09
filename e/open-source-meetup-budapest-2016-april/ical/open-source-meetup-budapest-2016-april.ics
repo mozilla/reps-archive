@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5364
+CLASS:PUBLIC
+DTSTAMP:20200407T171708Z
+DTSTART:20160412T170000Z
+DTEND:20160412T200000Z
+LOCATION:Budapest Józsefvárosi Református Egyházközség gyülekezeti 
+ terme\, Budapest\, Hungary
+SUMMARY:Open Source Meetup Budapest\, 2016 April
+DESCRIPTION:Organized by Hungarian Mozillians &amp; other Open Source enthusia
+ sts\, OSBP is the biggest\, open-source software related meetup in Hungary
+ . I&#39;ll be giving a talk.
+URL:https://reps.mozilla.org/e/open-source-meetup-budapest-2016-april/
+SEQUENCE:2
+X-COORDINATES-LAT:47.4553325508
+X-COORDINATES-LON:19.2978514731
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4427
+CLASS:PUBLIC
+DTSTAMP:20200423T164412Z
+DTSTART:20150909T063000Z
+DTEND:20150909T113000Z
+LOCATION:Vivekanand Education Society&#39;s Institute of Technology (VESIT)\, 
+ Chembur\, India
+SUMMARY:Introduction to Open Source Projects and Artificial Intelligence
+DESCRIPTION:The event is specifically for students pursuing Master&#39;s Degre
+ e in Computer Engineering. They have introduced two new subjects in their 
+ syllabus\, One is &#39;Fuzzy Logic and Neural Networks&#39; and other is a project
+  in &#39;Open Source&#39;. So\, I have been invited to give a talk in both he  dom
+ ains.
+URL:https://reps.mozilla.org/e/introduction-to-open-source-and-artificial-
+ intelligence/
+SEQUENCE:2
+X-COORDINATES-LAT:19.0243638163
+X-COORDINATES-LON:73.0286407191
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@183
+CLASS:PUBLIC
+DTSTAMP:20200423T225453Z
+DTSTART:20121013T000000Z
+DTEND:20121013T040000Z
+LOCATION:De La Salle University Manila\, Manila\, Philippines
+SUMMARY:MozTour De La Salle University (DLSU) Manila
+DESCRIPTION:To discuss what Mozilla is. What Mozilla do. To include Firefo
+ x OS (B2G) to Engineering and Computer Science student.
+URL:https://reps.mozilla.org/e/moztour-de-la-salle-university-dlsu-manila/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5652460183
+X-COORDINATES-LON:120.993161201
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

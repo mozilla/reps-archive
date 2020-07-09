@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4386
+CLASS:PUBLIC
+DTSTAMP:20200407T182612Z
+DTSTART:20151003T043000Z
+DTEND:20151004T113000Z
+LOCATION:NIT DGP\, Durgapur\, India
+SUMMARY:MozTour  at  NITDGP
+DESCRIPTION:This would be two days event where in 1st day there will be on
+ ly introductory sessions and in 2nd day\, we have hackathon for participan
+ ts.
+URL:https://reps.mozilla.org/e/moztour-at-nitdgp/
+SEQUENCE:11
+X-COORDINATES-LAT:23.5111078192
+X-COORDINATES-LON:87.3110961914
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

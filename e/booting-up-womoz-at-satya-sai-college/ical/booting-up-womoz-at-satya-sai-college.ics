@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4655
+CLASS:PUBLIC
+DTSTAMP:20200423T163154Z
+DTSTART:20151005T033000Z
+DTEND:20151005T083000Z
+LOCATION:Satya Sai College\, Bhopal\, India
+SUMMARY:Booting Up WoMoz at Satya Sai College
+DESCRIPTION:This event was done by me and Rep Vaibhav Bajaj and our team o
+ f Mozilla MP. We taught around 80 womoz the skills of web development usin
+ g HTML CSS\, tools like webmaker and some contribution tracks like geo stu
+ mbling etc.
+URL:https://reps.mozilla.org/e/booting-up-womoz-at-satya-sai-college/
+SEQUENCE:1
+X-COORDINATES-LAT:23.2674431328
+X-COORDINATES-LON:77.3751492798
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

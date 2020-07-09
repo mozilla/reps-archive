@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4754
+CLASS:PUBLIC
+DTSTAMP:20200423T160822Z
+DTSTART:20151130T050000Z
+DTEND:20151130T100000Z
+LOCATION:North South University\, Banani Model Town\, Bangladesh
+SUMMARY:Firefox for Windows 10 Campaign @ NSU
+DESCRIPTION:We will be setting up a booth for this campaign. The computer 
+ and engineering club of North South University is going to organize a tech
+  fest where we will be having our booth. Students of NSU will learn how to
+  port Firefox on their windows 10 as a default browser. There will be a hu
+ ge crowd of at least 3-4 thousand students in this fest.
+URL:https://reps.mozilla.org/e/firefox-for-windows-10-campaign-nsu-1/
+SEQUENCE:3
+X-COORDINATES-LAT:23.8153303081
+X-COORDINATES-LON:90.4267206788
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

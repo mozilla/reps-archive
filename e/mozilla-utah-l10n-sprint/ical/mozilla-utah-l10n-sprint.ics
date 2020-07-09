@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1597
+CLASS:PUBLIC
+DTSTAMP:20200423T204044Z
+DTSTART:20131214T180000Z
+DTEND:20131214T200000Z
+LOCATION:2420 Wilkinson Student Center\, BYU Campus\, Orem\, United States
+SUMMARY:Mozilla Utah L10n Sprint
+DESCRIPTION:Join Mozilla Utah for a l10n sprint to introduce localization 
+ to bilingual Utahns across the state. We&#39;ll be focussing primarily on Mexi
+ can Spanish\, but all languages are welcome!
+URL:https://reps.mozilla.org/e/mozilla-utah-l10n-sprint/
+SEQUENCE:2
+X-COORDINATES-LAT:40.2486747401
+X-COORDINATES-LON:-111.647077561
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

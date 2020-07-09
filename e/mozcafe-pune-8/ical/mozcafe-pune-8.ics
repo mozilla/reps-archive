@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8944
+CLASS:PUBLIC
+DTSTAMP:20200407T165040Z
+DTSTART:20191215T103000Z
+DTEND:20191215T123000Z
+LOCATION:Crayolas Lab\, Pune\, India
+SUMMARY:MozCafe Pune
+DESCRIPTION:The Mozilla Pune community has not got together since a long t
+ ime and this event has been organized to re-group the community\, initiate
+  half yearly planning and share updates around various Mozilla projects.
+URL:https://reps.mozilla.org/e/mozcafe-pune-8/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5187900394
+X-COORDINATES-LON:73.852545261
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

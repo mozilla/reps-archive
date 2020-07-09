@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@618
+CLASS:PUBLIC
+DTSTAMP:20200423T220106Z
+DTSTART:20130321T080000Z
+DTEND:20130321T170000Z
+LOCATION:Arena Cinema\, Budapest\, Hungary
+SUMMARY:Open Source Conference 2013
+DESCRIPTION:This is one of the biggest open source conference in Hungary b
+ y IDG. We get a chance to setup a booth in the conference to meet the audi
+ ence. Other companies should pay for this privilege while Mozilla and Libr
+ eOffice was invited. We will have a presenatation in developer section.\n*
+  Mozilla\n* Firefox OS\n* Firefox
+URL:https://reps.mozilla.org/e/open-source-conference-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:47.4982564402
+X-COORDINATES-LON:19.091835022
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

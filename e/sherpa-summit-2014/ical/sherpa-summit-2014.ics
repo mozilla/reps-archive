@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2153
+CLASS:PUBLIC
+DTSTAMP:20200407T181240Z
+DTSTART:20140506T070000Z
+DTEND:20140506T170000Z
+LOCATION:Palacio Euskalduna\, Bilbao\, Spain
+SUMMARY:Sherpa Summit 2014
+DESCRIPTION:The Sherpa Summit is the global event organized by Sher.pa tha
+ t brings together key innovators\, CEOs\, developers and experts discussin
+ g and debating the future of the User Interfaces organized by Sher.pa.\n\n
+ The main topic of the conference will be the next generation of User Inter
+ faces (Voice\, Glasses\, Smart watches\, etc)\, search engines\, interacti
+ on and user experience.
+URL:https://reps.mozilla.org/e/sherpa-summit-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:43.2670474652
+X-COORDINATES-LON:-2.94390964438
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

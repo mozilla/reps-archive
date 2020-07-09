@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@179
+CLASS:PUBLIC
+DTSTAMP:20200423T225907Z
+DTSTART:20120922T223000Z
+DTEND:20120923T003000Z
+LOCATION:Calle 14 with Carrera 11 south\, El tigre\, Venezuela
+SUMMARY:Mozcoffee
+DESCRIPTION:this event is to talk informally about the new technologies de
+ veloped by Mozilla ... summer code\, hacklab and more
+URL:https://reps.mozilla.org/e/mozcofee/
+SEQUENCE:0
+X-COORDINATES-LAT:8.89592599642
+X-COORDINATES-LON:-64.2260742188
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

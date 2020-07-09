@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@840
+CLASS:PUBLIC
+DTSTAMP:20200423T214203Z
+DTSTART:20130521T043000Z
+DTEND:20130521T083000Z
+LOCATION:S.S Subodh PG College\, Rambagh Jaipur\, India
+SUMMARY:MozHackathon- Developing Apps for Firefox OS
+DESCRIPTION:Spreading the word of Firefox in a major Universitiy of Jaipur
+  viz. Subodh college. A mini Hackathon-kinda where the participants are gi
+ ven the opportunity to develop Firefox Apps and submit to the Marketplace.
+  Familiarization of Firefox OS and it features in the locality of Universi
+ ties.
+URL:https://reps.mozilla.org/e/mozhackathon-developing-apps-for-firefox-os
+ /
+SEQUENCE:4
+X-COORDINATES-LAT:26.8926790959
+X-COORDINATES-LON:75.8056640625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

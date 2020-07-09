@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3049
+CLASS:PUBLIC
+DTSTAMP:20200423T183454Z
+DTSTART:20141109T033000Z
+DTEND:20141109T113000Z
+LOCATION:TBD\, Erode\, India
+SUMMARY:Firefox 10 Celebration
+DESCRIPTION:Gathering of existing contributors plus interested volunteers 
+ to celebrate the occasion of FIrefox 10. Event is not not a celebration bu
+ t also a chance to meet and learn about Mozilla. We are planning to cover 
+ from Introduction to Mozilla to demo of FirefoxOS launch devices.
+URL:https://reps.mozilla.org/e/firefox-10-celebration/
+SEQUENCE:2
+X-COORDINATES-LAT:11.3486766
+X-COORDINATES-LON:77.7232217
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

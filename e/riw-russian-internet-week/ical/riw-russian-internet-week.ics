@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3009
+CLASS:PUBLIC
+DTSTAMP:20200407T182217Z
+DTSTART:20141112T050000Z
+DTEND:20141114T150000Z
+LOCATION:Expocentre Moscow\, Moscow\, Russian Federation
+SUMMARY:RIW Russian Internet Week
+DESCRIPTION:RIW 2014 - the main autumn event in Russia which consists of t
+ hree parts (Internet\, Media and Telecom)\,  bringing together the confere
+ nce\, media communication forum\, exhibition and many other activities lik
+ e shows\, presentations and promo-actions.
+URL:https://reps.mozilla.org/e/riw-russian-internet-week/
+SEQUENCE:4
+X-COORDINATES-LAT:55.7518790784
+X-COORDINATES-LON:37.5453475713
+X-COUNTRY-CODE:ru
+END:VEVENT
+
+END:VCALENDAR

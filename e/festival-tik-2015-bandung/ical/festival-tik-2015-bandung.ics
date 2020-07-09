@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3829
+CLASS:PUBLIC
+DTSTAMP:20200423T172008Z
+DTSTART:20150528T030000Z
+DTEND:20150529T120000Z
+LOCATION:Sasana Budaya Ganesha\, Bandung\, Indonesia
+SUMMARY:Festival TIK 2015 - Bandung
+DESCRIPTION:Festival TIK 2015 (2015 ICT Festival) is a nationwide festival
+  arranged by Ministry of Communication &amp; Informatics in collaboration with
+  &#34;Relawan TIK&#34; or ICT Volunteers\, Bandung City Government and local IT co
+ mmunity. This is the fourth Festival that was held ever and Bandung will h
+ ost the event. Mozilla Indonesia community will have a presence in this ev
+ ent by opening #MozBooth &amp; having a workshop class about Webmaker for free
+ .
+URL:https://reps.mozilla.org/e/festival-tik-2015-bandung/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.88625487106
+X-COORDINATES-LON:107.608111382
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

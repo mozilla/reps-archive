@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1153
+CLASS:PUBLIC
+DTSTAMP:20200407T173647Z
+DTSTART:20130918T130000Z
+DTEND:20130918T170000Z
+LOCATION:IED Roma\, Rome\, Italy
+SUMMARY:FxOS Meetup
+DESCRIPTION:A Firefox OS Meetup hosted by European Institute of Design in 
+ Rome\, where we&#39;re going to showcase web technologies\, and overview of th
+ e basic concept and best practices to develop FxOS Apps.
+URL:https://reps.mozilla.org/e/fxos-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:41.8862884455
+X-COORDINATES-LON:12.5240707397
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

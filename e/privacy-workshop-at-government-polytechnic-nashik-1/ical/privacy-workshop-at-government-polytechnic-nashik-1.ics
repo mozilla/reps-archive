@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6186
+CLASS:PUBLIC
+DTSTAMP:20200407T170238Z
+DTSTART:20170117T053000Z
+DTEND:20170117T103000Z
+LOCATION:Government Polytechnic Nashik.Samangaon road\, Nashik road\, Nash
+ ik\, India
+SUMMARY:Privacy Workshop at Government Polytechnic Nashik
+DESCRIPTION:Privacy awareness workshop for the polytechnic students. This 
+ event comes under the global #PrivacyMonth . Agenda is simple making stude
+ nts and staff aware about the rich Privacy Features of Firefox desktop and
+  Mobile.\n\nhttps://wiki.mozilla.org/India/task_force/Policy_and_Advocacy/
+ January_Privacy_Month_Campaign
+URL:https://reps.mozilla.org/e/privacy-workshop-at-government-polytechnic-
+ nashik-1/
+SEQUENCE:2
+X-COORDINATES-LAT:19.9303200316
+X-COORDINATES-LON:73.661865592
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5929
+CLASS:PUBLIC
+DTSTAMP:20200423T115525Z
+DTSTART:20161009T060000Z
+DTEND:20161009T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:How to be Mozilla&#39;s Hero 2
+DESCRIPTION:Introduction on how to contribute to Mozilla
+URL:https://reps.mozilla.org/e/how-to-be-mozilla-s-hero-2/
+SEQUENCE:2
+X-COORDINATES-LAT:-7.05864523767
+X-COORDINATES-LON:110.5052948
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

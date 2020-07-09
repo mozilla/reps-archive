@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8175
+CLASS:PUBLIC
+DTSTAMP:20200407T180021Z
+DTSTART:20181103T020000Z
+DTEND:20181104T090000Z
+LOCATION:Kalbis Institute\, Jakarta\, Jakarta\, Indonesia
+SUMMARY:PyCon Indonesia 2018
+DESCRIPTION:PyCon Indonesia is a conference where Python users\, or people
+  interested in Python\, gather to learn from each other and meet other mem
+ bers of the community. We hope that everyone joining PyCon ID will not onl
+ y learn new and exciting things\, but also meet new friends and strengthen
+  the connection with the community\, and thus the community itself. This y
+ ear\, we chose &#34;Python for Everyone&#34; as our theme.
+URL:https://reps.mozilla.org/e/pycon-indonesia-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.05864523767
+X-COORDINATES-LON:110.5052948
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

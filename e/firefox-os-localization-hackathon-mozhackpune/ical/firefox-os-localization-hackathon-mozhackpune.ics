@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@409
+CLASS:PUBLIC
+DTSTAMP:20200423T221054Z
+DTSTART:20130209T043000Z
+DTEND:20130209T123000Z
+LOCATION:Allana Institute of Mgmt Sciences \,Azam Campus\, Pune\, India
+SUMMARY:Firefox OS Localization Hackathon(Mozhackpune)
+DESCRIPTION:The event will be a full day hackathon for localizing Upcoming
+  mobile Firefox OS. The whole day hackathon will be attended by reps in an
+ d around Pune. A huge wave of contributors will be participating in this e
+ vent.
+URL:https://reps.mozilla.org/e/firefox-os-localization-hackathon-mozhackpu
+ ne/
+SEQUENCE:0
+X-COORDINATES-LAT:18.5043645509
+X-COORDINATES-LON:73.8760077953
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

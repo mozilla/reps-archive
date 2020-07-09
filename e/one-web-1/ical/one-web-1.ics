@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5636
+CLASS:PUBLIC
+DTSTAMP:20200423T151229Z
+DTSTART:20160717T050000Z
+DTEND:20160917T123000Z
+LOCATION:Upcoming event location: Kailash Vidyamandir\, Haora\, India
+SUMMARY:One_Web
+DESCRIPTION:I am creating this event on behalf of Ranodeep Saha\, RAL\n\nA
+ im : To Educate 1\,00\,000 People globally about the Web. As we all know W
+ eb is the most precious\n\nThere will be series of events during the time 
+ span of two and half months.\n\nOne Web is supported and partnered with :\
+ n\n1.)Social Bong\n\n2.)Theorex\n\n3.) Calcutta Instagrammers\n\n4.) Your 
+ Story Bangla\n\n5.)Daily Mirage\n\n6.) Izifiso\n\n7.)Connect India\n\n8.)C
+ ampus Karma\n\n9.)The Anon Productions.
+URL:https://reps.mozilla.org/e/one-web-1/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5554726287
+X-COORDINATES-LON:88.2977600209
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

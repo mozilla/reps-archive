@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8645
+CLASS:PUBLIC
+DTSTAMP:20200407T170340Z
+DTSTART:20190620T150000Z
+DTEND:20190620T180000Z
+LOCATION:Nicaragua\, Managua\, Nicaragua
+SUMMARY:Community Workshop - Univalle
+DESCRIPTION:Se organiza una actividad de presentación de la comunidad a e
+ studiantes de la Universidad del Valle para captar nuevos miembros interes
+ ados en pertenecer y aportar un granito de arena con los nuevos proyectos.
+  \nAl mismo tiempo\, contribuir con nuestra misión brindando difusión de
+  los temas innovadores como Common Voice\, Extensiones para Firefox y WebV
+ R
+URL:https://reps.mozilla.org/e/community-workshop-univalle/
+SEQUENCE:0
+X-COORDINATES-LAT:12.1386904189
+X-COORDINATES-LON:-85.9645843506
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

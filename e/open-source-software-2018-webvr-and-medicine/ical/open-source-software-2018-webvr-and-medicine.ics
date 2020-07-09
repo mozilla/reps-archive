@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8033
+CLASS:PUBLIC
+DTSTAMP:20200407T170255Z
+DTSTART:20181005T050000Z
+DTEND:20181005T100000Z
+LOCATION:Mauritius Instititute of Health\, Powder Mill\, Mauritius
+SUMMARY:Open Source Software Seminar 2018: WebVR and Medicine
+DESCRIPTION:This is a one-day Open Source Software seminar 2018 which will
+  be held on the 5the October2018 at the Mauritius Institute of Health in c
+ ollaboration with the Agence Universitaire de la Francophonie with technic
+ al support of Mozilla Mauritius. The theme for this year will be WebVR and
+  Medicine\, where the main objective is to sensitize professionals about t
+ he use of WebVR in medicine.
+URL:https://reps.mozilla.org/e/open-source-software-2018-webvr-and-medicin
+ e/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.1133800335
+X-COORDINATES-LON:57.5689315656
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

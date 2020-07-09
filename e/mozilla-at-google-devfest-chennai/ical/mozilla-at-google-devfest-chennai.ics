@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3114
+CLASS:PUBLIC
+DTSTAMP:20200423T183054Z
+DTSTART:20141116T033000Z
+DTEND:20141116T103000Z
+LOCATION:Hotel Raintree\, Chennai\, India
+SUMMARY:Mozilla at Google Devfest Chennai
+DESCRIPTION:*Importance of an Open\, Free and Accessible web.\n*What is We
+ b literacy\n*How can you be web literate\n*How can you as developers contr
+ ibute to web literacy and openness on the web.\n*Defining the skills and c
+ ompetencies needed for reading\, writing and participating on the web with
+  the Web literacy map v2.0\n*Web Literacy Mapper\n*Webmaker Tools Demo
+URL:https://reps.mozilla.org/e/mozilla-at-google-devfest-chennai/
+SEQUENCE:1
+X-COORDINATES-LAT:13.0533924537
+X-COORDINATES-LON:80.2465438843
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

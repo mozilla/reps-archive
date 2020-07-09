@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2647
+CLASS:PUBLIC
+DTSTAMP:20200423T190410Z
+DTSTART:20140909T110000Z
+DTEND:20140909T140000Z
+LOCATION:Kedai Pojok Adhyaksa\, Makassar\, Indonesia
+SUMMARY:MozKopdar Makassar - September 2014
+DESCRIPTION:We will give talks about Mozilla Community &amp; Projects updates.
+  We will also open discussion about it. And we will share how to contribut
+ e as well.
+URL:https://reps.mozilla.org/e/mozkopdar-makassar-september-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:-5.16078829725
+X-COORDINATES-LON:119.445578456
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

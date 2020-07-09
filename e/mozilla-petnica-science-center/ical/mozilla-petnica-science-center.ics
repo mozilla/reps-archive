@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1868
+CLASS:PUBLIC
+DTSTAMP:20200407T182646Z
+DTSTART:20140213T150000Z
+DTEND:20140213T170000Z
+LOCATION:Petnica Science Center\, Valjevo\, Serbia
+SUMMARY:Mozilla @ Petnica Science Center
+DESCRIPTION:Event about Mozilla for computer science interns of Petnica Sc
+ ience Center (biggest and\, probably\, the oldest independent nonprofit or
+ ganization for extracurricular science education in SE Europe)
+URL:https://reps.mozilla.org/e/mozilla-petnica-science-center/
+SEQUENCE:1
+X-COORDINATES-LAT:44.2314143551
+X-COORDINATES-LON:19.9054470006
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

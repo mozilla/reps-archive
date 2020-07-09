@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1039
+CLASS:PUBLIC
+DTSTAMP:20200407T175530Z
+DTSTART:20140303T093000Z
+DTEND:20140304T180000Z
+LOCATION:Agence Universitaire de la Francophonie\, Dakar (Pending approval
+ )\, Dakar\, Senegal
+SUMMARY:AFRICAN LANGUAGES LOCALIZATION WORKSHOP - Dakar (Senegal)
+DESCRIPTION:In order to share with the community all the resources and ski
+ lls in the field of new technologies for African languages\, we propose to
+  organize a series of workshops in Senegal and France to inform and train 
+ leaders and resource persons in each country to build communities that wil
+ l take care of the LOCALIZATION of African languages)\, but also to create
+  Mozilla communities in their respective countries.
+URL:https://reps.mozilla.org/e/african-languages-localization-workshop-dak
+ ar-senegal/
+SEQUENCE:13
+X-COORDINATES-LAT:14.6795410377
+X-COORDINATES-LON:-17.4663891806
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

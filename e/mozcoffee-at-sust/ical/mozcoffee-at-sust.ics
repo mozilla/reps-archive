@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3553
+CLASS:PUBLIC
+DTSTAMP:20200423T174647Z
+DTSTART:20150306T100000Z
+DTEND:20150306T120000Z
+LOCATION:Cafeteria Rooftop\, SUST\, Sylhet\, Bangladesh
+SUMMARY:MozCoffee at SUST
+DESCRIPTION:An informal gathering of Mozilla SUST Club members and other m
+ ozillians of Shahjalal University of Science and Technology\, Sylhet.
+URL:https://reps.mozilla.org/e/mozcoffee-at-sust/
+SEQUENCE:4
+X-COORDINATES-LAT:24.5986740976
+X-COORDINATES-LON:91.7019529591
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

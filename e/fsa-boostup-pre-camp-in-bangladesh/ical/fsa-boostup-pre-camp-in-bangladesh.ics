@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4947
+CLASS:PUBLIC
+DTSTAMP:20200423T155857Z
+DTSTART:20151229T040000Z
+DTEND:20160531T120000Z
+LOCATION:Bangladesh\, Dhaka and other cities\, Bangladesh
+SUMMARY:FSA Boostup Pre-Camp in Bangladesh
+DESCRIPTION:We have started our boost up campaign of FSA as we said. It wa
+ s started in 19 Dec&#39;15 and will continue until further notice. It’s happ
+ ening all around the country in different Firefox clubs and institute. We 
+ are campaigning in some institutes.\n\n***AGENDA***\n01. Introducing MOZIL
+ LA (for new clubs) \n02. Brief session about some specific projects and pr
+ oducts \n03. Responsibilities of FSAs  \n04. Activities Firefox clubs
+URL:https://reps.mozilla.org/e/fsa-boostup-pre-camp-in-bangladesh/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7249724475
+X-COORDINATES-LON:90.3410053253
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

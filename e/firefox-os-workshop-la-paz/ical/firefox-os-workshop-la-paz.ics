@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2678
+CLASS:PUBLIC
+DTSTAMP:20200423T191608Z
+DTSTART:20140812T190000Z
+DTEND:20140812T200000Z
+LOCATION:Avenida 16 de Julio\, La Paz\, Bolivia
+SUMMARY:Firefox OS Workshop La Paz
+DESCRIPTION:This is an event to developers to show him Firefox OS and how 
+ they can develop a Firefox OS App\, this event will be at UMSA University 
+ in La Paz city.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-la-paz/
+SEQUENCE:3
+X-COORDINATES-LAT:-16.5048969598
+X-COORDINATES-LON:-68.1299986836
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

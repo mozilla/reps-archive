@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5289
+CLASS:PUBLIC
+DTSTAMP:20200407T181900Z
+DTSTART:20160416T100000Z
+DTEND:20160416T170000Z
+LOCATION:HETEC Abidjan\, Abidjan\, Ivory Coast
+SUMMARY:MozUniv tour HETEC ABIDJAN
+DESCRIPTION:We are committed myself and Ivory Coast Mozilla community to i
+ mplement Mozilla community on the various campuses of Ivory Coast.We are s
+ tarting these activities through various events where mozillians and Reps 
+ From Ivory Coast come to introduce Mozilla mission\, different contributio
+ n areas \, projects \, products and campaigns and Firefox Student Ambassad
+ ors program. This April 16th we are at HETEC Abidjan.
+URL:https://reps.mozilla.org/e/moz-university-tour-hetec-abidjan/
+SEQUENCE:4
+X-COORDINATES-LAT:5.3175111518
+X-COORDINATES-LON:-4.01810735464
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

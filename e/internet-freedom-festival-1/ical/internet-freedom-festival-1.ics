@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7694
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20180305T150000Z
+DTEND:20180309T230000Z
+LOCATION:las naves valencia spain\, Valencia\, Spain
+SUMMARY:Internet Freedom Festival
+DESCRIPTION:The IFF encourages a meaningful interaction between the differ
+ ent groups and regions of the free software community\, privacy on the web
+ \, and access to information\, creating an environment of diversity and in
+ clusion within the event. Where people from different branches meet as dev
+ elopers\, designers\, communicologists\, among others.
+URL:https://reps.mozilla.org/e/internet-freedom-festival-1/
+SEQUENCE:0
+X-COORDINATES-LAT:39.4517473615
+X-COORDINATES-LON:-0.342040657997
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

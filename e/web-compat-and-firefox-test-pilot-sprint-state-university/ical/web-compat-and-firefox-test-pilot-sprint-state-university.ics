@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5830
+CLASS:PUBLIC
+DTSTAMP:20200423T114612Z
+DTSTART:20161115T030000Z
+DTEND:20161115T120000Z
+LOCATION:State University\, Dhaka\, Bangladesh
+SUMMARY:Web Compat and Firefox Test Pilot Sprint @ State University
+DESCRIPTION:To support Mozilla&#39;s Activate Campaign\, Mozillians from State
+  University are going to organize day long activity to promote Mozilla and
+  way of contribution.\n\nVarious activity regarding Web Compat and Firefox
+  Test Pilot would be done.
+URL:https://reps.mozilla.org/e/web-compat-and-firefox-test-pilot-sprint-st
+ ate-university/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7004454
+X-COORDINATES-LON:90.4996251
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

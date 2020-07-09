@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3141
+CLASS:PUBLIC
+DTSTAMP:20200407T180528Z
+DTSTART:20150312T040000Z
+DTEND:20150312T080000Z
+LOCATION:ULAB\, Dhanmondi\, Dhanmondi\, Bangladesh
+SUMMARY:Maker Party @ ULAB
+DESCRIPTION:FSAs at ULAB are excited to have the second Mozilla event at t
+ heir campus: Maker Party @ ULAB. Last time when we went to ULAB to mentor 
+ the contributors\, we got tremendous response both from the students and t
+ he authority. This time we will visit them again with the word of Webmaker
+ \, creating some cool Makes on the way.
+URL:https://reps.mozilla.org/e/maker-party-ulab-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:23.8020992318
+X-COORDINATES-LON:90.2080079913
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

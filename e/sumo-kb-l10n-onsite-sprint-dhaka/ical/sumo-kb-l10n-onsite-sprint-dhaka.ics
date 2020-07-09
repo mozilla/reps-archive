@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2045
+CLASS:PUBLIC
+DTSTAMP:20200423T200340Z
+DTSTART:20140412T040000Z
+DTEND:20140412T110000Z
+LOCATION:BRAC University\, Dhaka\, Bangladesh
+SUMMARY:SuMo KB l10n onsite sprint Dhaka
+DESCRIPTION:SuMo (support mozilla) has three parts. SuMo knowledge base is
+  one of the parts. Recently sumo community announce “Top 100″: the SUM
+ O localization challenge!. To full fill this challenge we have planed to o
+ rganize different onsite SuMo KB l10n sprint. This will be the first event
+  one of them.
+URL:https://reps.mozilla.org/e/sumo-kb-l10n-onsite-sprint-dhaka/
+SEQUENCE:5
+X-COORDINATES-LAT:23.7815486292
+X-COORDINATES-LON:90.4736595147
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

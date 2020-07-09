@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5376
+CLASS:PUBLIC
+DTSTAMP:20200407T180123Z
+DTSTART:20160724T153000Z
+DTEND:20161002T153000Z
+LOCATION:Institut Burkinabè des arts et métiers\, Ouagadougou\, Burkina 
+ Faso
+SUMMARY:Firefox Moore Localization
+DESCRIPTION:During a period of three months\, the community will host 6 me
+ etup to work and advance the moore localization project
+URL:https://reps.mozilla.org/e/firefox-moore-localization/
+SEQUENCE:3
+X-COORDINATES-LAT:12.407677389
+X-COORDINATES-LON:-1.49746799434
+X-COUNTRY-CODE:bf
+END:VEVENT
+
+END:VCALENDAR

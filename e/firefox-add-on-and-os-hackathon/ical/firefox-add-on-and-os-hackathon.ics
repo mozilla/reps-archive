@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@430
+CLASS:PUBLIC
+DTSTAMP:20200423T221011Z
+DTSTART:20130212T043000Z
+DTEND:20130212T123000Z
+LOCATION:Meenakshi Sundararajan Engineering College\, chennai\, India
+SUMMARY:Firefox  Add-on and OS Hackathon
+DESCRIPTION:The Event is to be organized as a part of college Symposium\, 
+ where participants are expected to turn-out large in number.\, it would al
+ so be a great opportunity for me to spread about Firefox OS.\n\nThe perfec
+ t url for the event is : http://kranti13.com/app.html\nand the participant
+ s can register in : http://kranti13.com/register.html in app development f
+ or this event.
+URL:https://reps.mozilla.org/e/firefox-add-on-and-os-hackathon/
+SEQUENCE:0
+X-COORDINATES-LAT:13.0514693512
+X-COORDINATES-LON:80.2307510376
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

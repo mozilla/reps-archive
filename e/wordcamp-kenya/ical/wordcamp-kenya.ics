@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@180
+CLASS:PUBLIC
+DTSTAMP:20200423T224653Z
+DTSTART:20121110T050000Z
+DTEND:20121111T090000Z
+LOCATION:Maanzoni Lodge\, Nairobi\, Kenya
+SUMMARY:WordCamp Kenya
+DESCRIPTION:WordCamp is an informal gathering of WordPress enthusiasts\, b
+ loggers\, podcasters\, developers and designers. The event will bring all 
+ these people together\, under one roof\, for 2 days. November 10th and 11t
+ h at Maanzoni Lodge\, Mombasa Road. As Kenya gets close to the first gener
+ al elections after the 2008 violence\, the online community needs more tha
+ n ever to embrace positive and responsible engagement. This will be the th
+ eme for this year&#39;s WordCamp Kenya 2012.
+URL:https://reps.mozilla.org/e/wordcamp-kenya/
+SEQUENCE:0
+X-COORDINATES-LAT:-1.46582823144
+X-COORDINATES-LON:37.0180892944
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

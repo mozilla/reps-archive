@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2919
+CLASS:PUBLIC
+DTSTAMP:20200423T184810Z
+DTSTART:20141009T210000Z
+DTEND:20141010T000000Z
+LOCATION:Facultad Politecnica - Universidad Nacional del Este\, Ciudad del
+  Este\, Paraguay
+SUMMARY:Maker Party ECT 2014
+DESCRIPTION:The technological scientific meeting (ECT) is a traditional ac
+ tivity of the institution\, who was born in the year 1999\, with the idea 
+ of becoming a space for the dissemination of research of students and teac
+ hers. Initially the activities consisted of conferences and technical lect
+ ures on specific topics and initially tried to encompass issues related to
+  academic faculty actions.\n\nhttps://events.webmaker.org/events/6630
+URL:https://reps.mozilla.org/e/maker-party-ect-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:-25.4839249238
+X-COORDINATES-LON:-54.6710380913
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

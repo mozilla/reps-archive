@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2291
+CLASS:PUBLIC
+DTSTAMP:20200423T194512Z
+DTSTART:20140527T170000Z
+DTEND:20140527T200000Z
+LOCATION:Liip\, Limmatstrasse 183\, 8005 Zürich\, Zürich\, Switzerland
+SUMMARY:Mozilla Switzerland Meetup - Firefox OS talk
+DESCRIPTION:Ever wondered what Firefox OS is about and why you should buil
+ d a Firefox OS app? Every wondered how to build an app? We kindly invite y
+ ou to join us for this talk by Mozilla Switzerland. This talk will cover t
+ he basics of Firefox OS and provide an introduction to Firefox OS app deve
+ lopment.\n\nAfter the talk\, we&#39;ll continue our discussions. If you alread
+ y know about Firefox OS\, feel free to come nevertheless\, you certainly c
+ ould share your experience with it and ask questions.
+URL:https://reps.mozilla.org/e/mozilla-switzerland-meetup-firefox-os-talk/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3862990306
+X-COORDINATES-LON:8.5291149616
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

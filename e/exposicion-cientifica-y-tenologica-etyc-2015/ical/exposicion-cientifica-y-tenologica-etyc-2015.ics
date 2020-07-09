@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4329
+CLASS:PUBLIC
+DTSTAMP:20200407T175508Z
+DTSTART:20150921T130000Z
+DTEND:20150926T010000Z
+LOCATION:Facultad Politécnica - UNA\, San Lorenzo\, Paraguay
+SUMMARY:XIV Exposición Científica y Tecnológica - ETyC 2015
+DESCRIPTION:The ETyC is the greatest technological\, scientific and cultur
+ al exhibition held at the National University of Asuncion\, organized annu
+ ally by the Polytechnic School (FP-UNA) in the month of September\, on the
+  anniversary of the founding of the National University\, brings together 
+ the efforts being made in the field of higher education\, with the strong 
+ support of the educational\, industrial\, productive and service sectors i
+ n a space.
+URL:https://reps.mozilla.org/e/exposicion-cientifica-y-tenologica-etyc-201
+ 5/
+SEQUENCE:3
+X-COORDINATES-LAT:-25.3361144568
+X-COORDINATES-LON:-57.5214890242
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

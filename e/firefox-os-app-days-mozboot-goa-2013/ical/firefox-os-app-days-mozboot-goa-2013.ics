@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@983
+CLASS:PUBLIC
+DTSTAMP:20200407T174332Z
+DTSTART:20130727T023000Z
+DTEND:20130728T083000Z
+LOCATION:TBD\, Goa\, India
+SUMMARY:Firefox OS App Days &amp; MozBoot Goa 2013
+DESCRIPTION:Action packed dual-event for developers besides the sexiest be
+ ach in India. Sunshine\, Coconuts &amp; teh Codez!
+URL:https://reps.mozilla.org/e/firefox-os-app-days-mozboot-goa-2013/
+SEQUENCE:4
+X-COORDINATES-LAT:15.3841774216
+X-COORDINATES-LON:73.8384246826
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

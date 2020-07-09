@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4228
+CLASS:PUBLIC
+DTSTAMP:20200407T174609Z
+DTSTART:20150815T193500Z
+DTEND:20150816T145500Z
+LOCATION:TBD\, Nagercoil\, India
+SUMMARY:Fox Club JEC
+DESCRIPTION:We are planning a different methodology on mozilla2school proj
+ ect in order to enhance its practical output from the attendees\, Since we
+  are concentrating on the budding techies we are introducing current trend
+ s and awareness about Mozilla clubs and contributions.
+URL:https://reps.mozilla.org/e/fox-club-jec/
+SEQUENCE:1
+X-COORDINATES-LAT:8.17614925395
+X-COORDINATES-LON:77.4398803711
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1765
+CLASS:PUBLIC
+DTSTAMP:20200407T165710Z
+DTSTART:20140913T020000Z
+DTEND:20140914T100000Z
+LOCATION:Glorietta 5 Atrium\, Makati City\, Philippines
+SUMMARY:Maker Festival Manila 2014
+DESCRIPTION:Maker Festival Manila is aimed to be the adaptation of the Moz
+ illa Festival in the Philippines.\n\nIt aims to be the biggest gathering o
+ f makers— thinkers and inventors who are passionate about the Web and ho
+ w it can be used to help make ideas into reality.\n\nAimed to the apprecia
+ tion of technology by the general public\, it will be held at a mall in th
+ e heart of the central business district.
+URL:https://reps.mozilla.org/e/maker-festival-manila-2014/
+SEQUENCE:11
+X-COORDINATES-LAT:14.5517870375
+X-COORDINATES-LON:121.027296424
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

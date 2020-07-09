@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8095
+CLASS:PUBLIC
+DTSTAMP:20200407T174240Z
+DTSTART:20181109T060000Z
+DTEND:20181109T120000Z
+LOCATION:ZOA TLV\, Tel-Aviv\, Israel
+SUMMARY:August Penguin 2018
+DESCRIPTION:August Penguin is the annual free/open source software confere
+ nce organized by the community and Hamakor NPO.
+URL:https://reps.mozilla.org/e/august-penguin-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:32.0745554
+X-COORDINATES-LON:34.7823216
+X-COUNTRY-CODE:il
+END:VEVENT
+
+END:VCALENDAR

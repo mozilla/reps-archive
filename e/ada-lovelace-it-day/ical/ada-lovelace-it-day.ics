@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2756
+CLASS:PUBLIC
+DTSTAMP:20200407T175130Z
+DTSTART:20141014T100000Z
+DTEND:20141014T150000Z
+LOCATION:Streatham &amp; Clapham High School\, London\, United Kingdom
+SUMMARY:Ada Lovelace IT Day
+DESCRIPTION:Tech festival that aims to inspire the teaching of code to the
+  girls at Streatham &amp; Clapham High School and to commemorate Ada Lovelace&#39;
+ s birthday.
+URL:https://reps.mozilla.org/e/ada-lovelace-it-day/
+SEQUENCE:2
+X-COORDINATES-LAT:51.458820285
+X-COORDINATES-LON:-0.137972831726
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3752
+CLASS:PUBLIC
+DTSTAMP:20200423T172418Z
+DTSTART:20150515T033000Z
+DTEND:20150515T083000Z
+LOCATION:Shri Swaminarayan English Medium School Shri Tapovan Brahmacharya
+ shram Agra Road\, New Adgaon Naka\, Panchavati\, Nashik - 422003.\, Nashik
+ \, India
+SUMMARY:#teachtheweb session @ Shri Swaminarayan English Medium School
+DESCRIPTION:Testing event for Staff &amp; students:\n1)Intro to webmaker\n    
+     Benefits:-        \n              *Teach web technology and languages 
+ to the students.\n              *Be a part of Global Webmaker Club initati
+ ve by Mozilla\n          Events:-\n               *Conduct maker party inc
+ luding electrical\,robotics etc\n               *Introduction to HTML\,CSS
+  and JS.\n               *Design logo for webmaker school club.         \n
+                *Privacy and it&#39;s importance
+URL:https://reps.mozilla.org/e/teachtheweb-session-shri-swaminarayan-engli
+ sh-medium-school/
+SEQUENCE:4
+X-COORDINATES-LAT:19.9562894
+X-COORDINATES-LON:73.7418902
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7680
+CLASS:PUBLIC
+DTSTAMP:20200407T181927Z
+DTSTART:20180526T090000Z
+DTEND:20180527T160000Z
+LOCATION:Cité des Sciences et de l&#39;Industrie\, Paris\, France
+SUMMARY:Ubuntu party 1804
+DESCRIPTION:It a traditional FOSS event in Paris\, held every six month fo
+ r each new Ubuntu releases. They have a community zone\, where Mozilla is 
+ invited with others FOSS people (wikipedia\,...). We will held a booth\, s
+ peaking about every aspect of Mozilla.
+URL:https://reps.mozilla.org/e/ubuntu-party-1804/
+SEQUENCE:2
+X-COORDINATES-LAT:48.895673845
+X-COORDINATES-LON:2.38804006585
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

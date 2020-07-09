@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7281
+CLASS:PUBLIC
+DTSTAMP:20200423T101303Z
+DTSTART:20171206T033000Z
+DTEND:20171206T053000Z
+LOCATION:New Nehru Convent School Nasrullaganj\, Bhopal\, India
+SUMMARY:Hour of Code MozMPCG
+DESCRIPTION:The Hour of Code is a global movement by Computer Science Educ
+ ation Week and Code.org reaching tens of millions of students in 180+ coun
+ tries through a one-hour introduction to computer science and computer pro
+ gramming.
+URL:https://reps.mozilla.org/e/hour-of-code-mozmpcg/
+SEQUENCE:2
+X-COORDINATES-LAT:22.6634161654
+X-COORDINATES-LON:77.2265510552
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

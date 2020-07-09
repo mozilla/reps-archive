@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3483
+CLASS:PUBLIC
+DTSTAMP:20200423T173412Z
+DTSTART:20150411T030000Z
+DTEND:20150415T030000Z
+LOCATION:Universidade Feevale\, Novo Hamburgo\, Brazil
+SUMMARY:Semana Acadêmica - Feevale
+DESCRIPTION:The Institute of Physical and Technological Sciences\, Univers
+ ity Feevale (ICET) holds from this Saturday\, April 11\, the Academic Week
+  of the Institute. With the theme of innovation\, Week\, through a series 
+ of lectures and workshops\, invites academics to immersion in the subject.
+URL:https://reps.mozilla.org/e/semana-academica-feevale/
+SEQUENCE:2
+X-COORDINATES-LAT:-29.6647503194
+X-COORDINATES-LON:-51.118884087
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

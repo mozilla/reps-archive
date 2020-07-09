@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6837
+CLASS:PUBLIC
+DTSTAMP:20200423T105235Z
+DTSTART:20170722T060000Z
+DTEND:20170902T080000Z
+LOCATION:Bon et Perpetuel Secours Convent\, Edith Cavell\, Mauritius
+SUMMARY:Digital libraries using FOSS Training workshop: Greenstone and Fir
+ efox
+DESCRIPTION:This is a 5-day  training workshop on using FOSS for the creat
+ ion and development of digital libraries. This training is part of a proje
+ ct for the setting up of a digital library for the preservation of documen
+ ts which dates back since 1858 at the Bon et Perpetuel Secours of Mauritiu
+ s. Firefox will be used to browse the collection
+URL:https://reps.mozilla.org/e/digital-libraries-using-foss-training-works
+ hop-greenstone-and-firefox/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.1669757258
+X-COORDINATES-LON:57.5034356113
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

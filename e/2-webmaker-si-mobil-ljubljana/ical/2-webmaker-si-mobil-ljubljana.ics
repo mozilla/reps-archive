@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2589
+CLASS:PUBLIC
+DTSTAMP:20200423T190830Z
+DTSTART:20140830T080000Z
+DTEND:20140830T120000Z
+LOCATION:Kiberpipa\, Gosposvetska cesta 2\, Ljubljana\, Ljubljana\, Sloven
+ ia
+SUMMARY:2. Webmaker Kiberpipa Ljubljana
+DESCRIPTION:Second Webmaker event in Ljubljana\, Slovenia. The event will 
+ be held in Kiberpipa - https://www.kiberpipa.org/en/
+URL:https://reps.mozilla.org/e/2-webmaker-si-mobil-ljubljana/
+SEQUENCE:12
+X-COORDINATES-LAT:46.0493172723
+X-COORDINATES-LON:14.504910707
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

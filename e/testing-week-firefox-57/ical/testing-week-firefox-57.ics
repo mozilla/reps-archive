@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6984
+CLASS:PUBLIC
+DTSTAMP:20200407T181900Z
+DTSTART:20171007T080000Z
+DTEND:20171007T170000Z
+LOCATION:Cocody\, ABIDJAN\, Ivory Coast
+SUMMARY:Testing Week Firefox 57 WEST AFRICA
+DESCRIPTION:Testing week Firefox 57 est un évènement exclusif qui aura p
+ our but de tester la dernier version 57 de Firefox avant la sortie officie
+ lle en Novembre 2017.\n\nCet évènement se déroulera simultanément en C
+ ôte d&#39;ivoire et au Caméroun
+URL:https://reps.mozilla.org/e/testing-week-firefox-57/
+SEQUENCE:1
+X-COORDINATES-LAT:5.33813190816
+X-COORDINATES-LON:-3.99749279197
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5323
+CLASS:PUBLIC
+DTSTAMP:20200407T175729Z
+DTSTART:20160416T003000Z
+DTEND:20160416T040000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Rust (Programming Language) Users Group Philippines Kickoff Meetin
+ g
+DESCRIPTION:The Mozilla Philippines Community (MozillaPH) is spearheading 
+ a Rust (Programming Language) Study Group for interested individuals. To k
+ ickoff this endeavor\, we are calling for an in-person meeting on Saturday
+ \, 16 Apr 2016 08:30AM at the Mozilla Community Space Manila (MozSpaceMNL)
+ .
+URL:https://reps.mozilla.org/e/rust-programming-language-users-group-phili
+ ppines-kickoff-meeting/
+SEQUENCE:0
+X-COORDINATES-LAT:14.546802342
+X-COORDINATES-LON:121.015885234
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

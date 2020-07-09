@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5696
+CLASS:PUBLIC
+DTSTAMP:20200407T174311Z
+DTSTART:20160826T050000Z
+DTEND:20160826T080000Z
+LOCATION:Primeasia univesity\, 12 Kemal Ataturk Avenue\, Banani\, Dhaka - 
+ 1213\, Bangladesh
+SUMMARY:MozGirls Initiation and Contribution Day!
+DESCRIPTION:WoMoz known as MozGirls in Mozilla Bangladesh\, will have an i
+ mportant event to engage more girls in tech and in the contribution team o
+ f Mozilla. This event is basically for the core and newbie MozGirls who wo
+ uld be trained and and then forwarded to different pathways to contribute.
+  \nWe will also have planning of next 6 months during this event on how we
+  can organize events in different campuses of Bangladesh focusing differen
+ t contribution pathways.
+URL:https://reps.mozilla.org/e/mozgirls-initiation-and-contribution-day/
+SEQUENCE:7
+X-COORDINATES-LAT:23.777019249
+X-COORDINATES-LON:90.4088973999
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

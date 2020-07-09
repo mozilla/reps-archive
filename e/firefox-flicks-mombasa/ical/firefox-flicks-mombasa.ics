@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@947
+CLASS:PUBLIC
+DTSTAMP:20200423T213352Z
+DTSTART:20130617T110000Z
+DTEND:20130617T140000Z
+LOCATION:Jomo Kenyatta University of Agriculture &amp; Technology Mombasa Camp
+ us\, Mombasa\, Kenya
+SUMMARY:Firefox Flicks Mombasa
+DESCRIPTION:We are going to hold this event with a main aim to tell people
+  about the Firefox Flicks competition\, the rules\, judges\, how to join\,
+  post and compete\, guide them and provide them with links to the main Moz
+ illa Flicks Team\nWe will also watch a number of other Flicks that have be
+ en submitted already to inspire the attendants.
+URL:https://reps.mozilla.org/e/firefox-flicks-mombasa/
+SEQUENCE:1
+X-COORDINATES-LAT:-4.39022892646
+X-COORDINATES-LON:40.078125
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

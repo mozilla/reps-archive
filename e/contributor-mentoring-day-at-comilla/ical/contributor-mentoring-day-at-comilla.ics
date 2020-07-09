@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4320
+CLASS:PUBLIC
+DTSTAMP:20200423T164444Z
+DTSTART:20150908T040000Z
+DTEND:20150908T080000Z
+LOCATION:Comilla Lalmai College\, Comilla\, Bangladesh
+SUMMARY:Contributor Mentoring Day at Comilla
+DESCRIPTION:Comilla is a district of Bangladesh where Mozilla didn&#39;t arriv
+ e yet. So\, that&#39;s why to build a new community we are starting with Contr
+ ibutor Mentoring Day at Comilla first. It will be held on &#34;Comilla Lalmai 
+ College&#34;. Main goals are:\n1. To create a new Community. \n2. To create a 
+ new FSA club in Comilla.\n3. Make them able to organize their own event. \
+ n4. Create a good volunteer team so that we can organize a big event of th
+ ousand participants in future.
+URL:https://reps.mozilla.org/e/contributor-mentoring-day-at-comilla/
+SEQUENCE:7
+X-COORDINATES-LAT:23.4583516215
+X-COORDINATES-LON:91.1799716915
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

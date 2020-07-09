@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5175
+CLASS:PUBLIC
+DTSTAMP:20200407T174346Z
+DTSTART:20160414T070000Z
+DTEND:20160417T160000Z
+LOCATION:Betahaus\, Berlin\, Germany
+SUMMARY:ReMo Leadership Meetup 2016
+DESCRIPTION:This events gathers the council and the peers to align and set
+  the roadmap for 2016
+URL:https://reps.mozilla.org/e/remo-leadership-meetup-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:52.5024939021
+X-COORDINATES-LON:13.4123010634
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

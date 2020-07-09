@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1278
+CLASS:PUBLIC
+DTSTAMP:20200407T183441Z
+DTSTART:20131005T150000Z
+DTEND:20131006T190000Z
+LOCATION:Sheraton Centre Toronto Hotel\, 123 Queen St W\, Toronto\, Canada
+SUMMARY:Bug Craft!
+DESCRIPTION:Craft booth at the Mozilla Summit to make a necklace\, bracele
+ t\, or charm with the number of your first bug in bugzilla.mozilla.org. I 
+ will invite people to look up their &#34;first bug&#34; reported\, commented on\, 
+ triaged\, or patched. Then make a nifty memento to wear. \n\nWe will also 
+ make a welcoming space for Mozilla fiber arts lovers\, and invite them to 
+ join the Ravelry Mozilla craft group.
+URL:https://reps.mozilla.org/e/bug-craft/
+SEQUENCE:3
+X-COORDINATES-LAT:43.651496
+X-COORDINATES-LON:-79.38305
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

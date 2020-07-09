@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5711
+CLASS:PUBLIC
+DTSTAMP:20200423T150624Z
+DTSTART:20160803T130000Z
+DTEND:20160803T183000Z
+LOCATION:CEU Florence - Centro de Esportes Unificados Jardim Florence\, Ca
+ mpinas\, Brazil
+SUMMARY:Leão Mozilla Clubs 2016 HTML Puzzle Boxes
+DESCRIPTION:Learners will race to sequence the paper boxes labeled with HT
+ ML tags\, becoming familiar with the most common HTML tags and how to stru
+ cture a web page.
+URL:https://reps.mozilla.org/e/leao-mozilla-clubs-2016-html-puzzle-boxes/
+SEQUENCE:3
+X-COORDINATES-LAT:-22.9065911672
+X-COORDINATES-LON:-47.0562057383
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

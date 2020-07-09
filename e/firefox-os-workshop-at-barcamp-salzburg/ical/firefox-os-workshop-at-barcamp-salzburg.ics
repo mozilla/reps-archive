@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1864
+CLASS:PUBLIC
+DTSTAMP:20200407T175246Z
+DTSTART:20140314T110000Z
+DTEND:20140315T160000Z
+LOCATION:FH Salzburg\, Puch bei Salzburg\, Puch\, Austria
+SUMMARY:Firefox OS Workshop at Barcamp Salzburg
+DESCRIPTION:We&#39;ll be doing a small Firefox OS App Hacking Workshop at the 
+ Barcamp in Salzburg (http://lanyrd.com/2014/barcamp-salzburg-next-web-marc
+ h-2014/scwyqp/). Further I&#39;ll present Firefox OS and some helpful apps at 
+ the &#34;Science Fair&#34;-like evening on Friday.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-at-barcamp-salzburg/
+SEQUENCE:8
+X-COORDINATES-LAT:47.7246576192
+X-COORDINATES-LON:13.086868286
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

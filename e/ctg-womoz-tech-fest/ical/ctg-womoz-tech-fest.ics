@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1842
+CLASS:PUBLIC
+DTSTAMP:20200407T174831Z
+DTSTART:20140523T040000Z
+DTEND:20140523T100000Z
+LOCATION:Chittagong Independent University (CIU)\, Chittagong\, Bangladesh
+SUMMARY:CTG WoMoz Tech Fest
+DESCRIPTION:(Event owner is - Maliha Momtaz Islam\, as she is not a Rep\, 
+ she cannot create this event.) A day long event participating WoMoz from t
+ hree University in Chittagong\, Bangladesh. It will be consist of open ses
+ sion for FOSS\, panel discussion for &#39;Women and Computing&#39; &amp; &#39;Open Web and
+  Data Privacy&#39;\, WebMaker &amp; AppMaker sessions.
+URL:https://reps.mozilla.org/e/ctg-womoz-tech-fest/
+SEQUENCE:25
+X-COORDINATES-LAT:22.3562245372
+X-COORDINATES-LON:91.8228993415
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

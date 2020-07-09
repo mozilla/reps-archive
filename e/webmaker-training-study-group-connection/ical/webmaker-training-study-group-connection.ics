@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2380
+CLASS:PUBLIC
+DTSTAMP:20200423T193922Z
+DTSTART:20140609T120000Z
+DTEND:20140609T130000Z
+LOCATION:Mozilla Community Space Taipei\, Jhongshan District\, Taiwan
+SUMMARY:Webmaker Training Study Group: Connection
+DESCRIPTION:Study Group on Webmaker Training
+URL:https://reps.mozilla.org/e/webmaker-training-study-group-connection/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0665491645
+X-COORDINATES-LON:121.526733397
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

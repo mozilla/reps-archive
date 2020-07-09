@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4211
+CLASS:PUBLIC
+DTSTAMP:20200423T170006Z
+DTSTART:20150724T023000Z
+DTEND:20150724T050000Z
+LOCATION:China Xinjiang southLake Xudong community\, Urumqi\, China
+SUMMARY:webmaker club ---What have we learned?
+DESCRIPTION:This summer\, we know parapara\, met goggles\, Thimble\, met t
+ he Firefox add-ons\, the students\, please think mastered these\, we can c
+ reate something together?
+URL:https://reps.mozilla.org/e/webmaker-club-what-have-we-learned/
+SEQUENCE:2
+X-COORDINATES-LAT:43.8193839798
+X-COORDINATES-LON:2607.60688202
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

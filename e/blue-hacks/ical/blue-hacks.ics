@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7408
+CLASS:PUBLIC
+DTSTAMP:20200423T100418Z
+DTSTART:20180127T000000Z
+DTEND:20180128T100000Z
+LOCATION:Ateneo de Manila University\, Quezon City\, Philippines
+SUMMARY:Blue Hacks
+DESCRIPTION:Blue Hacks is the Computer Society of the Ateneo’s (CompSAt)
+  annual student hackathon. Last year\, Blue Hacks was opened to non-Atenea
+ ns for the first time and it was a huge success. Over 100 student programm
+ ers from Ateneo de Manila\, University of the Philippines\, De La Salle Un
+ iversity\, and other universities across the Philippines will once again c
+ ome together to create applications under the theme of promoting social de
+ velopment in the Philippines.
+URL:https://reps.mozilla.org/e/blue-hacks/
+SEQUENCE:0
+X-COORDINATES-LAT:14.643121995
+X-COORDINATES-LON:121.075725317
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

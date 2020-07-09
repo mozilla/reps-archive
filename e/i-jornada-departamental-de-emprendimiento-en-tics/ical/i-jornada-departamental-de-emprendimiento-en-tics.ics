@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@342
+CLASS:PUBLIC
+DTSTAMP:20200423T224304Z
+DTSTART:20121128T170000Z
+DTEND:20121129T013000Z
+LOCATION:UAGRM - Av. Bush 2do Anillo\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:I Jornada Departamental de Emprendimiento en TIC´s
+DESCRIPTION:It is a forum - debate on issues related to enterprise start-u
+ p companies and / or organizations that generate or support software devel
+ opment in Bolivia.\nWe as Mozilla Bolivia\, will discuss the case of our w
+ ork in the community\, as well as Bolivian community\, as Hispanic communi
+ ty\, and development was done around specific products\, for example: Fire
+ fox in Spanish Bolivians and Firefox Guarani\, and others work made with t
+ he community.
+URL:https://reps.mozilla.org/e/i-jornada-departamental-de-emprendimiento-e
+ n-tics/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.7761203438
+X-COORDINATES-LON:-63.1943893433
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1383
+CLASS:PUBLIC
+DTSTAMP:20200423T205709Z
+DTSTART:20131026T070000Z
+DTEND:20131026T170000Z
+LOCATION:Universidad de San Jorge\, Escuela Politécnica Superior\, Zarago
+ za\, Spain
+SUMMARY:FirefoxOS Workshop Zaragoza
+DESCRIPTION:Another FirefoxOS workshop\, in this case in a private univers
+ ity in Zaragoza.
+URL:https://reps.mozilla.org/e/firefoxos-workshop-zaragoza/
+SEQUENCE:2
+X-COORDINATES-LAT:41.7419868635
+X-COORDINATES-LON:-0.84114074707
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@220
+CLASS:PUBLIC
+DTSTAMP:20200423T225109Z
+DTSTART:20121027T000000Z
+DTEND:20121027T090000Z
+LOCATION:6750 Office Building\, Ayala Avenue\, Makati City\, Philippines
+SUMMARY:Drupal Developers Day Philippines 2012
+DESCRIPTION:Drupal Users Group Philippines has organized this event. Mozil
+ la Philippines will be supporting this local tech group in promoting the e
+ vent. The organizers had invited local media practitioners from tv\, print
+ \, and online (bloggers) to cover the event.\n\nDrupal users are gaining s
+ ome momentum in the Philippines with other local groups pushing for free a
+ nd open source software alternatives to enterprise CMS applications.
+URL:https://reps.mozilla.org/e/drupal-developers-day-philippines-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5533040587
+X-COORDINATES-LON:121.025669575
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

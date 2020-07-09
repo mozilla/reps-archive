@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1306
+CLASS:PUBLIC
+DTSTAMP:20200423T210732Z
+DTSTART:20130921T150000Z
+DTEND:20130921T230000Z
+LOCATION:Universidad César Vallejo\, Trujillo\, Peru
+SUMMARY:Día Internacional del Software Libre
+DESCRIPTION:También conocido como el Día Internacional del Software Libr
+ e o Día de la Libertad del Software es más que un evento que se celebra 
+ a nivel mundial\, es una fiesta donde las comunidades se reúnen y compart
+ en experiencias con los el público asistente.\n\nEn esta ocasión se cele
+ bra por primera vez en Trujillo\, Universidad César Vallejo\, COSOLUCV. Q
+ ueremos que pasen un bonito día se han congregado comunidades de nuestra 
+ ciudad y organizaciones a nivel nacional.
+URL:https://reps.mozilla.org/e/sdftrujillo/
+SEQUENCE:3
+X-COORDINATES-LAT:-8.12912208744
+X-COORDINATES-LON:-79.0433263779
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

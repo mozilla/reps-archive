@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1243
+CLASS:PUBLIC
+DTSTAMP:20200407T175124Z
+DTSTART:20130906T100000Z
+DTEND:20130906T120000Z
+LOCATION:Globe Corporate Showroom\, 111 Valero\, Makati City\, Philippines
+SUMMARY:Maker Party Valero
+DESCRIPTION:Start creating something on the Web or teach others with the h
+ elp of Mozilla&#39;s Webmaker tools! Start learning about the Web and start le
+ arning how we can teach everyone\, regardless of professional/academic bac
+ kground\, to become part of the generation of Webmakers!\n\nThe Mozilla Ph
+ ilippines invite you to a session of webmaking with the Mozilla Executive 
+ Director\, Mark Surman on Sept. 6\, 2013!
+URL:https://reps.mozilla.org/e/maker-party-valero/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5595087662
+X-COORDINATES-LON:121.018738747
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@85
+CLASS:PUBLIC
+DTSTAMP:20200423T230557Z
+DTSTART:20120827T130000Z
+DTEND:20120828T020000Z
+LOCATION:Campos Eliseos 252 Chapultepec\, Polanco Hotel W\, Mexico\, Mexic
+ o
+SUMMARY:Facebook Developers World HACK
+DESCRIPTION:At Facebook Developers World HACK\, you’ll hear from Faceboo
+ k engineers who will walk you through developing great apps that are socia
+ l by design. World HACK gives you a chance to collaborate with your peers 
+ and speak one-on-one with Facebook engineers. Then\, put your skills to wo
+ rk and spend the day hacking with us. We’ll be awarding prizes for apps 
+ with the best Facebook integrations! 
+URL:https://reps.mozilla.org/e/facebook-developers-world-hack/
+SEQUENCE:0
+X-COORDINATES-LAT:19.4272683914
+X-COORDINATES-LON:-99.1954815388
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

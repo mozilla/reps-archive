@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@257
+CLASS:PUBLIC
+DTSTAMP:20200423T224342Z
+DTSTART:20121126T000000Z
+DTEND:20121129T090000Z
+LOCATION:De La Salle University Manila\, Manila\, Philippines
+SUMMARY:De la Salle University (DLSU) Manila College of Computer Science W
+ eek
+DESCRIPTION:The De La Salle University (DLSU) Manila\, one of the biggest 
+ catholic universities in the Philippines will be staging their College of 
+ Computer Science Week (CSS). Student Reps from this campus will stage a Mo
+ zilla Booth and Firefox Clinic.
+URL:https://reps.mozilla.org/e/de-la-salle-university-dlsu-manila-college-
+ of-computer-science-week/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5640622355
+X-COORDINATES-LON:120.992860794
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

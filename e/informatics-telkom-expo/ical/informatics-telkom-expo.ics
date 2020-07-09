@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1641
+CLASS:PUBLIC
+DTSTAMP:20200407T180010Z
+DTSTART:20131213T020000Z
+DTEND:20131213T100000Z
+LOCATION:Gedung Serba Guna Telkom Engineering School\, Telkom University\,
+  Dayeuhkolot\, Indonesia
+SUMMARY:Informatics Telkom EXPO
+DESCRIPTION:An event held by Informatics students in Telkom University\, I
+ ndonesia. Mozilla Indonesia community got a booth and a presentation sessi
+ on in the event.
+URL:https://reps.mozilla.org/e/informatics-telkom-expo/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.97674083464
+X-COORDINATES-LON:107.629852294
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8877
+CLASS:PUBLIC
+DTSTAMP:20200407T170216Z
+DTSTART:20191208T030000Z
+DTEND:20191208T130000Z
+LOCATION:IIIT Hyderabad\, Hyderabad\, India
+SUMMARY:PyConf Hyderabad 2019
+DESCRIPTION:PyConf Hyderabad is the regional gathering for the community t
+ hat uses and develops the open-source Python Programming Language.
+URL:https://reps.mozilla.org/e/pyconf-hyderabad-2019/
+SEQUENCE:0
+X-COORDINATES-LAT:17.445389
+X-COORDINATES-LON:78.348228
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3544
+CLASS:PUBLIC
+DTSTAMP:20200423T174941Z
+DTSTART:20150228T043000Z
+DTEND:20150228T123000Z
+LOCATION:IISER Kolkata\, Mohanpur\, India
+SUMMARY:FxOS Booth @SciFest
+DESCRIPTION:Inquivesta – the country&#39;s one of the largest science festiv
+ al\, hosted by IISER-Kolkata. The fest sees participation of more than 100
+ 0 students from more than a 100 colleges and schools across the country. T
+ he fest brings with it exciting events\, seminars and workshops that cater
+  to the interests of all students across India.\n\nhttp://www.inquivesta.i
+ iserkol.ac.in/
+URL:https://reps.mozilla.org/e/fxos-booth-scifest/
+SEQUENCE:1
+X-COORDINATES-LAT:23.8858376967
+X-COORDINATES-LON:81.9140624886
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

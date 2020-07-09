@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1183
+CLASS:PUBLIC
+DTSTAMP:20200423T205147Z
+DTSTART:20131115T080000Z
+DTEND:20131117T170000Z
+LOCATION:Hotel Barceló Renacimiento\, Seville\, Spain
+SUMMARY:Evento Blog España (EBE) 2013
+DESCRIPTION:The event where all the bloggers and developers from spain mee
+ ts. A lot of networking. New technologies\, and a lot of fun. EBE has his 
+ 8th edition this year\, and grows more and more every edition.
+URL:https://reps.mozilla.org/e/evento-blog-espana-ebe-2013/
+SEQUENCE:4
+X-COORDINATES-LAT:37.409965544
+X-COORDINATES-LON:-5.99602460861
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

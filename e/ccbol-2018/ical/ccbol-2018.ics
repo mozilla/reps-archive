@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8082
+CLASS:PUBLIC
+DTSTAMP:20200407T173911Z
+DTSTART:20181011T120000Z
+DTEND:20181013T140000Z
+LOCATION:Avenida Las Palmas - Campus Universitario UAP\, Cobija\, Pando\, 
+ Bolivia
+SUMMARY:CCBOL 2018
+DESCRIPTION:A National wide event. This event is held every year and bring
+ s together national and international professionals for 1 week of lectures
+ \, tutorials and competitions in Computer Technology. It also brings toget
+ her more than two thousand students from all over the country and from nei
+ ghboring countries.\nThis year\, I will give a 3-day tutoring on the Rust 
+ Language\, so we can get more students to start developing at Rust.
+URL:https://reps.mozilla.org/e/ccbol-2018/
+SEQUENCE:4
+X-COORDINATES-LAT:-11.0339186879
+X-COORDINATES-LON:-68.7598800664
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

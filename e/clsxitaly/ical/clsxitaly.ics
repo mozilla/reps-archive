@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5921
+CLASS:PUBLIC
+DTSTAMP:20200423T145332Z
+DTSTART:20160924T064500Z
+DTEND:20160924T153000Z
+LOCATION:Luiss Enlabs\, Rome Termini\, Vatican City\, Italy
+SUMMARY:CLSxItaly 2016
+DESCRIPTION:The Community Leadership Summit X Italy (CLSxItaly) is an even
+ t for all the community leader\, organizer\, curious people about the expe
+ rience in management of a community.
+URL:https://reps.mozilla.org/e/clsxitaly/
+SEQUENCE:2
+X-COORDINATES-LAT:41.8988219696
+X-COORDINATES-LON:12.5041007978
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

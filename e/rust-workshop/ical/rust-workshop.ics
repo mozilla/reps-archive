@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8277
+CLASS:PUBLIC
+DTSTAMP:20200423T084909Z
+DTSTART:20181212T190000Z
+DTEND:20181212T230000Z
+LOCATION:Rosario University\, Bogota\, Colombia
+SUMMARY:Rust workshop
+DESCRIPTION:During the event we will hold a Rust workshop\, organize activ
+ ities and also plan the Mozilla Colombia community agenda for 2018.
+URL:https://reps.mozilla.org/e/rust-workshop/
+SEQUENCE:4
+X-COORDINATES-LAT:4.60106315696
+X-COORDINATES-LON:-74.0723447801
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

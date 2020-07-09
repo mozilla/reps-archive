@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6904
+CLASS:PUBLIC
+DTSTAMP:20200407T181219Z
+DTSTART:20171103T230000Z
+DTEND:20171105T225500Z
+LOCATION:Faculty of Information Technology\, Brno University of Technology
+ \, Brno\, Czech Republic
+SUMMARY:OpenAlt 2017
+DESCRIPTION:First OpenAlt in 2014 was a successor of LinuxAlt and Openmobi
+ lity conferences. LinuxAlt has a tradition from 2006 and was dedicated to 
+ FOSS. First Openmobility took place in 2010.\n\nOur Mozilla.cz community p
+ resence is there almost a tradition since 2012. This year a booth and 6 ta
+ lks!
+URL:https://reps.mozilla.org/e/openalt-2017/
+SEQUENCE:2
+X-COORDINATES-LAT:49.2263559718
+X-COORDINATES-LON:16.5968304277
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

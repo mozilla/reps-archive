@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1726
+CLASS:PUBLIC
+DTSTAMP:20200423T203441Z
+DTSTART:20140118T043000Z
+DTEND:20140118T063000Z
+LOCATION:DPC&#39;s Computer Institute\, Nasik\, India
+SUMMARY:Protect the web over a Cup of Coffee: Meetup of New contributors
+DESCRIPTION:#\n The meetup aims at educating new contributors and voluntee
+ rs with the Mozilla and open web mission. \n\n# \nIt will include:\n\n* Re
+ cruiting new FSA\n* Making them aware of Mozilla\, webmaker and open web t
+ echnologies.\n* Discussions about planing and organizing new events.
+URL:https://reps.mozilla.org/e/protect-the-web-over-a-cup-of-coffee-meetup
+ -of-new-contributors/
+SEQUENCE:5
+X-COORDINATES-LAT:20.0034720848
+X-COORDINATES-LON:73.7711691848
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

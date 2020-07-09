@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8358
+CLASS:PUBLIC
+DTSTAMP:20200407T180022Z
+DTSTART:20190120T090000Z
+DTEND:20190122T140000Z
+LOCATION:Mozilla Community Space - Jakarta\, Jakarta\, Indonesia
+SUMMARY:Firefox Fights for You shooting session
+DESCRIPTION:Collecting footages to participate on the Firefox Fights For Y
+ ou video challenge.
+URL:https://reps.mozilla.org/e/firefox-fights-for-you-shooting-session/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.31893818968
+X-COORDINATES-LON:106.898437142
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

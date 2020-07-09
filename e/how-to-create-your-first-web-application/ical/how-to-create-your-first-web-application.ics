@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8981
+CLASS:PUBLIC
+DTSTAMP:20200423T080106Z
+DTSTART:20191130T130000Z
+DTEND:20191130T170000Z
+LOCATION:Zamora Teran Foundation\, Managua\, Nicaragua
+SUMMARY:How to create your first web application
+DESCRIPTION:The theme of this event: “Java web applications for beginner
+ s”\, will talk about 3 very important topics::\n\n     Java web applicat
+ ions\n     Web applications with JSF\n     Perform automated tests on your
+  web applications.
+URL:https://reps.mozilla.org/e/how-to-create-your-first-web-application/
+SEQUENCE:0
+X-COORDINATES-LAT:12.1399770644
+X-COORDINATES-LON:-86.296554571
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

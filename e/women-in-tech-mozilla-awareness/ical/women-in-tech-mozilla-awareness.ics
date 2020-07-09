@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8848
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20191019T060000Z
+DTEND:20191019T090000Z
+LOCATION:St Pierre\, St Pierre\, Mauritius
+SUMMARY:Women in tech: Mozilla Awareness
+DESCRIPTION:This event will be held on 12 October 2019 in collaboration wi
+ th Rotaract Club of St Pierre\, Mauritius. This will be an awareness campa
+ ign to get people know about Mozilla/Firefox and get them involved! This e
+ vent has been postponed due a problem with the venue. So it will shortly b
+ e re-scheduled.
+URL:https://reps.mozilla.org/e/women-in-tech-mozilla-awareness/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.2245363725
+X-COORDINATES-LON:57.5356864859
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

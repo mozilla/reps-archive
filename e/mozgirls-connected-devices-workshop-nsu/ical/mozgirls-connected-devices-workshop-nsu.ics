@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5807
+CLASS:PUBLIC
+DTSTAMP:20200407T174311Z
+DTSTART:20161007T050000Z
+DTEND:20161007T090000Z
+LOCATION:North South University\, Banani Model Town\, Bangladesh
+SUMMARY:MozGirls Connected Devices Workshop @NSU
+DESCRIPTION:After a successful event of MozGirls Initiation and Contributi
+ on Day\, we have come up with a series of events which will basically focu
+ s on connected devices.\nWe will have these events to engage more girls in
+  tech and in the contribution team of Mozilla. This event will also cover 
+ IoT and we  will show the latest development and experiments that Mozilla 
+ has been working on. Students and Makers from electronics and computer bac
+ kground will be invited for this event.
+URL:https://reps.mozilla.org/e/mozgirls-connected-devices-workshop-nsu/
+SEQUENCE:0
+X-COORDINATES-LAT:23.815428461
+X-COORDINATES-LON:90.4267421365
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

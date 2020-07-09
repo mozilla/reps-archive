@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6173
+CLASS:PUBLIC
+DTSTAMP:20200407T174232Z
+DTSTART:20161226T080000Z
+DTEND:20161231T160000Z
+LOCATION:CCH Congress Center Hamburg\, Am Dammtor / Marseiller Strasse\, 2
+ 0355 Hamburg\, Hamburg\, Germany
+SUMMARY:Chaos Communication Congress 2016
+DESCRIPTION:The 33rd Chaos Communication Congress (33C3) is an annual four
+ -day conference on technology\, society and utopia. The Congress offers le
+ ctures and workshops and various events on a multitude of topics including
+  (but not limited to) information technology and generally a critical-crea
+ tive attitude towards technology and the discussion about the effects of t
+ echnological advances on society.
+URL:https://reps.mozilla.org/e/chaos-communication-congress-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:53.5623094815
+X-COORDINATES-LON:9.9846181873
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

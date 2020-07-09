@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2193
+CLASS:PUBLIC
+DTSTAMP:20200423T195909Z
+DTSTART:20140425T150000Z
+DTEND:20140425T230000Z
+LOCATION:Centro Cultural Manuel Gómez Morin\, Queretaro\, Mexico
+SUMMARY:FLISOL 2014 Queretaro
+DESCRIPTION:Flisol is a event held in many Latin America cities to install
+  free software in users computers. At the same time that the installfest\,
+  communities give talks regarding free software.
+URL:https://reps.mozilla.org/e/flisol-2014-queretaro/
+SEQUENCE:1
+X-COORDINATES-LAT:20.5980261889
+X-COORDINATES-LON:-100.41123963
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4768
+CLASS:PUBLIC
+DTSTAMP:20200423T161915Z
+DTSTART:20151105T043000Z
+DTEND:20151106T063000Z
+LOCATION:Jaipur National University\, Jaipur\, India
+SUMMARY:MozInduction Meet @ JNU
+DESCRIPTION:The goal of this event is to aware the students about the Mozi
+ lla’s Free Open Source Software’s (FOSS) and its different programs to
+  contribute in the development of these open source projects.\nEvent is to
+  introduce Firefox OS and Mozilla contribution towards open source\, and s
+ hare knowledge about the tools available to help developers get started bu
+ ilding apps to submit to the Marketplace.\nThe overall format is a day tha
+ t includes some awesome tech talks followed by coding\, followed by demos.
+URL:https://reps.mozilla.org/e/mozinduction-meet-jnu/
+SEQUENCE:2
+X-COORDINATES-LAT:26.8820639139
+X-COORDINATES-LON:75.8455810323
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

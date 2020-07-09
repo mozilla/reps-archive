@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@366
+CLASS:PUBLIC
+DTSTAMP:20200423T212516Z
+DTSTART:20130720T080000Z
+DTEND:20130720T110000Z
+LOCATION:The Project Coffee\, Makassar\, Indonesia
+SUMMARY:MozKopdarMKS Juli 2013
+DESCRIPTION:An official Mozillians meetup in Makassar. Share the latest up
+ date of Mozilla projects\, more about #FirefoxOS and #Keon\, introduction 
+ about : (1) Firefox Student Ambassador program\, (2) Localization -l10n\, 
+ and many more.
+URL:https://reps.mozilla.org/e/mozkopdar-makassar-januari-2013/
+SEQUENCE:4
+X-COORDINATES-LAT:-5.61598581916
+X-COORDINATES-LON:121.640625
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

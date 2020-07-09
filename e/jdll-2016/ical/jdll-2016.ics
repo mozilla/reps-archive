@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5238
+CLASS:PUBLIC
+DTSTAMP:20200407T174528Z
+DTSTART:20160402T070000Z
+DTEND:20160403T160000Z
+LOCATION:249 rue de Vendôme 69003 Lyon\, Lyon\, France
+SUMMARY:JDLL 2016
+DESCRIPTION:JDLL (aka Journées du Logiciel Libre = Free Software Days) is
+  a french speaking event on free and open source software held in Lyon sin
+ ce 1998.\nIt has been moved from fall season to spring (hence no JDLL in 2
+ 013).\n2016 is the 17th edition of the event.\nLast edition was in 2015: h
+ ttps://reps.mozilla.org/e/jdll-2015/
+URL:https://reps.mozilla.org/e/jdll-2016/
+SEQUENCE:4
+X-COORDINATES-LAT:45.7559962132
+X-COORDINATES-LON:4.8474919796
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

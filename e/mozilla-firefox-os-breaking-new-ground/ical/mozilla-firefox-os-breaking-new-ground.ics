@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1964
+CLASS:PUBLIC
+DTSTAMP:20200423T202046Z
+DTSTART:20140305T000000Z
+DTEND:20140305T040000Z
+LOCATION:LLC Auditorium\, Calamba\, Philippines
+SUMMARY:Mozilla Firefox OS: Breaking New Ground
+DESCRIPTION:City College of Calamba will be conducting a seminar workshop 
+ with Firefox OS to entice its students to be have better idea of Mozilla&#39;s
+  new mobile operating system harnessing the power of HTML5
+URL:https://reps.mozilla.org/e/mozilla-firefox-os-breaking-new-ground/
+SEQUENCE:2
+X-COORDINATES-LAT:14.2104098551
+X-COORDINATES-LON:121.167597413
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

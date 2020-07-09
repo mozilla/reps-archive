@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3850
+CLASS:PUBLIC
+DTSTAMP:20200423T170835Z
+DTSTART:20150628T003000Z
+DTEND:20150628T083000Z
+LOCATION:Jeevika Academy\, Viluppuram\, Tamil Nadu\, India\, Viluppuram\, 
+ India
+SUMMARY:MozCoffee Villupuram
+DESCRIPTION:This event serves as getting all the FSAs around Villupuram\, 
+ Pondicherry\, Cuddalore and Thiruvannamalai. \n\nThis helps to start contr
+ ibuting to Mozilla and work on various Mozilla &amp; FOSS related activities i
+ n their colleges/universities. This event will   also helps to bring those
+  FSAs together and get them to know each   other so that in future they ca
+ n work on collaboration for contributions as well as organizing events.
+URL:https://reps.mozilla.org/e/mozcoffee-villupuram/
+SEQUENCE:15
+X-COORDINATES-LAT:11.9343261162
+X-COORDINATES-LON:79.4851584441
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

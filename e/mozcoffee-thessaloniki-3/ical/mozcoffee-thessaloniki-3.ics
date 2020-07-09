@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3306
+CLASS:PUBLIC
+DTSTAMP:20200423T181017Z
+DTSTART:20150110T120000Z
+DTEND:20150110T150000Z
+LOCATION:Coho\, Thessaloniki\, Greece
+SUMMARY:MozCoffee Thessaloniki #3
+DESCRIPTION:This is a slightly different MozCoffee in Thessaloniki\, Greec
+ e.\nThis time our local mozilla contributors are going to run four present
+ ations on the latest technologies such as the status of Firefox OS\, Firef
+ ox Developer Edition\, WebIDE\, Mozilla stumbler and Firefox l10n.\n\nAfte
+ r the presentations we are going to run 4 different hands-on stations for 
+ each topic / technology.\n \nOur main focus is to engage more contributors
+  from the local community.
+URL:https://reps.mozilla.org/e/mozcoffee-thessaloniki-3/
+SEQUENCE:5
+X-COORDINATES-LAT:40.6210532992
+X-COORDINATES-LON:22.9551229476
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5388
+CLASS:PUBLIC
+DTSTAMP:20200423T152836Z
+DTSTART:20160501T050000Z
+DTEND:20160501T070000Z
+LOCATION:Zen Cafe Amdavad ni Gufa\, University Road\, Ahmedabad\, Gujarat 
+ 380009\, Ahmedabad\, India
+SUMMARY:Mozilla Community POP-UP Meet\, Ahmedabad
+DESCRIPTION:Meet Teach and hang together to build a better community\, dis
+ cuss all the things which we are doing and planing our future activities.
+URL:https://reps.mozilla.org/e/mozilla-community-pop-up-meet-ahmedabad/
+SEQUENCE:6
+X-COORDINATES-LAT:23.0239212253
+X-COORDINATES-LON:72.3664855398
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

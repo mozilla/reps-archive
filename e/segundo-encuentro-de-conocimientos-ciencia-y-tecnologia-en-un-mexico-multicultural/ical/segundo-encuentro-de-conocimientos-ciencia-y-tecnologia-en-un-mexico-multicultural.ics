@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3808
+CLASS:PUBLIC
+DTSTAMP:20200423T172648Z
+DTSTART:20150507T140000Z
+DTEND:20150509T140000Z
+LOCATION:Centro Cultural San Pablo\, Oaxaca de Juarez\, Mexico
+SUMMARY:Segundo Encuentro de Conocimientos\, Ciencia y Tecnología en un M
+ éxico Multicultural
+DESCRIPTION:Consolidar un espacio de diálogo entre instituciones gubernam
+ entales y académicas\, expertos en las lenguas indígenas\, en ciencia y 
+ tecnología y divulgación de la ciencia\, hablantes y escritores de las l
+ enguas y público en general\, que promuevan la conservación de la lengua
+ \; la creación\, edición\, difusión y lectura de textos interculturales
+  o escritos en lenguas indígenas
+URL:https://reps.mozilla.org/e/segundo-encuentro-de-conocimientos-ciencia-
+ y-tecnologia-en-un-mexico-multicultural/
+SEQUENCE:0
+X-COORDINATES-LAT:17.0608839154
+X-COORDINATES-LON:-96.7203354844
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3591
+CLASS:PUBLIC
+DTSTAMP:20200423T174709Z
+DTSTART:20150304T130000Z
+DTEND:20150304T160000Z
+LOCATION:ESEN University - Manouba Campus\, Manouba\, Tunisia
+SUMMARY:Introduction to FirefoxOS
+DESCRIPTION:An university club &#34;ESEN Android Club&#34; from ESEN (High Institu
+ te of Digital Economics) has invited our community to introduce FirefoxOS 
+ to the students there. The event will have two main parts :\n- Conference 
+ : Introduction to FirefoxOS\, the structure of the OS\, the Marketplace\, 
+ and the technologies used to make apps.\n- Workshop : Introduction to the 
+ WebIDE\, FirefoxOS Simulator\, WebAPIs\, Building Blocks and they will fin
+ ish by making their own first FirefoxOS App.
+URL:https://reps.mozilla.org/e/introduction-to-firefoxos-1/
+SEQUENCE:1
+X-COORDINATES-LAT:36.8136453708
+X-COORDINATES-LON:10.0639715191
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

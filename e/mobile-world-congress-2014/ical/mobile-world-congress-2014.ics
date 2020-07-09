@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1936
+CLASS:PUBLIC
+DTSTAMP:20200407T174235Z
+DTSTART:20140224T080000Z
+DTEND:20140227T050000Z
+LOCATION:Fira Gran Via\, Barcelona\, Spain
+SUMMARY:Mobile World Congress 2014
+DESCRIPTION:MWC is the world’s premier industry event in mobile. Once ag
+ ain taking place at Fira Gran Via – the world-class venue in the heart o
+ f the Mobile World Capital.\n\nThis year 5 Mozilla Reps are participating 
+ in the event and working the demo booth.
+URL:https://reps.mozilla.org/e/mobile-world-congress-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:41.3410753291
+X-COORDINATES-LON:3.43359366059
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

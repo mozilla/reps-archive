@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4354
+CLASS:PUBLIC
+DTSTAMP:20200423T163620Z
+DTSTART:20150926T010000Z
+DTEND:20150926T063000Z
+LOCATION:Dr. Pauls Engineering College\,\, Vanur\, Villupuram\, India
+SUMMARY:One day Tamil l10n training &amp; Tech Sprint
+DESCRIPTION:This event aims to create awareness among attendees about the 
+ need for localization and how anyone\, even without any technical knowledg
+ e can contribute very easily to the community by localization. This event 
+ will help to get new contributors to the community
+URL:https://reps.mozilla.org/e/tamil-l10n-training-sprint/
+SEQUENCE:7
+X-COORDINATES-LAT:12.0292017604
+X-COORDINATES-LON:79.7657561293
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

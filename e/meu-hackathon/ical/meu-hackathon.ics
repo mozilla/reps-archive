@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4767
+CLASS:PUBLIC
+DTSTAMP:20200407T174833Z
+DTSTART:20151210T080000Z
+DTEND:20151210T100000Z
+LOCATION:Middle East University\, Amman\, Jordan
+SUMMARY:MEU Hackathon
+DESCRIPTION:This is a Marketing Event to lunch a Firefox Club at Amman cit
+ y\, this will be our first present at this university\, we have been forma
+ lly invited by the dean of IT Department. We already have just one FSA the
+ re at the university.
+URL:https://reps.mozilla.org/e/meu-hackathon/
+SEQUENCE:4
+X-COORDINATES-LAT:31.7210612034
+X-COORDINATES-LON:35.9440154582
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

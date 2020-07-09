@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7590
+CLASS:PUBLIC
+DTSTAMP:20200423T093307Z
+DTSTART:20180521T033000Z
+DTEND:20180522T123000Z
+LOCATION:Lovely Professional University\, Phagwara\, India
+SUMMARY:Contribution Pathways Chandigarh
+DESCRIPTION:This is a two days event As this is the beginning of the new s
+ ession it will be a good oppurtunity for students to explore and associate
+  themselves with Mozilla and apart from this the already existing students
+  have the caliber and the will to learn innovate and brain storm the new u
+ ntouched areas of technology.students are ever ready for such events as it
+  will give them practical knowledge.
+URL:https://reps.mozilla.org/e/contribution-pathways-lpu/
+SEQUENCE:8
+X-COORDINATES-LAT:22.7172509015
+X-COORDINATES-LON:75.8660125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

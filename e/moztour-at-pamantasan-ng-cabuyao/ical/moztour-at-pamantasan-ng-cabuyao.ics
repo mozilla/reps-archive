@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4201
+CLASS:PUBLIC
+DTSTAMP:20200423T165221Z
+DTSTART:20150815T050000Z
+DTEND:20150815T090000Z
+LOCATION:Pamantasan ng Cabuyao\, Cabuyao\, Philippines
+SUMMARY:Moztour at Pamantasan ng Cabuyao
+DESCRIPTION:Association of Computer Engineering Students (ACOES) from Pama
+ ntasan ng Cabuyao invited Mozilla Philippines Community to be part of thei
+ r organizational general assembly. In this MozTour\, MozPH community will 
+ share the overview of Mozilla and its projects.
+URL:https://reps.mozilla.org/e/moztour-at-pamantasan-ng-cabuyao/
+SEQUENCE:3
+X-COORDINATES-LAT:14.2725211535
+X-COORDINATES-LON:121.125698086
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

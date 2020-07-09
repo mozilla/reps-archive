@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@594
+CLASS:PUBLIC
+DTSTAMP:20200423T220331Z
+DTSTART:20130307T200000Z
+DTEND:20130307T220000Z
+LOCATION:Avenida Bush\, 2do Anillo\, Santa Cruz\, Bolivia
+SUMMARY:Firefox OS Conference
+DESCRIPTION:We will make a presentation of Firefox OS and a small workshop
+  of HTML5 and CSS3 to develop applications for Firefox OS to about 70 stud
+ ents from the career of computer engineering in UAGRM.
+URL:https://reps.mozilla.org/e/firefox-os-conference/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.7758649284
+X-COORDINATES-LON:-63.1973075867
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@334
+CLASS:PUBLIC
+DTSTAMP:20200407T165651Z
+DTSTART:20121101T063000Z
+DTEND:20121103T063000Z
+LOCATION:Hotel O\, Pune\, Pune\, India
+SUMMARY:ClubHACK 2012
+DESCRIPTION:ClubHack when started in 2007\, dreamt that people in India wi
+ ll wake up and start thinking information security seriously. We even deci
+ ded our motto as “Making Security a Common Sense”. After 5 long years\
+ , today we witness a lot of action around the country in this field\, medi
+ a as well as working professionals are actually looking towards security s
+ eriously\n\n“Empowering Innovation &amp; Leadership in Information Security
+ ”
+URL:https://reps.mozilla.org/e/clubhack-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:18.4796090558
+X-COORDINATES-LON:73.740234375
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

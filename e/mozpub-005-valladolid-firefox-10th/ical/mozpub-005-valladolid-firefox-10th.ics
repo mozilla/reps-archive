@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3102
+CLASS:PUBLIC
+DTSTAMP:20200423T183210Z
+DTSTART:20141113T190000Z
+DTEND:20141113T210000Z
+LOCATION:Pub Life\, calle arribas 14\, Valladolid\, Spain
+SUMMARY:MozPub #005 Valladolid - Firefox 10th
+DESCRIPTION:The local community in Valladolid will meet and celebrate the 
+ Firefox 10th anniversary.
+URL:https://reps.mozilla.org/e/mozpub-005-valladolid-firefox-10th/
+SEQUENCE:4
+X-COORDINATES-LAT:41.652290507
+X-COORDINATES-LON:-4.72351241107
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

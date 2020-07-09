@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3160
+CLASS:PUBLIC
+DTSTAMP:20200423T181517Z
+DTSTART:20141220T120000Z
+DTEND:20141220T180000Z
+LOCATION:UNAERP Campus Guarujá\, Guaruja\, Brazil
+SUMMARY:Webmaker Final Round 2014 - Baixada Santista
+DESCRIPTION:A great opportunity to share knowledge and learn about about t
+ he web.\n\nWe&#39;ll do a several of workshops during December\, take a look o
+ n the pad: https://etherpad.mozilla.org/final-round2014-webmaker-baixadasa
+ ntista
+URL:https://reps.mozilla.org/e/webmaker-final-round-2014-baixada-santista/
+SEQUENCE:3
+X-COORDINATES-LAT:-23.9769702792
+X-COORDINATES-LON:-46.2224947214
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

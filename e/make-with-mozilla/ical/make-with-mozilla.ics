@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5255
+CLASS:PUBLIC
+DTSTAMP:20200423T153809Z
+DTSTART:20160326T043000Z
+DTEND:20160326T103000Z
+LOCATION:J.J.Gardens\, Muthukadu\, India
+SUMMARY:Make With Mozilla
+DESCRIPTION:Make with Mozilla is an initiative to #teachtheweb and improve
+  web literacy in India. The event is a train the trainer event involving a
+ ttendees who are aware of Mozilla Learning Networks and are already a part
+  of a club. Curriculum building\, teaching and training are the key areas 
+ of focus for this event.
+URL:https://reps.mozilla.org/e/make-with-mozilla/
+SEQUENCE:2
+X-COORDINATES-LAT:12.8345510603
+X-COORDINATES-LON:80.2428588853
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

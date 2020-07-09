@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1581
+CLASS:PUBLIC
+DTSTAMP:20200407T175633Z
+DTSTART:20131214T050000Z
+DTEND:20131214T080000Z
+LOCATION:Harley Davidson Cafe\, Bekasi Square\, Bekasi\, Indonesia
+SUMMARY:#MozKopDar Bareng RAN
+DESCRIPTION:Fun gathering event of Mozillians with RAN (www.ranforyourlife
+ .com)\, one of Indonesian top music group. RAN will interact with Mozillia
+ ns\, their fanbase and the general public about Mozilla projects. This eve
+ nt will also promote Mozilla Indonesia Photo Contest and Batik Contest to 
+ the public. RAN will also perform an acoustic set of their hit songs.
+URL:https://reps.mozilla.org/e/mozkopdar-bareng-ran/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.25404424204
+X-COORDINATES-LON:106.989758491
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

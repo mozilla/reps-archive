@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1837
+CLASS:PUBLIC
+DTSTAMP:20200407T180311Z
+DTSTART:20140315T070000Z
+DTEND:20140315T160000Z
+LOCATION:Palas Mall\, Chopin Hall\, Iasi\, Romania
+SUMMARY:Open Source Iasi
+DESCRIPTION:An event about: Open Source meaning\, volunteering\, Mozilla&#39;s
+  projects\, Open Source communities\, importance of Open Source\, Open Sou
+ rce software &amp; hardware.
+URL:https://reps.mozilla.org/e/open-source-iasi/
+SEQUENCE:18
+X-COORDINATES-LAT:47.156452533
+X-COORDINATES-LON:27.587722778
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

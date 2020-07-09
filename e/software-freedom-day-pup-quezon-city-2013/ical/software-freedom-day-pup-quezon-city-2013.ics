@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1176
+CLASS:PUBLIC
+DTSTAMP:20200423T210705Z
+DTSTART:20130923T000000Z
+DTEND:20130923T080000Z
+LOCATION:PUP\, Commonwealth Ave.\,\, Quezon City\, Philippines
+SUMMARY:Software Freedom Day PUP-Quezon City 2013
+DESCRIPTION:Mozilla Philippines Community will be supporting annual celebr
+ ation for Software Freedom Day\, hosted by Polytechnic University of the P
+ hilippines\, Quezon City.
+URL:https://reps.mozilla.org/e/software-freedom-day-pup-quezon-city-2013/
+SEQUENCE:7
+X-COORDINATES-LAT:14.699816
+X-COORDINATES-LON:121.081977
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

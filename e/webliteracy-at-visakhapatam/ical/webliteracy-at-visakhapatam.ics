@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3619
+CLASS:PUBLIC
+DTSTAMP:20200423T171036Z
+DTSTART:20150621T183000Z
+DTEND:20150626T183000Z
+LOCATION:Visakhapatnam\, Visakhapatnam\, India
+SUMMARY:WebLiteracy at Visakhapatam
+DESCRIPTION:When a weak Wifi signal reminds us about the importance of Int
+ ernet\, there are millions of people who don&#39;t even know about its existen
+ ce\, \n           The motto of this event is to educate as many students a
+ s possible about the basics of Internet. Visakhapatnam is proclaimed as th
+ e best city of Andhra Pradesh\, but still there are hundreds of students w
+ ho are under privileged\, who don&#39;t have the access to Internet. We would 
+ move to them to teach the basics of Internet.
+URL:https://reps.mozilla.org/e/webliteracy-at-visakhapatam/
+SEQUENCE:8
+X-COORDINATES-LAT:17.7136962089
+X-COORDINATES-LON:83.1600666046
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

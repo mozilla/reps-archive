@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2621
+CLASS:PUBLIC
+DTSTAMP:20200423T192048Z
+DTSTART:20140801T063000Z
+DTEND:20140801T073000Z
+LOCATION:BVCOEW Engg College Pune\, Pune\, India
+SUMMARY:Open Web and Campus Talk at BVCOEW Pune
+DESCRIPTION:What is Open Web\, FOSS\, Introduction to Mozilla Foundation\,
+  Mission of Mozilla\, and Mozilla Products
+URL:https://reps.mozilla.org/e/open-web-and-campus-talk-at-bvcoew-pune/
+SEQUENCE:3
+X-COORDINATES-LAT:18.3740758201
+X-COORDINATES-LON:73.9867401123
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

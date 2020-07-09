@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1559
+CLASS:PUBLIC
+DTSTAMP:20200423T204716Z
+DTSTART:20131128T170000Z
+DTEND:20131128T190000Z
+LOCATION:Pécs\, Pécs\, Hungary
+SUMMARY:Pécs.Web Meetup\, Pécs\, Hungary
+DESCRIPTION:One of our Mobilizer\, András Ficher will have a presentation
+  here. I am going to support him as much as I can.\nThis is a monthly gath
+ ering of locale web developers.
+URL:https://reps.mozilla.org/e/pecs-web-meetup-pecs-hungary/
+SEQUENCE:7
+X-COORDINATES-LAT:46.0646159171
+X-COORDINATES-LON:18.2189941267
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

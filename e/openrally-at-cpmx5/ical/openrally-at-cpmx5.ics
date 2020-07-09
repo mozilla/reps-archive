@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2510
+CLASS:PUBLIC
+DTSTAMP:20200407T181540Z
+DTSTART:20140629T030000Z
+DTEND:20140629T173000Z
+LOCATION:TBD\, Guadalajara\, Mexico
+SUMMARY:#OpenRally at #CPMX5
+DESCRIPTION:Un rally para promover el trabajo en equipo\, la sana competen
+ cia y los valores y productos de Mozilla. 5 retos de diferentes grados de 
+ dificultad y que requiere de mucha destreza. El rally consta de: \n1.- “
+ Trivia Aurora”\n2.- “Reto #CPMoz”\n3.- “Firefox es mi amigo”\n4.
+ - “Puzzle B2G”\n5.- &#34;Arma la contraseña&#34;
+URL:https://reps.mozilla.org/e/openrally-at-cpmx5/
+SEQUENCE:2
+X-COORDINATES-LAT:20.652942902
+X-COORDINATES-LON:-103.390490055
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

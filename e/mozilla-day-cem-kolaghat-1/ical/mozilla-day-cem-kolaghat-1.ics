@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5188
+CLASS:PUBLIC
+DTSTAMP:20200407T181223Z
+DTSTART:20160501T043000Z
+DTEND:20160501T103000Z
+LOCATION:College of Engineering and Management. Kolaghat\, Kolaghat\, Indi
+ a
+SUMMARY:Mozilla Day\, CEM Kolaghat
+DESCRIPTION:A whole long day event to spread the mission of Mozilla and al
+ so its projects among the new people/contributors of College of Engineerin
+ g and Management\, Kolaghat. Best chances for newbies to learn and also ta
+ ke active participation in Mozilla as a volunteer in future.
+URL:https://reps.mozilla.org/e/mozilla-day-cem-kolaghat-1/
+SEQUENCE:2
+X-COORDINATES-LAT:22.4336656886
+X-COORDINATES-LON:87.8603120148
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

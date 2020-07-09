@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7938
+CLASS:PUBLIC
+DTSTAMP:20200423T085758Z
+DTSTART:20181012T023000Z
+DTEND:20181012T123000Z
+LOCATION:TBD\, Ahmedabad\, India
+SUMMARY:Mozilla Gujarat Community Meetup 2018
+DESCRIPTION:An event hosted by Mozilla Gujarat Community in India with peo
+ ple from different region based on gender diversity\, regional representat
+ ion\, activities and leadership in community. This event will mainly focus
+  on developing options for the direction\, vision\, strategy and roadmap o
+ f the Mozilla Gujarat community for the year 2018-19\, and undertaking det
+ ailed planning\, structure and workflow of the contribution pathways.
+URL:https://reps.mozilla.org/e/mozilla-gujarat-community-meetup-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:23.0375646842
+X-COORDINATES-LON:72.5274910923
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

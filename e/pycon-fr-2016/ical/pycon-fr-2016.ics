@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5867
+CLASS:PUBLIC
+DTSTAMP:20200407T175210Z
+DTSTART:20161013T070000Z
+DTEND:20161016T160000Z
+LOCATION:Incubateur de Télécom Bretagne à Rennes\, Cesson-Sévigné\, F
+ rance
+SUMMARY:PyCon-FR 2016
+DESCRIPTION:Since 2007\, thanks to the AFPy (&#34;Association Francophone Pyth
+ on&#34;)\,\nFrench-speaking users of the Python language are gathering togethe
+ r\nduring a few days to talk about their experiences in the field\, learn\
+ nfrom each other and show off new tricks.\n\nPyCon-fr ( http://www.pycon.f
+ r ) became a reference event to learn Python\,\nrefine one&#39;s skills\, meet
+  maintainers of popular libraries… and essentially\nmeet and have a plea
+ sant time together.\n\nMozilla is a platinum sponsor of the event
+URL:https://reps.mozilla.org/e/pycon-fr-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:48.1136205379
+X-COORDINATES-LON:-1.60655736923
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

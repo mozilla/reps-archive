@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8328
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20190109T100000Z
+DTEND:20190109T110000Z
+LOCATION:Mauritius Institute of Health\, PowderMills\, Mauritius
+SUMMARY:Introducing Firefox to Nurses
+DESCRIPTION:Firefox will be the main browser for the demo of a the Virtual
+  Health Library Mauritius. Firefox is recommended to browse through this p
+ ortal. This is an opportunity for me to showcase Firefox together with its
+  features and on top to spread the word.
+URL:https://reps.mozilla.org/e/introducing-firefox-to-nurses/
+SEQUENCE:0
+X-COORDINATES-LAT:-20.099872871
+X-COORDINATES-LON:57.570319174
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

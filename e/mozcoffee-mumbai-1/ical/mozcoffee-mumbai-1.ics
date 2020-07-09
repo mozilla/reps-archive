@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3493
+CLASS:PUBLIC
+DTSTAMP:20200407T175609Z
+DTSTART:20150301T050000Z
+DTEND:20150301T063000Z
+LOCATION:Cafe Coffee day\, Jheel Dharshan Building\, Powai\, Opposite Powa
+ i Lake Chandivali Mumbai\, Maharashtra 400076\, Mumbai\, India
+SUMMARY:MozCoffee Mumbai
+DESCRIPTION:An informal meetup of Mozillians\, around the city\, coming to
+ gether and discussing plans to promote Mozilla&#39;s mission and the Mozilla M
+ umbai Community in 2015.
+URL:https://reps.mozilla.org/e/mozcoffee-mumbai-1/
+SEQUENCE:4
+X-COORDINATES-LAT:19.1195839635
+X-COORDINATES-LON:72.9013688564
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

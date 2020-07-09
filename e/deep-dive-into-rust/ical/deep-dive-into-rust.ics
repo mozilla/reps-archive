@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7670
+CLASS:PUBLIC
+DTSTAMP:20200423T092237Z
+DTSTART:20180615T043000Z
+DTEND:20180615T113000Z
+LOCATION:CMR\, Hyderabad\, Hyderabad\, India
+SUMMARY:Deep Dive into Rust
+DESCRIPTION:A walk through of Rust inorder to showcase the features of the
+   Most Loved\, Dreaded\, and Wanted Language according to Stack Overflow.
+URL:https://reps.mozilla.org/e/deep-dive-into-rust/
+SEQUENCE:3
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

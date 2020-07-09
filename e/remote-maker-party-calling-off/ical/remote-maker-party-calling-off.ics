@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2833
+CLASS:PUBLIC
+DTSTAMP:20200423T185921Z
+DTSTART:20140915T090000Z
+DTEND:20140915T143000Z
+LOCATION:Bhopal\, Bhopal\, India
+SUMMARY:Remote Maker Party Calling Off
+DESCRIPTION:This Event is A great Way to call Our Web Builders to make som
+ e of Awesome things over Web. We are calling this Remote maker party.
+URL:https://reps.mozilla.org/e/remote-maker-party-calling-off/
+SEQUENCE:2
+X-COORDINATES-LAT:23.2602199367
+X-COORDINATES-LON:77.4274062971
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

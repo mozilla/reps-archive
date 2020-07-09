@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6965
+CLASS:PUBLIC
+DTSTAMP:20200423T100725Z
+DTSTART:20180111T043000Z
+DTEND:20180111T123000Z
+LOCATION:SASTRA University\, Kumbakonam\, India
+SUMMARY:Activating Mozilla Workshop
+DESCRIPTION:This is a one day workshop which will be held in SASTRA Univer
+ sity\, Kumbakonam for all the passionate engineering students\, who are wi
+ lling to contribute to Mozilla in various functional areas. This workshop 
+ is for upgrading their skill sets to contribute.
+URL:https://reps.mozilla.org/e/activating-mozilla-workshop-1/
+SEQUENCE:3
+X-COORDINATES-LAT:10.958721
+X-COORDINATES-LON:79.3859751
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

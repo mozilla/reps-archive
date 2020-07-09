@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7676
+CLASS:PUBLIC
+DTSTAMP:20200407T174234Z
+DTSTART:20180414T003000Z
+DTEND:20180414T120000Z
+LOCATION:The University of Da Nang\, Da Nang\, Vietnam
+SUMMARY:DevDay Da Nang 2018
+DESCRIPTION:Described as the most interactive and anticipated IT event in 
+ Da Nang\, DevDay Da Nang has grown up rapidly since its first launch in 20
+ 15 to around 4500 people and thousands of online viewers. Gathering people
+  from all levels of the IT sector including IT students\, software enginee
+ rs\, managers\, educators and entrepreneurs representing diverse perspecti
+ ves\, DevDay has developed a unique and vibrant community in Da Nang.
+URL:https://reps.mozilla.org/e/devday-da-nang-2018/
+SEQUENCE:0
+X-COORDINATES-LAT:16.0530979369
+X-COORDINATES-LON:108.202073872
+X-COUNTRY-CODE:vn
+END:VEVENT
+
+END:VCALENDAR

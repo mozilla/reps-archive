@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5159
+CLASS:PUBLIC
+DTSTAMP:20200423T151818Z
+DTSTART:20160624T080000Z
+DTEND:20160626T160000Z
+LOCATION:palermo\, Palermo\, Italy
+SUMMARY:ConfSL 2016
+DESCRIPTION:The Italian Conference on Free Software is a travelling annual
+  event which has the primary objective to make the point about the state o
+ f free software in Italy.
+URL:https://reps.mozilla.org/e/confsl/
+SEQUENCE:9
+X-COORDINATES-LAT:38.1047428802
+X-COORDINATES-LON:13.3491683002
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

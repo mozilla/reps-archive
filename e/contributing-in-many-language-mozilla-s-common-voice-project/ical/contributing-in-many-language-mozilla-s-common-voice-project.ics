@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8436
+CLASS:PUBLIC
+DTSTAMP:20200423T083817Z
+DTSTART:20190316T120500Z
+DTEND:20190316T130000Z
+LOCATION:FOSSASIA\, Eunos Road 8\, Lifelong Learning Institute\, Singapore
+ \, Singapore\, Singapore
+SUMMARY:Contributing in many language: Mozilla&#39;s Common Voice Project
+DESCRIPTION:I will present Common Voice\, Mozilla&#39;s crowdsourcing project 
+ to create resources for speech recognition in multiple languages. Particip
+ ants will also be able to listen to recordings of others who have contribu
+ ted their voices and evaluate them using the project interface (this is a 
+ good way of engaging with shyer participants).
+URL:https://reps.mozilla.org/e/contributing-in-many-language-mozilla-s-com
+ mon-voice-project/
+SEQUENCE:1
+X-COORDINATES-LAT:23.8519311
+X-COORDINATES-LON:90.2689825
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

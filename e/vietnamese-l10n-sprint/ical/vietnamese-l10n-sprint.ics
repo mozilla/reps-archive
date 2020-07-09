@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@167
+CLASS:PUBLIC
+DTSTAMP:20200407T175946Z
+DTSTART:20120919T020000Z
+DTEND:20120919T050000Z
+LOCATION:Community Space\, Hanoi\, Hanoi\, Vietnam
+SUMMARY:Vietnamese L10N Sprint 
+DESCRIPTION:Localization sprint to translate Firefox Vietnamese 
+URL:https://reps.mozilla.org/e/vietnamese-l10n-sprint/
+SEQUENCE:0
+X-COORDINATES-LAT:21.6982654969
+X-COORDINATES-LON:106.083984375
+X-COUNTRY-CODE:vn
+END:VEVENT
+
+END:VCALENDAR

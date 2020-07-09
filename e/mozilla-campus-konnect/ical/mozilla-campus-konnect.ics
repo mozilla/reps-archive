@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@411
+CLASS:PUBLIC
+DTSTAMP:20200407T175249Z
+DTSTART:20130105T033000Z
+DTEND:20130106T113000Z
+LOCATION:Bengal Engineering &amp; Science University\, Shibpur\, Howrah\, Indi
+ a
+SUMMARY:Mozilla Campus Konnect [MozTI@BESU]
+DESCRIPTION:This was a two day event comprising of a hands-on workshop on 
+ Firefox OS\, Mozilla Marketplace Apps and Webmaker Tools. \n\n\nMozilla Re
+ presentatives and volunteers from all around the country are expected to b
+ e present during the event.\n\n\nBESU being a premier engineering college 
+ in India a large number of students are expected to join the workshop. 
+URL:https://reps.mozilla.org/e/mozilla-campus-konnect/
+SEQUENCE:0
+X-COORDINATES-LAT:22.5549309679
+X-COORDINATES-LON:88.3062601089
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

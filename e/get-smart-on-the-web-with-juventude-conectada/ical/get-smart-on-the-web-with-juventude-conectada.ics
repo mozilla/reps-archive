@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5551
+CLASS:PUBLIC
+DTSTAMP:20200423T150947Z
+DTSTART:20160725T120000Z
+DTEND:20160726T200000Z
+LOCATION:Programa Juventude Conectada Office\, Campinas\, Brazil
+SUMMARY:Get Smart On the Web with Juventude Conectada
+DESCRIPTION:We will develop two full days of activities about tracking\, c
+ ybersecurity and government surveillance\, based on tips from Mozilla poli
+ cy peeps and programmers.
+URL:https://reps.mozilla.org/e/get-smart-on-the-web-with-juventude-conecta
+ da/
+SEQUENCE:15
+X-COORDINATES-LAT:-22.9060278513
+X-COORDINATES-LON:-47.0590596192
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

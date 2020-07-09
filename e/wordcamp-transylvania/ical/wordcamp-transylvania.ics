@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@863
+CLASS:PUBLIC
+DTSTAMP:20200423T213818Z
+DTSTART:20130601T050000Z
+DTEND:20130601T150000Z
+LOCATION:Universitatea Tehnica din Cluj-Napoca\, Cluj-Napoca\, Romania
+SUMMARY:WordCamp Transylvania
+DESCRIPTION:People with different background\, but with the same interest 
+ (WordPress) from the area – and beyond – will take part in the event.\
+ n\nThis year’s WordCamp event in Romania will take place in Cluj-Napoca\
+ , the unofficial capital of Transylvania and\, also the city which hosts 
+ – in the same period – the acclaimed eastern film festival – TIFF (T
+ ransylvania Film Festival).
+URL:https://reps.mozilla.org/e/wordcamp-transylvania/
+SEQUENCE:4
+X-COORDINATES-LAT:46.7734515062
+X-COORDINATES-LON:23.5875606537
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

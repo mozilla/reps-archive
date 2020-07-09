@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@352
+CLASS:PUBLIC
+DTSTAMP:20200423T222935Z
+DTSTART:20121229T010000Z
+DTEND:20121229T110000Z
+LOCATION:The Coffee Bean &amp; Tea Leaf (CBTL) Two E-Com Center\, Pasay City\,
+  Philippines
+SUMMARY:Tagalog Firefox Translation Marathon
+DESCRIPTION:Will finish the translation of Firefox to Tagalog just before 
+ 2012 ends. \n\nArky will be in town for the event.\n\nData from the Narro 
+ has been migrated to the Pootle Server recently.
+URL:https://reps.mozilla.org/e/tagalog-firefox-translation-marathon/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5390559364
+X-COORDINATES-LON:120.981402397
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5738
+CLASS:PUBLIC
+DTSTAMP:20200407T180521Z
+DTSTART:20160909T180000Z
+DTEND:20170227T180000Z
+LOCATION:Bangladesh\, Dhaka\, Sylhet\, Rajshahi\, Chittagong\, Barishal\, 
+ Bangladesh
+SUMMARY:Mozilla QA : Contributor Engaging Tour\, Bangladesh
+DESCRIPTION:A series of event to recruit more contributors around QA in Ba
+ ngladesh.
+URL:https://reps.mozilla.org/e/mozilla-qa-contributor-engaging-tour-bangla
+ desh/
+SEQUENCE:4
+X-COORDINATES-LAT:24.3395894694
+X-COORDINATES-LON:89.9045562744
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

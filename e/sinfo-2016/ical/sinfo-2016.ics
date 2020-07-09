@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5145
+CLASS:PUBLIC
+DTSTAMP:20200407T183518Z
+DTSTART:20160222T090000Z
+DTEND:20160226T000000Z
+LOCATION:Instituto Superior Técnico\, Lisbon\, Portugal
+SUMMARY:SINFO 2016
+DESCRIPTION:SINFO is a non-profit\, college student\, organization respons
+ ible for organizing one of the biggest Tech conferences in Portugal. It&#39;s 
+ an annual\, non-profit event whose goal is to create a suitable\, tech fri
+ endly environment to learn\, share and explore through keynotes\, workshop
+ s\, presentations
+URL:https://reps.mozilla.org/e/sinfo-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:38.7368561012
+X-COORDINATES-LON:-9.13814328611
+X-COUNTRY-CODE:pt
+END:VEVENT
+
+END:VCALENDAR

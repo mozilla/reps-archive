@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7326
+CLASS:PUBLIC
+DTSTAMP:20200423T101012Z
+DTSTART:20171222T080000Z
+DTEND:20171222T110000Z
+LOCATION:Sandip Foundation&#39;s\, Sandip Institute Of Engineering &amp; Managemen
+ t\, Trambakeshwar Road\, Mahiravni\, Maharashtra 422213\, Nashik\, India
+SUMMARY:Basic hands on workshop on HTML CSS and JavaScript
+DESCRIPTION:The agenda of the event is to make the new developer aware abo
+ ut the web development tools.
+URL:https://reps.mozilla.org/e/basic-hands-on-workshop-on-html-css-and-jav
+ ascript/
+SEQUENCE:0
+X-COORDINATES-LAT:19.9864541197
+X-COORDINATES-LON:73.7560129148
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8063
+CLASS:PUBLIC
+DTSTAMP:20200423T085343Z
+DTSTART:20181103T053000Z
+DTEND:20181104T083000Z
+LOCATION:IIT Kanpur\, Kanpur\, India
+SUMMARY:Rust Workshop and Hackathon
+DESCRIPTION:Rust is a systems programming language sponsored by Mozilla wh
+ ich describes it as a &#34;safe\, concurrent\, practical language&#34;\, supportin
+ g functional and imperative-procedural paradigms.\n\nThis event would be a
+  workshop followed by the hackathon.
+URL:https://reps.mozilla.org/e/rust-workshop-and-hackathon/
+SEQUENCE:6
+X-COORDINATES-LAT:26.4603897051
+X-COORDINATES-LON:80.3256611817
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

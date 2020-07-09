@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2038
+CLASS:PUBLIC
+DTSTAMP:20200407T175648Z
+DTSTART:20140516T150000Z
+DTEND:20140516T180000Z
+LOCATION:Pizzeria Ali Baba (str. 1 Decembrie 1918\, nr. 14)\, Carei\, Roma
+ nia
+SUMMARY:MozCoffee Carei - Open Volunteer Meeting
+DESCRIPTION:On the occasion of the new Firefox 29 official release we will
+  organize the first MozCoffee held in Carei to celebrate and promote volun
+ teering for Mozilla.\n\nThe event is opened to anyone interested joining a
+ nd learning about volunteers and Mozilla. The event will consist of demons
+ trations and talks about Mozilla\, Firefox\, Firefox OS.
+URL:https://reps.mozilla.org/e/mozcoffee-carei-open-volunteer-meeting/
+SEQUENCE:34
+X-COORDINATES-LAT:47.6853037742
+X-COORDINATES-LON:22.4672482608
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6887
+CLASS:PUBLIC
+DTSTAMP:20200407T174607Z
+DTSTART:20170810T220000Z
+DTEND:20170811T010000Z
+LOCATION:Rua da passagem\, 123 - Botafogo\, Rio de Janeiro\, Brazil
+SUMMARY:Rio.JS
+DESCRIPTION:Meetup to discuss about Javascript with local developers from 
+ Rio de Janeiro
+URL:https://reps.mozilla.org/e/rio-js/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.9538892481
+X-COORDINATES-LON:-43.1812312604
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

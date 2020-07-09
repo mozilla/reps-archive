@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6639
+CLASS:PUBLIC
+DTSTAMP:20200407T174159Z
+DTSTART:20170622T220000Z
+DTEND:20170623T010000Z
+LOCATION:Telmex Hub\, Delegacion Cuauhtemoc\, Mexico
+SUMMARY:Webinar: Experiences VR with A-Frame. Session 2
+DESCRIPTION:Would you like to do a Virtual Reality experience? This is the
+  webinar for you!\n\nA-Frame is a tool that allows you to make VR experien
+ ces for computers\, Android and iOS devices\, and Oculus Rift very easily 
+ using web technologies.\n\nCome and learn more about A-Frame and webVR in 
+ this webinar!\n\nIn this session you will know:\n\n     Advanced visual in
+ spector handling\n     My first demo using the inspector\n     Advanced us
+ e of the Aframe.io library
+URL:https://reps.mozilla.org/e/webinar-experiences-vr-with-a-frame-session
+ -2/
+SEQUENCE:0
+X-COORDINATES-LAT:19.360956448
+X-COORDINATES-LON:-99.1218727829
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

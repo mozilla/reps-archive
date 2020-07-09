@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2674
+CLASS:PUBLIC
+DTSTAMP:20200423T191036Z
+DTSTART:20140824T043000Z
+DTEND:20140824T113000Z
+LOCATION:Institute of Technical Education &amp; Research\, Bhubaneswar\, India
+SUMMARY:Maker Party Bhubaneswar
+DESCRIPTION:First major Maker Party event at Bhubaneswar aimed at fosterin
+ g the spirit of Creating\, Learning and Sharing. Since this event would be
+  at one of the biggest engineering college in the region\, it aims at paln
+ ting the seeds for a vibrant and active Mozilla community for the future
+URL:https://reps.mozilla.org/e/maker-party-bhubaneswar-1/
+SEQUENCE:6
+X-COORDINATES-LAT:20.2608215808
+X-COORDINATES-LON:85.8315925591
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1530
+CLASS:PUBLIC
+DTSTAMP:20200423T203906Z
+DTSTART:20131220T230000Z
+DTEND:20131223T090000Z
+LOCATION:YMCA HALL\, Alappuzha\, India
+SUMMARY:Wiki Sangamolsavam 2013
+DESCRIPTION:Wiki Sangamolsavam 2013 is the second annual gathering of user
+ s and well wishers of Malayalam Wikimedia projects.\n\nWiki Vidyarthi Sang
+ amam (a conference of students interested in Wikimedia)\nWiki Yuva Sangama
+ m (a meetup of youth interested in Wikimedia) \nA computer training sessio
+ n for the differently abled\nA digitization drive to digitize the informat
+ ion regarding wetlands in Kerala\nWiki JalaYathra and Exhibitions related 
+ to Free and Open source and knowledge dissemination techniques.
+URL:https://reps.mozilla.org/e/wiki-sangamolsavam-2013/
+SEQUENCE:20
+X-COORDINATES-LAT:9.50115533085
+X-COORDINATES-LON:76.338926442
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

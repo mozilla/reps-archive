@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2912
+CLASS:PUBLIC
+DTSTAMP:20200407T183444Z
+DTSTART:20141011T003000Z
+DTEND:20141012T100000Z
+LOCATION:Humanities and Social Science Building (HSSB)\, Academia Sinica\,
+  Taipei City\, Taiwan
+SUMMARY:Mozilla booth at JSDC 2014
+DESCRIPTION:JSDC is JavaScript Developer Conference\, it is created by Jav
+ aScript enthusiasms. The purpose of JSDC is to help developers know new te
+ chnologies and also to improve their skills.\nMozilla will have a booth at
+  JSDC during the 2 days\, and also a  speaker at JSDC&#39;s day 1 session.\nht
+ tp://2014.jsdc.tw/schedule.html
+URL:https://reps.mozilla.org/e/host-a-mozilla-booth-at-jsdc-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0582332099
+X-COORDINATES-LON:121.589126587
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

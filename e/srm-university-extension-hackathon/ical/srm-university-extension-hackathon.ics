@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6953
+CLASS:PUBLIC
+DTSTAMP:20200407T171520Z
+DTSTART:20171007T033000Z
+DTEND:20171008T123000Z
+LOCATION:SRM University Katangulathur\, Chennai\, India
+SUMMARY:SRM University Extension Hackathon
+DESCRIPTION:Extension Hackathon event
+URL:https://reps.mozilla.org/e/srm-university-extension-hackathon/
+SEQUENCE:4
+X-COORDINATES-LAT:13.0097618736
+X-COORDINATES-LON:80.2108969689
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

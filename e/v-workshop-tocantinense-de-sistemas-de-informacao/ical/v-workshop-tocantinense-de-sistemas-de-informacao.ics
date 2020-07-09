@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1978
+CLASS:PUBLIC
+DTSTAMP:20200423T200505Z
+DTSTART:20140410T220000Z
+DTEND:20140413T010000Z
+LOCATION:Faculdade Católica do Tocantins\, Palmas\, Brazil
+SUMMARY:V Workshop Tocantinense de Sistemas de Informação
+DESCRIPTION:The main goal of the event is to integrate teachers\, students
+  and professionals of the area\, to grow and stimulate local research. Wor
+ kshops and talks will be presented to students and professionals of any in
+ stitution.\n\nMozilla participation will include a talk\, a hands on works
+ hop and a lesson.
+URL:https://reps.mozilla.org/e/v-workshop-tocantinense-de-sistemas-de-info
+ rmacao/
+SEQUENCE:7
+X-COORDINATES-LAT:-10.2724131729
+X-COORDINATES-LON:-48.3263626113
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

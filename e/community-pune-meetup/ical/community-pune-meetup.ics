@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3894
+CLASS:PUBLIC
+DTSTAMP:20200407T175644Z
+DTSTART:20150620T043000Z
+DTEND:20150620T123000Z
+LOCATION:Red Hat\, Pune\, Pune\, India
+SUMMARY:Community Pune meetup
+DESCRIPTION:The Community Pune meetup is an annual meetup for all Pune (an
+ d other nearby regions) Mozillians to be able to come together\, recognize
+  and appreciate the work each one of us is putting in for this community a
+ nd for Mozilla as a whole and also plan out our activities for 2015 in a w
+ ay that our efforts can be in sync with Mozilla&#39;s mission for 2015.
+URL:https://reps.mozilla.org/e/community-pune-meetup/
+SEQUENCE:6
+X-COORDINATES-LAT:18.5111108306
+X-COORDINATES-LON:73.857563
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

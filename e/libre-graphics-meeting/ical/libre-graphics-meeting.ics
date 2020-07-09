@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@424
+CLASS:PUBLIC
+DTSTAMP:20200423T215435Z
+DTSTART:20130410T120000Z
+DTEND:20130413T130000Z
+LOCATION:Medialab Prado\, Madrid\, Spain
+SUMMARY:Libre Graphics Meeting
+DESCRIPTION:annual conference for Open Source graphics and multimedia tool
+ s and creative work
+URL:https://reps.mozilla.org/e/libre-graphics-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:40.392352
+X-COORDINATES-LON:-3.696966
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

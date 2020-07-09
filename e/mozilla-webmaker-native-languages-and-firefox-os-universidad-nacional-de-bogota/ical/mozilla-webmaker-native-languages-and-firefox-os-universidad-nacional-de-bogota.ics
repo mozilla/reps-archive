@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3027
+CLASS:PUBLIC
+DTSTAMP:20200423T182405Z
+DTSTART:20141128T140000Z
+DTEND:20141129T140000Z
+LOCATION:Instituto Caro y Cuervo. Calle 10 # 4-69\, Bogotá\, Colombia.\, 
+ Bogota\, Colombia
+SUMMARY:Mozilla webmaker\, Native languages and  firefox OS: Universidad N
+ acional de Bogotá
+DESCRIPTION:Our Local community is organising a Mozilla Colombia Local Eve
+ nt in the most important University in Colombia and Caro y cuervo Institut
+ e\, we want to talk about Colombian Native languages and technologies\, ou
+ r idea is to start a project to localize the most important native languag
+ e in our country: NASA.\n\nWe also want to spread the mozilla mission and 
+ projects\, for this reason we will have 2 workshops (Webmaker and Firefox 
+ OS).
+URL:https://reps.mozilla.org/e/mozilla-webmaker-native-languages-and-firef
+ ox-os-universidad-nacional-de-bogota/
+SEQUENCE:9
+X-COORDINATES-LAT:4.58554739734
+X-COORDINATES-LON:-74.0548682213
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

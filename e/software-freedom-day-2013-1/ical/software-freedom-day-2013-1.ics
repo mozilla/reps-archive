@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1322
+CLASS:PUBLIC
+DTSTAMP:20200407T175531Z
+DTSTART:20130921T090000Z
+DTEND:20130921T180000Z
+LOCATION:Agence Universitaire de la Francophonie - Bureau de l&#39;afrique de 
+ l&#39;ouest\, Dakar\, Senegal
+SUMMARY:Software Freedom Day 2013
+DESCRIPTION:The Software Freedom Day (SFD) is a celebration in the world o
+ f Free and Open Source Software (FOSS). Its aim is to inform and educate t
+ he public around the world about the benefits of using open source softwar
+ e in all spheres of the economy and society. This year\, 2013\, it held on
+  Saturday September 21\, and this in most major cities across the world.
+URL:https://reps.mozilla.org/e/software-freedom-day-2013-1/
+SEQUENCE:2
+X-COORDINATES-LAT:14.679511
+X-COORDINATES-LON:-17.467589
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

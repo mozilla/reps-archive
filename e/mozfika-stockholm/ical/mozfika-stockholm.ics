@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1815
+CLASS:PUBLIC
+DTSTAMP:20200423T202743Z
+DTSTART:20140212T153000Z
+DTEND:20140212T173000Z
+LOCATION:Drop Caffee\, Wollmar Yxkullsgatan 10\, Stockholm\, Sweden
+SUMMARY:MozFika Stockholm
+DESCRIPTION:We will meet for fika at Drop Cafe and discuss how we can incr
+ ease Mozilla&#39;s presence in Sweden\, closed stop with the subway is Maria T
+ orget.\n\nSoumya Kanti Chakraborty (@soumyaC) are organizing the event and
+  are handling the contacts with the venue.
+URL:https://reps.mozilla.org/e/mozfika-stockholm/
+SEQUENCE:7
+X-COORDINATES-LAT:59.3163769004
+X-COORDINATES-LON:18.0600464335
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

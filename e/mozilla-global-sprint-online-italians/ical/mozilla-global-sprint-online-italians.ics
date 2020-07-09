@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6699
+CLASS:PUBLIC
+DTSTAMP:20200423T110508Z
+DTSTART:20170601T080000Z
+DTEND:20170602T160000Z
+LOCATION:TBD\, Quartu Sant&#39;Elena\, Italy
+SUMMARY:Mozilla Global Sprint Online - Italians
+DESCRIPTION:Mozilla’s Global Sprint is a fun\, fast-paced and two-day co
+ llaborative event to hack and build projects for a healthy Internet. A div
+ erse network of scientists\, educators\, artists\, engineers and others co
+ me together in person and online to innovate in the open.
+URL:https://reps.mozilla.org/e/mozilla-global-sprint-online-italians/
+SEQUENCE:1
+X-COORDINATES-LAT:39.2384934442
+X-COORDINATES-LON:9.18444441631
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

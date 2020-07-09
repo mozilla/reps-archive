@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@128
+CLASS:PUBLIC
+DTSTAMP:20200423T225939Z
+DTSTART:20120922T070000Z
+DTEND:20120922T120000Z
+LOCATION:AIT\, Athens\, Greece
+SUMMARY:Let&#39;s make a Funny News Webpage
+DESCRIPTION:HackJam for the Mozilla Summer Code Party
+URL:https://reps.mozilla.org/e/lets-make-a-funny-news-webpage/
+SEQUENCE:0
+X-COORDINATES-LAT:37.944096
+X-COORDINATES-LON:23.864064
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

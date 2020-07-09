@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1590
+CLASS:PUBLIC
+DTSTAMP:20200423T204224Z
+DTSTART:20131207T210000Z
+DTEND:20131208T010000Z
+LOCATION:2do Anillo Santos Dumond\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:MozCoffee - End of Year
+DESCRIPTION:This MozCoffe where we will talk and share many experiences an
+ d knowledges about the world Mozilla for our bolivian&#39;s user. Share tips o
+ f Firefox\, Firefox OS and Developer\, but mostly about our goals and task
+  for the next year and how attendees can collaborate with Mozilla Bolivia\
+ , also we will to show to all the participants about the Geeksphone and th
+ e new version of Firefox OS.
+URL:https://reps.mozilla.org/e/mozcoffee-end-of-year/
+SEQUENCE:4
+X-COORDINATES-LAT:-17.7986780373
+X-COORDINATES-LON:-63.1796851159
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

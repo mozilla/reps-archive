@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6050
+CLASS:PUBLIC
+DTSTAMP:20200407T183725Z
+DTSTART:20161029T070000Z
+DTEND:20161029T110000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Inter-Connected Community Spaces Session at MozFest 2016 -- MANILA
+DESCRIPTION:Mozilla Festival (or simply MozFest) is the world’s leading 
+ festival for the open internet movement. Know more about MozFest in this n
+ ote from Mark Surman\, Mozilla’s Executive Director: https://mozillafest
+ ival.org/about
+URL:https://reps.mozilla.org/e/inter-connected-community-spaces-session-at
+ -mozfest-2016-manila/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5476097666
+X-COORDINATES-LON:121.016057968
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

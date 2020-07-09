@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@743
+CLASS:PUBLIC
+DTSTAMP:20200407T175100Z
+DTSTART:20130817T130000Z
+DTEND:20130819T010000Z
+LOCATION:Mozilla Office\, Toronto\, Canada
+SUMMARY:North America Reps Meetup
+DESCRIPTION:Since the inception of the Mozilla Reps program\, there have n
+ umerous events that brought Reps together to foster community and collabor
+ ation. Among them were the MozCamps in Europe and Asia\, local regional me
+ etups\, and country-level meetings. \nThe North America Reps meetup aims t
+ o follow what the previous events have started and tailor a plan of action
+  that is relevant to North American communities.
+URL:https://reps.mozilla.org/e/north-america-reps-meetup/
+SEQUENCE:5
+X-COORDINATES-LAT:43.647523
+X-COORDINATES-LON:-79.394025
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

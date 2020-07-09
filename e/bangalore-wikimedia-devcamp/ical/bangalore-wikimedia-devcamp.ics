@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@280
+CLASS:PUBLIC
+DTSTAMP:20200407T165852Z
+DTSTART:20121109T063000Z
+DTEND:20121111T063000Z
+LOCATION:IIM\, Bangalore\, India
+SUMMARY:Bangalore Wikimedia DevCamp
+DESCRIPTION:A hackathon for Wikimedians\, mostly to improve i18n support i
+ n Wikimedia projects and to develop Wikipedia mobile apps.
+URL:https://reps.mozilla.org/e/bangalore-wikimedia-devcamp/
+SEQUENCE:0
+X-COORDINATES-LAT:12.895694
+X-COORDINATES-LON:77.602278
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

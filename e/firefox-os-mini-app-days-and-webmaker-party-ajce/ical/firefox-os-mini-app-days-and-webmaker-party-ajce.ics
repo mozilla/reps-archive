@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2008
+CLASS:PUBLIC
+DTSTAMP:20200423T200726Z
+DTSTART:20140405T043000Z
+DTEND:20140405T103000Z
+LOCATION:Amal Jyothi College of Engineering\, Kanjirapally\, India
+SUMMARY:Firefox OS Mini App Days and Webmaker Party @AJCE
+DESCRIPTION:A full day workshop which is divided into two separate portion
+  ie Firefox OS Mini App day which focusses on the latest revolutionary Fir
+ efox OS-helping students get started with App Development and also Webmake
+ r Party which focusses on students getting them familiarized with Thimble 
+ hacking\, X-ray goggles\, Popcorn maker video making.
+URL:https://reps.mozilla.org/e/firefox-os-mini-app-days-and-webmaker-party
+ -ajce/
+SEQUENCE:3
+X-COORDINATES-LAT:9.80983022727
+X-COORDINATES-LON:76.6918716207
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

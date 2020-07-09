@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1327
+CLASS:PUBLIC
+DTSTAMP:20200423T210644Z
+DTSTART:20130924T043000Z
+DTEND:20130924T113000Z
+LOCATION:Symbiosis Institute of Computer Studies and Research\, Pune\, Pun
+ e\, India
+SUMMARY:MDN Doc Sprint &amp; Firefox OS demo
+DESCRIPTION:Ali Spivak\, Mozilla Developer Network(MDN) Product Manager wi
+ ll be giving a talk on about MDN &amp; how to contribute to MDN\, edit docs\, 
+ etc.\nAttendees will learn about MDN &amp; help us create demos\, code samples
+ \, documentation\, or help edit or translate\, according to their interest
+ s. It&#39;s a fairly unstructured\, fun and friendly event.\nThe event will al
+ so be the venue for the first official demo of the Firefox OS phone in Pun
+ e\, India.
+URL:https://reps.mozilla.org/e/mdn-doc-sprint-firefox-os-demo/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5659986144
+X-COORDINATES-LON:73.8121122122
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

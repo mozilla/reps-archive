@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2426
+CLASS:PUBLIC
+DTSTAMP:20200407T181624Z
+DTSTART:20140702T110000Z
+DTEND:20140706T160000Z
+LOCATION:Sopron\, Sopron\, Hungary
+SUMMARY:Volt Festival 2014 CANCELLED
+DESCRIPTION:This is a festival where we can reach youngsters.\n* We are go
+ ing to promote Firefox (desktop\, mobil\, OS) and other free softwares\n* 
+ Promote webmaker and popcorn maker\n* Safe internet usage\n* Get feedbacks
+ \n* Recuit new members\, student ambassadors
+URL:https://reps.mozilla.org/e/volt-festival/
+SEQUENCE:26
+X-COORDINATES-LAT:47.693799659
+X-COORDINATES-LON:16.6345481761
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

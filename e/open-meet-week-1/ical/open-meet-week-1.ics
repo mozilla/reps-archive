@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8284
+CLASS:PUBLIC
+DTSTAMP:20200407T174121Z
+DTSTART:20181208T051500Z
+DTEND:20181208T101500Z
+LOCATION:Bajra Technologies\, Kathmandu\, Nepal
+SUMMARY:Open Meet Week #1
+DESCRIPTION:Meeting of all the open system enthusiast.\n\nAgendas:\n\n- Di
+ scussion on types of events and activities to be carried out in coming day
+ s\n\n- Discussion on the benefits of involvement in open source communitie
+ s\n\n- Briefing about Common Voice Project and discussion on strategies fo
+ r Nepali sentence collection\n\n- Using Telegram Bot API for projects and 
+ brainstorming on ideas to use those API to build stuff and automate works.
+URL:https://reps.mozilla.org/e/open-meet-week-1/
+SEQUENCE:5
+X-COORDINATES-LAT:27.6783392552
+X-COORDINATES-LON:85.3487548605
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

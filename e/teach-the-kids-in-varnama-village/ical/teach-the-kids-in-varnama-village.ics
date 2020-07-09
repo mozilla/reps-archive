@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5272
+CLASS:PUBLIC
+DTSTAMP:20200423T153948Z
+DTSTART:20160321T023000Z
+DTEND:20160321T063000Z
+LOCATION:Varnama School\, Varnama\, India
+SUMMARY:Teach the Kids in Varnama village
+DESCRIPTION:The event focuses on teaching the Varnama school kids about ba
+ sics of computers\, internet and the Firefox web browser. The target audie
+ nce will be from 6th to 9th class.
+URL:https://reps.mozilla.org/e/teach-the-kids-in-varnama-village/
+SEQUENCE:3
+X-COORDINATES-LAT:22.1720919314
+X-COORDINATES-LON:73.1777572492
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

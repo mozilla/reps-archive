@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6228
+CLASS:PUBLIC
+DTSTAMP:20200407T180523Z
+DTSTART:20170310T040000Z
+DTEND:20170310T150000Z
+LOCATION:Comilla University\, Comilla\, Bangladesh
+SUMMARY:Mozilla Bangladesh tour in Comilla
+DESCRIPTION:Comilla is the second-largest city of eastern Bangladesh and 1
+ 00 km away from capital city Dhaka and is one of the three oldest cities i
+ n Bangladesh. The objective of this event is to spread Mozilla mission\, p
+ romote Mozilla products and create awareness about Open Web in Comilla. Al
+ so\, this event will enable contributors for Mozilla l10n in bn-BD and rec
+ ruit new contributors in l10n from Comilla.The tour will initiate and stre
+ ngthen Mozilla clubs in different institutions at Comilla region.
+URL:https://reps.mozilla.org/e/mozilla-bangladesh-tour-in-comilla/
+SEQUENCE:2
+X-COORDINATES-LAT:23.4426783765
+X-COORDINATES-LON:91.1596145
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6775
+CLASS:PUBLIC
+DTSTAMP:20200423T105356Z
+DTSTART:20170718T090000Z
+DTEND:20170718T130000Z
+LOCATION:AUST\, Dhaka\, Bangladesh
+SUMMARY:Web Compatibility Sprint at AUST
+DESCRIPTION:In the event\, participants will test the compatibility of top
+  500 websites\, of Bangladesh\, in the web browsers (primarily in Firefox 
+ Beta) and diagnose problems and report them via web compat addon in Firefo
+ x.
+URL:https://reps.mozilla.org/e/web-compatibility-sprint-at-aust/
+SEQUENCE:6
+X-COORDINATES-LAT:23.7643464191
+X-COORDINATES-LON:90.4068678059
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

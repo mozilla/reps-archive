@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2847
+CLASS:PUBLIC
+DTSTAMP:20200423T184239Z
+DTSTART:20141021T150000Z
+DTEND:20141023T000000Z
+LOCATION:“PLAZA PAVILLON”  Paseo Héroes #9111\, Tijuana Baja Californ
+ ia.\, Tijuana\, Mexico
+SUMMARY:CampusLink Tijuana 2014
+DESCRIPTION:Innovative Tijuana is an international event created as a prom
+ otional platform for the city. In this third issue focused our interest on
+  a fundamental issue: the Mexican Diaspora.\n\nDid you know that about 30 
+ million people of Mexican descent living in the United States? They consti
+ tute a significant cultural economic\, political\, and both the United Sta
+ tes and Mexico.\n\nIn the event we will have a talk about Mozilla and Fire
+ fox OS hackathon for 3 days with an attendance of over 300 people.
+URL:https://reps.mozilla.org/e/campuslink-tijuana-2014/
+SEQUENCE:9
+X-COORDINATES-LAT:32.530513087
+X-COORDINATES-LON:-117.023203611
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

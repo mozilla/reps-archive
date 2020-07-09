@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6473
+CLASS:PUBLIC
+DTSTAMP:20200423T111817Z
+DTSTART:20170405T220000Z
+DTEND:20170406T000000Z
+LOCATION:ITS Rio\, Rio de Janeiro\, Brazil
+SUMMARY:Makers and Digital Education gatheting
+DESCRIPTION:A gathering at ITS Rio to talk about &#34;Makers and Digital Educa
+ tion&#34;\n\nParticipate in the conversation about the challenges posed to the
+  diffusion of the maker culture\, the role and potential of the Lan Houses
+ . We will receive Carolina Althaller\, from the Olabi Makerspace\, and And
+ erson Balboni\, owner of one of the first Lan Houses in communities in Rio
+  de Janeiro. The proposal is to bring a variety of perspectives to deepen 
+ in this debate so important for social innovation in the country.
+URL:https://reps.mozilla.org/e/makers-and-digital-education-gatheting/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.9243526266
+X-COORDINATES-LON:-43.1725158636
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

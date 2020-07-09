@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4348
+CLASS:PUBLIC
+DTSTAMP:20200407T180300Z
+DTSTART:20151010T050000Z
+DTEND:20151010T080000Z
+LOCATION:San Sebastian College - Recoletos\, Manila\, Philippines
+SUMMARY:MozTour SSC-R Manila
+DESCRIPTION:Moztour at San Sebastian College-Recoletos Manila to spread an
+ d talk about Mozilla\, its products and contributors and to also recruit n
+ ew student and faculty contributors and Firefox Student Ambassadors to the
+  community as well. This will be the first time of the Mozilla Philippines
+  Community to visit SSC-R Manila.
+URL:https://reps.mozilla.org/e/moztour-ssrc-manila/
+SEQUENCE:10
+X-COORDINATES-LAT:14.5999861719
+X-COORDINATES-LON:-239.010539532
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

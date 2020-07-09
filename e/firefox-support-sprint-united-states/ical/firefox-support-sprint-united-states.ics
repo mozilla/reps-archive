@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7807
+CLASS:PUBLIC
+DTSTAMP:20200423T092637Z
+DTSTART:20180604T060500Z
+DTEND:20180605T055500Z
+LOCATION:TBD\, Salt Lake City\, United States
+SUMMARY:Firefox Support Sprint - United States
+DESCRIPTION:This Firefox Support sprint is all about mobile! Thousands of 
+ mobile Firefox users are asking for support in reviews on the Android Play
+  Store\, but right now no one is responding - there is an urgent need to a
+ ddress their questions!
+URL:https://reps.mozilla.org/e/firefox-support-sprint-united-states/
+SEQUENCE:1
+X-COORDINATES-LAT:40.7243642217
+X-COORDINATES-LON:-111.892318726
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

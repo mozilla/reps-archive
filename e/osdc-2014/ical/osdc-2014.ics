@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2093
+CLASS:PUBLIC
+DTSTAMP:20200423T200459Z
+DTSTART:20140411T013000Z
+DTEND:20140412T090000Z
+LOCATION:Academia Sinica\, Taipei City\, Taiwan
+SUMMARY:OSDC 2014
+DESCRIPTION:The Open Source Developers&#39; Conference (OSDC) is a non-profit 
+ conference for developers of open source software. We set-up a Mozilla boo
+ th to demonstrate Firefox OS\, videos and send out stickers.
+URL:https://reps.mozilla.org/e/osdc-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:25.0409831757
+X-COORDINATES-LON:121.611383557
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

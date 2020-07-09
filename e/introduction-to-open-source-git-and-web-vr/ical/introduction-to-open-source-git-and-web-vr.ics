@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8845
+CLASS:PUBLIC
+DTSTAMP:20200407T165036Z
+DTSTART:20191011T093000Z
+DTEND:20191011T123000Z
+LOCATION:PES University Electronic City\, Bangalore\, India
+SUMMARY:Introduction to Open Source\, Git and Web VR
+DESCRIPTION:A bunch of 20 enthusiastic students from 3rd semester who are 
+ eager to contribute to Opensource in PES University has requested this ses
+ sion via Prof. Anand Sir. \n\nDiscussions will be on open source contribut
+ ions &amp; communities for the students.
+URL:https://reps.mozilla.org/e/introduction-to-open-source-git-and-web-vr/
+SEQUENCE:9
+X-COORDINATES-LAT:12.8939196582
+X-COORDINATES-LON:77.6352524757
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

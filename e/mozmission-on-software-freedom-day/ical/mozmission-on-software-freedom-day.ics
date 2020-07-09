@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4415
+CLASS:PUBLIC
+DTSTAMP:20200407T174947Z
+DTSTART:20150922T033000Z
+DTEND:20150922T083000Z
+LOCATION:NIT\, Hamirpur\, Hamirpur\, India
+SUMMARY:MozMission on Software Freedom Day
+DESCRIPTION:MozMission is going to happen at NIT Hamirpur It will be focus
+ ed on spreading Mozilla&#39;s awareness - Our Projects\, Our mission\, Ways to
+  Contribute in Mozilla and webmaker on the special occasion of Software Fr
+ eedom Day.
+URL:https://reps.mozilla.org/e/mozmission-on-software-freedom-day/
+SEQUENCE:5
+X-COORDINATES-LAT:31.6743235931
+X-COORDINATES-LON:76.5373992641
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

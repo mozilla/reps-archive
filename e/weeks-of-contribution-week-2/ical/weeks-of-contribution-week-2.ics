@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3995
+CLASS:PUBLIC
+DTSTAMP:20200407T175312Z
+DTSTART:20150613T120000Z
+DTEND:20150613T130000Z
+LOCATION:Google+ hangouts\, Gingee\, India
+SUMMARY:Weeks of Contribution - Week 2
+DESCRIPTION:Introductory hangouts session for Localization and Translation
+ (l10n).\nIn this session we are going to focus on \n* Introduction to Loca
+ lization and Translation.\n* Mozilla Localization and Translation.\n* Mozi
+ lla Localization Tools.\n* Mozilla Pootle.\n* Mozilla Verbatim.
+URL:https://reps.mozilla.org/e/weeks-of-contribution-week-2/
+SEQUENCE:4
+X-COORDINATES-LAT:12.251230536
+X-COORDINATES-LON:79.4133782378
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

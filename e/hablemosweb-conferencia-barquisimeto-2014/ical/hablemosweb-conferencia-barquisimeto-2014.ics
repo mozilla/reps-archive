@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3003
+CLASS:PUBLIC
+DTSTAMP:20200423T183615Z
+DTSTART:20141106T183000Z
+DTEND:20141106T213000Z
+LOCATION:Sala de Conferencias\, Decanato de Ciencias UCLA\, Barquisimeto\,
+  Venezuela
+SUMMARY:Hablemosweb Conferencia Barquisimeto 2014
+DESCRIPTION:In order to promote and spread entrepreneurship technologists 
+ in the area and new technologies we are preparing the Hablemosweb Conferen
+ ce\, where we will gather for a day students\, professionals\, entrepreneu
+ rs\, speakers and companies to discuss and learn of:\n\nDigital marketing\
+ nWeb Design and Development\nMobile Application Development (Android\, iOs
+ \, Firefox OS)\nAugmented Reality and 3D\nThe future of the Web\nEntrepren
+ eurial opportunities on the Web\nEmbarking from Venezuela to the world
+URL:https://reps.mozilla.org/e/hablemosweb-conferencia-barquisimeto-2014/
+SEQUENCE:8
+X-COORDINATES-LAT:10.0673284311
+X-COORDINATES-LON:-69.3639997247
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

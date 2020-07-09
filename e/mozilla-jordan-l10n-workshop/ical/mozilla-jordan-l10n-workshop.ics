@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9123
+CLASS:PUBLIC
+DTSTAMP:20200407T174314Z
+DTSTART:20200314T100000Z
+DTEND:20200314T170000Z
+LOCATION:TBD\, Amman\, Jordan
+SUMMARY:Mozilla Jordan L10n workshop
+DESCRIPTION:In this workshop\, the top contributors of the jordanian l10n 
+ team will gather to work on Firefox Android l10n project in order to get i
+ t fully localized and reviewed.\nThe goal behind making this workshop is t
+ hat we haven&#39;t held workshops for the community for a long time\, and this
+  would be a great chance for the team to gather and work together because 
+ there are some new comers who became from the top contributors and they ne
+ ed such workshops.
+URL:https://reps.mozilla.org/e/mozilla-jordan-l10n-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:30.9973876975
+X-COORDINATES-LON:36.3760985434
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

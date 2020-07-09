@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6470
+CLASS:PUBLIC
+DTSTAMP:20200423T112921Z
+DTSTART:20170213T053000Z
+DTEND:20170213T073000Z
+LOCATION:Institute Of Technology\, Nirma University\, Ahmedabad\, India
+SUMMARY:Mozilla Nirama Campus Club Inagaration
+DESCRIPTION:It will be a Club Inauguration event for the college students 
+ and also a brief introduction to the Mozilla Campus Clubs. Agenda for the 
+ event will be: 1. Introduction to Mozilla. 2. Introduction to Mozilla Camp
+ us Clubs. 3. How to get involved. https://campus.mozilla.community/
+URL:https://reps.mozilla.org/e/mozilla-nirama-campus-club-inagaration/
+SEQUENCE:3
+X-COORDINATES-LAT:23.0359279041
+X-COORDINATES-LON:71.2631821632
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

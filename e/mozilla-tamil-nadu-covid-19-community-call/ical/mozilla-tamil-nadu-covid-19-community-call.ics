@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9163
+CLASS:PUBLIC
+DTSTAMP:20200407T165005Z
+DTSTART:20200328T143000Z
+DTEND:20200328T163000Z
+LOCATION:Online\, Online\, India
+SUMMARY:Mozilla Tamil Nadu Covid-19 community call
+DESCRIPTION:This call involves all active Mozillians to share about the in
+ itiatives taken towards: Weeks of Contributions 2020. WoC 2020 is an yearl
+ y event of Mozilla Tamil Nadu which is an exclusive training on all Mozill
+ a projects and is completely online.
+URL:https://reps.mozilla.org/e/mozilla-tamil-nadu-covid-19-community-call/
+SEQUENCE:1
+X-COORDINATES-LAT:22.4178002231
+X-COORDINATES-LON:79.2480432987
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

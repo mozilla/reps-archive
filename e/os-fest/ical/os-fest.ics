@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8470
+CLASS:PUBLIC
+DTSTAMP:20200423T083230Z
+DTSTART:20190420T033000Z
+DTEND:20190420T113000Z
+LOCATION:BITS Edu Campus\, Vadodara-Mumbai National Highway 8\, Vadodara\,
+  Gujarat 391240\, Vadodara\, India
+SUMMARY:OS Fest
+DESCRIPTION:OS Fest means Open Source Fest and it&#39;s everything for a newly
+  started programmer who is setting his path in this competitive world of c
+ oding. The open source movement is the reason that technology has develope
+ d at such a breakneck pace for the past few decades.So don&#39;t you think ope
+ n source deserves some celebration of its own for this great contribution 
+ in our day to day life?\n\nWe are celebrating a festival dedicated special
+ ly for Open Source.
+URL:https://reps.mozilla.org/e/os-fest/
+SEQUENCE:4
+X-COORDINATES-LAT:22.255253816
+X-COORDINATES-LON:73.2258195849
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

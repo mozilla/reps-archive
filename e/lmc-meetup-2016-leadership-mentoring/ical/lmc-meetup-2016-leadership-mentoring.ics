@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5419
+CLASS:PUBLIC
+DTSTAMP:20200423T152607Z
+DTSTART:20160513T130000Z
+DTEND:20160513T140000Z
+LOCATION:EMEF Padre Leão Vallerié\, Campinas\, Brazil
+SUMMARY:LMC Meetup 2016: Leadership Mentoring
+DESCRIPTION:New mentors of Leão Mozilla Clubs will receive theoretical an
+ d technical training about web literacy and teaching activities\; we will 
+ discuss the tasks for long-term and begin planning campaigns\; technical t
+ raining of club management tools.
+URL:https://reps.mozilla.org/e/lmc-meetup-2016-leadership-mentoring/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.9045240091
+X-COORDINATES-LON:-47.05434823
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

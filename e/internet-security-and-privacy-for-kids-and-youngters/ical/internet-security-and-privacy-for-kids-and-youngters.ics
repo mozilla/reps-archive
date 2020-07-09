@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5410
+CLASS:PUBLIC
+DTSTAMP:20200423T152721Z
+DTSTART:20160507T050000Z
+DTEND:20160507T073000Z
+LOCATION:Long Mountain\, Long Mountain\, Mauritius
+SUMMARY:Mozilla Knowledge Series: Internet Security and Privacy
+DESCRIPTION:This a new initiative that  Mozilla Mauritius is starting toda
+ y.  This programme is a series of presentations on different topics which 
+ will target kids and youngsters. The kick off of this programme will be he
+ ld today with a presentation on Security and Privacy on the web. In additi
+ on to this\, the series will also comprise of the following topics: webmak
+ ing\, web literacy\, coding and other topics that are related to Connected
+  Devices.
+URL:https://reps.mozilla.org/e/internet-security-and-privacy-for-kids-and-
+ youngters/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1562244851
+X-COORDINATES-LON:57.5757865794
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

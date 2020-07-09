@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1969
+CLASS:PUBLIC
+DTSTAMP:20200407T182542Z
+DTSTART:20140324T183000Z
+DTEND:20140324T200000Z
+LOCATION:101 St Martin&#39;s Lane\, 3rd floor\, London\, United Kingdom
+SUMMARY:Key signing party at the London Office
+DESCRIPTION:A key signing party is an event at which people present their 
+ public keys to others in person\, who\, if they are confident the key actu
+ ally belongs to the person who claims it\, digitally sign the certificate 
+ containing that public key and the person&#39;s name\, etc. It&#39;s very popular 
+ in Europe and will happen this time both in Paris and in London. Ludovic H
+ irlimann is organising it for Mozilla.
+URL:https://reps.mozilla.org/e/key-signing-party-at-the-london-office/
+SEQUENCE:1
+X-COORDINATES-LAT:51.5104673276
+X-COORDINATES-LON:-0.127075351775
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

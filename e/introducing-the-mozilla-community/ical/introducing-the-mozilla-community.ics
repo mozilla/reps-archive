@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4117
+CLASS:PUBLIC
+DTSTAMP:20200423T170437Z
+DTSTART:20150709T170000Z
+DTEND:20150709T190000Z
+LOCATION:Universidad Centroamericana\, Managua\, Nicaragua
+SUMMARY:Introducing the Mozilla community
+DESCRIPTION:This event will be for the Linux User group of the Central Ame
+ rican University. We will introduce The mozilla community projects\, the a
+ ctivities we have done\, introduction to HTML5 and upcoming community acti
+ vities in Nicaragua presented.
+URL:https://reps.mozilla.org/e/introducing-the-mozilla-community/
+SEQUENCE:1
+X-COORDINATES-LAT:12.1251588864
+X-COORDINATES-LON:-86.2726750374
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

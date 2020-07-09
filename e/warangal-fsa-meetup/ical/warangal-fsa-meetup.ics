@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2728
+CLASS:PUBLIC
+DTSTAMP:20200407T175019Z
+DTSTART:20140831T043000Z
+DTEND:20140831T073000Z
+LOCATION:Bits and Bytes Institute\, Warangal\, India
+SUMMARY:Mozilla Warangal Community  Meetup
+DESCRIPTION:The Main Aim of this meetup is to boost up the existing mozill
+ ians as well as recruting new mozillians and the main focus will be on est
+ ablishing Firefox clubs in the college where there are no clubs. The clubs
+  where we already have FSA&#39;s will be boosted more so that we can get quali
+ ty over quantity.
+URL:https://reps.mozilla.org/e/warangal-fsa-meetup/
+SEQUENCE:8
+X-COORDINATES-LAT:17.9812367011
+X-COORDINATES-LON:79.6231841762
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3575
+CLASS:PUBLIC
+DTSTAMP:20200423T174312Z
+DTSTART:20150314T083000Z
+DTEND:20150314T123000Z
+LOCATION:Collab House \, Jublee Hills \, Hyderabad\, Hyderabad\, India
+SUMMARY:GeoBoot Hyderabad
+DESCRIPTION:Introducing MLS project to volunteers and Discuss about the pr
+ oject
+URL:https://reps.mozilla.org/e/geoboot-hyderabad-1/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4166854745
+X-COORDINATES-LON:78.4119157784
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

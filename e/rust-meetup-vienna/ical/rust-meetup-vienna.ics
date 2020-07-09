@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6726
+CLASS:PUBLIC
+DTSTAMP:20200423T110104Z
+DTSTART:20170614T170000Z
+DTEND:20170614T190000Z
+LOCATION:sektor5\, Siebenbrunnengasse 44\, 1050 Wien\, Vienna\, Austria
+SUMMARY:Rust Meetup Vienna
+DESCRIPTION:A meetup of the Rust community in Vienna
+URL:https://reps.mozilla.org/e/rust-meetup-vienna/
+SEQUENCE:1
+X-COORDINATES-LAT:48.186219669
+X-COORDINATES-LON:16.3551793992
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

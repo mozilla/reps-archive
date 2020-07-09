@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5282
+CLASS:PUBLIC
+DTSTAMP:20200407T182126Z
+DTSTART:20160416T140000Z
+DTEND:20160416T230000Z
+LOCATION:Instituto Tecnologico de Toluca\, Toluca de Lerdo\, Mexico
+SUMMARY:FLISoL Toluca 2016
+DESCRIPTION:The Latino Festival of Free Software Installation American - F
+ LISoL is an international event held annually\, which occurs simultaneousl
+ y in several cities in Latin America. The FLISoL is a decentralized event 
+ where different communities organize and perform their festival\, voluntar
+ ily\, with the main objective to promote the use of free software\, presen
+ ting its philosophy\, scope\, progress and development to the general publ
+ ic.\n\nTalk: Web privacy for no technology experts
+URL:https://reps.mozilla.org/e/flisol-toluca-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:19.2819531882
+X-COORDINATES-LON:-99.65367508
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

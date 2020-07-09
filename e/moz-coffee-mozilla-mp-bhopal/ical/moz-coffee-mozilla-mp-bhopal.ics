@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6579
+CLASS:PUBLIC
+DTSTAMP:20200407T164112Z
+DTSTART:20170603T063000Z
+DTEND:20170603T103000Z
+LOCATION:TBD\, Bhopal\, India
+SUMMARY:Moz Coffee - Mozilla MP (Bhopal)
+DESCRIPTION:Quick community meetup to discuss following \n* Onboarding new
+  contributors\n* Promoting/encouraging Womoz in the community. \n* MozActi
+ vate \n* Goals for upcoming quarters in the community.
+URL:https://reps.mozilla.org/e/moz-coffee-mozilla-mp-bhopal/
+SEQUENCE:0
+X-COORDINATES-LAT:23.1668762221
+X-COORDINATES-LON:76.9599151611
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

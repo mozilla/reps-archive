@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3359
+CLASS:PUBLIC
+DTSTAMP:20200407T174309Z
+DTSTART:20150121T210000Z
+DTEND:20150121T220000Z
+LOCATION:#demeeting Vidyo room\, Berlin\, Germany
+SUMMARY:DE Reps coordination meeting
+DESCRIPTION:Coordination meeting of Mozilla Reps from the German-speaking 
+ community and interested Mozilla staff. This will be held in German.
+URL:https://reps.mozilla.org/e/de-reps-coordination-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:52.5415706745
+X-COORDINATES-LON:13.3884830473
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

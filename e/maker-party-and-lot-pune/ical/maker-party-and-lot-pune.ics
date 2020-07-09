@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2594
+CLASS:PUBLIC
+DTSTAMP:20200423T191957Z
+DTSTART:20140802T033000Z
+DTEND:20140802T103000Z
+LOCATION:Sinhgad Campus Vadgaon\, Pune\, India
+SUMMARY:Maker Party and IoT Pune
+DESCRIPTION:Maker Party at Sinhgad Campus Vadgaon Pune\, is the 1st\, this
+  maker party season. Learn\, explore and hack the way through the web.\nAu
+ dience will include beginners and advanced users\, makers and mentors\n\nO
+ nline and offline hands on sessions of Webmaker tools: * Thimble * Popcorn
+  maker * Xray goggles *Appmaker
+URL:https://reps.mozilla.org/e/maker-party-and-lot-pune/
+SEQUENCE:10
+X-COORDINATES-LAT:18.4692279134
+X-COORDINATES-LON:73.835996389
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

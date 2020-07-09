@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6095
+CLASS:PUBLIC
+DTSTAMP:20200407T180520Z
+DTSTART:20161124T050000Z
+DTEND:20161124T080000Z
+LOCATION:American International University- Bangladesh (AIUB)\, Banani Mod
+ el Town\, Bangladesh
+SUMMARY:Test Pilot @AIUB CS FEST 2016
+DESCRIPTION:This event will promote Test Pilot addons of Firefox Browser i
+ n the AIUB Computer Science Festival 2016. Test Pilot addons features like
+  No more 404s by describing the process with archive.org\, Min Vid\, Page 
+ Shot\, Activity Stream and others. Our goal will be to download as much Te
+ st Pilot addons as we can. Event hashtag is: #TestPilotAiubCSFest
+URL:https://reps.mozilla.org/e/test-pilot-aiub-cs-fest-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7946016167
+X-COORDINATES-LON:90.4058593509
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

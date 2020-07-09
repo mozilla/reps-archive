@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4863
+CLASS:PUBLIC
+DTSTAMP:20200423T160638Z
+DTSTART:20151204T090000Z
+DTEND:20151204T103000Z
+LOCATION:Urumqi tenth Primary school\, urumqi\, China
+SUMMARY:Firefox Tianshan tour-   How to carry out activities in the absenc
+ e of the Internet environment
+DESCRIPTION:html language can use Notepad to edit\, and every one of our c
+ lassroom\, each computer must have a notepad software! After many discussi
+ ons we try\, we hope to get the kids through the use Notepad to edit the h
+ tml file to recognize thimble
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson-5-firefox-exte
+ nsion/
+SEQUENCE:3
+X-COORDINATES-LAT:43.7703875097
+X-COORDINATES-LON:2607.62613666
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

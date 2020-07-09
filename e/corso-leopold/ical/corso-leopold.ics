@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1027
+CLASS:PUBLIC
+DTSTAMP:20200423T213030Z
+DTSTART:20130629T080000Z
+DTEND:20130630T160000Z
+LOCATION:Street festival\, Leopoldstrasse\, Munich\, Germany
+SUMMARY:Corso Leopold
+DESCRIPTION:Corso Leopold is a street festival in the heart of Munich. It 
+ takes place every beginning and end of the summer (June and September).
+URL:https://reps.mozilla.org/e/corso-leopold/
+SEQUENCE:2
+X-COORDINATES-LAT:48.1533893691
+X-COORDINATES-LON:11.5827441216
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

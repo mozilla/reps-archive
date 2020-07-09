@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2191
+CLASS:PUBLIC
+DTSTAMP:20200423T195743Z
+DTSTART:20140426T143000Z
+DTEND:20140426T230000Z
+LOCATION:Universidad Autónoma de Baja California Sur\, La Paz\, Mexico
+SUMMARY:FLISOL 2014 La Paz Baja California Sur México.
+DESCRIPTION:Flisol is a event held in many Latin America cities to install
+  free software in users computers. At the same time that the installfest\,
+  communities give talks regarding free software.
+URL:https://reps.mozilla.org/e/flisol-2014-la-paz-baja-california-sur-mexi
+ co/
+SEQUENCE:7
+X-COORDINATES-LAT:24.1037451127
+X-COORDINATES-LON:-110.313955307
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

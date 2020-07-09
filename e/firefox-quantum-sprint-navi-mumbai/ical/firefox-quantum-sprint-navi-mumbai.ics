@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7143
+CLASS:PUBLIC
+DTSTAMP:20200407T171620Z
+DTSTART:20171007T140000Z
+DTEND:20171007T170000Z
+LOCATION:TBD\, Navi Mumbai\, India
+SUMMARY:Firefox Quantum Sprint Navi Mumbai
+DESCRIPTION:Firefox Quantum is soon to be launched and this is our opportu
+ nity to make Firefox rise again. Participate in the Firefox Quantum Sprint
+  and make a difference by ensuring that Firefox runs smoothly in your regi
+ on.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-navi-mumbai/
+SEQUENCE:0
+X-COORDINATES-LAT:18.8387143793
+X-COORDINATES-LON:71.5017700195
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

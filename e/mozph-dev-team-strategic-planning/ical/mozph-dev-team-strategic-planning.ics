@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@800
+CLASS:PUBLIC
+DTSTAMP:20200423T214048Z
+DTSTART:20130525T080000Z
+DTEND:20130525T120000Z
+LOCATION:The Coffee Bean &amp; Tea Leaf (CBTL) Two E-Com Center\, Pasay\, Phil
+ ippines
+SUMMARY:MozillaPH Dev Team Strategic Planning
+DESCRIPTION:This event would be the 2nd meeting for the MozPH dev team and
+  aims to set and plan our goals for the whole year.\n\nWill also discuss o
+ n how can the developers contribute to the local community.
+URL:https://reps.mozilla.org/e/mozph-dev-team-strategic-planning/
+SEQUENCE:7
+X-COORDINATES-LAT:14.53971
+X-COORDINATES-LON:120.981272
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6864
+CLASS:PUBLIC
+DTSTAMP:20200423T104943Z
+DTSTART:20170804T090000Z
+DTEND:20170804T110000Z
+LOCATION:K K Wagh Institute of Engineering\, Educational and Research\, Na
+ shik\, India
+SUMMARY:Open Source + WebVR Workshop at Mozilla Nashik
+DESCRIPTION:Agenda: \n\n1. Introduction to Aframe.io\n\n2. Introduction to
+  WebVR\n\n4. Introduction to Open Source tools and technologies\n\n5. Intr
+ oduction to Mozilla Club
+URL:https://reps.mozilla.org/e/open-source-webvr-workshop-at-mozilla-nashi
+ k/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0035897034
+X-COORDINATES-LON:73.8038206083
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

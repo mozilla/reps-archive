@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6211
+CLASS:PUBLIC
+DTSTAMP:20200423T113837Z
+DTSTART:20161227T030000Z
+DTEND:20161227T110000Z
+LOCATION:Gono Bishwabidyalay\, Savar\, Bangladesh
+SUMMARY:Mozilla QA : Contributor Mentoring Day @ Gono Bishwabidyalay
+DESCRIPTION:To promote participation opportunity in QA and mobilize more p
+ eople towards MozActivate\, It would be a day long event in Gono Bishwabid
+ yalay. The primary goal would be help them get started with QA and introdu
+ ce them with features of Firefox Test Pilot.
+URL:https://reps.mozilla.org/e/mozilla-qa-contributor-mentoring-day-gono-b
+ ishwabidyalay/
+SEQUENCE:0
+X-COORDINATES-LAT:23.9226394132
+X-COORDINATES-LON:90.2332234383
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7273
+CLASS:PUBLIC
+DTSTAMP:20200407T165328Z
+DTSTART:20171203T043000Z
+DTEND:20171203T070000Z
+LOCATION:ThoughtWorks Hyderabad\, Gachibowli\, Hyderabad.\, Hyderabad\, In
+ dia
+SUMMARY:Rust Hyderabad catch-up 2 and RustConf planning
+DESCRIPTION:Agenda:\n10 AM to 11:30AM:\n1. Talk on rust constructs in cont
+ rast with other language constructs. - Ranveer Aggarwal\, Software Enginee
+ r at Microsoft working on Microsoft Visio.\n\n2. Talk on the introductory 
+ rust concepts - Vigneshwer Dhinakaran\, AI/IoT Researcher\, MuSigma Bengal
+ uru\, author of Rust cookbook.\n\n11:30AM to 12PM:\nRustConf Hyderabad pla
+ nning and inviting new volunteers.
+URL:https://reps.mozilla.org/e/rust-hyderabad-catch-up-2-and-rustconf-plan
+ ning/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4417259033
+X-COORDINATES-LON:78.3597271444
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

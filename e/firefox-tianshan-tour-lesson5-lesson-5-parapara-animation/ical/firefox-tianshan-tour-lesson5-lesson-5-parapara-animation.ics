@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4821
+CLASS:PUBLIC
+DTSTAMP:20200423T161319Z
+DTSTART:20151119T043000Z
+DTEND:20151119T055000Z
+LOCATION:Xinjiang Education Institute Shiyan Primary School\, urumqi\, Chi
+ na
+SUMMARY:Firefox Tianshan tour -Experience the feeling of hack
+DESCRIPTION:Children learn how to install goggles to understand their part
+  of the network can be edited. Understand the meaning of the code.
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson5-lesson-5-para
+ para-animation/
+SEQUENCE:5
+X-COORDINATES-LAT:43.8012577821
+X-COORDINATES-LON:2607.61422282
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

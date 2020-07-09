@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8101
+CLASS:PUBLIC
+DTSTAMP:20200423T090154Z
+DTSTART:20180923T060000Z
+DTEND:20180923T090000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Taipei\, Taiwan
+SUMMARY:火狐偵探團招募說明會 Firefox Dark Funnel Detective
+DESCRIPTION:你如果不是在摩茲拉下載火狐，那就一定是在
+ 摩茲拉以外的網站下載了火狐。 \n\n我們希望查清楚大家
+ 都去哪裡下載了 Firefox，\n真相永遠只有一個！\n\n截至目
+ 前為止，所有新安裝的 Firefox 中，僅有 30% 直接下載自 Mo
+ zilla.org 網站（與其它已知合作對象）。其餘 70% 的安裝
+ 來源，對我們而言是一團謎霧，因此我們就稱其為 小黑
+ 人 黑暗管道（Dark funnel）。\n\n這些不明管道中，有一些
+ 是友好網站，像是 moztw.org （是吧是吧！），但有一些則
+ 持續提供過時或奇怪的版本，會讓用戶暴露於危險之下
+ 。\n\n我們需要你的協助，一起來找出這些隱藏於黑暗之
+ 中的來源。
+URL:https://reps.mozilla.org/e/huo-hu-zhen-tan-tuan-zhao-mu-shuo-ming-hui-
+ firefox-dark-funnel-detective/
+SEQUENCE:1
+X-COORDINATES-LAT:25.0440223775
+X-COORDINATES-LON:121.532289863
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

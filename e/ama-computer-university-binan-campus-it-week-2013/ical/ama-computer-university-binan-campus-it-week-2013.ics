@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@613
+CLASS:PUBLIC
+DTSTAMP:20200423T215613Z
+DTSTART:20130406T000000Z
+DTEND:20130406T090000Z
+LOCATION:AMA Computer University - Binan Campus\, Laguna\, Philippines
+SUMMARY:AMA Computer University - Binan Campus IT Week 2013
+DESCRIPTION:AMA Computer University\, Asia&#39;s Pioneer in IT Education will 
+ be having their IT Week 2013 from 01-06 APR 2013 at the Binan\, Laguna cam
+ pus (40 kms south of Metro Manila).\n\nThis event is being organized by Ph
+ il-IT.org.\n\nMozilla Philippines Community will have a Firefox Booth and 
+ will be talking about different Mozilla technologies during the morning ke
+ ynote/plenary.
+URL:https://reps.mozilla.org/e/ama-computer-university-binan-campus-it-wee
+ k-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:14.344268
+X-COORDINATES-LON:121.068839
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

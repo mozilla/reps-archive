@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2777
+CLASS:PUBLIC
+DTSTAMP:20200423T190634Z
+DTSTART:20140906T030000Z
+DTEND:20140906T090000Z
+LOCATION:BSI Cikarang\, Cikarang\, Indonesia
+SUMMARY:MozBelajar at BSI CIkarang
+DESCRIPTION:The workshop objective is to get more people to understand and
+  using Webmaker for their web making purposes. \n\nThis event goal is to e
+ ducate students from BSI Cikarang on using Webmaker. Organized by the stud
+ ents in BSI Cikarang who are actually was the participant of MozBelajar 2\
+ , July 2014 (https://reps.mozilla.org/e/workshop-webmaker-mozbelajar-2/)
+URL:https://reps.mozilla.org/e/mozbelajar-at-bsi-cikarang/
+SEQUENCE:3
+X-COORDINATES-LAT:-6.313594116
+X-COORDINATES-LON:107.140041589
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6671
+CLASS:PUBLIC
+DTSTAMP:20200407T171653Z
+DTSTART:20170612T063000Z
+DTEND:20170612T093000Z
+LOCATION:Truba Group of Institutions\, Bhopal\, India
+SUMMARY:Firefox Nightly - Madhya Pradesh
+DESCRIPTION:As we all know we have a great Mozilla community around India.
+  We have a large number of dedicated students\, developers and evangelists
+  who are really passionate about Mozilla. We have seen that very few peopl
+ e in India actually know about Firefox Nightly Desktop.So it needs a littl
+ e bit of general promotion\, which will pump to bring a good number of tec
+ h-savvy\, power users who will be our active community members.
+URL:https://reps.mozilla.org/e/firefox-nightly-madhya-pradesh/
+SEQUENCE:2
+X-COORDINATES-LAT:23.3144578
+X-COORDINATES-LON:77.387886
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

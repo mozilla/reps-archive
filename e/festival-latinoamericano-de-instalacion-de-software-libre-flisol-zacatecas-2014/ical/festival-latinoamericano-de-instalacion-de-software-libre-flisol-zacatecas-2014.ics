@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2138
+CLASS:PUBLIC
+DTSTAMP:20200423T200519Z
+DTSTART:20140410T140000Z
+DTEND:20140412T000000Z
+LOCATION:Laboratorio de Software Libre del COZCyT\, Zacatecas\, Mexico
+SUMMARY:Festival Latinoamericano de Instalación de Software Libre (FLISoL
+ ) Zacatecas 2014
+DESCRIPTION:El Festival Latinoamericano de Instalación de Software Libre 
+ (FLISoL) es el evento de difusión de Software Libre más grande en Latino
+ américa. Se realiza desde el año 2005 y desde el 2008 se adoptó su real
+ ización el 4to Sábado de abril de cada año. Su principal objetivo es pr
+ omover el uso del software libre\, dando a conocer al público en general 
+ su filosofía\, alcances\, avances y desarrollo.
+URL:https://reps.mozilla.org/e/festival-latinoamericano-de-instalacion-de-
+ software-libre-flisol-zacatecas-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:22.7591245585
+X-COORDINATES-LON:-102.580404997
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

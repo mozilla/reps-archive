@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1223
+CLASS:PUBLIC
+DTSTAMP:20200423T210552Z
+DTSTART:20130926T130000Z
+DTEND:20130926T220000Z
+LOCATION:Palacio de la Ciencia y la Cultura\, de la facultad de ciencias y
+  tecnología de la Universidad Mayor de San Simón\, Cochabamba\, Bolivia
+SUMMARY:Jornadas Nacionales de Seguridad Informatica
+DESCRIPTION:National Conference of Computaer Security - An event where Moz
+ illa Bolivia will show about the Security of Firefox and tools to protect 
+ our information and know where and who see it.
+URL:https://reps.mozilla.org/e/jornadas-nacionales-de-seguridad-informatic
+ a/
+SEQUENCE:3
+X-COORDINATES-LAT:-17.3925383178
+X-COORDINATES-LON:-66.1444973946
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

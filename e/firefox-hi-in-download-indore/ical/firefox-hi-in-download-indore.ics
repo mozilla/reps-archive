@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4614
+CLASS:PUBLIC
+DTSTAMP:20200423T161953Z
+DTSTART:20151101T043000Z
+DTEND:20151101T073000Z
+LOCATION:Acropolis Institute of Technology &amp; Reasearch\, Mangliya square\,
+  Bypass\,\, Indore\, India
+SUMMARY:Firefox_HI-IN_Download Indore
+DESCRIPTION:To spread Localized Firefox in India\, Mozilla India Localizat
+ ion community is hosting a pan-India campaign for Hindi &amp; Marathi. The cam
+ paign would run from 2nd Oct to 1st Nov. To show users that Firefox is ava
+ ilable in their language we are creating a campaign that helps fans of Fir
+ efox invite the people in their networks to download Firefox. We are creat
+ ing unique\, shareable pieces of content that are humorous\, insightful an
+ d topical to get the conversation and activities started.
+URL:https://reps.mozilla.org/e/firefox-hi-in-download-indore/
+SEQUENCE:3
+X-COORDINATES-LAT:22.7172509015
+X-COORDINATES-LON:75.8660125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4426
+CLASS:PUBLIC
+DTSTAMP:20200423T164120Z
+DTSTART:20150916T080000Z
+DTEND:20150916T093000Z
+LOCATION:North South University\, Banani Model Town\, Bangladesh
+SUMMARY:NSUFSA Meet Up v4 (Fall)
+DESCRIPTION:The fall is about to set in and so is our awesomeness!!! COME!
+ ! Be a part of our courteous &amp; fun loving family. Let’s get awesome toge
+ ther!!\n This is the last meet up event in 2015 from NSUFC. Through this e
+ vent\, the present members of NSUFC will be welcoming the newly recruited 
+ members.We will also discuss about our upcoming events.
+URL:https://reps.mozilla.org/e/nsufsa-meet-up-v4-fall/
+SEQUENCE:3
+X-COORDINATES-LAT:23.8151195858
+X-COORDINATES-LON:90.4268715531
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

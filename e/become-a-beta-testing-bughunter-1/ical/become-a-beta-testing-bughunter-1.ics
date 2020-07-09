@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8630
+CLASS:PUBLIC
+DTSTAMP:20200407T181227Z
+DTSTART:20190603T093000Z
+DTEND:20190603T134000Z
+LOCATION:ACM Lab\,SEC\, Sylhet\, Bangladesh
+SUMMARY:Become a Beta Testing BugHunter
+DESCRIPTION:Become a Beta Testing BugHunter Mozilla is launching a NEW And
+ roid web browser and we need your help to get it ready for the free and op
+ en web. We’re asking YOU to become a fearless beta tester and BUG HUNTER
+  to gather with friends and family\, install this brand new browser and te
+ st it until you can test no more!
+URL:https://reps.mozilla.org/e/become-a-beta-testing-bughunter-1/
+SEQUENCE:1
+X-COORDINATES-LAT:24.9013459271
+X-COORDINATES-LON:91.8715381622
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

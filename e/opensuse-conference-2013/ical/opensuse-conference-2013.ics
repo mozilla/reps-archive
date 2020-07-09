@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1065
+CLASS:PUBLIC
+DTSTAMP:20200423T212540Z
+DTSTART:20130718T150000Z
+DTEND:20130722T110000Z
+LOCATION:Olympic Museum - Thessaloniki\, Thessaloniki\, Greece
+SUMMARY:openSUSE Conference 2013
+DESCRIPTION:Mozilla is going to be there with a booth dedicated to Firefox
+  OS during the event. In addition we are going to have an hour talk presen
+ ting Firefox OS as a mobile operating system\, Firefox Marketplace\, the o
+ pen webapps ecosystem and of course ways on how to build your open web app
+ lication.
+URL:https://reps.mozilla.org/e/opensuse-conference-2013/
+SEQUENCE:16
+X-COORDINATES-LAT:40.627804624
+X-COORDINATES-LON:22.9639577866
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

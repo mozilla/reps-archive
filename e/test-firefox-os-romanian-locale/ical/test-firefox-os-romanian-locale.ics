@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@577
+CLASS:PUBLIC
+DTSTAMP:20200407T175438Z
+DTSTART:20130226T100000Z
+DTEND:20130408T090000Z
+LOCATION:TBD\, Cluj-Napoca\, Romania
+SUMMARY:Test Firefox OS Romanian Locale
+DESCRIPTION:The Romanian locale can be found in the latest FirefoxOS so it
+ &#39;s a great moment to test it a little bit and check that all it&#39;s ok.\nUpd
+ ate your phone build or download the latest desktop build and start testin
+ g the loaccale to make sure evrything it&#39;s ok\n\n
+URL:https://reps.mozilla.org/e/test-firefox-os-romanian-locale/
+SEQUENCE:1
+X-COORDINATES-LAT:46.7695569164
+X-COORDINATES-LON:23.5897922516
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

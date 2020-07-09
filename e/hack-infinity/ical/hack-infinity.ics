@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7197
+CLASS:PUBLIC
+DTSTAMP:20200423T101856Z
+DTSTART:20171111T023000Z
+DTEND:20171112T133000Z
+LOCATION:DAIICT\, Gandhinagar\, Gandhinagar\, India
+SUMMARY:Hack Infinity
+DESCRIPTION:WebVR Talk\, Booth &amp; Mentorship during Hack Infinity. \n\nAbou
+ t Hack Infinity - We are travelling around the globe to get companies\, kn
+ owledge and talent. It is one of the very few Hackathon&#39;s in India to allo
+ w global participation of students and companies. The opportunities to bui
+ ld\, network and learn increases more than ever!
+URL:https://reps.mozilla.org/e/hack-infinity/
+SEQUENCE:5
+X-COORDINATES-LAT:23.2248358889
+X-COORDINATES-LON:72.66856384
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4297
+CLASS:PUBLIC
+DTSTAMP:20200423T165448Z
+DTSTART:20150808T053000Z
+DTEND:20150808T083000Z
+LOCATION:Bal Niketan school\, Rai ka Bagh\, Jodhpur\, India
+SUMMARY:Maker Party @ Jodhpur
+DESCRIPTION:An Interactive event to help children know more about the Worl
+ d Wide Web and to teach them what is web and how it works.They will be tau
+ ght about webmaking and how to get involved in it also will be Introduced 
+ to webmaker tools.
+URL:https://reps.mozilla.org/e/maker-party-jodhpur/
+SEQUENCE:2
+X-COORDINATES-LAT:26.2523676221
+X-COORDINATES-LON:73.1059569865
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

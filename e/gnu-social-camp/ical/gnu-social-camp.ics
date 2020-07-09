@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4432
+CLASS:PUBLIC
+DTSTAMP:20200423T163127Z
+DTSTART:20151007T000000Z
+DTEND:20151008T000000Z
+LOCATION:TBD\, Gijon\, Spain
+SUMMARY:GNU Social Camp
+DESCRIPTION:Two days of talks\, workshops\, conversation\, coding and a lo
+ t more on GNU social. An environment for fast forwarding GNUsocial and OSt
+ atus development towards the federated web and the Internet of autonomy.
+URL:https://reps.mozilla.org/e/gnu-social-camp/
+SEQUENCE:2
+X-COORDINATES-LAT:43.5322444787
+X-COORDINATES-LON:-5.66076850926
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

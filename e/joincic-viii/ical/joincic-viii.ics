@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3840
+CLASS:PUBLIC
+DTSTAMP:20200423T171836Z
+DTSTART:20150602T133000Z
+DTEND:20150602T213000Z
+LOCATION:Conjunto de Auditorios Universidad Simón Bolívar\, Baruta\, Ven
+ ezuela
+SUMMARY:JOINCIC VIII
+DESCRIPTION:JOINCIC VII (Octavas Jornadas Interuniversitarias de Ciencia d
+ e la Computación) Students of the Central University of Venezuela (UCV) o
+ rganize this event for the exchange of knowledge and innovation in the are
+ a of Computer Science. http://www.joincic.com.ve/home/ https://twitter.com
+ /joincic
+URL:https://reps.mozilla.org/e/joincic-viii/
+SEQUENCE:8
+X-COORDINATES-LAT:10.4115887197
+X-COORDINATES-LON:-66.8830475811
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

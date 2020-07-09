@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@982
+CLASS:PUBLIC
+DTSTAMP:20200423T211906Z
+DTSTART:20130811T073000Z
+DTEND:20130811T103000Z
+LOCATION:JSSIET \, Patiala\, Chandigarh\, India
+SUMMARY:Mozilla Punjab Community Meetup
+DESCRIPTION:Since I am visiting Punjab for the second time \, so my plan i
+ s to meet with all the community members &amp; also ask them to bring new peop
+ le with them who are interested in contributing for Open Source Projects.\
+ nAs I am Suse Ambassador too \, I will be distributing free Suse Linux OS 
+ CD&#39;s to each attendee in the event &amp; also I would be asking them to start 
+ contributing them at the global level &amp; join Mozilla India Task Force Team
+ .
+URL:https://reps.mozilla.org/e/mozilla-punjab-community-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:22.5937260639
+X-COORDINATES-LON:80.15625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

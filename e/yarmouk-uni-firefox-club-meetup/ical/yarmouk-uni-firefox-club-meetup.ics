@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2456
+CLASS:PUBLIC
+DTSTAMP:20200423T193218Z
+DTSTART:20140626T090000Z
+DTEND:20140626T110000Z
+LOCATION:Jordan - Irbid\, irbid\, Jordan
+SUMMARY:Yarmouk Uni Firefox Club Meetup
+DESCRIPTION:its a meeting for firefox student ambassadors to put new plan 
+ for the next year .\nand to collect what they did in the last year
+URL:https://reps.mozilla.org/e/yarmouk-uni-firefox-club-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:32.536477667
+X-COORDINATES-LON:35.8551619202
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

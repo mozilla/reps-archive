@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3283
+CLASS:PUBLIC
+DTSTAMP:20200423T175811Z
+DTSTART:20150212T053000Z
+DTEND:20150216T093000Z
+LOCATION:Truba institute Bhopal\, Bhopal\, India
+SUMMARY:Fox Wave Bhopal
+DESCRIPTION:This  event will target the College all around Bhopal. We will
+  be  hosting event for different colleges around Bhopal starting from 12/0
+ 2/15  and will follow in the succeeding day. The event is basically to cre
+ ate  awareness about Mozilla Mission\, Firefox Browser and Firefox OS amon
+ g  the school kids so that they can start contributing in the Mozilla&#39;s  v
+ arious projects.
+URL:https://reps.mozilla.org/e/fox-wave-1-0/
+SEQUENCE:14
+X-COORDINATES-LAT:26.2220142959
+X-COORDINATES-LON:78.176903
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

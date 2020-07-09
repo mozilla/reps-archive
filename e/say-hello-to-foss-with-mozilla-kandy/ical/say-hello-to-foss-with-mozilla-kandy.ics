@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7926
+CLASS:PUBLIC
+DTSTAMP:20200407T174610Z
+DTSTART:20180817T040000Z
+DTEND:20180817T073000Z
+LOCATION:ICBT Kandy Auditorium\, Kandy\, Sri Lanka
+SUMMARY:Say Hello to FOSS with mozilla - Kandy
+DESCRIPTION:Introductory event on how to start contributing to FOSS-relate
+ d projects such as Mozilla and a session on Localisation for Sri Lankan co
+ mmunities.
+URL:https://reps.mozilla.org/e/say-hello-to-foss-with-mozilla-kandy/
+SEQUENCE:9
+X-COORDINATES-LAT:7.28902788324
+X-COORDINATES-LON:80.6292298157
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

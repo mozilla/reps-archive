@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3552
+CLASS:PUBLIC
+DTSTAMP:20200423T174934Z
+DTSTART:20150228T043000Z
+DTEND:20150228T223000Z
+LOCATION:GMRT Khodad\, Narayangao\, India
+SUMMARY:Mozilla Project at GMRT Science Fair
+DESCRIPTION:Hive India and Mozilla India will be participating at GMRT sci
+ ence fair\, Pune\n\nAround 20000 people attend the science fair and more 1
+ 5000 cross over the mozilla booth.\n\nThis is a NO budget event \\o/
+URL:https://reps.mozilla.org/e/mozilla-project-at-gmrt-science-fair/
+SEQUENCE:1
+X-COORDINATES-LAT:19.1199425599
+X-COORDINATES-LON:73.9730615614
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

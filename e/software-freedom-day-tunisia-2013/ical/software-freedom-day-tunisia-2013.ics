@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1071
+CLASS:PUBLIC
+DTSTAMP:20200407T180435Z
+DTSTART:20131027T080000Z
+DTEND:20131027T170000Z
+LOCATION:Palais des Sciences de Monastir.\, Monastir.\, Tunisia
+SUMMARY:Software Freedom Day Tunisia 2013
+DESCRIPTION:SFD is a worldwide celebration of Free and Open Source Softwar
+ e (FOSS). Our goal in this celebration is to educate the worldwide public 
+ about the benefits of using high quality FOSS in education\, in government
+ \, at home\, and in business -- in short\, everywhere! The non-profit orga
+ nization Software Freedom International coordinates SFD at a global level\
+ , providing support\, giveaways and a point of collaboration
+URL:https://reps.mozilla.org/e/software-freedom-day-tunisia-2013/
+SEQUENCE:5
+X-COORDINATES-LAT:35.7707984755
+X-COORDINATES-LON:10.8325570822
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

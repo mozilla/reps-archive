@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7549
+CLASS:PUBLIC
+DTSTAMP:20200423T101028Z
+DTSTART:20171220T120000Z
+DTEND:20171220T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Rust and JS
+DESCRIPTION:In this event\, we will learn about how to use Rust together w
+ ith JavaScript. Specifically\, we will discuss how Rust works with NodeJS.
+  In addition\, one of the things that are being discussed\, namely using R
+ ust to generate Web Assembly\, we will also see together. Thus\, Rust and 
+ JavaScript cooperation in the browser\, we can observe together.
+URL:https://reps.mozilla.org/e/rust-and-js/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.35460754832
+X-COORDINATES-LON:106.810546517
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

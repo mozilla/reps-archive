@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3025
+CLASS:PUBLIC
+DTSTAMP:20200407T181537Z
+DTSTART:20141113T223000Z
+DTEND:20141114T000000Z
+LOCATION:Areatres Soho - Malabia 1720\, Capital Federal\, Argentina
+SUMMARY:First FirefoxOS Meetup in Buenos Aires
+DESCRIPTION:Monthly meetup about webapps and FirefoxOS development.
+URL:https://reps.mozilla.org/e/first-firefoxos-meetup-in-buenos-aires/
+SEQUENCE:3
+X-COORDINATES-LAT:-34.9566118568
+X-COORDINATES-LON:-58.2297592191
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

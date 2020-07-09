@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@393
+CLASS:PUBLIC
+DTSTAMP:20200407T181129Z
+DTSTART:20121221T090000Z
+DTEND:20121221T110000Z
+LOCATION:Rabindra Sarabar\, Dhanmondi\, Dhaka\, Bangladesh\, Dhaka\, Bangl
+ adesh
+SUMMARY:MozCoffee BD
+DESCRIPTION:Main focus: Discussion about &#34;Mozilla Bangladesh Open Web Camp
+ aign 2013&#34;\n\nMozilla BD is going to organize some small hackathons and on
+ e big event on 2013 on Firefox OS and Open Web\, we are going to discuss a
+ bout that on thins meeting.
+URL:https://reps.mozilla.org/e/mozcoffee-bd/
+SEQUENCE:0
+X-COORDINATES-LAT:23.7450865834
+X-COORDINATES-LON:90.3770327568
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

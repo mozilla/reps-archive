@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3480
+CLASS:PUBLIC
+DTSTAMP:20200423T174840Z
+DTSTART:20150228T090000Z
+DTEND:20150228T160000Z
+LOCATION:EPAM meetupspace\, Budapest\, Hungary
+SUMMARY:JanOS &amp; Firefox OS workshop with Jan Jongboom &amp; Mozilla Hungary
+DESCRIPTION:Jan Jongboom visits Budapest to give a talk about JanOS &amp; Fire
+ fox OS - after that we sit some of hungary&#39;s brightest frontend devs down 
+ for a workshop\, hacking away with Firefox OS&#39;s exposed API-s.
+URL:https://reps.mozilla.org/e/janos-firefox-os-workshop-with-jan-jongboom
+ -mozilla-hungary/
+SEQUENCE:5
+X-COORDINATES-LAT:47.4778430084
+X-COORDINATES-LON:19.0273103717
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

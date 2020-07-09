@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@827
+CLASS:PUBLIC
+DTSTAMP:20200423T214650Z
+DTSTART:20130429T103000Z
+DTEND:20130429T133000Z
+LOCATION:National Changhua University of Education\, Changhua County\, Tai
+ wan
+SUMMARY:Mozilla talk at CSIE dept. of NCUE
+DESCRIPTION:We have a speech in the anniversary events of the Dept. of Com
+ puter Science and Information Engineering at National Changhua University 
+ of Education. \n\n\nBegan with the screening of &#34;Code Rush&#34;\, followed by 
+ 10 mins of Mozilla introducton by Irvin and BobChao shared his yearly expe
+ rience of getting involved in Mozilla community and OSS events for 30 mins
+ .
+URL:https://reps.mozilla.org/e/mozilla-talk-at-csie-dept-of-ncue/
+SEQUENCE:4
+X-COORDINATES-LAT:24.0651
+X-COORDINATES-LON:120.5593
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

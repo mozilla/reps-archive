@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@662
+CLASS:PUBLIC
+DTSTAMP:20200423T214702Z
+DTSTART:20130428T063000Z
+DTEND:20130428T093000Z
+LOCATION:Mokko Factory\, Bangkalan Plaza\, Bangkalan\, Madura\, Indonesia
+SUMMARY:MozKopdar Madura - April 2013
+DESCRIPTION:The first meetup for mozillians in Madura island\, East Java\,
+  Indonesia
+URL:https://reps.mozilla.org/e/mozkopdar-madura-april-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.31888173037
+X-COORDINATES-LON:113.159179688
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

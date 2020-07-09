@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@152
+CLASS:PUBLIC
+DTSTAMP:20200407T183139Z
+DTSTART:20120913T100000Z
+DTEND:20120913T120000Z
+LOCATION:Jenin Industrial Technology School\, Jenin\, Occupied Palestinian
+  Territory
+SUMMARY:Mozi School - Let&#39;s start .
+DESCRIPTION:Full Details in &#34; Additional info &#34; \n\n
+URL:https://reps.mozilla.org/e/mozi-school-lets-start/
+SEQUENCE:0
+X-COORDINATES-LAT:32.4665942023
+X-COORDINATES-LON:35.3256368637
+X-COUNTRY-CODE:ps
+END:VEVENT
+
+END:VCALENDAR

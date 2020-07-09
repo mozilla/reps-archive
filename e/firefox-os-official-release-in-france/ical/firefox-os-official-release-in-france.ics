@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2855
+CLASS:PUBLIC
+DTSTAMP:20200407T173659Z
+DTSTART:20140919T070000Z
+DTEND:20140921T160000Z
+LOCATION:Mozilla space Paris\, Paris\, France
+SUMMARY:Firefox OS official release in France
+DESCRIPTION:Firefox OS official event and European heritage days.\nOn frid
+ ay\, there is an event for the mozilla community and for other FLOSS commu
+ nities. A part of the day will be reserved to prepare the European heritag
+ e days. On the evening\, there will be the lanch party.\nOn saturday and S
+ unday\, it&#39;s European heritage days. The paris office being an historical 
+ building\, it will be visited by a lot of people during the week-end.
+URL:https://reps.mozilla.org/e/firefox-os-official-release-in-france/
+SEQUENCE:2
+X-COORDINATES-LAT:48.8716941936
+X-COORDINATES-LON:2.3424822091
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

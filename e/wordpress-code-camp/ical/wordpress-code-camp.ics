@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5394
+CLASS:PUBLIC
+DTSTAMP:20200423T152927Z
+DTSTART:20160429T043000Z
+DTEND:20160429T083000Z
+LOCATION:Truba college\, bhopal\, Bhopal\, India
+SUMMARY:Wordpress Code Camp
+DESCRIPTION:There will be a workshop for  making web literates at Truba co
+ llege of technology. There will be an introduction to Mozilla followed by 
+ the introduction of WordPress.\nThe workshop will cover the following poin
+ ts:\n  Mozilla Mission\n. Intros to Domain and Hosting (free and paid)\n. 
+ WordPress Installation\n. Installing Plugins and themes\n. Setting up Perm
+ alink.\n. Basics of SEO
+URL:https://reps.mozilla.org/e/wordpress-code-camp/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4313468
+X-COORDINATES-LON:78.4609302
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

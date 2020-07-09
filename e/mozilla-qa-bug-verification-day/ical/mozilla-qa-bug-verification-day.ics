@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4044
+CLASS:PUBLIC
+DTSTAMP:20200423T165808Z
+DTSTART:20150729T030000Z
+DTEND:20150729T120000Z
+LOCATION:Biswa Sahitya Kendra\, Banani Model Town\, Bangladesh
+SUMMARY:Mozilla QA: Bug Verification Day
+DESCRIPTION:In Bugzilla\, when a fix lands on a particular version\, It is
+  important that\, this fix are tested so that the fix can be merged in all
+  the version or where the fix is required!\n\nIn this day\, we will host e
+ vent so that contributors will come and contribute to verify bugs in diffe
+ rent platforms!
+URL:https://reps.mozilla.org/e/mozilla-qa-bug-verification-day/
+SEQUENCE:4
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

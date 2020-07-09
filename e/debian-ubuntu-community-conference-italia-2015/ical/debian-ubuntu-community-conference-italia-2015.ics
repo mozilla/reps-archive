@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3874
+CLASS:PUBLIC
+DTSTAMP:20200423T172105Z
+DTSTART:20150523T080000Z
+DTEND:20150524T080000Z
+LOCATION:Via Rombon\, 52 Milano\, Italy\, Milan\, Italy
+SUMMARY:Debian/Ubuntu Community Conference Italia 2015
+DESCRIPTION:Debian/Ubuntu Community Conference Italy 2015 (in short DUCC I
+ T-2015) is the fourth edition of the annual event that brings together the
+  Italian community of Debian and Ubuntu but also all the Italian community
+  active in Free Software\, in order to exchange knowledge\, discuss the cu
+ rrent situation and meet other developers and community members.\nParticip
+ ation is free and open to all.
+URL:https://reps.mozilla.org/e/debian-ubuntu-community-conference-italia-2
+ 015/
+SEQUENCE:2
+X-COORDINATES-LAT:45.4865820033
+X-COORDINATES-LON:9.2487788196
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@110
+CLASS:PUBLIC
+DTSTAMP:20200423T230332Z
+DTSTART:20120914T070000Z
+DTEND:20120914T130000Z
+LOCATION:Distrito C\, Madrid\, Madrid\, Spain
+SUMMARY:Firefox OS apps hacking
+DESCRIPTION:We will be showing B2G internals\, how it might change the mob
+ ile landscape and why Mozilla and Telefónica want to make a cheap web-bas
+ ed smartphone.\n\nThis event is for Telefónica (I+D) employees\, to make 
+ sure we have a good visibility inside the company and have some co-workers
+  having fun developing in HTML5.\n\nAlso\, there is some planning about ha
+ ving this events open to the public each 2-3 weeks on Fridays with support
+  from other teams at Telefónica and in a more centric place in Madrid.
+URL:https://reps.mozilla.org/e/firefox-os-apps-hacking/
+SEQUENCE:0
+X-COORDINATES-LAT:40.5155609559
+X-COORDINATES-LON:-3.66612911224
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

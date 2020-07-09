@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1501
+CLASS:PUBLIC
+DTSTAMP:20200423T204611Z
+DTSTART:20131130T050000Z
+DTEND:20131130T090000Z
+LOCATION:Mozilla Taiwan\, Taipei\, Taiwan
+SUMMARY:MozTW l10n Sprint
+DESCRIPTION:In the workshop\, Arky and Peter\, our L10n owner\, will intro
+ ducing some related topics\, and we planning to do a L10n sprint on WebMak
+ er website and many other stuff.
+URL:https://reps.mozilla.org/e/moztw-l10n-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:25.0318482
+X-COORDINATES-LON:121.5672244
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

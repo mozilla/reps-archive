@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2701
+CLASS:PUBLIC
+DTSTAMP:20200407T165712Z
+DTSTART:20140830T020000Z
+DTEND:20140830T110000Z
+LOCATION:Palet Express\, Makati City\, Philippines
+SUMMARY:Mozilla Community Space Manila Planning
+DESCRIPTION:Planning sessions for the proposed Mozilla Community Space Man
+ ila.
+URL:https://reps.mozilla.org/e/mozilla-community-space-manila-planning/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5471545629
+X-COORDINATES-LON:121.015638828
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1053
+CLASS:PUBLIC
+DTSTAMP:20200423T211816Z
+DTSTART:20130817T010000Z
+DTEND:20130818T150000Z
+LOCATION:Meralco Compound\, Pasig City\, Philippines
+SUMMARY:WebGeek DevCup 2013
+DESCRIPTION:The WebGeek DevCup is an annual developer competition for deve
+ lopers and designers. At WebGeek DevCup\, Participants can register indivi
+ dually\, or up to a maximum of three as a team. During this challenge\, pa
+ rticipants will be given 2 days to conceptualize\, develop\, and create am
+ azing apps that will be aligned with the given theme.\n\nMozilla will be a
+  Technology Partner on this event.
+URL:https://reps.mozilla.org/e/webgeek-devcup-2013/
+SEQUENCE:5
+X-COORDINATES-LAT:14.58736
+X-COORDINATES-LON:121.0638
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

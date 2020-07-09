@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2862
+CLASS:PUBLIC
+DTSTAMP:20200423T185228Z
+DTSTART:20140927T090000Z
+DTEND:20140927T140000Z
+LOCATION:yarmouk uni\, irbid\, Jordan
+SUMMARY:FSA Training ( Yarmouk Uni. )
+DESCRIPTION:we will be teach ambassadors about FSA program and how to use 
+ all mozilla project like appmaker \, webmaker and how to make addons and t
+ hemes and l10n\nand about firefox OS
+URL:https://reps.mozilla.org/e/fsa-training-yarmouk-uni/
+SEQUENCE:4
+X-COORDINATES-LAT:32.5368756433
+X-COORDINATES-LON:35.8537457138
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

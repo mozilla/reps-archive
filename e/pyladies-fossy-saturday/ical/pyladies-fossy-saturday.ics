@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8720
+CLASS:PUBLIC
+DTSTAMP:20200423T081839Z
+DTSTART:20190727T053000Z
+DTEND:20190727T083000Z
+LOCATION:CoffeeBeans Consulting\, Bangalore\, India
+SUMMARY:PyLadies FOSSy Saturday
+DESCRIPTION:Have you ever wondered what is this Free and Open Source Softw
+ are (FOSS) that people are talking about of late?\n\nDid you know that maj
+ or tech players have been consciously redefining their engineering culture
+  to embrace open-source philosophy and ethics?\n\nThe open secret is open 
+ source software is made by people just like you.\n\nLearn what it means to
+  contribute to FOSS\, listen to the stories and experiences of people acti
+ vely participating\; contributing and building open-source software.
+URL:https://reps.mozilla.org/e/pyladies-fossy-saturday/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9549550138
+X-COORDINATES-LON:77.4694976583
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

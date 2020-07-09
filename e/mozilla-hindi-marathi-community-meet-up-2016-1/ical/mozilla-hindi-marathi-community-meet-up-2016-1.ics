@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5523
+CLASS:PUBLIC
+DTSTAMP:20200407T165328Z
+DTSTART:20170121T033000Z
+DTEND:20170122T113000Z
+LOCATION:The Centurion Hotel\, Pune\, Pune\, India
+SUMMARY:Mozilla Hindi &amp; Marathi Community Meet-up 2017
+DESCRIPTION:An invitation only event hosted by Mozilla l10n Community in I
+ ndia with active and new contributors. This event will mainly focus on rev
+ iewing our work to deliver quality localisation\, increasing the download 
+ of Firefox for Desktop and Firefox for Android by reviewing important proj
+ ects\, translating more projects\, reviewing translated projects and train
+ ing new localizers.
+URL:https://reps.mozilla.org/e/mozilla-hindi-marathi-community-meet-up-201
+ 6-1/
+SEQUENCE:11
+X-COORDINATES-LAT:18.4509521165
+X-COORDINATES-LON:73.9256286621
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

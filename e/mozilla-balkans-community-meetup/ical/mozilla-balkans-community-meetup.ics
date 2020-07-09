@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3746
+CLASS:PUBLIC
+DTSTAMP:20200407T174235Z
+DTSTART:20150521T210000Z
+DTEND:20150524T210000Z
+LOCATION:TBD\, Bucharest\, Romania
+SUMMARY:Mozilla Balkans Community Meetup
+DESCRIPTION:The Balkans Inter-Community meet-up 2015 will take place in Bu
+ charest\, Romania\, on May 22-24th.\n\nLead contributors from Balkan commu
+ nities will be invited to participate in a 2-day event with sessions and w
+ orkshops. \n\nThe aim of the meetup is to enable Mozilla communities in th
+ e Balkans to share and learn from each other&#39;s experience working on the M
+ ozilla Project\, improve collaboration in the future\, and work on specifi
+ c tasks.
+URL:https://reps.mozilla.org/e/mozilla-balkans-community-meetup/
+SEQUENCE:4
+X-COORDINATES-LAT:44.4321904144
+X-COORDINATES-LON:26.1025314324
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

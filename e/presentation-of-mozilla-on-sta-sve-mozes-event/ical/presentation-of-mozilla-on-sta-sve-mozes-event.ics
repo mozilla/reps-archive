@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2339
+CLASS:PUBLIC
+DTSTAMP:20200407T180628Z
+DTSTART:20140531T113000Z
+DTEND:20140531T133000Z
+LOCATION:Gimnazija &#39;&#39; Panto Malisic &#39;&#39; Berane\, Berane\, Montenegro
+SUMMARY:Presentation of Mozilla on &#34;Šta sve možeš&#34; event
+DESCRIPTION:Event &#34;Šta sve možeš&#34; is part of UNDP project\, and it&#39;s go
+ al is to motivate young people to follow their dreams. After lecture\, peo
+ ple will get to see what is Mozilla Monenegro all about.
+URL:https://reps.mozilla.org/e/presentation-of-mozilla-on-sta-sve-mozes-ev
+ ent/
+SEQUENCE:1
+X-COORDINATES-LAT:42.8428374947
+X-COORDINATES-LON:19.87409234
+X-COUNTRY-CODE:me
+END:VEVENT
+
+END:VCALENDAR

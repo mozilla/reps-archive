@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7044
+CLASS:PUBLIC
+DTSTAMP:20200423T102629Z
+DTSTART:20171008T053000Z
+DTEND:20171008T093000Z
+LOCATION:Northern India Engineering College\, New Delhi\, India
+SUMMARY:Firefox Quantum Sprint
+DESCRIPTION:Firefox Quantum is soon to be launched and this is our opportu
+ nity to make Firefox rise again. Participate in the Firefox Quantum Sprint
+  and make a difference by ensuring that Firefox runs smoothly in your regi
+ on.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-1/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6194871094
+X-COORDINATES-LON:77.3046112061
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

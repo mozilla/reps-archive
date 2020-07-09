@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@659
+CLASS:PUBLIC
+DTSTAMP:20200423T214613Z
+DTSTART:20130504T130000Z
+DTEND:20130504T230000Z
+LOCATION:IDRD\, Bogotá\, Colombia
+SUMMARY:FLISOL Bogotá
+DESCRIPTION:VIII Latinamerican festival of open source installation. Sever
+ al open source communities in different cities of each country in LaTam or
+ ganises this event in order to spread\, share\, install\, teach and learn 
+ about open source.\nIn Bogotá\, will be 4 simultaneus Flisol: a Big one a
+ nd 3 small.   We will participate in the big one. Our idea is to be part o
+ f the sponsors group\, contributing with t-shirts for Installers (80) and 
+ Logistic people (32\, for the big and smalls).\n\n
+URL:https://reps.mozilla.org/e/flisol-bogota/
+SEQUENCE:0
+X-COORDINATES-LAT:4.65741610921
+X-COORDINATES-LON:-74.0854132175
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

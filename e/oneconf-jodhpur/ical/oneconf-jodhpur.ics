@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8785
+CLASS:PUBLIC
+DTSTAMP:20200423T081156Z
+DTSTART:20190914T043000Z
+DTEND:20190914T113000Z
+LOCATION:Tamarind Banquet\, Jodhpur\, India
+SUMMARY:Tech-Conf Jodhpur
+DESCRIPTION:Mozilla Rajasthan&#39;s second meetup is going to be a one-day con
+ ference event. This meetup will be a one-day free conference to motivate d
+ evelopers and designers to contribute more to open-source projects and for
+ thcoming technologies. There will be a series of talks and workshops engag
+ ing all kinds of developers and designers. We have prepared a great and qu
+ ite an informative line up of the speakers for you all. Join in our celebr
+ ation to make it a successful one!
+URL:https://reps.mozilla.org/e/oneconf-jodhpur/
+SEQUENCE:3
+X-COORDINATES-LAT:26.292594247
+X-COORDINATES-LON:73.0616455525
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

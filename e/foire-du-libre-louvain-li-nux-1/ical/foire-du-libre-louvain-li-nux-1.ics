@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1980
+CLASS:PUBLIC
+DTSTAMP:20200423T200922Z
+DTSTART:20140401T120000Z
+DTEND:20140401T200000Z
+LOCATION:TBD\, Louvain-la-Neuve\, Belgium
+SUMMARY:Foire du Libre Louvain-li-Nux
+DESCRIPTION:Free Software fair at the student city of Louvain-La-Neuve org
+ anized by passionate UCL students. Conferences and booths will be held abo
+ ut various Free and Open Source projects. \n\nMozilla has been invited to 
+ have a booth there\, and members of the local community may be able to giv
+ e a conference as well.
+URL:https://reps.mozilla.org/e/foire-du-libre-louvain-li-nux-1/
+SEQUENCE:2
+X-COORDINATES-LAT:50.6680102149
+X-COORDINATES-LON:4.61877536494
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

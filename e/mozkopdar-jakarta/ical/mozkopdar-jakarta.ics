@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@781
+CLASS:PUBLIC
+DTSTAMP:20200407T182701Z
+DTSTART:20130426T110000Z
+DTEND:20130426T140000Z
+LOCATION:Coffee Institute\, Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozKopdar Jakarta - April 2013
+DESCRIPTION:A gathering event for mozillians around Jakarta. We will share
+  updates about Mozilla on this event. Especially about the Firefox Flicks\
+ , Firefox OS\, and what&#39;s new on the latest version of Firefox for Desktop
+ . We also share report about activity at Mozilla Webmaker at Greek. And we
+  will open Firefox Clinic on the spot. And we open for new volunteers and 
+ contributors that want to join on the event.
+URL:https://reps.mozilla.org/e/mozkopdar-jakarta/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.23813872355
+X-COORDINATES-LON:106.80748771
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

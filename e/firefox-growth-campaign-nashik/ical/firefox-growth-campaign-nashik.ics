@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4148
+CLASS:PUBLIC
+DTSTAMP:20200423T170347Z
+DTSTART:20150711T043000Z
+DTEND:20150711T083000Z
+LOCATION:Panchvati college\, Nashik\, Nashik\, India
+SUMMARY:Firefox Growth Campaign Nashik
+DESCRIPTION:#‎FoxYeah‬ Campaign going strong worldwide. Time for celeb
+ rations in now. We invite you to be a part of this celebrations\, as ‪#
+ ‎MozillaNashik‬ hosts one of the most awesomest party of this time.
+URL:https://reps.mozilla.org/e/firefox-growth-campaign-nashik/
+SEQUENCE:0
+X-COORDINATES-LAT:19.9974533
+X-COORDINATES-LON:73.7898023
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

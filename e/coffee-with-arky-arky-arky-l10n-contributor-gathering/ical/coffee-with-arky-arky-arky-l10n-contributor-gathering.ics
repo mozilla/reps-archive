@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@289
+CLASS:PUBLIC
+DTSTAMP:20200423T224641Z
+DTSTART:20121110T070000Z
+DTEND:20121110T093000Z
+LOCATION:Nasi Kandar Pelita KLCC\, Ampang\, Malaysia
+SUMMARY:Coffee with Arky (Kuala Lumpur)
+DESCRIPTION:A conversation with Arky over a steaming cup of coffee. Sharin
+ g ideas\, thoughts on community events and mentoring. \n\nSmall gathering 
+ with local contributor for Firefox Bahasa Malaysia Project.
+URL:https://reps.mozilla.org/e/coffee-with-arky-arky-arky-l10n-contributor
+ -gathering/
+SEQUENCE:0
+X-COORDINATES-LAT:3.159252
+X-COORDINATES-LON:101.715036
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

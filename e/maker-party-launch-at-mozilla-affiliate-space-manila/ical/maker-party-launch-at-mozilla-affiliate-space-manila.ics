@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2612
+CLASS:PUBLIC
+DTSTAMP:20200423T192144Z
+DTSTART:20140729T020000Z
+DTEND:20140729T060000Z
+LOCATION:Palet Express\, Makati City\, Philippines
+SUMMARY:Maker Party Launch at Mozilla Affiliate Space Manila
+DESCRIPTION:A fun activity to celebrate the launch of Maker Party season i
+ n Manila.
+URL:https://reps.mozilla.org/e/maker-party-launch-at-mozilla-affiliate-spa
+ ce-manila/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5467768124
+X-COORDINATES-LON:121.015653312
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

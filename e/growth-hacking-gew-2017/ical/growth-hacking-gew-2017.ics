@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7255
+CLASS:PUBLIC
+DTSTAMP:20200423T101601Z
+DTSTART:20171119T043000Z
+DTEND:20171119T103000Z
+LOCATION:GCCI\, Ashram road\, Ahmedabad\, India
+SUMMARY:Growth Hacking @ GEW 2017
+DESCRIPTION:GEW is a Global Start-up Competition organized by the Global E
+ ntrepreneurship Network across the world\, including India. The objective 
+ of the event is to bring entrepreneurs\, investors\, government and other 
+ stakeholders together and build an entrepreneurial ecosystem in India. I a
+ m going to speak on Growth hacking with the preventive measures of cyber s
+ ecurity.
+URL:https://reps.mozilla.org/e/growth-hacking-gew-2017/
+SEQUENCE:0
+X-COORDINATES-LAT:23.0258367103
+X-COORDINATES-LON:72.570801884
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

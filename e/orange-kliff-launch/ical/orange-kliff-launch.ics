@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4081
+CLASS:PUBLIC
+DTSTAMP:20200407T170251Z
+DTSTART:20150624T070000Z
+DTEND:20150624T090000Z
+LOCATION:iHub\, Nairobi\, Kenya
+SUMMARY:Orange Kliff Launch
+DESCRIPTION:Launch of Orange Klif Firefox OS device in Kenya. This is a pr
+ ess launch involving the local Orange team together with the local Mozilla
+  community doing a press launch for the new Firefox Device in Kenya
+URL:https://reps.mozilla.org/e/orange-kliff-launch/
+SEQUENCE:0
+X-COORDINATES-LAT:-1.2754764
+X-COORDINATES-LON:36.8360084
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

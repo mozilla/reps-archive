@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6539
+CLASS:PUBLIC
+DTSTAMP:20200407T174136Z
+DTSTART:20170429T033000Z
+DTEND:20170430T113000Z
+LOCATION:Nunet Technologies\, Hill No.2\, Rishikonda\, Vishakapatanam\, Vi
+ shakapatanam\, India
+SUMMARY:NASA Space Apps Challenge 2017
+DESCRIPTION:Rust India Community to present Rust session at Space Apps Cha
+ llenge\, an incubator innovation program of NASA.
+URL:https://reps.mozilla.org/e/nasa-space-apps-challenge-2017-1/
+SEQUENCE:0
+X-COORDINATES-LAT:17.7336176197
+X-COORDINATES-LON:83.3092689444
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

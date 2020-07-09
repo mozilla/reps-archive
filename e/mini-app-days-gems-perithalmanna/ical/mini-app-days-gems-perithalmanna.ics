@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1772
+CLASS:PUBLIC
+DTSTAMP:20200423T202654Z
+DTSTART:20140215T043000Z
+DTEND:20140215T113000Z
+LOCATION:GEMS ARTS &amp; SCIENCE COLLEGE\, Malappuram\, India
+SUMMARY:Mini App Days @ GEMS\, Perithalmanna
+DESCRIPTION:These Mini App Days are a series of events throughout Kerala l
+ ocale\, done as a follow-up to the main App Day. The main aim is to showca
+ se Firefox OS to the students and help them to develop apps for it.
+URL:https://reps.mozilla.org/e/mini-app-days-gems-perithalmanna/
+SEQUENCE:8
+X-COORDINATES-LAT:11.0692969044
+X-COORDINATES-LON:76.069809
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

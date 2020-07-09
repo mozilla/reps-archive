@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@542
+CLASS:PUBLIC
+DTSTAMP:20200407T180507Z
+DTSTART:20130228T120000Z
+DTEND:20130228T140000Z
+LOCATION:VTŠ - Visoka tehnička škola strukovnih studija (College of App
+ lied Sciences)\, Subotica\, Serbia
+SUMMARY:Get Involved: volunteer opportunities at Mozilla
+DESCRIPTION:On this event\, we will talk about new web tehnologies\, Firef
+ ox OS and how to get involved with Mozilla. Since Microsoft has a strong a
+ ppearance on this university\, connecting students with Mozilla and having
+  events about Mozilla&#39;s work\, we will build Mozilla&#39;s presence and possib
+ ly get new contributors.
+URL:https://reps.mozilla.org/e/get-involved-volunteer-opportinities-at-moz
+ illa/
+SEQUENCE:1
+X-COORDINATES-LAT:46.0943126321
+X-COORDINATES-LON:19.6615898609
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

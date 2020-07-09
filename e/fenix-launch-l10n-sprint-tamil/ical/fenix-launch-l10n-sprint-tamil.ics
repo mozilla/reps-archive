@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9139
+CLASS:PUBLIC
+DTSTAMP:20200407T165006Z
+DTSTART:20200321T010000Z
+DTEND:20200321T070000Z
+LOCATION:Sarada Vidyalaya School\, Villupuram\, Villupram\, India
+SUMMARY:Fenix Launch L10n Sprint - Tamil
+DESCRIPTION:Fenix is coming! It represents a rebirth of our Android browse
+ r. It&#39;s leaner\, it&#39;s faster\, and we want its reach to be more linguistic
+ ally accessible than it&#39;s older sibling\, Fennec. Help us make Fenix the m
+ ost localized browser on Android! Completion of pending translation and te
+ sting of app.
+URL:https://reps.mozilla.org/e/fenix-launch-l10n-sprint-tamil/
+SEQUENCE:3
+X-COORDINATES-LAT:11.9488621
+X-COORDINATES-LON:79.4849705
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

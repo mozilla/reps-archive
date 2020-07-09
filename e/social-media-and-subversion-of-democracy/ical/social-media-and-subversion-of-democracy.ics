@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8419
+CLASS:PUBLIC
+DTSTAMP:20200423T084054Z
+DTSTART:20190224T043000Z
+DTEND:20190224T063000Z
+LOCATION:Indian Social Institute\, New Delhi\, India
+SUMMARY:Social Media and Subversion of Democracy
+DESCRIPTION:Expert speakers will be speaking at the event on the current s
+ tate of social media\, how it is being used to subvert democracy by non-tr
+ ansparency of ad services\, algorithm biases\, micro-targeting (such as Ca
+ mbridge Analytica incident) based on caste\, religion\, region\, gender an
+ d other discriminatory parameters\, and various other aspects.
+URL:https://reps.mozilla.org/e/social-media-and-subversion-of-democracy/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6060247961
+X-COORDINATES-LON:77.2169265663
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

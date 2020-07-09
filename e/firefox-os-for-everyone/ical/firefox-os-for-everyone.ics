@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3558
+CLASS:PUBLIC
+DTSTAMP:20200423T175041Z
+DTSTART:20150226T123000Z
+DTEND:20150226T143000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, India
+SUMMARY:Firefox OS for everyone
+DESCRIPTION:Firefox OS is an ecosystem in itself. Everyone\, not just deve
+ lopers\, can contribute to it\, and help the ecosystem grow. The aim of th
+ is event is to help participants learn about Firefox OS from a user point-
+ of-view. It will enable participants to talk about Firefox OS to non-devel
+ opers\, by understanding the core concepts\, and learning to explain them 
+ in simple words.
+URL:https://reps.mozilla.org/e/firefox-os-for-everyone/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9632880398
+X-COORDINATES-LON:77.6141468882
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

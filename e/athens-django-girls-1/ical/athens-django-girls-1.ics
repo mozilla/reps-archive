@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3841
+CLASS:PUBLIC
+DTSTAMP:20200423T172614Z
+DTSTART:20150509T060000Z
+DTEND:20150509T140000Z
+LOCATION:Hackerspace.gr\, Athens\, Greece
+SUMMARY:Athens Django Girls
+DESCRIPTION:Event&#39;s goal is to bring more women into the world of technolo
+ gy and increase the diversity in the Django community.
+URL:https://reps.mozilla.org/e/athens-django-girls-1/
+SEQUENCE:0
+X-COORDINATES-LAT:38.0169235181
+X-COORDINATES-LON:23.7311689853
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

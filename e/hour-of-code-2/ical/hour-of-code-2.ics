@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8917
+CLASS:PUBLIC
+DTSTAMP:20200407T170217Z
+DTSTART:20191214T043000Z
+DTEND:20191214T113000Z
+LOCATION:Indore\, Indore\, India
+SUMMARY:Hour of Code
+DESCRIPTION:Computers are everywhere\, changing every industry on the plan
+ et. But only 45% of all high schools teach computer science. Good news is\
+ , we’re on our way to change this! If you&#39;ve heard about the Hour of Cod
+ e before\, you might know it made history. More than 100 million students 
+ have tried an Hour of Code.
+URL:https://reps.mozilla.org/e/hour-of-code-2/
+SEQUENCE:4
+X-COORDINATES-LAT:22.7166109
+X-COORDINATES-LON:75.9114717
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

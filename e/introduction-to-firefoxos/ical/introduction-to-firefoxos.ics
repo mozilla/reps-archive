@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1230
+CLASS:PUBLIC
+DTSTAMP:20200423T211702Z
+DTSTART:20130821T133000Z
+DTEND:20130821T143000Z
+LOCATION:Seminar Hall\, Old Computer Science Engineering Building\, IIT Bo
+ mbay\, Mumbai\, India
+SUMMARY:Introduction to FirefoxOS
+DESCRIPTION:This event focuses to introduce FirefoxOS\, few days before th
+ e FirefoxOS AppDays and MozBoot event scheduled at IIT Bombay on 24th and 
+ 25th August. The aim is to give students a head start thereby giving them 
+ ample time and insight into development on the Firefox OS platform.
+URL:https://reps.mozilla.org/e/introduction-to-firefoxos/
+SEQUENCE:1
+X-COORDINATES-LAT:19.1362893197
+X-COORDINATES-LON:72.9135131836
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

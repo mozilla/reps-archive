@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@470
+CLASS:PUBLIC
+DTSTAMP:20200423T220940Z
+DTSTART:20130215T040000Z
+DTEND:20130215T110000Z
+LOCATION:Ankur ICT Development Foundation\, Dhaka\, Bangladesh
+SUMMARY:International Mother Language Day l10n training and Sprint
+DESCRIPTION:We have been localizing various Mozilla products from several 
+ years. Now we are in the verge of releasing Fx19 Bengali build in February
+ . bn-BD is added to MDN\, which also need to be translated. We will teach 
+ how to localize Mozilla products and then we will do a sprint for &#34;MDN Doc
+ umentation&#34;\, &#34;Mozilla.Lang&#34; and &#34;Firefox OS&#34;.\n\n21st February is the Int
+ ernational Mother Language Day\, declared by UNESCO. We arranging the l10n
+  sprint with the &#34;Save our language on the Web&#34; spirit.
+URL:https://reps.mozilla.org/e/international-mother-language-day-translati
+ on-training-and-sprint/
+SEQUENCE:0
+X-COORDINATES-LAT:23.8642147531
+X-COORDINATES-LON:90.4016017914
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

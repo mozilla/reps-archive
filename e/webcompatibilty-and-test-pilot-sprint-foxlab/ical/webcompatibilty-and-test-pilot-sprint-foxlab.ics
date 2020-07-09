@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6076
+CLASS:PUBLIC
+DTSTAMP:20200423T113830Z
+DTSTART:20161230T043000Z
+DTEND:20161230T083000Z
+LOCATION:FOXLAB\,Angadipuram\,Perinthalmanna\,Malappuram\, Malappuram\, In
+ dia
+SUMMARY:Webcompatibilty and Test pilot sprint @ FOXLAB
+DESCRIPTION:This event is to promote and work on high priority functional 
+ areas of Mozilla.Various activity regarding Web Compat and Firefox Test Pi
+ lot would be done.
+URL:https://reps.mozilla.org/e/webcompatibilty-and-test-pilot-sprint-foxla
+ b/
+SEQUENCE:11
+X-COORDINATES-LAT:11.0375253667
+X-COORDINATES-LON:76.0697707906
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

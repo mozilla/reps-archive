@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2277
+CLASS:PUBLIC
+DTSTAMP:20200407T174912Z
+DTSTART:20140624T190000Z
+DTEND:20140627T190000Z
+LOCATION:Elliot Center\, 1226 SW Salmon St  Portland\, OR 97205\, Portland
+ \, United States
+SUMMARY:Open Source Bridge
+DESCRIPTION:Open Source Bridge is a conference for developers working with
+  open source technologies and for people interested in learning the open s
+ ource way.\n\nMozilla will be participating with a number of speakers and 
+ also through a Firefox OS day organized by Benjamin Kerensa and Lukas Blak
+ k.
+URL:https://reps.mozilla.org/e/open-source-bridge/
+SEQUENCE:4
+X-COORDINATES-LAT:45.4980051419
+X-COORDINATES-LON:-122.648803666
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4563
+CLASS:PUBLIC
+DTSTAMP:20200423T163517Z
+DTSTART:20150928T030000Z
+DTEND:20150930T100000Z
+LOCATION:Cifest Walk\, Cikarang Selatan\, Bekasi\, Bekasi\, Indonesia
+SUMMARY:Mozilla Indonesia Booth in Pameran Pendidikan Kab. Bekasi
+DESCRIPTION:Education exhibition in Bekasi\, with many schools set up a bo
+ oth. Mozilla is invited to have a presence in one of the school booths whi
+ ch has Mozilla Club in it.
+URL:https://reps.mozilla.org/e/mozilla-indonesia-booth-in-pameran-pendidik
+ an-kab-bekasi/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.24306451791
+X-COORDINATES-LON:106.999328602
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

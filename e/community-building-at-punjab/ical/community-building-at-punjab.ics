@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1304
+CLASS:PUBLIC
+DTSTAMP:20200407T175020Z
+DTSTART:20131208T033000Z
+DTEND:20131208T123000Z
+LOCATION:TBD\, Ludhiana\, India
+SUMMARY:Community Building at &#34;The India&#39;s Bread-Basket&#34;
+DESCRIPTION:Community Building in Punjab ensures the presence of mozilla b
+ y building a healthy community picking up the sustainable contributors.
+URL:https://reps.mozilla.org/e/community-building-at-punjab/
+SEQUENCE:9
+X-COORDINATES-LAT:30.4486736793
+X-COORDINATES-LON:75.05859375
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

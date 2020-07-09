@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3574
+CLASS:PUBLIC
+DTSTAMP:20200407T173713Z
+DTSTART:20150320T070000Z
+DTEND:20150323T080000Z
+LOCATION:Hotel L&#39;atrium - Yassmine Hammamet\, Hammamet\, Tunisia
+SUMMARY:Mozilla Tunisia Community Meetup 2015
+DESCRIPTION:This will be our 2015 community meetup. We aim by this meetup 
+ to fix the agenda for the year and work on the remaining tasks for our mai
+ n projects : We are observing many departures within the Mozilla Tunisia k
+ ernel for diverse reasons. We want via this meeting organize what&#39;s next f
+ or the community and have dedicated time slot to work on our recruitment s
+ trategy and finalize the launch of our website project.\nIt&#39;s going to be 
+ a strategy meetup with diverse workshops
+URL:https://reps.mozilla.org/e/mozilla-tunisia-community-meetup-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:36.3726219612
+X-COORDINATES-LON:10.5412216159
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7263
+CLASS:PUBLIC
+DTSTAMP:20200407T183810Z
+DTSTART:20180531T060000Z
+DTEND:20180531T160000Z
+LOCATION:TBD\, Gaborone\, Botswana
+SUMMARY:Moz Rust &amp; WebVr Capacity Building Workshop
+DESCRIPTION:Reactivating Mozilla Botswana community with Rust and WebVr wo
+ rkshop\, together with panel discussions from local experts
+URL:https://reps.mozilla.org/e/moz-rust-webvr-capacity-building-workshop/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.9728680533
+X-COORDINATES-LON:26.0712862015
+X-COUNTRY-CODE:bw
+END:VEVENT
+
+END:VCALENDAR

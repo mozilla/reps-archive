@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4584
+CLASS:PUBLIC
+DTSTAMP:20200423T163331Z
+DTSTART:20151002T053000Z
+DTEND:20151002T182500Z
+LOCATION:Online\, Bhopal\, India
+SUMMARY:Mini Hindi localization Sprint - MozMP
+DESCRIPTION:On a special occasion of Gandhi Jayanti (Birthday of Farther o
+ f Nation MK Gandhi ji) we will run a 12 hour sprint of L10n-hi-IN project 
+ (Hindi being National Language)\, event would be started by a local gather
+ ing at cafe in Bhopal where all participants will join us on hangout! \nSp
+ rint would officially start with Local Reps and Mentor Localizing followed
+  by all other volunteers.  Duration would be 12PM to 12AM\nOn 4th October 
+ we will reward  the highest contributor with a swag pack.
+URL:https://reps.mozilla.org/e/mini-hindi-localization-sprint-mozmp/
+SEQUENCE:2
+X-COORDINATES-LAT:23.2410203633
+X-COORDINATES-LON:77.417145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

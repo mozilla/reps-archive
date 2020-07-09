@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4396
+CLASS:PUBLIC
+DTSTAMP:20200423T163843Z
+DTSTART:20150919T103000Z
+DTEND:20150919T133000Z
+LOCATION:EngineerBabu India\, Indore\, India
+SUMMARY:Windows 10 Community Activation Campaign - Indore
+DESCRIPTION:This event helps us to retain Firefox Users on Windows 10. In 
+ support to Windows 10 Community Activation Campaign  we are hosting this e
+ vent\, inviting lots of FSAs from INDORE.\nOther plan is to have a GeoLoca
+ tion Sprint\, talk about  the Mozilla  Location Service\, In support to Mo
+ zilla India&#39;s event Stumbling in a Box INDIA contributing to Mozilla and o
+ pen projects and introduction to  stumbling tools that bring knowledge to 
+ participants on  how to gather  Geolocation information in their  citiy
+URL:https://reps.mozilla.org/e/mozilla-indore-meetup/
+SEQUENCE:7
+X-COORDINATES-LAT:22.7172509015
+X-COORDINATES-LON:75.8660125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

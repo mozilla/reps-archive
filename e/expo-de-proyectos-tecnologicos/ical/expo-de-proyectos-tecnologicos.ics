@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4882
+CLASS:PUBLIC
+DTSTAMP:20200423T160730Z
+DTSTART:20151203T080000Z
+DTEND:20151203T150000Z
+LOCATION:TBD\, Managua\, Nicaragua
+SUMMARY:Technological projects Exhibition
+DESCRIPTION:This is the secong year where Mozilla Nicaragua is sponsor by 
+ this event\, we had a stand where we share info about the Mozilla proyect 
+ and how to help in the community.
+URL:https://reps.mozilla.org/e/expo-de-proyectos-tecnologicos/
+SEQUENCE:4
+X-COORDINATES-LAT:12.1392593
+X-COORDINATES-LON:-86.2136299
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

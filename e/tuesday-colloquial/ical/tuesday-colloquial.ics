@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@99
+CLASS:PUBLIC
+DTSTAMP:20200423T230112Z
+DTSTART:20120918T170000Z
+DTEND:20120918T180000Z
+LOCATION:CCADET - CIRCUITO EXTERIOR S/N -CD. UNIVERSITARIA.\, Mexico\, D.F
+ .\, Mexico
+SUMMARY:Tuesday colloquial 
+DESCRIPTION:Share research and development projects conducted within and o
+ utside\nUNAM. http://www.ccadet.unam.mx/
+URL:https://reps.mozilla.org/e/tuesday-colloquial/
+SEQUENCE:0
+X-COORDINATES-LAT:19.3230906496
+X-COORDINATES-LON:-99.1842162609
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

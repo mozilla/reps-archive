@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1043
+CLASS:PUBLIC
+DTSTAMP:20200423T213020Z
+DTSTART:20130629T120000Z
+DTEND:20130629T140000Z
+LOCATION:Sulgeneckstr. / Kappelenstr.\, Bern\, Switzerland\, Bern\, Switze
+ rland
+SUMMARY:Anti-PRISM demonstration
+DESCRIPTION:An anti-PRISM demonstration organized by the Swiss Pirate Part
+ y.
+URL:https://reps.mozilla.org/e/anti-prism-demonstration/
+SEQUENCE:1
+X-COORDINATES-LAT:46.943970679
+X-COORDINATES-LON:7.43781924248
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

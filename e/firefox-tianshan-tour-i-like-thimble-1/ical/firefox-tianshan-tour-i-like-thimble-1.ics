@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4903
+CLASS:PUBLIC
+DTSTAMP:20200423T160247Z
+DTSTART:20151217T083000Z
+DTEND:20151217T100000Z
+LOCATION:Xinjiang Education Institute Shiyan Primary School\, Urumqi\, Chi
+ na
+SUMMARY:Firefox Tianshan tour- How to use Firefox learn a foreign language
+DESCRIPTION:How to use Firefox learn a foreign language
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-i-like-thimble-1/
+SEQUENCE:4
+X-COORDINATES-LAT:43.8012813352
+X-COORDINATES-LON:2607.61309487
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

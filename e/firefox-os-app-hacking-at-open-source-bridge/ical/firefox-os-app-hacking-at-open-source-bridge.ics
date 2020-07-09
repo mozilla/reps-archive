@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@985
+CLASS:PUBLIC
+DTSTAMP:20200407T180215Z
+DTSTART:20130618T123000Z
+DTEND:20130620T150000Z
+LOCATION:Hacker Lounge (Part of Open Source Bridge) - Eliot Center\, Portl
+ and\, United States
+SUMMARY:Firefox OS App Hacking at Open Source Bridge
+DESCRIPTION:Join us during Open Source Bridge at the Hacker Lounge to lear
+ n and hack on Firefox OS\, Mozilla&#39;s open source operating system for the 
+ mobile web.\n\nIf you&#39;re a web developer\, you’ll be right at home codin
+ g apps in HTML5\, JavaScript and CSS for Firefox OS. We&#39;ll learn together 
+ how to access mobile Web APIs and how to use the Firefox OS Simulator in y
+ our desktop browser to view and test your mobile apps. We&#39;ll also have Fir
+ efox OS handsets around to check out the OS and test your apps.
+URL:https://reps.mozilla.org/e/firefox-os-app-hacking-at-open-source-bridg
+ e/
+SEQUENCE:1
+X-COORDINATES-LAT:45.52
+X-COORDINATES-LON:-122.681944
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

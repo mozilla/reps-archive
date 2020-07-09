@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7184
+CLASS:PUBLIC
+DTSTAMP:20200423T101622Z
+DTSTART:20171118T063000Z
+DTEND:20171118T123000Z
+LOCATION:Shreedhar Mohoni Complex\, Bhopal\, India
+SUMMARY:Hack-Day WebVR Hackathon MozMPCG
+DESCRIPTION:This event will be organized under the Activate Mozilla campai
+ gn that supports the current organizational goals and would encourage mobi
+ lization of the community by predominantly focusing on WebVR development u
+ sing A-Frame framework. Event to build WebVR community in MozMPCG and lear
+ n A-Frame framework.
+URL:https://reps.mozilla.org/e/hack-day-webvr-hackathon-mozmpcg/
+SEQUENCE:12
+X-COORDINATES-LAT:23.2573811467
+X-COORDINATES-LON:77.4013938988
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1847
+CLASS:PUBLIC
+DTSTAMP:20200423T202119Z
+DTSTART:20140302T103000Z
+DTEND:20140302T130000Z
+LOCATION:Saras Parlour\, Jaipur\, India
+SUMMARY:Makers Party
+DESCRIPTION:MCR meetup cum Mozilla Makers Party @ Jaipur. Also introducing
+  Mozilla to few new contributors :)\n\nThis party includes learning sessio
+ ns and then hacking also\, with &#34;Build and Show&#34;
+URL:https://reps.mozilla.org/e/makers-party/
+SEQUENCE:37
+X-COORDINATES-LAT:27.0649956346
+X-COORDINATES-LON:75.0732412934
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

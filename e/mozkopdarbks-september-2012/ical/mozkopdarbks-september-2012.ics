@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@45
+CLASS:PUBLIC
+DTSTAMP:20200423T230520Z
+DTSTART:20120901T080000Z
+DTEND:20120901T120000Z
+LOCATION:KTO Bekasi\, Ruko Bumi Satria Kencana\, Bekasi\, Indonesia
+SUMMARY:MozKopDarBKS September 2012
+DESCRIPTION:MozKopDarBKS = Mozilla Kopi Darat Bekasi (MozCoffee - Mozillia
+ n Meetup)
+URL:https://reps.mozilla.org/e/mozkopdarbks-september-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.24700352715
+X-COORDINATES-LON:106.978597641
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7214
+CLASS:PUBLIC
+DTSTAMP:20200423T101952Z
+DTSTART:20171104T120000Z
+DTEND:20171104T140000Z
+LOCATION:Swecha Office\, Gachibowli X Roads\, Hyderabad 500032\, Hyderabad
+ \, India
+SUMMARY:Screening of &#39;The Internet&#39;s Own Boy: The Story of Aaron Swartz&#39;
+DESCRIPTION:The Internet&#39;s Own Boy review – an engaging and moving docum
+ entary.\nA well-constructed telling of the life\, prosecution and death of
+  US hacktivist Aaron Swartz\n\nSwecha is a non-profit organisation committ
+ ed to promote Free Software Movement in Telugu states is organising this e
+ vent.\nI will be speaking about Open Access Movement\, Open Science Moveme
+ nt and Mozila Science.
+URL:https://reps.mozilla.org/e/screening-of-the-internet-s-own-boy-the-sto
+ ry-of-aaron-swartz/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4355490714
+X-COORDINATES-LON:78.3594297768
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

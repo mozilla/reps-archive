@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7275
+CLASS:PUBLIC
+DTSTAMP:20200407T165327Z
+DTSTART:20171126T073000Z
+DTEND:20171126T093000Z
+LOCATION:Taw win garden hotel\, Pyay road\, Myanmar
+SUMMARY:Devfest Yangon
+DESCRIPTION:Rust programming workshop for techies in Yangon Region
+URL:https://reps.mozilla.org/e/devfest-yangon/
+SEQUENCE:1
+X-COORDINATES-LAT:16.8010355332
+X-COORDINATES-LON:96.2504884601
+X-COUNTRY-CODE:mm
+END:VEVENT
+
+END:VCALENDAR

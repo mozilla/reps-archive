@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5312
+CLASS:PUBLIC
+DTSTAMP:20200407T180527Z
+DTSTART:20160729T030000Z
+DTEND:20160729T110000Z
+LOCATION:Eastern University\, Banani Model Town\, Bangladesh
+SUMMARY:Mozilla QA Bangladesh: Train the Trainers V1.0
+DESCRIPTION:a Train the Trainer event
+URL:https://reps.mozilla.org/e/mozilla-qa-bangladesh-train-the-trainers-v1
+ -0/
+SEQUENCE:11
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

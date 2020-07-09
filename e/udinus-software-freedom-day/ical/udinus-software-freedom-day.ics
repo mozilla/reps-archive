@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6997
+CLASS:PUBLIC
+DTSTAMP:20200423T101634Z
+DTSTART:20171117T170000Z
+DTEND:20171120T170000Z
+LOCATION:UDINUS\, Semarang\, Semarang\, Indonesia
+SUMMARY:UDINUS Software Freedom Day
+DESCRIPTION:SFD is a moment to introduce FOSS to mass people especially to
+  student in this university. The organizer is Doscom (Dinus Open Source Co
+ mmunityy). We will have workshop about a-frame for one day\, and booth for
+  2 days.
+URL:https://reps.mozilla.org/e/udinus-software-freedom-day/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.98439058591
+X-COORDINATES-LON:110.422050473
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

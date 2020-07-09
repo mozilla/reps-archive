@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2141
+CLASS:PUBLIC
+DTSTAMP:20200423T193724Z
+DTSTART:20140614T070000Z
+DTEND:20140614T160000Z
+LOCATION:Zühlke AG\, Schlieren (ZH)\, Schlieren\, Switzerland
+SUMMARY:Firefox OS App Day Zurich 2014
+DESCRIPTION:The second &#34;Firefox OS App Day Switzerland&#34; provides an introd
+ uction to dive into application development for Firefox OS. Additionally w
+ e will provide an overview of the progress made since our last Firefox OS 
+ App last year. If you are a web developer you&#39;re ready to start - there&#39;s 
+ nothing you need more.
+URL:https://reps.mozilla.org/e/firefox-os-app-day-zurich-2014/
+SEQUENCE:5
+X-COORDINATES-LAT:47.3999892486
+X-COORDINATES-LON:8.44383287425
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

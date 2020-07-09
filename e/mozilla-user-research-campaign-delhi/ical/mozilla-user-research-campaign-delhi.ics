@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2300
+CLASS:PUBLIC
+DTSTAMP:20200407T182001Z
+DTSTART:20140601T063000Z
+DTEND:20140604T063000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:Mozilla User Research Campaign\, Delhi
+DESCRIPTION:Mozilla&#39;s  Cori Schauer&#39;s Consumer Insights team is putting to
+ gether a trip for about 15 people to Delhi and Jaipur the first week of Ju
+ ne to learn about mobile usage in India. The team will be in Delhi  from J
+ une  1-4th.
+URL:https://reps.mozilla.org/e/mozilla-user-research-campaign-delhi/
+SEQUENCE:3
+X-COORDINATES-LAT:28.6102447132
+X-COORDINATES-LON:77.1079100668
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7463
+CLASS:PUBLIC
+DTSTAMP:20200423T094008Z
+DTSTART:20180428T140000Z
+DTEND:20180428T200000Z
+LOCATION:Universidad Centroamericana (UCA)\, Managua\, Nicaragua
+SUMMARY:FLISOL Nicaragua 2018
+DESCRIPTION:The Latin American Free Software Installation Festival (FLISOL
+ )\, is the most  important Free Software event in Latinoamerica that has b
+ een held since 2005 in the different countries. It is dedicated for people
+  interested in knowing more about Software and Free Culture.
+URL:https://reps.mozilla.org/e/flisol-nicaragua/
+SEQUENCE:13
+X-COORDINATES-LAT:12.1257832287
+X-COORDINATES-LON:-86.2700589002
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

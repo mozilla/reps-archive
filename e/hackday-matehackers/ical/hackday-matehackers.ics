@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1580
+CLASS:PUBLIC
+DTSTAMP:20200423T204234Z
+DTSTART:20131207T100000Z
+DTEND:20131207T200000Z
+LOCATION:330 Independence Avenue\, Room 206 and 209\, Porto Alegre\, Brazi
+ l
+SUMMARY:Hackday Matehackers
+DESCRIPTION:The Matehackers will be holding an event of celebration. The e
+ vent will be held Arduino workshops\, workshops\, among other activities d
+ ojos. We will make a presentation FirefoxOS and the idea is to create a wo
+ rkshop to develop the first application in FirefoxOS. We will use the even
+ t to inform stakeholders how to help Mozilla community.
+URL:https://reps.mozilla.org/e/hackday-matehackers/
+SEQUENCE:1
+X-COORDINATES-LAT:-30.024225021
+X-COORDINATES-LON:-51.2109975817
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

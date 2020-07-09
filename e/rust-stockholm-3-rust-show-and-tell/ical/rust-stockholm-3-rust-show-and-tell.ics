@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6304
+CLASS:PUBLIC
+DTSTAMP:20200423T115010Z
+DTSTART:20161025T160000Z
+DTEND:20161025T200000Z
+LOCATION:Widespace\, Regeringsgatan 30\, Sweden
+SUMMARY:Rust Stockholm #3:    Rust Show and Tell
+DESCRIPTION:Let&#39;s meet up again for a Rust show and tell.\n\nSimply share 
+ anything you&#39;ve been doing with Rust\, big or small\, or just come to enjo
+ y the company of other Rustaceans.
+URL:https://reps.mozilla.org/e/rust-stockholm-3-rust-show-and-tell/
+SEQUENCE:0
+X-COORDINATES-LAT:59.3316996
+X-COORDINATES-LON:18.0666414
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@987
+CLASS:PUBLIC
+DTSTAMP:20200423T212758Z
+DTSTART:20130706T193000Z
+DTEND:20130706T213000Z
+LOCATION:Hotel Terrales\, ruta 94 y Avenida Urquiza\, Las Breñas\, Chaco\
+ , Argentina
+SUMMARY:Labcon - Las Breñas\, Chaco
+DESCRIPTION:This is the first of a serie of events organized by Daniel Oks
+ entiuk\, a Mozilla&#39;s Argentina community member. In this first one\, he wi
+ ll talk about web browsers\, and how to use it in a better way.
+URL:https://reps.mozilla.org/e/labcon-las-brenas-chaco/
+SEQUENCE:2
+X-COORDINATES-LAT:-27.1031439606
+X-COORDINATES-LON:-61.0757446289
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4640
+CLASS:PUBLIC
+DTSTAMP:20200423T161059Z
+DTSTART:20151126T040000Z
+DTEND:20151126T060000Z
+LOCATION:Eskaton road\, Dhaka\, Bangladesh
+SUMMARY:MakerParty @UT
+DESCRIPTION:The senior students of UT will be joining this event along wit
+ h the ICT teachers and anyone interested. \nAgenda:\nIntro\nDiscussion on 
+ open web &amp; Mozilla\nIntro to the new Thimble\nMake/remix\nTry X-Ray goggle
+ s and popcorn\nQuiz\nClosing and swags distribution
+URL:https://reps.mozilla.org/e/webmaker-ut/
+SEQUENCE:7
+X-COORDINATES-LAT:23.7472532346
+X-COORDINATES-LON:90.3993406892
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

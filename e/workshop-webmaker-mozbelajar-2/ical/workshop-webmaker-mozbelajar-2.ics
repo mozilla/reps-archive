@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2395
+CLASS:PUBLIC
+DTSTAMP:20200423T190623Z
+DTSTART:20140719T050000Z
+DTEND:20140719T110000Z
+LOCATION:QWords Gallery\, Gedung Cyber 1 Lantai 3\, Jl.Kuningan Barat no.8
+ \, Jakarta 12710 - Indonesia\, Jakarta\, Indonesia
+SUMMARY:Workshop Webmaker #MozBelajar: 2
+DESCRIPTION:The first #MozBelajar event in June 14th was fully booked in l
+ ess than 24 hours after it was announced. Therefore\, as promised to the c
+ ommunity\, I held another workshop session. \n\nThe workshop objective is 
+ to get more people to understand and using Webmaker for their web making p
+ urposes. The project intended to educating young (15-25 years old) interne
+ t users on using Webmaker through a series of workshop scheduled during we
+ ekends in Jakarta.
+URL:https://reps.mozilla.org/e/workshop-webmaker-mozbelajar-2/
+SEQUENCE:12
+X-COORDINATES-LAT:-6.23868821584
+X-COORDINATES-LON:106.824066103
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

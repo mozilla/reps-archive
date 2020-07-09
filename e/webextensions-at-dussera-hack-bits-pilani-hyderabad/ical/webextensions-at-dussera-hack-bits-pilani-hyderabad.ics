@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7115
+CLASS:PUBLIC
+DTSTAMP:20200423T103504Z
+DTSTART:20170930T043000Z
+DTEND:20171001T043000Z
+LOCATION:BITS - Pilani\, Hyderabad Campus\, Shameerpet Mandal\, Jawahar Na
+ gar\, Hyderabad\, Telangana 500078\, Hyderabad\, India
+SUMMARY:WebExtensions at Dussera Hack - BITS Pilani\, Hyderabad
+DESCRIPTION:It’s very easy to create add-ons for Firefox using WebExtens
+ ions APIs. This Web-based technology framework offers a powerful way to cr
+ eate browser extensions that can be easily ported to Chrome\, Opera\, and 
+ Edge\, and you only need to know HTML\, JavaScript and CSS to build them.\
+ n\nEvent Flow: https://activate.mozilla.community/webextensions/#event-flo
+ w
+URL:https://reps.mozilla.org/e/webextensions-at-dussera-hack-bits-pilani-h
+ yderabad/
+SEQUENCE:1
+X-COORDINATES-LAT:17.5443075103
+X-COORDINATES-LON:78.5729770653
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

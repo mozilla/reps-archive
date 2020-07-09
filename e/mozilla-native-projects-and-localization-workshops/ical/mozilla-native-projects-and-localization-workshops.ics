@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4750
+CLASS:PUBLIC
+DTSTAMP:20200423T160504Z
+DTSTART:20151209T190000Z
+DTEND:20151209T210000Z
+LOCATION:Ministry of Culture in Peru\, Lima\, Peru
+SUMMARY:Mozilla Native: projects and localization workshops
+DESCRIPTION:Our local community will make a presentation of the Mozilla Fo
+ undation\, our mission\, projects and tools. Native Mozilla project will b
+ e presented to a research group at the teams of the localization projects.
+  The meeting will take place in the Ministry of Culture in Perú and talk 
+ about native languages\, digital inclusion and technologies. Talks-Present
+ ations
+URL:https://reps.mozilla.org/e/mozilla-native-projects-and-localization-wo
+ rkshops/
+SEQUENCE:2
+X-COORDINATES-LAT:-12.0852350974
+X-COORDINATES-LON:-77.0010960106
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9005
+CLASS:PUBLIC
+DTSTAMP:20200407T165028Z
+DTSTART:20200115T043000Z
+DTEND:20200115T103000Z
+LOCATION:Birla Institute of Technology Mesra\, Off Campus Deoghar\, Deogha
+ r\, India
+SUMMARY:Cloud Study Jam
+DESCRIPTION:An exciting Study Jam with lots of learning &amp; experience at Bi
+ rla Institute of Technology\, Mesra (off-campus - Deoghar) on 15th Jan 202
+ 0.\n\nIt&#39;s a one day workshop which will cover learning from:\n1. Intro to
+  Open Source Projects\n2. Hands-on-GitHub\n3. Google Summer of Code (GSoC)
+ \n4. Google Cloud Study Jam\n5. Mozilla open-source projects: Common voice
+ \, Android Browser\, and Mozilla-Appmaker\n\nWe have fantastic speakers fo
+ r our Study Jam. So\, grab the wonderful opportunity to learn from them!
+URL:https://reps.mozilla.org/e/cloud-study-jam/
+SEQUENCE:2
+X-COORDINATES-LAT:23.3720936454
+X-COORDINATES-LON:85.3233030438
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

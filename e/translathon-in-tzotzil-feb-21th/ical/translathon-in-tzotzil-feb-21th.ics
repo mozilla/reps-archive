@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@509
+CLASS:PUBLIC
+DTSTAMP:20200423T220742Z
+DTSTART:20130221T150000Z
+DTEND:20130222T000000Z
+LOCATION:Universidad Autonoma de Chiapas\, Tuxtla Gutirrez \, Mexico
+SUMMARY:Translathon in Tzotzil (Feb 21th)
+DESCRIPTION:We proposed Translathon event\, an activitie to make the local
+ ization of Firefox and creation of Wikipedia articles\, in this case in Tz
+ otzil. The main objective is form community committed to support the local
+ ization\, looking for awareness in our society about the importance of lan
+ guage preservation and promotion of the use on an important issue of digit
+ al inclusion of indigenous communities. It calls on key dates such as Febr
+ uary 21\, the International Day Native Languages.
+URL:https://reps.mozilla.org/e/translathon-in-tzotzil-feb-21th/
+SEQUENCE:0
+X-COORDINATES-LAT:16.7552148748
+X-COORDINATES-LON:-93.1581187248
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

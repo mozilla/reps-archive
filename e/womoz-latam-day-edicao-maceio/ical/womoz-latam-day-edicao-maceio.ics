@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5920
+CLASS:PUBLIC
+DTSTAMP:20200407T183724Z
+DTSTART:20161119T090000Z
+DTEND:20161119T180000Z
+LOCATION:Faculdade de Tecnologia de Alagoas\, Maceio\, Brazil
+SUMMARY:WoMoz Latam Day | Edição Maceió
+DESCRIPTION:It is an event promoted by Mozillians women and free software 
+ enthusiasts and open source in Latin America to increase the inclusion of 
+ women in technology and participation in Mozilla communities.
+URL:https://reps.mozilla.org/e/womoz-latam-day-edicao-maceio/
+SEQUENCE:4
+X-COORDINATES-LAT:-9.64792704746
+X-COORDINATES-LON:-35.7274532318
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5273
+CLASS:PUBLIC
+DTSTAMP:20200407T180123Z
+DTSTART:20160403T153000Z
+DTEND:20160403T173000Z
+LOCATION:Institut Burkinabè des arts et métiers\, Ouagadougou\, Burkina 
+ Faso
+SUMMARY:Localization sprint
+DESCRIPTION:A meetup of the Mooré language localization team to move forw
+ ard on the project.
+URL:https://reps.mozilla.org/e/localization-sprint-3/
+SEQUENCE:1
+X-COORDINATES-LAT:12.4078144793
+X-COORDINATES-LON:-1.49731063852
+X-COUNTRY-CODE:bf
+END:VEVENT
+
+END:VCALENDAR

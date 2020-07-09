@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7070
+CLASS:PUBLIC
+DTSTAMP:20200423T102532Z
+DTSTART:20171010T043000Z
+DTEND:20171010T093000Z
+LOCATION:WSO2.Telco\, Colombo\, Sri Lanka
+SUMMARY:Firefox 57 Sprint Sri Lanka
+DESCRIPTION:We are expecting that some websites will probably break on new
+  firefox. And that’s because there will be changes to the rendering engi
+ ne resulting to websites to break. But Mozilla employees are not able to t
+ est all the websites around the globe we ask for the help of our volunteer
+ s to ensure that Firefox 57 will launch successfully in their region.\n#Mo
+ zillaLK #Mozilla #SriLanka #LK
+URL:https://reps.mozilla.org/e/firefox-57-sprint-sri-lanka/
+SEQUENCE:1
+X-COORDINATES-LAT:6.85280462293
+X-COORDINATES-LON:80.0257873535
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

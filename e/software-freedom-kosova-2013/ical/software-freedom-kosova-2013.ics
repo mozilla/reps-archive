@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1146
+CLASS:PUBLIC
+DTSTAMP:20200407T165843Z
+DTSTART:20130907T070000Z
+DTEND:20130909T160000Z
+LOCATION:Faculty of Education\, Prishtina\, Albania
+SUMMARY:Software Freedom Kosova 2013
+DESCRIPTION:SFK (Software Freedom Kosova Conference) is the biggest annual
+  non-proffit conference in Kosovo/Balkans established to promote Software 
+ freedom\, Open source software\, Free culture and Open knowledge\, a globa
+ l movement that originally started more than 25 years ago.
+URL:https://reps.mozilla.org/e/software-freedom-kosova-2013/
+SEQUENCE:4
+X-COORDINATES-LAT:42.6578151692
+X-COORDINATES-LON:21.1638522148
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

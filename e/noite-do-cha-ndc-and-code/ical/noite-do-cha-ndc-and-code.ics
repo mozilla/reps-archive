@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4599
+CLASS:PUBLIC
+DTSTAMP:20200407T175714Z
+DTSTART:20151108T000000Z
+DTEND:20151108T090000Z
+LOCATION:NDC&#39;s HQ at Rua Archibald James George\, 95.\, Guaruja\, Brazil
+SUMMARY:Noite do Chá (NDC) and code.
+DESCRIPTION:NDC (Noite do Chá) is a local caiçara community of thinkers\
+ , technologists\, gamers\, hackers and activist of free culture.\n\nI (Cor
+ agem) will talk to NDC&#39;s guys how awesome and easy is to code to Firefox O
+ S and why is important support the open web.\n\nAnd YES this event will ha
+ ppen during all night long from November 7th at 10pm until November 08th a
+ t 06 am. Enjoy! =D
+URL:https://reps.mozilla.org/e/noite-do-cha-ndc-and-code/
+SEQUENCE:5
+X-COORDINATES-LAT:-23.9752645403
+X-COORDINATES-LON:-46.2278634312
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

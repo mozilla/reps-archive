@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2965
+CLASS:PUBLIC
+DTSTAMP:20200407T181934Z
+DTSTART:20141115T093000Z
+DTEND:20141115T133000Z
+LOCATION:NIT Trichy\, Trichy TamilNadu\, Thuvakudi\, India
+SUMMARY:Open Hatch to NIT TRICHY Campus
+DESCRIPTION:Introduction Session to all the 1st and 2nd year students abou
+ t Open source. How they can contribute to it. Demo of various products of 
+ Mozilla like Firefox\, FirefoxOS\, Webmaker and Appmaker and Hand-on Sessi
+ on on App maker and Firefox OS Apps.\nInformation about how to participate
+  with GSOC 2015 with Mozilla and projects they can contribute to
+URL:https://reps.mozilla.org/e/open-hatch-to-nit-trichy/
+SEQUENCE:6
+X-COORDINATES-LAT:10.7631972
+X-COORDINATES-LON:78.8122503
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

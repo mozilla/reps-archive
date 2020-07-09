@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1144
+CLASS:PUBLIC
+DTSTAMP:20200423T212351Z
+DTSTART:20130727T020000Z
+DTEND:20130727T040000Z
+LOCATION:Mozilla Space Taipei\, Taipei City\, Taiwan
+SUMMARY:Firefox Campus Ambassadors&#39; training camp
+DESCRIPTION:This is a camp hosted by Mozilla Taipei office and office invi
+ te Mozilla Reps in Taipei to attend this event together to introduce some 
+ Mozilla projects and community sharing.\n\nCommunity members: Irvin\, Clem
+ \, and Ernest attend this event for sharing MozTW community history\, WebM
+ aker project\, Open Badge project\, SUMO project and ReMo program.
+URL:https://reps.mozilla.org/e/firefox-campus-ambassadors-training-camp/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0324751163
+X-COORDINATES-LON:121.566917896
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

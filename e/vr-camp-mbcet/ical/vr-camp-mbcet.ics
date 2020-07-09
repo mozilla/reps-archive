@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9050
+CLASS:PUBLIC
+DTSTAMP:20200407T170232Z
+DTSTART:20200215T043000Z
+DTEND:20200215T120000Z
+LOCATION:Mar Baselios College of Engineering And Technology\,Mar Ivanios C
+ ollege Rd\, Nalanchira\, Thattinakam\, Thiruvananthapuram\, Kerala 695015\
+ , Thiruvananthapuram\, India
+SUMMARY:VR Camp @ MBCET
+DESCRIPTION:In this event you will learn WebVR development using A-Frame f
+ ramework (one of emerging future technologies by Mozilla). This event is f
+ or participants who already know HTML
+URL:https://reps.mozilla.org/e/vr-camp-mbcet/
+SEQUENCE:10
+X-COORDINATES-LAT:8.50083902646
+X-COORDINATES-LON:76.9515609602
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

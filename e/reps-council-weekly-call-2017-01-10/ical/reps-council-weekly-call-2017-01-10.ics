@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6201
+CLASS:PUBLIC
+DTSTAMP:20200407T173254Z
+DTSTART:20170110T170000Z
+DTEND:20170110T180000Z
+LOCATION:Vidyo\, Novo mesto\, Slovenia
+SUMMARY:Reps Council Weekly Call 2017-01-10
+DESCRIPTION:We talk about current issues\, assign work\, and make decision
+ s affecting the program.
+URL:https://reps.mozilla.org/e/reps-council-weekly-call-2017-01-10/
+SEQUENCE:3
+X-COORDINATES-LAT:45.9288265041
+X-COORDINATES-LON:15.3821468332
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

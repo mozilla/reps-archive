@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4025
+CLASS:PUBLIC
+DTSTAMP:20200423T170342Z
+DTSTART:20150711T043000Z
+DTEND:20150712T063000Z
+LOCATION:Startup Village\, Hyderabad\, India
+SUMMARY:Angel Hack-Vizag
+DESCRIPTION:AngelHack is the world’s largest and most diverse global hac
+ ker community\, helping to drive open innovation of tech products\, platfo
+ rms and brands with extraordinary smarts\, scale and speed.We are going to
+  Present Firefox OS and how easy it is to Develop Apps for Firefox OS at t
+ his Hackathon.
+URL:https://reps.mozilla.org/e/angel-hack-vizag/
+SEQUENCE:4
+X-COORDINATES-LAT:17.4729393084
+X-COORDINATES-LON:83.1064452231
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2265
+CLASS:PUBLIC
+DTSTAMP:20200407T180625Z
+DTSTART:20140514T043000Z
+DTEND:20140514T053000Z
+LOCATION:No. 567 Xingcheng Rd. Hangzhou\, China\, Xiaoshan\, China
+SUMMARY:Mozilla workshop for Nokia Open source and SW reuse forum
+DESCRIPTION:Internal sharing for Mozilla and community
+URL:https://reps.mozilla.org/e/mozilla-workshop-for-nokia-open-source-and-
+ sw-reuse-forum/
+SEQUENCE:1
+X-COORDINATES-LAT:30.1958576597
+X-COORDINATES-LON:120.17519759
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

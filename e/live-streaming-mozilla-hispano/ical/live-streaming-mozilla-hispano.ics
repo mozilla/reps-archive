@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8888
+CLASS:PUBLIC
+DTSTAMP:20200423T080445Z
+DTSTART:20191026T230000Z
+DTEND:20191027T000000Z
+LOCATION:TBD\, Managua\, Nicaragua
+SUMMARY:Live Streaming Mozilla Hispano
+DESCRIPTION:Los temas de la transmisión serán: buenos hábitos de compor
+ tamiento en la web y herramientas para mantener nuestros datos seguros en 
+ Internet.
+URL:https://reps.mozilla.org/e/live-streaming-mozilla-hispano/
+SEQUENCE:5
+X-COORDINATES-LAT:12.0804159442
+X-COORDINATES-LON:-86.1817017943
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

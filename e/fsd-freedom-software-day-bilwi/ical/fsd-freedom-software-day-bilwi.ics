@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6888
+CLASS:PUBLIC
+DTSTAMP:20200423T103551Z
+DTSTART:20170928T140000Z
+DTEND:20170928T210000Z
+LOCATION:TDB\, RAAN\, Nicaragua
+SUMMARY:FSD ( Freedom Software Day) Bilwi
+DESCRIPTION:Software Freedom Day (SFD) is an annual worldwide celebration 
+ of Free Software. SFD is a public education effort with the aim of increas
+ ing awareness of Free Software and its virtues\, and encouraging its use.\
+ n\nThis Event will be celebrated in Bilwi ubicated the Atlantic Region of 
+ Nicaragua\, and will be hosted in the URACCAN university (http://www.uracc
+ an.edu.ni/)
+URL:https://reps.mozilla.org/e/fsd-freedom-software-day-bilwi/
+SEQUENCE:4
+X-COORDINATES-LAT:14.2694850229
+X-COORDINATES-LON:-83.5080872476
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

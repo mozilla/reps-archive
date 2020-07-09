@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@581
+CLASS:PUBLIC
+DTSTAMP:20200407T175926Z
+DTSTART:20130227T103000Z
+DTEND:20130227T123000Z
+LOCATION:National Chiao Tung University\, Hsichu\, Taiwan
+SUMMARY:Invited talk for NCTU student service
+DESCRIPTION:Give a talk on &#34;the web is our platform&#34;. Tell student what is
+  Mozilla\, What Mozilla do\, how can they join\, and what local community 
+ do.
+URL:https://reps.mozilla.org/e/invited-talk-for-nctu-student-service/
+SEQUENCE:0
+X-COORDINATES-LAT:24.7871338993
+X-COORDINATES-LON:120.997345448
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

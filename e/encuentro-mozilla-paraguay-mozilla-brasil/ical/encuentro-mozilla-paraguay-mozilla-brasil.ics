@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1349
+CLASS:PUBLIC
+DTSTAMP:20200423T205845Z
+DTSTART:20131019T230000Z
+DTEND:20131020T030000Z
+LOCATION:TBD\, Ciudad del Este\, Brazil
+SUMMARY:Encuentro Mozilla Paraguay - Mozilla Brasil
+DESCRIPTION:As we&#39;ll have people from Mozilla Brasil and Mozilla Paraguay 
+ in Foz do Iguaçu\, we&#39;re organizing a meetup with members from Mozilla Br
+ asil and Mozilla Paraguay that&#39;ll be there or around.
+URL:https://reps.mozilla.org/e/encuentro-mozilla-paraguay-mozilla-brasil/
+SEQUENCE:3
+X-COORDINATES-LAT:-25.510531071
+X-COORDINATES-LON:-54.6235084534
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

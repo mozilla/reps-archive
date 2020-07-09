@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@736
+CLASS:PUBLIC
+DTSTAMP:20200407T175540Z
+DTSTART:20130422T110000Z
+DTEND:20130424T210000Z
+LOCATION:Praça dos Girassóis\, s/nº\, Centro\, Palmas\, Brazil
+SUMMARY:FORTES 2013
+DESCRIPTION:FORTES 2013 (Fórum de Tecnologias &amp; Engenharia de Software) i
+ s an event promoted by the Coordenaria de Desenvolvimento de Sistemas do T
+ ribunal Regional Eleitoral de Tocantins. This event promotes the exchange 
+ of knowledge between IT professionals\, and opens opportunities to innovat
+ ions.
+URL:https://reps.mozilla.org/e/fortes-2013/
+SEQUENCE:4
+X-COORDINATES-LAT:-10.185018453
+X-COORDINATES-LON:-48.3336639404
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

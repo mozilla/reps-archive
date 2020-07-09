@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8537
+CLASS:PUBLIC
+DTSTAMP:20200407T182434Z
+DTSTART:20190609T033000Z
+DTEND:20190609T063000Z
+LOCATION:Rajarata University of Sri Lanka\, Mihintale\, Sri Lanka
+SUMMARY:Mozilla Common Voice Sprint - Rajarata
+DESCRIPTION:This event organize to promote volunteering for the Mozilla co
+ mmon voice project to collect and validate sentences. Introduce sentence c
+ ollector web application is also a part of this event. Add Sinhala sentenc
+ e to common voice project is also an goal of this project.
+URL:https://reps.mozilla.org/e/mozilla-common-voice-rajarata/
+SEQUENCE:5
+X-COORDINATES-LAT:8.35252225602
+X-COORDINATES-LON:80.5029258714
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

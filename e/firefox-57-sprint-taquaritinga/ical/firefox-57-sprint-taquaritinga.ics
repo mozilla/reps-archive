@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6989
+CLASS:PUBLIC
+DTSTAMP:20200423T103223Z
+DTSTART:20171003T103000Z
+DTEND:20171003T160000Z
+LOCATION:Fatec Taquaritinga\, Taquaritinga\, Brazil
+SUMMARY:Firefox Quantum Sprint - Taquaritinga
+DESCRIPTION:Firefox 57 is coming! We Will check Firefox Nightly with our m
+ ost important web page in Brazil\, so we can ensure that they work correct
+ ly.
+URL:https://reps.mozilla.org/e/firefox-57-sprint-taquaritinga/
+SEQUENCE:2
+X-COORDINATES-LAT:-21.4306227966
+X-COORDINATES-LON:-48.515138627
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

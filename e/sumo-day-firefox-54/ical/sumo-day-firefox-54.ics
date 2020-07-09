@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6734
+CLASS:PUBLIC
+DTSTAMP:20200423T110053Z
+DTSTART:20170615T030000Z
+DTEND:20170616T025500Z
+LOCATION:Online\, São Paulo\, Brazil
+SUMMARY:SUMO Day – Firefox 54
+DESCRIPTION:We are having another SUMO Social and Support Forum day in cel
+ ebration of the Firefox 54 launch and we would love your company and parti
+ cipation any time that day to answer and support our Mozilla users that co
+ me to the forums.
+URL:https://reps.mozilla.org/e/sumo-day-firefox-54/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.5890635914
+X-COORDINATES-LON:-46.6582589151
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

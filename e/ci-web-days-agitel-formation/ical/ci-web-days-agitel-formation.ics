@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5481
+CLASS:PUBLIC
+DTSTAMP:20200423T152205Z
+DTSTART:20160602T080000Z
+DTEND:20160603T180000Z
+LOCATION:Campus Agitel Formation \, Riviera palmeraie\, Abidjan\, Ivory Co
+ ast
+SUMMARY:CI WEB DAYS - AGITEL -FORMATION
+DESCRIPTION:we will be present on the campus of AGITEL Riviera palmeraie.A
+ t  the second edition of the CI WEB DAYS \, we will talk about security on
+  the Web and Mozilla for two days (June 2-3).\n\nMe and my team on the AGI
+ TEL campus\, we will be hosting a booth and workshops
+URL:https://reps.mozilla.org/e/ci-web-days-agitel-formation/
+SEQUENCE:1
+X-COORDINATES-LAT:5.27968268026
+X-COORDINATES-LON:-3.91868591309
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

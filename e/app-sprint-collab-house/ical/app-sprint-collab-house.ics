@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2946
+CLASS:PUBLIC
+DTSTAMP:20200423T182631Z
+DTSTART:20141122T123000Z
+DTEND:20141123T063000Z
+LOCATION:Collabs House\,Opp Film nagar society complex\,Filmnagar\, Hydera
+ bad\, India
+SUMMARY:App Sprint @Collab House
+DESCRIPTION:Inspired from our awesome CodeSprint Format We are going to ha
+ ve Appsprint at Collab House\,Hyderabad. An Overnight Hackathon where Peop
+ le will Sit and Code Apps and Games for Firefox OS! A totally Metric Relat
+ ed Event which would be new format Tested First in Hyderabad.
+URL:https://reps.mozilla.org/e/app-sprint-collab-house/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4501507078
+X-COORDINATES-LON:78.457661
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

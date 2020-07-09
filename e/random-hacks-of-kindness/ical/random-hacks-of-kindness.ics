@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6751
+CLASS:PUBLIC
+DTSTAMP:20200423T105428Z
+DTSTART:20170715T020000Z
+DTEND:20170716T090000Z
+LOCATION:91 Springboard\, New Delhi\, India
+SUMMARY:Random Hacks of Kindness
+DESCRIPTION:Random Hacks of Kindness brings together a versatile global co
+ mmunity of techies\, entrepreneurs\, students\, professionals\, designers 
+ and anyone who wants to do some good for the society using technology. \n\
+ nThis will be a platform for people to pitch social innovations and they w
+ ill be made available to the public in the form of open source projects fo
+ r better visibility and collaboration.\n\nWe will be introducing Mozilla c
+ ommunity and how they can contribute through WebExtensions.
+URL:https://reps.mozilla.org/e/random-hacks-of-kindness/
+SEQUENCE:3
+X-COORDINATES-LAT:28.489199634
+X-COORDINATES-LON:77.0712432847
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

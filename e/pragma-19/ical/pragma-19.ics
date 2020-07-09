@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8310
+CLASS:PUBLIC
+DTSTAMP:20200423T084534Z
+DTSTART:20190119T033000Z
+DTEND:20190120T113000Z
+LOCATION:Indian Institute of Information Technology\, Allahabad\, India
+SUMMARY:Pragma&#39;19
+DESCRIPTION:Pragma is premier student developers’ conference held at III
+ T-Allahabad. Attracting some of the best student developers from across In
+ dia\, Pragma is a 2 day extravaganza featuring a hackathon\, workshops and
+  numerous talks.Pragma’s main aim is to spark conversations between the 
+ students and get their ideas flowing because young blood often produces re
+ volutionary ideas.
+URL:https://reps.mozilla.org/e/pragma-19/
+SEQUENCE:3
+X-COORDINATES-LAT:25.427979137
+X-COORDINATES-LON:81.8197630718
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

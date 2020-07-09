@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@852
+CLASS:PUBLIC
+DTSTAMP:20200407T174935Z
+DTSTART:20130525T170000Z
+DTEND:20130527T170000Z
+LOCATION:cartagena\, Colombia\, Cartagena\, Colombia
+SUMMARY:Firefox OS Launch Camp - Colombia
+DESCRIPTION:Activating and leveraging our overall community – from users
+  to volunteer leaders – is critical to amplifying our efforts and creati
+ ng user demand and excitement for Firefox OS.  Collaborative working time 
+ and training (inclusive of the Engagement Team and our partners) for regio
+ nal teams is crucial to ensure our efforts and resources in target markets
+  are optimized for launch.
+URL:https://reps.mozilla.org/e/firefox-os-launch-camp-colombia/
+SEQUENCE:2
+X-COORDINATES-LAT:10.4158974986
+X-COORDINATES-LON:-75.5227661133
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

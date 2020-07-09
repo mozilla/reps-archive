@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3979
+CLASS:PUBLIC
+DTSTAMP:20200423T165642Z
+DTSTART:20150731T130000Z
+DTEND:20150731T200000Z
+LOCATION:Margaret Island\, Budapest\, Hungary
+SUMMARY:Sysadmin Day 2015
+DESCRIPTION:Yearly meeting of System administrators and other techies.\n* 
+ Representing communities and programs: Mozilla\, LibreOffice\, Linux Mint 
+ and Fedora\n# Program\n* Showcase Firefox OS\n* Fill QUIZ with visitors\n*
+  How to contribute to Mozilla\n* Recruit new members to Firefox OS Mobiliz
+ ers\n* Games\n* Stay secure on the Internet
+URL:https://reps.mozilla.org/e/sysadmin-day-2014-1/
+SEQUENCE:5
+X-COORDINATES-LAT:47.5195145114
+X-COORDINATES-LON:19.0447683306
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

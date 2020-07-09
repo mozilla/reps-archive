@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6384
+CLASS:PUBLIC
+DTSTAMP:20200423T112640Z
+DTSTART:20170301T043000Z
+DTEND:20170531T113000Z
+LOCATION:Meetup Space\, Barasat\, India
+SUMMARY:Digital Literacy Camp 2017
+DESCRIPTION:100 Students\n\nThe 3-month training program brought path-brea
+ king results. The students not only learn how to use a computer but also t
+ hey realised what to use it for. At the end of the training\, they respond
+ ed to the various opportunities provided by the web and this created a dif
+ ference in their day-to-day lives.
+URL:https://reps.mozilla.org/e/digital-literacy-camp/
+SEQUENCE:2
+X-COORDINATES-LAT:22.7280571418
+X-COORDINATES-LON:88.2476806641
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4673
+CLASS:PUBLIC
+DTSTAMP:20200407T182702Z
+DTSTART:20151106T150000Z
+DTEND:20151107T000000Z
+LOCATION:Avenida Tecnológico S/N\, Fracc. Industrial Julián de Obregón\
+ , León\, Mexico
+SUMMARY:CITSI 2015 ITL
+DESCRIPTION:Link to student and faculty community area Information Technol
+ ogy and Communications\, with the private sector and increase motivation i
+ n students from the middle level to study related fields\; showing the lab
+ or market demand and opportunities in Mexico in this area.
+URL:https://reps.mozilla.org/e/citsi-2015-itl/
+SEQUENCE:3
+X-COORDINATES-LAT:21.1349313433
+X-COORDINATES-LON:-101.673294068
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

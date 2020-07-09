@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8717
+CLASS:PUBLIC
+DTSTAMP:20200423T082624Z
+DTSTART:20190601T090000Z
+DTEND:20190601T160000Z
+LOCATION:Silvercoin Apartment\, Vadodara\, India
+SUMMARY:MozApartment
+DESCRIPTION:Discussing the up and coming in Mozilla\; and creating new pro
+ jects for the community. Planning BugHunter Event for Vadodara.
+URL:https://reps.mozilla.org/e/mozapartment/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2902612116
+X-COORDINATES-LON:73.2096404582
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

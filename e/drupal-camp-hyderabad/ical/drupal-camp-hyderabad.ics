@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6349
+CLASS:PUBLIC
+DTSTAMP:20200407T174124Z
+DTSTART:20170305T033000Z
+DTEND:20170305T133000Z
+LOCATION:IIIT\,Hyderabad\, Hyderabad\, India
+SUMMARY:Drupal Camp Hyderabad
+DESCRIPTION:Full Day paid Drupal 8 training on March 4th. Next day fully p
+ acked day with sessions\, networking &amp; contests.Sprawling over 66 acres ca
+ mpus\, venue is magnficient and can host 900+ attendees. Conference room c
+ an host 500+ which has nice acoustics.Best of the minds involved with Drup
+ al Development\, Business &amp; Marketing in India.Best place to share\, learn
+  &amp; make friends.
+URL:https://reps.mozilla.org/e/drupal-camp-hyderabad/
+SEQUENCE:1
+X-COORDINATES-LAT:17.3853713634
+X-COORDINATES-LON:78.4734535217
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7172
+CLASS:PUBLIC
+DTSTAMP:20200407T181219Z
+DTSTART:20171025T160000Z
+DTEND:20171025T200000Z
+LOCATION:TBD\, Brno\, Czech Republic
+SUMMARY:Brněnský MozBeer #2
+DESCRIPTION:MozBeers are informal meetups for all fans of the red panda an
+ d other open source projects. Come to have a beer/wine/lemonade with us an
+ d discuss about Firefox!\n--\nMozBeery jsou neformální setkání fanouš
+ ků pandy červené a jiných open-source projektů. Přijďte s námi pos
+ edět nad škopkem piva\, skleničkou vína nebo půllitrem vaší oblíbe
+ né limonády a diskutovat nejen o Firefoxu!
+URL:https://reps.mozilla.org/e/brnensky-mozbeer-2/
+SEQUENCE:1
+X-COORDINATES-LAT:49.1912995044
+X-COORDINATES-LON:16.612460196
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

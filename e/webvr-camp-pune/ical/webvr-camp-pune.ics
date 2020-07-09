@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6593
+CLASS:PUBLIC
+DTSTAMP:20200407T174125Z
+DTSTART:20170624T043000Z
+DTEND:20170624T113000Z
+LOCATION:Red Hat Pune\, Pune\, India
+SUMMARY:WebVR Camp Pune
+DESCRIPTION:The first WebVR event in Pune community aimed at evangelizing 
+ about A-Frame and teaching the usage through a workshop.
+URL:https://reps.mozilla.org/e/webvr-camp-pune/
+SEQUENCE:6
+X-COORDINATES-LAT:18.5151996773
+X-COORDINATES-LON:73.9265298843
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@627
+CLASS:PUBLIC
+DTSTAMP:20200423T215101Z
+DTSTART:20130420T040000Z
+DTEND:20130420T060000Z
+LOCATION:49\, Satmasjid Road\, Dhanmondi\, 11/A\, (West side)\, Dhaka 1207
+ \, Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Mozilla@IBS
+DESCRIPTION:Mozilla Bangladesh and IBS is co-organizing a Mozilla Awarenes
+ s Event to spread the Mozilla mission. We will discuss - Mozilla history\,
+  How to get involved with Mozilla\, Mozilla projects and technologies and 
+ more...\n\nCoordinator: \nNazmul Huda\, Mozillian\n+8801814652293\nhttps:/
+ /mozillians.org/en-US/u/nhshojib86/
+URL:https://reps.mozilla.org/e/mozilla-ibs/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7487397943
+X-COORDINATES-LON:90.3773117065
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

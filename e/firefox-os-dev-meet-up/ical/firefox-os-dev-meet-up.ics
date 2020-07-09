@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1354
+CLASS:PUBLIC
+DTSTAMP:20200407T181944Z
+DTSTART:20131005T000000Z
+DTEND:20131005T030000Z
+LOCATION:Av. Arenales 1555\, Lince\, Lima - Perú\, Lince\, Peru
+SUMMARY:Firefox OS Dev MeetUp
+DESCRIPTION:It is an informal meeting where we talk about Firefox OS\, giv
+ e you tips on how to make an application\, we will discuss technical and n
+ on-technical issues and we will open the Team Mobilizers Peru
+URL:https://reps.mozilla.org/e/firefox-os-dev-meet-up/
+SEQUENCE:5
+X-COORDINATES-LAT:-12.0803025076
+X-COORDINATES-LON:-77.0360040665
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2703
+CLASS:PUBLIC
+DTSTAMP:20200423T192937Z
+DTSTART:20140704T133000Z
+DTEND:20140709T163000Z
+LOCATION:#webmakerindia\, Thanjavur\, India
+SUMMARY:Webmaker IRC
+DESCRIPTION:The main theme behind this meet is to gather Mozillians from 3
+ 0 states\, ranging up to 600 districts and\n \ncollectively instigate them
+  to organize a Maker Party event in their regions. As a part of the progra
+ m
+URL:https://reps.mozilla.org/e/webmaker-irc/
+SEQUENCE:2
+X-COORDINATES-LAT:12.7823393701
+X-COORDINATES-LON:79.1819000244
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

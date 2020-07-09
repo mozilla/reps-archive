@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1220
+CLASS:PUBLIC
+DTSTAMP:20200407T173625Z
+DTSTART:20130918T080000Z
+DTEND:20130918T100000Z
+LOCATION:Library STIKOM Surabaya 1st floor\, Surabaya\, Indonesia
+SUMMARY:STIKOM Firefox Club Webmaker Party
+DESCRIPTION:Webmaker party for STIKOM students. This event will organize b
+ y Zayed Elfaza\, a Firefox Student Ambassador.  Rescheduled.
+URL:https://reps.mozilla.org/e/stikom-firefox-club-webmaker-party/
+SEQUENCE:2
+X-COORDINATES-LAT:-7.22250263905
+X-COORDINATES-LON:112.776546478
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2290
+CLASS:PUBLIC
+DTSTAMP:20200407T173720Z
+DTSTART:20140614T080000Z
+DTEND:20140615T160000Z
+LOCATION:16 bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Week-end Webmaker Paris
+DESCRIPTION:This is the first BIG Webmaker event in Paris. In partnership 
+ with the very famous Parisian event\, &#34;Futur En Seine&#34;\, plenty of Mozilli
+ ans will teach and show Webmaker to families inside the Paris office.
+URL:https://reps.mozilla.org/e/week-end-webmaker-paris/
+SEQUENCE:10
+X-COORDINATES-LAT:48.872023807
+X-COORDINATES-LON:2.34087896417
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8841
+CLASS:PUBLIC
+DTSTAMP:20200407T170253Z
+DTSTART:20191010T043000Z
+DTEND:20191011T003000Z
+LOCATION:Bharati Vidyapeeth&#39;s College Of Engineering\, Delhi\, India
+SUMMARY:BVEST BVCOE
+DESCRIPTION:the 6th edition of our annual techfest Bvest to be organized i
+ n October this year. This time\, we will be having multiple technical as w
+ ell as semi technical events\, from our flagship event hackathon.\nOrganis
+ er: Manu S pillai (+91-9899405495)
+URL:https://reps.mozilla.org/e/bvest-bvcoe/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5118
+X-COORDINATES-LON:73.8431
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

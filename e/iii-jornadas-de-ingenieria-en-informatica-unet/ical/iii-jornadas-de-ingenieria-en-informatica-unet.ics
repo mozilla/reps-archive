@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@232
+CLASS:PUBLIC
+DTSTAMP:20200423T225138Z
+DTSTART:20121024T163000Z
+DTEND:20121026T163000Z
+LOCATION:Universidad Nacional Experimental del Táchira\, San Cristobal\, 
+ Venezuela
+SUMMARY:III Jornadas de Ingeníeria en Informática - UNET
+DESCRIPTION:The third Conference on Computer Engineering - Past\, Present 
+ and Future\, intended to expose the activities and experiences of graduate
+ s from the race in the workplace\, the projects developed by current stude
+ nts and the expected advances in the computer field for the next years.\n\
+ nThe event is aimed at university students in the computer field\, profess
+ ionals in the field and the public excited about Information Technology.
+URL:https://reps.mozilla.org/e/iii-jornadas-de-ingenieria-en-informatica-u
+ net/
+SEQUENCE:0
+X-COORDINATES-LAT:7.79299754216
+X-COORDINATES-LON:-72.2016656399
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

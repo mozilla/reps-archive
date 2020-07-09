@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1445
+CLASS:PUBLIC
+DTSTAMP:20200423T205236Z
+DTSTART:20131112T150000Z
+DTEND:20131113T020000Z
+LOCATION:Semilla Museo-Centro de Ciencia y Tecnología\, Chiuhahua\, Mexic
+ o
+SUMMARY:CampusLink360
+DESCRIPTION:This event will give a talk ment is mozilla\, its vision\, mis
+ sion and all projects\, Firefox OS and what is Mozilla Mexico.
+URL:https://reps.mozilla.org/e/campuslink360/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6562484958
+X-COORDINATES-LON:-106.055145264
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

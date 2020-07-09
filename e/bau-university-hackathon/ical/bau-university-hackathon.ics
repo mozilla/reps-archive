@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2128
+CLASS:PUBLIC
+DTSTAMP:20200423T200147Z
+DTSTART:20140417T080000Z
+DTEND:20140417T110000Z
+LOCATION:TBD\, Zarqa\, Jordan
+SUMMARY:BAU University Hackathon
+DESCRIPTION:BAU is the next target for us as a Mozilla Jordan community to
+  keep going with our plans to cover every single university at Jordan.\n\n
+ At this event we are going to talk about Mozilla in general as an introduc
+ tion like out mission and how to get involved with us\, also we are going 
+ to talk about Mozilla Free products \, Web maker \, Thunderbird\, MDN \, .
+ ...
+URL:https://reps.mozilla.org/e/bau-university-hackathon/
+SEQUENCE:1
+X-COORDINATES-LAT:32.0903313661
+X-COORDINATES-LON:36.0939331725
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

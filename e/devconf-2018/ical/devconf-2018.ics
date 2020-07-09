@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7899
+CLASS:PUBLIC
+DTSTAMP:20200407T165039Z
+DTSTART:20180804T033000Z
+DTEND:20180805T123000Z
+LOCATION:Christ University\, Bengaluru\, India
+SUMMARY:Devconf 2018
+DESCRIPTION:DevConf.in 2018 is the second annual Developers&#39; Conference to
+  be organised by Red Hat in Bengaluru\, India. It is meant to provide a pl
+ atform to the local FOSS community participants to come together and engag
+ e in the knowledge sharing through technical talks\, workshops\, panel dis
+ cussions\, hackathon and such activities.
+URL:https://reps.mozilla.org/e/devconf-2018/
+SEQUENCE:11
+X-COORDINATES-LAT:12.8432067719
+X-COORDINATES-LON:77.0635986328
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

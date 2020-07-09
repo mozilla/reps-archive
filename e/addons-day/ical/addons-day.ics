@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8338
+CLASS:PUBLIC
+DTSTAMP:20200407T170247Z
+DTSTART:20190211T053000Z
+DTEND:20190211T093000Z
+LOCATION:DTU\, New Delhi\, New Delhi\, India
+SUMMARY:Addons Day
+DESCRIPTION:A learning session of add-on for Firefox Browser. This will en
+ courage participants to build their own add-on and publish it on addons.mo
+ zilla.org.
+URL:https://reps.mozilla.org/e/addons-day/
+SEQUENCE:3
+X-COORDINATES-LAT:28.7525525506
+X-COORDINATES-LON:77.1161384581
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

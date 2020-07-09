@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6375
+CLASS:PUBLIC
+DTSTAMP:20200423T112118Z
+DTSTART:20170325T043000Z
+DTEND:20170325T103000Z
+LOCATION:Vellore Insitute of Technology - Chennai\, Chennai\, India
+SUMMARY:MozActivate WebExtension Hackathon at VIT-Chennai
+DESCRIPTION:Two days Workshop / Hackathon for bringing contributors to Add
+ -ons Community
+URL:https://reps.mozilla.org/e/mozactivate-webextension-hackathon-at-vit-c
+ hennai/
+SEQUENCE:3
+X-COORDINATES-LAT:11.656628601
+X-COORDINATES-LON:78.1684327126
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

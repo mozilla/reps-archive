@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7621
+CLASS:PUBLIC
+DTSTAMP:20200423T094247Z
+DTSTART:20180424T043000Z
+DTEND:20180424T103000Z
+LOCATION:Computer Institute\,Kaghaznagar\, Kaghaznagar\, India
+SUMMARY:Kaghaznagar SUMO Workshop
+DESCRIPTION:The participants must be able to learn on how to contribute in
+  SUMO and Localization &#34;L10n&#34; initiative specifically in “Tamil ” vers
+ ion of Firefox browser.
+URL:https://reps.mozilla.org/e/kaghaznagar-sumo-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:19.3542035146
+X-COORDINATES-LON:79.4952964713
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

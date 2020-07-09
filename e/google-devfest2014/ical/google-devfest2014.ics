@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3224
+CLASS:PUBLIC
+DTSTAMP:20200423T182323Z
+DTSTART:20141129T030000Z
+DTEND:20141130T120000Z
+LOCATION:Google Hyderabad\, Hyderabad\, India
+SUMMARY:Google DevFest2014
+DESCRIPTION:Google Developer Fest is One of the Fabulous fests  and fantas
+ tic fests ever held in The city of Hyderabad which is conducted by Google 
+ Hyderabad \, This is a platform where all the developers from different co
+ mmunities and organizations will collaborate together and share about the 
+ communities and their missions and goals
+URL:https://reps.mozilla.org/e/google-devfest2014/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4581327497
+X-COORDINATES-LON:78.372890353
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

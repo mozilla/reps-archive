@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1460
+CLASS:PUBLIC
+DTSTAMP:20200407T175028Z
+DTSTART:20131115T050000Z
+DTEND:20131115T073000Z
+LOCATION:Arya University\, Jaipur\, India
+SUMMARY:Meet FxOs
+DESCRIPTION:An introductory session on Firefox Os and Firefox Os App devel
+ opment with students\, to spread the word and the upcoming Mobile Web!
+URL:https://reps.mozilla.org/e/meet-fxos/
+SEQUENCE:2
+X-COORDINATES-LAT:26.822436842
+X-COORDINATES-LON:75.8393552899
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

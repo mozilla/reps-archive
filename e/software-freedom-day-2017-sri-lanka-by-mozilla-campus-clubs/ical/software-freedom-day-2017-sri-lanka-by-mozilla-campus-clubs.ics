@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6995
+CLASS:PUBLIC
+DTSTAMP:20200423T103939Z
+DTSTART:20170916T033000Z
+DTEND:20170916T103000Z
+LOCATION:NSBM Green University Auditorium\, Colombo\, Sri Lanka
+SUMMARY:Software Freedom Day 2017 - Sri Lanka by Mozilla Campus Clubs
+DESCRIPTION:Software Freedom Day (SFD) is an annual worldwide celebration 
+ of Free Software. SFD is a public education effort with the aim of increas
+ ing awareness of Free Software and its virtues and encouraging its use.\n\
+ nLast year in Sri Lanka we have hosted 2 SFD at National School of Busines
+ s Management ( NSBM ) and Rajarata University of Sri Lanka ( RUSL ) \, and
+  this time all Mozilla campus clubs around Sri Lanka teamed up to host one
+  SFD with everyone.\n\nMore Info : https://www.softwarefreedomday.org
+URL:https://reps.mozilla.org/e/software-freedom-day-2017-sri-lanka-by-mozi
+ lla-campus-clubs/
+SEQUENCE:1
+X-COORDINATES-LAT:6.84413898857
+X-COORDINATES-LON:80.01883775
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

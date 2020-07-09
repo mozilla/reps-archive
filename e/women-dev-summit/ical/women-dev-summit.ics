@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6346
+CLASS:PUBLIC
+DTSTAMP:20200407T183724Z
+DTSTART:20170325T100000Z
+DTEND:20170325T173000Z
+LOCATION:CUBO\, São Paulo\, Brazil
+SUMMARY:Women Dev Summit
+DESCRIPTION:Women Dev Summit is an event organized in a collaborative way 
+ by the WoMakersCode\, PHPWomenBR and invited communities\, which aims to b
+ ring together female developers to discuss multi-platform technologies\, c
+ areer and also to promote short-term hands-on workshops.
+URL:https://reps.mozilla.org/e/women-dev-summit/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.5513987452
+X-COORDINATES-LON:-46.5854644775
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

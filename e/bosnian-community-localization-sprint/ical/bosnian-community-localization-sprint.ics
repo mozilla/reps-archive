@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4046
+CLASS:PUBLIC
+DTSTAMP:20200407T180511Z
+DTSTART:20150622T160000Z
+DTEND:20150622T190000Z
+LOCATION:Ka5aN cafe\, Sarajevo\, Bosnia and Herzegovina
+SUMMARY:Bosnian Community Localization Sprint
+DESCRIPTION:We are organizing our June edition of the Localization Sprint 
+ to work on Firefox and Firefox OS localization.
+URL:https://reps.mozilla.org/e/bosnian-community-localization-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:43.8638934146
+X-COORDINATES-LON:18.4101798534
+X-COUNTRY-CODE:ba
+END:VEVENT
+
+END:VCALENDAR

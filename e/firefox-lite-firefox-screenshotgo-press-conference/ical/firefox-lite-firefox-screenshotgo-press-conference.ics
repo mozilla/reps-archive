@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8249
+CLASS:PUBLIC
+DTSTAMP:20200407T170413Z
+DTSTART:20181101T040000Z
+DTEND:20181101T060000Z
+LOCATION:Atico at Javanegra\, Jakarta Selatan\, Indonesia
+SUMMARY:Firefox Lite &amp; Firefox ScreenshotGo Press Conference
+DESCRIPTION:Mozilla in Asia/Mozilla Taipei team is coming to Jakarta to ho
+ ld press conference on rebranding Firefox Rocket rebranding to Firefox Lit
+ e and the launch of Firefox ScreenshotGo Beta for Indonesian market. Mozil
+ la Indonesia Community supports the event by helping the demo booth and ex
+ plaining about Firefox Lite and Firefox ScreenshotGo app on Android device
+ s.
+URL:https://reps.mozilla.org/e/firefox-lite-firefox-screenshotgo-press-con
+ ference/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.22955810824
+X-COORDINATES-LON:106.827717841
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

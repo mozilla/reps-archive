@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3415
+CLASS:PUBLIC
+DTSTAMP:20200407T180055Z
+DTSTART:20150225T060000Z
+DTEND:20150225T120000Z
+LOCATION:Lotus Hotel\, Mombasa\, Kenya
+SUMMARY:Mozilla Community Building 1.0
+DESCRIPTION:Community building meetup for all Mozillians and anyone else i
+ nterested in the open web! We&#39;ll be focusing on webmaker\, how to get invo
+ lved\, and community organization. We will be discussing about various hap
+ penings and updates from Mozilla and working on contribution areas i.e web
+ maker\, firefox OS\, marketplace\, coding\, bugzilla and many more.
+URL:https://reps.mozilla.org/e/mozilla-community-building-1-0/
+SEQUENCE:5
+X-COORDINATES-LAT:-4.06102177966
+X-COORDINATES-LON:39.6858785
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

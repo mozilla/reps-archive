@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3735
+CLASS:PUBLIC
+DTSTAMP:20200407T182506Z
+DTSTART:20150404T070000Z
+DTEND:20150405T180000Z
+LOCATION:Online\, Karachi\, Pakistan
+SUMMARY:Online Firefox for Android Urdu Localization Hackathon
+DESCRIPTION:All the contributors for Urdu localization teams are collabora
+ ting and will work online for two days to fully translate &#34;Firefox for And
+ roid&#34; in Urdu locale before the strings are frozen on 6th April.
+URL:https://reps.mozilla.org/e/online-firefox-for-android-localization-hac
+ kathon/
+SEQUENCE:15
+X-COORDINATES-LAT:24.9128281447
+X-COORDINATES-LON:67.1022913459
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

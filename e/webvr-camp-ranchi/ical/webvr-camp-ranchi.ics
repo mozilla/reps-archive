@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6877
+CLASS:PUBLIC
+DTSTAMP:20200423T101940Z
+DTSTART:20171105T043000Z
+DTEND:20171105T103000Z
+LOCATION:Ranchi\, ranchi\, India
+SUMMARY:WebVR_Camp@Ranchi
+DESCRIPTION:Activate Mozilla Community Campaign to focus on four initiativ
+ es taken by Mozilla in a campus club. It will help them to start doing act
+ ivity with their goal\, so that they can start their participation to make
+  web better. mainly focused on WebVR.
+URL:https://reps.mozilla.org/e/webvr-camp-ranchi/
+SEQUENCE:1
+X-COORDINATES-LAT:23.3313276956
+X-COORDINATES-LON:85.186157003
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

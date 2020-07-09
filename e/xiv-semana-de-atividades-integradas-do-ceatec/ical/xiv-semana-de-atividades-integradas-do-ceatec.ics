@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@36
+CLASS:PUBLIC
+DTSTAMP:20200407T182049Z
+DTSTART:20120917T150000Z
+DTEND:20120921T150000Z
+LOCATION:Rodovia D. Pedro I\, KM 136\, Campinas\, Brazil
+SUMMARY:XIV Semana de Atividades Integradas do CEATEC
+DESCRIPTION:This event is totally focused on putting people in contact wit
+ h new tendencies and technologies from the IT area. It also aims to offer 
+ a opportunity to the students to see the professional world closer.
+URL:https://reps.mozilla.org/e/xiv-semana-de-atividades-integradas-do-ceat
+ ec/
+SEQUENCE:0
+X-COORDINATES-LAT:-22.9204526894
+X-COORDINATES-LON:-47.0983886719
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7906
+CLASS:PUBLIC
+DTSTAMP:20200407T165132Z
+DTSTART:20181117T080000Z
+DTEND:20181118T180000Z
+LOCATION:l&#39;INP-ENSEEIHT\, 2 rue Charles Camichel\, Toulouse\, France
+SUMMARY:Capitole du Libre 2018
+DESCRIPTION:Week-end dédié au logiciel libre à travers 100 conférences
+ \, 25 ateliers pour les expert⋅e⋅s et le grand public. L&#39;événement a
+  accueilli 1500 participant⋅e⋅s en 2017. L&#39;entrée à l&#39;événement es
+ t libre et gratuite!\n\nhttps://youtu.be/b2Pgk1nzq9w
+URL:https://reps.mozilla.org/e/capitole-du-libre-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:43.6027039
+X-COORDINATES-LON:1.4543495
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4723
+CLASS:PUBLIC
+DTSTAMP:20200407T174313Z
+DTSTART:20151114T200000Z
+DTEND:20151114T230000Z
+LOCATION:Vancouver Public Library Central Branch\, Vancouver\, Canada
+SUMMARY:Hive Pop-Up
+DESCRIPTION:Join Mozilla\, the VPL\, Vancouver Maker Foundation\, Mainland
+  Advanced Research Society and a coterie of community partners for Vancouv
+ er Hive Pop-Up\, a celebration of hands-on digital literacy for makers of 
+ all ages. Dig in and play with machines in our open creative space\, learn
+  about the city’s various learning pathways\, and use your brain’s exp
+ erimental side. Let’s bridge formal and informal education and launch th
+ e Hive Learning Community in Vancouver together!
+URL:https://reps.mozilla.org/e/hive-pop-up-1/
+SEQUENCE:1
+X-COORDINATES-LAT:49.2796741175
+X-COORDINATES-LON:-123.115609707
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

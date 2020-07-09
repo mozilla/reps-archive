@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2771
+CLASS:PUBLIC
+DTSTAMP:20200407T181556Z
+DTSTART:20160419T043000Z
+DTEND:20160420T103000Z
+LOCATION:Srinagar\, Srinagar\, India
+SUMMARY:Mozilla DevCon\, Kashmir 2016
+DESCRIPTION:A 2 day event with a motto of building a potential and self su
+ staining community at Srinagar\, Jammu and Kashmir. Followed by sessions o
+ n Developer Engagement with introduction to Connected Devices.
+URL:https://reps.mozilla.org/e/grow-kashmir/
+SEQUENCE:28
+X-COORDINATES-LAT:34.0883031489
+X-COORDINATES-LON:74.8656007648
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

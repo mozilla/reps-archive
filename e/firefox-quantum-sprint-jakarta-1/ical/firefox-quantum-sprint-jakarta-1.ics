@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7046
+CLASS:PUBLIC
+DTSTAMP:20200423T102730Z
+DTSTART:20171007T110000Z
+DTEND:20171007T130000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Firefox Quantum Sprint Jakarta
+DESCRIPTION:Together we ensure Firefox Quantum success
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-jakarta-1/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.2351111
+X-COORDINATES-LON:106.8187991
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2198
+CLASS:PUBLIC
+DTSTAMP:20200407T182459Z
+DTSTART:20140505T060000Z
+DTEND:20140505T090000Z
+LOCATION:Cafe Hollywood\, Banani\, Dhaka\, Bangladesh
+SUMMARY:MDN Contributors&#39; Meet-up Bangladesh
+DESCRIPTION:Meet-up of existing MDN contributors\, along with MDN task for
+ ce members. Plan next steps\, reviewing goals and implementing community-b
+ uilding &amp; awarness actions.\n\nIf you are a contributor and will like to j
+ oin\, please let us know by clicking &#34;I&#39;m attending&#34; buttion in this page!
+  Or can mail to cppgcc@gmail.com
+URL:https://reps.mozilla.org/e/mdn-contributors-meet-up-bangladesh/
+SEQUENCE:3
+X-COORDINATES-LAT:23.7900555129
+X-COORDINATES-LON:90.4071707724
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1282
+CLASS:PUBLIC
+DTSTAMP:20200407T182934Z
+DTSTART:20131005T070000Z
+DTEND:20131005T140000Z
+LOCATION:Vadima Hetmana str. 27\, Kyiv\, Ukraine
+SUMMARY:Ukrainian Free Software Conference
+DESCRIPTION:The main goals of the event are:\n\n* to publicize the possibi
+ lities and benefits of free software use\;\n* to present existing projects
+  and their development\;\n* to show the global tendencies for migration to
+  free software\;\n* to improve the collaboration of users and developers a
+ ltogether.
+URL:https://reps.mozilla.org/e/ukrainian-free-software-conference-1/
+SEQUENCE:2
+X-COORDINATES-LAT:50.4394543512
+X-COORDINATES-LON:30.4474496841
+X-COUNTRY-CODE:ua
+END:VEVENT
+
+END:VCALENDAR

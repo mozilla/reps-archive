@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7424
+CLASS:PUBLIC
+DTSTAMP:20200423T095545Z
+DTSTART:20180304T090000Z
+DTEND:20180308T170000Z
+LOCATION:Las Naves Innovation Center of Valencia\, Valencia\, Spain
+SUMMARY:Localization Lab Summit &amp; Sprint - IFF 2018
+DESCRIPTION:Join Localization Lab at our annual Localization Summit &amp; Spri
+ nt at the 2018 Internet Freedom Festival.\n\n1. The Localization Lab Summi
+ t will take place on Sunday\, March 4th\, from 10:00 - 18:00\, one day pri
+ or to the start of IFF.\n\n2. The Localization Sprint will take place on T
+ hursday\, March 8th from 14:30 - 18:00.
+URL:https://reps.mozilla.org/e/localization-lab-summit-sprint-iff-2018/
+SEQUENCE:5
+X-COORDINATES-LAT:39.3668636606
+X-COORDINATES-LON:-0.99243208766
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

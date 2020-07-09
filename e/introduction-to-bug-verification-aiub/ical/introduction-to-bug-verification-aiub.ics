@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5229
+CLASS:PUBLIC
+DTSTAMP:20200407T180527Z
+DTSTART:20160417T033000Z
+DTEND:20160417T100000Z
+LOCATION:American International University Bangladesh (AIUB)\, Dhaka\, Ban
+ gladesh
+SUMMARY:Introduction to Bug Verification - AIUB
+DESCRIPTION:This event will be organized by the FSA of Firefox@AIUB club w
+ here we will focus on mostly the Bug Verification part of QA. We will be i
+ ntroducing the students with how we contribute in Mozilla QA\, specificall
+ y on Bug Verification. This event is the follow up event for following eve
+ nts: \n1. Introduction to QA - AIUB ( https://reps.mozilla.org/e/introduct
+ ion-to-qa-aiub )\n2. Introduction to Feature Testing - AIUB ( https://reps
+ .mozilla.org/e/introduction-to-feature-testing-aiub/ )
+URL:https://reps.mozilla.org/e/introduction-to-bug-verification-aiub/
+SEQUENCE:7
+X-COORDINATES-LAT:23.7279845283
+X-COORDINATES-LON:90.4095211026
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

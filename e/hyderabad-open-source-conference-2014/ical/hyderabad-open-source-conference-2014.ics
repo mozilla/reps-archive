@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1663
+CLASS:PUBLIC
+DTSTAMP:20200423T202446Z
+DTSTART:20140222T043000Z
+DTEND:20140222T103000Z
+LOCATION:Guru Nanak Institute of Technology\, Hyderabad\, India
+SUMMARY:An Introductory Session cum Club launch at GNIT
+DESCRIPTION:A kickstart session on contributing for Mozilla\, where a quic
+ k introduction about Mozilla is given out followed by club launch.
+URL:https://reps.mozilla.org/e/hyderabad-open-source-conference-2014/
+SEQUENCE:12
+X-COORDINATES-LAT:17.3320263337
+X-COORDINATES-LON:78.4432374313
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

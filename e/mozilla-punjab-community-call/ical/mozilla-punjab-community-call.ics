@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8388
+CLASS:PUBLIC
+DTSTAMP:20200423T084232Z
+DTSTART:20190209T153000Z
+DTEND:20190209T170000Z
+LOCATION:TBD\, Remote\, India
+SUMMARY:Mozilla Punjab Community Call
+DESCRIPTION:Community Call for planning the upcoming events conducted by M
+ ozilla Punjab.
+URL:https://reps.mozilla.org/e/mozilla-punjab-community-call/
+SEQUENCE:2
+X-COORDINATES-LAT:28.5740700839
+X-COORDINATES-LON:77.2353512049
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6012
+CLASS:PUBLIC
+DTSTAMP:20200423T114249Z
+DTSTART:20161201T020000Z
+DTEND:20161203T100000Z
+LOCATION:SM City Bacolod\, Bacolod City\, Philippines
+SUMMARY:Bacolod AppsFest
+DESCRIPTION:The purpose of the said event is to promote and support the st
+ artup ecosystem of Bacolod and Negros Island\, by providing a venue for st
+ artups to showcase\, test\, promote and market. Provide awareness to the p
+ ublic about the importance of ICT and using ICT for faster\, more efficien
+ t\, transparent and holistic ways in various sectors and avenue for existi
+ ng applications to showcase their products. Promote openness and innovatio
+ n in the world of free and open software.
+URL:https://reps.mozilla.org/e/bacolod-appsfest/
+SEQUENCE:4
+X-COORDINATES-LAT:10.6717137398
+X-COORDINATES-LON:122.952301023
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

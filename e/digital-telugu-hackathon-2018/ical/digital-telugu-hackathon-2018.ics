@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7966
+CLASS:PUBLIC
+DTSTAMP:20200407T171617Z
+DTSTART:20181229T033000Z
+DTEND:20181229T103000Z
+LOCATION:ThoughtWorks Hyderabad\, Hyderabad\, India
+SUMMARY:Digital Telugu Hackathon 2018
+DESCRIPTION:Training on l10n tools and process.\n\nand \n\nL10n developmen
+ t (Pontoon\, MT\, etc.) \nCreating add-ons/PWAs using pontoon API and tool
+ s that help localisation.
+URL:https://reps.mozilla.org/e/digital-telugu-hackathon-2018/
+SEQUENCE:7
+X-COORDINATES-LAT:17.4429021347
+X-COORDINATES-LON:78.3569583896
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

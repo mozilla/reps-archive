@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2264
+CLASS:PUBLIC
+DTSTAMP:20200407T175320Z
+DTSTART:20140602T023000Z
+DTEND:20140604T130000Z
+LOCATION:Lion Hotel &amp; Plaza\, Manado\, Indonesia
+SUMMARY:Festival TIK 2014
+DESCRIPTION:Festival of ICT (Information and Communication Technology) to 
+ be held on June 2-4\, 2014 in Manado\, North Sulawesi.\n\nThis year organi
+ zed by ICT volunteers from North Sulawesi in collaboration with the Govern
+ ment of North Sulawesi and Manado City Government.
+URL:https://reps.mozilla.org/e/festival-tik-2014/
+SEQUENCE:19
+X-COORDINATES-LAT:1.47611737011
+X-COORDINATES-LON:124.834173202
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

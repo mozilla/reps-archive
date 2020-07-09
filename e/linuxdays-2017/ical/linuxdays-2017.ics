@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6905
+CLASS:PUBLIC
+DTSTAMP:20200407T181219Z
+DTSTART:20171006T220000Z
+DTEND:20171008T215500Z
+LOCATION:Faculty of Information Technology\, Czech Technical University in
+  Prague\, Prague\, Czech Republic
+SUMMARY:LinuxDays 2017
+DESCRIPTION:The LinuxDays conference 2017 means two days of talks\, worksh
+ ops\, booths of various projects (Fedora\, Gentoo\, Slax\, openSUSE\, vpsF
+ ree.cz\, Python\, Mozilla\, brmlab\, OpenAlt etc.)\, electronics ham-shack
+  for children\, lots of interesting people and lot of new informations. Al
+ though the event is primarily held in the Czech language\, there will be t
+ alks in English as well. The event is free of charge.
+URL:https://reps.mozilla.org/e/linuxdays-2017/
+SEQUENCE:3
+X-COORDINATES-LAT:50.1049116487
+X-COORDINATES-LON:14.389713049
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

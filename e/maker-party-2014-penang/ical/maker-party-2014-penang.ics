@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2406
+CLASS:PUBLIC
+DTSTAMP:20200407T175055Z
+DTSTART:20140928T010000Z
+DTEND:20140928T080000Z
+LOCATION:Faculty of Information Science and Technology (FIST)\, Multimedia
+  University\, Jalan Ayer Keroh Lama\, Air Keruh\, Malaysia
+SUMMARY:Maker Party 2014 Melaka 2.0
+DESCRIPTION:Maker Party Melaka 2.0 is collaboration with #HackWeekday Team
+  of HITBKUL2014 Security Conference and including &#34;Mozilla Appmaker&#34; or Ma
+ king Mobile Apps with Appmaker during the sessions. The concept is fun\, i
+ nteractive and leads to more exposure to the World Wide Web.
+URL:https://reps.mozilla.org/e/maker-party-2014-penang/
+SEQUENCE:7
+X-COORDINATES-LAT:2.27425198071
+X-COORDINATES-LON:102.279696463
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

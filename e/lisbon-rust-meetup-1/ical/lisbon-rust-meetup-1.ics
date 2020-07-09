@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2419
+CLASS:PUBLIC
+DTSTAMP:20200407T183521Z
+DTSTART:20140702T180000Z
+DTEND:20140702T200000Z
+LOCATION:Instituto Superior Técnico\, room V1.24 (1\, Pavilhão de Civil\
+ , Alameda)\, Lisbon\, Portugal
+SUMMARY:Lisbon Rust lang Meetup #1
+DESCRIPTION:First Lisbon Rust lang Meet up
+URL:https://reps.mozilla.org/e/lisbon-rust-meetup-1/
+SEQUENCE:6
+X-COORDINATES-LAT:38.7398052553
+X-COORDINATES-LON:-9.13980575278
+X-COUNTRY-CODE:pt
+END:VEVENT
+
+END:VCALENDAR

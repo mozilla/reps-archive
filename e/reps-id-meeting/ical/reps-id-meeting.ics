@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8866
+CLASS:PUBLIC
+DTSTAMP:20200407T170413Z
+DTSTART:20190906T150000Z
+DTEND:20190906T153000Z
+LOCATION:Zoom meeting room\, Jakarta\, Indonesia
+SUMMARY:Reps ID Meeting
+DESCRIPTION:This meeting discusses the Firefox Lite marketing plan in Indo
+ nesia for its launch in November that involving Mozilla Indonesia communit
+ y.
+URL:https://reps.mozilla.org/e/reps-id-meeting/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.23464294165
+X-COORDINATES-LON:106.82090807
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

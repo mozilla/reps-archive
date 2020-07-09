@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3624
+CLASS:PUBLIC
+DTSTAMP:20200423T172857Z
+DTSTART:20150425T130000Z
+DTEND:20150425T220000Z
+LOCATION:Sucre Street\, Cochabamba\, Bolivia
+SUMMARY:FLISOL Cochabamba 2015
+DESCRIPTION:Latin America Festival of Free Software Installation where all
+  the local Communties participate showing everything about Free Source and
+  Free Software. Mozilla Bolivia Community will be showing all about Mozill
+ a.\n\nThe event will be in Mayor de San Simon University of Cochabamba Cit
+ y.
+URL:https://reps.mozilla.org/e/flisol-cochabamba-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.3934810927
+X-COORDINATES-LON:-66.144771695
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@199
+CLASS:PUBLIC
+DTSTAMP:20200407T165852Z
+DTSTART:20121120T060000Z
+DTEND:20121120T160000Z
+LOCATION:Kfar Maccabiah Convention  center\, Ramat Gan\, Israel
+SUMMARY:HTML5Fest 2012
+DESCRIPTION:HTML5FEST\, the premier Israeli Event for the technical web co
+ mmunity.\n\nThe Israeli W3C office (www.w3c.org.il/about/en) is hosting a 
+ central conference for professional web developers\, as well web product m
+ angers\, designers\, students\, and educators.
+URL:https://reps.mozilla.org/e/html5fest-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:32.055663
+X-COORDINATES-LON:34.828168
+X-COUNTRY-CODE:il
+END:VEVENT
+
+END:VCALENDAR

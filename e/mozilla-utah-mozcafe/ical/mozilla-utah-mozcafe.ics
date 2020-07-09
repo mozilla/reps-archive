@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@705
+CLASS:PUBLIC
+DTSTAMP:20200423T215300Z
+DTSTART:20130413T180000Z
+DTEND:20130413T193000Z
+LOCATION:Café Río\, American Fork\, United States
+SUMMARY:Mozilla Utah MozCafe
+DESCRIPTION:We&#39;re meeting up again on Saturday\, April 13th. Last MozCafe 
+ went very well. We had intros\, talked about getting involved and the purp
+ ose of Mozilla Utah.\n\nHere&#39;s the proposed agenda for this month&#39;s meetup
+ :\n\n1) Intros\n2) Updates on current contributions\n3) Looking at areas o
+ f interest\n4) Community building in Utah\n
+URL:https://reps.mozilla.org/e/mozilla-utah-mozcafe/
+SEQUENCE:2
+X-COORDINATES-LAT:40.3853895742
+X-COORDINATES-LON:-111.821422577
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

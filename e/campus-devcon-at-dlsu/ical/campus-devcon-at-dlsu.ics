@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1424
+CLASS:PUBLIC
+DTSTAMP:20200423T204933Z
+DTSTART:20131122T010000Z
+DTEND:20131122T090000Z
+LOCATION:Seminar Rooms 408-409\, Yuchengco Hall\, De La Salle University\,
+  2401 Taft Avenue Manila 1004\, Philippines\, Manila\, Philippines
+SUMMARY:Campus DevCon at DLSU
+DESCRIPTION:Campus DevCon at DLSU is a gathering in partnership De La Sall
+ e University\, Computer Studies Government and La Salle Computer Society t
+ hat aims to augment the academic learnings of students with up-to-date tre
+ nds in the IT industry. The event converges an average of 200 students tak
+ ing up Computer Science or other IT-related courses.
+URL:https://reps.mozilla.org/e/campus-devcon-at-dlsu/
+SEQUENCE:10
+X-COORDINATES-LAT:14.5642128047
+X-COORDINATES-LON:120.993150473
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

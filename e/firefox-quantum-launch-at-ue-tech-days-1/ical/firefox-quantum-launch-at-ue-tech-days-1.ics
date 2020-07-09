@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7345
+CLASS:PUBLIC
+DTSTAMP:20200407T181225Z
+DTSTART:20180104T060000Z
+DTEND:20180104T110000Z
+LOCATION:University of Education\, Lahore\, Pakistan
+SUMMARY:Firefox Quantum Launch at UE Tech Days
+DESCRIPTION:A mega 3-day event named &#34;UE TECH DAYS&#34; is happening at Univer
+ sity of Education in Lahore\, Pakistan. There will be contests\, tech talk
+ s and seminars about the latest technologies.\n\nIn the midst of all the m
+ ayhem\, we&#39;re having an exciting FIREFOX QUANTUM launch event.\n\nRegistra
+ tions are open!
+URL:https://reps.mozilla.org/e/firefox-quantum-launch-at-ue-tech-days-1/
+SEQUENCE:3
+X-COORDINATES-LAT:31.4537165
+X-COORDINATES-LON:74.2990136
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

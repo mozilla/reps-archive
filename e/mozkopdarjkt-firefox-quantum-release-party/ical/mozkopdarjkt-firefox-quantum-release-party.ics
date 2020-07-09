@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7229
+CLASS:PUBLIC
+DTSTAMP:20200407T171704Z
+DTSTART:20171115T120000Z
+DTEND:20171115T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta Selatan\, Indonesia
+SUMMARY:MozKopdarJKT: Firefox Quantum Release Party
+DESCRIPTION:Do you love Firefox? Or maybe you have never heard about this 
+ awesome browser? Well\, this is the right event for you. After launching a
+  new mobile browser built for Indonesia\, Firefox Rocket\, this time we&#39;re
+  going to celebrate the release of Firefox Quantum.\n\nWe are going to hav
+ e Mozilla TechSpeaker. Rizky Ariestiyansyah\, who are going to introduce F
+ irefox Quantum and also Mozilla TechSpeaker Diky Arga who&#39;s gonna talk mor
+ e about Web Developer Tool on Firefox Quantum.
+URL:https://reps.mozilla.org/e/mozkopdarjkt-firefox-quantum-release-party/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23503009484
+X-COORDINATES-LON:106.820937306
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

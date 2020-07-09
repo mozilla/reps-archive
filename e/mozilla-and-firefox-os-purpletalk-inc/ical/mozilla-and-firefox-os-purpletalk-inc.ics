@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4770
+CLASS:PUBLIC
+DTSTAMP:20200423T162708Z
+DTSTART:20151017T043000Z
+DTEND:20151017T073000Z
+LOCATION:Purple Talk Inc\, Hyderabad\, India
+SUMMARY:Mozilla And Firefox OS @PurpleTalk Inc
+DESCRIPTION:A Talk on Firefox OS\,Firefox OS Addons\, WebRTC and Mozilla C
+ ommunities to a group of Mobile app developers of Purple Talk INC.
+URL:https://reps.mozilla.org/e/mozilla-and-firefox-os-purpletalk-inc/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4318901286
+X-COORDINATES-LON:78.4547424316
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

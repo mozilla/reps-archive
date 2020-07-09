@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2689
+CLASS:PUBLIC
+DTSTAMP:20200407T181732Z
+DTSTART:20140815T010000Z
+DTEND:20140815T013000Z
+LOCATION:Suara Surabaya Radio\, Surabaya\, Indonesia
+SUMMARY:Talkshow on Suara Surabaya Radio: Challenges of Business IT for th
+ e Future
+DESCRIPTION:Suara Surabaya Radio is one of the famous Radio Channel in Sur
+ abaya. They invited me as guest speaker in one of their on air talkshow. D
+ rs. Kresnayana Yahya\, MSc. will be a host in this talkshow. The theme of 
+ this talkshow is about Challenges of Business IT for the Future. People ca
+ n live streaming this talkshow on: http://www.suarasurabaya.net/radio/
+URL:https://reps.mozilla.org/e/talkshow-on-suara-surabaya-radio/
+SEQUENCE:7
+X-COORDINATES-LAT:-7.28890782665
+X-COORDINATES-LON:112.727404721
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

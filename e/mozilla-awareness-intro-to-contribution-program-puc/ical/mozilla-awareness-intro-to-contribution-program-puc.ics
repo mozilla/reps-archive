@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2088
+CLASS:PUBLIC
+DTSTAMP:20200423T200853Z
+DTSTART:20140402T113000Z
+DTEND:20140403T023000Z
+LOCATION:Premier University Chittagong\, Chittagong\, Bangladesh
+SUMMARY:Mozilla Awareness &amp; Intro to contribution Program@PUC
+DESCRIPTION:This event will cover topics - mozilla \, mozilla&#39;s mission\, 
+ FSA program\, WoMoz \, Webmaker\, SUMO\, Firefox OS\, MDN\, L10n. The genr
+ e of the event is more like awareness. We will have promotional booths Jus
+ t the day before event on 2nd April .We are expecting to have a good numbe
+ r of participants!!
+URL:https://reps.mozilla.org/e/mozilla-awareness-intro-to-contribution-pro
+ gram-puc/
+SEQUENCE:2
+X-COORDINATES-LAT:22.1823118614
+X-COORDINATES-LON:91.8582200987
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

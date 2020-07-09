@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6990
+CLASS:PUBLIC
+DTSTAMP:20200423T103831Z
+DTSTART:20170917T033000Z
+DTEND:20170918T123000Z
+LOCATION:JNTU Hyderabad\, Hyderabad\, India
+SUMMARY:Firefox Add-ons Hackathon at TechFest
+DESCRIPTION:A two day hackathon on Firefox Add-ons Development at one of t
+ he Largest Technology festival in India attended by 5000+ students.
+URL:https://reps.mozilla.org/e/firefox-add-ons-hackathon-at-techfest/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4096453869
+X-COORDINATES-LON:78.5053089256
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

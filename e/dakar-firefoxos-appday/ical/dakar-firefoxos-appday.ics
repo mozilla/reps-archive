@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@415
+CLASS:PUBLIC
+DTSTAMP:20200423T222527Z
+DTSTART:20130119T140000Z
+DTEND:20130119T180000Z
+LOCATION:AUF- BAO\, Dakar\, Senegal\, Dakar\, Senegal
+SUMMARY:Dakar FirefoxOS AppDay 
+DESCRIPTION:Dakar\, like many cities around the world will feel the rhythm
+  of the most exciting project of recent years: Firefox OS.\nThe purpose of
+  this meetup is to help the whole community\, particularly web developers 
+ and mobile Senegal discover this wonderful gift of &#34;New Year&#34; and also all
+ ow them to create a Firefox OS App.
+URL:https://reps.mozilla.org/e/dakar-firefoxos-appday/
+SEQUENCE:0
+X-COORDINATES-LAT:14.679513
+X-COORDINATES-LON:-17.467608
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

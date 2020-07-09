@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3240
+CLASS:PUBLIC
+DTSTAMP:20200423T181219Z
+DTSTART:20150103T233000Z
+DTEND:20150104T013000Z
+LOCATION:coffee cafe day indore\, Indore\, India
+SUMMARY:Mozcafe Indore V 1.0
+DESCRIPTION:Welcome Reps Program:\nIt is to introduce local Mozillian &amp; Ce
+ lebrate Reps Program.\nAlso\, Planing for further projected event in local
+  region.\nSuch as:\nMozconnect15 V 3.0\nHive-Jack\, Indore V 1.0\nL10N (Ur
+ du\, Hindi\, English)\nMozMakerParty Indore V 2.0\nTeach the Trainer\nFSA 
+ Program\nWomoz
+URL:https://reps.mozilla.org/e/mozcafe-indore-v-1-0/
+SEQUENCE:5
+X-COORDINATES-LAT:22.716062165
+X-COORDINATES-LON:75.8635421991
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

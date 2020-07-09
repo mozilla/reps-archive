@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1746
+CLASS:PUBLIC
+DTSTAMP:20200407T165708Z
+DTSTART:20150110T000000Z
+DTEND:20150111T090000Z
+LOCATION:TBD\, Makati City\, Philippines
+SUMMARY:Mozilla PHL Community Leaders Forum &amp; Planning Session (2015)
+DESCRIPTION:With the aim of streamlining processes and making the communit
+ y leadership roles and functions more effective\, the Mozilla Philippines 
+ Community Leaders (Mozilla Reps) will embark on a 2-day Leaders Forum and 
+ Planning Session. \n\nThis will serve as a follow-up and realignment of th
+ e discussions and agreements during the last Leaders Forum &amp; Planning Sess
+ ion.
+URL:https://reps.mozilla.org/e/mozilla-phl-community-leaders-forum-plannin
+ g-session-2nd-half-2014/
+SEQUENCE:12
+X-COORDINATES-LAT:14.6097198238
+X-COORDINATES-LON:120.89648433
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

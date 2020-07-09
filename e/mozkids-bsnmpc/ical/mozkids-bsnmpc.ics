@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@480
+CLASS:PUBLIC
+DTSTAMP:20200423T215423Z
+DTSTART:20130411T033000Z
+DTEND:20130411T070000Z
+LOCATION:TBD\, Dhaka\, Bangladesh
+SUMMARY:MozKids @BSNMPC
+DESCRIPTION:This event is an attempt to empower school kids and education 
+ with the web. With sessions and contests biased towards kids\, this event 
+ is sure to make them think twice before they do anything unproductive on t
+ he web!
+URL:https://reps.mozilla.org/e/mozkids-bsnmpc/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7378191386
+X-COORDINATES-LON:90.3763246536
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

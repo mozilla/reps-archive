@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4461
+CLASS:PUBLIC
+DTSTAMP:20200423T164351Z
+DTSTART:20150909T170000Z
+DTEND:20150909T200000Z
+LOCATION:Paris\, France\, Paris\, France
+SUMMARY:Firefox OS France User Group Meetup
+DESCRIPTION:Firefox OS France User Group hosted at Mozilla\, with a talk a
+ bout B2G Installer and Service Workers
+URL:https://reps.mozilla.org/e/firefox-os-france-user-group-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:48.8719764673
+X-COORDINATES-LON:2.34191036227
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

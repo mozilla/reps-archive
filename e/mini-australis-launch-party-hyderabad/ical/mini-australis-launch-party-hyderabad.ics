@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2179
+CLASS:PUBLIC
+DTSTAMP:20200423T195506Z
+DTSTART:20140503T123000Z
+DTEND:20140503T133000Z
+LOCATION:Kondapur\, Hyderabad\, India
+SUMMARY:Latest Firefox Launch Party Hyderabad
+DESCRIPTION:New firefox is going to be lauched in end of April\, and we al
+ l are very excited about this. The new version has a lot of visual refresh
+  of the Firefox web browser.\n\nMany launch parties are being organized in
+  early May at few venues (In India\, its https://reps.mozilla.org/e/firefo
+ x-29-australis-launch-party-india). \n\nWe\, at Hyderabad\, are also plann
+ ing a Mini Party to spread words about Firefox. Its a good time to grab at
+ tention of non-firefox users.
+URL:https://reps.mozilla.org/e/mini-australis-launch-party-hyderabad/
+SEQUENCE:7
+X-COORDINATES-LAT:17.385044
+X-COORDINATES-LON:78.486671
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

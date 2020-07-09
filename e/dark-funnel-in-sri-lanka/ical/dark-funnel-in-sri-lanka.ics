@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8128
+CLASS:PUBLIC
+DTSTAMP:20200407T182434Z
+DTSTART:20181007T113000Z
+DTEND:20181007T133000Z
+LOCATION:TBD\, Colombo\, Sri Lanka
+SUMMARY:Dark Funnel in Sri Lanka
+DESCRIPTION:We want to understand where Firefox downloads come from. So fa
+ r\, we know that 30% of Firefox installs come from the official Mozilla we
+ bsite or from known partners. The other 70% come from mystery download sou
+ rces that we call “the dark funnel”. Some are friendly sites\, but oth
+ ers put users at risk of getting old editions\, a bad experience or even m
+ alicious installs. Help Firefox understand what’s in the dark funnel\, b
+ y participating in this campaign and spreading the light!
+URL:https://reps.mozilla.org/e/dark-funnel-in-sri-lanka/
+SEQUENCE:0
+X-COORDINATES-LAT:4.60151231579
+X-COORDINATES-LON:-74.0732266899
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

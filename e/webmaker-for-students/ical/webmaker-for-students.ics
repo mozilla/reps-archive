@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1650
+CLASS:PUBLIC
+DTSTAMP:20200423T203833Z
+DTSTART:20131221T093000Z
+DTEND:20131221T120000Z
+LOCATION:IIET\, Moka\, Mauritius
+SUMMARY:Webmaker for students
+DESCRIPTION:This is a Webmaker event which will be held on the 21 December
+  at the IIET\, Moka. This will add to our series of Webmaker events for th
+ is year.
+URL:https://reps.mozilla.org/e/webmaker-for-students/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.2232477463
+X-COORDINATES-LON:57.518863671
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

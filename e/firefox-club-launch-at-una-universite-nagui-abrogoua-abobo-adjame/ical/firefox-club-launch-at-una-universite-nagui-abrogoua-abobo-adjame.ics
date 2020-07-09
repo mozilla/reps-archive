@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5391
+CLASS:PUBLIC
+DTSTAMP:20200423T152546Z
+DTSTART:20160514T090000Z
+DTEND:20160514T170000Z
+LOCATION:Université Nagui Abrogoua- Abobo/Adjamé\, Abidjan\, Ivory Coast
+SUMMARY:Firefox Club launch At UNA(Université Nagui Abrogoua) - Abobo/Adj
+ amé
+DESCRIPTION:We are committed myself and Ivory Coast Mozilla community to i
+ mplement Mozilla community on the various campuses of Ivory Coast.We are s
+ tarting these activities through various events where mozillians and Reps 
+ From Ivory Coast come to introduce Mozilla mission\, different contributio
+ n areas \, projects \, products and campaigns and Firefox Student Ambassad
+ ors program. This May 14th we are at Université Nagui Abrogoua- Abobo/Adj
+ amé
+URL:https://reps.mozilla.org/e/firefox-club-launch-at-una-universite-nagui
+ -abrogoua-abobo-adjame/
+SEQUENCE:0
+X-COORDINATES-LAT:5.30224543632
+X-COORDINATES-LON:-4.00091171265
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

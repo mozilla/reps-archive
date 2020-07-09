@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2583
+CLASS:PUBLIC
+DTSTAMP:20200423T192316Z
+DTSTART:20140725T090000Z
+DTEND:20140725T110000Z
+LOCATION:Collab House\, Austin Town\, Bangalore\, Bangalore\, India
+SUMMARY:MozCoffee Bangalore v8.0
+DESCRIPTION:We have Larissa from Mozilla\, MTV in Bangalore for an event t
+ o talk about Women and FOSS. The local community would love to meet and sp
+ end time with her over a coffee to discuss on several Mozilla projects.
+URL:https://reps.mozilla.org/e/mozcoffee-bangalore-v8-0/
+SEQUENCE:5
+X-COORDINATES-LAT:12.85107877
+X-COORDINATES-LON:77.6440420747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

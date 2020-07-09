@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8614
+CLASS:PUBLIC
+DTSTAMP:20200407T170218Z
+DTSTART:20190601T170000Z
+DTEND:20190601T173000Z
+LOCATION:Facebook Live\, Bagdad\, Iraq
+SUMMARY:Web VR Online Training Session
+DESCRIPTION:حيكون ويانه لايف بلكروب Mrinal من اله
+ ند يتكلم عن WEB VR \nيوم السبت القادم الساعه 
+ ٩ مساءآ\n\nملاحظه : اذا تحبون نغير الوقت عل
+ قو بالوقت الافضل \nاذا عدكم اي سوال حضرو ل
+ يوم الايف او علقو هنا\n\nرحبو بلسبيكر 
+URL:https://reps.mozilla.org/e/web-vr-online-training-session/
+SEQUENCE:0
+X-COORDINATES-LAT:22.7172509015
+X-COORDINATES-LON:75.8660125
+X-COUNTRY-CODE:iq
+END:VEVENT
+
+END:VCALENDAR

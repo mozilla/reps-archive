@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5060
+CLASS:PUBLIC
+DTSTAMP:20200423T180404Z
+DTSTART:20150128T100000Z
+DTEND:20150128T120000Z
+LOCATION:VIIT Pune\, Pune\, India
+SUMMARY:Privacy awareness Event
+DESCRIPTION:Awareness of various online privacy threats and \nMozilla addo
+ ns to protect you identity online.
+URL:https://reps.mozilla.org/e/privacy-awareness-event/
+SEQUENCE:0
+X-COORDINATES-LAT:18.3740758201
+X-COORDINATES-LON:73.9867401123
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

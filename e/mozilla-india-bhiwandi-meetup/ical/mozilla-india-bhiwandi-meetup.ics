@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1637
+CLASS:PUBLIC
+DTSTAMP:20200423T203721Z
+DTSTART:20131228T113000Z
+DTEND:20131228T123000Z
+LOCATION:Bhiwandi\, Bhiwandi\, India
+SUMMARY:Mozilla India Bhiwandi Meetup
+DESCRIPTION:This event is organized for collaborating the community contri
+ bution task\, assigning role and projects to new contributors and to analy
+ ze the overall contribution challenges for upcoming events and projects.
+URL:https://reps.mozilla.org/e/mozilla-india-bhiwandi-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:18.3510499022
+X-COORDINATES-LON:74.6469712257
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

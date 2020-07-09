@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3566
+CLASS:PUBLIC
+DTSTAMP:20200423T172609Z
+DTSTART:20150509T060000Z
+DTEND:20150509T180000Z
+LOCATION:LIA Iskola\, Budapest\, Hungary
+SUMMARY:Hungarian Translation Sprint
+DESCRIPTION:Translate Mozilla apps\, websites and other projects that rela
+ ted to Mozilla and other free softwares.\n\nOn site and on-line sprint to 
+ help application localizers from the beginner to advanced translators. You
+  can follow it on Facebook chat and IRC.\n\nIf possible it can be a global
+  event with contributors from other countries to other local communities. 
+ For this we need global introduction and help from local communities.
+URL:https://reps.mozilla.org/e/hungarian-translation-sprint/
+SEQUENCE:4
+X-COORDINATES-LAT:47.4983579196
+X-COORDINATES-LON:19.0247154236
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

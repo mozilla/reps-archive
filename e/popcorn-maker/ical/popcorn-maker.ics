@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@831
+CLASS:PUBLIC
+DTSTAMP:20200423T214628Z
+DTSTART:20130502T160000Z
+DTEND:20130502T180000Z
+LOCATION:Universidad Centroamercana\, Managua\, Nicaragua
+SUMMARY:PopCorn Maker
+DESCRIPTION:Present as video editing with ease with Mozilla Popcorn Maker 
+ and also show how to create a website.
+URL:https://reps.mozilla.org/e/popcorn-maker/
+SEQUENCE:3
+X-COORDINATES-LAT:12.1255579237
+X-COORDINATES-LON:-86.2716543674
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

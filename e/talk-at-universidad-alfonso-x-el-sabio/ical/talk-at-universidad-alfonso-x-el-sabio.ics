@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@532
+CLASS:PUBLIC
+DTSTAMP:20200423T220514Z
+DTSTART:20130301T160000Z
+DTEND:20130301T180000Z
+LOCATION:Universidad Alfonso X el Sabio\, Villanueva de la Cañada\, Spain
+SUMMARY:Talk at Universidad Alfonso X el Sabio
+DESCRIPTION:Talk at the University to show Mozilla values and teach studen
+ ts what is Firefox OS\, the possibilities of the web as a platform.
+URL:https://reps.mozilla.org/e/talk-at-universidad-alfonso-x-el-sabio/
+SEQUENCE:0
+X-COORDINATES-LAT:40.4520416513
+X-COORDINATES-LON:-3.98434638977
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

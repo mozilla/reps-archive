@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1090
+CLASS:PUBLIC
+DTSTAMP:20200423T212605Z
+DTSTART:20130716T170000Z
+DTEND:20130716T200000Z
+LOCATION:Centralway\, Binzstrasse 18\, Zürich\, Switzerland
+SUMMARY:Mozilla Switzerland Meetup July 2013
+DESCRIPTION:We&#39;ll have another meetup @Centralway. Want to talk about Mozi
+ lla\, check out some awesome Firefox OS devices and maybe even test your o
+ wn app on a real device? Feel free to come and  have a talk about the open
+  web!\n\nWe&#39;ll have at least 3 different devices to play with.
+URL:https://reps.mozilla.org/e/mozilla-switzerland-meetup-july-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3628390273
+X-COORDINATES-LON:8.51483345032
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5219
+CLASS:PUBLIC
+DTSTAMP:20200407T175531Z
+DTSTART:20160312T073000Z
+DTEND:20160312T103000Z
+LOCATION:Alva&#39;s Engineering College\, Mangalore\, Mangalore\, India
+SUMMARY:HTML5 and the future of Web
+DESCRIPTION:It is one of the many amazing events under the Technical Festi
+ val by Alva&#39;s Engineering College \, Mangalore. I had been invited to thro
+ w a light on features of HTML5. I will show some cool demos and also talk 
+ about Connected Devices in Mozilla so that the advocacy can be done at a w
+ ider level.
+URL:https://reps.mozilla.org/e/html5-and-the-future-of-web/
+SEQUENCE:1
+X-COORDINATES-LAT:12.8681976566
+X-COORDINATES-LON:74.8582506162
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

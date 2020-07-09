@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8950
+CLASS:PUBLIC
+DTSTAMP:20200423T080133Z
+DTSTART:20191129T000000Z
+DTEND:20191129T030000Z
+LOCATION:Laboratoria (Comunal Barranco)\, Barranco\, Peru
+SUMMARY:Mozilla Peru Community Meetup
+DESCRIPTION:The monthly community meeting\, to talk about local projects a
+ nd Mozilla projects/technologies
+URL:https://reps.mozilla.org/e/mozilla-peru-community-meetup-2/
+SEQUENCE:2
+X-COORDINATES-LAT:-12.1454775604
+X-COORDINATES-LON:-77.0218566656
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

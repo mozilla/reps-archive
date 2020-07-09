@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4478
+CLASS:PUBLIC
+DTSTAMP:20200423T163810Z
+DTSTART:20150920T060000Z
+DTEND:20150920T093000Z
+LOCATION:Microsoft Taiwan\, Da-an District\, Taiwan
+SUMMARY:Software Freedom Day with Mozillians
+DESCRIPTION:Software Freedom Day + Firefox for Win 10 + SUMO/L10n Sprint\n
+ \nWe had gather together on SFD for past few years\, we saw Code Rush in t
+ heater\, ran localization sprint\, translated  subtitles. What about this 
+ year? \n\nGuess what\, we will celebrating freedom software with Microsoft
+ !\n\nIn this event\, we will celebrate Firefox 40 release with new design 
+ for Windows 10\, learn a little about MS&#39;s OS projects\, meet new IE (Edge
+ )\, have cake and do some SUMO and video/article localization together.
+URL:https://reps.mozilla.org/e/celebrate-the-software-freedom-day-with-moz
+ illians/
+SEQUENCE:3
+X-COORDINATES-LAT:25.0387432552
+X-COORDINATES-LON:121.568738043
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

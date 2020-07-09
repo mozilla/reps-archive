@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@482
+CLASS:PUBLIC
+DTSTAMP:20200423T220854Z
+DTSTART:20130216T043000Z
+DTEND:20130217T113000Z
+LOCATION:Madras Institute of Technology\, Chennai\, chennai\, India
+SUMMARY:Spreading the word of Firefox OS
+DESCRIPTION:Carte Blanche is a open source fest conducted in Madras Instit
+ ute Of Technology \, Chennai (India). Last year we had a workshop on Add-o
+ n development by soumya deb\nhttps://wiki.mozilla.org/Add_On_Development_W
+ orkshop\nThis year they have asked for the demo session of Firefox OS.! Th
+ ere will be few other Mozilla reps and student reps joining with me for th
+ e event .
+URL:https://reps.mozilla.org/e/spreading-the-word-of-firefox-os/
+SEQUENCE:0
+X-COORDINATES-LAT:12.9302838162
+X-COORDINATES-LON:80.1109313965
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

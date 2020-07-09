@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2263
+CLASS:PUBLIC
+DTSTAMP:20200407T174112Z
+DTSTART:20140531T003000Z
+DTEND:20140531T070000Z
+LOCATION:Wisma Tun Sambanthan\, Jalan Sultan Sulaiman\, 50460 Kuala Lumpur
+ \, Wilayah Persekutuan Kuala Lumpur\, Kuala Lumpur\, Malaysia
+SUMMARY:Tamil Open Source Seminar 2014
+DESCRIPTION:This seminar mainly to bring awareness and contributors toward
+ s Tamil Computing in Open Source Projects such Mozilla Firefox\, Tamil Wik
+ ipedia\, Ubuntu Linux.\n\nஇந்த கருத்தரங்கு 
+ வருகின்ற பயனாளர்களுக்கு தம
+ ிழ் கணிமை மற்றும் தமிழ்  பயன
+ ்பாடுகள் பற்றி விழிப்புணர்
+ வையும் எப்படி தமிழை அனைத்த
+ ு நுட்பங்களிலும் பயன்படுத்
+ துவது என்பதைப் பற்றி விவரி
+ க்கப்படும்.
+URL:https://reps.mozilla.org/e/tamil-open-source-seminar-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:3.13979411084
+X-COORDINATES-LON:101.695794404
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

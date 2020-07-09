@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@242
+CLASS:PUBLIC
+DTSTAMP:20200423T225215Z
+DTSTART:20121020T110000Z
+DTEND:20121020T120000Z
+LOCATION:University Politehnica of Bucharest\, Bucharest\, Romania
+SUMMARY:ROSEdu Tech Talks - Automation at Mozilla
+DESCRIPTION:Mihnea Dobrescu-Balaur will be giving a talk about his interns
+ hip at Mozilla
+URL:https://reps.mozilla.org/e/rosedu-tech-talks-automation-at-mozilla/
+SEQUENCE:0
+X-COORDINATES-LAT:44.4365913776
+X-COORDINATES-LON:26.0477954149
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

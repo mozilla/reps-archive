@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4494
+CLASS:PUBLIC
+DTSTAMP:20200407T174222Z
+DTSTART:20151121T080000Z
+DTEND:20151122T170000Z
+LOCATION:École Nationale Supérieure d&#39;Électrotechnique\, d&#39;Électroniqu
+ e\, d&#39;Informatique\, d&#39;Hydraulique et des Télécommunications\, Toulouse\
+ , France
+SUMMARY:Capitole du Libre 2015
+DESCRIPTION:This event is replaced by &#34;bazar du libre&#34; because Capitole du
+  libre has been cancelled due to terrorist threats and state of emergency 
+ in France.\n\nThe &#34;Capitole du Libre&#34; is an event at Toulouse in France ab
+ out free software. This event is free and open for everyone.\n\n\n\nWe&#39;ll 
+ manage a booth on Saturday/Sunday to give out swag\, make some Firefox OS 
+ demo\, answer questions\, etc.
+URL:https://reps.mozilla.org/e/capitole-du-libre-2015/
+SEQUENCE:10
+X-COORDINATES-LAT:43.602047347
+X-COORDINATES-LON:1.45422524216
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

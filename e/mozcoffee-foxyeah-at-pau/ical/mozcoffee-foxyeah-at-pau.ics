@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4075
+CLASS:PUBLIC
+DTSTAMP:20200423T170529Z
+DTSTART:20150707T220000Z
+DTEND:20150708T020000Z
+LOCATION:Prime Asia University (PAU)\, Banani Model Town\, Bangladesh
+SUMMARY:MozCoffee FoxYeah at PAU
+DESCRIPTION:MozCoffee FoxYeah at Prime Asia University (PAU) will be basic
+ ally an event for promoting Firefox for Android\, Firefox\, #FoxYeah and n
+ ews of Firefox. With this event we will share #FoxYeah with the varsity st
+ udents and by this we will able to create a new FSA club in this varsity w
+ hich will be a great impact!
+URL:https://reps.mozilla.org/e/mozcoffee-foxyeah-at-pau/
+SEQUENCE:6
+X-COORDINATES-LAT:23.7935512084
+X-COORDINATES-LON:90.4035934206
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

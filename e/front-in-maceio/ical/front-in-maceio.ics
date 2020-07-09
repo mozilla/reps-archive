@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2837
+CLASS:PUBLIC
+DTSTAMP:20200407T182122Z
+DTSTART:20141113T100000Z
+DTEND:20141116T010000Z
+LOCATION:Centro Cultural e de Exposição Rute Cardoso\, Maceio\, Brazil
+SUMMARY:Front in Maceió
+DESCRIPTION:First &#34;Front in&#34; event in the NE of Brazil. One of the most im
+ portant event regarding front end on NE.\n\nFront in Maceió will happen o
+ n November 13th to 16th\, with a lot of activities:\n\n* Hackathon\n* Work
+ shops\n* Talks on two simultaneous tracks\n\nThe objective of the event wi
+ th these activities is not only bring people who work with front-end\, but
+  also people from digital marketing\, web design\, UX\, Agile\, Mobile\, S
+ oftware Architecture\, and much more.
+URL:https://reps.mozilla.org/e/front-in-maceio/
+SEQUENCE:5
+X-COORDINATES-LAT:-9.66943046522
+X-COORDINATES-LON:-35.7230154276
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

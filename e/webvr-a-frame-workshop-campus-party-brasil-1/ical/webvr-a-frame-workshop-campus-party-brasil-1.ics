@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8296
+CLASS:PUBLIC
+DTSTAMP:20200423T084213Z
+DTSTART:20190214T000000Z
+DTEND:20190214T014500Z
+LOCATION:Expo Center Norte - Rua José Bernardo Pinto\, 333 - Vila Guilher
+ me\, São Paulo\, Brazil
+SUMMARY:WebVR A-Frame workshop @Campus Party Brasil
+DESCRIPTION:A Workshop about what we can do for education using WebVR and 
+ A-frame.
+URL:https://reps.mozilla.org/e/webvr-a-frame-workshop-campus-party-brasil-
+ 1/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.512123
+X-COORDINATES-LON:-46.61569
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

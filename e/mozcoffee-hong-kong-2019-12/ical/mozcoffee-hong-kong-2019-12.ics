@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8977
+CLASS:PUBLIC
+DTSTAMP:20200407T170248Z
+DTSTART:20191206T100000Z
+DTEND:20191206T120000Z
+LOCATION:Pacific Coffee\, 1/F\, Silvercord\, Tsim Sha Tsui\, Kowloon\, Hon
+ g Kong\, Hong Kong
+SUMMARY:MozCoffee Hong Kong 2019.12
+DESCRIPTION:We will discuss the Firefox Account\, Monitor\, Lockwise\, Com
+ mon Voice Cantonese and any Mozilla / Open Web / Open Internet related top
+ ics.
+URL:https://reps.mozilla.org/e/mozcoffee-hong-kong-2019-12/
+SEQUENCE:2
+X-COORDINATES-LAT:22.2978068499
+X-COORDINATES-LON:114.169377565
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

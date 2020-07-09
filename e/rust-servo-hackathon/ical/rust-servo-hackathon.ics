@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6017
+CLASS:PUBLIC
+DTSTAMP:20200423T114750Z
+DTSTART:20161105T120000Z
+DTEND:20161105T210000Z
+LOCATION:Coredump Hackerspace\, Zürcherstrasse 6\, 8640 Rapperswil-Jona\,
+  Jona\, Switzerland
+SUMMARY:Rust / Servo Hackathon
+DESCRIPTION:Learn more Rust\, improve Servo or bring your own project! We 
+ are looking forward to a fun weekend.\n\nThis independent hackathon at the
+  Coredump hackerspace (https://coredump.ch) is focussed on Servo\, the nex
+ t generation browser engine from Mozilla: https://servo.org/.\nIf you&#39;ve n
+ ever taken a closer look at the project\, don&#39;t worry! There are a lot of 
+ beginner-friendly tickets marked as &#34;easy&#34; in the issue tracker.\n\nWhethe
+ r you are new to Rust or already know about it\, we want you!
+URL:https://reps.mozilla.org/e/rust-servo-hackathon/
+SEQUENCE:2
+X-COORDINATES-LAT:47.229243052
+X-COORDINATES-LON:8.8202562333
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

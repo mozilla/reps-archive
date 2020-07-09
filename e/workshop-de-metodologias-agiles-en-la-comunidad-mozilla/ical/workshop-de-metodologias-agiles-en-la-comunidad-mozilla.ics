@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3851
+CLASS:PUBLIC
+DTSTAMP:20200423T171425Z
+DTSTART:20150613T140000Z
+DTEND:20150613T190000Z
+LOCATION:Av. Américo Vespucio 974\, Maipú\, Maipú\, Chile
+SUMMARY:Workshop de Metodologías Ágiles en la Comunidad Mozilla
+DESCRIPTION:Change perspective\, vision and mentality versus project manag
+ ement and excel in the agile manifesto. \nIndividuals and interactions ove
+ r processes and tools\nWorking software over comprehensive documentation\n
+ Customer collaboration over contract negotiation\nResponding to change ove
+ r following a plan
+URL:https://reps.mozilla.org/e/workshop-de-metodologias-agiles-en-la-comun
+ idad-mozilla/
+SEQUENCE:1
+X-COORDINATES-LAT:-33.4804583362
+X-COORDINATES-LON:-70.7559236885
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

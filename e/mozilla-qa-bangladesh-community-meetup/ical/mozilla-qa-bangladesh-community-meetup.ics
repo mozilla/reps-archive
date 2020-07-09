@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4992
+CLASS:PUBLIC
+DTSTAMP:20200407T165908Z
+DTSTART:20170510T180000Z
+DTEND:20170513T180000Z
+LOCATION:Royal Tulip Resort\, Dhaka\, Bangladesh
+SUMMARY:Mozilla QA Bangladesh Community Meetup
+DESCRIPTION:Mozilla QA Bangladesh Community Meetup
+URL:https://reps.mozilla.org/e/mozilla-qa-bangladesh-community-meetup/
+SEQUENCE:11
+X-COORDINATES-LAT:23.70108288
+X-COORDINATES-LON:90.5210459232
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

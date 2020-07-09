@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4738
+CLASS:PUBLIC
+DTSTAMP:20200423T160330Z
+DTSTART:20151213T140000Z
+DTEND:20151213T220000Z
+LOCATION:San salvador\, San salvador\, El Salvador
+SUMMARY:The hour of code
+DESCRIPTION:Mozilla El salvador will participate in the hour of code\, the
+  members of community teach to web technology and code version control\, t
+ he event is in  all country\, the objective is that people know the web te
+ chnology and practice for development apps.
+URL:https://reps.mozilla.org/e/the-hour-of-code/
+SEQUENCE:3
+X-COORDINATES-LAT:13.749167735
+X-COORDINATES-LON:-89.1547849774
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

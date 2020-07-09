@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7531
+CLASS:PUBLIC
+DTSTAMP:20200423T094431Z
+DTSTART:20180416T050000Z
+DTEND:20180420T120000Z
+LOCATION:Univerwity of Mauritius\, Le Reduit\, Mauritius
+SUMMARY:Workshop on creating digital libraries using open source software
+DESCRIPTION:This is a training workshop which I am going to facilitate in 
+ connection with the project for SLAFNET consortium\, regrouping slavery re
+ search centres. The Institute consists of 3 training workshops on: 1. Arch
+ ival research on slavery in Mauritius\, Mozambique\, Portugal\, France\, U
+ K\, Kenya\, Holland. Firefox will be one of the main software for browsing
+  is the collectionoka.
+URL:https://reps.mozilla.org/e/workshop-on-creating-digital-libraries-usin
+ g-open-source-software/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.218415303
+X-COORDINATES-LON:57.4946937617
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

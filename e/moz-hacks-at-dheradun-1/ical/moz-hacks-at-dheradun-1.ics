@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3630
+CLASS:PUBLIC
+DTSTAMP:20200423T173435Z
+DTSTART:20150410T043000Z
+DTEND:20150410T113000Z
+LOCATION:TBD\, Dheradun\, India
+SUMMARY:Moz Hacks at Dheradun
+DESCRIPTION:Mozilla Mission &amp; its Products\, How to get involve in Mozilla
+  Projects. Building better Web with Webmaker tools. Making open web-app th
+ orough Appmaker. How to get involve in Mozilla Projects. Introduction and 
+ need of FOSS. Hands-on session on Mozilla Webmaker tools. Demo on FirefoxO
+ S. Awareness about FOSS. How we can contribute in FOSS. Recruiting new FSA
+ . Encouraging WoMoz.
+URL:https://reps.mozilla.org/e/moz-hacks-at-dheradun-1/
+SEQUENCE:1
+X-COORDINATES-LAT:30.3021558854
+X-COORDINATES-LON:78.0659180135
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1584
+CLASS:PUBLIC
+DTSTAMP:20200423T204029Z
+DTSTART:20131215T130000Z
+DTEND:20131215T210000Z
+LOCATION:Facultad Politécnica - Universidad Nacional de Asunción\, San L
+ orenzo\, Paraguay
+SUMMARY:Barcamp Asunción 2013
+DESCRIPTION:This event will be focused to bring together IT professionals\
+ , innovators\, business people and students under their own agenda to netw
+ ork and come up with ideas that will enable them to work on ideas and crea
+ te prototypes in a day. The event will also be aimed to create further awa
+ reness on Firefox OS.
+URL:https://reps.mozilla.org/e/barcamp-asuncion-2013/
+SEQUENCE:6
+X-COORDINATES-LAT:-25.3335835495
+X-COORDINATES-LON:-57.5194483998
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

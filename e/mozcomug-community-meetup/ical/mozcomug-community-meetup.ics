@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1871
+CLASS:PUBLIC
+DTSTAMP:20200423T201737Z
+DTSTART:20140314T020000Z
+DTEND:20140314T040000Z
+LOCATION:TBD\, Kampala\, Uganda
+SUMMARY:MozComUg community meetup
+DESCRIPTION:Mozilla Uganda community will hold a meetup to talk about our 
+ previous work and prepare our plans for 2014.
+URL:https://reps.mozilla.org/e/mozcomug-community-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:0.28472788787
+X-COORDINATES-LON:32.5726316124
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

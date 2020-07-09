@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2691
+CLASS:PUBLIC
+DTSTAMP:20200407T175055Z
+DTSTART:20140911T010000Z
+DTEND:20140911T060000Z
+LOCATION:Aula SMA Negeri 11 Surabaya\, Surabaya\, Indonesia
+SUMMARY:Maker Party - Hack Jam Surabaya 2014
+DESCRIPTION:The participants in this event are 150 student in senior high 
+ school from SMA Negeri 11 Surabaya.
+URL:https://reps.mozilla.org/e/maker-party-hack-jam-surabaya-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:-7.26124074391
+X-COORDINATES-LON:112.661510054
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

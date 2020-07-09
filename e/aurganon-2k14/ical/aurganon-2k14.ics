@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1879
+CLASS:PUBLIC
+DTSTAMP:20200423T202547Z
+DTSTART:20140221T033000Z
+DTEND:20140221T083000Z
+LOCATION:SRM University Ramapuram\, Chennai\, India
+SUMMARY:Aurganon 2k14
+DESCRIPTION:An introduction about the mission and products of Mozilla with
+  brief sessions on Firefox OS\, Webmaker and Addon development at Aurganon
+  2k14 organized by the IT department of SRM University\, Ramapuram Campus.
+URL:https://reps.mozilla.org/e/aurganon-2k14/
+SEQUENCE:2
+X-COORDINATES-LAT:13.0346555036
+X-COORDINATES-LON:80.1250619887
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

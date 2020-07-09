@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8784
+CLASS:PUBLIC
+DTSTAMP:20200423T081041Z
+DTSTART:20190921T060000Z
+DTEND:20190921T154500Z
+LOCATION:Foxlab MakerSpace\, 2nd Floor\,TBS Tower Near Govt. Polytechnic C
+ ollege\, Perinthalmanna\, Malappuram\, Kerala 679321\, Malappuram\, India
+SUMMARY:Software Freedom Day 2019 - Kerala
+DESCRIPTION:Software Freedom Day is a global celebration of Free and Open 
+ Source Software. It is conducted every year in the month of September in d
+ ifferent countries. SFD is a public education effort with the aim of incre
+ asing awareness of Free Software and its virtues and encouraging its use.S
+ FD aims to be an accessible and community-driven conference\, and be open 
+ to developers and students of all levels.
+URL:https://reps.mozilla.org/e/software-freedom-day-2019-kerala/
+SEQUENCE:10
+X-COORDINATES-LAT:8.5062152149
+X-COORDINATES-LON:76.9392242655
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

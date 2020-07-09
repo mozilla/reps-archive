@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3362
+CLASS:PUBLIC
+DTSTAMP:20200407T180117Z
+DTSTART:20141213T193000Z
+DTEND:20141213T223000Z
+LOCATION:Abidjan\, Abidjan\, Ivory Coast
+SUMMARY:MozCofee Abidjan
+DESCRIPTION:Meetup to discuss on planning project&#39;s Mozilla Côte d&#39;ivoire
+  for 2015
+URL:https://reps.mozilla.org/e/mozcofee-abidjan/
+SEQUENCE:0
+X-COORDINATES-LAT:5.3771222
+X-COORDINATES-LON:-3.9604839
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

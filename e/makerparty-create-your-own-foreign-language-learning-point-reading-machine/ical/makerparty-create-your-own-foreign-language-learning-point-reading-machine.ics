@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4183
+CLASS:PUBLIC
+DTSTAMP:20200423T170145Z
+DTSTART:20150717T023000Z
+DTEND:20150717T053000Z
+LOCATION:中国新疆乌鲁木齐市南湖旭东社区\, wlmq\, China
+SUMMARY:MakerParty -- Create your own foreign language learning point read
+ ing machine
+DESCRIPTION:Install Firefox\, \ninstall firefox Add-ONE\, \nMake Html File
+ \, \nMake your own e-learning point reading machine
+URL:https://reps.mozilla.org/e/makerparty-create-your-own-foreign-language
+ -learning-point-reading-machine/
+SEQUENCE:1
+X-COORDINATES-LAT:43.8194306524
+X-COORDINATES-LON:2607.60777605
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

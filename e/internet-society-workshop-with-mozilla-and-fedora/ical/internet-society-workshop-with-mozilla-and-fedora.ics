@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@838
+CLASS:PUBLIC
+DTSTAMP:20200407T180004Z
+DTSTART:20130302T200000Z
+DTEND:20130302T220000Z
+LOCATION:Sri Lanka Institute of Information Technology -5th Floor\, Malabe
+ \, Sri Lanka
+SUMMARY:Internet Society workshop with Mozilla and Fedora
+DESCRIPTION:Internet Society workshop with Mozilla and Fedora - SLIIT 2012
+ \n\nIT Professionals and IT students are welcome and it&#39;s free!!\n\nVenue:
+  501Hall (5th- Floor) Malabe Campus\, SLIIT.\nTime  : 1.30Pm - 3.30Pm\nDat
+ e  : 29 March 2012.\n\n\nPlease follow the link given bellow for more deta
+ ils.\n\nhttp://barcamp.org/w/page/51910415/IsocWorkshop
+URL:https://reps.mozilla.org/e/internet-society-workshop-with-mozilla-and-
+ fedora/
+SEQUENCE:2
+X-COORDINATES-LAT:6.90342113072
+X-COORDINATES-LON:79.9589252472
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

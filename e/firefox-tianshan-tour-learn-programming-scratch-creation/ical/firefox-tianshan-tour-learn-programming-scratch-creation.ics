@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5495
+CLASS:PUBLIC
+DTSTAMP:20200423T150548Z
+DTSTART:20160805T070000Z
+DTEND:20160805T090000Z
+LOCATION:Urumqi gaoxin community\, Urumqi\, China
+SUMMARY:Firefox Tianshan Tour-Lesson 4-What is a browser?
+DESCRIPTION:Objective:\nThe objective of this section is to enable student
+ s to understand and appreciate\nWhat is a Browser\nBrowser free\nWhat brow
+ ser can you do?\nWhy should I use a modern browser\nHow to prevent being t
+ racked how to prevent malicious phishing sites?\nHow to prevent indecent v
+ ideo
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-learn-programming-scr
+ atch-creation/
+SEQUENCE:2
+X-COORDINATES-LAT:43.8803469967
+X-COORDINATES-LON:2607.55236518
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

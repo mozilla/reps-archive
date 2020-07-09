@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5365
+CLASS:PUBLIC
+DTSTAMP:20200407T174317Z
+DTSTART:20170328T040000Z
+DTEND:20170328T080000Z
+LOCATION:Patuakhali Science and Technology University\, Patuakhali\, Patua
+ khali\, Bangladesh
+SUMMARY:MozAwareness in PSTU\, Patuakhali
+DESCRIPTION:This is a new city and new institute where Mozilla will go to 
+ organize a mozawareness event where we will do these task: \n  \n- Show ab
+ out the Mozilla’s History.\n- Show the present and future Mozilla’s mi
+ ssions including Campus - Campaign &amp; Connected Devices.\n- Show the Mozill
+ a Bangladesh&#39;s history and present situation.\n- Share some Senior Mozilli
+ ans histories.\n- Aware about Privacy on the web.\n- Open and Talk about F
+ SA Clubs.
+URL:https://reps.mozilla.org/e/mozawareness-in-pstu-patuakhali-1/
+SEQUENCE:7
+X-COORDINATES-LAT:22.3589118341
+X-COORDINATES-LON:90.3186571598
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

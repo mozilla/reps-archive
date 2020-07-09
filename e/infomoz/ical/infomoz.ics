@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2224
+CLASS:PUBLIC
+DTSTAMP:20200423T195218Z
+DTSTART:20140510T053000Z
+DTEND:20140510T090000Z
+LOCATION:University Center for Computer Science\, University of Rajasthan\
+ , Jaipur\, India
+SUMMARY:InfoMoz
+DESCRIPTION:Jaipur Open Source Open Community&#39;s Get Together.
+URL:https://reps.mozilla.org/e/infomoz/
+SEQUENCE:47
+X-COORDINATES-LAT:27.0649956346
+X-COORDINATES-LON:75.0732412934
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

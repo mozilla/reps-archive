@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4441
+CLASS:PUBLIC
+DTSTAMP:20200423T164417Z
+DTSTART:20150909T043000Z
+DTEND:20150914T173000Z
+LOCATION:online\, online\, India
+SUMMARY:Mozilla bn-IN l10n sprint for next release
+DESCRIPTION:This is a 5 days event of Mozilla l10n related projects for bn
+ -IN localization. Basically this event is for next release.Along with this
+  we will complete QA part also.
+URL:https://reps.mozilla.org/e/mozilla-bn-in-l10n-sprint-for-next-release/
+SEQUENCE:4
+X-COORDINATES-LAT:22.7159389342
+X-COORDINATES-LON:88.4417725168
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

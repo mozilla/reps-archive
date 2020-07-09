@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5851
+CLASS:PUBLIC
+DTSTAMP:20200423T115602Z
+DTSTART:20161007T090000Z
+DTEND:20161007T150000Z
+LOCATION:Banani\, Banani Model Town\, Bangladesh
+SUMMARY:Web Compatibility Sprint at Banani
+DESCRIPTION:Web Compatibility Sprint will be held in Karail\, Banani with 
+ people who are interested in web.
+URL:https://reps.mozilla.org/e/web-compatibility-sprint-at-karail-banani/
+SEQUENCE:8
+X-COORDINATES-LAT:23.7885090895
+X-COORDINATES-LON:90.4074986279
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

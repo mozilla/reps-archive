@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8143
+CLASS:PUBLIC
+DTSTAMP:20200407T174125Z
+DTSTART:20180823T210000Z
+DTEND:20180828T090000Z
+LOCATION:International Convention Centre\, Sydney\, Australia
+SUMMARY:PyCon Australia
+DESCRIPTION:PyCon AU is the national Python programming language conferenc
+ e in Australia.\n\nThe aim is to bring more contributors to add-ons projec
+ t during Development sprints
+URL:https://reps.mozilla.org/e/pycon-australia/
+SEQUENCE:1
+X-COORDINATES-LAT:-33.869897689
+X-COORDINATES-LON:151.199850084
+X-COUNTRY-CODE:au
+END:VEVENT
+
+END:VCALENDAR

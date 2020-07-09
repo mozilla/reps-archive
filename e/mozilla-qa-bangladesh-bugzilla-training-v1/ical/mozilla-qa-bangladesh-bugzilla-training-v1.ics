@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6650
+CLASS:PUBLIC
+DTSTAMP:20200407T181230Z
+DTSTART:20170526T030000Z
+DTEND:20170526T110000Z
+LOCATION:Daffodil International University\, Dhaka\, Bangladesh
+SUMMARY:Mozilla QA Bangladesh : Bugzilla Training\, V1
+DESCRIPTION:A training event to skill up bugzilla activities.
+URL:https://reps.mozilla.org/e/mozilla-qa-bangladesh-bugzilla-training-v1/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7540866
+X-COORDINATES-LON:90.3771419
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

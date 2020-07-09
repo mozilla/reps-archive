@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3669
+CLASS:PUBLIC
+DTSTAMP:20200407T175018Z
+DTSTART:20150410T043000Z
+DTEND:20150410T103000Z
+LOCATION:Prasad Engineering College\, Siddipet Road\, Jangoan\, Jangoan\, 
+ India
+SUMMARY:Firefox Club &#34;Nirmaan&#34; @ Prasad Engineering College
+DESCRIPTION:Inauguration of a Firefox Club in Prasad Engineering College a
+ nd to recruit FSA&#39;s from in and around Jangoan region for the first time a
+ nd form a community in Jangoan.
+URL:https://reps.mozilla.org/e/firefox-club-nirmaan-prasad-engineering-col
+ lege/
+SEQUENCE:11
+X-COORDINATES-LAT:17.719201392
+X-COORDINATES-LON:79.1563796857
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

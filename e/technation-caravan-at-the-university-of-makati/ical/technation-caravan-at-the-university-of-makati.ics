@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5655
+CLASS:PUBLIC
+DTSTAMP:20200423T151114Z
+DTSTART:20160720T060000Z
+DTEND:20160720T090000Z
+LOCATION:University of Makati\, Makati City\, Philippines
+SUMMARY:TechNation Caravan at the University of Makati
+DESCRIPTION:This tour and seminar pocket events aim to reach out to as man
+ y schools and universities to propagate Free and Open Source Software and 
+ to educate the members of the academe on the latest trends in technology a
+ nd innovation.
+URL:https://reps.mozilla.org/e/technation-caravan-at-the-university-of-mak
+ ati/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5572882454
+X-COORDINATES-LON:121.060067653
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

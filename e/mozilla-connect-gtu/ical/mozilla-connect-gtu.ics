@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5521
+CLASS:PUBLIC
+DTSTAMP:20200423T151931Z
+DTSTART:20160616T100000Z
+DTEND:20160616T170000Z
+LOCATION:Gujarat Technological University\, First Floor\, Computer Lab\, B
+ lock No-6\, Near Boys Hostel Gate\, L.D. Engineering College Campus\, Ahme
+ dabad\, Ahmedabad\, India
+SUMMARY:Mozilla Connect @ GTU
+DESCRIPTION:The Main Motto of the Event is to Literate Students about Mozi
+ lla\, the Online Privacy &amp; Security\, what is FOSS and how The Exclusive t
+ ool LIGHTBEAM can be the Best option to Prevent their privacy\, Introducin
+ g them to Open Source O.S. Linux and a Live Demo of Firefox Hello. Agenda:
+  About Mozilla. FOSS and Open Source Online Privacy\, Security &amp; Lightbeam
+  Short session on Linux Community Building &amp; Contribution areas of Mozilla
+  Firefox Hello\, Intro to Rust Language\, etc.
+URL:https://reps.mozilla.org/e/mozilla-connect-gtu/
+SEQUENCE:5
+X-COORDINATES-LAT:23.1327829573
+X-COORDINATES-LON:71.3507080078
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

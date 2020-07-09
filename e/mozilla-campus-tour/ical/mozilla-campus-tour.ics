@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@107
+CLASS:PUBLIC
+DTSTAMP:20200423T230053Z
+DTSTART:20120920T050000Z
+DTEND:20120920T090000Z
+LOCATION:Letran Calamba\, Calamba\, Philippines
+SUMMARY:Mozilla Campus Tour - Letran Calamba (SCST Software Expo 2012)
+DESCRIPTION:The event will tackle about the Mozilla mission\, Mozilla prod
+ ucts and different web technologies during the Software Expo 2012 @ Letran
+  Calamba.\n\nThis event was supposed to be last August 17\, 2012 but due t
+ o bad weather it was moved and coordinated with the Expo Event
+URL:https://reps.mozilla.org/e/mozilla-campus-tour/
+SEQUENCE:0
+X-COORDINATES-LAT:14.1887973641
+X-COORDINATES-LON:121.165616512
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

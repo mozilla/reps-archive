@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4603
+CLASS:PUBLIC
+DTSTAMP:20200423T163003Z
+DTSTART:20151010T023000Z
+DTEND:20151010T113000Z
+LOCATION:Auditorium \, NIET \, Greater Noida \, Plot - 19 \, Knowledge Par
+ k - 2\, Noida\, India
+SUMMARY:MozNIET 2k15
+DESCRIPTION:#fxcamp To spread Localized Firefox in India\, Mozilla India L
+ ocalization community is hosting a pan-India campaign for Hindi &amp; Marathi.
+  The campaign would run from 2nd Oct to 1st Nov. To show users that Firefo
+ x is available in their language we are creating a campaign that helps fan
+ s of Firefox invite the people in their networks to download Firefox. We a
+ re creating unique\, shareable pieces of content that are humorous\, insig
+ htful and topical to get the conversation and activities started.
+URL:https://reps.mozilla.org/e/mozniet-2k15/
+SEQUENCE:3
+X-COORDINATES-LAT:28.568190509
+X-COORDINATES-LON:77.3559265165
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

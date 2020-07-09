@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3893
+CLASS:PUBLIC
+DTSTAMP:20200423T172224Z
+DTSTART:20150520T170000Z
+DTEND:20150520T200000Z
+LOCATION:Sektor 5\, Siebenbrunnengasse 44\, 1050 Wien\, Vienna\, Austria
+SUMMARY:Mozilla Vienna Meetup
+DESCRIPTION:First ever Mozilla community meetup in Vienna!\n\nWe&#39;ll have i
+ mpulse talks about news stuff at Mozilla and about Rust 1.0 and then we&#39;ll
+  just have some discussions and casual conversations about Mozilla topics.
+URL:https://reps.mozilla.org/e/mozilla-vienna-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:48.1860815258
+X-COORDINATES-LON:16.3552601338
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

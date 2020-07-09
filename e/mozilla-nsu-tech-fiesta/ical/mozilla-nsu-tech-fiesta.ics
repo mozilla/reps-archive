@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1396
+CLASS:PUBLIC
+DTSTAMP:20200407T182458Z
+DTSTART:20140324T040000Z
+DTEND:20140324T140000Z
+LOCATION:North South University\, Dhaka\, Bangladesh
+SUMMARY:Mozilla @ NSU tech Fiesta
+DESCRIPTION:Tech fiesta is an annual technological ceremony arranged by NS
+ U Wireless forum. The aim of the event is to take both technology provider
+ s and consumers under the same premise. Many national well known hardware 
+ and software vendors and tech lover around the country will take part. \n\
+ nNSU firefox club along with NSU Wireless forum will arrange two events on
+  this occasion\, they are webmaker event and Firefox OS App training day. 
+ Also there will be a booth\, where we can display Firfefox OS devices.
+URL:https://reps.mozilla.org/e/mozilla-nsu-tech-fiesta/
+SEQUENCE:10
+X-COORDINATES-LAT:23.8148137772
+X-COORDINATES-LON:90.4256558418
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

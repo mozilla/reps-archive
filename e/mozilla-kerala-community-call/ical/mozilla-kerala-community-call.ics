@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6711
+CLASS:PUBLIC
+DTSTAMP:20200423T110314Z
+DTSTART:20170604T150000Z
+DTEND:20170604T161500Z
+LOCATION:Hangout\, Ernakulam\, India
+SUMMARY:Mozilla Kerala Community Call
+DESCRIPTION:This call is to discuss about MozillaKerala Upcoming events an
+ d programs that can be done.
+URL:https://reps.mozilla.org/e/mozilla-kerala-community-call/
+SEQUENCE:1
+X-COORDINATES-LAT:9.98708144253
+X-COORDINATES-LON:76.2874259963
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

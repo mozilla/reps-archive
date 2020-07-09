@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5611
+CLASS:PUBLIC
+DTSTAMP:20200423T150942Z
+DTSTART:20160726T053000Z
+DTEND:20160726T073000Z
+LOCATION:Samrat Ashok polytechnic dhule road\,Chalisgaon\, Chalisgaon\, In
+ dia
+SUMMARY:Web literacy @ Chalisgaon Village
+DESCRIPTION:A mozillian named Rahul Parakh  is hosting his very first web 
+ literacy event in his village. \n\nSimple agenda for this event is: \n1. B
+ asics of internet\n2. Net neutrality\n3. Privacy and Security\n4. Webmaker
+  Thimble\n5. Secure password making
+URL:https://reps.mozilla.org/e/web-literacy-chalisgaon-village/
+SEQUENCE:0
+X-COORDINATES-LAT:20.4389165034
+X-COORDINATES-LON:75.0356769562
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

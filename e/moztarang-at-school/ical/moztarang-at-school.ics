@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3094
+CLASS:PUBLIC
+DTSTAMP:20200407T182615Z
+DTSTART:20141130T053000Z
+DTEND:20141130T093000Z
+LOCATION:jelly high school\,Nekonda\,warangal\, Warangal.\, India
+SUMMARY:Moztarang at School
+DESCRIPTION:To teach the students about web\,open source technology and we
+ bmaker projects\,Mozilla mission.
+URL:https://reps.mozilla.org/e/moztarang-at-school/
+SEQUENCE:3
+X-COORDINATES-LAT:17.9981952717
+X-COORDINATES-LON:79.4498219015
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

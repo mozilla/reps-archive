@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2512
+CLASS:PUBLIC
+DTSTAMP:20200423T191120Z
+DTSTART:20140823T043000Z
+DTEND:20140823T123000Z
+LOCATION:VIIT Engg College Pune\, Pune\, India
+SUMMARY:Firefox OS Apps Day (App Day in a Box (ADIAB))
+DESCRIPTION:Introduce Firefox OS and its app development to the audience. 
+ Also do some hacking for Firefox Apps where the participants will develop 
+ apps for Firefox OS and get them Published into the Marketplace.  This eve
+ nt is scheduled keeping in view the forthcoming launch of Firefox OS in In
+ dia.
+URL:https://reps.mozilla.org/e/firefox-os-apps-day-app-day-in-a-box-adiab/
+SEQUENCE:5
+X-COORDINATES-LAT:18.3740758201
+X-COORDINATES-LON:73.9867401123
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

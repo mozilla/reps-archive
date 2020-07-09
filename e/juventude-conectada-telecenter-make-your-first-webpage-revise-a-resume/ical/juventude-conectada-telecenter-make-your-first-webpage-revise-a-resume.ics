@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5909
+CLASS:PUBLIC
+DTSTAMP:20200423T145110Z
+DTSTART:20161005T130000Z
+DTEND:20161005T143000Z
+LOCATION:CEU Florence - Centro de Esportes Unificados Jardim Florence\, Ca
+ mpinas\, Brazil
+SUMMARY:Juventude Conectada Telecenter: Make Your First Webpage Revise a R
+ ésumé
+DESCRIPTION:Evaliate a résumé in need of revision and use common HTML ta
+ gs to give it structure and organization\, learning compose\, code\, evalu
+ ate\, revise\, remix\, and share!
+URL:https://reps.mozilla.org/e/juventude-conectada-telecenter-make-your-fi
+ rst-webpage-revise-a-resume/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.9
+X-COORDINATES-LON:-47.0833
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

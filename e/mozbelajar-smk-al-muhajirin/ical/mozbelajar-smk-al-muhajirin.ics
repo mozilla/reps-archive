@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4436
+CLASS:PUBLIC
+DTSTAMP:20200423T164309Z
+DTSTART:20150912T020000Z
+DTEND:20150912T060000Z
+LOCATION:SMK Al-Muhajirin\, Madura\, Indonesia
+SUMMARY:#MozBelajar SMK Al-Muhajirin
+DESCRIPTION:An event to introduce the newly launched Webmaker App to vocat
+ ional high school students in SMK Al-Muhajirin. There will be Webmaker App
+  downloading session and hands on workshop in making projects using the ap
+ p. This event is organized as part of Webmaker App Launch initiatives in I
+ ndonesia.
+URL:https://reps.mozilla.org/e/mozbelajar-smk-al-muhajirin/
+SEQUENCE:2
+X-COORDINATES-LAT:-7.1045264535
+X-COORDINATES-LON:113.296874911
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

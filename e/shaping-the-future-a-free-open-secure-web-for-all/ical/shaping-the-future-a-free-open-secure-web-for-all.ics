@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2567
+CLASS:PUBLIC
+DTSTAMP:20200423T183527Z
+DTSTART:20141108T060000Z
+DTEND:20141108T120000Z
+LOCATION:Jomo Kenyatta University of Agriculture and Technology Mombasa\, 
+ Kenya\, Mombasa\, Kenya
+SUMMARY:Shaping the future - A free\, Open &amp; Secure Web for all!
+DESCRIPTION:This Webmaker event focuses mainly on aspects of Security\, th
+ e topics to be covered during this event will include:\n\n1. Cyber Securit
+ y\n2. Internet Security\n3. Mozilla Lightbeam Project\n4. Why the need for
+  an Open Web
+URL:https://reps.mozilla.org/e/shaping-the-future-a-free-open-secure-web-f
+ or-all/
+SEQUENCE:10
+X-COORDINATES-LAT:-4.09852048284
+X-COORDINATES-LON:39.8106765747
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

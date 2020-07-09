@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1883
+CLASS:PUBLIC
+DTSTAMP:20200407T182553Z
+DTSTART:20140224T023000Z
+DTEND:20140224T063000Z
+LOCATION:Tech Hub KNUST Campus\, Kumasi\, Ghana
+SUMMARY:MozGhana HackJAM
+DESCRIPTION:Mozilla  Ghana is stepping ahead with new enthusiastic team me
+ mbers. This another start-up event at KNUST campus will give us an opportu
+ nity to identify and invite committed individual to come  forward and lead
+  the Mozilla Ghana which will strengthen our team.\nFrom this event attend
+ ees will come to know about Mozilla mission and Open Web Ideologies.This e
+ vent will give them an opportunity to become Webmake from web user.
+URL:https://reps.mozilla.org/e/mozghana-hackjam/
+SEQUENCE:5
+X-COORDINATES-LAT:6.68706995545
+X-COORDINATES-LON:-1.619539
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7117
+CLASS:PUBLIC
+DTSTAMP:20200407T174233Z
+DTSTART:20171104T070000Z
+DTEND:20171105T160000Z
+LOCATION:Harokopio University of Athens\, Athens\, Greece
+SUMMARY:FOSSCOMM 2017
+DESCRIPTION:FOSSCOMM (Free and Open Source Software Communities Meeting) i
+ s a Greek conference aiming at free-software and open-source enthusiasts\,
+  developers\, and communities. It has been hosted in various cities around
+  Greece and its goal is to promote the use of FOSS in Greece and to bring 
+ FOSS enthusiasts together.
+URL:https://reps.mozilla.org/e/fosscomm-2017/
+SEQUENCE:3
+X-COORDINATES-LAT:37.9612159745
+X-COORDINATES-LON:23.708201407
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

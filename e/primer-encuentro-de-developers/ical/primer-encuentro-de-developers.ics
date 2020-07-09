@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2980
+CLASS:PUBLIC
+DTSTAMP:20200423T184139Z
+DTSTART:20141023T140000Z
+DTEND:20141023T230000Z
+LOCATION:Auditorio Andres Castro de la vicepresidencia de Nicaragua\, Mana
+ gua\, Nicaragua
+SUMMARY:Primer Encuentro de Developers
+DESCRIPTION:Un congreso donde se hablaran de distintas herramientas de des
+ arrollo\, Organizado Por la Universidad Politecnica en conjunto a Mozilla 
+ Nicaragua y La Vicepresidencia de la republica de Nicaragua donde fuimos i
+ nvitados para Dar Talleres de creacion de Apps para Firefox OS asi mismo d
+ ar charlas de Mozilla en general\, el evento se realizará en el Auditorio
+  Andrés Castro de la Vicepresidencia de la República de Nicaragua
+URL:https://reps.mozilla.org/e/primer-encuentro-de-developers/
+SEQUENCE:3
+X-COORDINATES-LAT:12.1373041252
+X-COORDINATES-LON:-86.219917059
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

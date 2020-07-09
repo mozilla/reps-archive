@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6851
+CLASS:PUBLIC
+DTSTAMP:20200423T104706Z
+DTSTART:20170819T043000Z
+DTEND:20170819T100000Z
+LOCATION:MGIT\, Hyderabad\, Hyderabad\, India
+SUMMARY:Month of WebVR @ MGIT\, Hyderabad : Week 3
+DESCRIPTION:Agenda of the Day\n\nSensors &amp; Controls\nCompleting group proj
+ ect\nDemo Presentation of the project
+URL:https://reps.mozilla.org/e/month-of-webvr-week-3/
+SEQUENCE:4
+X-COORDINATES-LAT:15.1534391836
+X-COORDINATES-LON:79.4018545747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

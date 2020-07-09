@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1680
+CLASS:PUBLIC
+DTSTAMP:20200423T203709Z
+DTSTART:20140102T051500Z
+DTEND:20140102T081500Z
+LOCATION:Prime College\, Kathmandu\, Nepal
+SUMMARY:Prime College FOSS Orientation
+DESCRIPTION:An event organized by Prime FOSS Club to aware freshers about 
+ diffferent open source communities in Nepal and give them an oppurutunity 
+ to work with the Open Source Communities in Nepal
+URL:https://reps.mozilla.org/e/prime-college-foss-orientation/
+SEQUENCE:1
+X-COORDINATES-LAT:27.7170648717
+X-COORDINATES-LON:85.3064481318
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

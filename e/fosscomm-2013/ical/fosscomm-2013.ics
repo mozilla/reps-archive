@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@750
+CLASS:PUBLIC
+DTSTAMP:20200423T215044Z
+DTSTART:20130420T060000Z
+DTEND:20130421T160000Z
+LOCATION:Harokopio University\, Athens\, Greece
+SUMMARY:FOSSCOMM 2013 
+DESCRIPTION:FOSSCOMM is the annual meeting of Greek FOSS Communities. Ever
+ y year we meet\, share our knowledge\, news regarding our favourite projec
+ ts\, run a lot of sessions and of course workshops.\nFOSSCOMM is a really 
+ good place for seeking contributors while there are a lot of hackers and d
+ evelopers who come to contact their favourite projects.\n 
+URL:https://reps.mozilla.org/e/fosscomm-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:37.961117
+X-COORDINATES-LON:23.709004
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

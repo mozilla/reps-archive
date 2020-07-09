@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8983
+CLASS:PUBLIC
+DTSTAMP:20200407T165028Z
+DTSTART:20191207T023000Z
+DTEND:20191207T153000Z
+LOCATION:AV Devs: 404 Nilamber Primero\, Near Nilamber Circle\, Vasna-Bhay
+ li Road\, Vadodara\, India\, India
+SUMMARY:MLH Local Hackday: Building Codes
+DESCRIPTION:Local Hack Day is a series of events designed to spark a passi
+ on for technology in the local community. Attendees spend the day getting 
+ hands-on experience with new tools and collaborating with other participan
+ ts in a welcoming environment. Whether community members are just learning
+  to code or are experienced developers\, a Local Hack Day is a great way t
+ o help them learn new skills\, build a project portfolio\, and share their
+  creations with the world.
+URL:https://reps.mozilla.org/e/mlh-local-hackday-building-codes/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2956813053
+X-COORDINATES-LON:73.1466836901
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

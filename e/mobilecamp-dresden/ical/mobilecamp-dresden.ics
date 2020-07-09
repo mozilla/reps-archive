@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2140
+CLASS:PUBLIC
+DTSTAMP:20200423T195206Z
+DTSTART:20140510T070000Z
+DTEND:20140511T150000Z
+LOCATION:TU Dresden\, Nöthnitzer Strasse 46\, Dresden\, Dresden\, Germany
+SUMMARY:MobileCamp Dresden
+DESCRIPTION:A two-day &#39;Barcamp&#39; style event in Dresden. It&#39;s all about mob
+ ile devices. This year will be the 6th time they organize this Barcamp.\n\
+ nMichael Kohler will have a 45-minutes keynote speech about Firefox OS\, i
+ ts goals and its ecosystem.
+URL:https://reps.mozilla.org/e/mobilecamp-dresden/
+SEQUENCE:6
+X-COORDINATES-LAT:51.0262526135
+X-COORDINATES-LON:13.7231068611
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

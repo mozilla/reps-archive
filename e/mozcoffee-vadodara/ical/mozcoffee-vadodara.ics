@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8432
+CLASS:PUBLIC
+DTSTAMP:20200423T084023Z
+DTSTART:20190301T143000Z
+DTEND:20190301T153000Z
+LOCATION:Ratri Bazaar\, Mangal Pandey Rd\, Jalaram Nagar 1\, Jalaram Nagar
+ \, Fatehgunj\, Vadodara\, Gujarat 390002\, Vadodara\, India
+SUMMARY:MozCoffee Vadodara
+DESCRIPTION:This will be the first MozCoffee of 2019 as we look for a grea
+ t year ahead in technology and the internet. We will individually review o
+ ur positions in the community as a part of Mozilla Gujarat and Mozilla Ind
+ ia\, and plan for the future ahead.
+URL:https://reps.mozilla.org/e/mozcoffee-vadodara/
+SEQUENCE:2
+X-COORDINATES-LAT:22.3254501
+X-COORDINATES-LON:73.1967092
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

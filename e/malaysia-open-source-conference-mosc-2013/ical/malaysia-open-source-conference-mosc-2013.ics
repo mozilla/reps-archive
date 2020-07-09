@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@715
+CLASS:PUBLIC
+DTSTAMP:20200407T165703Z
+DTSTART:20130625T020000Z
+DTEND:20130626T110000Z
+LOCATION:Berjaya Times Square Hotel\, Kuala Lumpur\, Malaysia.\, Kuala Lum
+ pur\, Malaysia
+SUMMARY:Malaysia Open Source Conference MOSC 2013
+DESCRIPTION:MOSC have brought together thousands of CEOs and leaders\,\nve
+ ndors\, consultants\, associations and regulators from around the world to
+  address mutual challenges and share information on Open Source Software.M
+ OSC has been growing for the last four (4) years with many respectable spe
+ akers from various countries including Japan\, USA\, Australia and Netherl
+ and and support from the sponsors from organizations such as Red Hat\, Mic
+ rosoft\, Novell\, IBM and\nspeakers. 
+URL:https://reps.mozilla.org/e/malaysia-open-source-conference-mosc-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:3.03081212266
+X-COORDINATES-LON:102.48046875
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

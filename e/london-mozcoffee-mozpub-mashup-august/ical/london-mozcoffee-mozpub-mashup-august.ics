@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7749
+CLASS:PUBLIC
+DTSTAMP:20200407T165054Z
+DTSTART:20180818T130000Z
+DTEND:20180818T170000Z
+LOCATION:Kenwood House\, Hampstead Lane\, Hampstead\, NW3 7JR\, Camden\, U
+ nited Kingdom
+SUMMARY:London MozCoffee / MozPub Mashup - August
+DESCRIPTION:This 18th August event (14:00 - 18:00) will be a low-key affai
+ r\, I&#39;ll have swag on hand. An opportunity to meet face-to-face\, in the f
+ resh air of Hamstead Heath\, and look to improving the UK Community for al
+ l who seek to participate.\n\nI look forward to meeting you in person.\n\n
+ Please grab a ticket via the above &#39;URL&#39;. Later pub location TBC. Get in t
+ ouch if you&#39;ve got a cool suggestion!
+URL:https://reps.mozilla.org/e/london-mozcoffee-mozpub-mashup-august/
+SEQUENCE:1
+X-COORDINATES-LAT:51.5714478833
+X-COORDINATES-LON:-0.167312622289
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

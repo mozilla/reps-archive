@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7868
+CLASS:PUBLIC
+DTSTAMP:20200407T174358Z
+DTSTART:20180609T120000Z
+DTEND:20180609T230000Z
+LOCATION:Oito\, Niterói\, Brazil
+SUMMARY:JSDay Rio de Janeiro 2018
+DESCRIPTION:JSDay Rio de Janeiro 2018 is a all day tech event with differe
+ nt speakers covering a wide range of topics related to Web Development
+URL:https://reps.mozilla.org/e/jsday-rio-de-janeiro-2018/
+SEQUENCE:0
+X-COORDINATES-LAT:-22.7187678271
+X-COORDINATES-LON:-43.2758787274
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

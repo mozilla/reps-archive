@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6361
+CLASS:PUBLIC
+DTSTAMP:20200423T112123Z
+DTSTART:20170325T043000Z
+DTEND:20170326T043000Z
+LOCATION:Inter Expo Center – 147\, Tsarigradsko shose blvd\, 1784 Sofia\
+ , Bulgaria\, Sofia\, Bulgaria
+SUMMARY:MobCon Europe
+DESCRIPTION:MobCon Europe will be opening its doors for the fourth time in
+  2017. On March 25\, we have a day of in-depth workshops\, followed by the
+  one-day Conference on March 26. \nThe keywords of this edition are “Ris
+ e of the Technologies”. Mobile is constantly evolving so does MobCon Eur
+ ope. The event will give you an insight of the software development trends
+  of the future.
+URL:https://reps.mozilla.org/e/mobcon-europe/
+SEQUENCE:4
+X-COORDINATES-LAT:42.7026228588
+X-COORDINATES-LON:385.007629395
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

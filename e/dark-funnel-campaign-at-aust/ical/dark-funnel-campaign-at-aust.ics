@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8123
+CLASS:PUBLIC
+DTSTAMP:20200407T174043Z
+DTSTART:20180924T060000Z
+DTEND:20180924T090000Z
+LOCATION:Dhaka\, Dhaka\, Bangladesh
+SUMMARY:Dark Funnel Campaign
+DESCRIPTION:By participating in this campaign you’ll be helping Mozilla 
+ shine light on unknown download sources. Every site reported by a communit
+ y member will get us one step closer to our goal of understanding the enti
+ re dark funnel\, which in turn helps us keep all Firefox users safe.\n\n[T
+ HIS IS AN INVITATION ONLY EVENT]
+URL:https://reps.mozilla.org/e/dark-funnel-campaign-at-aust/
+SEQUENCE:3
+X-COORDINATES-LAT:23.7216592838
+X-COORDINATES-LON:90.3310543299
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

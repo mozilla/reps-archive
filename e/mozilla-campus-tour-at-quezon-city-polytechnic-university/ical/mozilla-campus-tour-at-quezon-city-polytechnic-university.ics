@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1074
+CLASS:PUBLIC
+DTSTAMP:20200423T211141Z
+DTSTART:20130914T050000Z
+DTEND:20130914T090000Z
+LOCATION:Quezon City Polytechnic University\, Quezon City\, Philippines
+SUMMARY:Mozilla Campus Tour at Quezon City Polytechnic University
+DESCRIPTION:First visit of the Mozilla Philippines Community in the QCPU c
+ ampus\, there would be a discussion about how the community started in the
+  country and will introduce to them the Firefox Browser and FirefoxOS\, wi
+ ll also discuss the FSA program to the students and professors.
+URL:https://reps.mozilla.org/e/mozilla-campus-tour-at-quezon-city-polytech
+ nic-university/
+SEQUENCE:4
+X-COORDINATES-LAT:14.700799
+X-COORDINATES-LON:121.033756
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

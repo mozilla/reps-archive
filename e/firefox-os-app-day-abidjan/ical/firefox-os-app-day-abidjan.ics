@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4803
+CLASS:PUBLIC
+DTSTAMP:20200407T174533Z
+DTSTART:20160212T090000Z
+DTEND:20160212T170000Z
+LOCATION:Felix Houphouet Boigny University\, Williamsville\, Ivory Coast
+SUMMARY:Firefox OS App Day - Abidjan
+DESCRIPTION:Introduce Firefox OS and its news mission (foxfooding program)
+   and its app development to the audience. Also do some hacking for Firefo
+ x Apps where the participants will develop apps for Firefox OS and get the
+ m Published into the Marketplace.
+URL:https://reps.mozilla.org/e/firefox-os-app-day-abidjan/
+SEQUENCE:6
+X-COORDINATES-LAT:5.3599517
+X-COORDINATES-LON:-4.0082563
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

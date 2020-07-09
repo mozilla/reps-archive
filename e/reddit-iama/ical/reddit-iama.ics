@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@166
+CLASS:PUBLIC
+DTSTAMP:20200407T174434Z
+DTSTART:20121024T061500Z
+DTEND:20121025T061500Z
+LOCATION:N/A\, N/A\, United States
+SUMMARY:Reddit IAmA
+DESCRIPTION:A forum-type event held on Reddit\, where users can ask Mozill
+ a Reps\, community members\, et al. questions. Note\, this is to be held c
+ ompletely online\, no physical events. Mozillians interested in answering 
+ questions may register in the external link.
+URL:https://reps.mozilla.org/e/reddit-iama/
+SEQUENCE:0
+X-COORDINATES-LAT:41.9308899844
+X-COORDINATES-LON:-91.6864013672
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

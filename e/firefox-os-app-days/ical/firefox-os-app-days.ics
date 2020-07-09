@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@726
+CLASS:PUBLIC
+DTSTAMP:20200423T215005Z
+DTSTART:20130421T030000Z
+DTEND:20130422T110000Z
+LOCATION:Jahangir Nagar University\, Savar\, Dhaka\, Bangladesh
+SUMMARY:Firefox OS App Days Bangladesh
+DESCRIPTION:I&#39;m creating this event on behafl of my recruit- &#34;Robin Mehdee
+ &#34;. He attended MozCamp Asia 2012\, MozSouthAsia2013 and FORMAT\, BESU in I
+ ndia. He presented talks on FirefoxOS App development in Nepal and Kolkata
+ . Recently he wanted to organize the first ever FxOS App Day in Bangladesh
+ \, but not being a ReMo he is unable to submit bug for budget. He describe
+ d the background for the event in Mozilla BD list http://to.ly/kV7m\n
+URL:https://reps.mozilla.org/e/firefox-os-app-days/
+SEQUENCE:3
+X-COORDINATES-LAT:23.9768420229
+X-COORDINATES-LON:90.3838348389
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

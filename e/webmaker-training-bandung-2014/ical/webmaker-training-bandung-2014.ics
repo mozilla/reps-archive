@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2778
+CLASS:PUBLIC
+DTSTAMP:20200423T184004Z
+DTSTART:20141025T020000Z
+DTEND:20141025T100000Z
+LOCATION:Telkomsel GraPARI Banda\, Bandung\, Indonesia
+SUMMARY:Webmaker Training Bandung 2014
+DESCRIPTION:This event is a training for Reps\, FSA or even active Mozilli
+ ans who wants to #TeachTheWeb. We create this event to support any Mozilli
+ ans who want to create their own Maker Party event in their own places. Th
+ is is our 2nd training after we held first one in Jakarta on August.\n\nI 
+ hope this small training can support any Maker Party events in Indonesia\,
+  especially in Bandung\n\nUPDATE: Due to some venue issues\, this event is
+  going to be rescheduled and will be held on October 25th 2014.
+URL:https://reps.mozilla.org/e/webmaker-training-bandung-2014/
+SEQUENCE:12
+X-COORDINATES-LAT:-6.88897808154
+X-COORDINATES-LON:107.61066556
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

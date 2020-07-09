@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6771
+CLASS:PUBLIC
+DTSTAMP:20200423T105253Z
+DTSTART:20170721T170000Z
+DTEND:20170721T210000Z
+LOCATION:Rua Cláudio Soares 72 – 15º andar – conjunto 1501\, São Pa
+ ulo\, Brazil
+SUMMARY:MozCoffee São Paulo
+DESCRIPTION:This is our second meeting of local volunteers\, and the focus
+  this time is to empower the important technologies\, campaigns and projec
+ ts for Mozilla in the São Paulo region.
+URL:https://reps.mozilla.org/e/mozcoffee-sao-paulo/
+SEQUENCE:6
+X-COORDINATES-LAT:-23.5880105454
+X-COORDINATES-LON:-46.6585378649
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

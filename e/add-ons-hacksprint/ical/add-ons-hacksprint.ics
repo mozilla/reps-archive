@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6968
+CLASS:PUBLIC
+DTSTAMP:20200407T164100Z
+DTSTART:20171104T043000Z
+DTEND:20171105T133000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Add-ons Hacksprint
+DESCRIPTION:Improve Learning Resources\, Fix things around AMO\, Grow volu
+ nteer developer base\, Increase extension examples resources.
+URL:https://reps.mozilla.org/e/add-ons-hacksprint/
+SEQUENCE:5
+X-COORDINATES-LAT:17.4126452448
+X-COORDINATES-LON:78.4160542488
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

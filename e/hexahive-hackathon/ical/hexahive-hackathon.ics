@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8387
+CLASS:PUBLIC
+DTSTAMP:20200423T084241Z
+DTSTART:20190209T033000Z
+DTEND:20190210T123000Z
+LOCATION:Parul University\, Waghodia\, India
+SUMMARY:HexaHive Hackathon
+DESCRIPTION:Mozilla India in collaboration with HexaHive. Spreading Mozill
+ a mission in Vadodara. Also spreading awareness for online privacy\, MozAc
+ tivate campaign. Amongst students from all over Gujarat\, in the hackathon
+  hosted by Parul University\, Vadodara.
+URL:https://reps.mozilla.org/e/hexahive-hackathon/
+SEQUENCE:0
+X-COORDINATES-LAT:22.3321870532
+X-COORDINATES-LON:73.3751220256
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

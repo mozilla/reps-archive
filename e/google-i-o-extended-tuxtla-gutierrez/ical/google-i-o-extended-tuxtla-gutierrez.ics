@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8528
+CLASS:PUBLIC
+DTSTAMP:20200423T083002Z
+DTSTART:20190507T150000Z
+DTEND:20190507T190000Z
+LOCATION:Polytechnic University of Chiapas\, Suchiapa\, Mexico
+SUMMARY:Google I/O Extended Tuxtla Gutiérrez
+DESCRIPTION:Google I/O (or simply I/O) is an annual developer conference h
+ eld by Google in Mountain View\, California. I/O brings together developer
+ s from around the globe for talks\, hands-on learning with Google experts\
+ , and a first look at Google’s latest developer products. The Extended e
+ dition is a way to join the conference remotely with events organized arou
+ nd the world. I will attend the Extended event organized by CodigoFacilito
+ . I will present a talk about &#34;Web Apps with Rust and Firebase&#34;
+URL:https://reps.mozilla.org/e/google-i-o-extended-tuxtla-gutierrez/
+SEQUENCE:1
+X-COORDINATES-LAT:16.6150382
+X-COORDINATES-LON:-93.0927771
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

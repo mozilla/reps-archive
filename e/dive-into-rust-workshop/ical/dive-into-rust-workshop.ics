@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7871
+CLASS:PUBLIC
+DTSTAMP:20200407T171519Z
+DTSTART:20180623T023000Z
+DTEND:20180623T113000Z
+LOCATION:Annamacharya Institute of Technology and Sciences\, Tirupati\, In
+ dia
+SUMMARY:Dive into Rust Workshop
+DESCRIPTION:Rust programming language will be important to the future of t
+ he web\, making it safe and great. We will understand\, use and evangelize
+  this language will advance make the web better and more secure! You’ll 
+ come to know the most advance features of rust and realize that it is real
+ ly very fast. Apart from Rust as a system programming language people will
+  come to know the advantages of using rust over any other programming lang
+ uage.
+URL:https://reps.mozilla.org/e/dive-into-rust-workshop/
+SEQUENCE:3
+X-COORDINATES-LAT:13.6321263682
+X-COORDINATES-LON:79.4183598831
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

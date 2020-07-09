@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8703
+CLASS:PUBLIC
+DTSTAMP:20200407T163826Z
+DTSTART:20190829T033000Z
+DTEND:20190831T113000Z
+LOCATION:KLS Gogte Institute of Technology\, Belagavi\, India
+SUMMARY:WebXR #Fosscon_India_2019
+DESCRIPTION:FOSSCON India 2019is an annual conference on Free and Open Sou
+ rce Software\, where participants from different backgrounds who have used
+  Open Source Software showcase their work.\n\nFOSSCON India 2019 conferenc
+ e is a three-day event with workshops and meetups on the first day\; confe
+ rence with keynotes\, talks\, and poster presentation on the second day\; 
+ and Hackathon from the evening of second day.
+URL:https://reps.mozilla.org/e/fosscon-india-2019/
+SEQUENCE:4
+X-COORDINATES-LAT:15.8369579029
+X-COORDINATES-LON:74.5225524344
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7187
+CLASS:PUBLIC
+DTSTAMP:20200407T165146Z
+DTSTART:20171117T113000Z
+DTEND:20171117T202000Z
+LOCATION:R. Dr. Plínio Barreto\, 285 - Bela Vista\, São Paulo\, Brazil
+SUMMARY:We need to talk about privacy @ RubyConf Brazil 2017
+DESCRIPTION:RubyConf Brasil is an annual conference for developers focused
+  on programming languages such as Ruby\, Ruby on Rails\, Elixir\, Rust\, D
+ evops and others. Also\, starting now\, they will have a dedicated spot ab
+ out diversity and inclusion in tech area.\n\nWith our lecture about privac
+ y and security\, we want to raise awareness about the dangers and conseque
+ nces of the lack online privacy in personal and professional life. We will
+  show the problems and some solutions such as Firefox and Firefox Focus.
+URL:https://reps.mozilla.org/e/we-need-to-talk-about-privacy-rubyconf-braz
+ il-2017/
+SEQUENCE:3
+X-COORDINATES-LAT:-23.5579696
+X-COORDINATES-LON:-46.6523162
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

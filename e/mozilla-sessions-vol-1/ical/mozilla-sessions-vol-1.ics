@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8083
+CLASS:PUBLIC
+DTSTAMP:20200407T174059Z
+DTSTART:20180929T140000Z
+DTEND:20180929T190000Z
+LOCATION:PROFÉTICA CASA DE LA LECTURA PUEBLA\, Puebla\, Mexico
+SUMMARY:Mozilla Sessions Vol.1
+DESCRIPTION:Dedicated space to the education\, training\, information and 
+ protection of a conscious society. Making correct use of\nInformation Tech
+ nologies\, in order to impact on Mexican society. We started in Puebla\, w
+ ith the aim to taking it to other places of México.
+URL:https://reps.mozilla.org/e/mozilla-sessions-vol-1/
+SEQUENCE:5
+X-COORDINATES-LAT:19.04334
+X-COORDINATES-LON:-98.20193
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7226
+CLASS:PUBLIC
+DTSTAMP:20200407T171618Z
+DTSTART:20171118T103000Z
+DTEND:20171118T123000Z
+LOCATION:HIET Viralur\, Chakrapani Colony\, St Thomas Mount\, Chennai\, Ta
+ mil Nadu 600016 044 2234 0968\, Chennai\, India
+SUMMARY:Hello\, Rust!
+DESCRIPTION:Agenda:\n\nIntroduction to Rust\, Features of Rust\, Its Benef
+ its\, How one can contribute to Rust\, Fixing bugs.  \n\n\n\nSpeaker: \nRa
+ vi Shankar https://github.com/wafflespeanut\n( core contributor to the Ser
+ vo project )
+URL:https://reps.mozilla.org/e/hello-rust/
+SEQUENCE:4
+X-COORDINATES-LAT:13.0065021
+X-COORDINATES-LON:80.1999699
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

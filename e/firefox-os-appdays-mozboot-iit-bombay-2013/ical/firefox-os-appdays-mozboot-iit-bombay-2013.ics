@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1057
+CLASS:PUBLIC
+DTSTAMP:20200407T174331Z
+DTSTART:20130824T043000Z
+DTEND:20130825T123000Z
+LOCATION:IIT Bombay\, Mumbai\, India
+SUMMARY:Firefox OS AppDays &amp; MozBoot IIT Bombay 2013
+DESCRIPTION:Action packed dual-event for developers at the financial capit
+ al of India\, or also known as the Queen of Arabic Sea. Indian Institute o
+ f Technologies (IIT) are known to be the most sofisticated tech-institutes
+  in South Asia\, with the best talent pools - this event engages them &amp; la
+ ys ground for the next step of developer outreach in India.
+URL:https://reps.mozilla.org/e/firefox-os-appdays-mozboot-iit-bombay-2013/
+SEQUENCE:10
+X-COORDINATES-LAT:18.9634415956
+X-COORDINATES-LON:72.8228759766
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

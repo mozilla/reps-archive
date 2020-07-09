@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2981
+CLASS:PUBLIC
+DTSTAMP:20200423T183747Z
+DTSTART:20141031T100000Z
+DTEND:20141031T120000Z
+LOCATION:Kwara State University.Malete Ilorin\,Kwara State\, Ilorin\, Nige
+ ria
+SUMMARY:INTRODUCTION TO MOZILLA AND ITS CONTRIBUTIONS TO OPEN WEB
+DESCRIPTION:The event would cover the introduction an introduction to Mozi
+ lla and ways to contribute to Firefox.Encouraging the activities of the th
+ e Kwasu Firefox Club.
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-and-its-contributio
+ ns-to-open-web/
+SEQUENCE:3
+X-COORDINATES-LAT:8.39222400506
+X-COORDINATES-LON:5.04100799561
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6799
+CLASS:PUBLIC
+DTSTAMP:20200423T105401Z
+DTSTART:20170716T060000Z
+DTEND:20170716T083000Z
+LOCATION:501 krishna enclave \, near sur hotel\, above active Suzuki showr
+ oom\, gangapur road\, nashik\, Nashik\, India
+SUMMARY:Mozilla Nashik Meet-Up July 2017
+DESCRIPTION:This is a Mozilla Nashik Community meet-up. After a season on 
+ exams and vacations\, community members will meet to plan on the course of
+  action for the upcoming months. Some key points in the agenda will be:\n\
+ n1. Planning on next set of events\n2. Plan to create more Mozilla Clubs i
+ n the region\n3. Rain Of Rust campaign reflections\n4. Introduction to Moz
+ Fest and how to propose a session\n5. Participants&#39; inputs
+URL:https://reps.mozilla.org/e/mozilla-nashik-meet-up-july-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0116547593
+X-COORDINATES-LON:73.7555837614
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

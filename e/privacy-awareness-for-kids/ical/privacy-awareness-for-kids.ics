@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5106
+CLASS:PUBLIC
+DTSTAMP:20200423T155010Z
+DTSTART:20160208T030000Z
+DTEND:20160208T043000Z
+LOCATION:Indira National School\, Wakad\, Pune\, India
+SUMMARY:Privacy Awareness for kids
+DESCRIPTION:Rishita has recently joined pune community and will be taking 
+ a session on Privacy for school kids from Standard 6th. \nShe will be talk
+ ing about Browsers\, Private Browsing\, Strong Passwords\, Tracking and Li
+ ghtbeam.
+URL:https://reps.mozilla.org/e/privacy-awareness-for-kids/
+SEQUENCE:2
+X-COORDINATES-LAT:18.3927553513
+X-COORDINATES-LON:74.3129879236
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

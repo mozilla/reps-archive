@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1249
+CLASS:PUBLIC
+DTSTAMP:20200423T211451Z
+DTSTART:20130831T053000Z
+DTEND:20130831T110000Z
+LOCATION:SMT.KASHIBAI NAVALE COLLEGE OF ENGINEERING\,  PUNE\, Pune\, India
+SUMMARY:MakerParty \,SKNCOE
+DESCRIPTION:Open Source Initiatives and Mozilla as an organization\, both 
+ these concepts are not very famous and well-known to the students of SMT.K
+ ASHIBAI NAVALE COLLEGE OF ENGINEERING\,Pune. \n\nOur plan is to spread Moz
+ illa awareness among the IT students here. The simplest and most fun way t
+ o teach the web is through the Webmaker tools and thats exactly what we ar
+ e planning to do in this event.
+URL:https://reps.mozilla.org/e/makerparty-skncoe/
+SEQUENCE:3
+X-COORDINATES-LAT:18.4576283083
+X-COORDINATES-LON:73.8068389893
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

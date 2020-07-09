@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2894
+CLASS:PUBLIC
+DTSTAMP:20200423T184444Z
+DTSTART:20141015T043000Z
+DTEND:20141020T123000Z
+LOCATION:Dharamsala\, Himachal Pradesh\, Dharamsala\, India
+SUMMARY:Mozilla presence at Hillhacks
+DESCRIPTION:Hillhacks is a two week long event in Dharamsala\, India with 
+ participants from all around India and all around the world. It&#39;s organize
+ d by CCC and freaklabs as well as participants from MIT Media Lab\, Tibeta
+ n Children&#39;s Village\, Dharamsala International Film Festival\, Ghoomakad 
+ hackerspace\, and many more. \n\nThe Mozilla India community sees this as 
+ a great opportunity to reachout to the Tibetian as well as local kids from
+  the Dharamsala area and teach them some quick tricks of webmaking.
+URL:https://reps.mozilla.org/e/mozilla-presence-at-hillhacks/
+SEQUENCE:6
+X-COORDINATES-LAT:31.8185153293
+X-COORDINATES-LON:77.2874585303
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

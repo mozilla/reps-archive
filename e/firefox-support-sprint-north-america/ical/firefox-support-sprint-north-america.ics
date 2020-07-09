@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7865
+CLASS:PUBLIC
+DTSTAMP:20200407T181228Z
+DTSTART:20180602T070000Z
+DTEND:20180610T065500Z
+LOCATION:Online\, Online\, United States
+SUMMARY:Firefox Support Sprint - North America
+DESCRIPTION:Everyday many Firefox for Android users ask for help resolving
+  issues in their favorite browser. \nAnd since Mozilla Support is fully po
+ wered by amazing volunteers who share their love of Firefox by answering q
+ uestions and helping everyone have a great Firefox experience\, we would l
+ ove your help to bring that same fantastic support to mobile Firefox users
+  thru the Firefox Support Sprint!
+URL:https://reps.mozilla.org/e/firefox-support-sprint-north-america/
+SEQUENCE:0
+X-COORDINATES-LAT:37.38755
+X-COORDINATES-LON:-122.060153
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

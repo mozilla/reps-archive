@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4321
+CLASS:PUBLIC
+DTSTAMP:20200423T164034Z
+DTSTART:20150918T080000Z
+DTEND:20150918T153000Z
+LOCATION:UPOLI Managua\, Managua\, Nicaragua
+SUMMARY:Technology Fair UPOLI
+DESCRIPTION:Mozilla Nicaragua to been invited to the technological Fair ea
+ ch year UPOLI offers\, one of the most important universities in Nicaragua
+ \, this year we want to do demonstrations of applications and games made i
+ n Nicaragua\, Firefox OS\, Web IDE and all technologies that provides mozi
+ lla
+URL:https://reps.mozilla.org/e/technology-fair-upoli/
+SEQUENCE:6
+X-COORDINATES-LAT:12.1376125674
+X-COORDINATES-LON:-86.2202071399
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

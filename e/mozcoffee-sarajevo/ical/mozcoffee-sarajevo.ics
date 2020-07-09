@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@862
+CLASS:PUBLIC
+DTSTAMP:20200423T213857Z
+DTSTART:20130530T160000Z
+DTEND:20130530T180000Z
+LOCATION:Ka5aN Cafe\, Sarajevo\, Bosnia and Herzegovina
+SUMMARY:MozCoffee Sarajevo
+DESCRIPTION:MozCoffee is a small scale informal meetup of up to 20 persons
+  where a report is given of recent activities and upcoming projects of a c
+ ommunity as well as get ideas and feedback from the general public. \n\nOn
+  this occassion we will give a Firefox OS presentation.
+URL:https://reps.mozilla.org/e/mozcoffee-sarajevo/
+SEQUENCE:4
+X-COORDINATES-LAT:43.8644041075
+X-COORDINATES-LON:18.4105861187
+X-COUNTRY-CODE:ba
+END:VEVENT
+
+END:VCALENDAR

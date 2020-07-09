@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5228
+CLASS:PUBLIC
+DTSTAMP:20200407T180527Z
+DTSTART:20160407T033000Z
+DTEND:20160407T080000Z
+LOCATION:American International University Bangladesh (AIUB)\, Dhaka\, Ban
+ gladesh
+SUMMARY:Introduction to Feature Testing - AIUB
+DESCRIPTION:This event will take place in American International Universit
+ y-Bangladesh(AIUB)\, organized by the FSA of Firefox@AIUB club where we wi
+ ll focus on mostly the Feature Testing part of QA. We will be introducing 
+ the students with how we contribute in Mozilla QA\, specifically on Featur
+ e Testing and what are the opportunities or possibilities etc This event i
+ s the follow up event for Introduction to QA - AIUB ( https://reps.mozilla
+ .org/e/introduction-to-qa-aiub )
+URL:https://reps.mozilla.org/e/introduction-to-feature-testing-aiub/
+SEQUENCE:3
+X-COORDINATES-LAT:23.7248022102
+X-COORDINATES-LON:90.4274597112
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

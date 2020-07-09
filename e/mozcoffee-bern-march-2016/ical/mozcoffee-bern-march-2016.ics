@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5237
+CLASS:PUBLIC
+DTSTAMP:20200423T154052Z
+DTSTART:20160318T180000Z
+DTEND:20160318T200000Z
+LOCATION:Altes Tramdepot\, Bern\, Berne\, Switzerland
+SUMMARY:MozCoffee Bern March 2016
+DESCRIPTION:Let&#39;s meet for a coffee and discuss informally about Mozilla :
+ )
+URL:https://reps.mozilla.org/e/mozcoffee-bern-march-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:46.9477916045
+X-COORDINATES-LON:7.45943069109
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

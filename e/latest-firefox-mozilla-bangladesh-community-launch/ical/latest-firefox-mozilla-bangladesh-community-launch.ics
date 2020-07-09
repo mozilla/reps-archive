@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2236
+CLASS:PUBLIC
+DTSTAMP:20200407T182458Z
+DTSTART:20140509T100000Z
+DTEND:20140509T130000Z
+LOCATION:Hub Dhaka\, Mirpur\, Bangladesh
+SUMMARY:Latest Firefox :: Mozilla Bangladesh Community Launch
+DESCRIPTION:Firefox 29 Community Launching.\n\n1. Start with The web we wa
+ nt\n2. Intro Mozilla Foundation presentation / video\n3. Mozilla Banglades
+ h and it&#39;s activities presentation\n4. History of Firefox\n5. New Firefox 
+ Features and advantages presentation / demo with Firefox security features
+ \n6. Q n A\n7. Refreshment\n8. End
+URL:https://reps.mozilla.org/e/latest-firefox-mozilla-bangladesh-community
+ -launch/
+SEQUENCE:1
+X-COORDINATES-LAT:23.8207551896
+X-COORDINATES-LON:90.3652982705
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

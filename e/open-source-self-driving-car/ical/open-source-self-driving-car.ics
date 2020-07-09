@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8413
+CLASS:PUBLIC
+DTSTAMP:20200423T084315Z
+DTSTART:20190201T120000Z
+DTEND:20190201T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Open source self-driving car
+DESCRIPTION:This is an event initiated by Mozillian which is a sharing ses
+ sion about a self-driving car technology that uses open source software
+URL:https://reps.mozilla.org/e/open-source-self-driving-car/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23470737829
+X-COORDINATES-LON:106.820857286
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

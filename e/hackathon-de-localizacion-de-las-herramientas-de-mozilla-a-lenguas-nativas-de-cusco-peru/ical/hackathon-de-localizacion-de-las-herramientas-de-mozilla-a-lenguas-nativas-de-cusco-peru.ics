@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5620
+CLASS:PUBLIC
+DTSTAMP:20200423T151615Z
+DTSTART:20160630T150000Z
+DTEND:20160704T170000Z
+LOCATION:Sicuani\, Cusco\, Perú\, Sicuani\, Peru
+SUMMARY:HACKATHON DE LOCALIZACIÓN DE LAS HERRAMIENTAS DE MOZILLA A LENGUA
+ S NATIVAS DE CUSCO\, PERÚ
+DESCRIPTION:In this event we will call speakers of different variants of t
+ he Quechua Cusco language to translate strings and validate progress.\nIn 
+ turn it is to work on localization in Quechua chanka language reaching a v
+ ariable representing 4 different version.\nTraining\, advice and support i
+ n the use of Pootle\, plus guidelines for creating new terms and use of me
+ taphors will be given.
+URL:https://reps.mozilla.org/e/hackathon-de-localizacion-de-las-herramient
+ as-de-mozilla-a-lenguas-nativas-de-cusco-peru/
+SEQUENCE:1
+X-COORDINATES-LAT:4.5318881064
+X-COORDINATES-LON:-74.0734867752
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

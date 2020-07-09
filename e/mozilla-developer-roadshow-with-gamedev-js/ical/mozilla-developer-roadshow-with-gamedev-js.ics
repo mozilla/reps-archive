@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6530
+CLASS:PUBLIC
+DTSTAMP:20200423T110712Z
+DTSTART:20170523T153000Z
+DTEND:20170523T173000Z
+LOCATION:Klub Medyka\, Warsaw\, Poland
+SUMMARY:Mozilla Developer Roadshow with Gamedev.js
+DESCRIPTION:Mozilla Developer Roadshow organized with Gamedev.js meetups a
+ nd Front-Trends conference.
+URL:https://reps.mozilla.org/e/mozilla-developer-roadshow-with-gamedev-js/
+SEQUENCE:0
+X-COORDINATES-LAT:52.224292
+X-COORDINATES-LON:20.9989873
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

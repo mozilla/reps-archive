@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5858
+CLASS:PUBLIC
+DTSTAMP:20200407T174137Z
+DTSTART:20160917T000000Z
+DTEND:20160917T090000Z
+LOCATION:Endurance International Group\, NESCO IT Park\,Western Express Hi
+ ghway\, Aarey Colony\, Goregaon (East)\, Mumbai\, Maharashtra 400065.\, Mu
+ mbai\, India
+SUMMARY:Software Freedom Day -2016
+DESCRIPTION:This event is based on annual worldwide celebration of free so
+ ftware (see definition of free software : http://bit.ly/2cjmpDh ) with a g
+ oal to educate people its virtues\, and encouraging its use.\nTo learn and
+  get registered for SFD Mumbai Chapter please visit http://sfd.org.in/  .
+URL:https://reps.mozilla.org/e/software-freedom-day-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:19.1633028661
+X-COORDINATES-LON:72.8427314688
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

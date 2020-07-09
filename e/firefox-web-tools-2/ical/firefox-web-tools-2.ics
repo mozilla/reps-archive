@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6177
+CLASS:PUBLIC
+DTSTAMP:20200407T181245Z
+DTSTART:20161226T150000Z
+DTEND:20161226T180000Z
+LOCATION:lago de coatepeque\, Escuela fe y alegria la merced\, El Congo\, 
+ El Salvador
+SUMMARY:Firefox Web Tools 2
+DESCRIPTION:This event is about web technologies and tools for learn a web
+  development. the objective is that people learn and use the firefox tools
+ \, debug code\, inspectors elements of website. etc.
+URL:https://reps.mozilla.org/e/firefox-web-tools-2/
+SEQUENCE:0
+X-COORDINATES-LAT:13.8576222274
+X-COORDINATES-LON:-89.5282530785
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

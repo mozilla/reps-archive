@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3976
+CLASS:PUBLIC
+DTSTAMP:20200423T171748Z
+DTSTART:20150605T153000Z
+DTEND:20150605T163000Z
+LOCATION:Google+ hangouts\, Chennai\, India
+SUMMARY:Weeks of Contribution - Week 1
+DESCRIPTION:This is the introduction hangout session about Weeks of Contri
+ bution.\nEach and every week we would like to share about one contribution
+  area\n**Introduction about Weeks of Contribution\n**Introduction about Mo
+ zilla Location Services\n**Introduction about Logo Creation\n**QA
+URL:https://reps.mozilla.org/e/weeks-of-contribution-week-1/
+SEQUENCE:1
+X-COORDINATES-LAT:13.0614191545
+X-COORDINATES-LON:80.2125549316
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

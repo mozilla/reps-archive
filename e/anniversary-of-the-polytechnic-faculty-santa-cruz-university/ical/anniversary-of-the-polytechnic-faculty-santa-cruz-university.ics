@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4547
+CLASS:PUBLIC
+DTSTAMP:20200423T163625Z
+DTSTART:20150925T230000Z
+DTEND:20150926T000000Z
+LOCATION:TBD\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Anniversary of the polytechnic faculty\, Santa Cruz University
+DESCRIPTION:Anniversary of the polytechnic faculty\, Santa Cruz University
+ . will have demonstrations\, and conferences in the auditory room for all 
+ the students of the faculty
+URL:https://reps.mozilla.org/e/anniversary-of-the-polytechnic-faculty-sant
+ a-cruz-university/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.7756783048
+X-COORDINATES-LON:-63.1936376097
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

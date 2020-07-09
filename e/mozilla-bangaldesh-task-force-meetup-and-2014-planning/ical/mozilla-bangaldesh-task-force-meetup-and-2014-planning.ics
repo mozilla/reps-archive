@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1799
+CLASS:PUBLIC
+DTSTAMP:20200423T202508Z
+DTSTART:20140222T040000Z
+DTEND:20140222T120000Z
+LOCATION:Hotel 71\, Paltan Line\, Bangladesh
+SUMMARY:Mozilla Bangladesh Task Force Meetup and 2014 planning
+DESCRIPTION:Mozilla Bangladesh community have grown 10 times in last coupl
+ e of years. We have 3100+ Facebook group members\, 1500+ Facebook page fol
+ lowers \, 1700+ Twitter followers and 300+ mailing list subscribers. Among
+ st them more than 100 people are active and contributing regularly. To bet
+ ter organize the community we formed Task Force based on projects (as sugg
+ ested in Mozilla SA Meetup). This event will be it&#39;s first formal meetup a
+ nd we shall plan 2014 during this day long meetup.
+URL:https://reps.mozilla.org/e/mozilla-bangaldesh-task-force-meetup-and-20
+ 14-planning/
+SEQUENCE:5
+X-COORDINATES-LAT:23.733641812
+X-COORDINATES-LON:90.4071006761
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

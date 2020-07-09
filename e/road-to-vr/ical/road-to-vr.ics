@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5710
+CLASS:PUBLIC
+DTSTAMP:20200407T174151Z
+DTSTART:20160917T043000Z
+DTEND:20160917T123000Z
+LOCATION:Collab House\, Hyderabad\, Hyderabad\, India
+SUMMARY:Road to VR
+DESCRIPTION:Excited about VR? What to join the VR revolution? Why not buil
+ d your own first VR webpage?\nJoin Mozilla Hyderabad on Sept 17th at colla
+ b house to learn about VR - From Basics Till Magics.
+URL:https://reps.mozilla.org/e/road-to-vr/
+SEQUENCE:16
+X-COORDINATES-LAT:17.385044
+X-COORDINATES-LON:78.486671
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

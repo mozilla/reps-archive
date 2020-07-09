@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3440
+CLASS:PUBLIC
+DTSTAMP:20200407T174406Z
+DTSTART:20150228T060000Z
+DTEND:20150301T140000Z
+LOCATION:Ankrah Foundation Mukono\, Mukono\, Uganda
+SUMMARY:Mozilla Community Uganda Work Weekend
+DESCRIPTION:The event will bring together leaders of the Mozilla Community
+  in Uganda to plan for 2015.  The first day will involve delving into the 
+ organizational goals and products of Mozilla and ensure everyone has a cle
+ ar understanding. Then we will hold a refresher training of the various to
+ ols used in Mozilla to help increase productivity.  The second day will in
+ volve identifying key events\, assigning owners and drawing an initial wor
+ k plan for the community.
+URL:https://reps.mozilla.org/e/mozilla-community-uganda-work-weekend/
+SEQUENCE:0
+X-COORDINATES-LAT:0.368354168966
+X-COORDINATES-LON:32.737827294
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5009
+CLASS:PUBLIC
+DTSTAMP:20200423T155016Z
+DTSTART:20160207T043000Z
+DTEND:20160207T123000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:FirefoxOS - The FastTrack to IoT
+DESCRIPTION:Wanna learn about Building Internet of Things with Firefox OS?
+  - Join us on Feb 7th at Collab house to learn about IoT &amp; Firefox. You wi
+ ll see how is Firefox OS can play a role of Fast Track to IoT for you. Thi
+ s event is going be a Tech talk cum DIY workshop with a lot of fun :D
+URL:https://reps.mozilla.org/e/firefoxos-the-fasttrack-to-iot/
+SEQUENCE:4
+X-COORDINATES-LAT:17.4380882
+X-COORDINATES-LON:78.3900414
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8558
+CLASS:PUBLIC
+DTSTAMP:20200407T174113Z
+DTSTART:20190425T130000Z
+DTEND:20190425T150000Z
+LOCATION:Inacap Maipu\, Santiago\, Chile
+SUMMARY:Dia Internacional de las Niñas en las TIC
+DESCRIPTION:Promover vocaciones en el campo de las tecnologías de la info
+ rmación y las comunicaciones (TIC) en las niñas y adolescentes\, constit
+ uye en la actualidad un desafío a nivel mundial.
+URL:https://reps.mozilla.org/e/dia-internacional-de-las-ninas-en-las-tic/
+SEQUENCE:2
+X-COORDINATES-LAT:-33.7639263072
+X-COORDINATES-LON:-70.4121091962
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

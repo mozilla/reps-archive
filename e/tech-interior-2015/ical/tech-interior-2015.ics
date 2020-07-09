@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4733
+CLASS:PUBLIC
+DTSTAMP:20200407T182113Z
+DTSTART:20151212T103000Z
+DTEND:20151212T210000Z
+LOCATION:Colégio Santo André\, Joboticabal\, Brazil
+SUMMARY:Tech Interior 2015
+DESCRIPTION:Jaboticabal is a small town in the state of São Paulo. And th
+ e idea of holding a great technology event here arose from the lack of eve
+ nts in this category in the region. The Tech Interior is born as an altern
+ ative for students and professionals from the IT areas\, in order to bring
+  news and the big names of the national technology scene.\nWebsite: http:/
+ /techinterior.com.br/
+URL:https://reps.mozilla.org/e/tech-interior-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:-30.5275676142
+X-COORDINATES-LON:-53.4580081701
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

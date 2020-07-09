@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@169
+CLASS:PUBLIC
+DTSTAMP:20200407T165844Z
+DTSTART:20121013T163000Z
+DTEND:20121013T200000Z
+LOCATION:http://OpenLabs.cc Nikolla Llena\, Nr. 100\, \, Tirana\, Albania
+SUMMARY:Mozilla Firefox 16 Release Party @ open labs tirana
+DESCRIPTION:openlabs.cc is a new FLOSS organization/Hacklab in Albania\,\n
+ The are going to be working on promoting mozilla in Albania and this is th
+ e first event in tirana and for open labs
+URL:https://reps.mozilla.org/e/mozilla-firefox-16-release-party-open-labs-
+ tirana/
+SEQUENCE:0
+X-COORDINATES-LAT:41.324599
+X-COORDINATES-LON:19.806549
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

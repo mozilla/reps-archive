@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5812
+CLASS:PUBLIC
+DTSTAMP:20200407T174311Z
+DTSTART:20161030T050000Z
+DTEND:20161030T100000Z
+LOCATION:Chittagong\, Chittagong\, Bangladesh
+SUMMARY:MozGirls Connected Devices Workshop @Chittagong
+DESCRIPTION:After a successful event of MozGirls Initiation and Contributi
+ on Day\, we have come up with a series of events which will basically focu
+ s on connected devices. We will have these events to engage more girls in 
+ tech and in the contribution team of Mozilla. This event will also cover I
+ oT and we will show the latest development and experiments that Mozilla ha
+ s been working on. Students and Makers from electronics and computer backg
+ round will be invited for this event.
+URL:https://reps.mozilla.org/e/mozgirls-connected-devices-workshop-chittag
+ ong/
+SEQUENCE:0
+X-COORDINATES-LAT:22.3313401846
+X-COORDINATES-LON:91.8436431885
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

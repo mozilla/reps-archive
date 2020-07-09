@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7579
+CLASS:PUBLIC
+DTSTAMP:20200423T094820Z
+DTSTART:20180331T083000Z
+DTEND:20180331T093000Z
+LOCATION:ComExpo Cyber Security\, 403\, 4th floor\, Aeon complex\, Vijay C
+ ross Road\, Navrangpura\, Ahmedabad\, Gujarat- 380009\, Ahmedabad\, India
+SUMMARY:Celebrating 20 Years of Mozilla at Ahmedabad
+DESCRIPTION:Let&#39;s join together to celebrate the 20th anniversary of Mozil
+ la this March 31\, 2018\, at Ahmedabad\, Gujarat.
+URL:https://reps.mozilla.org/e/celebrating-20-years-of-mozilla-at-ahmedaba
+ d/
+SEQUENCE:0
+X-COORDINATES-LAT:23.0436483272
+X-COORDINATES-LON:72.5500737727
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7399
+CLASS:PUBLIC
+DTSTAMP:20200423T095731Z
+DTSTART:20180223T053000Z
+DTEND:20180225T093000Z
+LOCATION:The Maharaja Sayajirao University of Baroda\, Vadodara\, India
+SUMMARY:FootPrintsX8
+DESCRIPTION:WebVR workshop &amp; Mozilla Booth in MSU Vadodara during Footprin
+ ts 2018.
+URL:https://reps.mozilla.org/e/footprintsx8/
+SEQUENCE:2
+X-COORDINATES-LAT:22.2679168442
+X-COORDINATES-LON:73.1539303064
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

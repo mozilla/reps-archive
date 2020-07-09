@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8899
+CLASS:PUBLIC
+DTSTAMP:20200407T174129Z
+DTSTART:20191021T230000Z
+DTEND:20191022T010000Z
+LOCATION:MongoDB\, 1633 Broadway 38th floor\, New York\, United States
+SUMMARY:Building a startup with Rust
+DESCRIPTION:The Rust programming language will be important to the future 
+ of the web\, making it safe and great. The event is focused on introducing
+  and teaching the &#39;Trust Rust can Entrust&#39; on coding to Young developers a
+ nd engineers who make the web better and more secure!.
+URL:https://reps.mozilla.org/e/building-a-startup-with-rust/
+SEQUENCE:0
+X-COORDINATES-LAT:40.7614607003
+X-COORDINATES-LON:-73.9830994615
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

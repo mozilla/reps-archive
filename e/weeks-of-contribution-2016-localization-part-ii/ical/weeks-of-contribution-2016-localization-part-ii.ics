@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5601
+CLASS:PUBLIC
+DTSTAMP:20200423T151506Z
+DTSTART:20160703T120000Z
+DTEND:20160703T130000Z
+LOCATION:TBD\, Gingee\, India
+SUMMARY:Weeks of Contribution 2016 - Localization (Part - II)
+DESCRIPTION:As a part of Weeks of Contribution 2016 which is initiated by 
+ MozillaTN community we are going to train people in Tamil localization(l10
+ n).
+URL:https://reps.mozilla.org/e/weeks-of-contribution-2016-localization-par
+ t-ii/
+SEQUENCE:3
+X-COORDINATES-LAT:12.2509806551
+X-COORDINATES-LON:79.415184259
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

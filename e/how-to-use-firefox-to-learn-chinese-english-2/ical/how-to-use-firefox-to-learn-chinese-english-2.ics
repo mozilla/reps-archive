@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5472
+CLASS:PUBLIC
+DTSTAMP:20200423T152355Z
+DTSTART:20160523T080000Z
+DTEND:20160523T093000Z
+LOCATION:Urumqi fortieth high school\, Urumqi\, China
+SUMMARY:How to use Firefox to learn Chinese\, English
+DESCRIPTION:Make your own courseware--\nLearning scratch
+URL:https://reps.mozilla.org/e/how-to-use-firefox-to-learn-chinese-english
+ -2/
+SEQUENCE:2
+X-COORDINATES-LAT:43.6711763058
+X-COORDINATES-LON:2607.57521081
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

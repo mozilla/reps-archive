@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7239
+CLASS:PUBLIC
+DTSTAMP:20200407T165145Z
+DTSTART:20180202T100000Z
+DTEND:20180205T010000Z
+LOCATION:Brazil\, Campinas\, Brazil
+SUMMARY:Rust Roadshow Brasil 2018
+DESCRIPTION:The Rust programming language will be important to the future 
+ of the web\, making it safe and great. Having more developers understand\,
+  use and evangelize this language will advance make the web better and mor
+ e secure. At Brazil we’ll run Rust Roadshow Brasil 2018 made by Mozilla 
+ and Rust communities\, we’re excited to engage more Rust mobilizers to t
+ ake the lead and organize local engaging and participatory Rust activities
+ .
+URL:https://reps.mozilla.org/e/rust-roadshow-brasil-2018/
+SEQUENCE:7
+X-COORDINATES-LAT:-22.9400519
+X-COORDINATES-LON:-47.1929389
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

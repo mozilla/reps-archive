@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2487
+CLASS:PUBLIC
+DTSTAMP:20200407T175901Z
+DTSTART:20140809T050000Z
+DTEND:20140809T090000Z
+LOCATION:La Salle College Antipolo\, 1985 La Salle Ave.\, Town and Country
+  Heights\, San Luis\, Antipolo City\, Philippines
+SUMMARY:LDC-JMA Web Design Workshop
+DESCRIPTION:Mozilla Philippines will be conducting a Web Design Workshop f
+ or Bachelor of Science in Business Administration (BSBA) of La Salle Colle
+ ge Antipolo
+URL:https://reps.mozilla.org/e/lsca-firefox-os-workshop/
+SEQUENCE:10
+X-COORDINATES-LAT:14.6034126815
+X-COORDINATES-LON:121.205558539
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

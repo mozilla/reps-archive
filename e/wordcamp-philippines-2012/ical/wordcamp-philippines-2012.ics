@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@244
+CLASS:PUBLIC
+DTSTAMP:20200423T225117Z
+DTSTART:20121027T000000Z
+DTEND:20121027T090000Z
+LOCATION:Asian Institute of Management\, 123 Paseo de Roxas Makati City\, 
+ Philippines
+SUMMARY: WordCamp Philippines 2012
+DESCRIPTION:WordCamps are informal\, community-organized events that are p
+ ut together by WordPress users like you. Everyone from casual users to cor
+ e developers participate\, share ideas\, and get to know each other. 
+URL:https://reps.mozilla.org/e/wordcamp-philippines-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5543425156
+X-COORDINATES-LON:121.019210815
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

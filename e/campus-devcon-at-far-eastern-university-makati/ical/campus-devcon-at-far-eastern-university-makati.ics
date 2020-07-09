@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1346
+CLASS:PUBLIC
+DTSTAMP:20200423T210636Z
+DTSTART:20130925T050000Z
+DTEND:20130925T100000Z
+LOCATION:FEU Makati\, Makati City\, Philippines
+SUMMARY:Campus DevCon at Far Eastern University (Makati)
+DESCRIPTION:Campus DevCon at FEU-Makati is a gathering in partnership with
+  Far Easter University - Makati that aims to augment the academic learning
+ s of students with up-to-date trends in the IT industry.
+URL:https://reps.mozilla.org/e/campus-devcon-at-far-eastern-university-mak
+ ati/
+SEQUENCE:6
+X-COORDINATES-LAT:14.561972
+X-COORDINATES-LON:121.017215
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

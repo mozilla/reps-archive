@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6447
+CLASS:PUBLIC
+DTSTAMP:20200423T111934Z
+DTSTART:20170331T043000Z
+DTEND:20170402T113000Z
+LOCATION:Hindi Sahityik Sabhagrah\, Jhasi Rani Square\, Sitabuldi\, Nagpur
+ \, India\, Nagpur\, India
+SUMMARY:PYCAMP 2K17
+DESCRIPTION:The PyCamp 2017 bootcamp\, which will take place in Nagpur\, i
+ s the largest annual gathering for the enthusiasts who want to learn and c
+ ontribute to open-source Python Programming.\n\nIf you always wanted to le
+ arn and contribute to Python but you were unaware of the ways then PyCamp 
+ is for you. Also\, if you want to brush up your skills and want to connect
+  with some awesome programmers\, then you are most welcome to join us.
+URL:https://reps.mozilla.org/e/pycamp-2k17/
+SEQUENCE:1
+X-COORDINATES-LAT:21.0400735097
+X-COORDINATES-LON:79.1381826997
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5405
+CLASS:PUBLIC
+DTSTAMP:20200423T152704Z
+DTSTART:20160508T043000Z
+DTEND:20160508T063000Z
+LOCATION:The 1947\, 3rd Floor\, Super Mall- II\, Infocity\, Gandhinagar.\,
+  Gandhinagar\, India
+SUMMARY:Privacy Matters - Let&#39;s Take Back The Web
+DESCRIPTION:The Take Back the Web Campaign is built on student leaders and
+  mentors who are ready to work together to raise awareness and empower oth
+ er students to make choices about how their personal information is used o
+ nline.
+URL:https://reps.mozilla.org/e/privacy-matters-take-back-the-web/
+SEQUENCE:3
+X-COORDINATES-LAT:23.0173382554
+X-COORDINATES-LON:72.577958107
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

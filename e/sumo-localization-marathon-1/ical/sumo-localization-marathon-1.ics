@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6172
+CLASS:PUBLIC
+DTSTAMP:20200423T113025Z
+DTSTART:20170209T100000Z
+DTEND:20170209T173000Z
+LOCATION:BITS warangal\, Warangal\, India
+SUMMARY:SUMO localization marathon
+DESCRIPTION:Getting started with SUMO and the knowledge base\nLocalization
+  sprint for the top knowledge base articles.\nIn this event we will discus
+ s for tools to be used for Translation of articles in Telugu\n we will set
+  our goal for upcoming quarter of 2017
+URL:https://reps.mozilla.org/e/sumo-localization-marathon-1/
+SEQUENCE:7
+X-COORDINATES-LAT:18.0046313819
+X-COORDINATES-LON:79.5676660538
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

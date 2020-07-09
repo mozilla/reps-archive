@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5267
+CLASS:PUBLIC
+DTSTAMP:20200423T153942Z
+DTSTART:20160321T085000Z
+DTEND:20160321T100000Z
+LOCATION:Urumqi fortieth high school\, urumqi\, China
+SUMMARY:What is a computer
+DESCRIPTION:We have carefully analyzed the activities of last year\, sum u
+ p the reasons or our curriculum design problem\, our course content design
+  too\, there is progress too fast\, some courses for high school such as f
+ orty primary general secondary schools\, students computer applications va
+ ry widely\, the students and not very good grasp\, goggles and thimble in 
+ addition\, as China&#39;s response speed is not ideal\, the child does not ope
+ n the page\, not a lot of fun\, and soon to our courses not interested
+URL:https://reps.mozilla.org/e/understanding-html-1/
+SEQUENCE:3
+X-COORDINATES-LAT:43.6714699041
+X-COORDINATES-LON:2607.57526731
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

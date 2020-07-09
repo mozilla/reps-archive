@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5194
+CLASS:PUBLIC
+DTSTAMP:20200423T151501Z
+DTSTART:20160704T070000Z
+DTEND:20160706T180000Z
+LOCATION:Mozilla\, Paris\, France
+SUMMARY:RMLL 2016 Security Track
+DESCRIPTION:RMLL (Rencontres Mondiales du Logiciel Libre) or LSM in Englis
+ h (for Libre Software Meeting) is more than a lot of conferences along 3 d
+ ays made by worldwide speakers.\nThe year 2016 sees the organization chang
+ ed from previous editions. This year\, a track Security will run Paris Moz
+ illa Office (France). Last edition was in 2015: https://reps.mozilla.org/e
+ /rmll-rencontres-mondiales-du-logiciel-libre-2015/
+URL:https://reps.mozilla.org/e/rmll-2016-security-track/
+SEQUENCE:4
+X-COORDINATES-LAT:48.8446852943
+X-COORDINATES-LON:2.35198969021
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

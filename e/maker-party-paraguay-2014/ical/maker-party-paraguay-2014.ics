@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2312
+CLASS:PUBLIC
+DTSTAMP:20200423T185348Z
+DTSTART:20140926T180000Z
+DTEND:20140926T220000Z
+LOCATION:FP-UNA - Universidad Nacional de Asuncion\, San Lorenzo\, Paragua
+ y
+SUMMARY:Maker Party Paraguay 2014
+DESCRIPTION:WebmakerTrain stakeholders with the resources that Mozilla off
+ ers and open repositories and technological tools\, to encourage the devel
+ opment and hack using Webmaker&#39;s tools in Paraguay.
+URL:https://reps.mozilla.org/e/maker-party-paraguay-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:-25.3365144516
+X-COORDINATES-LON:-57.5175640582
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

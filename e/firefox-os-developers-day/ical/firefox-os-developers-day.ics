@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@962
+CLASS:PUBLIC
+DTSTAMP:20200407T182646Z
+DTSTART:20130608T080000Z
+DTEND:20130608T160000Z
+LOCATION:Telenor HQ\, Omladinskih brigada 90\, Belgrade\, Serbia
+SUMMARY:Firefox OS Developers Day
+DESCRIPTION:Firefox OS Developer workshop organized by Telenor.
+URL:https://reps.mozilla.org/e/firefox-os-developers-day/
+SEQUENCE:1
+X-COORDINATES-LAT:44.8114051542
+X-COORDINATES-LON:20.3989934921
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

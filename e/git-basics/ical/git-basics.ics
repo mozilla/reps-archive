@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5926
+CLASS:PUBLIC
+DTSTAMP:20200407T180240Z
+DTSTART:20161012T103000Z
+DTEND:20161012T130000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:GIT Basics
+DESCRIPTION:This event aims to teach the Basics of GIT which is very impor
+ tant for contributing code for Mozilla and other open source technologies.
+URL:https://reps.mozilla.org/e/git-basics/
+SEQUENCE:1
+X-COORDINATES-LAT:14.546802342
+X-COORDINATES-LON:121.01573503
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

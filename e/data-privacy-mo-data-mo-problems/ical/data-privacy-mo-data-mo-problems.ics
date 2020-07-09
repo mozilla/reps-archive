@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6205
+CLASS:PUBLIC
+DTSTAMP:20200407T175054Z
+DTSTART:20170202T173000Z
+DTEND:20170202T193000Z
+LOCATION:Wayra\, Kaufingerstraße 15\, 80331\, Munich\, Germany
+SUMMARY:Data Privacy - Mo&#39; Data Mo&#39; Problems
+DESCRIPTION:Given the vast amount of data generated and thereby collected 
+ on the Internet today\, Internet privacy is a major area of concern. Throu
+ gh this\, we want to educate the masses about impending dangers and fall-o
+ uts when data privacy is on the line. The meetup is hosted and managed by 
+ Cliqz GmbH and Mozilla. [https://blog.mozilla.org/press-uk/2016/08/23/mozi
+ lla-makes-strategic-investment-in-cliqz-to-enable-privacy-focused-search-i
+ nnovation/]
+URL:https://reps.mozilla.org/e/data-privacy-mo-data-mo-problems/
+SEQUENCE:11
+X-COORDINATES-LAT:48.1317258344
+X-COORDINATES-LON:11.5634536743
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@582
+CLASS:PUBLIC
+DTSTAMP:20200423T220551Z
+DTSTART:20130227T190000Z
+DTEND:20130227T210000Z
+LOCATION:Little Mond\, Thessaloniki\, Greece
+SUMMARY:Firefox OS at appsterdam
+DESCRIPTION:Appsterdam is a weekly meeting where people from the mobile ec
+ osystem meet\, discuss and develop ideas for future mobile applications.\n
+ This week\, Appsterdam hosts Christos Bacharakis\, a Mozilla Rep who is go
+ ing to present Firefox OS\, Open Web Applications and Firefox Marketplace 
+URL:https://reps.mozilla.org/e/firefox-os-at-appsterdam/
+SEQUENCE:0
+X-COORDINATES-LAT:40.6294412883
+X-COORDINATES-LON:22.9489964247
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5560
+CLASS:PUBLIC
+DTSTAMP:20200423T151645Z
+DTSTART:20160629T220000Z
+DTEND:20160702T220000Z
+LOCATION:Médiathèque Louis Aragon\, Choisy le Roi\, France
+SUMMARY:Pas Sage en Seine / Hacker Space Festival 2016
+DESCRIPTION:For the 6th edition of the event &#34;Pas Sage In Seine&#34;\, that is
+  associated with another event the &#34;Hacker Space Festival&#34; to introduce a 
+ new dimension of this event. Its purpose is to provide a friendly\, lively
+  and inclusive space to promote a discourse on free solutions\, privacy an
+ d security on the use of digital tools.\nWith this new appointment village
+  associations was launched and was invited Mozilla
+URL:https://reps.mozilla.org/e/pas-sage-en-seine-hacker-space-festival-201
+ 6/
+SEQUENCE:3
+X-COORDINATES-LAT:48.7639874757
+X-COORDINATES-LON:2.41871452192
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6462
+CLASS:PUBLIC
+DTSTAMP:20200423T181627Z
+DTSTART:20141218T173000Z
+DTEND:20141218T200000Z
+LOCATION:Wikimedia Sverige\, Hantverkargatan 21\, Sweden
+SUMMARY:Mozilla Sweden L10n Presentation at Wikimedia
+DESCRIPTION:A Small and Short presentation about how you can help with Loc
+ alizing Mozilla products held by Peter\, Åke and Luna at the Swedish Wiki
+ media Offices we got too lend their office for the Hackathons and stuff up
+ coming years too :)
+URL:https://reps.mozilla.org/e/mozilla-sweden-l10n-presentation-at-wikimed
+ ia/
+SEQUENCE:1
+X-COORDINATES-LAT:59.3284372
+X-COORDINATES-LON:18.0464484
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

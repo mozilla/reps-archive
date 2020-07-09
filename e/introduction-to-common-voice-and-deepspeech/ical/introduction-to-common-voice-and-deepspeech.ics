@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7900
+CLASS:PUBLIC
+DTSTAMP:20200423T092114Z
+DTSTART:20180624T011500Z
+DTEND:20180624T031500Z
+LOCATION:Amrit Campus\, Kathmandu\, Nepal
+SUMMARY:Introduction to Common Voice and DeepSpeech
+DESCRIPTION:This is an introductory event about Common Voice and DeepSpeec
+ h project of Mozilla in Amrit Campus. In the event\, we will also be calli
+ ng out for the volunteers for collecting Nepali sentences for Common Voice
+  project.
+URL:https://reps.mozilla.org/e/introduction-to-common-voice-and-deepspeech
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:27.7177010217
+X-COORDINATES-LON:85.3127862811
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

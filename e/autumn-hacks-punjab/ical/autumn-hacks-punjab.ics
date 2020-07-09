@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8817
+CLASS:PUBLIC
+DTSTAMP:20200407T170232Z
+DTSTART:20191012T033000Z
+DTEND:20191013T123000Z
+LOCATION:Lovely Professional University\, Jalandhar\, India
+SUMMARY:Autumn Hacks Punjab
+DESCRIPTION:Autumn Hacks is an annual Hackathon organized by Mozilla Punja
+ b in collaboration with other student Communities to create the biggest Ha
+ ckathon in Punjab\, which goes beyond just learning and building.
+URL:https://reps.mozilla.org/e/autumn-hacks-punjab/
+SEQUENCE:2
+X-COORDINATES-LAT:34.0611925187
+X-COORDINATES-LON:74.8392105103
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

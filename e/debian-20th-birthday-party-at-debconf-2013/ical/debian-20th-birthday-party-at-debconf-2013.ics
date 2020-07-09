@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1161
+CLASS:PUBLIC
+DTSTAMP:20200423T211829Z
+DTSTART:20130816T110000Z
+DTEND:20130816T200000Z
+LOCATION:Le camp\, Vaumarcus\, Switzerland\, Vaumarcus\, Switzerland
+SUMMARY:Debian 20th Birthday Party at DebConf 2013
+DESCRIPTION:Debian is turning 20 this year and Debian invites everyone to 
+ the 20th Debian Birthday Party at DebConf 2013. This year the DebConf will
+  be in Vaumarcus\, Switzerland.\n\nIn the afternoon there will be talks an
+ d in the evening there will be a barbecue and opportunity to talk to Debia
+ n people.\n\nPlease register at https://wiki.debconf.org/wiki/DebConf13/Bi
+ rthdayPartyRegistration \, registration for barbecue is mandatory.
+URL:https://reps.mozilla.org/e/debian-20th-birthday-party-at-debconf-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:46.8418768043
+X-COORDINATES-LON:6.70372009277
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

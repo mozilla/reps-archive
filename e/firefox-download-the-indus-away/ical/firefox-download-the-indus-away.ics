@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4626
+CLASS:PUBLIC
+DTSTAMP:20200423T162704Z
+DTSTART:20151017T043000Z
+DTEND:20151017T073000Z
+LOCATION:TBD\, Kolkata\, India
+SUMMARY:Firefox Download: The IndUs Away
+DESCRIPTION:This is a small event which will target people\, will encourag
+ e them to use Firefox in Hindi.We will talk about how to use Firefox in th
+ e best possible way.Give the users a clear idea about the privacy\,securit
+ y and enriched features of Fx40
+URL:https://reps.mozilla.org/e/firefox-download-the-indus-away/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5868528496
+X-COORDINATES-LON:88.4096374526
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

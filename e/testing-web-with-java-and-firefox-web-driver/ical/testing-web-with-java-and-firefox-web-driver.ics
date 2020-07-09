@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9045
+CLASS:PUBLIC
+DTSTAMP:20200407T170240Z
+DTSTART:20200229T130000Z
+DTEND:20200229T170000Z
+LOCATION:Managua\, Nicaragua\, Fundacion Zamora Teran Edificio la Fise\, M
+ anagua\, Nicaragua
+SUMMARY:Testing Web with Java and Firefox web Driver
+DESCRIPTION:In this event we will open talks for the creation of manual an
+ d automatic tests on a web client\, using mozilla tools for developers and
+  using firefox web driver for the automation of tests
+URL:https://reps.mozilla.org/e/testing-web-with-java-and-firefox-web-drive
+ r/
+SEQUENCE:4
+X-COORDINATES-LAT:12.439258658
+X-COORDINATES-LON:-85.1296234131
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

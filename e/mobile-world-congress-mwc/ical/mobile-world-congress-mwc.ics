@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@529
+CLASS:PUBLIC
+DTSTAMP:20200423T220624Z
+DTSTART:20130225T080000Z
+DTEND:20130228T170000Z
+LOCATION:Fira Gran Via\, Barcelona\, Spain
+SUMMARY:Mobile World Congress (MWC)
+DESCRIPTION:The world&#39;s premier mobile industry event.
+URL:https://reps.mozilla.org/e/mobile-world-congress-mwc/
+SEQUENCE:0
+X-COORDINATES-LAT:41.35441
+X-COORDINATES-LON:2.12699
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

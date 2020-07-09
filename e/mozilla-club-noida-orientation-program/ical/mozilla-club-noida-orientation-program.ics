@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6811
+CLASS:PUBLIC
+DTSTAMP:20200423T105239Z
+DTSTART:20170722T043000Z
+DTEND:20170722T073000Z
+LOCATION:NIET\, Greater Noida\, India
+SUMMARY:Mozilla Club Noida Orientation Program
+DESCRIPTION:This event is an orientation program cum introductory event fo
+ r new students who are unaware of Mozilla Campus Club&#39;s presence in their 
+ college. We will introduce Mozilla\, its mission\, campus club program and
+  would discuss ways to contribute to open source and its contribution area
+ s. Interested students will be recruited as volunteers for Mozilla Club No
+ ida. Moerover\, Mozilla Club Noida team will also describe its happy journ
+ ey of about 2.5 years.
+URL:https://reps.mozilla.org/e/mozilla-club-noida-orientation-program/
+SEQUENCE:1
+X-COORDINATES-LAT:28.466173062
+X-COORDINATES-LON:77.5152102113
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

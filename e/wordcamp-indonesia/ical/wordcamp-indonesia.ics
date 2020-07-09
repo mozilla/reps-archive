@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1420
+CLASS:PUBLIC
+DTSTAMP:20200407T180631Z
+DTSTART:20131020T040000Z
+DTEND:20131020T050000Z
+LOCATION:Gowongan Inn\, Yogyakarta\, Indonesia
+SUMMARY:Wordcamp Indonesia 2013
+DESCRIPTION:Wordcamp Indonesia is an annual event by Indonesia Wordpress c
+ ommunity Indonesia. WordCamp Indonesia 2013 will bring together WordPress 
+ users\, developers\, fans\, and newbies for a weekend of WordPress goodnes
+ s.\n\nMozilla Indonesia participate on this event as speaker on sharing se
+ ssion on how to build community.
+URL:https://reps.mozilla.org/e/wordcamp-indonesia/
+SEQUENCE:2
+X-COORDINATES-LAT:-7.7873212177
+X-COORDINATES-LON:110.363030434
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

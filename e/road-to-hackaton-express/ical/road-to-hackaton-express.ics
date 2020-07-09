@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2360
+CLASS:PUBLIC
+DTSTAMP:20200407T182744Z
+DTSTART:20140614T120000Z
+DTEND:20140614T210000Z
+LOCATION:TBD\, Presidencia Roque Saenz Peña\, Argentina
+SUMMARY:Road to Hackaton Express
+DESCRIPTION:This event is a serie of software development related talks th
+ at introduces new technologies and development methodologies in order to p
+ repare the participants for the event &#34;Hackaton Express&#34; a 12 hours hackat
+ on helded on Chaco\, a province of Argentina\, which aims to create apps t
+ hat solves specifics needs of the region
+URL:https://reps.mozilla.org/e/road-to-hackaton-express/
+SEQUENCE:2
+X-COORDINATES-LAT:-26.8008856527
+X-COORDINATES-LON:-60.4512634221
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

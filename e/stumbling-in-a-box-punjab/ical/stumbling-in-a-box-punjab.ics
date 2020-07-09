@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4856
+CLASS:PUBLIC
+DTSTAMP:20200423T155533Z
+DTSTART:20160115T033000Z
+DTEND:20160125T123000Z
+LOCATION:Punjab\, Punjab\, India
+SUMMARY:Stumbling in a Box : Punjab
+DESCRIPTION:This staggered event will evangelize the community to adopt Mo
+ zStumbler &amp; use it on daily basis to enrich the Mozilla location-service. 
+ Here we will show the tools available for different platforms to gather lo
+ cation information. Also after the event a global free geolocation service
+  will be created  that can be used openly by organizations around the worl
+ d to create apps and mobile services.
+URL:https://reps.mozilla.org/e/stumbling-in-a-box-punjab/
+SEQUENCE:5
+X-COORDINATES-LAT:31.0486668396
+X-COORDINATES-LON:75.3763603074
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

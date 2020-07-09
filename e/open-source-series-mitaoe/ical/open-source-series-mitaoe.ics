@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8500
+CLASS:PUBLIC
+DTSTAMP:20200407T174123Z
+DTSTART:20190417T030000Z
+DTEND:20190417T080000Z
+LOCATION:MIT Academy of Engineering\, Pune\, India
+SUMMARY:Open Source Series MITAOE
+DESCRIPTION:Workshop on Open Source contribution and Virtual Reality.
+URL:https://reps.mozilla.org/e/open-source-series-mitaoe/
+SEQUENCE:4
+X-COORDINATES-LAT:18.675229
+X-COORDINATES-LON:73.89315
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

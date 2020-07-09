@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6545
+CLASS:PUBLIC
+DTSTAMP:20200423T105948Z
+DTSTART:20170617T140000Z
+DTEND:20170617T220000Z
+LOCATION:San Luis Potosi 196 Inte. 401\, Cuauhtémoc\, Roma Nte.\, 06700 C
+ iudad de México\, CDMX\, Ciudad de México\, Mexico
+SUMMARY:Rust Activate
+DESCRIPTION:Rust activate was created to carry on some of the activities f
+ rom Mozilla Activate and RustBridge. The event will have a duration of 8 h
+ ours. There we are going to give introductory talks and some workshops by 
+ members from Mozilla Mexico&#39;s and RustMX communities.
+URL:https://reps.mozilla.org/e/rust-activate/
+SEQUENCE:13
+X-COORDINATES-LAT:19.2247190956
+X-COORDINATES-LON:-98.9809584618
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3429
+CLASS:PUBLIC
+DTSTAMP:20200423T173828Z
+DTSTART:20150326T180000Z
+DTEND:20150326T200000Z
+LOCATION:Liip\, Limmatstrasse 183\, 8005 Zürich\, Zurich\, Switzerland
+SUMMARY:Combining Firefox OS and Webmaker
+DESCRIPTION:Michael will present his talk from FOSS Asia to Zurich. It wil
+ l be about how to combine Firefox OS with Webmaker (webmaker.org). Topics 
+ will also include Appmaker. The goal is to explore different possibilites 
+ how to teach the web on a mobile phone.
+URL:https://reps.mozilla.org/e/combining-firefox-os-and-webmaker/
+SEQUENCE:3
+X-COORDINATES-LAT:47.3869291772
+X-COORDINATES-LON:8.52818584433
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

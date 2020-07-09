@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4464
+CLASS:PUBLIC
+DTSTAMP:20200407T175023Z
+DTSTART:20151024T053000Z
+DTEND:20151024T083000Z
+LOCATION:TBD\, Pune\, India
+SUMMARY:Mozilla Urdu L10n Meetup
+DESCRIPTION:This L10n meetup will have a brief discussion on the L10n proj
+ ects. It will have an overview on the strings completed and the pending st
+ rings. Also\, have a glance on RTL related issues if any.
+URL:https://reps.mozilla.org/e/mozilla-urdu-l10n-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:18.4092607593
+X-COORDINATES-LON:73.9524078369
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

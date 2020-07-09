@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7477
+CLASS:PUBLIC
+DTSTAMP:20200423T095122Z
+DTSTART:20180324T033000Z
+DTEND:20180325T123000Z
+LOCATION:BBD Lucknow\, Lucknow\, India
+SUMMARY:Addons Hackathon
+DESCRIPTION:A Hackathon for bringing contributors to the Add-ons Community
+  at Lucknow
+URL:https://reps.mozilla.org/e/addons-hackathon/
+SEQUENCE:0
+X-COORDINATES-LAT:17.5955
+X-COORDINATES-LON:78.4529
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

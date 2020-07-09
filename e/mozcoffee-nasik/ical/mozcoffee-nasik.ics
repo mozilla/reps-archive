@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2338
+CLASS:PUBLIC
+DTSTAMP:20200423T194304Z
+DTSTART:20140531T103000Z
+DTEND:20140531T133000Z
+LOCATION:City Center\, Nashik\, India
+SUMMARY:MozCoffee Nasik
+DESCRIPTION:This event is aimed as a gathering of Mozillians to have discu
+ ssion on Mozilla Nasik Community\, its road maps and future endeavors. We 
+ will also have a feedback session\, to understand the requirements to deri
+ ve an action plan for the community in and around Nasik City.
+URL:https://reps.mozilla.org/e/mozcoffee-nasik/
+SEQUENCE:4
+X-COORDINATES-LAT:20.0059084506
+X-COORDINATES-LON:73.7957954337
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

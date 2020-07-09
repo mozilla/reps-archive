@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2548
+CLASS:PUBLIC
+DTSTAMP:20200423T192055Z
+DTSTART:20140731T140000Z
+DTEND:20140731T153000Z
+LOCATION:Botho University Campus\, Gaborone\, Botswana
+SUMMARY:MozCoffee - Breaking Nut
+DESCRIPTION:This event is meant to call all Mozilla community members to d
+ iscuss the state of the movement\, share insights on how we could move fur
+ ther with the movement. We are almost over 2014 and we also want to measur
+ e our successes and failures in the community.However through this meetup 
+ we will discuss more on one of the major event we are intending to host in
+  our community.
+URL:https://reps.mozilla.org/e/mozcoffee-breaking-nut/
+SEQUENCE:4
+X-COORDINATES-LAT:-24.667818316
+X-COORDINATES-LON:25.9368894249
+X-COUNTRY-CODE:bw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2101
+CLASS:PUBLIC
+DTSTAMP:20200423T200811Z
+DTSTART:20140403T210000Z
+DTEND:20140404T230000Z
+LOCATION:Av. Sargento Maceda.\, Camiri\, Bolivia
+SUMMARY:Mozilla WebMaker Camiri 2
+DESCRIPTION:This is a great project!... We&#39;ll have like 12 events in 4 dif
+ ferents high school of Camiri City! and with at least 40 student in each e
+ vent.\nThis is the first one!!!! And there will be 2 groups (events) in Cr
+ istiana High School. Willy Andres Acosta is the Mozillians who is organizi
+ ng these events in Camiri and member of Mozilla Bolivia.
+URL:https://reps.mozilla.org/e/mozilla-webmaker-camiri-2/
+SEQUENCE:3
+X-COORDINATES-LAT:-20.0416102995
+X-COORDINATES-LON:-63.5206464529
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

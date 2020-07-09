@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@414
+CLASS:PUBLIC
+DTSTAMP:20200407T165704Z
+DTSTART:20130126T053000Z
+DTEND:20130127T053000Z
+LOCATION:Shwe Phyu Plaza | Second Floor\, Mandalay\, Myanmar
+SUMMARY:Barcamp Mandalay
+DESCRIPTION:Barcamp Mandalay is an annual camp where most of the local IT\
+ , Literary\, Computer\, Engineer Fields Professional speak about their tec
+ hnologies.I will be back to Mandalay for BarcampMandalay2013 and I am goin
+ g to make a session about new borned FirefoxOS.Now I am learning and testi
+ ng myself to make a good presentation and speechflow.You can contact me @t
+ hanyawzinmin.
+URL:https://reps.mozilla.org/e/barcamp-mandalay/
+SEQUENCE:0
+X-COORDINATES-LAT:21.9758422027
+X-COORDINATES-LON:96.0925197601
+X-COUNTRY-CODE:mm
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1476
+CLASS:PUBLIC
+DTSTAMP:20200423T205222Z
+DTSTART:20131113T180000Z
+DTEND:20131113T210000Z
+LOCATION:Colab Zurich\, Zentralstrasse 37\, Zürich\, Zurich\, Switzerland
+SUMMARY:Mozilla Switzerland Community Meetup
+DESCRIPTION:Let&#39;s meetup and have inspiring talks about Mozilla\, the Open
+  Web\, Firefox OS and anything else you would like to talk about. As alway
+ s we will have our laptops with us and we can show you the latest Mozilla 
+ initiatives. Want to play with Firefox OS? There will be some Firefox OS d
+ evices to play around with too!\n\n\nYou want to know what the Swiss Mozil
+ la community is up to? Join us and find out!
+URL:https://reps.mozilla.org/e/mozilla-switzerland-community-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:47.3717757298
+X-COORDINATES-LON:8.51923727998
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5483
+CLASS:PUBLIC
+DTSTAMP:20200423T151749Z
+DTSTART:20160625T000000Z
+DTEND:20160815T000000Z
+LOCATION:Yamoussoukro\, Yamoussoukro\, Ivory Coast
+SUMMARY:Mozilla Yamoussoukro Tour #1
+DESCRIPTION:Unfortunately Mozilla all activities take place in the only ar
+ ea of Abidjan . The goal for me is to extend these activities and make kno
+ wn Mozilla\, its mission\, its projects throughout Ivory Coast . Started b
+ y Yamoussoukro &#34;Yakro&#34;  which is the second capital of the Ivory Coast. an
+ d my hometown. At this event I would Workshops and conferences in  institu
+ tion of Yamoussoukro.\nTake them to know mozilla and contribute to Mozilla
+ .
+URL:https://reps.mozilla.org/e/mozilla-yakro-tour-1/
+SEQUENCE:3
+X-COORDINATES-LAT:6.809171265
+X-COORDINATES-LON:-5.19309997559
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

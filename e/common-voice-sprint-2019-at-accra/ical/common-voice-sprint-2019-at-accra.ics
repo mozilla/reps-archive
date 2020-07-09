@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8564
+CLASS:PUBLIC
+DTSTAMP:20200407T173859Z
+DTSTART:20190501T000000Z
+DTEND:20190501T100000Z
+LOCATION:TBD\, Accra\, Ghana
+SUMMARY:Common Voice Sprint 2019 at Accra
+DESCRIPTION:Common Voice is a project to help make voice recognition open 
+ to everyone. To create voice systems\, developers need an extremely large 
+ amount of voice data. Most of the data used by large companies aren’t av
+ ailable to the majority of people. We think that stifles innovation. So we
+ ’ve launched Common Voice\, a project to help make voice recognition ope
+ n and accessible to everyone! Raise your voice and get involved!
+URL:https://reps.mozilla.org/e/common-voice-sprint-2019-at-accra/
+SEQUENCE:1
+X-COORDINATES-LAT:5.56473234427
+X-COORDINATES-LON:-0.199642181396
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

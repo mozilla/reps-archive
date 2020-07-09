@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8100
+CLASS:PUBLIC
+DTSTAMP:20200423T091042Z
+DTSTART:20180813T000000Z
+DTEND:20180816T100000Z
+LOCATION:Iririki Island Resort\, Iririki Island\, Vanuatu
+SUMMARY:Asia Pacific Regional Internet Governance Forum\, APrIGF 2018
+DESCRIPTION:2018 APrIGF will be held at Iririki Island Resort in Vanuatu f
+ rom August 13 to 16. With the advent of a new Internet era of affordable\,
+  inclusive and secure Internet. 2018 APrIGF will definitely be the good pl
+ atform for all these important discussions.
+URL:https://reps.mozilla.org/e/asia-pacific-regional-internet-governance-f
+ orum-aprigf-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:-16.4891987282
+X-COORDINATES-LON:167.442142725
+X-COUNTRY-CODE:vu
+END:VEVENT
+
+END:VCALENDAR

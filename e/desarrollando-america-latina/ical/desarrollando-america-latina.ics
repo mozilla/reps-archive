@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3018
+CLASS:PUBLIC
+DTSTAMP:20200423T184331Z
+DTSTART:20141018T170000Z
+DTEND:20141119T020000Z
+LOCATION:Centraal\, Tacubaya\, Mexico
+SUMMARY:Desarrollando América Latina
+DESCRIPTION:Desarrollando América Latina (DAL) está cambiando la manera 
+ en que los ciudadanos de América Latina se relacionan con su comunidad\, 
+ su ciudad\, su país y su región. Trabajamos resolviendo los problemas so
+ ciales comunes de la región\, tales como educación\, salud\, seguridad c
+ iudadana\, transporte\, entre otros\, usando el poder de la tecnología\, 
+ los datos abiertos y la colaboración entre actores sociales.
+URL:https://reps.mozilla.org/e/desarrollando-america-latina/
+SEQUENCE:4
+X-COORDINATES-LAT:19.4119279604
+X-COORDINATES-LON:-99.1806303262
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5488
+CLASS:PUBLIC
+DTSTAMP:20200423T152321Z
+DTSTART:20160527T120000Z
+DTEND:20160527T143000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozMY and MozID Meetup
+DESCRIPTION:One of the mozillians from Malaysia is visiting Jakarta\, Indo
+ nesia\, and we took this chance to have a meetup :)
+URL:https://reps.mozilla.org/e/mozmy-and-mozid-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.18764917662
+X-COORDINATES-LON:106.836791575
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5600
+CLASS:PUBLIC
+DTSTAMP:20200407T181930Z
+DTSTART:20160731T033000Z
+DTEND:20160731T113000Z
+LOCATION:PadmaSree Function Hall\, MVP\, Vizag\, Visakhapatnam\, India
+SUMMARY:Mozilla Connected Devices- Vizag
+DESCRIPTION:This  event will target the College Students.The  event is bas
+ ically to create  awareness about Mozilla Mission\, Firefox  Browser and m
+ ostly on connected devices among the students so that they can start contr
+ ibuting in Mozilla&#39;s various projects.In this we will discuss and demonstr
+ ate on different Projects of Mozilla. Our major focus will be on working o
+ n many connected devices ideas and implement them in short time period.
+URL:https://reps.mozilla.org/e/mozilla-connected-devices-vizag/
+SEQUENCE:2
+X-COORDINATES-LAT:17.7212687683
+X-COORDINATES-LON:83.2903588414
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

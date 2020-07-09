@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@259
+CLASS:PUBLIC
+DTSTAMP:20200423T225308Z
+DTSTART:20121018T220000Z
+DTEND:20121019T000000Z
+LOCATION:Rua Ariovaldo Silveira Franco\, 567\, Mogi Mirim\, Brazil
+SUMMARY:Semana de Tecnologia - Fatec Mogi Mirim
+DESCRIPTION:This event is focused on putting people in contact with new te
+ ndencies and technologies from the IT area and other areas. It also aims t
+ o offer a opportunity to the students to see the professional world closer
+ . 
+URL:https://reps.mozilla.org/e/semana-de-tecnologia-fatec-mogi-mirim/
+SEQUENCE:0
+X-COORDINATES-LAT:-22.4328971268
+X-COORDINATES-LON:-46.9505774975
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

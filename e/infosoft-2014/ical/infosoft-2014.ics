@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3006
+CLASS:PUBLIC
+DTSTAMP:20200423T185411Z
+DTSTART:20140925T200000Z
+DTEND:20140928T020000Z
+LOCATION:Pontificia Universidad Católica del Perú\, San Miguel\, Peru
+SUMMARY:INFOSOFT 2014
+DESCRIPTION:INFOSOFT is a project fair and conferences organized by studen
+ ts of Computing Engineering at the Catholic University (PUCP). During thre
+ e days\, the attendants have the opportunity to learn more from specialist
+ s in different topics and know about projects developed in the Computing s
+ chool.\n\nESPAÑOL: La feria de proyectos y conferencias organizada por es
+ tudiantes de Ingeniería Informática en la PUCP.
+URL:https://reps.mozilla.org/e/infosoft-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:-12.0729095715
+X-COORDINATES-LON:-77.0815143589
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

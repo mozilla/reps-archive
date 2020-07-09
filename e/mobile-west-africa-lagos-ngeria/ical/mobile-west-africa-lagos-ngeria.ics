@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3711
+CLASS:PUBLIC
+DTSTAMP:20200423T173107Z
+DTSTART:20150421T080000Z
+DTEND:20150423T000000Z
+LOCATION:Four Point Hotel Sheraton Lagos\, Lagos\, Nigeria
+SUMMARY:MOBILE WEST AFRICA LAGOS NGERIA
+DESCRIPTION:Mobile West Africa is one of the biggest mobile conference in 
+ West Africa. It important to have a booth at the event to ensure those tha
+ t are in attendance are informed on the benefit of the Firefox OS platform
+  and getting educated on the platform.
+URL:https://reps.mozilla.org/e/mobile-west-africa-lagos-ngeria/
+SEQUENCE:2
+X-COORDINATES-LAT:5.74626320611
+X-COORDINATES-LON:3.44348162413
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

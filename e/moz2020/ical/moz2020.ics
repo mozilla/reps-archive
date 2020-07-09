@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9011
+CLASS:PUBLIC
+DTSTAMP:20200423T075729Z
+DTSTART:20200112T103000Z
+DTEND:20200112T123000Z
+LOCATION:Mom&#39;s Cafe\, Vadodara\, India
+SUMMARY:Moz2020
+DESCRIPTION:This will be the first Mozilla Gujarat Meetup for the new deca
+ de.\nThe main agenda of the meetup will be the Firefox Voice Campaign.\nWe
+  will also talk about the on going Privacy Month and how the community can
+  get more involved with this initiative.\nAnd we will have some discussion
+  around Mozilla Gujarat community.
+URL:https://reps.mozilla.org/e/moz2020/
+SEQUENCE:1
+X-COORDINATES-LAT:22.4251056
+X-COORDINATES-LON:72.9125173
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

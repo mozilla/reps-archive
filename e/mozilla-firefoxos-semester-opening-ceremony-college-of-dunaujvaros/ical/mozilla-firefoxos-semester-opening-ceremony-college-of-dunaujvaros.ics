@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3956
+CLASS:PUBLIC
+DTSTAMP:20200423T164406Z
+DTSTART:20150909T070000Z
+DTEND:20151112T140000Z
+LOCATION:2400  Dunaújváros Táncsics Mihály utca 1\, Stalinvaros\, Hung
+ ary
+SUMMARY:Mozilla FirefoxOS semester opening ceremony - College of Dunaújv
+ áros
+DESCRIPTION:Exclusive whole-day Mozilla Event at College of Dunaújváros 
+ at the start of the semester.\n\nCeremony:\n* Mozilla signboard reveal.\n*
+  Signing of the long term education collaboration between Mozilla and the 
+ college.\n* Introducing Mozilla and its products (for all students) throug
+ hout the day
+URL:https://reps.mozilla.org/e/mozilla-firefoxos-semester-opening-ceremony
+ -college-of-dunaujvaros/
+SEQUENCE:8
+X-COORDINATES-LAT:46.9609275231
+X-COORDINATES-LON:18.9345091584
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

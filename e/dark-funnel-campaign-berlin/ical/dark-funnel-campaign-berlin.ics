@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8094
+CLASS:PUBLIC
+DTSTAMP:20200407T171702Z
+DTSTART:20180917T170000Z
+DTEND:20180917T190000Z
+LOCATION:Mozilla Berlin\, Gebäude 3\, 3. Obergeschoss\, Schlesische Stra
+ ße 27\, Berlin\, Germany\, Berlin\, Germany
+SUMMARY:Dark Funnel Campaign - Berlin
+DESCRIPTION:Help Firefox understand what’s in the dark funnel\, by parti
+ cipating in this campaign and spreading the light! We want to understand w
+ here Firefox downloads come from.\n\nSo far\, we know that 30% of Firefox 
+ installs come from the official Mozilla website or from known partners. Th
+ e other 70% come from mystery download sources that we call “the dark fu
+ nnel”. Some are friendly sites\, but others put users at risk of getting
+  old editions\, a bad experience or even malicious installs.
+URL:https://reps.mozilla.org/e/dark-funnel-campaign-berlin/
+SEQUENCE:3
+X-COORDINATES-LAT:52.4992903639
+X-COORDINATES-LON:13.4495429986
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

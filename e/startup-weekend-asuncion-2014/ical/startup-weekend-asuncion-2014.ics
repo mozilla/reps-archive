@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1952
+CLASS:PUBLIC
+DTSTAMP:20200423T200739Z
+DTSTART:20140405T000000Z
+DTEND:20140406T210000Z
+LOCATION:Ruta N°2 Mcal José Félix Estigarribia\, San Lorenzo\, Paraguay
+SUMMARY:Startup Weekend Asunción 2014
+DESCRIPTION:Startup Weekend is a movement designed to encourage and train 
+ entrepreneurs around the world. Currently carries more than 400 editions i
+ n over 100 countries and is now that we add to this the largest community 
+ of entrepreneurs worldwide. Startup Weekend is a perfect opportunity to re
+ alize your business idea in 54-hour. Mozilla Paraguay Community has its sp
+ ace to talk about Firefox OS\, the idea is to use the Keon for show and de
+ velop 5 or more apps for Firefox OS
+URL:https://reps.mozilla.org/e/startup-weekend-asuncion-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:-25.3358914288
+X-COORDINATES-LON:-57.5225490334
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

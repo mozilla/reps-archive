@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3133
+CLASS:PUBLIC
+DTSTAMP:20200407T175305Z
+DTSTART:20141130T150000Z
+DTEND:20141130T180000Z
+LOCATION:Kafe Priča\, Subotica\, Serbia
+SUMMARY:MozCoffee Subotica
+DESCRIPTION:Informal meetup of Serbian Mozillians where recent activities 
+ and upcoming projects of a community will be shared and discussed\, as wel
+ l as creating new ideas and getting feedback from the general public and c
+ ommunity members.\n\nHanging out with an aim to strenghten the ties within
+  the community teams :)
+URL:https://reps.mozilla.org/e/mozcoffee-subotica/
+SEQUENCE:7
+X-COORDINATES-LAT:46.1003561936
+X-COORDINATES-LON:19.6654701163
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

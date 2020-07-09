@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8867
+CLASS:PUBLIC
+DTSTAMP:20200407T170412Z
+DTSTART:20190918T120000Z
+DTEND:20190918T130000Z
+LOCATION:mozilla.zoom.us/j/740219447\, Jakarta\, Indonesia
+SUMMARY:Moz ID x Taipei Marketing team meeting
+DESCRIPTION:Meeting about pilot promoter program discussion for Firefox Li
+ te launch with the Taipei marketing team. We need to clarify a few things 
+ and what Mozilla Indonesia can help to succeed in the launch event.
+URL:https://reps.mozilla.org/e/moz-id-x-taipei-marketing-team-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23493223993
+X-COORDINATES-LON:106.821152687
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

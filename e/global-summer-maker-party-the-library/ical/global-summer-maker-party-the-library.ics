@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4136
+CLASS:PUBLIC
+DTSTAMP:20200407T182429Z
+DTSTART:20150716T080000Z
+DTEND:20150716T180000Z
+LOCATION:Libraries in Stockholm\, Paris\, Montreal and Chattanooga\, Stock
+ holm\, Sweden
+SUMMARY:Global Summer Maker Party @ the Library!
+DESCRIPTION:A global library maker party and get-together for tinkering\, 
+ making\, learning and fun! We&#39;ll be playing with Webmaker\, Strawbees\, Qu
+ irkbot\, Little Bits and more.... AND share our makes and ideas globally i
+ n a Google Hangout. We\, the organizers\, are an informal network of libra
+ ry makers in Stockholm/Hässelby Gård (Sweden)\, Paris (France)\, Chattan
+ ooga (US) and Montreal (Canada)
+URL:https://reps.mozilla.org/e/global-summer-maker-party-the-library/
+SEQUENCE:2
+X-COORDINATES-LAT:59.3677442027
+X-COORDINATES-LON:17.8435249327
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

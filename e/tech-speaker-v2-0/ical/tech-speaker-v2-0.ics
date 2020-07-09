@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5248
+CLASS:PUBLIC
+DTSTAMP:20200423T153917Z
+DTSTART:20160325T040000Z
+DTEND:20160325T110000Z
+LOCATION:NewsCred\, Banani\, Dhaka-1213\, Banani Model Town\, Bangladesh
+SUMMARY:Tech Speaker V2.0
+DESCRIPTION:This is the second event of Tech Speaker going to be held in B
+ angladesh. This event is full of story telling. Story telling is a good wa
+ y to start speaking skill. There will be three phases in story telling suc
+ h as Explore yourself\, Technology and You\, Free Speech in English.
+URL:https://reps.mozilla.org/e/tech-speaker-v2-0/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7934039543
+X-COORDINATES-LON:90.4074579475
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

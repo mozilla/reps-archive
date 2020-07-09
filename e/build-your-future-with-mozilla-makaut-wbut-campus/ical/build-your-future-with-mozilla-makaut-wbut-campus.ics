@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4706
+CLASS:PUBLIC
+DTSTAMP:20200407T175621Z
+DTSTART:20151107T043000Z
+DTEND:20151107T113000Z
+LOCATION:Maulana Abul Kalam Azad University of Technology\, BF 142\, Secto
+ r 1\, Salt Lake City\, Kolkata\, West Bengal 700064\, Kolkata\, India
+SUMMARY:Build your future with Mozilla (MAKAUT/WBUT Campus)
+DESCRIPTION:This event will help students in their study with the help of 
+ Mozilla as we will give them a session about the ways of study and how to 
+ use internet in their study. Also we will tell them about Mozilla products
+  and its rule and impact on the internet and how can they got involved and
+  how far that will help them in their study and their future in general.
+URL:https://reps.mozilla.org/e/build-your-future-with-mozilla-makaut-wbut-
+ campus/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5881326888
+X-COORDINATES-LON:88.415375232
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

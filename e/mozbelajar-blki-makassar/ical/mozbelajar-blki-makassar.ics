@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4265
+CLASS:PUBLIC
+DTSTAMP:20200423T164623Z
+DTSTART:20150904T010000Z
+DTEND:20150904T050000Z
+LOCATION:BLKI Makassar\, Makassar\, Indonesia
+SUMMARY:#MozBelajar BLKI Makassar
+DESCRIPTION:An event to introduce the newly launched Webmaker App to vocat
+ ional high school students in BLKI Makassar. There will be Webmaker App do
+ wnloading session and hands on workshop in making projects using the app. 
+ This event is organized as part of Webmaker App Launch initiatives in Indo
+ nesia.
+URL:https://reps.mozilla.org/e/mozbelajar-blki-makassar/
+SEQUENCE:5
+X-COORDINATES-LAT:-5.26965430233
+X-COORDINATES-LON:119.598632455
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

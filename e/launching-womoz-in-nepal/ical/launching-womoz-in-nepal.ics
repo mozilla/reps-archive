@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1997
+CLASS:PUBLIC
+DTSTAMP:20200423T200938Z
+DTSTART:20140330T070000Z
+DTEND:20140330T130000Z
+LOCATION:TBD\, Kathmandu\, Nepal
+SUMMARY:Launching WoMoz  in Nepal
+DESCRIPTION:As this is the month of Women\, we will be launching WoMoz pro
+ perly in Nepal by gathering some interested female contributors and briefi
+ n them about Women empowerment in ICT and how they can contribute/help in 
+ the growing community of Mozilla.\nWe will also have other general communi
+ ty discussions.\n\nShristi\, our active FSA and a WoMoz\, will be working 
+ and hosting the event. She will be working closely with other Reps and FSA
+ s + other experienced contributors for the planning of the event.
+URL:https://reps.mozilla.org/e/launching-womoz-in-nepal/
+SEQUENCE:11
+X-COORDINATES-LAT:27.60242577
+X-COORDINATES-LON:85.4311519861
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

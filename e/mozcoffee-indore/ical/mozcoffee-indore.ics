@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@931
+CLASS:PUBLIC
+DTSTAMP:20200423T213953Z
+DTSTART:20130527T043000Z
+DTEND:20130527T063000Z
+LOCATION:CCD  Apollo Trade\, Zanjirwala Square\, Indore\, Indore\, India
+SUMMARY:MozCoffee Indore
+DESCRIPTION:MozCoffee event organized at CCD Apollo Trade \,Zanjirwala\, I
+ ndore.\n\nObjectives of Event:\n\nTo establish Mozilla Community Presence 
+ in Indore.\nTo Plan and organize activities in Indore region.\nDiscuss com
+ munity building and volunteership in Indore.\nIntroducing new reps from lo
+ cal region.
+URL:https://reps.mozilla.org/e/mozcoffee-indore/
+SEQUENCE:2
+X-COORDINATES-LAT:22.7200512609
+X-COORDINATES-LON:75.8621942997
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

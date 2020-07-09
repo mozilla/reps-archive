@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7217
+CLASS:PUBLIC
+DTSTAMP:20200423T101453Z
+DTSTART:20171125T083000Z
+DTEND:20171125T113000Z
+LOCATION:Jharkhand Rai University\, Ranchi\, India
+SUMMARY:WebVR Camp @ JRU
+DESCRIPTION:This event is the follow-up event after MozAarambh @ JRU\, stu
+ dents were keen to learn about virtual reality.\nA-Frame is a web framewor
+ k for building virtual reality experiences\, making it easy for anyone to 
+ get involved with virtual reality. Its goal is to onboard developers into 
+ 3D and advance WebVR\, an open platform for virtual reality that leverages
+  the Web.\nWith this event we are bringing new technology to students and 
+ expecting to onboard them to WebVR Community
+URL:https://reps.mozilla.org/e/webvr-camp-jru/
+SEQUENCE:7
+X-COORDINATES-LAT:23.34
+X-COORDINATES-LON:85.3
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

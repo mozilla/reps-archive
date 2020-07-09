@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4434
+CLASS:PUBLIC
+DTSTAMP:20200423T163256Z
+DTSTART:20151003T043000Z
+DTEND:20151003T093000Z
+LOCATION:Veermata Jijabai Technological Institute\, Mumbai\, India
+SUMMARY:Introduction to Mozilla (V.J.T.I. Tech Club)
+DESCRIPTION:Tech Club is an initiative taken by few tech enthusiasts of V.
+ J.T.I. They meet once every fortnight and discuss some great ideas about l
+ atest technologies. They have decided to take on open Source as their next
+  venture and have invited me to throw light on some fascinating aspects of
+  Mozilla. I will be providing them all basic info of Open Source and how c
+ an one contribute to Mozilla to make web a better place.
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-v-j-t-i-tech-club/
+SEQUENCE:1
+X-COORDINATES-LAT:18.8924279819
+X-COORDINATES-LON:73.0297842622
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

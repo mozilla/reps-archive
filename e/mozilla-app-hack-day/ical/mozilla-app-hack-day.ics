@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4714
+CLASS:PUBLIC
+DTSTAMP:20200407T174834Z
+DTSTART:20151024T070000Z
+DTEND:20151024T110000Z
+LOCATION:SDK center\, Irbid\, Jordan
+SUMMARY:Mozilla App Hack Day
+DESCRIPTION:this event talk about mozilla at all\nthen we will talk about 
+ firefox os\nmarket place \nweb IDE\nsimulator \ninterface \napp testing\na
+ nd how to start
+URL:https://reps.mozilla.org/e/mozilla-app-hack-day/
+SEQUENCE:3
+X-COORDINATES-LAT:32.5316151283
+X-COORDINATES-LON:35.8527588836
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

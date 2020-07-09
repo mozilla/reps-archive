@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3273
+CLASS:PUBLIC
+DTSTAMP:20200423T175434Z
+DTSTART:20150221T000000Z
+DTEND:20150221T090000Z
+LOCATION:La Consolacion College Bacolod\, Bacolod City\, Philippines
+SUMMARY:MozTour Bacolod City
+DESCRIPTION:First ever MozTour in Bacolod City\, to be hosted by La Consol
+ acion College Bacolod.\n\nTeam MozillaPH will conduct a seminar on how to 
+ be part of the community as a volunteer contributor. We will also conduct 
+ a half-day hands-on workshop on how to create Firefox OS apps.
+URL:https://reps.mozilla.org/e/moztour-bacolod-city/
+SEQUENCE:3
+X-COORDINATES-LAT:10.5737721155
+X-COORDINATES-LON:122.835571244
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

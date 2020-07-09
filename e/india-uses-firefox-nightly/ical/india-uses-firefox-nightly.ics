@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6438
+CLASS:PUBLIC
+DTSTAMP:20200407T165329Z
+DTSTART:20170501T043000Z
+DTEND:20170630T093000Z
+LOCATION:Around India\, Around India\, India
+SUMMARY:India uses Firefox Nightly
+DESCRIPTION:As we have a mission to increases nightly usages in India\, th
+ at&#39;s why we will run pilot campaign for Firefox Nightly.
+URL:https://reps.mozilla.org/e/india-uses-firefox-nightly/
+SEQUENCE:1
+X-COORDINATES-LAT:22.8496017618
+X-COORDINATES-LON:88.1467437744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

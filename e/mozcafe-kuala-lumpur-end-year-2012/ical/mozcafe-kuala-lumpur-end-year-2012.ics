@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@384
+CLASS:PUBLIC
+DTSTAMP:20200407T175217Z
+DTSTART:20121222T060000Z
+DTEND:20121222T100000Z
+LOCATION:Seed Cafe @ Mid Valley MegaMall\, Bangsar\, Malaysia
+SUMMARY:MozCafe Kuala Lumpur End Year 2012
+DESCRIPTION:What you want to do for 2013? This is event for planning meeti
+ ng for upcoming 2013. Based on discussion from core members Mozilla Malays
+ ia Community and post mortem regarding MozCamp Asia 2012 Singapore. An int
+ eractive and casual method will implement to this event.
+URL:https://reps.mozilla.org/e/mozcafe-kuala-lumpur-end-year-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:3.117328
+X-COORDINATES-LON:101.677997
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1648
+CLASS:PUBLIC
+DTSTAMP:20200423T203642Z
+DTSTART:20140104T103000Z
+DTEND:20140104T123000Z
+LOCATION:Java City\, Koramangala\, Bangalore\, Bangalore\, India
+SUMMARY:MozCofee @ Bangalore
+DESCRIPTION:A regular meetup of Mozillians in and around Bangalore to meet
+  each other right at the beginning of the new year. An excellent opportuni
+ ty for new enthusiasts to get introduced to everything Mozilla at Bangalor
+ e. Let us meet and chat and do some interesting things.
+URL:https://reps.mozilla.org/e/mozcofee-bangalore/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9335558973
+X-COORDINATES-LON:77.6211390494
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

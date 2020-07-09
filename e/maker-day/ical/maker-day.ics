@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3241
+CLASS:PUBLIC
+DTSTAMP:20200423T181702Z
+DTSTART:20141213T190000Z
+DTEND:20141214T010000Z
+LOCATION:Telmez Hub\, Mexico City\, Mexico
+SUMMARY:Maker day
+DESCRIPTION:No te pierdas este gran evento que tiene como principal objeti
+ vo acercar la tecnología a las personas de una manera diferente y motivar
+  a las nuevas generaciones a que estudien una carrera relacionada con la t
+ ecnología. Participa en los diferentes talleres y conferencias que tendre
+ mos para ti:
+URL:https://reps.mozilla.org/e/maker-day/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4310718658
+X-COORDINATES-LON:-99.1367998124
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

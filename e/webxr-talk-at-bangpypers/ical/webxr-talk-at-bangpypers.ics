@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8790
+CLASS:PUBLIC
+DTSTAMP:20200407T163825Z
+DTSTART:20190824T043000Z
+DTEND:20190824T073000Z
+LOCATION:Synup\, Bangalore\, India
+SUMMARY:WebXR talk at BangPypers
+DESCRIPTION:BangPypers\, the Bangalore Python Usergroup is one of the larg
+ est and oldest Python user groups in India.This time\, the meetup&#39;s going 
+ to be an attempt to help Pycon India 2019 Speakers from Bangalore practice
+  their talks in our midst and in the balance help us learn about some fun 
+ topics as well! We&#39;ve never done this before\, so it&#39;ll be interesting to 
+ see how this pans out.
+URL:https://reps.mozilla.org/e/webxr-talk-at-bangpypers/
+SEQUENCE:1
+X-COORDINATES-LAT:12.8939196582
+X-COORDINATES-LON:77.5561514497
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

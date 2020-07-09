@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8937
+CLASS:PUBLIC
+DTSTAMP:20200407T170245Z
+DTSTART:20191119T170000Z
+DTEND:20191119T190000Z
+LOCATION:La Sapienza\, Rome\, Italy
+SUMMARY:Corso Introduttivo a Rust
+DESCRIPTION:The first course of a joint between RustRome\, LugSapienza and
+  Mozilla Italia.
+URL:https://reps.mozilla.org/e/corso-introduttivo-a-rust/
+SEQUENCE:1
+X-COORDINATES-LAT:41.8874838687
+X-COORDINATES-LON:12.5058460227
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1156
+CLASS:PUBLIC
+DTSTAMP:20200423T211216Z
+DTSTART:20130913T010000Z
+DTEND:20130915T100000Z
+LOCATION:TBD\, Manila\, Philippines
+SUMMARY:Social Innovation Camp Philippines
+DESCRIPTION:Social Innovation Camp brings together software developers and
+  designers with people who understand a social problem to help build web a
+ nd mobile solutions to social challenges.\n\nWe think the web and related 
+ technologies hold huge potential to create change in many different ways: 
+ how people hold those in positions of power accountable\; who they rely on
+  to provide the services they need to live healthy\, happy lives\; or how 
+ they make a difference to something that affects them.
+URL:https://reps.mozilla.org/e/social-innovation-camp-philippines/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5596593385
+X-COORDINATES-LON:121.021614075
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

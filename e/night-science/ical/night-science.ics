@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1034
+CLASS:PUBLIC
+DTSTAMP:20200423T212717Z
+DTSTART:20130712T070000Z
+DTEND:20130714T170000Z
+LOCATION:24\, rue du Faubourg Saint Jacques\, paris\, France
+SUMMARY:Night Science
+DESCRIPTION:Conferences: On July 12\, several researchers\, hackers\, psyc
+ hologists and education innovators will share their approaches and experie
+ nce on building new ways to achieve always better knowledge construction a
+ nd transmission.\nHackathon: July 13 and 14 are dedicated to hands-on acti
+ vities through which everyone can express his/her creativity.
+URL:https://reps.mozilla.org/e/night-science/
+SEQUENCE:3
+X-COORDINATES-LAT:48.8382408293
+X-COORDINATES-LON:2.3393368721
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

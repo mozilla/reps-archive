@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@597
+CLASS:PUBLIC
+DTSTAMP:20200423T220214Z
+DTSTART:20130315T043000Z
+DTEND:20130317T113000Z
+LOCATION:SVIET COLLEGE \, BALUR (NEAR CHANDIGARH)\, CHANDIGARH\, India
+SUMMARY:SPONTANIA 2013
+DESCRIPTION:This technical festival apart from being highly technical in n
+ ature is also always associated with some social cause and is themed accor
+ dingly and has been inviting eminent stars to perform on the concluding ev
+ ening. Based on the theme we associate ourselves with many like mind assoc
+ iations and NGOs and under take number of activities like marathons\, Stre
+ et plays\, awareness camps etc.We have average of around 10000 students vi
+ siting us during this three day event
+URL:https://reps.mozilla.org/e/spontania-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:23.2413461024
+X-COORDINATES-LON:81.5625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

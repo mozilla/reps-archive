@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5276
+CLASS:PUBLIC
+DTSTAMP:20200407T174121Z
+DTSTART:20160423T080000Z
+DTEND:20160423T140000Z
+LOCATION:Cape Town\, Cape Town\, South Africa
+SUMMARY:Cape Campus Campaign Meet-up
+DESCRIPTION:Explore leadership opportunities in the movement towards a fre
+ e and open Web.
+URL:https://reps.mozilla.org/e/cape-campus-campaign-meteup/
+SEQUENCE:6
+X-COORDINATES-LAT:-34.0192770958
+X-COORDINATES-LON:18.5991212726
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

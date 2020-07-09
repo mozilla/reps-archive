@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3433
+CLASS:PUBLIC
+DTSTAMP:20200423T174946Z
+DTSTART:20150228T020000Z
+DTEND:20150228T040000Z
+LOCATION:Far Eastern University Manila\, Sampaloc\, Manila\, Philippines
+SUMMARY:MozTour FEU Manila
+DESCRIPTION:The Mozilla Philippines Community will be holding a MozTour in
+  the University\, there will be a discussion about how the community start
+ ed in the country\, and will introduce to them the mission and different o
+ pen products for all things Mozilla.
+URL:https://reps.mozilla.org/e/feu-manila-moztour/
+SEQUENCE:5
+X-COORDINATES-LAT:14.6035387822
+X-COORDINATES-LON:120.986439139
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

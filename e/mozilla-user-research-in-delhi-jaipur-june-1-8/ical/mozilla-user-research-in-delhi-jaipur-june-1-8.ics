@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2287
+CLASS:PUBLIC
+DTSTAMP:20200423T194208Z
+DTSTART:20140601T123000Z
+DTEND:20140608T063000Z
+LOCATION:Jaipur\, Jaipur\, India
+SUMMARY:Mozilla User Research in Delhi &amp; Jaipur: June 1 - 8
+DESCRIPTION:User researcher of Cori Schauer&#39;s Consumer Insights team at Mo
+ zilla are putting together a trip for about 15 people to Delhi and Jaipur 
+ the first week of June to learn about mobile usage in India.
+URL:https://reps.mozilla.org/e/mozilla-user-research-in-delhi-jaipur-june-
+ 1-8/
+SEQUENCE:5
+X-COORDINATES-LAT:26.9137432346
+X-COORDINATES-LON:75.8312986046
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7066
+CLASS:PUBLIC
+DTSTAMP:20200423T103308Z
+DTSTART:20171002T113000Z
+DTEND:20171002T140000Z
+LOCATION:TBD\, Hanamkonda\, India
+SUMMARY:Firefox Quantum Sprint -MCW
+DESCRIPTION:Firefox Nightly gets a new version every day and as a conseque
+ nce\, the release notes for the Nightly channel are updated continuously t
+ o reflect features that have reached sufficient maturity to benefit from c
+ ommunity feedback and bug reports.\nFirefox Quantum is soon to be launched
+  and this is our opportunity to make Firefox rise again. Participate in th
+ e Firefox Quantum Sprint and make a difference by ensuring that Firefox ru
+ ns smoothly in your region.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-mcw/
+SEQUENCE:1
+X-COORDINATES-LAT:18.0551312749
+X-COORDINATES-LON:79.5391273499
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

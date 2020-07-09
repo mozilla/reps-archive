@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5350
+CLASS:PUBLIC
+DTSTAMP:20200407T171650Z
+DTSTART:20160510T043000Z
+DTEND:20160510T093000Z
+LOCATION:DPS Sagar\, Sagar\, India
+SUMMARY:Teach the Web - DPS Sagar
+DESCRIPTION:Mozilla MP has been growing everyday from last 4 years\, we st
+ arted with one city Bhopal in 2013\, and next year we expanded to Indore\,
+  soon within tenure of two years we were able to grow our outreach at Jaba
+ lpur and Gwalior city of MP state. By 2016&#39;s end we are targeting for rema
+ ining towns of state. This Event would be our first reach to city Sagar.
+URL:https://reps.mozilla.org/e/teach-the-web-dps-sagar/
+SEQUENCE:2
+X-COORDINATES-LAT:23.2674431328
+X-COORDINATES-LON:77.3751492798
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1083
+CLASS:PUBLIC
+DTSTAMP:20200423T212739Z
+DTSTART:20130710T030000Z
+DTEND:20130710T080000Z
+LOCATION:Saung IT - Class\, Bandung\, Indonesia
+SUMMARY:HackBDG with Mozilla and SaungIT
+DESCRIPTION:HackMakeBDG is a small hack jam event using Webmaker tools in 
+ Bandung. This event is a collaboration between Mozilla Indonesia and Saung
+ IT. All attendees are coming from SaungIT students and members.\n\nEvent T
+ ype: Hack Jam\n\nLocation: Jalan Singaraja No. 33 Antapani Bandung\, Jawa 
+ Barat - INDONESIA
+URL:https://reps.mozilla.org/e/hackbdg-with-mozilla-and-saungit/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.9238707117
+X-COORDINATES-LON:107.660608292
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

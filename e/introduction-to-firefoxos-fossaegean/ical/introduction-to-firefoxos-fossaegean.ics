@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1548
+CLASS:PUBLIC
+DTSTAMP:20200423T205029Z
+DTSTART:20131116T160000Z
+DTEND:20131116T173000Z
+LOCATION:University of the Aegean - Samos\, Karlovasi\, Greece
+SUMMARY:Introduction to FirefoxOS  @ fossaegean
+DESCRIPTION:The Free &amp; Open Source Software Society of the University of t
+ he Aegean is organizing a series of lessons. This time we&#39;re going to pres
+ ent FirefoxOS\, beginning with a short (~25mins) talk about FirefoxOS\; th
+ en we&#39;ll show around the Keon phone so that students will have the opportu
+ nity to have a hands-on experience. Last but not least\, we&#39;re going to ha
+ ve an open talk in order to co-ordinate regarding the local Firefox club i
+ n an attempt to establish a strong student community in Samos.
+URL:https://reps.mozilla.org/e/introduction-to-firefoxos-fossaegean/
+SEQUENCE:1
+X-COORDINATES-LAT:37.7959489489
+X-COORDINATES-LON:26.7049346566
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

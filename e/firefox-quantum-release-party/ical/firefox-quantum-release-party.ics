@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6992
+CLASS:PUBLIC
+DTSTAMP:20200423T101726Z
+DTSTART:20171115T180000Z
+DTEND:20171115T200000Z
+LOCATION:Liip\, Limmatstrasse 183\, Zürich\, Zurich\, Switzerland
+SUMMARY:Firefox Quantum Release Party
+DESCRIPTION:Woohoo\, it&#39;s incredibly fast\, let&#39;s celebrate!
+URL:https://reps.mozilla.org/e/firefox-quantum-release-party/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3861591988
+X-COORDINATES-LON:8.52933472397
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

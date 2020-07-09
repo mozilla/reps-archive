@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2896
+CLASS:PUBLIC
+DTSTAMP:20200423T185336Z
+DTSTART:20140927T033000Z
+DTEND:20140928T103000Z
+LOCATION:cochin University of Science and Technology\, Kalamassery\, India
+SUMMARY:Free Knowledge Fest
+DESCRIPTION:CUSAT University Union in collaboration with Democratic Allian
+ ce for the Knowledge Freedom(DAKF)\,an organisation working for the popula
+ risation and promotion of Freedom of Knowledge \,is organising a Free Know
+ ledge Fest in CUSAT campus....
+URL:https://reps.mozilla.org/e/free-knowledge-fest/
+SEQUENCE:2
+X-COORDINATES-LAT:10.0449635413
+X-COORDINATES-LON:76.3245563507
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

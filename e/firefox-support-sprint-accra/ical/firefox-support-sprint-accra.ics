@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7797
+CLASS:PUBLIC
+DTSTAMP:20200423T092733Z
+DTSTART:20180602T180000Z
+DTEND:20180602T220000Z
+LOCATION:Sand City Hostel\, Accra\, Ghana
+SUMMARY:Firefox Support Sprint - Accra
+DESCRIPTION:With more and more people getting connected to the internet vi
+ a their phones nowadays\, Firefox for Android a key product for Mozilla to
+  remain relevant and influence the market. Participate in the suport sprin
+ t and help our users to get better Firefox experience in your language.
+URL:https://reps.mozilla.org/e/firefox-support-sprint-accra/
+SEQUENCE:1
+X-COORDINATES-LAT:5.55721479132
+X-COORDINATES-LON:-0.179557800293
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

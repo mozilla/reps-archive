@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4042
+CLASS:PUBLIC
+DTSTAMP:20200407T174938Z
+DTSTART:20150626T160000Z
+DTEND:20150627T220000Z
+LOCATION:Maíz Fast Mex\, Niterói\, Brazil
+SUMMARY:(Firefox Spring Growth Campaign) MozCoffee/MozBurrito in Rio
+DESCRIPTION:2 days event as part of the Firefox Spring Growth Campaign to 
+ bring people back to using Firefox and make people aware of what we are do
+ ing to keep their privacy.
+URL:https://reps.mozilla.org/e/firefox-spring-growth-campaign-mozcoffee-mo
+ zburrito-in-rio/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.9037418152
+X-COORDINATES-LON:-43.1121096611
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

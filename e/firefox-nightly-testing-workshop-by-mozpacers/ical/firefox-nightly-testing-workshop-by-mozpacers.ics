@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6836
+CLASS:PUBLIC
+DTSTAMP:20200407T181227Z
+DTSTART:20170812T013000Z
+DTEND:20170812T050000Z
+LOCATION:Spring House Co-Working Qutub\, new delhi\, India
+SUMMARY:Firefox Nightly Testing Workshop By MozPacers
+DESCRIPTION:MozPacers are going to organize a testing workshop on Firefox 
+ Nightly browser.One of software quality Testing expert (Ripple Gupta) will
+  visit us and teach about manual and automated testing. He will also show 
+ is live examples.This will be 3-4 hours deep dive testing training.\n\n At
+ tendees can engage themselves by Installing\, Finding and filing issues ea
+ rly in the cycle means by the time Firefox gets to release.
+URL:https://reps.mozilla.org/e/firefox-nightly-testing-workshop-by-mozpace
+ rs/
+SEQUENCE:6
+X-COORDINATES-LAT:25.0
+X-COORDINATES-LON:0.0
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

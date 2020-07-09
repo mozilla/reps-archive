@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3512
+CLASS:PUBLIC
+DTSTAMP:20200407T175414Z
+DTSTART:20150319T033000Z
+DTEND:20150321T123000Z
+LOCATION:Vijnan Institute of Science &amp; Technology\, Piravom\, India
+SUMMARY:Mini Maker Party @ VISAT
+DESCRIPTION:This series of three events in each days gives a platform to s
+ how the power of the web to the people.  \n\nIt helps the people to famili
+ arize with the Firefox OS\, Mozilla Activities\, Mozilla Products etc.And 
+ this can be the best platform to promote Mozilla devices and to introduce 
+ Firefox OS &amp; Webmaker tools to the young generation. And through this even
+ t Mozillians get an opportunity to make people aware of privacy and open w
+ eb
+URL:https://reps.mozilla.org/e/mini-maker-party-visat/
+SEQUENCE:3
+X-COORDINATES-LAT:9.84319648706
+X-COORDINATES-LON:76.5941791562
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4680
+CLASS:PUBLIC
+DTSTAMP:20200407T174923Z
+DTSTART:20151111T230000Z
+DTEND:20151113T230000Z
+LOCATION:Black cube B.Amsterdam\, Amsterdam\, Netherlands
+SUMMARY:Android BBQ Amsterdam
+DESCRIPTION:Learn how new mobile OS vendors use the ASOP kernel and librar
+ ies\n by hacking a Flame smartphone with adb(1). A Firefox WebIDE based\n 
+ development environment will be introduced for working with these\n device
+ s\, and Estimate beacons will be available for experimentation\n with prox
+ imity services. Create a physical web if you like!\nMichael Schloh von Ben
+ newitz\, Computer Scientist will guide a\nbeginning level Firefox OS works
+ hop. Advancing into the mozBluetooth
+URL:https://reps.mozilla.org/e/android-bbq-amsterdam/
+SEQUENCE:3
+X-COORDINATES-LAT:52.375310986
+X-COORDINATES-LON:4.89223122597
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

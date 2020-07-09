@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3007
+CLASS:PUBLIC
+DTSTAMP:20200407T181940Z
+DTSTART:20141010T150000Z
+DTEND:20141012T190000Z
+LOCATION:Universidad Nacional Mayor de San Marcos\, Lima\, Peru
+SUMMARY:ENEISOFT 2014
+DESCRIPTION:During three days\, students from the National University of S
+ aint Marcus attend talks about different topics in Software Engineering
+URL:https://reps.mozilla.org/e/eneisoft-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:-12.0558156885
+X-COORDINATES-LON:-77.0862082243
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

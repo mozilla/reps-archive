@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3504
+CLASS:PUBLIC
+DTSTAMP:20200423T174555Z
+DTSTART:20150307T150000Z
+DTEND:20150307T170000Z
+LOCATION:Universidad Cooperativa de Colombia sede Ibagué\, Ibagué\, Colo
+ mbia
+SUMMARY:HackDay Ibague
+DESCRIPTION:The event aims at introduction to the Mozilla and devtools. As
+ sistants will learn how to use the AppManager\, Webmaker\, WebIDE and Devt
+ ools to develop apps and interact with the web in many ways.\n\n\nThis eve
+ nt is going to be organizing in order to spread awareness about Mozilla mi
+ ssion and its various projects.
+URL:https://reps.mozilla.org/e/hackday-ibague/
+SEQUENCE:10
+X-COORDINATES-LAT:4.4433389545
+X-COORDINATES-LON:-75.2430844902
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4323
+CLASS:PUBLIC
+DTSTAMP:20200423T163251Z
+DTSTART:20151003T060000Z
+DTEND:20151003T090000Z
+LOCATION:St. Scholastica&#39;s College Manila\, Manila\, Philippines
+SUMMARY:Firefox OS Workshop - St. Scholastica&#39;s College Manila
+DESCRIPTION:Team Mozilla Philippines Community (MozillaPH) has been invite
+ d to conduct a Firefox OS Apps Development Workshop at the St. Scholastica
+ &#39;s College Manila
+URL:https://reps.mozilla.org/e/firefox-os-workshop-st-scholasticas-college
+ -manila/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5640397367
+X-COORDINATES-LON:120.996927738
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

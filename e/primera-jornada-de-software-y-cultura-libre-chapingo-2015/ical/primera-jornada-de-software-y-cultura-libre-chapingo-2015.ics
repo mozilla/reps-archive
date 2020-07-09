@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4854
+CLASS:PUBLIC
+DTSTAMP:20200407T182116Z
+DTSTART:20151201T190000Z
+DTEND:20151202T000000Z
+LOCATION:Universidad Autonóma Chapingo\, Texcoco\, Mexico
+SUMMARY:Primera Jornada de Software y Cultura Libre - Chapingo 2015
+DESCRIPTION:Primera jornada de Software y Cultura Libre en la Universidad 
+ Autónoma Chapingo. El objetivo de la jornada es compartir las bondades de
+ l Software y Cultura Libre. Participan Wikipedia México\, Debian Project 
+ y Richard Stallman de FSF.
+URL:https://reps.mozilla.org/e/primera-jornada-de-software-y-cultura-libre
+ -chapingo-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4925390242
+X-COORDINATES-LON:-98.8907363266
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

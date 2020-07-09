@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5101
+CLASS:PUBLIC
+DTSTAMP:20200423T154958Z
+DTSTART:20160209T130000Z
+DTEND:20160209T150000Z
+LOCATION:Amity University\, E‐Block\, E‐2 Seminar Hall.\, Noida\, Indi
+ a
+SUMMARY:PRIVACY CAMPAIGN and DIGITAL MARKETING
+DESCRIPTION:Students of ASET Firefox Club are planning to organise an even
+ t on Privacy Campaign and Digital Marketing\, this event is organised for 
+ the students to introduce them to the concept of Digital Marketing and Pri
+ vacy. This is going to be an informative event and handouts will be provid
+ ed to the participants while more emphasis will be laid on focusing on cle
+ aring the doubts about privacy and security in Firefox and the features pr
+ ovided by Firefox useful for maintaining security and privacy.
+URL:https://reps.mozilla.org/e/privacy-campaign-and-digital-marketing/
+SEQUENCE:1
+X-COORDINATES-LAT:28.5687433023
+X-COORDINATES-LON:77.3682403285
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

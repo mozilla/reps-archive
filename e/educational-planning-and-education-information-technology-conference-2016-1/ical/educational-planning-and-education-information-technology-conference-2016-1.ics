@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6213
+CLASS:PUBLIC
+DTSTAMP:20200407T182323Z
+DTSTART:20170203T080000Z
+DTEND:20170204T120000Z
+LOCATION:Eszterházy Károly Főiskola 3300 Eger Eszterházy tér 1. “A
+ ” épület\, Líceum\, Kápolna\, Erlau\, Hungary
+SUMMARY:Educational Planning and Education Information Technology Conferen
+ ce 2017
+DESCRIPTION:I will present  https://learning.mozilla.org . Creating new cl
+ ub for HTML5+ Course in Óbuda University.
+URL:https://reps.mozilla.org/e/educational-planning-and-education-informat
+ ion-technology-conference-2016-1/
+SEQUENCE:2
+X-COORDINATES-LAT:47.9000035564
+X-COORDINATES-LON:20.3763788941
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@325
+CLASS:PUBLIC
+DTSTAMP:20200423T223852Z
+DTSTART:20121208T090000Z
+DTEND:20121208T130000Z
+LOCATION:iHub\, Nairobi\, Kenya
+SUMMARY:Dec Community Meetup
+DESCRIPTION:Coming towards the end of 2012\, we have alot to look forward 
+ to in 2013 especially within the first quarter. This meetup will be used t
+ o synch up with global Mozilla activities for the 1st quarter of 2013 and 
+ distributing planning locally where the Mozilla Community in Mombasa will 
+ be joining in.
+URL:https://reps.mozilla.org/e/dec-community-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:-1.28803846888
+X-COORDINATES-LON:36.8316650391
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

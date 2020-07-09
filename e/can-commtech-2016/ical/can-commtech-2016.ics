@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5849
+CLASS:PUBLIC
+DTSTAMP:20200407T181642Z
+DTSTART:20160908T031500Z
+DTEND:20160911T111500Z
+LOCATION:Brikutimandap\, Kathmandu\, Nepal
+SUMMARY:CAN Commtech 2016
+DESCRIPTION:CAN CommTech is a major activity of Computer Association of Ne
+ pal (CAN) that brings together national and international Computer Softwar
+ e\, Computer Hardware\, Networking Devices and Solutions\, Mobile Solution
+ s\, Security Solutions\, ISPs\, Product Launch/New Products\, Wireless Sol
+ utions\, Banking Solutions\, IT Enabled Services Solutions\, Anti-Virus\, 
+ e-Governance\, Access Control and Security Solutions under single umbrella
+  for business platform\, promotion\, exhibition and knowledge transfer.
+URL:https://reps.mozilla.org/e/can-commtech-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:27.7036470793
+X-COORDINATES-LON:85.3058238028
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

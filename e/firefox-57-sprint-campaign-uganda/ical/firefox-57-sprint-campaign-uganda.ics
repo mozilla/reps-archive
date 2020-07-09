@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7004
+CLASS:PUBLIC
+DTSTAMP:20200407T174310Z
+DTSTART:20171006T130000Z
+DTEND:20171006T150000Z
+LOCATION:Global Business Labs \, Faculty of Computing and Information Tech
+ nology\, Makerere University  level 6 / Last floor\, kampala\, Uganda
+SUMMARY:Firefox Quantum Sprint Campaign Uganda
+DESCRIPTION:We are introducing the Firefox 57 Campaign. During this campai
+ gn we are going to gather together and ensure that the new Firefox 57 will
+  run seamlessly in our region. We are going to test websites from our coun
+ try on Firefox.
+URL:https://reps.mozilla.org/e/firefox-57-sprint-campaign-uganda/
+SEQUENCE:2
+X-COORDINATES-LAT:0.233458826651
+X-COORDINATES-LON:32.5511169434
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

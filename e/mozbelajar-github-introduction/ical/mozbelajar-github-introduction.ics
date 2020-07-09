@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5446
+CLASS:PUBLIC
+DTSTAMP:20200423T152447Z
+DTSTART:20160520T120000Z
+DTEND:20160520T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: GitHub Introduction
+DESCRIPTION:GitHub is a web-based Git repository hosting service. It offer
+ s all of the distributed revision control and source code management (SCM)
+  functionality of Git as well as adding its own features.\n\nIn this works
+ hop\, attendees will learn basic introduction about GitHub\, how to use Gi
+ tHub and maximize its use.
+URL:https://reps.mozilla.org/e/mozbelajar-github-introduction/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.18770384149
+X-COORDINATES-LON:106.836921931
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

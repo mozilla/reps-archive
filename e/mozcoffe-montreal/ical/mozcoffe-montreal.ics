@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9142
+CLASS:PUBLIC
+DTSTAMP:20200422T072526Z
+DTSTART:20200508T150000Z
+DTEND:20200508T160000Z
+LOCATION:TAV College\, Montreal\, Canada
+SUMMARY:MozCoffe Montreal
+DESCRIPTION:The focus is to get more contributor at initial level and by c
+ onnecting with college in mtl. Students and coordinator of the college wil
+ l decide date\, time and agenda for next meetup.I will give them brief exp
+ lanation about mission and vision of Mozilla.\n- Introduction to Mozilla W
+ hy students should contribute in opensource\n- Key factors of contribution
+ \n- Decide the course and topics\n\nit&#39;ll be invited based only because on
+ ly student representative and coordinator will take part.
+URL:https://reps.mozilla.org/e/mozcoffe-montreal/
+SEQUENCE:0
+X-COORDINATES-LAT:45.5177587211
+X-COORDINATES-LON:-73.5630912753
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

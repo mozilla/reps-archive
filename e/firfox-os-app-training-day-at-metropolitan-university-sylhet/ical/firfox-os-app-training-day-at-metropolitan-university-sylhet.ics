@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3677
+CLASS:PUBLIC
+DTSTAMP:20200423T173123Z
+DTSTART:20150420T040000Z
+DTEND:20150420T100000Z
+LOCATION:Metropolitan University\,  Sylhet\, Sylhet\, Bangladesh
+SUMMARY:Firefox OS App Training Day at Metropolitan University\,  Sylhet
+DESCRIPTION:60 students from MU will join on this event and will be traine
+ d on building Firefox OS&#39;s apps.\n\nFirefox Club MU is organizing this eve
+ nt.\n\nFirefox Club MU&#39;s present club lead Syed Muhammad Mahmudul Haque is
+  organizing this event.
+URL:https://reps.mozilla.org/e/firfox-os-app-training-day-at-metropolitan-
+ university-sylhet/
+SEQUENCE:12
+X-COORDINATES-LAT:24.8996498
+X-COORDINATES-LON:91.8775177002
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

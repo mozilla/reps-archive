@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@154
+CLASS:PUBLIC
+DTSTAMP:20200423T225702Z
+DTSTART:20120929T160000Z
+DTEND:20120930T160000Z
+LOCATION:mARTadero \, Cochabamba\, Bolivia
+SUMMARY:Hackmeeting Free Culture
+DESCRIPTION:This is the third time that this event takes place annually in
+  Bolivia\, is an event to spread free culture in our society\, and we were
+  invited as Mozilla Reps to share our work and our products.
+URL:https://reps.mozilla.org/e/hackmeeting-free-culture/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.400216886
+X-COORDINATES-LON:-66.1652255058
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

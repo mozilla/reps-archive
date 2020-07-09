@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1375
+CLASS:PUBLIC
+DTSTAMP:20200407T165648Z
+DTSTART:20131220T070000Z
+DTEND:20131221T180000Z
+LOCATION:BUE &#34;British university in Egypt&#34;\, Mansoura\, Egypt
+SUMMARY:Mozilla Power &#39;13
+DESCRIPTION:a two days event\, the 1st day will be regarding Mozilla in ge
+ neral and the target attendees are 800\, and the second day is regarding F
+ irefoxOS and it targets the developers (aiming to have around 150 develope
+ rs).\n\nthe second day is : Firefox OS App Day
+URL:https://reps.mozilla.org/e/mozilla-in-egypt/
+SEQUENCE:13
+X-COORDINATES-LAT:30.0334332631
+X-COORDINATES-LON:31.2588500977
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

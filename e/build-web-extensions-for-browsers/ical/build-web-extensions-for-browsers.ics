@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8315
+CLASS:PUBLIC
+DTSTAMP:20200423T084306Z
+DTSTART:20190203T053000Z
+DTEND:20190203T073000Z
+LOCATION:LAFZ LINGUA\, Ranchi\, India
+SUMMARY:Build Web Extensions for Browsers
+DESCRIPTION:A Hackathon for bringing contributors to the Add-ons Community
+ .\nExtensions for Firefox are built using the WebExtensions API\, a cross-
+ browser system for developing extensions. To a large extent\, the system i
+ s compatible with the extension API supported by Google Chrome and Opera a
+ nd the W3C Draft Community Group. Extensions written for these browsers wi
+ ll in most cases run in Firefox or Microsoft Edge with just a few changes.
+  The  API is also fully compatible with multiprocess Firefox.
+URL:https://reps.mozilla.org/e/build-web-extensions-for-browsers/
+SEQUENCE:2
+X-COORDINATES-LAT:23.3658354
+X-COORDINATES-LON:85.3084416
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8752
+CLASS:PUBLIC
+DTSTAMP:20200423T081135Z
+DTSTART:20190917T053000Z
+DTEND:20190917T103000Z
+LOCATION:DR. AKHILESH DAS GUPTA INSTITUTE OF TECHNOLOGY &amp; MANAGEMENT\, FC-
+ 26\, Shastri Park\, New Delhi - 110053\, New Delhi\, India
+SUMMARY:Addons Day\, ADGITM
+DESCRIPTION:A learning session of add-on for Firefox Browser. This will en
+ courage participants to build their own add-on and publish it on addons.mo
+ zilla.org.
+URL:https://reps.mozilla.org/e/addons-day-adgitm/
+SEQUENCE:0
+X-COORDINATES-LAT:28.6766512795
+X-COORDINATES-LON:77.257329938
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

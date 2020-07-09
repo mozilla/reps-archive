@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3334
+CLASS:PUBLIC
+DTSTAMP:20200407T170250Z
+DTSTART:20150327T040000Z
+DTEND:20150327T120000Z
+LOCATION:Stamford University Bangladesh\, Siddeswari Campus\, 51\, Siddesw
+ ari Road\, Dhaka-1217\, Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Firefox OS App Train @ SUB
+DESCRIPTION:This is a day long training event on Firefox OS app developmen
+ t. Where participants can learn about Firefox OS app development. End of t
+ he event participants will come up with ideas of apps for Firefox OS. The 
+ event is organized by Stamford University Firefox Club.
+URL:https://reps.mozilla.org/e/firefox-os-app-train-sub/
+SEQUENCE:10
+X-COORDINATES-LAT:23.7434625738
+X-COORDINATES-LON:90.407361388
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

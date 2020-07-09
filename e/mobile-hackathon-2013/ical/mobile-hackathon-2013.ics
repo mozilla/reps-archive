@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1537
+CLASS:PUBLIC
+DTSTAMP:20200407T182639Z
+DTSTART:20131115T020000Z
+DTEND:20131117T100000Z
+LOCATION:TBD\, Hanoi\, Vietnam
+SUMMARY:Mobile Hackathon 2013
+DESCRIPTION:A mobile hacking event in both Hanoi and HCMC. Some mozillians
+  in Vietnam will join this event.
+URL:https://reps.mozilla.org/e/mobile-hackathon-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:21.0305918463
+X-COORDINATES-LON:105.852536202
+X-COUNTRY-CODE:vn
+END:VEVENT
+
+END:VCALENDAR

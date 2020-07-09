@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@941
+CLASS:PUBLIC
+DTSTAMP:20200423T212833Z
+DTSTART:20130706T050000Z
+DTEND:20130706T080000Z
+LOCATION:Potluck Kitchen\, Bandung\, Indonesia
+SUMMARY:MozKopdarBDG - July 2013
+DESCRIPTION:Small meetup for Mozillians in Bandung to get update about Moz
+ illa latest updates\, like 15th anniversary of Mozilla\, Firefox\, Firefox
+  for Android\, Firefox OS\, Firefox Marketplace\, Apps for Firefox OS\, Fi
+ refox Flicks\, Firefox Student Ambassadors etc.
+URL:https://reps.mozilla.org/e/mozkopdarbdg/
+SEQUENCE:6
+X-COORDINATES-LAT:-6.89666831445
+X-COORDINATES-LON:107.616888285
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

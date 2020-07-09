@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2342
+CLASS:PUBLIC
+DTSTAMP:20200423T194426Z
+DTSTART:20140529T020000Z
+DTEND:20140529T040000Z
+LOCATION:Computer center\, National Chi Nan University\, Puli Town\, Taiwa
+ n
+SUMMARY:Mozilla campus talk at NCNU
+DESCRIPTION:Campus talk on Mozilla\, Firefox and our community culture at 
+ OSS class at NCNU university. There are about 30 students join the class.
+URL:https://reps.mozilla.org/e/mozilla-campus-talk-at-ncnu-1/
+SEQUENCE:11
+X-COORDINATES-LAT:23.9517617664
+X-COORDINATES-LON:120.926160335
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

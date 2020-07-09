@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5293
+CLASS:PUBLIC
+DTSTAMP:20200423T153123Z
+DTSTART:20160423T070000Z
+DTEND:20160423T150000Z
+LOCATION:Viale Marini 43 rieti\, Rieti\, Italy
+SUMMARY:Linux Presentation Day - Rieti 2016
+DESCRIPTION:Is an event about promotion of Linux and Open Source do it the
+  same day in all the Europe.
+URL:https://reps.mozilla.org/e/linux-presentation-day-rieti-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:42.4069250484
+X-COORDINATES-LON:12.8564000128
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

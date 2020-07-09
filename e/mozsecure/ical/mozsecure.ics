@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2694
+CLASS:PUBLIC
+DTSTAMP:20200407T182008Z
+DTSTART:20140902T053000Z
+DTEND:20140902T093000Z
+LOCATION:Amity University\, Noida\, Greater Noida\, India
+SUMMARY:MozSecure
+DESCRIPTION:Event discussing the Mozilla mission\, the importance of the O
+ pen Web\, Privacy and how FIrefox OS fits in the picture. To be followed b
+ y a MakerParty!
+URL:https://reps.mozilla.org/e/mozsecure/
+SEQUENCE:2
+X-COORDINATES-LAT:28.4657423469
+X-COORDINATES-LON:77.509148597
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

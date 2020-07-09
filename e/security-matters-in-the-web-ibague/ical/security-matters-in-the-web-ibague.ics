@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4301
+CLASS:PUBLIC
+DTSTAMP:20200423T165349Z
+DTSTART:20150811T200000Z
+DTEND:20150811T220000Z
+LOCATION:Cooworking Space\, Ibagué\, Colombia
+SUMMARY:Security matters in the web - Ibague
+DESCRIPTION:Let&#39;s talk about why security matters on the web and explore r
+ eal life cases of web compromised situations\, talk about best practices\,
+  patterns to recognize web vulnerabilities\, take approach of tools integr
+ ated on Firefox to recognize on time possibly issues.
+URL:https://reps.mozilla.org/e/security-matters-in-the-web-ibague/
+SEQUENCE:1
+X-COORDINATES-LAT:4.43762383438
+X-COORDINATES-LON:-75.2350387577
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

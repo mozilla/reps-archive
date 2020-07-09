@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1796
+CLASS:PUBLIC
+DTSTAMP:20200423T202834Z
+DTSTART:20140208T123000Z
+DTEND:20140208T133000Z
+LOCATION:Gaurav Tower\, Jaipur\, India
+SUMMARY:Coffee with a Rep
+DESCRIPTION:MCR (Mozilla Community Rajasthan) members will get an chance t
+ o interact with Rep Sujith Reddy.
+URL:https://reps.mozilla.org/e/coffee-with-a-rep/
+SEQUENCE:7
+X-COORDINATES-LAT:26.8483424092
+X-COORDINATES-LON:75.8032464964
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

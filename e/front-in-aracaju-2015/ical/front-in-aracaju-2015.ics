@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4844
+CLASS:PUBLIC
+DTSTAMP:20200423T160906Z
+DTSTART:20151128T100000Z
+DTEND:20151128T220000Z
+LOCATION:AABB\, Aracaju\, Brazil
+SUMMARY:Front In Aracaju 2015
+DESCRIPTION:Front in Aracaju is a web developer / front-end focused event 
+ made by the local web developer community in the region. It is the largest
+  event of its kind in the area and has an innovative talk show format.\n\n
+ It has a full day schedule and a live band playing between talks / intervi
+ ews
+URL:https://reps.mozilla.org/e/front-in-aracaju-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:-10.9645617809
+X-COORDINATES-LON:-37.0517577231
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

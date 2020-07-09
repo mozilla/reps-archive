@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4744
+CLASS:PUBLIC
+DTSTAMP:20200423T162053Z
+DTSTART:20151030T080000Z
+DTEND:20151030T093000Z
+LOCATION:Urumqi 126 Primary school\, urumqi\, China
+SUMMARY:Firefox Tianshan line -webmaker activity- what&#39;s webmaker ?
+DESCRIPTION:What is Web Literacy? Why do we have to organize this event?
+URL:https://reps.mozilla.org/e/firefox-tianshan-line-webmaker-activity-wha
+ ts-webmaker-2/
+SEQUENCE:3
+X-COORDINATES-LAT:43.7516421179
+X-COORDINATES-LON:2607.64422441
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

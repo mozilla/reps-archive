@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7896
+CLASS:PUBLIC
+DTSTAMP:20200407T170231Z
+DTSTART:20180618T140000Z
+DTEND:20180620T230000Z
+LOCATION:Brooklyn Expo Center\, Brooklyn\, United States
+SUMMARY:DeveloperWeek NYC
+DESCRIPTION:Companies now recognize the influence that developers have in 
+ product development\, IT decision making\, and strategic business outcomes
+ . DeveloperWeek NYC invites all East Coast developers to acquire a landsca
+ pe view of all the tools and technologies that supercharge development.\n\
+ nWhat’s going on at DeveloperWeek NYC?\n30+ Dev Exhibitors with the hott
+ est technologies\n100+ Visionary talks and technical workshops\n3\,000+ de
+ velopers\, executives\, and entrepreneurs
+URL:https://reps.mozilla.org/e/developerweek-nyc/
+SEQUENCE:1
+X-COORDINATES-LAT:40.728157
+X-COORDINATES-LON:-73.9599861
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

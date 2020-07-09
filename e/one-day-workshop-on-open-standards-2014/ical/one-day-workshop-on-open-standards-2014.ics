@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2100
+CLASS:PUBLIC
+DTSTAMP:20200423T200835Z
+DTSTART:20140403T044500Z
+DTEND:20140403T101500Z
+LOCATION:IT Park\, Kavre\, Kavre\, Nepal
+SUMMARY:One Day Workshop on OPen Standards 2014
+DESCRIPTION:A step towards open standards in Nepal
+URL:https://reps.mozilla.org/e/one-day-workshop-on-open-standards-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6176368843
+X-COORDINATES-LON:85.5044860952
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

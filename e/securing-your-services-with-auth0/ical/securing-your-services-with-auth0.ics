@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8868
+CLASS:PUBLIC
+DTSTAMP:20200423T080852Z
+DTSTART:20191004T113000Z
+DTEND:20191004T143000Z
+LOCATION:Yuvalay Elab\, Vadodara\, India
+SUMMARY:Securing your services with Auth0
+DESCRIPTION:Mozilla Gujarat is back again with another exciting meet-up. T
+ his time it&#39;s about security. Learn how to build secure apps with Auth0.\n
+ \nAuth0 provides a universal authentication &amp; authorization platform for w
+ eb\, mobile and legacy applications. Let&#39;s look forward to learning these 
+ authentication methods to build much more secure applications.
+URL:https://reps.mozilla.org/e/securing-your-services-with-auth0/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2948507662
+X-COORDINATES-LON:73.1539950357
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

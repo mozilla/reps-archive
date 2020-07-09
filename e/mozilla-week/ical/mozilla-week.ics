@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3247
+CLASS:PUBLIC
+DTSTAMP:20200407T174905Z
+DTSTART:20150102T220000Z
+DTEND:20150106T220000Z
+LOCATION:Yarmouk Uni.\, Irbid\, Jordan
+SUMMARY:Mozilla Week
+DESCRIPTION:This event will be 5 workshop&#39;s.\n1- firefox OS\n2- firefox br
+ owser \n3- l10n\n4- webmaker\n5- Mozilla Style guides for Designers
+URL:https://reps.mozilla.org/e/mozilla-week/
+SEQUENCE:3
+X-COORDINATES-LAT:32.4215101709
+X-COORDINATES-LON:35.8067321219
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

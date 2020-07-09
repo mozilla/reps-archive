@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2349
+CLASS:PUBLIC
+DTSTAMP:20200407T175254Z
+DTSTART:20140531T200000Z
+DTEND:20140531T230000Z
+LOCATION:摩茲工寮 / Mozilla Commuinty Space Taipei\, Jhongshan Distric
+ t\, Taiwan
+SUMMARY:New Contributions Review Sprint / MozTW 新手貢獻救援會
+DESCRIPTION:每一年 MozTW（Mozilla 台灣社群）都跟大學的服務
+ 學習課程合作，為 Mozilla 貢獻一次又一次的中文資源。
+ 這一次，我們需要老手的你來幫忙新手，讓他們的貢獻
+ 品質更上層樓！\n\n交大今年的 Mozilla 服務學習課程主力
+ 放在影片與新聞翻譯，過往都會由該專案的協調人協助 R
+ eview、加強新手貢獻的品質。但這次一口氣大軍入侵，我
+ 們有超過 25 篇新聞、超過 35 部影片的字幕，需要您出手
+ 相助編輯。
+URL:https://reps.mozilla.org/e/new-contributions-review-sprint-moztw-xin-s
+ hou-gong-xian-jiu-yuan-hui/
+SEQUENCE:1
+X-COORDINATES-LAT:25.066759526
+X-COORDINATES-LON:121.526350323
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

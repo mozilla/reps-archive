@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4795
+CLASS:PUBLIC
+DTSTAMP:20200423T161641Z
+DTSTART:20151111T080000Z
+DTEND:20151111T093000Z
+LOCATION:Urumqi tenth Primary school\, urumqi\, China
+SUMMARY:Firefox Tianshan tour Experience the feeling of hack
+DESCRIPTION:Description\nThe children learn to install goggles\, understan
+ d which part of the web can be edited. Understand the meaning of the code.
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson-4-open-source-
+ and-licenses-2/
+SEQUENCE:4
+X-COORDINATES-LAT:43.7705531119
+X-COORDINATES-LON:2607.62593898
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6763
+CLASS:PUBLIC
+DTSTAMP:20200423T105137Z
+DTSTART:20170727T130000Z
+DTEND:20170727T180000Z
+LOCATION:Centro de Esportes e Artes Unificados Campinas\, Campinas\, Brazi
+ l
+SUMMARY:Using &amp; Testing Nightly @Juventude Conectada
+DESCRIPTION:We&#39;ll introducing community to tasks that they can engage in r
+ elated to Nightly. Finding and filing issues early in the cycle means by t
+ he time Firefox gets to release\, the code is in good shape.
+URL:https://reps.mozilla.org/e/using-testing-nightly-juventude-conectada/
+SEQUENCE:4
+X-COORDINATES-LAT:-22.150099457
+X-COORDINATES-LON:-49.0546873212
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

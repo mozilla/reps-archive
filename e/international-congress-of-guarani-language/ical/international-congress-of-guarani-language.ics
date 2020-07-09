@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4672
+CLASS:PUBLIC
+DTSTAMP:20200407T182131Z
+DTSTART:20151128T120000Z
+DTEND:20151128T190000Z
+LOCATION:Calle Bethoveen 1762\, Posadas\, Argentina
+SUMMARY:INTERNATIONAL CONGRESS OF GUARANI LANGUAGE
+DESCRIPTION:Support the full force of the Law Mission Multilingualism and 
+ Language of Paraguay. Revalue the Guarani language: in the Company\, Educa
+ tion and the Media. Support the adoption of single spelling. Support the c
+ reation of a Guaraní Language Academy to all the Guarani&#39;s land with its 
+ regional chapters. Support recognition of Guaraní as an official language
+  of MERCOSUR and its use as a working language of the regional bloc.
+URL:https://reps.mozilla.org/e/international-congress-of-guarani-language/
+SEQUENCE:4
+X-COORDINATES-LAT:-27.3654583228
+X-COORDINATES-LON:-55.9037932009
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

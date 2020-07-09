@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1160
+CLASS:PUBLIC
+DTSTAMP:20200407T180117Z
+DTSTART:20130916T120000Z
+DTEND:20130918T170000Z
+LOCATION:CICG – Centre International de Conférence de Genève\, Geneva\
+ , Switzerland
+SUMMARY:OKCon - Open Knowledge Conference 2013
+DESCRIPTION:The Open Knowledge Foundation organizes the 2013 Open Knowledg
+ e Conference (OKCon) in Geneva\, Switzerland on 16th-18th September. OKCon
+  is the world’s leading open data and open knowledge conference\, runnin
+ g since 2005. The line-up of speakers this year already includes Ellen Mil
+ ler (Sunlight Foundation)\, John Ellis (CERN and Kings College\, London)\,
+  Chris Vein (World Bank) and Victoria Stodden (Columbia University). The t
+ heme for OKCon 2013 is OPEN DATA – Broad\, Deep Connected.
+URL:https://reps.mozilla.org/e/okcon-open-knowledge-conference-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:46.2121502406
+X-COORDINATES-LON:6.13861083984
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

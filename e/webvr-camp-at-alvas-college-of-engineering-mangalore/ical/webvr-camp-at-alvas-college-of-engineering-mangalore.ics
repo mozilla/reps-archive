@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7178
+CLASS:PUBLIC
+DTSTAMP:20200407T174642Z
+DTSTART:20171028T043000Z
+DTEND:20171028T113000Z
+LOCATION:Alvas College of Engineering\, Mangalore\, Mangalore\, India
+SUMMARY:WebVR camp at Alvas College of Engineering\, Mangalore
+DESCRIPTION:A Moz-Activate initiative for spreading knowledge regarding Mo
+ zilla&#39;s WebVR technology using Aframe.
+URL:https://reps.mozilla.org/e/webvr-camp-at-alvas-college-of-engineering-
+ mangalore/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9108752678
+X-COORDINATES-LON:77.5778961182
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5783
+CLASS:PUBLIC
+DTSTAMP:20200407T175907Z
+DTSTART:20160827T020000Z
+DTEND:20160828T113000Z
+LOCATION:iTrain Unit E-9-2\, Block E\, Megan Avenue 1\, 189 Jalan Tun Raza
+ k\, 50400\, Kuala Lumpur\, Malaysia
+SUMMARY:L10n:Meetings/2016 Asian Hackathon
+DESCRIPTION:Annual Meeting for L10n community in Asia to work together and
+  co-work with other communities and staff members to finish various task a
+ nd projects
+URL:https://reps.mozilla.org/e/l10n-meetings-2016-asian-hackathon/
+SEQUENCE:1
+X-COORDINATES-LAT:3.16085892057
+X-COORDINATES-LON:101.714829683
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

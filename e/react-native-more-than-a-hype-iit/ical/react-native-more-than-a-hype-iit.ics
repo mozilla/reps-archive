@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8129
+CLASS:PUBLIC
+DTSTAMP:20200423T085940Z
+DTSTART:20181003T110000Z
+DTEND:20181003T140000Z
+LOCATION:99x Technology\, Colombo\, Sri Lanka
+SUMMARY:REACT NATIVE: MORE THAN A HYPE - IIT
+DESCRIPTION:Open Brackets is a series of meetups organized by Mozilla Camp
+ us Club of\nInformatics Institute of Technology (IIT)\, part of Mozilla Sr
+ i Lanka Community\, to\npromote and educate the local developer community 
+ about the Open Source\nEcosystem.
+URL:https://reps.mozilla.org/e/react-native-more-than-a-hype-iit/
+SEQUENCE:0
+X-COORDINATES-LAT:6.83553378342
+X-COORDINATES-LON:80.0126954913
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

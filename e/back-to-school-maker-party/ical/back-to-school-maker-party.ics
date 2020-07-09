@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2450
+CLASS:PUBLIC
+DTSTAMP:20200423T191931Z
+DTSTART:20140802T050000Z
+DTEND:20140802T090000Z
+LOCATION:Globe Corporate Showroom Valero Telepark 111 Valero St.\, Makati 
+ City\, Pasay City\, Philippines
+SUMMARY:Back-to-school Maker Party
+DESCRIPTION:In celebration of the Maker Party Season and back-to-school  s
+ eason\, the Mozilla Philippines Community organize a Maker Party for stude
+ nts around/near the metro\, where we&#39;ll introduce the Webmaker project and
+  its objective which is to teach the web  and and promote the web literacy
+ . With this event\, students will learn  how to use the webmaker tools\, t
+ hat they can use with their other own  projects and in learning how to mak
+ e/teach the web.
+URL:https://reps.mozilla.org/e/back-to-school-maker-party/
+SEQUENCE:10
+X-COORDINATES-LAT:14.538576483
+X-COORDINATES-LON:121.020312309
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2232
+CLASS:PUBLIC
+DTSTAMP:20200423T194726Z
+DTSTART:20140521T150000Z
+DTEND:20140521T170000Z
+LOCATION:CUTting edge\, Limassol\, Cyprus
+SUMMARY:MozCoffee Limassol May 2014
+DESCRIPTION:Mozilla Coffee in Limassol.\nHosted by Cyprus University of Te
+ chnology CUTting Edge.\n\nMozilla&#39;s mission.\nWhat can I do for Mozilla?\n
+ Firefox Australis.\nShowcase of Firefox OS Keon and Peak devices.
+URL:https://reps.mozilla.org/e/mozcoffee-limassol-may-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:34.6746250594
+X-COORDINATES-LON:33.042908594
+X-COUNTRY-CODE:cy
+END:VEVENT
+
+END:VCALENDAR

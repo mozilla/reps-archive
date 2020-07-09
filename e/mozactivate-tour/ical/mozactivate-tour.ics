@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6080
+CLASS:PUBLIC
+DTSTAMP:20200423T114336Z
+DTSTART:20161126T100000Z
+DTEND:20161126T170000Z
+LOCATION:University Institute of Technology\, Burdwan\, India
+SUMMARY:MozActivate Tour 1 - University Institute of Technology\, Burdwan
+DESCRIPTION:In this event student will learn WebVR development using A-Fra
+ me framework.
+URL:https://reps.mozilla.org/e/mozactivate-tour/
+SEQUENCE:4
+X-COORDINATES-LAT:23.254594865
+X-COORDINATES-LON:87.6470375061
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

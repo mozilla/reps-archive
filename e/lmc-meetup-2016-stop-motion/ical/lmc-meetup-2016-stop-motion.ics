@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5482
+CLASS:PUBLIC
+DTSTAMP:20200423T152345Z
+DTSTART:20160525T171000Z
+DTEND:20160525T200000Z
+LOCATION:CEU Florence - Centro de Esportes Unificados Jardim Florence\, Ca
+ mpinas\, Brazil
+SUMMARY:LMC Meetup 2016: Stop Motion
+DESCRIPTION:Stop Motion is an animation technique with features of the cam
+ corder\, a camera or computer.
+URL:https://reps.mozilla.org/e/lmc-meetup-2016-stop-motion/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.9091211319
+X-COORDINATES-LON:-47.0500259288
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

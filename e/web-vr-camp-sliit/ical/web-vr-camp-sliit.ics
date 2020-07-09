@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9114
+CLASS:PUBLIC
+DTSTAMP:20200407T182913Z
+DTSTART:20200319T033000Z
+DTEND:20200319T073000Z
+LOCATION:TBD\, Malabe\, Sri Lanka
+SUMMARY:Web VR Camp - SLIIT
+DESCRIPTION:Introduction of web VR and how to build a web VR platform usin
+ g Mozilla Web VR to undergraduates of Sri Lanka Institute of Information T
+ echnology
+URL:https://reps.mozilla.org/e/web-vr-camp-sliit/
+SEQUENCE:2
+X-COORDINATES-LAT:6.91510980759
+X-COORDINATES-LON:79.9744817019
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

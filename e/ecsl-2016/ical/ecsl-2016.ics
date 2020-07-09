@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5349
+CLASS:PUBLIC
+DTSTAMP:20200407T181245Z
+DTSTART:20160616T083000Z
+DTEND:20160618T083000Z
+LOCATION:Hotel Mansion Teodolinda\, Managua\, Nicaragua
+SUMMARY:ECSL 2016
+DESCRIPTION:http://encuentro.softwarelibre.ca/2016\n\nThis is the largest 
+ free software event in Central America. In 2014 was the first time that Mo
+ zilla participated as a community. This year will be the third opportunity
+  to involve the community in working with other communities in the region.
+ \n\n  In addition\, we will use and exploit the journey time to do the fir
+ st event of  Central American Mozillian\n\nhttp://encuentro.softwarelibre.
+ ca/2016/
+URL:https://reps.mozilla.org/e/ecsl-2016/
+SEQUENCE:7
+X-COORDINATES-LAT:12.1392593
+X-COORDINATES-LON:-86.2136299
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

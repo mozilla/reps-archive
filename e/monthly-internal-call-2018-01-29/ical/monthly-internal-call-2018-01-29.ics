@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7363
+CLASS:PUBLIC
+DTSTAMP:20200423T100311Z
+DTSTART:20180129T173000Z
+DTEND:20180129T180000Z
+LOCATION:Online\, London  Time\, United Kingdom
+SUMMARY:Monthly Internal Call 2018-01-29
+DESCRIPTION:Internal Mozilla Call\, check https://discourse.mozilla.org/t/
+ monthly-internal-call-2018-01-29/24359 for details. If you can see that po
+ st\, you can join. This is under NDA due to (not exclusively) financial in
+ formation being shared.\n\nI&#39;m not the organizer of this.
+URL:https://reps.mozilla.org/e/monthly-internal-call-2018-01-29/
+SEQUENCE:1
+X-COORDINATES-LAT:51.5000696881
+X-COORDINATES-LON:0.00340032594977
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5524
+CLASS:PUBLIC
+DTSTAMP:20200423T152009Z
+DTSTART:20160611T050000Z
+DTEND:20160611T073000Z
+LOCATION:Long Mountain\, Long Mountain\, Mauritius
+SUMMARY:Mozilla Knowledge Series II
+DESCRIPTION:Mozilla Knowledge Series continues and the next one will be on
+  I/O devices and Firefox . Series of presentations on different topics whi
+ ch will target kids . In addition to this\, the series will also comprise 
+ of the following topics: Security and privacy on the Net\, Firefox\, webma
+ king\, web literacy\, coding and other topics that are related to Connecte
+ d Devices.
+URL:https://reps.mozilla.org/e/mozilla-knowledge-series-ii/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1562244851
+X-COORDINATES-LON:57.5746536185
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

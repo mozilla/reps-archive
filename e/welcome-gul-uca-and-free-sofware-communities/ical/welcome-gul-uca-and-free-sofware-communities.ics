@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7403
+CLASS:PUBLIC
+DTSTAMP:20200423T095930Z
+DTSTART:20180213T190000Z
+DTEND:20180213T210000Z
+LOCATION:Universidad Centroamericana UCA\, Managua\, Nicaragua
+SUMMARY:Welcome GUL-UCA and Free Sofware Communities
+DESCRIPTION:The activity consists in present to the new students of the Un
+ iversity in the different Free Sofware Communities more united of the coun
+ try and the other forms to collaborate in the same. One of the communities
+  to present will be mozilla. \nWe will talk about what is mozilla\, mision
+ \, vision and values\, and talk about the main projects for volunteers.
+URL:https://reps.mozilla.org/e/welcome-gul-uca-and-free-sofware-communitie
+ s/
+SEQUENCE:3
+X-COORDINATES-LAT:12.125592889
+X-COORDINATES-LON:-86.2701473222
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

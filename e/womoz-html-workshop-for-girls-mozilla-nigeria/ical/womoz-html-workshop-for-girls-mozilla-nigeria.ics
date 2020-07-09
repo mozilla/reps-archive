@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4132
+CLASS:PUBLIC
+DTSTAMP:20200423T164708Z
+DTSTART:20150902T080000Z
+DTEND:20150902T110000Z
+LOCATION:Wennovation Hub Ibadan\,Oyo State\, Ibadan\, Nigeria
+SUMMARY:Womoz :HTML WORKSHOP FOR GIRLS
+DESCRIPTION:The  aim is to give tools and a community for women to underst
+ and what Mozilla does as pertaining to the open web.\nWe do this by provid
+ ing a great experience on building things and by making technology more ap
+ proachable.\nLearning the Basic of HTML\,JavaScript and CSS.\nThe event wo
+ uld ensure the creation of local apps for use in the newly launched Firefo
+ x os devices in Nigeria to encourage uptake of the devices and developers 
+ into the marketplace
+URL:https://reps.mozilla.org/e/womoz-html-workshop-for-girls-mozilla-niger
+ ia/
+SEQUENCE:12
+X-COORDINATES-LAT:7.3777847327
+X-COORDINATES-LON:3.908172
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

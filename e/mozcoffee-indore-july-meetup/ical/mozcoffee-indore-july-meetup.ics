@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5756
+CLASS:PUBLIC
+DTSTAMP:20200423T150345Z
+DTSTART:20160819T113000Z
+DTEND:20160819T133000Z
+LOCATION:Chai Bar\, Indore\, India
+SUMMARY:Mozcoffee Indore - July Meetup
+DESCRIPTION:Monthly Mozilla Indore meet up with mozillians and Reps \nAgen
+ da: \n1.onboardind new mozillians \n2.discussion on upcoming community Ind
+ ia meet up \n3.taking inputs from local mozillians \n4. Updates regarding 
+ upcoming events with Mozilla Indore
+URL:https://reps.mozilla.org/e/mozcoffee-indore-july-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:22.7195687
+X-COORDINATES-LON:75.8577258
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

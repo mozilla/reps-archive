@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6598
+CLASS:PUBLIC
+DTSTAMP:20200423T110917Z
+DTSTART:20170515T170000Z
+DTEND:20170515T200000Z
+LOCATION:Liip\, Limmatstrasse 188\, Zürich\, Zurich\, Switzerland
+SUMMARY:Rust two years anniversary
+DESCRIPTION:Two years ago\, the Rust 1.0 release marked the beginning of R
+ ust as a mature language. Let&#39;s meet and celebrate this anniversary at Lii
+ p in Zurich. We will split up into two workshop groups.
+URL:https://reps.mozilla.org/e/rust-two-years-anniversary/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3861682788
+X-COORDINATES-LON:8.52930164328
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

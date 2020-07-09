@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2455
+CLASS:PUBLIC
+DTSTAMP:20200407T181519Z
+DTSTART:20140815T150000Z
+DTEND:20140818T150000Z
+LOCATION:Avenida Professor Vicente Querino\, 900\, Jaboticabal\, Brazil
+SUMMARY:I Hackathon CTA UNESP
+DESCRIPTION:The UNESP CTA with Agência Daksa and Mozilla Brazil will do t
+ he first Hackathon specific for game dev in region of Jaboticabal - São P
+ aulo/BR. The participants should develop HTML5 games for web platforms lik
+ e Firefox OS. The event will have too some talks with mozillians to add ne
+ w volunteers in our community and teach more about the open web and the fr
+ ee development
+URL:https://reps.mozilla.org/e/i-hackathon-cta-unesp/
+SEQUENCE:5
+X-COORDINATES-LAT:-20.2675468674
+X-COORDINATES-LON:-50.2589424849
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

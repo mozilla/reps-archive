@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@336
+CLASS:PUBLIC
+DTSTAMP:20200423T224448Z
+DTSTART:20121123T230000Z
+DTEND:20121124T010000Z
+LOCATION:Sucre street\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Popcorn Workshop
+DESCRIPTION:This is a part of a workshop named &#34;The New Techonolgies&#34; on t
+ he Tourism Deparment of the Local Goberment. The Popcorn workshop will hel
+ p to promote the tourism destinations of Santa Cruz\, Bolivia.
+URL:https://reps.mozilla.org/e/popcorn-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.7841401997
+X-COORDINATES-LON:-63.1770408154
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8098
+CLASS:PUBLIC
+DTSTAMP:20200423T090047Z
+DTSTART:20180928T103000Z
+DTEND:20180929T103000Z
+LOCATION:Shri Govindram Seksaria Institute of Technology and Science\, Ind
+ ore\, India
+SUMMARY:Hack Indore
+DESCRIPTION:A hackathon is a software development sprint in which computer
+  programmers and others involved in software development\, including desig
+ ners and software architects collaborate intensively on software projects.
+  #include\, official technical club of Information Technology Department i
+ s planning to organize an intercollege hackathon #HackIndore that aims to 
+ provide software solutions to various academic departments of the institut
+ ion as well to some industries and companies.
+URL:https://reps.mozilla.org/e/hack-indore/
+SEQUENCE:3
+X-COORDINATES-LAT:22.9734229
+X-COORDINATES-LON:78.6568942
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

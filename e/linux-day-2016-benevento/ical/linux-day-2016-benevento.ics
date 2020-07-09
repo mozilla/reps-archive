@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5975
+CLASS:PUBLIC
+DTSTAMP:20200423T115108Z
+DTSTART:20161022T080000Z
+DTEND:20161022T170000Z
+LOCATION:Istituto Tecnico Industriale &#34;G.B. Bosco Lucarelli&#34; Benevento\, B
+ enevento\, Italy
+SUMMARY:Linux Day 2016 Benevento
+DESCRIPTION:Linux day is an event that spreads across all Italy with the g
+ oal to promote Linux and FLOSS in general in the country. It&#39;s organised b
+ y groups of volunteer and sees the participation of hacker\, IT people and
+  curious citizens that want to enter the Open Source world.
+URL:https://reps.mozilla.org/e/linux-day-2016-benevento/
+SEQUENCE:1
+X-COORDINATES-LAT:41.1303035661
+X-COORDINATES-LON:14.7850799526
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

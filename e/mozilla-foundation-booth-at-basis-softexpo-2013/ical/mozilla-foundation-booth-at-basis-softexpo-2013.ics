@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@556
+CLASS:PUBLIC
+DTSTAMP:20200407T174831Z
+DTSTART:20140604T040000Z
+DTEND:20140607T140000Z
+LOCATION:Bangabandhu International Conference Center.\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Foundation booth at BASIS Digital World 2014
+DESCRIPTION:ICT Division\, Ministry of Posts\, Telecommunications and Info
+ rmation Technology of the Govt. of the People’s Republic of Bangladesh a
+ nd Association of Software and Information Services (BASIS)\, the national
+  trade body for Software &amp; IT Enabled Services industry of Bangladesh is j
+ ointly organizing this mega exposition &amp; conference ‘Digital World 2014
+ ’ at the Bangabandhu International Conference Center (BICC). \n\nMozilla
+  Foundation will have a booth in this expo
+URL:https://reps.mozilla.org/e/mozilla-foundation-booth-at-basis-softexpo-
+ 2013/
+SEQUENCE:6
+X-COORDINATES-LAT:23.769714312
+X-COORDINATES-LON:90.3815174103
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

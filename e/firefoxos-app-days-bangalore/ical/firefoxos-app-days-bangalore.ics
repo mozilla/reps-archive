@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1241
+CLASS:PUBLIC
+DTSTAMP:20200423T205959Z
+DTSTART:20131018T230000Z
+DTEND:20131019T100000Z
+LOCATION:MS Ramaiah Institute Of Technology\, Bangalore\, India
+SUMMARY:FirefoxOS App Days Bangalore
+DESCRIPTION:Developers gathering to hack around FirefoxOS\, Web Apps\, Web
+  APIs.\n\nIntroductory presentation for Firefox OS\, Marketplace\, Technic
+ al overview\, Technical presentations on: Firefox OS Simulator\, Developer
+  Tools\, Web APIs\, Web Apps templates\, App Hackathon
+URL:https://reps.mozilla.org/e/firefoxos-app-days-bangalore/
+SEQUENCE:7
+X-COORDINATES-LAT:13.030889
+X-COORDINATES-LON:77.565149
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

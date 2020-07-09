@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6125
+CLASS:PUBLIC
+DTSTAMP:20200423T111134Z
+DTSTART:20170505T210000Z
+DTEND:20170506T223000Z
+LOCATION:Casa do Povo - Rua Três Rios\, 252 - Bom Retiro - São Paulo\, S
+ ao Paulo\, Brazil
+SUMMARY:Internet Health Report @CryptoRave 2017
+DESCRIPTION:CryptoRave is the biggest open and free event of its kind in t
+ he world. The last edition attracted more than 3000 people (!!!): hackers\
+ , activists and cypherpunks from different parts of the world and people i
+ nterested in learning more about safety practices and personal data protec
+ tion.
+URL:https://reps.mozilla.org/e/cryptorave-2017-1/
+SEQUENCE:15
+X-COORDINATES-LAT:-23.54153699
+X-COORDINATES-LON:-46.6467589885
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

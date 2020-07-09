@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5022
+CLASS:PUBLIC
+DTSTAMP:20200423T161636Z
+DTSTART:20151111T090000Z
+DTEND:20151111T120000Z
+LOCATION:Khulna University of Engineering and Technology\, Khulna\, Bangla
+ desh
+SUMMARY:Mozilla Awareness Program @ Khulna University of Engineering and T
+ echnology
+DESCRIPTION:A event organized by Mozilla Bangladesh and Khulna University 
+ of Engineering and Technology\, to aware the university students about Moz
+ illa&#39;s mission\, contribution opportunity and show users\, how they can us
+ e Firefox as default browser on windows 10!
+URL:https://reps.mozilla.org/e/mozilla-awareness-program-khulna-university
+ -of-engineering-and-technology/
+SEQUENCE:1
+X-COORDINATES-LAT:22.8983287197
+X-COORDINATES-LON:89.50229818
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

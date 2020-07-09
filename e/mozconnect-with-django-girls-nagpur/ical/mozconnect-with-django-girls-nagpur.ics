@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6074
+CLASS:PUBLIC
+DTSTAMP:20200423T113421Z
+DTSTART:20170122T033000Z
+DTEND:20170122T113000Z
+LOCATION:THE CHAOS THEORY\, 3rd Floor\, Sadoday Arcade\, West High Court R
+ oad\, Dharampeth\, 440010\,Nagpur.\, Nagpur\, India
+SUMMARY:MozConnect with Django Girls Nagpur
+DESCRIPTION:Django Girls Nagpur is a part of bigger initiative: Django Gir
+ ls. It is a non-profit organization and events are organized by volunteers
+  in different places of the world. This is the first time Mozilla will par
+ ticipate with them to get some women contributors in Mozilla ecosystem.
+URL:https://reps.mozilla.org/e/mozconnect-with-django-girls-nagpur/
+SEQUENCE:2
+X-COORDINATES-LAT:21.0400735097
+X-COORDINATES-LON:78.9008796215
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

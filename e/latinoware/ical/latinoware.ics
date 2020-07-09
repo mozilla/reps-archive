@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@101
+CLASS:PUBLIC
+DTSTAMP:20200407T174839Z
+DTSTART:20121017T150000Z
+DTEND:20121019T150000Z
+LOCATION:Parque Tecnológico de Itaipú - PTI\, Fóz do Iguaçu\, Brazil
+SUMMARY:Latinoware 2012
+DESCRIPTION:Latinoware 2012 will take place in the Itaipu Technological Pa
+ rk (PTI)\, located in the premises of Itaipu Bi-National.\n\nPlanning: htt
+ ps://wiki.mozilla.org/BrazilianEvents:2012/Latinoware:2012
+URL:https://reps.mozilla.org/e/latinoware/
+SEQUENCE:0
+X-COORDINATES-LAT:-25.4197104652
+X-COORDINATES-LON:-54.5872879028
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

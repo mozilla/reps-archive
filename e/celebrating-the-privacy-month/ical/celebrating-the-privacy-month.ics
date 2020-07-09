@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4940
+CLASS:PUBLIC
+DTSTAMP:20200407T182314Z
+DTSTART:20160113T093000Z
+DTEND:20160113T103000Z
+LOCATION:Cummins College of Engineering for Women\, Pune\, Pune\, India
+SUMMARY:Celebrating the privacy month
+DESCRIPTION:This is a part of Mozilla Pune&#39;s initiative of celebrating the
+  privacy month. This event is to make women aware of the importance of pri
+ vacy on the Internet and we will also explain how Mozilla protects them fo
+ r the same.
+URL:https://reps.mozilla.org/e/celebrating-the-privacy-month/
+SEQUENCE:4
+X-COORDINATES-LAT:18.5101710304
+X-COORDINATES-LON:73.8859862834
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

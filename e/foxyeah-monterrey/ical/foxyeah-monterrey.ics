@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4053
+CLASS:PUBLIC
+DTSTAMP:20200423T170845Z
+DTSTART:20150627T150000Z
+DTEND:20150627T170000Z
+LOCATION:Punto México Conectado Nuevo León\, Monterrey\, Mexico
+SUMMARY:#FoxYeah Monterrey
+DESCRIPTION:Monterrey community event for the Firefox spring campaign
+URL:https://reps.mozilla.org/e/foxyeah-monterrey/
+SEQUENCE:0
+X-COORDINATES-LAT:25.7181430547
+X-COORDINATES-LON:-100.339633942
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

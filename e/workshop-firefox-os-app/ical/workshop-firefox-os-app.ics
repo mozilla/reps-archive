@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@557
+CLASS:PUBLIC
+DTSTAMP:20200423T220619Z
+DTSTART:20130225T130000Z
+DTEND:20130226T210000Z
+LOCATION:Avenida Bush\, 2do Anillo\, Santa Cruz\, Bolivia
+SUMMARY:Workshop Firefox OS App
+DESCRIPTION:Workshop for developing applications in HTML5 and CSS3 for Fir
+ efox OS\, this will be at the University Gabriel René Moreno\, the larges
+ t in Bolivia.
+URL:https://reps.mozilla.org/e/workshop-firefox-os-app/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.7735968242
+X-COORDINATES-LON:-63.1944537163
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

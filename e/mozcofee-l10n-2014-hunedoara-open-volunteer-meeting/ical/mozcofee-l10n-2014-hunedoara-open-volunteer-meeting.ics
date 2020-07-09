@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1897
+CLASS:PUBLIC
+DTSTAMP:20200407T175437Z
+DTSTART:20140315T163000Z
+DTEND:20140315T190000Z
+LOCATION:Restaurant Bulevard\, Hunedoara\, Romania
+SUMMARY:MozCofee L10n 2014 Hunedoara - Open Volunteer Meeting
+DESCRIPTION:On the occasion of the new Firefox 28 official release we will
+  organize the second MozCoffee and L10n sprint held in Hunedoara to celebr
+ ate and promote volunteering for Mozilla and L10n activity. The event is o
+ pened to anyone interested joining and learning about volunteers and Mozil
+ la. The event will consist of demonstrations and talks on Firefox\, Firefo
+ x OS and localization procedures.
+URL:https://reps.mozilla.org/e/mozcofee-l10n-2014-hunedoara-open-volunteer
+ -meeting/
+SEQUENCE:16
+X-COORDINATES-LAT:45.7568344465
+X-COORDINATES-LON:22.9008892178
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2526
+CLASS:PUBLIC
+DTSTAMP:20200423T192102Z
+DTSTART:20140731T120000Z
+DTEND:20140731T230000Z
+LOCATION:Rua Montenegro\, 403 - Microcamp Guarujá\, Guaruja\, Brazil
+SUMMARY:Maker Party Week 3rd day
+DESCRIPTION:A great opportunity to share knowledge and to learn about the 
+ web\, privacy and freedom. The plan is to do a full week of Maker Party at
+  São Paulo state.
+URL:https://reps.mozilla.org/e/maker-party-week-3rd-day-1-3/
+SEQUENCE:5
+X-COORDINATES-LAT:-23.9932030783
+X-COORDINATES-LON:-46.2584685087
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

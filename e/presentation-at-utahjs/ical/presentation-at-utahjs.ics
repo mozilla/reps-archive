@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6762
+CLASS:PUBLIC
+DTSTAMP:20200423T105553Z
+DTSTART:20170707T010000Z
+DTEND:20170707T020000Z
+LOCATION:Jane.com\, 3401 n thanksgiving way\, suite 300\, Lehi\, United St
+ ates
+SUMMARY:Presentation at UtahJS
+DESCRIPTION:I&#39;m presenting on how to build your own Firefox web extension.
+URL:https://reps.mozilla.org/e/presentation-at-utahjs/
+SEQUENCE:1
+X-COORDINATES-LAT:40.429721
+X-COORDINATES-LON:-111.8920836
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

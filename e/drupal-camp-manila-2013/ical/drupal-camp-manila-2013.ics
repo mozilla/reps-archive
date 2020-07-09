@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@491
+CLASS:PUBLIC
+DTSTAMP:20200423T220916Z
+DTSTART:20130216T010000Z
+DTEND:20130216T100000Z
+LOCATION:Microsoft 8F 6750 Ayala Office Tower\, Ayala Avenue Makati City\,
+  Makati City\, Philippines
+SUMMARY: Drupal Camp Manila 2013
+DESCRIPTION:DrupalCamp Manila is an annual conference organized by the Phi
+ lippine Drupal User Group (PHDUG).
+URL:https://reps.mozilla.org/e/drupal-camp-manila-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:14.55314
+X-COORDINATES-LON:121.02554
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

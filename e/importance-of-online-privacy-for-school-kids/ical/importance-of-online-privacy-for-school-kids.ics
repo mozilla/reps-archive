@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7940
+CLASS:PUBLIC
+DTSTAMP:20200423T092019Z
+DTSTART:20180628T053000Z
+DTEND:20180628T073000Z
+LOCATION:Ashoknagar\, Satpur Colony\, Nashik\, Maharashtra\, Nashik\, Indi
+ a
+SUMMARY:Importance of Online Privacy for School Kids
+DESCRIPTION:Use of digital devices is spreading like wild fire among schoo
+ l going kids. Along with playful entertainment\, they also provide a platf
+ orm to learn new things. But with online presence\, come all the threats o
+ f Tracking and Dark Side of the Web. This was a seminar to school going ki
+ ds on how they can be secure on the net and surf privately\, with as minim
+ um tracking as possible.
+URL:https://reps.mozilla.org/e/importance-of-online-privacy-for-school-kid
+ s/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0007668362
+X-COORDINATES-LON:73.7385892851
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

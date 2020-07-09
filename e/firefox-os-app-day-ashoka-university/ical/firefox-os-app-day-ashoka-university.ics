@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4925
+CLASS:PUBLIC
+DTSTAMP:20200407T174247Z
+DTSTART:20160505T033000Z
+DTEND:20160505T123000Z
+LOCATION:Ashoka University\, Delhi\, India
+SUMMARY:Firefox OS Bug Bash- Ashoka University
+DESCRIPTION:The Bug bash at Ashoka aims to bring more contributors into Mo
+ zilla focusing more on the Firefox OS 2.5 Developer Preview
+URL:https://reps.mozilla.org/e/firefox-os-app-day-ashoka-university/
+SEQUENCE:6
+X-COORDINATES-LAT:28.9464357
+X-COORDINATES-LON:77.0982247
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

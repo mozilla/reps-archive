@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@543
+CLASS:PUBLIC
+DTSTAMP:20200407T180020Z
+DTSTART:20130209T020000Z
+DTEND:20130209T060000Z
+LOCATION:Figaro Cafe SM City Santa Rosa\, City of Santa Rosa\, Philippines
+SUMMARY:Because Webmaking Starts in the Family  (Kitchen Table)
+DESCRIPTION:There is no short leadtime when organizing a webmaking event e
+ specially when you&#39;re teaching family members.\n\nToday\, three of my niec
+ es will experience for the first time how the web works and how they can m
+ ake something on the web using the tools provided by Mozilla.\n\nI persona
+ lly believe that webmaking starts in the family.\n\nThis activity shall al
+ so be in relation to the GenOpen project http://www\,genopen.org
+URL:https://reps.mozilla.org/e/because-webmaking-starts-in-the-family-kitc
+ hen-table/
+SEQUENCE:0
+X-COORDINATES-LAT:14.3131238979
+X-COORDINATES-LON:121.098647118
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

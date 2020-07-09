@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5164
+CLASS:PUBLIC
+DTSTAMP:20200407T181602Z
+DTSTART:20160401T090000Z
+DTEND:20160401T120000Z
+LOCATION:UNI Esteli\, Estelí\, Nicaragua
+SUMMARY:Mozilla Esteli First MozClub
+DESCRIPTION:The first event of mozilla in Esteli city. Esteli is a Nicarag
+ uan town located 147 km from the capital Managua and 110 km from the borde
+ r of El Espino\, and also is the closest town to Honduras border point. It
+  connects through the PanAmerican Highway to the west and northern Nicarag
+ ua. This will be the first mozilla event to organize a club that will join
+  to the mozilla community.
+URL:https://reps.mozilla.org/e/mozilla-estel-first-mozclub/
+SEQUENCE:6
+X-COORDINATES-LAT:13.1013171105
+X-COORDINATES-LON:-86.3519418244
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2064
+CLASS:PUBLIC
+DTSTAMP:20200423T215440Z
+DTSTART:20130410T010000Z
+DTEND:20130411T170000Z
+LOCATION:División de Ciencias Economico-Administrativas. UG. Fraccionamie
+ nto 1\, Col. El Establo S/N\; C.P. 36250\, Guanajuato\, Mexico
+SUMMARY:Firefox OS in Guanajuato: Building your fisrt app (1st edition)
+DESCRIPTION:I&#39;m going to have a workshop/hackathon with a gruop of Informa
+ tics\, Engineering\, Computer Science\, and Mathematics students.\n\nThe i
+ dea is to get them to build their first app for Firefox OS. It may be some
+ thing basic (like a game) or something complex\, depending on their skills
+ .
+URL:https://reps.mozilla.org/e/firefox-os-in-guanajuato-building-your-fisr
+ t-app-1st-edition/
+SEQUENCE:5
+X-COORDINATES-LAT:21.003025276
+X-COORDINATES-LON:-101.271695137
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

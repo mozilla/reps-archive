@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8275
+CLASS:PUBLIC
+DTSTAMP:20200423T085215Z
+DTSTART:20181112T150000Z
+DTEND:20181113T020000Z
+LOCATION:Hotel &amp; Spa Cantarranas House\, Tehuacán\, Mexico
+SUMMARY:XII Congress of Computer Systems Engineering
+DESCRIPTION:The Congress of Computer Systems Engineering is organized by t
+ he Technological Institute of Tehuacán\, a public university in Tehuacán
+ \, Puebla\, MX. It aims to give students an overview of trending and emerg
+ ing technologies\, and topics like entrepreneurship through conferences an
+ d workshops by experts of different fields.At this event I will talk about
+  How to Open Source a project and invite them to apply for next round of M
+ ozilla Open Leaders
+URL:https://reps.mozilla.org/e/xii-congress-of-computer-systems-engineerin
+ g/
+SEQUENCE:1
+X-COORDINATES-LAT:18.4808807
+X-COORDINATES-LON:-97.4024309
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

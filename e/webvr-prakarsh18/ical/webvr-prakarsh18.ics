@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7402
+CLASS:PUBLIC
+DTSTAMP:20200423T095802Z
+DTSTART:20180221T110000Z
+DTEND:20180222T160000Z
+LOCATION:Sardar Vallabhbhai Patel Institute of Technology\, SVIT Road\, Ra
+ jupura Village\, Vasad\, Anand\, Gujarat 388306\, Anand\, India
+SUMMARY:WebVR-Prakarsh18
+DESCRIPTION:This is the first time that Mozilla is going to be present in 
+ SVIT\, let alone Prakarsh. SVIT itself has a Campus Club but doesn&#39;t have 
+ enough members to go forth with this workshop. Volunteers from Baroda are 
+ going to help us out with this event and workshop.
+URL:https://reps.mozilla.org/e/webvr-prakarsh18/
+SEQUENCE:3
+X-COORDINATES-LAT:22.2984144896
+X-COORDINATES-LON:72.7144771814
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

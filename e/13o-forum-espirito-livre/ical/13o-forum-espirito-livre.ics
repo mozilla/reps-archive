@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5398
+CLASS:PUBLIC
+DTSTAMP:20200407T183702Z
+DTSTART:20160608T210000Z
+DTEND:20160610T230000Z
+LOCATION:IFES\, Santa Teresa\, Brazil
+SUMMARY:13º Fórum Espírito Livre
+DESCRIPTION:The 13th &#34;Espírito Livre&#34; forum it aims bring together the lo
+ cal community interested in development and application of free software a
+ nd open source. This way\, aims to share experiences and knowledge\, to st
+ imulate the use of free software\, technologies and open patterns\, the te
+ chnology improvement\, disseminations of sharing philosophy and collaborat
+ ive creation and collective.
+URL:https://reps.mozilla.org/e/13o-forum-espirito-livre/
+SEQUENCE:0
+X-COORDINATES-LAT:-19.9356352977
+X-COORDINATES-LON:-40.5982017526
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

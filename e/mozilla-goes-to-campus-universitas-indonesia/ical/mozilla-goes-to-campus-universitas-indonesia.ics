@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@246
+CLASS:PUBLIC
+DTSTAMP:20200423T223541Z
+DTSTART:20121214T070000Z
+DTEND:20121214T110000Z
+LOCATION:Hall of Faculty of Computer Science UI \, Depok\, Indonesia
+SUMMARY:Mozilla Goes to Campus (Universitas Indonesia)
+DESCRIPTION:Mozilla Indonesia Community (Artanto Ishaam &amp; Finan Akbar) wit
+ h Research and Technology Group Interest\, Faculty of Computer Science\, U
+ niversitas Indonesia will held &#34;HTML5 Workshop and Firefox OS Introduction
+ &#34;. Target of participant : 50 - 100 due to effectivity of workshop. 
+URL:https://reps.mozilla.org/e/mozilla-goes-to-campus-universitas-indonesi
+ a/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.36447731634
+X-COORDINATES-LON:106.828801632
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4193
+CLASS:PUBLIC
+DTSTAMP:20200423T171219Z
+DTSTART:20150619T023000Z
+DTEND:20150619T050000Z
+LOCATION:China Urumqi Nanhu Xudong Community\, wlmq\, China
+SUMMARY:MakerParty --Create and remix the web with free Webmaker tools.
+DESCRIPTION:X-Ray Goggles allow you to see the building blocks that make u
+ p websites on the internet. Activate the goggles to inspect the code behin
+ d any webpage\, then remix elements with a single click\, swapping in your
+  own text\, images and more.
+URL:https://reps.mozilla.org/e/makerparty-create-and-remix-the-web-with-fr
+ ee-webmaker-tools/
+SEQUENCE:0
+X-COORDINATES-LAT:43.8194058807
+X-COORDINATES-LON:2607.6069324
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

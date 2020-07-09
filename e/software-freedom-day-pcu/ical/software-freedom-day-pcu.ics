@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3176
+CLASS:PUBLIC
+DTSTAMP:20200423T182052Z
+DTSTART:20141205T050000Z
+DTEND:20141205T100000Z
+LOCATION:Philippine Christian University\, Ermita\, Philippines
+SUMMARY:Software Freedom Day PCU
+DESCRIPTION:SFD is a worldwide celebration of Free and Open Source Softwar
+ e (FOSS). Our goal in this celebration is to educate the worldwide public 
+ about the benefits of using high quality FOSS in education\, in government
+ \, at home\, &amp; in business\, everywhere! The non-profit organization Softw
+ are Freedom International coordinates SFD at a global level\, providing su
+ pport\, giveaways and a point of collaboration\, but volunteer teams aroun
+ d the world organize the local SFD events to impact their own communities.
+URL:https://reps.mozilla.org/e/software-freedom-day-pcu/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5723477162
+X-COORDINATES-LON:120.990999699
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7852
+CLASS:PUBLIC
+DTSTAMP:20200423T092648Z
+DTSTART:20180603T103000Z
+DTEND:20180603T123000Z
+LOCATION:Sai Baba Nilayam\, Hyderabad\, India
+SUMMARY:Firefox Support Sprint  - Hyderabad
+DESCRIPTION:As a part of new Support Sprint tool launch \, a beta tool tha
+ t will enable Mozillians like you to reply to reviews of Firefox for Andro
+ id in your own language. We’ll be testing this tool through the Firefox 
+ Support Sprint\, a Sprint for all Mozillians that want to help Firefox for
+  Android users in their language.
+URL:https://reps.mozilla.org/e/firefox-support-sprint-hyderabad/
+SEQUENCE:1
+X-COORDINATES-LAT:17.5098043142
+X-COORDINATES-LON:78.3036231925
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

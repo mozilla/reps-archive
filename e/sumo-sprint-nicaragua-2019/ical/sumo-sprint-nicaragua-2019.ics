@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8905
+CLASS:PUBLIC
+DTSTAMP:20200407T170339Z
+DTSTART:20191027T160000Z
+DTEND:20191027T200000Z
+LOCATION:managua\, mirador de san judas\, Managua\, Nicaragua
+SUMMARY:SUMO Sprint Nicaragua 2019
+DESCRIPTION:In this event we do not gather a member of the local community
+  to answer some questions and solve some problems that people have about a
+  new version of firefox.
+URL:https://reps.mozilla.org/e/sumo-sprint-nicaragua-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:12.0787150458
+X-COORDINATES-LON:-86.2236320972
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

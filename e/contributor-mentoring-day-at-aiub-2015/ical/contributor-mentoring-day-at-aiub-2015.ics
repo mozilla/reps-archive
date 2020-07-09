@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4724
+CLASS:PUBLIC
+DTSTAMP:20200423T160457Z
+DTSTART:20151210T050000Z
+DTEND:20151210T090000Z
+LOCATION:AIUB\, Dhaka\, Bangladesh\, Banani Model Town\, Bangladesh
+SUMMARY:Contributor Mentoring Day at AIUB 2k15
+DESCRIPTION:Firefox at AIUB is one of the most active club in Bangladesh. 
+ Every particular time contributor mentoring day being held to make the con
+ tributor more active in contributing as well as well knowledgeable about M
+ ozilla&#39;s missions &amp; vision\, Firefox browser\, Firefox OS\, Webmaker\, QA 
+ and so on. By this event new contributor get chance to decide their contri
+ buting path and also can able to meet with everyone in the club as well as
+  share their thoughts to explore Mozilla&#39;s mission to everyone.
+URL:https://reps.mozilla.org/e/contributor-mentoring-day-at-aiub-2015/
+SEQUENCE:8
+X-COORDINATES-LAT:23.7946611314
+X-COORDINATES-LON:90.4058043658
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7948
+CLASS:PUBLIC
+DTSTAMP:20200407T171652Z
+DTSTART:20180929T123000Z
+DTEND:20180930T003000Z
+LOCATION:Radharaman Group of Institutes\, Bhopal\, India
+SUMMARY:Moz Hack Night
+DESCRIPTION:Moz Hack Night is an initiative by Mozilla Phoenix Club RGI. I
+ t is an opportunity for students to contribute to Mozilla Projects. It is 
+ a 12 hours hackathon which focuses on involving more student developers in
+  the Open Source World. Projects range in platform and application\, inclu
+ ding elements of web development\, mobile applications\, and many others. 
+ Students work for around 12 hours on a programming project under the guida
+ nce of various Mentors on 29th September 2018.
+URL:https://reps.mozilla.org/e/moz-hack-night/
+SEQUENCE:4
+X-COORDINATES-LAT:23.1790804461
+X-COORDINATES-LON:77.0104975998
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

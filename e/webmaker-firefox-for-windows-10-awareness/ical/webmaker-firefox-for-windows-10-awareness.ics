@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4486
+CLASS:PUBLIC
+DTSTAMP:20200423T164149Z
+DTSTART:20150915T063000Z
+DTEND:20150915T103000Z
+LOCATION:Modern Education Society&#39;s College of Engineering\, Pune\, Pune\,
+  India
+SUMMARY:Webmaker + Firefox for Windows 10 awareness
+DESCRIPTION:This event is the first event in Modern College Pune. It is ac
+ tually an event on Webmaker and teaching the web\, after which they will b
+ e told about Firefox for Windows 10.
+URL:https://reps.mozilla.org/e/webmaker-firefox-for-windows-10-awareness/
+SEQUENCE:0
+X-COORDINATES-LAT:18.5108657091
+X-COORDINATES-LON:73.8562774658
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

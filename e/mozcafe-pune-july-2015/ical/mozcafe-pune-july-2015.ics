@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4138
+CLASS:PUBLIC
+DTSTAMP:20200423T170451Z
+DTSTART:20150709T133000Z
+DTEND:20150709T150000Z
+LOCATION:Cafe Coffee Day\, Koregaon Park\, Pune\, Pune\, India
+SUMMARY:MozCafe Pune (July 2015)
+DESCRIPTION:Agenda :\n- Whistler Work Week updates\n- Mozilla Pune&#39;s upcom
+ ing events
+URL:https://reps.mozilla.org/e/mozcafe-pune-july-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5390108057
+X-COORDINATES-LON:73.8884868618
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

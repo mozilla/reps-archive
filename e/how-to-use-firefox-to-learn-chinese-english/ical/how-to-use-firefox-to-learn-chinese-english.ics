@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5355
+CLASS:PUBLIC
+DTSTAMP:20200423T153349Z
+DTSTART:20160415T073000Z
+DTEND:20160415T090000Z
+LOCATION:Urumqi 126 Primary school\, Urumqi\, China
+SUMMARY:How to use Firefox to learn Chinese\, English
+DESCRIPTION:Learning HTML ，seamonkey
+URL:https://reps.mozilla.org/e/how-to-use-firefox-to-learn-chinese-english
+ /
+SEQUENCE:2
+X-COORDINATES-LAT:43.7576567803
+X-COORDINATES-LON:2607.62819481
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3186
+CLASS:PUBLIC
+DTSTAMP:20200423T181605Z
+DTSTART:20141219T153000Z
+DTEND:20141221T153000Z
+LOCATION:Bombay Exhibition Center\, Mumbai\, India
+SUMMARY:Comic con webmaking
+DESCRIPTION:The comic con gets about 35\,000 + people maybe up to 50K in 3
+  days.\nSo mozilla can demonstrate the webmaker tools and spread them to h
+ uge crowd \n\nAgenda:\n1) Teach Webmaker Thimble to the crowd. ie Editing 
+ movie posters \n2) Attendees can bring their comic book art and/or photos 
+ and we can make an animated film with Webmaker Popcorn Maker and other too
+ ls at the Mumbai Comic Con.
+URL:https://reps.mozilla.org/e/comic-con-webmaking/
+SEQUENCE:5
+X-COORDINATES-LAT:20.0062828055
+X-COORDINATES-LON:73.7617739436
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

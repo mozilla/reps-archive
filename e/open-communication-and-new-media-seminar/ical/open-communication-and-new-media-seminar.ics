@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5280
+CLASS:PUBLIC
+DTSTAMP:20200407T182126Z
+DTSTART:20160516T210000Z
+DTEND:20160516T230000Z
+LOCATION:Universidad del Claustro de Sor Juana\, Mexico City\, Mexico
+SUMMARY:Open Communication and New Media Seminar
+DESCRIPTION:Talk: Security\, Privacy and Internet surveillance.
+URL:https://reps.mozilla.org/e/open-communication-and-new-media-seminar/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4265483267
+X-COORDINATES-LON:-99.1363627911
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6446
+CLASS:PUBLIC
+DTSTAMP:20200423T112350Z
+DTSTART:20170315T043000Z
+DTEND:20170315T073000Z
+LOCATION:R.H. Sapat collage of Engineering Management Studies and Research
+ \, Nashik\, Nashik\, India
+SUMMARY:GESCOE Club Inauguration\, Nashik
+DESCRIPTION:Agenda - \n1. Introduction to Clubs and Inauguration\n2. F.O.S
+ .S and Mozilla Workflow\n3. Repositories &amp; Github \n4. M-D-N with Mozilla 
+ \n5. Hands On -Moz-VR \n6. A-Frame (Creating VR-Projects)\n7. Rust
+URL:https://reps.mozilla.org/e/gescoe-club-inauguration-nashik/
+SEQUENCE:1
+X-COORDINATES-LAT:20.006244497
+X-COORDINATES-LON:73.7645816768
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

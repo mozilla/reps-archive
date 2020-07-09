@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@68
+CLASS:PUBLIC
+DTSTAMP:20200423T230531Z
+DTSTART:20120901T060000Z
+DTEND:20120902T160000Z
+LOCATION:Place de l&#39;ancien marché aux chevaux\, Lille\, France
+SUMMARY:Braderie de Lille 2012
+DESCRIPTION:Each year\, the local LUG in Lille (Northern France) sets up a
+  small &#34;free software village&#34; inside the Braderie de Lille\, a gigantic f
+ lea market occupying the whole city center during the first weekend of sep
+ tember. More than two million people are expected to visit the braderie.\n
+ \nOther attendees include Ubuntu-fr\, FSF Europe\, Wikimedia France\, and 
+ more. A local volunteer presence for Mozilla was there in 2008\, 2009 and 
+ 2011. 
+URL:https://reps.mozilla.org/e/braderie-de-lille-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:50.6326240369
+X-COORDINATES-LON:3.06318461895
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1605
+CLASS:PUBLIC
+DTSTAMP:20200407T180436Z
+DTSTART:20131130T120000Z
+DTEND:20131130T130000Z
+LOCATION:INSAT\, Tunis\, Tunisia
+SUMMARY:Initation à FirefoxOS - INSAT
+DESCRIPTION:Netlinks\, a very known university club invited Mozilla Tunisi
+ a for a talk to introduce FirefoxOS to students.\nThere will be a coding s
+ ession to introduce attendees to the tools and techniques needed to make a
+  FirefoxOS App from the &lt;!doctype HTML&gt; to the submission to the marketpla
+ ce.
+URL:https://reps.mozilla.org/e/initation-a-firefoxos-insat/
+SEQUENCE:2
+X-COORDINATES-LAT:36.8429810854
+X-COORDINATES-LON:10.1963353148
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

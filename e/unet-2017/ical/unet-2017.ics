@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6520
+CLASS:PUBLIC
+DTSTAMP:20200423T103214Z
+DTSTART:20171003T133000Z
+DTEND:20171006T213000Z
+LOCATION:Universidad Central de Venezuela\, Baruta\, Venezuela
+SUMMARY:UNET 2017
+DESCRIPTION:Students of the National Experimental University of Tachira (U
+ NET) organize this event for the exchange of knowledge and innovation in t
+ he area of Computer Science.
+URL:https://reps.mozilla.org/e/unet-2017/
+SEQUENCE:0
+X-COORDINATES-LAT:10.4902523462
+X-COORDINATES-LON:-66.8914575584
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2572
+CLASS:PUBLIC
+DTSTAMP:20200407T174451Z
+DTSTART:20140717T230000Z
+DTEND:20140718T013000Z
+LOCATION:Mozilla San Francisco Space - 2 Harrison St\, San Francisco\, Uni
+ ted States
+SUMMARY:Maker Party San Francisco
+DESCRIPTION:This week\, Maker Party events in places like Uganda\, Taiwan\
+ , San Francisco and Mauritius mark the start of tens of thousands of educa
+ tors\, organizations and enthusiastic web users just like you getting toge
+ ther to teach and learn the  web.
+URL:https://reps.mozilla.org/e/maker-party-san-francisco/
+SEQUENCE:5
+X-COORDINATES-LAT:37.7895043977
+X-COORDINATES-LON:-122.388928414
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

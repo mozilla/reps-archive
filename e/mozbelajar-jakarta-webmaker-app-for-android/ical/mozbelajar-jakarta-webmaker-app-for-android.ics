@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4273
+CLASS:PUBLIC
+DTSTAMP:20200407T165858Z
+DTSTART:20150815T030000Z
+DTEND:20150815T090000Z
+LOCATION:Jakarta Digital Valley\, Jakarta\, Indonesia
+SUMMARY:#MozBelajar Jakarta : Webmaker App for Android
+DESCRIPTION:The Webmaker team and the Participation team will be organizin
+ g a series of interactive events to celebrate the official launch of the W
+ ebmaker app\, across 5 major cities in Indonesia: Jakarta\, Bandung\, Sura
+ baya\, Semarang\, Makassar. \n\nThere will be Webmaker App downloading ses
+ sion and hands on workshop in making projects using the app. This event is
+  organized by Mozilla Indonesia
+URL:https://reps.mozilla.org/e/mozbelajar-jakarta-webmaker-app-for-android
+ /
+SEQUENCE:0
+X-COORDINATES-LAT:-6.18239109308
+X-COORDINATES-LON:106.830268621
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

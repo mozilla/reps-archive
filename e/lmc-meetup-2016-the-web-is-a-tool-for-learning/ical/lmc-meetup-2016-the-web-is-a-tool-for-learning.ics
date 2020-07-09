@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5422
+CLASS:PUBLIC
+DTSTAMP:20200423T152442Z
+DTSTART:20160520T130000Z
+DTEND:20160520T140000Z
+LOCATION:EMEF Padre Leão Vallerié\, Campinas\, Brazil
+SUMMARY:LMC Meetup 2016: The Web Is a Tool for Learning
+DESCRIPTION:Learners will use Web-native instructions to make a meme or bu
+ ild a maker project in real life\, learning navigating\, remixing\, and sh
+ aring.
+URL:https://reps.mozilla.org/e/lmc-meetup-2016-the-web-is-a-tool-for-learn
+ ing/
+SEQUENCE:3
+X-COORDINATES-LAT:-22.8810846451
+X-COORDINATES-LON:-47.0516595826
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1684
+CLASS:PUBLIC
+DTSTAMP:20200407T180010Z
+DTSTART:20140128T013000Z
+DTEND:20140128T033000Z
+LOCATION:C Building\, Telkom Engineering School\, Telkom University\, Band
+ ung\, Indonesia
+SUMMARY:Fun With Mozilla Webmaker\, EOC II Telkom University
+DESCRIPTION:EOC or better known as the Extra Ordinary Class is an event th
+ at utilizes productive leisure as a means for students to learn from indus
+ trial engineering faculty (*Information Systems and Industrial Engineering
+ ) at Telkom University.\nThis event will have various classes\, and a webm
+ aker class by Firefox (Club) Telkom University will be one of those.
+URL:https://reps.mozilla.org/e/fun-with-mozilla-webmaker-eoc-ii-telkom-uni
+ versity/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.97572647885
+X-COORDINATES-LON:107.631406903
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

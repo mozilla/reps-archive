@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5181
+CLASS:PUBLIC
+DTSTAMP:20200407T174319Z
+DTSTART:20151128T050000Z
+DTEND:20151128T090000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:MozillaPH Strategic Planning for 2016 Part 2
+DESCRIPTION:The Mozilla Philippines Community (MozillaPH) invites all Mozi
+ llians based in the Philippines to help us shape the future of the organiz
+ ation. This two-day community planning event will be led by the leadership
+  of MozillaPH and members of the Mozilla Participation Team. \n\nThis is t
+ he 2nd part of the planning\, a follow-up of the first one here: https://r
+ eps.mozilla.org/e/mozillaph-strategic-planning-for-2016/
+URL:https://reps.mozilla.org/e/mozillaph-strategic-planning-for-2016-part-
+ 2/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5475915929
+X-COORDINATES-LON:121.015406728
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

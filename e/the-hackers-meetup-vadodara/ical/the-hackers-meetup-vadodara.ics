@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9096
+CLASS:PUBLIC
+DTSTAMP:20200407T174127Z
+DTSTART:20200223T043000Z
+DTEND:20200223T083000Z
+LOCATION:DevX\, Vadodara\, Gujarat\, Vadodara\, India
+SUMMARY:The Hackers Meetup Vadodara
+DESCRIPTION:This event is fully focused on Cyber Security research of Inde
+ pendent security researchers. who finds vulnerability\, gain knowledge and
+  try to do something out of the box with his enthusiasm\, hard work and lo
+ ve for security
+URL:https://reps.mozilla.org/e/the-hackers-meetup-vadodara/
+SEQUENCE:0
+X-COORDINATES-LAT:22.3205157776
+X-COORDINATES-LON:73.1706046988
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

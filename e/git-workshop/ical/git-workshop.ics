@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3547
+CLASS:PUBLIC
+DTSTAMP:20200407T174239Z
+DTSTART:20150225T150000Z
+DTEND:20150225T170000Z
+LOCATION:Istanbul Technical University\, EEB 5101\, Beykoz\, Turkey
+SUMMARY:Git Workshop
+DESCRIPTION:How to work with git\, command line instructions. Examples of 
+ fork\, pull request and issues over Github. After this workshop you should
+  be ready to contribute most mozilla and other open source projects hosted
+  in Github or other git environments.\nAt the end of event we will talk ho
+ w to help Mozilla Developer Network Turkish L10n team and how to contribut
+ e Mozilla L10n.
+URL:https://reps.mozilla.org/e/git-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:41.1047282143
+X-COORDINATES-LON:29.024455905
+X-COUNTRY-CODE:tr
+END:VEVENT
+
+END:VCALENDAR

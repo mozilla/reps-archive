@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7774
+CLASS:PUBLIC
+DTSTAMP:20200423T092056Z
+DTSTART:20180626T043000Z
+DTEND:20180627T163000Z
+LOCATION:Yuvalay Lab\, Vadodara\, India
+SUMMARY:Mozconnect with Yuvalay
+DESCRIPTION:To celebrate ‘The International Arduino Day’ A 36 hours Ha
+ ckathon is inviting best teams\, technology enthusiastic Hackers under one
+  roof to meet\, create &amp; bring to life an idea in a most creative way!. Ou
+ r focus is on letting your imagination flow free &amp; enable you to push the 
+ boundaries of your own capabilities in under 36 Hours.
+URL:https://reps.mozilla.org/e/mozconnect-with-yuvalay/
+SEQUENCE:8
+X-COORDINATES-LAT:22.2850169425
+X-COORDINATES-LON:73.1607027061
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

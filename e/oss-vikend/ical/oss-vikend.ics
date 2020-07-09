@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6602
+CLASS:PUBLIC
+DTSTAMP:20200423T110021Z
+DTSTART:20170617T070000Z
+DTEND:20170618T140000Z
+LOCATION:Pavilón fyziky FMFI UK\, Bratislava\, Bratislava\, Slovakia
+SUMMARY:OSS Víkend
+DESCRIPTION:Regular conference about open technologies. Two days of talks 
+ and workshops\, open technologies\, free software\, hardware\, maker commu
+ nities and open government. OSS Víkend is the biggest conference of its k
+ ind in Slovakia.
+URL:https://reps.mozilla.org/e/oss-vikend/
+SEQUENCE:4
+X-COORDINATES-LAT:48.1512414411
+X-COORDINATES-LON:17.0701707602
+X-COUNTRY-CODE:sk
+END:VEVENT
+
+END:VCALENDAR

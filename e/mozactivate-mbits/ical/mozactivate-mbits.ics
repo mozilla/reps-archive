@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6138
+CLASS:PUBLIC
+DTSTAMP:20200423T113807Z
+DTSTART:20170103T033000Z
+DTEND:20170103T103000Z
+LOCATION:Mar Baselios Institute of Technology and Science (MBITS)\,Nellima
+ ttam PO Kothamangal\, Eranakulam\, Kerala\, Ernakulam\, India
+SUMMARY:MozActivate - MBITS
+DESCRIPTION:We are organizing Activate Mozilla Campaign to focus on four i
+ nitiatives taken by Mozilla. It will supports the organizational goals by 
+ enthusing someone on how he/she can start participating on the web and bui
+ ld web a better place to live.
+URL:https://reps.mozilla.org/e/mozactivate-mbits/
+SEQUENCE:3
+X-COORDINATES-LAT:9.95709940174
+X-COORDINATES-LON:76.270523
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

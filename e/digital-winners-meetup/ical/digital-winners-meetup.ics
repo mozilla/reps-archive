@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1392
+CLASS:PUBLIC
+DTSTAMP:20200423T210200Z
+DTSTART:20131010T170000Z
+DTEND:20131010T210000Z
+LOCATION:Founders House\, Copenhagen\, Denmark
+SUMMARY:Digital://Winners Meetup
+DESCRIPTION:Founders House\, Telenor Digital and Mozilla are co-hosting Co
+ penhagen’s first Digital Winners Meetup.
+URL:https://reps.mozilla.org/e/digital-winners-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:55.6812199589
+X-COORDINATES-LON:12.586619854
+X-COUNTRY-CODE:dk
+END:VEVENT
+
+END:VCALENDAR

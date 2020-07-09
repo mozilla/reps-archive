@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3255
+CLASS:PUBLIC
+DTSTAMP:20200423T181340Z
+DTSTART:20141227T183000Z
+DTEND:20141227T193000Z
+LOCATION:Congress Center Hamburg\, Hamburg\, Germany
+SUMMARY:Mozillians @ 31C3
+DESCRIPTION:There will be another Chaos Communication Congress in Hamburg.
+  Even though we go there on our own expenses and our own time\, we still w
+ ould like to meet up with fellow Mozillians to have a chat!\n\nWe will mee
+ t in front of Hall 1 at the drink stand. http://c3map.schub.io/#/loc/-1.05
+ 46279422758869/-7.207031249999999
+URL:https://reps.mozilla.org/e/mozillians-31c3/
+SEQUENCE:7
+X-COORDINATES-LAT:53.5621889373
+X-COORDINATES-LON:9.98517251006
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

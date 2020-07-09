@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1977
+CLASS:PUBLIC
+DTSTAMP:20200423T201859Z
+DTSTART:20140309T050000Z
+DTEND:20140309T073000Z
+LOCATION:WEST Gallery\, CUET\, Chittagong\, Bangladesh
+SUMMARY:Mozilla in GSoC 2014\, Chittagong Orinentation
+DESCRIPTION:Mozilla Foundation is a participating organization for GSoC 20
+ 14 and will accept application from potential students on various project 
+ ideas\, as well they can submit their own ideas too. To inform and aware p
+ otential students from Bangladesh and help them on application process wit
+ h information from Mozilla SoC team\; Mozilla Bangladesh arranging this or
+ ientation on 9th March in Chittagong.
+URL:https://reps.mozilla.org/e/mozilla-in-gsoc-2014-chittagong-orinentatio
+ n/
+SEQUENCE:8
+X-COORDINATES-LAT:22.4629058888
+X-COORDINATES-LON:91.9697742455
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

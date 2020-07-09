@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8251
+CLASS:PUBLIC
+DTSTAMP:20200423T085126Z
+DTSTART:20181117T150000Z
+DTEND:20181117T170000Z
+LOCATION:Universidad César Vallejo - Ate (km 8.2\,\, Carr. Central)\, Ate
+ \, Peru
+SUMMARY:WebExtension @ Seminario Nacional de Ingeniería
+DESCRIPTION:Workshop about WebExtensions aimed to students from the Univer
+ sidad César Vallejo  within the activities of the Seminario Nacional de I
+ ngeniería
+URL:https://reps.mozilla.org/e/webextension-seminario-nacional-de-ingenier
+ ia/
+SEQUENCE:4
+X-COORDINATES-LAT:-12.023055
+X-COORDINATES-LON:-76.910434
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5700
+CLASS:PUBLIC
+DTSTAMP:20200407T181952Z
+DTSTART:20160820T110000Z
+DTEND:20160821T000000Z
+LOCATION:Rua Camélia\, 26 - Jd. das Flores - 06110-300 - Osasco\, SP\, Os
+ asco\, Brazil
+SUMMARY:Osasco Open
+DESCRIPTION:In order to disseminate knowledge about technology\, FITO (Fun
+ dação Instituto Tecnológico de Osasco) with the local community of free
+  software have partnered to bring this knowledge to you. It will be a full
+  day of lectures and workshops of the most diverse subjects.\nThis event i
+ s 100% supported by the community and there is only thanks to the voluntar
+ y work of many professionals
+URL:https://reps.mozilla.org/e/osasco-open/
+SEQUENCE:5
+X-COORDINATES-LAT:-23.5333549329
+X-COORDINATES-LON:-46.7919543386
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

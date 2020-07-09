@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3687
+CLASS:PUBLIC
+DTSTAMP:20200423T173936Z
+DTSTART:20150323T030000Z
+DTEND:20150323T173000Z
+LOCATION:TBD\, Banani Model Town\, Bangladesh
+SUMMARY:QA - Bug Triage Day ( Online Mentoring Session)
+DESCRIPTION:We just have organized a two day long QA Marathon Dhaka event 
+ and now people are enthusiast to contribute in QA. So\, to help them more 
+ triaging the bug\, We will be holding whole day long online mentoring sess
+ ion. We will help people to write bug Comments\, Triage a bug \, move bugs
+  to right components and more to help them to get started.
+URL:https://reps.mozilla.org/e/qa-bug-triage-day-online-mentoring-session/
+SEQUENCE:4
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

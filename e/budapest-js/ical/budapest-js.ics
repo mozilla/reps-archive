@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@911
+CLASS:PUBLIC
+DTSTAMP:20200407T182251Z
+DTSTART:20130617T170000Z
+DTEND:20130617T190000Z
+LOCATION:Prezi.com\, Budapest\, Hungary
+SUMMARY:Budapest-js
+DESCRIPTION:This is the monthly Javascript meetup about technology. Nagy G
+ ergo\, the Develeoper Lead of the Firefox OS Engagement team gonna talk he
+ re.
+URL:https://reps.mozilla.org/e/budapest-js/
+SEQUENCE:4
+X-COORDINATES-LAT:47.5059103376
+X-COORDINATES-LON:19.0566015244
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

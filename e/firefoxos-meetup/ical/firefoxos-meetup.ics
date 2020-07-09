@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1382
+CLASS:PUBLIC
+DTSTAMP:20200423T205744Z
+DTSTART:20131024T170000Z
+DTEND:20131024T190000Z
+LOCATION:Medialab Prado\, Madrid\, Spain
+SUMMARY:FirefoxOS Meetup
+DESCRIPTION:Group open to people interested in Open technologies and web s
+ tandards\, for FirefoxOS. With the enthusiasm to propose ideas\, projects\
+ , and discuss. But above all\, share and participate in the FirefoxOS Comm
+ unity.
+URL:https://reps.mozilla.org/e/firefoxos-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:40.4112495973
+X-COORDINATES-LON:-3.69364857674
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

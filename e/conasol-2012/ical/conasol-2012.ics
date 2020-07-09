@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@306
+CLASS:PUBLIC
+DTSTAMP:20200423T224248Z
+DTSTART:20121130T130000Z
+DTEND:20121201T220000Z
+LOCATION:Av. Oruro 1260\, La Paz\, Bolivia
+SUMMARY:CONASOL 2012
+DESCRIPTION:CONASOL is Free Software National Congress\, which is held eve
+ ry year in Bolivia\, this year will be in the city of La Paz from 30 Novem
+ ber to 1 December. We have been invited to give a presentation about Mozil
+ la Firefox in general and Firefox OS in particular.\nThis event is importa
+ nt because it takes place at the place of Government\, and is a good optio
+ n to go with our submission to the Ministry of Education authorities in Bo
+ livia.
+URL:https://reps.mozilla.org/e/conasol-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-16.4990779955
+X-COORDINATES-LON:-68.1352114677
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

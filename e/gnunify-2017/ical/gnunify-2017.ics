@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6297
+CLASS:PUBLIC
+DTSTAMP:20200407T170615Z
+DTSTART:20170210T043000Z
+DTEND:20170211T123000Z
+LOCATION:SICSR\, Model Colony\, Pune\, Pune\, India
+SUMMARY:GNUnify 2017
+DESCRIPTION:GNUnify is an annual gathering consisting of Free and Open Sou
+ rce software workshops\, talks\, seminars and BOFs (Birds of a feather).\n
+ Mozilla has a special track at the conference.\nmoz://a track includes tal
+ ks and workshops on :\n* Working on my first bug\n* Using Firefox like a b
+ oss\n* WebVR and IOT\n* Mozilla Tech Speakers\n* L10n
+URL:https://reps.mozilla.org/e/gnunify-2017/
+SEQUENCE:4
+X-COORDINATES-LAT:18.5338560212
+X-COORDINATES-LON:73.8334060908
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

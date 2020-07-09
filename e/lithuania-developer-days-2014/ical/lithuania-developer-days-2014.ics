@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2382
+CLASS:PUBLIC
+DTSTAMP:20200423T192950Z
+DTSTART:20140703T150000Z
+DTEND:20140706T150000Z
+LOCATION:VU and Microsoft Lithuania\, Vilnius\, Lithuania
+SUMMARY:Lithuania Developer Days 2014
+DESCRIPTION:Summary: By using best practices from Silicon Valley to organi
+ ze Hackathon\, training and conference for IT Webmasters\, Mobile develope
+ rs and Media people.\n\nKey goal: LESS of slide-shows\, MORE Q&amp;A and real 
+ practice - create material real-time. Create what exact people needs and w
+ ant to learn about.\n\nEvent Goals: Hackathon + Training + Challenges + Re
+ al time help\, advices &amp; support + Talent Scouting (EN) + Facebook Marketi
+ ng.
+URL:https://reps.mozilla.org/e/lithuania-developer-days-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:54.7023044083
+X-COORDINATES-LON:25.2603435499
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

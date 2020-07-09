@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4693
+CLASS:PUBLIC
+DTSTAMP:20200407T181952Z
+DTSTART:20151024T110000Z
+DTEND:20151024T200000Z
+LOCATION:Avenida Borges de Medeiros\, 2233 - 7ª andar\, Porto Alegre\, Br
+ azil
+SUMMARY:WoMakersCode
+DESCRIPTION:The WoMakersCode is a free project\, created and maintained by
+  volunteers WoMoz Brazil. Workshop will be held JavaScript programming and
+  engaging discussion with the community and the WoMoz project.
+URL:https://reps.mozilla.org/e/womakerscode/
+SEQUENCE:3
+X-COORDINATES-LAT:-30.0314641213
+X-COORDINATES-LON:-51.1975121498
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

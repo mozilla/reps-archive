@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3857
+CLASS:PUBLIC
+DTSTAMP:20200423T170057Z
+DTSTART:20150718T053000Z
+DTEND:20150718T083000Z
+LOCATION:Nashik\, Nashik\, India
+SUMMARY:TaskForce Meet impressions
+DESCRIPTION:Mozillians from Nashik will meet to discuss about the developm
+ ents in from the Mozilla India TaskForce Meetup in Bangalore. Encouraging 
+ contributors from Nashik and nearby areas to collaborate with Mozilla Glob
+ ally and Regionally. We will be sharing what we learned at the task force 
+ meetup and motivating community members to join the taskforces f their cho
+ ice &amp; interest.
+URL:https://reps.mozilla.org/e/taskforce-meet-impressions/
+SEQUENCE:8
+X-COORDINATES-LAT:20.0088118755
+X-COORDINATES-LON:73.7953834527
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

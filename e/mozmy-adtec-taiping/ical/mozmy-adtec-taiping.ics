@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5261
+CLASS:PUBLIC
+DTSTAMP:20200423T152931Z
+DTSTART:20160429T010000Z
+DTEND:20160429T090000Z
+LOCATION:Pusat Latihan Teknologi Tinggi (ADTEC) Taiping\, Taiping\, Malays
+ ia
+SUMMARY:MozMy @ Adtec Taiping
+DESCRIPTION:The event is basically to create awareness about Mozilla Missi
+ on\, Firefox Browser among the students so that they can start contribute 
+ in the Mozilla&#39;s various projects.This is one day event. In which we will 
+ discuss and demonstrate on different Projects of Mozilla.Through this they
+  come to know about the meaning of Open Source Community. How we work and 
+ how they can Contribute to Mozilla.
+URL:https://reps.mozilla.org/e/mozmy-adtec-taiping/
+SEQUENCE:8
+X-COORDINATES-LAT:4.8664846
+X-COORDINATES-LON:100.6993948
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

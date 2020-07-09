@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6569
+CLASS:PUBLIC
+DTSTAMP:20200423T111314Z
+DTSTART:20170429T200000Z
+DTEND:20170430T000000Z
+LOCATION:Telmex Hub\, Delegacion Cuauhtemoc\, Mexico
+SUMMARY:Introduction to Git and Github
+DESCRIPTION:Begin to understand and implement Git and Github in the docume
+ ntation of your work (design\, development\, thesis work\, research\, scie
+ ntists\, editorials\, journalism\, etc.). It serves to control\, collabora
+ te in team and version all your works (to save different versions).
+URL:https://reps.mozilla.org/e/introduction-to-git-and-github/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4311730432
+X-COORDINATES-LON:-99.1367890836
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

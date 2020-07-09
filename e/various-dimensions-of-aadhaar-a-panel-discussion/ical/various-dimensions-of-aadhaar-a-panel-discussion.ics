@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7513
+CLASS:PUBLIC
+DTSTAMP:20200423T095540Z
+DTSTART:20180304T110000Z
+DTEND:20180304T130000Z
+LOCATION:Lamakaan\, Hyderabad\, India
+SUMMARY:Various Dimensions of Aadhaar - A Panel Discussion
+DESCRIPTION:Aadhaar has been in the news for contentious reasons and our s
+ peakers will be analyzing various issues including supreme court hearings\
+ , privacy and mass surveillance concerns\, security issues and associated 
+ vulnerabilities and exclusion resulting from authentication problems.\n\nS
+ peakers: Mr. Raghu/ godavar\, Mr. Prashant Reddy and Mr. Srinivas Kodali
+URL:https://reps.mozilla.org/e/various-dimensions-of-aadhaar-a-panel-discu
+ ssion/
+SEQUENCE:3
+X-COORDINATES-LAT:17.421074
+X-COORDINATES-LON:78.447295
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

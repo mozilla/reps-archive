@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3449
+CLASS:PUBLIC
+DTSTAMP:20200423T175447Z
+DTSTART:20150220T090000Z
+DTEND:20150515T160000Z
+LOCATION:6000 Kecskemét\, Izsáki út 10.\, Kecskemét\, Hungary
+SUMMARY:Firefox OS semester in Kecskemét College
+DESCRIPTION:After very successful Firefox OS (two) semesters at Óbuda Uni
+ versity\, Budapest\, we decided to try to introduce more Firefox OS WebApp
+  development semester in Hungarian Universities/Colleges.\n\nSecond we add
+ ed Kecskemét College. Fortunately we were able to maintain good relations
+ hip since Gergő Nagy has friends there.\n\nWe plan to visit four times th
+ e College to kick up the semester and provide consultation days. Other con
+ sultation will happen on Hangout or Skype.
+URL:https://reps.mozilla.org/e/firefox-os-semester-in-kecskemet-college/
+SEQUENCE:4
+X-COORDINATES-LAT:46.9104740358
+X-COORDINATES-LON:19.6760129946
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1362
+CLASS:PUBLIC
+DTSTAMP:20200423T210010Z
+DTSTART:20131018T210000Z
+DTEND:20131021T000000Z
+LOCATION:Ruta N°2 Mcal Jose Félix Estigarribia\, Asunción\, Paraguay
+SUMMARY:Startup Weekend Asunción
+DESCRIPTION:Startup Weekend is a movement designed to encourage and train 
+ entrepreneurs around the world. Currently carries more than 400 editions i
+ n over 100 countries and is now that we add to this the largest community 
+ of entrepreneurs worldwide.\nStartup Weekend is a perfect opportunity to r
+ ealize your business idea in 54-hour.
+URL:https://reps.mozilla.org/e/startup-weekend-asuncion/
+SEQUENCE:3
+X-COORDINATES-LAT:-25.3358809239
+X-COORDINATES-LON:-57.5225579739
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

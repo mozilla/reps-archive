@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6298
+CLASS:PUBLIC
+DTSTAMP:20200423T112439Z
+DTSTART:20170309T230000Z
+DTEND:20170312T225500Z
+LOCATION:Slovak University of Technology in Bratislava\, Faculty of Inform
+ atics and Information Technologies\, Bratislava\, Slovakia
+SUMMARY:PyCon SK 2017
+DESCRIPTION:PyCon SK is a community-organized conference for the Python pr
+ ogramming language.\n\nAfter successful organization in more than 40 count
+ ries\, PyCon was in Slovakia in 2016. We have really enjoyed the conferenc
+ e\, and already started to prepare for next year. We are happy to announce
+  that second PyCon SK will be held in Bratislava on 10th - 12th March\, 20
+ 17.
+URL:https://reps.mozilla.org/e/pycon-sk-2017/
+SEQUENCE:5
+X-COORDINATES-LAT:48.1536172196
+X-COORDINATES-LON:17.0717868808
+X-COUNTRY-CODE:sk
+END:VEVENT
+
+END:VCALENDAR

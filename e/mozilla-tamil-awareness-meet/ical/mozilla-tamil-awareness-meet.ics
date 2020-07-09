@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1665
+CLASS:PUBLIC
+DTSTAMP:20200407T174112Z
+DTSTART:20131226T060000Z
+DTEND:20131226T080000Z
+LOCATION:INFITT Office Malaysia Chapter\, PJ oldtown\, Petaling Jaya\, Mal
+ aysia
+SUMMARY:Mozilla Tamil with Teachers and Students
+DESCRIPTION:1. Introducing Mozilla Firefox in Tamil \n2. Mozilla Tamil Pro
+ jects \n3. Ways to contribute to Mozilla\n4. How to translate in session
+URL:https://reps.mozilla.org/e/mozilla-tamil-awareness-meet/
+SEQUENCE:4
+X-COORDINATES-LAT:3.0860288875
+X-COORDINATES-LON:101.64678812
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

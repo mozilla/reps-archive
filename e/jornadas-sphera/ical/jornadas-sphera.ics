@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3825
+CLASS:PUBLIC
+DTSTAMP:20200407T174228Z
+DTSTART:20150427T070000Z
+DTEND:20150430T180000Z
+LOCATION:Carretera de Valencia\, Km 7\, 28031\, Madrid\, Madrid\, Spain
+SUMMARY:Jornadas Sphera
+DESCRIPTION:It is a set of conferences to promote the Telecommunications E
+ ngineering Degree at the Technical University of Madrid.\n\nThere were a l
+ ot of workshops and talks about engineering and our Firefox Student Club o
+ rganized three activities:\n- Game Development with Unity\n- Armduino\, 3D
+ -printed robotic arms.\n- Offensive Security Hackathon\n\nWe managed to pl
+ ace a Mozilla booth to promote and represent Mozilla:
+URL:https://reps.mozilla.org/e/jornadas-sphera/
+SEQUENCE:1
+X-COORDINATES-LAT:40.3896335328
+X-COORDINATES-LON:-3.62816333945
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

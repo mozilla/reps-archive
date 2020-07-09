@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8764
+CLASS:PUBLIC
+DTSTAMP:20200423T082203Z
+DTSTART:20190628T093000Z
+DTEND:20190628T113000Z
+LOCATION:SVIT\, Vasad\, India
+SUMMARY:Data Protection Awareness Campaign
+DESCRIPTION:A healthy internet requires an active\, global community. Mozi
+ lla’s advocacy work brings people together from around the world to educ
+ ate and fight for privacy\, inclusion\, literacy\, and all principles of a
+  healthy internet. A healthy internet supports the voices of people\, incl
+ uding you.\n\nGetting sign-ups to send Postcards to the Govt.
+URL:https://reps.mozilla.org/e/data-protection-awareness-campaign/
+SEQUENCE:1
+X-COORDINATES-LAT:22.4516223791
+X-COORDINATES-LON:73.0658226006
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

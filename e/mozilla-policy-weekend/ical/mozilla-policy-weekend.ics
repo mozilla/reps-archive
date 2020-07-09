@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5093
+CLASS:PUBLIC
+DTSTAMP:20200423T154730Z
+DTSTART:20160220T080000Z
+DTEND:20160221T170000Z
+LOCATION:ThoughtWorks\, Berlin\, Germany
+SUMMARY:Mozilla Policy Weekend
+DESCRIPTION:The Mozilla Policy Weekend is about shaping the community agen
+ da of Mozilla in Germany for policy related activities. It is a mini-confe
+ rence with a mostly internal focus. It will also serve as an opportunity o
+ f policy team members to connect with local Mozillians. The main objective
+  is to identify policy items for Germany and see how Mozilla participants 
+ from the local community could contribute in 2016.
+URL:https://reps.mozilla.org/e/mozilla-policy-weekend/
+SEQUENCE:1
+X-COORDINATES-LAT:52.5330610879
+X-COORDINATES-LON:13.4190237518
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

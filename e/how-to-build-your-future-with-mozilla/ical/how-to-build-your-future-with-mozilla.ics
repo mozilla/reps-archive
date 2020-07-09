@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4360
+CLASS:PUBLIC
+DTSTAMP:20200423T162227Z
+DTSTART:20151027T103000Z
+DTEND:20151027T123000Z
+LOCATION:Arab Academy for Science\, Technology &amp; Maritime Transport (Abuqi
+ r Campus)\, Alexandria\, Egypt
+SUMMARY:How to build your future with Mozilla (Abuqir Campus)
+DESCRIPTION:This event will help students in their study with the help of 
+ Mozilla as we will give them a session about the ways of study and how to 
+ use internet in their study.\nAlso we will tell them about Mozilla product
+ s and its rule and impact on the internet and how can they got involved an
+ d how far that will help them in their study and their future in general.
+URL:https://reps.mozilla.org/e/how-to-build-your-future-with-mozilla/
+SEQUENCE:12
+X-COORDINATES-LAT:31.3098800562
+X-COORDINATES-LON:30.065330744
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

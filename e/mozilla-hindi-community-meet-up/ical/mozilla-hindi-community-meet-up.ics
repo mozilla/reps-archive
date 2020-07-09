@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2840
+CLASS:PUBLIC
+DTSTAMP:20200407T174822Z
+DTSTART:20141011T033000Z
+DTEND:20141012T113000Z
+LOCATION:Centre for Development of Advanced Computing : C-DAC\, Pune- 4110
+ 07\, India
+SUMMARY:Mozilla Hindi Community Meet-up
+DESCRIPTION:This event will mainly focus on training new localizers\, revi
+ ewing important projects\, translating more projects\, and reviewing trani
+ sated projects.
+URL:https://reps.mozilla.org/e/mozilla-hindi-community-meet-up/
+SEQUENCE:13
+X-COORDINATES-LAT:18.3927553513
+X-COORDINATES-LON:74.0185537934
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

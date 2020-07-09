@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5047
+CLASS:PUBLIC
+DTSTAMP:20200423T155437Z
+DTSTART:20160119T013000Z
+DTEND:20160119T043000Z
+LOCATION:Samruddhi eng classes. In front of Govt Polytechnic Nashik\, Nash
+ ik\, India
+SUMMARY:Privacy awareness talk at coaching class
+DESCRIPTION:Privacy awareness workshop for the coaching class students.\nT
+ his event will cover 3 different batches.  \n\nThis event comes under the 
+ global #PrivacyMonth . Agenda is simple making students and staff aware ab
+ out the rich Privacy Features of Firefox desktop and Mobile. http://mzl.la
+ /JanuaryPrivacyMonthCampaign
+URL:https://reps.mozilla.org/e/privacy-awareness-talk-at-coaching-class/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9974533
+X-COORDINATES-LON:73.7898023
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

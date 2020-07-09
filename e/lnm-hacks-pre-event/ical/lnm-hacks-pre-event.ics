@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7180
+CLASS:PUBLIC
+DTSTAMP:20200423T102229Z
+DTSTART:20171024T123000Z
+DTEND:20171024T163000Z
+LOCATION:LNMIT \, Jaipur\, Jaipur\, India
+SUMMARY:LNM - Hacks Info Workshop
+DESCRIPTION:A workshop on LNMIT campus regarding Git and Github\, and also
+  some brief insights will be given on how to contribute to various Open So
+ urce Organisations.Here Workshop facilitator Pratul Kumar and Divyanshu Ra
+ wat will give insights about how to contribute to various Open Source Orga
+ nizations.‌
+URL:https://reps.mozilla.org/e/lnm-hacks-pre-event/
+SEQUENCE:2
+X-COORDINATES-LAT:26.8677597934
+X-COORDINATES-LON:76.0004138947
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

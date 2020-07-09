@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3541
+CLASS:PUBLIC
+DTSTAMP:20200407T175347Z
+DTSTART:20150321T023000Z
+DTEND:20150322T063000Z
+LOCATION:VIT Chennai\, Chennai\, India
+SUMMARY:Booth at VIT Chennai - Android Amaze &#39;15
+DESCRIPTION:**Hackathon** \nWe will be having separate Firefox OS app deve
+ lopments based on the theme of App of the month Contest for FSA\n\n**FSA S
+ tall**\nTo create more awareness about Firefox Student Ambassador program 
+ for the students\n\n**Fx OS stall**\nTo teach more about Firefox OS and at
+ tract developers to develop more web apps\n\n**Firefox Stumbler**\nTo crea
+ te awareness about MLS to the attendees and help them install Firefox Stum
+ bler and contribue
+URL:https://reps.mozilla.org/e/booth-at-vit-chennai-android-amaze-15/
+SEQUENCE:11
+X-COORDINATES-LAT:12.8406871051
+X-COORDINATES-LON:80.1534571499
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

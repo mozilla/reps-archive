@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6369
+CLASS:PUBLIC
+DTSTAMP:20200407T174318Z
+DTSTART:20170318T020000Z
+DTEND:20170318T090000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Web Literacy Curriculum Development
+DESCRIPTION:To create compelling\, relevant\, and localizable critical web
+  literacy lessons for use online and off. Co-designers will pay special at
+ tention to scaffolding offline activities for low- and no-bandwidth commun
+ ities that teach the same concepts and skills in the related online activi
+ ties in each lesson. This is an initiative to create activities based on w
+ hat is appropriate locally.
+URL:https://reps.mozilla.org/e/web-literacy-curriculum-development/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5467529055
+X-COORDINATES-LON:121.015621293
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

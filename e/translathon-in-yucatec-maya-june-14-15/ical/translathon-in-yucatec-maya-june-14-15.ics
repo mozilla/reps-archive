@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@892
+CLASS:PUBLIC
+DTSTAMP:20200407T182522Z
+DTSTART:20130607T170000Z
+DTEND:20130608T170000Z
+LOCATION:Balantun\, Titnum\, Mexico
+SUMMARY:Translathon in Yucatec Maya (June 7-8)
+DESCRIPTION:We proposed Translathon event\, an activitie to make the local
+ ization of Firefox and creation of Wikipedia articles\, in this case in Ma
+ ya Yucatec. The main objective is form community committed to support the 
+ localization\, looking for awareness in our society about the importance o
+ f language preservation and promotion of the use on an important issue of 
+ digital inclusion of indigenous communities. It calls on key dates such as
+  May 21\, the World Day for Cultural Diversity.
+URL:https://reps.mozilla.org/e/translathon-in-yucatec-maya-june-14-15/
+SEQUENCE:9
+X-COORDINATES-LAT:20.7674301187
+X-COORDINATES-LON:-88.3935928345
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

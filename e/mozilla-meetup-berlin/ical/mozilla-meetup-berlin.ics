@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4786
+CLASS:PUBLIC
+DTSTAMP:20200407T174531Z
+DTSTART:20151029T180000Z
+DTEND:20151029T210000Z
+LOCATION:Mozilla Berlin\, Berlin\, Germany
+SUMMARY:Mozilla Meetup Berlin
+DESCRIPTION:Was brauchen deine Nutzer? Wie kannst du das herausfinden? Und
+  was machst du\, wenn die Forschung mal anders läuft als im Lehrbuch gesc
+ hrieben? Wir tauschen unsere Ideen\, Methoden und Erfahrungen aus um vonei
+ nander zu lernen.\n\nHow do you find out what your users need? Which appro
+ ach would you use to find out? And how are you going to navigate the messy
+  reality of research? We exchange our ideas\, methods and experiences in u
+ ser research.
+URL:https://reps.mozilla.org/e/mozilla-meetup-berlin/
+SEQUENCE:0
+X-COORDINATES-LAT:52.5415842684
+X-COORDINATES-LON:13.3883206846
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2979
+CLASS:PUBLIC
+DTSTAMP:20200423T182512Z
+DTSTART:20141126T150000Z
+DTEND:20141126T180000Z
+LOCATION:Unitec\, Tegucigalpa\, Honduras
+SUMMARY:Firefox OS en UNITEC
+DESCRIPTION:UNITEC is a technology university at Tegucigalpa\, Honduras. H
+ ondura&#39;s community will give some talks to spread the word about Mozilla a
+ nd it&#39;s products.
+URL:https://reps.mozilla.org/e/firefox-os-en-unitec/
+SEQUENCE:4
+X-COORDINATES-LAT:14.0857918902
+X-COORDINATES-LON:-87.2046117784
+X-COUNTRY-CODE:hn
+END:VEVENT
+
+END:VCALENDAR

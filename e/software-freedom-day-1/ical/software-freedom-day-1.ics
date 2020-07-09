@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2707
+CLASS:PUBLIC
+DTSTAMP:20200423T185610Z
+DTSTART:20140920T110000Z
+DTEND:20140920T210000Z
+LOCATION:Av. Paralela\, 3172 - Faculdade ÁREA1 Campus Paralela\, Salvador
+ \, Brazil
+SUMMARY:Software Freedom Day
+DESCRIPTION:SFD is a worldwide celebration of FOSS. Our goal in this celeb
+ ration is to educate the worldwide public about the benefits of using high
+  quality FOSS in education\, in government\, at home\, and in business -- 
+ in short\, everywhere! The non-profit organization Software Freedom Intern
+ ational coordinates SFD at a global level\, providing support\, giveaways 
+ and a point of collaboration\, but volunteer teams around the world organi
+ ze the local SFD events to impact their own communities.
+URL:https://reps.mozilla.org/e/software-freedom-day-1/
+SEQUENCE:7
+X-COORDINATES-LAT:-12.9832034711
+X-COORDINATES-LON:-38.419303908
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

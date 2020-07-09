@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2668
+CLASS:PUBLIC
+DTSTAMP:20200423T191705Z
+DTSTART:20140809T103000Z
+DTEND:20140809T133000Z
+LOCATION:South City Mall\, Prince Anwar Shah Road\, Kolkata\, West Bengal 
+ 700068\, Kolkata\, India
+SUMMARY:MozCafe Kolkata 5.0
+DESCRIPTION:5th Iteration of of MozCafe Kolkata to decide upon and finaliz
+ e the Maker Party 2014 and Firefox OS launch activities in and around Kolk
+ ata.
+URL:https://reps.mozilla.org/e/mozcafe-kolkata-5-0/
+SEQUENCE:4
+X-COORDINATES-LAT:22.5021092738
+X-COORDINATES-LON:88.3548674583
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

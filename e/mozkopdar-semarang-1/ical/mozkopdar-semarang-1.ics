@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1614
+CLASS:PUBLIC
+DTSTAMP:20200423T204035Z
+DTSTART:20131215T090000Z
+DTEND:20131215T120000Z
+LOCATION:Kopi Jempol Coffee Shop\, 4th Floor Singosari Residence\, Jl.Sing
+ osari I No.27\, Semarang\, Indonesia
+SUMMARY:MozKopdar Semarang
+DESCRIPTION:An official Mozillians meetup in Semarang for December 2013. \
+ n\nShare the latest news about Mozilla Indonesia campaign : #AkudanFirefox
+  Photo Contest and #FirefoxBatik Contest \n\nShare updates from Mozilla pr
+ ojects.
+URL:https://reps.mozilla.org/e/mozkopdar-semarang-1/
+SEQUENCE:5
+X-COORDINATES-LAT:-6.99993197944
+X-COORDINATES-LON:110.425737619
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

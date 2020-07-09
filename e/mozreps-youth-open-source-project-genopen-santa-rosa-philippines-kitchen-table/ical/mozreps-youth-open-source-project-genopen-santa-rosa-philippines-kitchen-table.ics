@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@476
+CLASS:PUBLIC
+DTSTAMP:20200407T180020Z
+DTSTART:20130118T050000Z
+DTEND:20130118T080000Z
+LOCATION:Figaro Cafe SM City Santa Rosa\, City of Santa Rosa\, Philippines
+SUMMARY:MozReps Youth Open Source Project : #GenOpen - Santa Rosa\, Philip
+ pines (Kitchen Table)
+DESCRIPTION:We&#39;re teaching two bright kids how to make their first web pag
+ e and hacked video using Thimble and Popcorn Maker and then ask them the g
+ olden question: &#34;If you could make anything on the Web what would it be?\n
+ \nhttps://wiki.mozilla.org/GenOpen
+URL:https://reps.mozilla.org/e/mozreps-youth-open-source-project-genopen-s
+ anta-rosa-philippines-kitchen-table/
+SEQUENCE:0
+X-COORDINATES-LAT:14.3131031063
+X-COORDINATES-LON:121.098582745
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

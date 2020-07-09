@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2575
+CLASS:PUBLIC
+DTSTAMP:20200423T192520Z
+DTSTART:20140718T113000Z
+DTEND:20140718T140000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Jhongshan District\
+ , Taiwan
+SUMMARY:Maker Party: Kickoff Taipei
+DESCRIPTION:Help us celebrate the launch of this year&#39;s Maker Party campai
+ gn! We invited David Ascher from Mozilla Foundation to join us in Friday n
+ ight to sharing the various MoFo projects include Webmaker and Appmaker. \
+ n\nJoin us as we play with Appmaker\, talk about web literacy and play aro
+ und with other Webmaker tools.
+URL:https://reps.mozilla.org/e/maker-party-kickoff-taipei/
+SEQUENCE:20
+X-COORDINATES-LAT:25.0667536545
+X-COORDINATES-LON:121.526270092
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

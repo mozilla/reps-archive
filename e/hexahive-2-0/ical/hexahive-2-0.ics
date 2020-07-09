@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9104
+CLASS:PUBLIC
+DTSTAMP:20200407T165028Z
+DTSTART:20200222T043000Z
+DTEND:20200223T113000Z
+LOCATION:Parul University\, Vadodara\, India\, India
+SUMMARY:HexaHive 2.0
+DESCRIPTION:HexaHive is an annual hackathon organized by Uniphyd. a commun
+ ity of student developers at Parul University. We have a single goal as a 
+ community\, to do great things for our careers and to do these things toge
+ ther or unified. A lot of people think Hackathons are hard and are only fo
+ r experienced programmers\, we want to change that. We want to get people 
+ excited about innovating and draw a diverse group of new hackers.
+URL:https://reps.mozilla.org/e/hexahive-2-0/
+SEQUENCE:2
+X-COORDINATES-LAT:22.3360507929
+X-COORDINATES-LON:73.3781204
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

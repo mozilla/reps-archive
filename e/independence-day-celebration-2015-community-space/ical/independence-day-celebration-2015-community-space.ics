@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4328
+CLASS:PUBLIC
+DTSTAMP:20200423T165158Z
+DTSTART:20150815T093000Z
+DTEND:20150815T113000Z
+LOCATION:Community Space\, Bengaluru\, Bangalore\, India
+SUMMARY:Independence Day Celebration 2015 @ Community Space
+DESCRIPTION:Let&#39;s gather in our Community Space to celebrate Independence 
+ Day 2015. Let&#39;s talk to each other\, discuss about our community activitie
+ s\, and have some sweets. \nPlease bring as many tri-color things to celeb
+ rate the day.\nAppearing with a traditional attire is highly appreciated.
+URL:https://reps.mozilla.org/e/independence-day-celebration-2015-community
+ -space/
+SEQUENCE:2
+X-COORDINATES-LAT:12.8251919721
+X-COORDINATES-LON:77.0725250244
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

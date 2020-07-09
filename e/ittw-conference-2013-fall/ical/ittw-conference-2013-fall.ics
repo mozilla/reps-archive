@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1307
+CLASS:PUBLIC
+DTSTAMP:20200423T210935Z
+DTSTART:20130920T040000Z
+DTEND:20130920T060000Z
+LOCATION:Auditorium\, International School Dhaka\, Bashundhara\, Dhaka\, B
+ angladesh
+SUMMARY:ITTW Conference 2013 Fall
+DESCRIPTION:This seminar is being coordinated by local organizers (Shehzad
+  Noor Taus and others) to gather high school and college students together
+ \, and promote involvement in the IT industry amongst them. \n\nSome of us
+  (Mozillians) planning to talk with the attendees and speakers to spread M
+ ozilla Bangladesh presence during the event and for possible future coordi
+ nation.
+URL:https://reps.mozilla.org/e/ittw-conference-2013-fall/
+SEQUENCE:3
+X-COORDINATES-LAT:23.811240947
+X-COORDINATES-LON:90.4313635826
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

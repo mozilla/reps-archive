@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5208
+CLASS:PUBLIC
+DTSTAMP:20200407T174237Z
+DTSTART:20160326T070000Z
+DTEND:20160327T150000Z
+LOCATION:Bilgi University Santral Campus - Istanbul\, Turkey\, Istanbul\, 
+ Turkey
+SUMMARY:Software Freedom and Linux Days Turkey
+DESCRIPTION:Software Freedom and Linux Days is one of biggest events in Tu
+ rkey with more than 1000 attendance. There are seminars (45 minutes each)\
+ , workshops (few hours) and lots of speeches (5-10 min) on coding and GNU 
+ philosophy or success histories in this field.
+URL:https://reps.mozilla.org/e/software-freedom-and-linux-days-turkey/
+SEQUENCE:4
+X-COORDINATES-LAT:41.0671660161
+X-COORDINATES-LON:28.9458049536
+X-COUNTRY-CODE:tr
+END:VEVENT
+
+END:VCALENDAR

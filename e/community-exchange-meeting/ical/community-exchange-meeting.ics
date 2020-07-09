@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2289
+CLASS:PUBLIC
+DTSTAMP:20200407T174923Z
+DTSTART:20140614T140000Z
+DTEND:20140614T180000Z
+LOCATION:TBD\, Amman\, Jordan
+SUMMARY:Community Exchange meeting
+DESCRIPTION:Marios is a reps from Cyprus (https://reps.mozilla.org/u/misaa
+ kidis/) is visiting Jordan for couple of days and would like to meet with 
+ the local reps and community. We think it is a excellent chance for the lo
+ cal community to meet with other community and exchange the expertise in d
+ ifferent aspect of the community especially the local community in Jordan 
+ is trying to organize and structure itself.
+URL:https://reps.mozilla.org/e/community-exchange-meeting/
+SEQUENCE:4
+X-COORDINATES-LAT:31.9595174202
+X-COORDINATES-LON:35.9209370613
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

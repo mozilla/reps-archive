@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@920
+CLASS:PUBLIC
+DTSTAMP:20200423T213750Z
+DTSTART:20130601T110000Z
+DTEND:20130601T120000Z
+LOCATION:Bangladesh University of Engineering &amp; Technology\, Dhaka\, Bangl
+ adesh
+SUMMARY:MozCoffe (And Keon Showdown!) @ BUET
+DESCRIPTION:We would like to arrange a MozCoffee mainly to demonstrate Keo
+ n phones received by Bangladesh Reps\, at BUET (Bangladesh University of E
+ ngineering &amp; Technology) campus. There will be demos\, tech discussions\, 
+ chit-chats\, snacks and hunt for possible contributors and student ambassa
+ dors. :)
+URL:https://reps.mozilla.org/e/mozcoffe-and-keon-showdown-buet/
+SEQUENCE:3
+X-COORDINATES-LAT:23.2413461024
+X-COORDINATES-LON:90.703125
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

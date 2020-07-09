@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4645
+CLASS:PUBLIC
+DTSTAMP:20200423T161053Z
+DTSTART:20151126T050000Z
+DTEND:20151126T103000Z
+LOCATION:Sherpur\, Sherpur\, Bangladesh
+SUMMARY:Windows 10 Community Activation Sherpur
+DESCRIPTION:This event will help the participants to set Firefox as their 
+ default browser on their windows 10 operating system running devices. Peop
+ le will also learn about Firefox for Android on this event. They will be g
+ iven small swags and we will discuss about the latest features of Firefox.
+URL:https://reps.mozilla.org/e/windows-10-community-activation-sherpur/
+SEQUENCE:3
+X-COORDINATES-LAT:25.0847438119
+X-COORDINATES-LON:90.1807594299
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

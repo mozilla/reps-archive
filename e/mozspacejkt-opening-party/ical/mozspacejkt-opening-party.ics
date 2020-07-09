@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5428
+CLASS:PUBLIC
+DTSTAMP:20200407T175200Z
+DTSTART:20160513T120000Z
+DTEND:20160513T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Mozilla Community Space Jakarta Opening Party
+DESCRIPTION:An opening party for the new Mozilla Community Space in Jakart
+ a\, Indonesia.
+URL:https://reps.mozilla.org/e/mozspacejkt-opening-party/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.18773495168
+X-COORDINATES-LON:106.83687973
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

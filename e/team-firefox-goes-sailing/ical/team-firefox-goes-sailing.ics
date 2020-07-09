@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@248
+CLASS:PUBLIC
+DTSTAMP:20200423T225122Z
+DTSTART:20121026T100000Z
+DTEND:20121030T110000Z
+LOCATION:Adriatic Sea\, Split\, Croatia
+SUMMARY:Team Firefox goes sailing
+DESCRIPTION:I&#39;ll be attending a small boat race in the Adriatic Sea at the
+  end of this month. Competing will be 12 boats (Bavaria Vision 46 - http:/
+ /www.bavariayachts.com/bavaria-vision-46.php) and my boat would like to be
+  named &#34;Team Firefox&#34;.\n\n1. Are we allowed to use this name?\n\n2. We&#39;d l
+ ike to wear Firefox T-shirts\, put a huge Firefox logo on the main sail an
+ d put some additional stickers to the trunk.
+URL:https://reps.mozilla.org/e/team-firefox-goes-sailing/
+SEQUENCE:0
+X-COORDINATES-LAT:43.4489310559
+X-COORDINATES-LON:16.4520263672
+X-COUNTRY-CODE:hr
+END:VEVENT
+
+END:VCALENDAR

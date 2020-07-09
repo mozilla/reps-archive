@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2362
+CLASS:PUBLIC
+DTSTAMP:20200407T182631Z
+DTSTART:20140707T023000Z
+DTEND:20140707T080000Z
+LOCATION:Agrabhodhi School\, Kanthale\, Kantalai\, Sri Lanka
+SUMMARY:FOSS &amp; Mozilla event for Agrabhodhi School
+DESCRIPTION:As per the request of the school\, we will include few FOSS to
+ pics along with our own content.\n\nThe event will cover following topics.
+  \n\nIntroduction to FOSS\nFOSS tools for Education\nIntroduction Mozilla\
+ nNews Firefox Desktop\nFirefoxOS \nIntroducing WebMaker Tools\nHow to cont
+ ribute Mozilla
+URL:https://reps.mozilla.org/e/foss-mozilla-event-for-agrabhodhi-school/
+SEQUENCE:5
+X-COORDINATES-LAT:8.3595599645
+X-COORDINATES-LON:80.9978256212
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

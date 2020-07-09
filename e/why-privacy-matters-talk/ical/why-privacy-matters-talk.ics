@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8361
+CLASS:PUBLIC
+DTSTAMP:20200423T084340Z
+DTSTART:20190130T220000Z
+DTEND:20190130T230000Z
+LOCATION:Technological Institute of Tapachula\, Tapachula\, Mexico
+SUMMARY:Why Privacy Matters?  - Talk
+DESCRIPTION:As part of the activities of the Privacy Month campaign I will
+  visit the Technological Institute of Tapachula to give a talk about Priva
+ cy and Security
+URL:https://reps.mozilla.org/e/why-privacy-matters-talk/
+SEQUENCE:1
+X-COORDINATES-LAT:14.9055599
+X-COORDINATES-LON:-92.2634206
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

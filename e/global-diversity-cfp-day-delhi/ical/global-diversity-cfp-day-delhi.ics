@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8435
+CLASS:PUBLIC
+DTSTAMP:20200407T174125Z
+DTSTART:20190302T063000Z
+DTEND:20190302T113000Z
+LOCATION:Classroom\, Ground floor\, National Institute of Public Finance a
+ nd Policy (NIPFP)\, New Delhi\, India
+SUMMARY:Global Diversity CFP Day - Delhi
+DESCRIPTION:On Saturday 2nd March 2019 we will host the second edition of 
+ Global Diversity CFP Day following the success of the 2018 event where 53 
+ workshops took place!\n\nIn 2019 there will be numerous workshops hosted a
+ round the globe encouraging and advising newbie speakers to put together y
+ our very first talk proposal and share your own individual perspective on 
+ any subject of interest to people in tech.
+URL:https://reps.mozilla.org/e/global-diversity-cfp-day-delhi/
+SEQUENCE:0
+X-COORDINATES-LAT:28.5311331232
+X-COORDINATES-LON:77.1961283666
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

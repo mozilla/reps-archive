@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1819
+CLASS:PUBLIC
+DTSTAMP:20200423T202610Z
+DTSTART:20140219T163000Z
+DTEND:20140219T223000Z
+LOCATION:TBD\, Cumaná\, Venezuela
+SUMMARY:Firefox Os Workshop UPTOS Clodosbaldo Russián
+DESCRIPTION:In this workshop I will be giving a talk ons development\, int
+ egrating new partners for mozilla\, application developers with local cont
+ ent for the platform firefoxos\, disseminate new web technologies for an o
+ pen web\, this university still has not been given any event mozilla and t
+ here are students with good potential
+URL:https://reps.mozilla.org/e/firefox-os-workshop-uptos-clodosbaldo-russi
+ an/
+SEQUENCE:24
+X-COORDINATES-LAT:10.445835719
+X-COORDINATES-LON:-64.1686249059
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

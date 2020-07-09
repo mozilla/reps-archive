@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1783
+CLASS:PUBLIC
+DTSTAMP:20200423T201341Z
+DTSTART:20140321T120000Z
+DTEND:20140321T140000Z
+LOCATION:University of Rwanda\, College of Science and Technology\, Kigali
+ \, Rwanda
+SUMMARY:KIST FSA Meetup
+DESCRIPTION:FSA workshop organized by the local Mozilla Rwanda community f
+ or the purporse of recruiting and trainning FSAs
+URL:https://reps.mozilla.org/e/kist-fsa-meetup/
+SEQUENCE:4
+X-COORDINATES-LAT:-1.96611415353
+X-COORDINATES-LON:30.08185
+X-COUNTRY-CODE:rw
+END:VEVENT
+
+END:VCALENDAR

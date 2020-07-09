@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4190
+CLASS:PUBLIC
+DTSTAMP:20200423T165837Z
+DTSTART:20150726T130000Z
+DTEND:20150726T150000Z
+LOCATION:Pune Community Space\, Pune\, India
+SUMMARY:MozCafe Pune
+DESCRIPTION:Agenda :\n- Inauguration of the &#39;Pune Community Space&#39;\n- Brie
+ fing on the upcoming events\n- Planning on the inauguration of 2 new FSA c
+ lubs\n- Planning for the &#39;Teach the Trainer&#39; event
+URL:https://reps.mozilla.org/e/mozcafe-pune-4/
+SEQUENCE:3
+X-COORDINATES-LAT:18.5189935051
+X-COORDINATES-LON:73.8539904354
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

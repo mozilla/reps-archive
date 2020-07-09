@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1127
+CLASS:PUBLIC
+DTSTAMP:20200423T212245Z
+DTSTART:20130730T020000Z
+DTEND:20130730T060000Z
+LOCATION:AMIK Bukittinggi\, Bukittinggi\, Indonesia
+SUMMARY:MozKampusBkt\; AMIK Bukittinggi
+DESCRIPTION:(This event was rejected unilaterally by Country Manager)  Moz
+ illa Indonesia Community with AMIK Bukittinggi will held a MozKampus\, we&#39;
+ re gonna share about the FirefoxOS and Marketplace\, and Firefox Localizat
+ ion in Minangkabau Language.. Get early hands-on with Firefox OS Phone (Ke
+ on)\, first time in Sumatra
+URL:https://reps.mozilla.org/e/mozkampusbkt-amik-bukittinggi/
+SEQUENCE:3
+X-COORDINATES-LAT:-0.304182531036
+X-COORDINATES-LON:100.37109375
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@441
+CLASS:PUBLIC
+DTSTAMP:20200423T221945Z
+DTSTART:20130126T080000Z
+DTEND:20130126T183000Z
+LOCATION:Loft44 (http://www.loft44.pl)\, Warsaw\, Poland
+SUMMARY:Firefox OS App Days Warsaw
+DESCRIPTION:The Warsaw leg of the global Firefox OS App Days series. Web a
+ nd App developers will be introduced to Firefox OS and will be making/hack
+ ing Firefox OS apps. After the hacking and making\, folks will have time t
+ o unwind and discuss their apps over a few drinks.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-warsaw/
+SEQUENCE:0
+X-COORDINATES-LAT:52.2584390874
+X-COORDINATES-LON:20.9645748138
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

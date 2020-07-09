@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3266
+CLASS:PUBLIC
+DTSTAMP:20200423T181427Z
+DTSTART:20141223T093000Z
+DTEND:20141223T120000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:mozcafe meetup
+DESCRIPTION:This event is focused on meetup with new contributors with cor
+ e members of community\,discussion on different different pathways to cont
+ ribute in Mozilla. \nand discussion about mozschoolz1
+URL:https://reps.mozilla.org/e/mozcafe-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:17.416654763
+X-COORDINATES-LON:78.4122490874
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

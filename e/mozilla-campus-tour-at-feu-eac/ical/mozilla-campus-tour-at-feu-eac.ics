@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1087
+CLASS:PUBLIC
+DTSTAMP:20200407T175730Z
+DTSTART:20141101T050000Z
+DTEND:20141101T090000Z
+LOCATION:Far Eastern University - East Asia College\, Manila\, Philippines
+SUMMARY:Mozilla Campus Tour at FEU-EAC
+DESCRIPTION:There would be a discussion about how the community started in
+  the country and will introduce to the participants the Firefox Browser an
+ d FirefoxOS\, will also discuss the FSA program to the students and profes
+ sors.
+URL:https://reps.mozilla.org/e/mozilla-campus-tour-at-feu-eac/
+SEQUENCE:9
+X-COORDINATES-LAT:14.604473
+X-COORDINATES-LON:120.987278
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

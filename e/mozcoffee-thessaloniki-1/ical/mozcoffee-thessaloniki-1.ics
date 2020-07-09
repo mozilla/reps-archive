@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4512
+CLASS:PUBLIC
+DTSTAMP:20200423T163204Z
+DTSTART:20151003T150000Z
+DTEND:20151003T170000Z
+LOCATION:TechMinistry\, Ionos Dragoumi 39\, 6th floor\, Thessaloniki\, Gre
+ ece
+SUMMARY:MozCoffee Thessaloniki
+DESCRIPTION:Gathering of the Mozilla aficionados in Thessaloniki.
+URL:https://reps.mozilla.org/e/mozcoffee-thessaloniki-1/
+SEQUENCE:5
+X-COORDINATES-LAT:40.6375015461
+X-COORDINATES-LON:22.9406098723
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

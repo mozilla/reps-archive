@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6408
+CLASS:PUBLIC
+DTSTAMP:20200423T112207Z
+DTSTART:20170322T173000Z
+DTEND:20170322T200000Z
+LOCATION:Kawiarnia Hoża 51\, Warsaw\, Poland
+SUMMARY:Gamedev.js Warsaw #3
+DESCRIPTION:Monthly meetup about HTML5 game development - in Polish\, with
+  recorded talks.
+URL:https://reps.mozilla.org/e/gamedev-js-warsaw-3/
+SEQUENCE:1
+X-COORDINATES-LAT:52.224671
+X-COORDINATES-LON:21.01028
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

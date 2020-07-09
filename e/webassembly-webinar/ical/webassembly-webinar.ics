@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9160
+CLASS:PUBLIC
+DTSTAMP:20200407T170214Z
+DTSTART:20200213T113000Z
+DTEND:20200213T133000Z
+LOCATION:Online for OSOC Students\, Online\, India
+SUMMARY:WebAssembly Webinar
+DESCRIPTION:WebAssembly Webinar for Trichy open source students - OSOC\, O
+ pen Source Open Community.\n\nWASM Presentation: https://drive.google.com/
+ file/d/1gyYnqfGXCx7DmjrDvmAcHvG3BZMIHnw3/view?usp=sharing\n\nCFP Presentat
+ ion: https://drive.google.com/file/d/1TdKeV2_Go53q-VSXK00wbDRAFamObm4C/vie
+ w?usp=sharing
+URL:https://reps.mozilla.org/e/webassembly-webinar/
+SEQUENCE:2
+X-COORDINATES-LAT:12.3757748474
+X-COORDINATES-LON:79.6054691076
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

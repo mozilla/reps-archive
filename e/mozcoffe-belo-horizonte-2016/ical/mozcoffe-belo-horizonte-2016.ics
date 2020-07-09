@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5870
+CLASS:PUBLIC
+DTSTAMP:20200423T145656Z
+DTSTART:20160914T180000Z
+DTEND:20160914T223000Z
+LOCATION:Shopping Cidade\, Belo Horizonte\, Brazil
+SUMMARY:MozCoffe Belo Horizonte 2016
+DESCRIPTION:MozCoffe to meet community volunteers near of the region.
+URL:https://reps.mozilla.org/e/mozcoffe-belo-horizonte-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:-19.9282757574
+X-COORDINATES-LON:-43.9583129995
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

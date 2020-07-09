@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7475
+CLASS:PUBLIC
+DTSTAMP:20200407T171518Z
+DTSTART:20180224T033000Z
+DTEND:20180225T003000Z
+LOCATION:KCG College of technology\, Chennai\, Chennai\, India
+SUMMARY:Mozilla @ Hash N Hack Hackathon
+DESCRIPTION:Hash N&#39; Hack is a 24 hours Hackathon organized by the &#39;Hashinc
+ &#39; Programming club of KCG College of Technology. We invite students from a
+ ll colleges to spend the weekend at KCG to hack some real problems.\n\nAt 
+ hash N Hack\, Mozilla Reps will attend the event as mentors and encourage 
+ the developer community to contribute to Mozilla projects.\n\nWe are given
+  2 slots to talk about WebVR and WebExtension for Firefox.
+URL:https://reps.mozilla.org/e/mozilla-hash-n-hack-hackathon/
+SEQUENCE:0
+X-COORDINATES-LAT:12.922354
+X-COORDINATES-LON:80.2389063
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

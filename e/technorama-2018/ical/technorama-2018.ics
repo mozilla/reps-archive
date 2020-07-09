@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7532
+CLASS:PUBLIC
+DTSTAMP:20200407T171700Z
+DTSTART:20180426T070000Z
+DTEND:20180426T120000Z
+LOCATION:KTU Santakos Slėnis\, Kaunas\, Lithuania
+SUMMARY:Technorama 2018
+DESCRIPTION:“Technorama 2018” is the most exciting junior\nresearchers
+ ’ exhibition in Lithuania\, which will be held\non 26 April 2018 and org
+ anised by one of the biggest\ntechnological universities in the Baltics 
+ – Kaunas\nUniversity of Technology (KTU). \n\nThe event is dedicated to:
+ \n• Showcase cutting-edge technologies\;\n• Discover new talents\;\n
+ • Promote public interest in technologies.\n\nAttendance is free and unr
+ estricted to the preview of products.
+URL:https://reps.mozilla.org/e/technorama-2018/
+SEQUENCE:9
+X-COORDINATES-LAT:54.9003759576
+X-COORDINATES-LON:23.9622236788
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

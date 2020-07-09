@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5239
+CLASS:PUBLIC
+DTSTAMP:20200407T174315Z
+DTSTART:20160402T080000Z
+DTEND:20160402T100000Z
+LOCATION:ZINC (Zain Innovation Campus) Jordan\, Amman\, Jordan
+SUMMARY:Developers of the future - Mozilla Jordanian club &amp; kidzilla
+DESCRIPTION:This event will be about teaching people programming and make 
+ workshops by very skilful developers who will teach the attendees (childre
+ n) how to start and how they can be the developers of the future with the 
+ best practices and tools\, Teaching them how to be a part of Mozilla progr
+ ammes.\nThis event is considered the first event for our club (Mozilla Jor
+ danian community club-the first Mozilla club in the middle east) as a part
+  Mozilla clubs programme.
+URL:https://reps.mozilla.org/e/developers-of-the-future-mozilla-jordanian-
+ club-kidzilla/
+SEQUENCE:2
+X-COORDINATES-LAT:31.9532546291
+X-COORDINATES-LON:35.9205293655
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

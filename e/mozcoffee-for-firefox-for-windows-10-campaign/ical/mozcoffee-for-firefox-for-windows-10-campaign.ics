@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4562
+CLASS:PUBLIC
+DTSTAMP:20200423T162311Z
+DTSTART:20151025T043000Z
+DTEND:20151025T113000Z
+LOCATION:Lucknow\,India\, Lucknow\, India
+SUMMARY:MozCoffee for Firefox for Windows 10 Campaign
+DESCRIPTION:In support to Windows 10 Community Activation Campaign Vnisha 
+ is hosting this event. Inviting Mozillians \, FSAs and newbies. This event
+  is solely to spread awareness about Firefox for Windows 10\, talk about h
+ ow it has been optimized especially for Windows 10\, how to retain the def
+ aults while updating\, and why should users opt for it in the first place.
+URL:https://reps.mozilla.org/e/mozcoffee-for-firefox-for-windows-10-campai
+ gn/
+SEQUENCE:2
+X-COORDINATES-LAT:26.8400534089
+X-COORDINATES-LON:80.9539945
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

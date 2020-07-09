@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@934
+CLASS:PUBLIC
+DTSTAMP:20200423T212332Z
+DTSTART:20130727T090000Z
+DTEND:20130727T120000Z
+LOCATION:De Bangoor Coffee House\, Cikarang\, Indonesia
+SUMMARY:MozKopDar CIKARANG
+DESCRIPTION:This is first event for mozillians based in Cikarang\, MozKopd
+ ar (MozCoffee) is small meetup for Mozillians in Cikarang to get update ab
+ out Mozilla latest updates\, like 15th anniversary of Mozilla\, Firefox\, 
+ Firefox for Android\, Firefox OS\, Firefox Marketplace\, apps for Firefox 
+ OS\, etc.
+URL:https://reps.mozilla.org/e/mozkopdar-cikarang/
+SEQUENCE:9
+X-COORDINATES-LAT:-6.27059425921
+X-COORDINATES-LON:107.046661377
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

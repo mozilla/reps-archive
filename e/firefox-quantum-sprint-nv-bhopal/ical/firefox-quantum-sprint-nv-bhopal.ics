@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7063
+CLASS:PUBLIC
+DTSTAMP:20200407T170212Z
+DTSTART:20170923T063000Z
+DTEND:20170923T083000Z
+LOCATION:Bhopal\, Bhopal\, India
+SUMMARY:Firefox Quantum Sprint -New Vision Bhopal
+DESCRIPTION:Firefox Quantum is soon to be launched and this is our opportu
+ nity to make Firefox rise again.Firefox Quantum Sprint and make a differen
+ ce by ensuring that Firefox runs smoothly in our region.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-nv-bhopal/
+SEQUENCE:2
+X-COORDINATES-LAT:23.1894942276
+X-COORDINATES-LON:77.4323540926
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@829
+CLASS:PUBLIC
+DTSTAMP:20200407T175841Z
+DTSTART:20130604T020000Z
+DTEND:20130604T070000Z
+LOCATION:STIKOM Hall - Raya Kedung Baruk 98\, Surabaya\, Indonesia
+SUMMARY:Seminar &#34;Getting Closer to Firefox OS&#34;
+DESCRIPTION:One day seminar about Mozilla\, Firefox OS\, &amp; Firefox Marketp
+ lace. Organized by Linux User Group of STIMIK STIKOM Surabaya (School of I
+ nformation Management &amp; Computer). All speakers are Mozilla Reps from Indo
+ nesia.
+URL:https://reps.mozilla.org/e/seminar-getting-closer-to-firefox-os/
+SEQUENCE:4
+X-COORDINATES-LAT:-7.22454622618
+X-COORDINATES-LON:112.777061462
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

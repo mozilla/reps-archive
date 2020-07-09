@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2340
+CLASS:PUBLIC
+DTSTAMP:20200407T180629Z
+DTSTART:20140530T143000Z
+DTEND:20140530T153000Z
+LOCATION:JU Srednja Stručna Škola\, Nikšic\, Montenegro
+SUMMARY:Phone donation press-conference
+DESCRIPTION:Mozilla of community of Montenegro donated Firefox OS phones t
+ o the High Vocational School in Nikšić\, Montenegro. On Friday\, 30th of
+  May\, we will held an press-conference.
+URL:https://reps.mozilla.org/e/phone-donation-press-conference/
+SEQUENCE:1
+X-COORDINATES-LAT:42.7741395281
+X-COORDINATES-LON:18.9598238464
+X-COUNTRY-CODE:me
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4508
+CLASS:PUBLIC
+DTSTAMP:20200407T174359Z
+DTSTART:20150917T154500Z
+DTEND:20150917T180000Z
+LOCATION:Preradovićeva 18\, Zagreb\, Croatia
+SUMMARY:JavaScript Zagreb Meetup #18
+DESCRIPTION:When your hammer is JavaScript\, everything begins to look lik
+ e a thumb!
+URL:https://reps.mozilla.org/e/javascript-zagreb-meetup-18/
+SEQUENCE:0
+X-COORDINATES-LAT:45.8103939632
+X-COORDINATES-LON:15.9743433596
+X-COUNTRY-CODE:hr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6521
+CLASS:PUBLIC
+DTSTAMP:20200407T174146Z
+DTSTART:20170601T043000Z
+DTEND:20170831T133000Z
+LOCATION:TBD\, Barasat\, India
+SUMMARY:Connecting 100 women first time user to a Healthy Web in Kolkata
+DESCRIPTION:In this workshop\, we will invite 100 women who are from low-i
+ ncome family background\, have not started using smart phone. We will do a
+  research a how they can join in Healthy Web. Then we will teach them thro
+ ugh a resource that will improve their lives and societies. We need to fin
+ d what are the barriers divide them to adopt online lives. We will give fu
+ rther skills to overcome that issue. Other than that we will give them dig
+ ital skills and privacy issue.
+URL:https://reps.mozilla.org/e/connecting-100-women-first-time-user-to-a-h
+ ealthy-web-in-kolkata/
+SEQUENCE:1
+X-COORDINATES-LAT:22.184014214
+X-COORDINATES-LON:88.8940420747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

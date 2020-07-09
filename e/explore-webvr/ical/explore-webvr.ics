@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7322
+CLASS:PUBLIC
+DTSTAMP:20200423T100643Z
+DTSTART:20180114T053000Z
+DTEND:20180114T113000Z
+LOCATION:TBD in Lucknow\, Lucknow\, India
+SUMMARY:Explore WebVR
+DESCRIPTION:The objective of this event to give opportunity to the univers
+ ity under graduates to explore the fun around WebVR.
+URL:https://reps.mozilla.org/e/explore-webvr/
+SEQUENCE:1
+X-COORDINATES-LAT:26.8313215471
+X-COORDINATES-LON:80.9558258113
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

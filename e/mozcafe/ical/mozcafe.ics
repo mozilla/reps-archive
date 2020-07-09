@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@307
+CLASS:PUBLIC
+DTSTAMP:20200423T224421Z
+DTSTART:20121124T120000Z
+DTEND:20121124T150000Z
+LOCATION:Av. Dom Pedro I\, 3300 - Unaerp University\, Guarujá\, Brazil
+SUMMARY:MozCafé
+DESCRIPTION:One opportunity to talk about Mozilla Brazil community future 
+ actions in the coastal cities of São Paulo: Santos\, Guarujá and maybe S
+ ão Vicente.
+URL:https://reps.mozilla.org/e/mozcafe/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.977313
+X-COORDINATES-LON:-46.221868
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

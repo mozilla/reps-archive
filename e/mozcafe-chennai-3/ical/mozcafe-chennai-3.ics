@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2301
+CLASS:PUBLIC
+DTSTAMP:20200423T193947Z
+DTSTART:20140608T033000Z
+DTEND:20140608T073000Z
+LOCATION:IRC-#mozcafechennai\, Chennai\, India
+SUMMARY:MozCafe Chennai
+DESCRIPTION:Monthly meet of Mozillians in and around Chennai. \nPlanning o
+ f further events\, building a roadmap and discussion about contributing to
+  Mozilla. \nFSA&#39;s\, Reps and Mozillians from Chennai are invited to attend
+ .\n\nThis time the MozCafe Chennai would be happening on IRC-No worries\, 
+ we&#39;ll make coffee and have em as we chat.
+URL:https://reps.mozilla.org/e/mozcafe-chennai-3/
+SEQUENCE:6
+X-COORDINATES-LAT:13.0536535185
+X-COORDINATES-LON:80.2470055
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

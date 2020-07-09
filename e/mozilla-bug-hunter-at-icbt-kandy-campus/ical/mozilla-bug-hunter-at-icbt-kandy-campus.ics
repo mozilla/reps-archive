@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8626
+CLASS:PUBLIC
+DTSTAMP:20200407T182433Z
+DTSTART:20190614T053000Z
+DTEND:20190614T090000Z
+LOCATION:ICBT Kandy Conference hall\, Kandy\, Sri Lanka
+SUMMARY:Mozilla Bug Hunter at ICBT Kandy Campus
+DESCRIPTION:Mozilla Sri Lanka will be organizing a Bug hunter event with t
+ he collaboration of Mozilla Campus club of ICBT Kandy.
+URL:https://reps.mozilla.org/e/mozilla-bug-hunter-at-icbt-kandy-campus/
+SEQUENCE:3
+X-COORDINATES-LAT:7.28244401232
+X-COORDINATES-LON:80.6167316437
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

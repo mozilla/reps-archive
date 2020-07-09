@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1233
+CLASS:PUBLIC
+DTSTAMP:20200423T211406Z
+DTSTART:20130905T140000Z
+DTEND:20130905T180000Z
+LOCATION:Politecnico Colombiano\, Medellín\, Colombia
+SUMMARY:Firefox OS Meetup Medellin
+DESCRIPTION:The Politecnico Colombiano\, (a technical university) gave us 
+ an space for 4 meetups in September\, October(2) and November.  Each meetu
+ ps in will be focused on different Topics: Firefox OS and Marketplace\, Op
+ en Web and Mozilla\, Web maker\, Popcorn maker. The first meetup is about 
+ Firefox OS and Marketplace as opportunity for developers\, students\, teac
+ hers and business. The space is free\, and the univeriuty will pay for dri
+ nks and snaks.
+URL:https://reps.mozilla.org/e/firefox-os-meetup-medellin/
+SEQUENCE:4
+X-COORDINATES-LAT:6.20837300896
+X-COORDINATES-LON:-75.5770325661
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

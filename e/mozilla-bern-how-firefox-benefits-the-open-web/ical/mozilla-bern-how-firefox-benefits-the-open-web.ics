@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3955
+CLASS:PUBLIC
+DTSTAMP:20200423T171646Z
+DTSTART:20150608T170000Z
+DTEND:20150608T190000Z
+LOCATION:Netcase GmbH\, Weihergasse 7\, 3013 Bern\, Berne\, Switzerland
+SUMMARY:Mozilla Bern - How Firefox benefits the Open Web
+DESCRIPTION:Michael will talk about the newest features of Firefox\, what 
+ we do for privacy and how we protect the Web. And of course all Mozillians
+  will be available for questions :)\n\nFurther we&#39;d like to hear your inpu
+ t. What do you expect of Firefox and Mozilla?\n\n(side note\, I mostly exp
+ ect Developers to come here)
+URL:https://reps.mozilla.org/e/mozilla-bern-how-firefox-benefits-the-open-
+ web/
+SEQUENCE:2
+X-COORDINATES-LAT:46.9454096616
+X-COORDINATES-LON:7.44447934623
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

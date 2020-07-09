@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2993
+CLASS:PUBLIC
+DTSTAMP:20200423T182638Z
+DTSTART:20141122T120000Z
+DTEND:20141123T190000Z
+LOCATION:Av. Providencia 229 \, Providencia\, Chile.\, Providencia\, Chile
+SUMMARY:ABRECL
+DESCRIPTION:This event aims specifically in the reuse of public data\, thi
+ s competition is called ABRECL\, visualization and hackathon.\n\nOrganized
+  by Consejo de la Transparencia is an autonomous public body with legal pe
+ rsonality and its own\, created by the Law on Transparency of Public Servi
+ ce and Access to Information Administration. And co-organized with SEGPRES
+  &#34;Ministerio Secretaría General de la Presidencia&#34;\, Government of Chile.
+URL:https://reps.mozilla.org/e/abrecl/
+SEQUENCE:7
+X-COORDINATES-LAT:-33.4372077021
+X-COORDINATES-LON:-70.6310706139
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

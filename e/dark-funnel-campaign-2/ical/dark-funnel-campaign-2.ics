@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8130
+CLASS:PUBLIC
+DTSTAMP:20200407T181847Z
+DTSTART:20180918T050000Z
+DTEND:20180918T060000Z
+LOCATION:Bacolod City\, Bacolod City\, Philippines
+SUMMARY:Dark Funnel Campaign
+DESCRIPTION:Search the web in your own language to find non-Mozilla sites 
+ with “unofficial Firefox download” links and report them here.\n\nMozi
+ lla BCD contributors join this event online.
+URL:https://reps.mozilla.org/e/dark-funnel-campaign-2/
+SEQUENCE:1
+X-COORDINATES-LAT:14.4736885717
+X-COORDINATES-LON:121.09277308
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

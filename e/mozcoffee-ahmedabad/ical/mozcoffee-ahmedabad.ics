@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3904
+CLASS:PUBLIC
+DTSTAMP:20200423T171214Z
+DTSTART:20150619T040000Z
+DTEND:20150619T063000Z
+LOCATION:Venture Cafe  C6 Road Navarangpura\, Ahmadabad\, India
+SUMMARY:MozCoffee Ahmedabad
+DESCRIPTION:The objective of &#34;MozCoffee-Ahmrdabad&#34; is to reinitialize the 
+ community and reconnecting FSAs in and around Ahmedabad city. Community in
+ volvement\, engagement and planning the roadmap for next six months.
+URL:https://reps.mozilla.org/e/mozcoffee-ahmedabad/
+SEQUENCE:3
+X-COORDINATES-LAT:23.0541953836
+X-COORDINATES-LON:72.5526514649
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

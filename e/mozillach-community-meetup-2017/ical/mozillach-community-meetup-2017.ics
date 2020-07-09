@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6206
+CLASS:PUBLIC
+DTSTAMP:20200423T113303Z
+DTSTART:20170128T120000Z
+DTEND:20170128T190000Z
+LOCATION:Liip\, Limmatstrasse 183\, Zürich\, Zurich\, Switzerland
+SUMMARY:MozillaCH - Community Meetup 2017
+DESCRIPTION:Let&#39;s come together for our half-yearly Mozilla Switzerland co
+ mmunity meetup. We will discuss about our focus areas during 2017 and seve
+ ral other community related topics. This will be mostly a discussion\, not
+  just talks. See the Meetup link for the agenda.
+URL:https://reps.mozilla.org/e/mozillach-community-meetup-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3861168255
+X-COORDINATES-LON:8.5292644499
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@426
+CLASS:PUBLIC
+DTSTAMP:20200407T180436Z
+DTSTART:20130126T090000Z
+DTEND:20130126T220000Z
+LOCATION:INSAT - Avenue Mohamed Ali Akid\, Cité Olympique\, Ariana\, Tuni
+ sia
+SUMMARY:Firefox App Day - Tunis\, Tunisia
+DESCRIPTION:Le moment est venu pour célébrer le nouveau &#34;Bébé&#34; de Mozi
+ lla et quand on dit &#34;Nouveau Bébé&#34; on parle du nouveau projet Boot To Ge
+ cko ou encore connu sous le nom de FireFoxOS. Et pour cela Mozilla Tunisia
+  organisera le sammedi\, 26 janvier 2013 un événement sera sous forme d&#39;
+ un hackathon ponctué d&#39;ateliers et d&#39;une séance de questions / réponses
+ . A la fin de la journée\, les meilleures applications seront récompens
+ ées. Et tout se terminera par une fête! 
+URL:https://reps.mozilla.org/e/firefox-app-day-tunisi-tunisia/
+SEQUENCE:0
+X-COORDINATES-LAT:36.84485
+X-COORDINATES-LON:10.19882
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

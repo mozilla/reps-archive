@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3035
+CLASS:PUBLIC
+DTSTAMP:20200407T183318Z
+DTSTART:20141026T160000Z
+DTEND:20141101T010000Z
+LOCATION:Mariott\, Santa Clara\, Santa Clara\, United States
+SUMMARY:W3C TPAC
+DESCRIPTION:W3C TPAC is a conference for all W3C Working groups to get tog
+ ether to standardize technologies on the web!
+URL:https://reps.mozilla.org/e/w3c-tpac-1/
+SEQUENCE:1
+X-COORDINATES-LAT:37.3904908
+X-COORDINATES-LON:-121.9744711
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6018
+CLASS:PUBLIC
+DTSTAMP:20200407T181212Z
+DTSTART:20161222T070000Z
+DTEND:20161222T160500Z
+LOCATION:M&#39;sila\, M&#39;sila\, Algeria
+SUMMARY:Mini-festival  For Digital Content Creation
+DESCRIPTION:Looking at the digital content creation\, digital design\, and
+  the creation of blogs and websites. A small look around the Internet of T
+ hings.
+URL:https://reps.mozilla.org/e/mini-festival-for-digital-content-creation/
+SEQUENCE:3
+X-COORDINATES-LAT:35.7053900419
+X-COORDINATES-LON:4.54367637285
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

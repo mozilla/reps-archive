@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7261
+CLASS:PUBLIC
+DTSTAMP:20200407T174156Z
+DTSTART:20180424T083000Z
+DTEND:20180424T100000Z
+LOCATION:Ies Marratxi\, Palma de Mallorca\, Spain
+SUMMARY:WebVR on High School (I)
+DESCRIPTION:This is the first event of a serie of events that I&#39;m going to
+  do that will show to the different High School students of Mallorca what 
+ is WebVR and how they can try it and participate with Mozilla.
+URL:https://reps.mozilla.org/e/webvr-on-high-school-i/
+SEQUENCE:3
+X-COORDINATES-LAT:39.6170433965
+X-COORDINATES-LON:2.71543693525
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

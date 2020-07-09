@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3462
+CLASS:PUBLIC
+DTSTAMP:20200407T165707Z
+DTSTART:20150716T110000Z
+DTEND:20150827T133000Z
+LOCATION:Mozilla Community Space Manila (MozSpaceMNL)\, Makati City\, Phil
+ ippines
+SUMMARY:Firefox OS Workshop Series Manila
+DESCRIPTION:This Firefox OS Workshop Series is a 3-week hands-on course to
+  be held at MozSpaceMNL. At the end of the course\, participants will have
+  a better understanding of how to create webapps for Firefox OS using open
+  web technologies.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-series-manila/
+SEQUENCE:7
+X-COORDINATES-LAT:14.5468958061
+X-COORDINATES-LON:121.015858412
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

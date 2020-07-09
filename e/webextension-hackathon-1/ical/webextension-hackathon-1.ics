@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6553
+CLASS:PUBLIC
+DTSTAMP:20200407T171653Z
+DTSTART:20170617T123000Z
+DTEND:20170618T043000Z
+LOCATION:Collab House\, Hyderabad\, Hyderabad\, India
+SUMMARY:WebExtension Hackathon
+DESCRIPTION:A overnight Hackathon with a goal to develop and publish add-o
+ ns to AMO.
+URL:https://reps.mozilla.org/e/webextension-hackathon-1/
+SEQUENCE:6
+X-COORDINATES-LAT:17.4097342
+X-COORDINATES-LON:78.5052819
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

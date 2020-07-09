@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8655
+CLASS:PUBLIC
+DTSTAMP:20200407T181214Z
+DTSTART:20190620T163000Z
+DTEND:20190620T173000Z
+LOCATION:Online\, Kandy\, Sri Lanka
+SUMMARY:Mozilla Sri Lanka status and update call - 20th of June
+DESCRIPTION:Reps and Mozilla Sri Lanka community members will join to a ca
+ ll to discuss and plan future plans.
+URL:https://reps.mozilla.org/e/mozilla-sri-lanka-status-and-update-call-20
+ th-of-june/
+SEQUENCE:1
+X-COORDINATES-LAT:7.11452004551
+X-COORDINATES-LON:79.9289703369
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

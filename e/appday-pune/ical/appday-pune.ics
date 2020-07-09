@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3131
+CLASS:PUBLIC
+DTSTAMP:20200423T181545Z
+DTSTART:20141220T040000Z
+DTEND:20141220T113000Z
+LOCATION:MKSSS&#39;s Cummins College of Engineering for Women\, Hingne Budrukh
+ \, Karvenagar\, Maharashtra 411052.\, Pune\, India
+SUMMARY:Appday Pune
+DESCRIPTION:This event is to make awesome apps for the marketplace and hel
+ p millions of people with your technical creativity.
+URL:https://reps.mozilla.org/e/appday-pune/
+SEQUENCE:4
+X-COORDINATES-LAT:18.4092607593
+X-COORDINATES-LON:73.9524078369
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6982
+CLASS:PUBLIC
+DTSTAMP:20200423T101906Z
+DTSTART:20171110T053000Z
+DTEND:20171112T113000Z
+LOCATION:Pandit Deendayal Petroleum University\, Gandhinagar\, India
+SUMMARY:MozConnect with TESSERACT&#39;17
+DESCRIPTION:&#34;TESSERACT&#34; - The Annual Science and Technical Fest of Pandit 
+ Deendayal Petroleum University is a three-day event which hosts a number o
+ f colleges/universities from all over the country. It is a platform where 
+ students get a chance to polish their skills and explore their potential. 
+ The Technical fest will comprise of Events\, Exhibitions\, Guest Lectures 
+ and a lot more\, which aims to provide holistic exposure to students.
+URL:https://reps.mozilla.org/e/moconnect-with-tesseract-16/
+SEQUENCE:7
+X-COORDINATES-LAT:23.0062675943
+X-COORDINATES-LON:72.5363158062
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

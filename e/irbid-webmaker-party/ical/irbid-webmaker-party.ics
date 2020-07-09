@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1884
+CLASS:PUBLIC
+DTSTAMP:20200407T181621Z
+DTSTART:20140315T100000Z
+DTEND:20140315T140000Z
+LOCATION:Khaled ben alwaleed high school\, irbid\, Jordan
+SUMMARY:Irbid WebMaker party
+DESCRIPTION:The event will be held in Irbid (Jordan) organized by Mozilla 
+ Jordan community. Put simply\, we will teach the Web mostly to high school
+  students but also to people from different age groups. There will be a 4 
+ hour &#34;hack jam&#34; filled with awesomeness!
+URL:https://reps.mozilla.org/e/irbid-webmaker-party/
+SEQUENCE:9
+X-COORDINATES-LAT:32.529118556
+X-COORDINATES-LON:35.8692383757
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

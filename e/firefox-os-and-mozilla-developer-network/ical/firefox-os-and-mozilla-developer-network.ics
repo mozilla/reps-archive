@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@288
+CLASS:PUBLIC
+DTSTAMP:20200407T175904Z
+DTSTART:20121112T100000Z
+DTEND:20121112T140000Z
+LOCATION:Plug &amp; Play Technology Garden \, Bangsar\, Malaysia
+SUMMARY:Firefox OS and Mozilla Developer Network 
+DESCRIPTION:Web developers! Please join Mozilla&#39;s Developer Engagement tea
+ m on Monday\, 12 November for a fun and informative evening\; featuring ta
+ lks by friendly folks from the UK\, US\, and Canada. We’ll be speaking o
+ n Firefox OS\, HTML5 Apps &amp; Games\, Firefox Addons\, Open Web documentatio
+ n\, and also hosting talks on a variety of subjects by the local Mozilla c
+ ommunity.
+URL:https://reps.mozilla.org/e/firefox-os-and-mozilla-developer-network/
+SEQUENCE:0
+X-COORDINATES-LAT:3.119428
+X-COORDINATES-LON:101.67594
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

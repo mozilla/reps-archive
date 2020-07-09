@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6299
+CLASS:PUBLIC
+DTSTAMP:20200407T181538Z
+DTSTART:20170324T080000Z
+DTEND:20170325T170000Z
+LOCATION:Università Roma Tre\, Roma\, Italy
+SUMMARY:Codemotion Rome 2017 Edition
+DESCRIPTION:Codemotion is the biggest tech conference in Italy and one of 
+ the most important in Europe\, with a network of more than 30k developers.
+  What are you waiting for to be a Codemotioner?
+URL:https://reps.mozilla.org/e/codemotion-rome-2017-edition/
+SEQUENCE:3
+X-COORDINATES-LAT:41.8620534
+X-COORDINATES-LON:12.4795619
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8017
+CLASS:PUBLIC
+DTSTAMP:20200407T170230Z
+DTSTART:20180808T130000Z
+DTEND:20180809T220000Z
+LOCATION:Rice University\, Houston\, United States
+SUMMARY:Rice Data Science Bootcamp (including DeepSpeech)
+DESCRIPTION:The Data Science Boot Camp \n\nLeading Data Science faculty se
+ rve as instructors for the Data Science Boot Camp at Rice University.   Th
+ e curriculum covers topics ranging from R\, Python\, Cloud Computing\, Uns
+ upervised and Supervised Learning to Deep Learning.  Using Rice’s shared
+  computing infrastructure\, hands on laboratory sessions supported by the 
+ instructor and lab assistants\, will be offered each day allowing particip
+ ants to practice what is being taught in the class sessions.
+URL:https://reps.mozilla.org/e/rice-data-science-bootcamp-including-deepsp
+ eech/
+SEQUENCE:1
+X-COORDINATES-LAT:29.7405135355
+X-COORDINATES-LON:-95.3868949413
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

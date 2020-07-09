@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8416
+CLASS:PUBLIC
+DTSTAMP:20200423T084105Z
+DTSTART:20190223T050000Z
+DTEND:20190223T090000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Taipei\, Taiwan
+SUMMARY:Common Voice Sprint 中文語料松 ||
+DESCRIPTION:這一個下午，我們將一同收集整理公眾領域的
+ 對話語料，目標是增加一倍以上的句子，讓未來的語音
+ 資料更完整，更豐富，錄音體驗更有趣。
+URL:https://reps.mozilla.org/e/common-voice-sprint-zhong-wen-yu-liao-song-
+ 1/
+SEQUENCE:1
+X-COORDINATES-LAT:25.0440223775
+X-COORDINATES-LON:121.532300592
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

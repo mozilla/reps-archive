@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8529
+CLASS:PUBLIC
+DTSTAMP:20200407T174123Z
+DTSTART:20190520T043000Z
+DTEND:20190528T063000Z
+LOCATION:Jaipur\, Jaipur\, India
+SUMMARY:IIPOS - Jaipur
+DESCRIPTION:A Campaign for Industrial Inclination Program Towards Open Sou
+ rce. In this there shall be representatives from various small scale indus
+ tries learning about how various open source tools and programs can assist
+  them in improvising their working efficiency. Also How can they return th
+ e best of them to the technical communities. We shall be meeting these bus
+ iness owners and their team to discuss about the power of open source.
+URL:https://reps.mozilla.org/e/iipos-jaipur/
+SEQUENCE:5
+X-COORDINATES-LAT:26.8844115493
+X-COORDINATES-LON:75.8184528351
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

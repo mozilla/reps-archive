@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2276
+CLASS:PUBLIC
+DTSTAMP:20200407T180010Z
+DTSTART:20140523T060000Z
+DTEND:20140523T080000Z
+LOCATION:SMK Bahagia\, Bandung\, Indonesia
+SUMMARY:Webmaker Class Party @ SMK Bahagia
+DESCRIPTION:In this event\, students of SMK Bahagia will learn how to hack
+  the Web using Webmaker Tools. Then\, they use them for the assignments an
+ d many things.
+URL:https://reps.mozilla.org/e/webmaker-class-party-smk-bahagia/
+SEQUENCE:3
+X-COORDINATES-LAT:-6.94089093932
+X-COORDINATES-LON:107.629918814
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

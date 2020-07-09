@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3517
+CLASS:PUBLIC
+DTSTAMP:20200423T174720Z
+DTSTART:20150304T043000Z
+DTEND:20150305T113000Z
+LOCATION:Gojwara (Tentative)\, Srinagar\, India
+SUMMARY:L10n Hackathon - Kashmir
+DESCRIPTION:Event to introduce Urdu &amp; Kashmiri Localization.
+URL:https://reps.mozilla.org/e/l10n-hackathon-kashmir/
+SEQUENCE:9
+X-COORDINATES-LAT:34.0941316953
+X-COORDINATES-LON:74.8059997545
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

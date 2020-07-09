@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3616
+CLASS:PUBLIC
+DTSTAMP:20200423T174809Z
+DTSTART:20150301T063000Z
+DTEND:20150301T103000Z
+LOCATION:Hemkunj\,Tapovan road\, Krishna nagar\, Panchavati\, Nashik.\, Na
+ shik\, India
+SUMMARY:Mozilla Super Sunday Open Source Weekend - 2
+DESCRIPTION:As it has become a tradition for the Nashik Community\, Open S
+ ource weekend will keep happening every Sunday. The main objective of this
+  series of events would be to promote Open Source technologies and spread 
+ its awareness to more and more people. \nThis week\, we teach Wordpress an
+ d also explain the importance of Privacy and Security on the web.
+URL:https://reps.mozilla.org/e/mozilla-super-sunday-open-source-weekend-2/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0071434193
+X-COORDINATES-LON:73.803466558
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

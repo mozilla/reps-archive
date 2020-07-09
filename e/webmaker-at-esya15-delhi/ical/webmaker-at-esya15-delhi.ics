@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4129
+CLASS:PUBLIC
+DTSTAMP:20200423T165034Z
+DTSTART:20150821T043000Z
+DTEND:20150822T043000Z
+LOCATION:Indraprastha Institute of Information Technology\, OkhlaIndustria
+ l Estate PhaseIII\, Near GovindPuri Metro Station\, NewDelhi\,India–1100
+ 20\, New Delhi\, India
+SUMMARY:Hive at ESYA15 (Delhi)
+DESCRIPTION:IIIT-Delhi aim to build Esya as the platform for not only show
+ casing technical expertise and challenging the best in their fields but al
+ so at integrating technology with social causes. Esya ‘15 promises to be
+  an unprecedented celebration of budding talent\, technical excellence and
+  innovative minds.\nThis event is promising and 6000+ students are expecte
+ d to visit this event\, So Mozilla India would like to setup a Webmaker Bo
+ oth
+URL:https://reps.mozilla.org/e/webmaker-at-esya15-delhi/
+SEQUENCE:5
+X-COORDINATES-LAT:28.6230031055
+X-COORDINATES-LON:77.2114104778
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

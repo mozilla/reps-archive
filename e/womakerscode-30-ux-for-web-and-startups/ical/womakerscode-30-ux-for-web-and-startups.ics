@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6236
+CLASS:PUBLIC
+DTSTAMP:20200407T183724Z
+DTSTART:20170124T133000Z
+DTEND:20170124T173000Z
+LOCATION:Microsoft\, Sao Paulo\, Brazil
+SUMMARY:WoMakersCode #30: UX for Web and Startups
+DESCRIPTION:We are in a market moment that UX is considered a decisive fac
+ tor in the highly competitive scenario of startups. After all\, it has nev
+ er been easier to go to the neighbor&#39;s app / website\, if the neighbor off
+ ers a better product\, right? In such a world\, as a startup that is takin
+ g its first steps without much money and still needing to validate its sol
+ ution as soon as possible can you apply UX to your project?
+URL:https://reps.mozilla.org/e/womakerscode-30-ux-for-web-and-startups/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.5513987452
+X-COORDINATES-LON:-46.5504455566
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

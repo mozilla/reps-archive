@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5010
+CLASS:PUBLIC
+DTSTAMP:20200423T155804Z
+DTSTART:20160101T070000Z
+DTEND:20160101T090000Z
+LOCATION:Room 206 in Computer Science department building\, National Centr
+ al University\, Taiwan\, Nanjhuang Township\, Taiwan
+SUMMARY:AcademyNCU2015 - Mozilla &amp; Community
+DESCRIPTION:Introducing Mozilla Community - we will discuss about Mozilla\
+ , the definition of &#34;community\,&#34; the benefit\, and how to connect with th
+ e local community MozTW.\n\nThis is part of the course &#34;Implementation and
+  SDLC of Web Apps\,&#34; which organized by MoCoTW and NCU.
+URL:https://reps.mozilla.org/e/academyncu2015-mozilla-community/
+SEQUENCE:1
+X-COORDINATES-LAT:24.5877561879
+X-COORDINATES-LON:121.053222567
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

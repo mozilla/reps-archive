@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2807
+CLASS:PUBLIC
+DTSTAMP:20200407T175609Z
+DTSTART:20141005T080000Z
+DTEND:20141006T073000Z
+LOCATION:Thadomal Shahani Engineering College\, Bandra\, Mumbai\, India
+SUMMARY:Webmaker Hackjam @ TSEC
+DESCRIPTION:This will be a two day event at ISAAC - the Tech-Fest at TSEC.
+ On the first day\, there will be introductory talks about FOSS and Mozilla
+ . The second day would include hands-on sessions where students will be in
+ troduced to Webmaker and Appmaker.
+URL:https://reps.mozilla.org/e/webmaker-hackjam-tsec/
+SEQUENCE:10
+X-COORDINATES-LAT:19.0639173937
+X-COORDINATES-LON:72.8357228636
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@300
+CLASS:PUBLIC
+DTSTAMP:20200407T181130Z
+DTSTART:20121109T090000Z
+DTEND:20121109T110000Z
+LOCATION:Star Kabab Hotel and Restaurant (Dhanmondi Road 2)\, Dhaka\, Bang
+ ladesh
+SUMMARY:Mozilla Bangladesh Meetup and Firefox Birthday Celebration 2012
+DESCRIPTION:Meetup of Mozilla Bangladesh Community! Plus celebration of Fi
+ refox&#39;s 8th Birthday. \n\nVenue: Star Kabab Hotel and Restaurant (Dhanmond
+ i Road # 2)\n\n\n\nTime: 3 - 5 PM (tentative)\, please check the planning 
+ pad for udpates: https://etherpad.mozilla.org/remo-mozilla-bangladesh-meet
+ up-and-firefox-birthday-celebration-2012
+URL:https://reps.mozilla.org/e/mozilla-bangladesh-meetup-and-firefox-birth
+ day-celebration-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:23.7388208916
+X-COORDINATES-LON:90.3797149658
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

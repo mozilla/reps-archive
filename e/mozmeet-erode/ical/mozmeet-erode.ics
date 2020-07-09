@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1604
+CLASS:PUBLIC
+DTSTAMP:20200423T204527Z
+DTSTART:20131201T043000Z
+DTEND:20131201T073000Z
+LOCATION:Orange Computer Institute \, Perundurai\, Perundurai\, India
+SUMMARY:MozMeet Erode
+DESCRIPTION:MozMeet Erode is an informal and short gathering of volunteers
+  and newbies interested in getting involved with Mozilla . This event will
+  be a perfect chance to know deeper about Mozilla community and it&#39;s vario
+ us projects and initiatives . FSA in and around Erode is expected to join 
+ the event
+URL:https://reps.mozilla.org/e/mozmeet-erode/
+SEQUENCE:7
+X-COORDINATES-LAT:11.269191942
+X-COORDINATES-LON:77.5744011998
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

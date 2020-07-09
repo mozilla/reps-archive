@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1117
+CLASS:PUBLIC
+DTSTAMP:20200407T175541Z
+DTSTART:20130720T120000Z
+DTEND:20130720T210000Z
+LOCATION:Hotel\, Duque de Caxias\, Brazil
+SUMMARY:FSLDC - Duque de Caxias - RJ
+DESCRIPTION:Tradicionalmente\, durante o FSLDC\, são apresentadas palestr
+ as técnicas\, painéis e casos de sucesso nas áreas empresarial\, acadê
+ mica e pública de uso e desenvolvimento de Software Livre\, além de mini
+ cursos e workshops.\nAnualmente\, Duque de Caxias abre as portas para o So
+ ftware Livre e torna-se ponto de encontro das comunidades para troca de id
+ éias\, discussão de projetos e debates em torno desse tema.
+URL:https://reps.mozilla.org/e/fsldc-duque-de-caxias-rj/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.7796833153
+X-COORDINATES-LON:-43.3083844185
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

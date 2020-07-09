@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6983
+CLASS:PUBLIC
+DTSTAMP:20200423T102941Z
+DTSTART:20171006T150000Z
+DTEND:20171008T210000Z
+LOCATION:National University of Colombia\, Bogota\, Colombia
+SUMMARY:Mozilla Firefox 57 Sprint
+DESCRIPTION:In this event we will test version 57 of Firefox locally. We w
+ ill conduct a day of installation\, talks and also test several pages with
+  the objective of seeing if there are flaws and report them if necessary. 
+ The event will be held locally but will have 3 nodes in different universi
+ ties in Colombia.
+URL:https://reps.mozilla.org/e/mozilla-firefox-57-sprint/
+SEQUENCE:4
+X-COORDINATES-LAT:4.63595589243
+X-COORDINATES-LON:-74.0828990971
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

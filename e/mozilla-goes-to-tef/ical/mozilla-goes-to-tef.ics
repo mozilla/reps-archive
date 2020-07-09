@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1254
+CLASS:PUBLIC
+DTSTAMP:20200407T175505Z
+DTSTART:20130916T130000Z
+DTEND:20130916T210000Z
+LOCATION:Avenida Suba con calle 116\, Bogotá\, Colombia
+SUMMARY:Mozilla Goes to TEF
+DESCRIPTION:Evangelism\, spread out and show what Mozilla is in TEF office
+ s in Bogotá to support and increase the firefox OS launching campaign.
+URL:https://reps.mozilla.org/e/mozilla-goes-to-tef/
+SEQUENCE:5
+X-COORDINATES-LAT:4.69456937673
+X-COORDINATES-LON:-74.0687942505
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

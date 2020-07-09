@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3755
+CLASS:PUBLIC
+DTSTAMP:20200423T172723Z
+DTSTART:20150505T170000Z
+DTEND:20150505T190000Z
+LOCATION:Liip\, Limmatstrasse 183\, 8005 Zürich\, Zurich\, Switzerland
+SUMMARY:MozillaCH - Introduction to IndexedDB
+DESCRIPTION:Martin will introduce you to the API of IndexedDB from the vie
+ wpoint of someone who never heard of non-SQL databases or transactional da
+ tabases. Please register on meetup.
+URL:https://reps.mozilla.org/e/mozillach-introduction-to-indexeddb/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3861313535
+X-COORDINATES-LON:8.52930736524
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

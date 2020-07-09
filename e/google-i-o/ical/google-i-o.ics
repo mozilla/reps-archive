@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@868
+CLASS:PUBLIC
+DTSTAMP:20200423T214244Z
+DTSTART:20130518T123000Z
+DTEND:20130518T223000Z
+LOCATION:14 de Septiembre Ave.\, La Paz\, Bolivia
+SUMMARY:Google I/O
+DESCRIPTION:This is a main event of Google in the La Paz city and Mozilla 
+ will be invited to show the Firefox OS and show the advantage of this OS t
+ o users and developers. This is a great oportunity to us to show a Firefox
+  OS device.
+URL:https://reps.mozilla.org/e/google-i-o/
+SEQUENCE:1
+X-COORDINATES-LAT:-16.5228653787
+X-COORDINATES-LON:-68.1117850542
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

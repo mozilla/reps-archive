@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2494
+CLASS:PUBLIC
+DTSTAMP:20200423T182013Z
+DTSTART:20141206T070000Z
+DTEND:20141206T170000Z
+LOCATION:Óbudai Egyetem\, 1034 Budapest\, Bécsi út 96/B\, Budapest\, Hu
+ ngary
+SUMMARY:Firefox OS developer day
+DESCRIPTION:Developer focused event\, do together an application.
+URL:https://reps.mozilla.org/e/web-conference-2014/
+SEQUENCE:10
+X-COORDINATES-LAT:47.5348487939
+X-COORDINATES-LON:19.0330839157
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

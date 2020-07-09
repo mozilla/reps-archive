@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5798
+CLASS:PUBLIC
+DTSTAMP:20200423T150054Z
+DTSTART:20160901T050000Z
+DTEND:20160901T080000Z
+LOCATION:Lyceum of the Philippines University\, Intramuros\, Philippines
+SUMMARY:Campus DevCon at Lyceum of the Philippines University
+DESCRIPTION:Campus DevCon at Lyceum of the Philippines University is a gat
+ hering in partnership with Lyceum of the Philippines University that aims 
+ to augment the academic learnings of students with up-to-date trends in th
+ e IT industry. The event converges an average of 200 students taking up Co
+ mputer Science or other IT-related courses.
+URL:https://reps.mozilla.org/e/campus-devcon-at-lyceum-of-the-philippines-
+ university/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5916596809
+X-COORDINATES-LON:120.977969885
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

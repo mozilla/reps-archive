@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8089
+CLASS:PUBLIC
+DTSTAMP:20200407T174121Z
+DTSTART:20180912T014500Z
+DTEND:20180912T034500Z
+LOCATION:Sagarmatha College of Science and Technology\, Kathmandu\, Nepal
+SUMMARY:Software Freedom Day Pre-Event at Sagarmatha  Mozilla Club
+DESCRIPTION:Our goal in this celebration is to educate the worldwide publi
+ c about the benefits of using high\nquality FOSS in education\, in governm
+ ent\, at home\, and in business - in short\, everywhere! The nonprofit\nor
+ ganization Digital Freedom Foundation coordinates Software Freedom Day at 
+ a global level\,\nproviding support\, giveaways and a point of collaborati
+ on\, but volunteer teams around the world\norganize the local SFD events t
+ o impact their own communities.
+URL:https://reps.mozilla.org/e/software-freedom-day-pre-event-at-sagarmath
+ a-mozilla-club/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6625359066
+X-COORDINATES-LON:85.3286705003
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

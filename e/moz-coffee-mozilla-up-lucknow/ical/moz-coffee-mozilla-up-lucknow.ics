@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7047
+CLASS:PUBLIC
+DTSTAMP:20200407T171652Z
+DTSTART:20170924T103000Z
+DTEND:20170924T123000Z
+LOCATION:TBD\, Lucknow\, India
+SUMMARY:Moz Coffee - Mozilla UP (Lucknow)
+DESCRIPTION:Quick community meetup to discuss following * Onboarding new c
+ ontributors * Promoting/encouraging Womoz in the community. * MozActivate 
+ * Goals for upcoming quarters in the community.
+URL:https://reps.mozilla.org/e/moz-coffee-mozilla-up-lucknow/
+SEQUENCE:2
+X-COORDINATES-LAT:26.848623
+X-COORDINATES-LON:80.8024272
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

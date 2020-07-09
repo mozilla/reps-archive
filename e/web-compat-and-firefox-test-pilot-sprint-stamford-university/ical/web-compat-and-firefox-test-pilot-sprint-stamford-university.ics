@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5829
+CLASS:PUBLIC
+DTSTAMP:20200423T145133Z
+DTSTART:20161005T030000Z
+DTEND:20161005T120000Z
+LOCATION:Stamford University University\, Dhaka\, Bangladesh
+SUMMARY:Web Compat and Firefox Test Pilot Sprint @ Stamford University
+DESCRIPTION:To support Mozilla&#39;s Activate Campaign\, Mozillians from Stamf
+ ord University are going to organize day long activity to promote Mozilla 
+ and way of contribution.\n\nVarious activity regarding Web Compat and Fire
+ fox Test Pilot would be done.
+URL:https://reps.mozilla.org/e/web-compat-and-firefox-test-pilot-sprint-st
+ amford-university/
+SEQUENCE:0
+X-COORDINATES-LAT:23.7004454
+X-COORDINATES-LON:90.4996251
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

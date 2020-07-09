@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3899
+CLASS:PUBLIC
+DTSTAMP:20200407T182037Z
+DTSTART:20150529T040000Z
+DTEND:20150529T083000Z
+LOCATION:India Habitat Center\, Lodhi Road\, New Delhi\, New Delhi\, India
+SUMMARY:Mozilla Presence at Roundtable on &#34;FOSS for Public Use: FOSS for D
+ igital India&#34; (invite only)
+DESCRIPTION:SFLC.in in collaboration with International Centre for Free an
+ d Open Source Software (ICFOSS) and Centre for Internet and Society\, Indi
+ a (CIS) is organizing a roundtable on &#34;FOSS for Public Use:Free and Open S
+ ource Software for Digital India&#34; \n\nThe half-day Consultation of FOSS co
+ mmunity members together with the representatives of the Government of Ind
+ ia is focused on  on the newly-released OSS policy.\n\nPS: The program is 
+ Invite only
+URL:https://reps.mozilla.org/e/mozilla-presence-at-roundtable-on-foss-for-
+ public-use-foss-for-digital-india-invite-only/
+SEQUENCE:3
+X-COORDINATES-LAT:28.5907002241
+X-COORDINATES-LON:77.2221565242
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

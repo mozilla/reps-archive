@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@305
+CLASS:PUBLIC
+DTSTAMP:20200423T224621Z
+DTSTART:20121112T100000Z
+DTEND:20121112T130000Z
+LOCATION:Valero Telepark (Globe Corporate Showroom)\, Makati City\, Philip
+ pines
+SUMMARY:Mozilla Philippines Community Meetup with WebFWD
+DESCRIPTION:The Mozilla Philippines Community is hosting a meetup since Di
+ dem Ersoz of WebFWD is in town. The community will also celebrate the 8th 
+ birthday of Mozilla Firefox at this event with a simple get-together.
+URL:https://reps.mozilla.org/e/mozilla-philippines-community-meetup-with-w
+ ebfwd/
+SEQUENCE:0
+X-COORDINATES-LAT:14.559399731
+X-COORDINATES-LON:121.018695831
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

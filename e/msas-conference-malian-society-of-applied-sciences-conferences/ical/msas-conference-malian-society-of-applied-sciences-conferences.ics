@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2423
+CLASS:PUBLIC
+DTSTAMP:20200407T174459Z
+DTSTART:20140803T080000Z
+DTEND:20140808T180000Z
+LOCATION:Centre International de Conferences de Bamako\, Bamako\, Mali
+SUMMARY:Knowledge Networks for Development: MSAS CONFERENCES (Malian Socie
+ ty of Applied Sciences)
+DESCRIPTION:The eighth Mali Symposium on Applied Sciences (MSAS 2014) will
+  be held in Bamako from Sunday\, August 3\, to Friday\, August 8\, 2014. \
+ n\nMozilla will be heavily represented with 2 (already accepted) and Make 
+ Party event:\n- Présentation of Firefox OS: Stakes for innovation in Afri
+ ca\n- Localization of Mozilla products in African Languages: methods and t
+ ools\n- Webmaker training + Make Party (outside the schedule)\n- Hopefully
+ \, I would like to hold a Mozilla booth during the week-long event.
+URL:https://reps.mozilla.org/e/msas-conference-malian-society-of-applied-s
+ ciences-conferences/
+SEQUENCE:6
+X-COORDINATES-LAT:12.63009787
+X-COORDINATES-LON:-8.00610137056
+X-COUNTRY-CODE:ml
+END:VEVENT
+
+END:VCALENDAR

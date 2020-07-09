@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2309
+CLASS:PUBLIC
+DTSTAMP:20200407T183609Z
+DTSTART:20140617T163000Z
+DTEND:20140617T200000Z
+LOCATION:AOE\, Wiesbaden (germany)\, Wiesbaden\, Germany
+SUMMARY:Frontend RheinMain June 2014
+DESCRIPTION:A usergroup in germany in the Rhein-Main Area. Topics are only
+  Frontend related with focus on HTML5 and CSS.
+URL:https://reps.mozilla.org/e/frontend-rheinmain-june-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:50.0785170225
+X-COORDINATES-LON:8.23732808232
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

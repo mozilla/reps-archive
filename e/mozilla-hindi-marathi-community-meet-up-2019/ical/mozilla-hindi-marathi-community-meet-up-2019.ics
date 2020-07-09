@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8705
+CLASS:PUBLIC
+DTSTAMP:20200407T165040Z
+DTSTART:20191214T033000Z
+DTEND:20191215T130000Z
+LOCATION:Pune\, Pune\, India
+SUMMARY:Mozilla Hindi &amp; Marathi Community Meet-up 2019
+DESCRIPTION:An invitation only event hosted by Mozilla l10n Community in I
+ ndia with active and core contributors to Mozilla l10n for Hindi and Marat
+ hi. This event will mainly focus on improving the quality of our localised
+  products.
+URL:https://reps.mozilla.org/e/mozilla-hindi-marathi-community-meet-up-201
+ 9/
+SEQUENCE:3
+X-COORDINATES-LAT:18.3510499022
+X-COORDINATES-LON:73.9394527674
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

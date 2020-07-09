@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1814
+CLASS:PUBLIC
+DTSTAMP:20200407T180236Z
+DTSTART:20140215T013000Z
+DTEND:20140215T103000Z
+LOCATION:Shwe Phyu Plaza \, Second Floor\, Mandalay\, Myanmar
+SUMMARY:Barcamp Mandalay
+DESCRIPTION:Barcamp Mandalay is an annual event of the city . Mozilla Myan
+ mar has been contributing the event since their second time of the event.\
+ n\nLocal attendances show more interest in Mozilla Missions and the techno
+ logy behind the Organization.\n\nThis year \, I would like to focus on #Fi
+ refoxOS and new web technologies as I did in Barcamp Yangon which was held
+  at this year&#39;s Feb 1st and 2nd.
+URL:https://reps.mozilla.org/e/barcamp-mandalay-1/
+SEQUENCE:2
+X-COORDINATES-LAT:21.9676371122
+X-COORDINATES-LON:96.0896472924
+X-COUNTRY-CODE:mm
+END:VEVENT
+
+END:VCALENDAR

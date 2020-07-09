@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1599
+CLASS:PUBLIC
+DTSTAMP:20200423T203839Z
+DTSTART:20131221T070000Z
+DTEND:20131221T100000Z
+LOCATION:The Coffee Bean &amp; Tea Leaf (CBTL) Prism Plaza at Two E-Com Center
+ \, Pasay City\, Philippines
+SUMMARY:MozCoffee with Mozilla&#39;s Jet Villegas
+DESCRIPTION:Jet Villegas [@junglecode] is a Senior Engineering Manager at 
+ Mozilla&#39;s Web Platform Rendering team. He is originally from the Philippin
+ es and will be in town for the holidays.\n\nJoin the Mozilla Philippines C
+ ommunity in an afternoon of coffee and tech talks with Jet.\n\nPS: Ever he
+ ard of Mozilla&#39;s HTML5-Based Flash Player Replacement called Shumway? [htt
+ p://techcrunch.com/2013/10/03/shumway-mozillas-html5-based-flash-player-re
+ placement-lands-in-firefox-nightly/]
+URL:https://reps.mozilla.org/e/mozcoffee-with-mozillas-jet-villegas/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5388032284
+X-COORDINATES-LON:120.981725692
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

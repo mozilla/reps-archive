@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@536
+CLASS:PUBLIC
+DTSTAMP:20200407T174352Z
+DTSTART:20130301T070000Z
+DTEND:20130306T180000Z
+LOCATION:Technopolis\, Athens\, Greece
+SUMMARY:Webmaker Training Days
+DESCRIPTION:We&#39;re putting on Webmaker Training Days for Mozilla Reps from 
+ March 1 - 6 in Athens.
+URL:https://reps.mozilla.org/e/webmaker-training-days/
+SEQUENCE:0
+X-COORDINATES-LAT:37.9777456383
+X-COORDINATES-LON:23.7130880356
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

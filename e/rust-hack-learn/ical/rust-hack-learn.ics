@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9135
+CLASS:PUBLIC
+DTSTAMP:20200407T170251Z
+DTSTART:20200307T140000Z
+DTEND:20200307T190000Z
+LOCATION:LABORATORIA  (Av. Almte. Miguel Grau 629 Oficina 201)\, Barranco\
+ , Peru
+SUMMARY:Rust: Hack &amp; Learn
+DESCRIPTION:This is a workshop to learn Rust from the scratch
+URL:https://reps.mozilla.org/e/rust-hack-learn/
+SEQUENCE:6
+X-COORDINATES-LAT:-12.1454775604
+X-COORDINATES-LON:-77.0218566656
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

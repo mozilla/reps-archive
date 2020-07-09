@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3600
+CLASS:PUBLIC
+DTSTAMP:20200423T172843Z
+DTSTART:20150425T150000Z
+DTEND:20150425T230000Z
+LOCATION:Price Travel Av Kabah SM 16\, Cancun\, Mexico
+SUMMARY:Flisol Cancun
+DESCRIPTION:This Festival is held annually and primarily aims to dissemina
+ te and encourage users to learn more about Free Software and its advantage
+ s same as carried out simultaneously on the same date in all Latin America
+ n cities where there are communities of users of Software Libre.\nThe acti
+ vities we have planned facilities Free Software totally free and legal bot
+ h on MS Windows\, Mac systems and installations operating system GNU / Lin
+ ux\, demonstrations and lectures on the use of this type of software.
+URL:https://reps.mozilla.org/e/flisol-cancun/
+SEQUENCE:2
+X-COORDINATES-LAT:21.1391467941
+X-COORDINATES-LON:-86.8326133492
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

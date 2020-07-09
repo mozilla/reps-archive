@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2766
+CLASS:PUBLIC
+DTSTAMP:20200423T190741Z
+DTSTART:20140903T033000Z
+DTEND:20140903T093000Z
+LOCATION:Sathyabama university\, Chennai\, India
+SUMMARY:Mozbooth at TechnoSummit14
+DESCRIPTION:A booth to teach about Open Source\, to spread awareness about
+  Mozilla Products and mission . Reaching out to students about Webmaking a
+ nd other Mozilla initiatives .\nA Mozilla Booth at TechnoSummit14
+URL:https://reps.mozilla.org/e/mozbooth-at-technosummit14/
+SEQUENCE:2
+X-COORDINATES-LAT:13.052414
+X-COORDINATES-LON:80.250825
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

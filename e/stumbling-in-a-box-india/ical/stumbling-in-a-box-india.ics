@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4357
+CLASS:PUBLIC
+DTSTAMP:20200407T175609Z
+DTSTART:20150901T143000Z
+DTEND:20150922T143000Z
+LOCATION:INDIA\, INDIA\, India
+SUMMARY:Stumbling in a Box : INDIA
+DESCRIPTION:We will have a GeoLocation Sprint where we will talk about the
+  Mozilla Location Service. Contribute to Mozilla and free and open project
+ s introduction to stumbling tools that bring knowledge to participants on 
+ how to gather geolocation information in their cities.. After which\, part
+ icipants will gather information and upload it to the mozilla servers
+URL:https://reps.mozilla.org/e/stumbling-in-a-box-india/
+SEQUENCE:6
+X-COORDINATES-LAT:22.5091740785
+X-COORDINATES-LON:79.2392577231
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

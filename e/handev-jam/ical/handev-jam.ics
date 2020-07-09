@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@427
+CLASS:PUBLIC
+DTSTAMP:20200423T222912Z
+DTSTART:20130102T063000Z
+DTEND:20130103T100000Z
+LOCATION:Bradlows Building\, Bulawayo\, Zimbabwe
+SUMMARY:Handev Jam
+DESCRIPTION:A group of tech enthusiasts called Hackers and Ninja Devs ( wh
+ ich I&#39;m part of :) ) is having it&#39;s first meetup and we&#39;ve planned to incl
+ ude a webmaking session. I have the honour of organising the event and  pr
+ esenting on basic Webtechnologies such as Servers\, HTML\, CSS\, Hackasaur
+ us and Thimble.
+URL:https://reps.mozilla.org/e/handev-jam/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1567918618
+X-COORDINATES-LON:28.5825634003
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

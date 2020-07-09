@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3879
+CLASS:PUBLIC
+DTSTAMP:20200423T172252Z
+DTSTART:20150518T051500Z
+DTEND:20150518T091500Z
+LOCATION:Shree Adarsha Higher Secondary School\, Lalmatiya Village Develop
+ ment Comiitee\, Nepal
+SUMMARY:Hour of Code
+DESCRIPTION:Hour of Code targetted to ~80 students of class six and seven 
+ at a local school in one of the technically-remote areas.
+URL:https://reps.mozilla.org/e/hour-of-code-1/
+SEQUENCE:2
+X-COORDINATES-LAT:27.8401892494
+X-COORDINATES-LON:82.7095184382
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

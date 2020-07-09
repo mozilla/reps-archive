@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5460
+CLASS:PUBLIC
+DTSTAMP:20200423T151546Z
+DTSTART:20160702T080000Z
+DTEND:20160702T120000Z
+LOCATION:CEFIAT PLATEAU\, Abidjan\, Ivory Coast
+SUMMARY:MozUniv tour CEFIAT ABIDJAN
+DESCRIPTION:We are committed myself and Ivory Coast Mozilla community to i
+ mplement Mozilla community on the various campuses of Ivory Coast.We are s
+ tarting these activities through various events where mozillians and Reps 
+ From Ivory Coast come to introduce Mozilla mission\, different contributio
+ n areas \, projects \, products and campaigns and Firefox Student Ambassad
+ ors program.
+URL:https://reps.mozilla.org/e/mozuniv-tour-cefiat-abidjan/
+SEQUENCE:4
+X-COORDINATES-LAT:5.36719420923
+X-COORDINATES-LON:-4.05052185059
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

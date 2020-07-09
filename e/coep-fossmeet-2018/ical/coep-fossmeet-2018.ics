@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7554
+CLASS:PUBLIC
+DTSTAMP:20200423T094549Z
+DTSTART:20180407T043000Z
+DTEND:20180408T093000Z
+LOCATION:COEp Pune\, Pune\, India
+SUMMARY:COEP FOSSMeet 2018
+DESCRIPTION:COEP FOSSMeet’18 is a meet has a vision to promote the cultu
+ re of openness\,innovation\, and freedom. The meet intends to bring togeth
+ er FOSS developers\, academicians\, researchers\, students and all those w
+ ho love the FOSS movement. The meet intends to participate in the FOSS dev
+ elopment and adoption process through hands-on sessions\, discussions and 
+ lectures.\n\nMozilla will be presenting a couple of talks at the meet.
+URL:https://reps.mozilla.org/e/coep-fossmeet-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:18.5292652421
+X-COORDINATES-LON:73.8567716628
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2048
+CLASS:PUBLIC
+DTSTAMP:20200423T200958Z
+DTSTART:20140330T033000Z
+DTEND:20140330T113000Z
+LOCATION:Techno Byte Computer Education\,Near Mandawa College\,Mandawa\, J
+ hunjhunun\, India
+SUMMARY:MozTech Jhunjhunu
+DESCRIPTION:Engineering students from all over Jhunjhunu will be gathered 
+ to know more about Mozilla.
+URL:https://reps.mozilla.org/e/moztech-jhunjhunu/
+SEQUENCE:44
+X-COORDINATES-LAT:28.1211653667
+X-COORDINATES-LON:75.4010008648
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

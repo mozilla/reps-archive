@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2020
+CLASS:PUBLIC
+DTSTAMP:20200407T182503Z
+DTSTART:20140430T170000Z
+DTEND:20140504T170000Z
+LOCATION:TBD\, Ciudad Universitaria\, Mexico
+SUMMARY:L10N bootcamp MX 2014
+DESCRIPTION:This event is organized by a lot of awesome reps:\n\nJeff Beat
+ ty\nOdin Mojica\nJulio Gomez\nLuis Sanchez
+URL:https://reps.mozilla.org/e/l10n-bootcamp-mx-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:19.3317974495
+X-COORDINATES-LON:-99.1841411591
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

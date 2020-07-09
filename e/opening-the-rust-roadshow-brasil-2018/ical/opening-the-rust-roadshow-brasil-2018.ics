@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7253
+CLASS:PUBLIC
+DTSTAMP:20200423T100239Z
+DTSTART:20180201T200000Z
+DTEND:20180202T000000Z
+LOCATION:Superlógica Labs\, Campinas\, Brazil
+SUMMARY:Dive Into Rust @Superlógica Labs
+DESCRIPTION:Mobilizers from various parts of the country will lead their f
+ irst Dive Into Rust workshop for their local communities by February 02-04
+ \, we’ll lead an awesome opening before with a Dive Into Rust workshop i
+ n Campinas at Superlógica Labs for local community and stream live via Yo
+ uTube\, so everyone can try a little of our workshop online while we can n
+ ot reach all regions of the country.
+URL:https://reps.mozilla.org/e/opening-the-rust-roadshow-brasil-2018/
+SEQUENCE:5
+X-COORDINATES-LAT:-22.9400519
+X-COORDINATES-LON:-47.1929389
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

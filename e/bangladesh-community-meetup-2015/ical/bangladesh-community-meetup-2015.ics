@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3849
+CLASS:PUBLIC
+DTSTAMP:20200407T165826Z
+DTSTART:20150605T030000Z
+DTEND:20150606T130000Z
+LOCATION:BRAC Center For Development Management\, Savar\, Bangladesh
+SUMMARY:Bangladesh Community Meetup 2015
+DESCRIPTION:Getting the active community together to plan together. More d
+ etails to come....
+URL:https://reps.mozilla.org/e/bangladesh-community-meetup-2015/
+SEQUENCE:5
+X-COORDINATES-LAT:23.8694998245
+X-COORDINATES-LON:90.3089961992
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

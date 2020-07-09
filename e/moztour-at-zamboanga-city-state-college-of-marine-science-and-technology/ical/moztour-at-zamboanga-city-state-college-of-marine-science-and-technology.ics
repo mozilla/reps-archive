@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@624
+CLASS:PUBLIC
+DTSTAMP:20200423T220136Z
+DTSTART:20130319T050000Z
+DTEND:20130319T070000Z
+LOCATION:Zamboanga City State College of Marine Science and Technology\, Z
+ amboanga City\, Philippines
+SUMMARY:Moztour at  Zamboanga City State College of Marine Science and Tec
+ hnology
+DESCRIPTION:Mozilla Campus Tour project that will orient participants rega
+ rding the project of Mozilla. Mozilla Philippines will talk during the eve
+ nt with the expected participants of 70 (Student/Professionals) hosted by 
+ their school.
+URL:https://reps.mozilla.org/e/moztour-at-zamboanga-city-state-college-of-
+ marine-science-and-technology/
+SEQUENCE:0
+X-COORDINATES-LAT:6.90734070228
+X-COORDINATES-LON:122.06703186
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

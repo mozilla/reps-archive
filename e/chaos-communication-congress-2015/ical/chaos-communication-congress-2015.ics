@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4874
+CLASS:PUBLIC
+DTSTAMP:20200407T173722Z
+DTSTART:20151227T080000Z
+DTEND:20151230T160000Z
+LOCATION:CCH Congress Center Hamburg\, Am Dammtor / Marseiller Strasse\, 2
+ 0355 Hamburg\, Hamburg\, Germany
+SUMMARY:Chaos Communication Congress 2015
+DESCRIPTION:The Chaos Communication Congress is an annual conference organ
+ ized by the Chaos Computer Club since 1984. The congress features a variet
+ y of lectures and workshops on Open Source software\, technical and politi
+ cal issues related to Security\, Cryptography\, and online Freedom of Spee
+ ch. With more than 10\,000 participants it is considered one of the larges
+ t event of this kind. Organizational work is done by volunteers called Cha
+ os Angels.
+URL:https://reps.mozilla.org/e/chaos-communication-congress-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:53.5623094815
+X-COORDINATES-LON:9.9846181873
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

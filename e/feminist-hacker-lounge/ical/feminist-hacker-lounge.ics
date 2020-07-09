@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@631
+CLASS:PUBLIC
+DTSTAMP:20200407T180215Z
+DTSTART:20130315T170000Z
+DTEND:20130317T000000Z
+LOCATION:Santa Clara Convention Center\, Santa Clara\, United States
+SUMMARY:Feminist Hacker Lounge
+DESCRIPTION:This is a DIY space we&#39;re creating in an exhibition booth at P
+ yCon where we can network with other feminists in open source and Python p
+ rogramming to share projects we&#39;re working on\, collaborate\, and plan for
+  future events/actions that promote &amp; empower women in open source &amp; Pytho
+ n.
+URL:https://reps.mozilla.org/e/feminist-hacker-lounge/
+SEQUENCE:0
+X-COORDINATES-LAT:37.3385000022
+X-COORDINATES-LON:-121.916656494
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

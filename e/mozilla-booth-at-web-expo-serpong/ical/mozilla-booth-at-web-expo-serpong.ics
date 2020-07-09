@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@133
+CLASS:PUBLIC
+DTSTAMP:20200423T225801Z
+DTSTART:20120928T050000Z
+DTEND:20120930T050000Z
+LOCATION:ITC BSD Serpong\, Jakarta\, Indonesia
+SUMMARY:Mozilla Booth at Web Expo (Serpong)
+DESCRIPTION:This event will be held for 3 days\, September 28th-30th 2012\
+ , at Bogor (GOR Padjajaran)\, Depok (Detos/Lapangan RRI)\, Tangerang (ITC 
+ BSD)\, dan Bekasi (Bekasi Grand Mall). Mozilla invited to open a booth the
+ re\, together with other bloggers and local online communities.
+URL:https://reps.mozilla.org/e/mozilla-booth-at-web-expo-serpong/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.32519438459
+X-COORDINATES-LON:106.67175293
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

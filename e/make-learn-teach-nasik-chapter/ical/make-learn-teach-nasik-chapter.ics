@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2596
+CLASS:PUBLIC
+DTSTAMP:20200423T191723Z
+DTSTART:20140809T043000Z
+DTEND:20140809T103000Z
+LOCATION:MET Bhujbal Knowledge City\, Nashik\, India
+SUMMARY:Make\, Learn\, Teach Nasik Chapter
+DESCRIPTION:This event is lined in as one in the series of Maker Party sea
+ son 2014\, Nasik\, India for students\, teachers\, makers\, educationists 
+ and more. \nThe Event would also have Introductory session of Firefox Brow
+ ser and Its privacy and security features.
+URL:https://reps.mozilla.org/e/make-learn-teach-nasik-chapter/
+SEQUENCE:4
+X-COORDINATES-LAT:20.0071988683
+X-COORDINATES-LON:73.7930488517
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

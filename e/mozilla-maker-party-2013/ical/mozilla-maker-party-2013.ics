@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1270
+CLASS:PUBLIC
+DTSTAMP:20200423T211127Z
+DTSTART:20130914T073000Z
+DTEND:20130914T150000Z
+LOCATION:Acropolis Museum\, Athens\, Greece
+SUMMARY:Mozilla Maker Party 2013
+DESCRIPTION:In Athens Plaython the best parties start early on and have th
+ e best view! Join us Saturday morning at the Akropolis Museum for a Mozill
+ a Maker Party with the Greek Mozilla Reps team. Whether you are an experie
+ nced coder or a newbie will helping you get started with remixing the open
+  web. From coding your first line of HTML to building apps that change the
+  world\, Maker Party is your chance to connect with a global community of 
+ creators.
+URL:https://reps.mozilla.org/e/mozilla-maker-party-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:37.9653127909
+X-COORDINATES-LON:23.7213277817
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

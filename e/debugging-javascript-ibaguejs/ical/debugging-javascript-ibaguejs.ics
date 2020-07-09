@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3799
+CLASS:PUBLIC
+DTSTAMP:20200423T172643Z
+DTSTART:20150507T173000Z
+DTEND:20150507T200000Z
+LOCATION:Universidad Cooperativa de Colombia\, Ibagué\, Colombia
+SUMMARY:Debugging Javascript - IbaguéJS
+DESCRIPTION:Topic part of the meetup organized by IbagueJS. This time will
+  be about Debugging Javascript using Firefox devtools and some npm package
+ s working at the same side with Firefox devtools.
+URL:https://reps.mozilla.org/e/debugging-javascript-ibaguejs/
+SEQUENCE:5
+X-COORDINATES-LAT:4.44332781225
+X-COORDINATES-LON:-75.2429898978
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

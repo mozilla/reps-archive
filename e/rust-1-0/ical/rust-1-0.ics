@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3885
+CLASS:PUBLIC
+DTSTAMP:20200407T181930Z
+DTSTART:20150614T043000Z
+DTEND:20150614T103000Z
+LOCATION:Collab House\,Hyderabad\, Secunderabad\, India
+SUMMARY:Rust 1.0
+DESCRIPTION:A talk and workshop on Rust.Spreading the word about Rust Prog
+ ramming Language Developed by Mozilla Organization.
+URL:https://reps.mozilla.org/e/rust-1-0/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4192351391
+X-COORDINATES-LON:78.4968709928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

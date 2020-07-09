@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4269
+CLASS:PUBLIC
+DTSTAMP:20200423T164210Z
+DTSTART:20150914T070000Z
+DTEND:20150914T100000Z
+LOCATION:SMKN 2 Salatiga\, Salatiga\, Indonesia
+SUMMARY:#MozBelajar SMKN 2 Salatiga
+DESCRIPTION:An event to introduce the newly launched Webmaker App to vocat
+ ional high school students in SMKN 2 Salatiga. There will be Webmaker App 
+ downloading session and hands on workshop in making projects using the app
+ . This event is organized as part of Webmaker App Launch initiatives in In
+ donesia.
+URL:https://reps.mozilla.org/e/mozbelajar-smkn-2-salatiga/
+SEQUENCE:4
+X-COORDINATES-LAT:-7.34090182386
+X-COORDINATES-LON:110.496459939
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

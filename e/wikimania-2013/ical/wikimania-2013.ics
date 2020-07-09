@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@843
+CLASS:PUBLIC
+DTSTAMP:20200407T165850Z
+DTSTART:20130807T000000Z
+DTEND:20130811T140000Z
+LOCATION:Hong Kong Polytechnic University\, Kowloon\, Hong Kong
+SUMMARY:Wikimania 2013
+DESCRIPTION:The annual international conference of the Wikimedia community
+ : Wikipedia\, Wikidata\, free knowledge\, open education\, etc. Possibly t
+ he most diverse conference in the Free Culture and Free Software world.
+URL:https://reps.mozilla.org/e/wikimania-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:22.303944
+X-COORDINATES-LON:114.179747
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

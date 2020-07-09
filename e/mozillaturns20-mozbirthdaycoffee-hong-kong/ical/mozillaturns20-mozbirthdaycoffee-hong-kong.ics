@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7574
+CLASS:PUBLIC
+DTSTAMP:20200423T094835Z
+DTSTART:20180331T073000Z
+DTEND:20180331T090000Z
+LOCATION:Starbucks Coffee\, G/F\, Great Eagle Centre\, Wan Chai\, Hong Kon
+ g\, Hong Kong
+SUMMARY:#MozillaTurns20 MozBirthdayCoffee Hong Kong
+DESCRIPTION:To celebrate 20th birthday of Mozilla\, we will meet at coffee
+  shop and talks about mozilla and open web.
+URL:https://reps.mozilla.org/e/mozillaturns20-mozbirthdaycoffee-hong-kong/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2814109018
+X-COORDINATES-LON:114.175598144
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

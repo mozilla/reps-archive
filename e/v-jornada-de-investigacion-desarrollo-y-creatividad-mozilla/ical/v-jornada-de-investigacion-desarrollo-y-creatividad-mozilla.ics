@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8646
+CLASS:PUBLIC
+DTSTAMP:20200407T170340Z
+DTSTART:20190809T140000Z
+DTEND:20190809T200000Z
+LOCATION:Nicaragua\, Managua\, Nicaragua
+SUMMARY:V Jornada de Investigación\, Desarrollo y Creatividad - Mozilla
+DESCRIPTION:We will be participating in an activity of the Universidad del
+  Valle where several technological projects related to computer science wi
+ ll be presented. Different communities of free software are invited\, incl
+ uding Mozilla Nicaragua.\nWe will have a stand and a room for demonstratio
+ ns with virtual reality
+URL:https://reps.mozilla.org/e/v-jornada-de-investigacion-desarrollo-y-cre
+ atividad-mozilla/
+SEQUENCE:0
+X-COORDINATES-LAT:12.1386904189
+X-COORDINATES-LON:-85.9645843506
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

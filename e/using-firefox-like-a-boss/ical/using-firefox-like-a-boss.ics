@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4283
+CLASS:PUBLIC
+DTSTAMP:20200423T164926Z
+DTSTART:20150823T053000Z
+DTEND:20150823T103000Z
+LOCATION:Redhat Pune\, Pune\, India
+SUMMARY:Using Firefox like a Boss
+DESCRIPTION:This event is aimed on to explore more about Firefox for Deskt
+ op.\nBasically\, it is the &#39;Teach the Trainer&#39; event.\n\n\n[1] 11:00am to 
+ 11:30am - A Quick introduction to Mozilla [Prathamesh Chavan]\n[2] 11:30am
+  to 1:30pm - Learn to use your browser well [Ankit Gadgil] [Ankit Mehta]\n
+ [3] 1:30pm to 2:30pm - Lunch break\n[4] 2:30pm to 4pm - Build your own Fir
+ efox (hands-on session)\n\n\nRegistration link : http://goo.gl/forms/hTaW2
+ 3XhxY
+URL:https://reps.mozilla.org/e/using-firefox-like-a-boss/
+SEQUENCE:10
+X-COORDINATES-LAT:18.5149283841
+X-COORDINATES-LON:73.9265584928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

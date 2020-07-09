@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7853
+CLASS:PUBLIC
+DTSTAMP:20200423T092654Z
+DTSTART:20180603T090000Z
+DTEND:20180603T120000Z
+LOCATION:Jahangirnagar University\, Dhaka\, Bangladesh
+SUMMARY:Firefox Support Sprint\, Dhaka
+DESCRIPTION:An event to support Firefox for Mobile.
+URL:https://reps.mozilla.org/e/firefox-support-sprint-dhaka-1/
+SEQUENCE:1
+X-COORDINATES-LAT:23.8519311
+X-COORDINATES-LON:90.2689825
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

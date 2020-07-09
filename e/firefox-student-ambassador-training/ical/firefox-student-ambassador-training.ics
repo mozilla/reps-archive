@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5358
+CLASS:PUBLIC
+DTSTAMP:20200407T180111Z
+DTSTART:20160415T110000Z
+DTEND:20160415T120000Z
+LOCATION:NUST\, Bulawayo\, Bulawayo\, Zimbabwe
+SUMMARY:Firefox Student Ambassador Training
+DESCRIPTION:Training of the first Firefox Student Ambassador team at the N
+ ational University of Science and Technology. The students will be introdu
+ ced to Mozilla\, contribution opportunities and the Take Back the Web Camp
+ aign which will be their main focus area
+URL:https://reps.mozilla.org/e/firefox-student-ambassador-training/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.2351671311
+X-COORDINATES-LON:28.7562446587
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

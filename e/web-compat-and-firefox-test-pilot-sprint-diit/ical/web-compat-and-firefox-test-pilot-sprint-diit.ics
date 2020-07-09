@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5825
+CLASS:PUBLIC
+DTSTAMP:20200423T114655Z
+DTSTART:20161112T030000Z
+DTEND:20161112T120000Z
+LOCATION:DIIT\, Dhaka\, Bangladesh
+SUMMARY:Web Compat and Firefox Test Pilot Sprint @ DIIT
+DESCRIPTION:To support Mozilla&#39;s Activate Campaign\, Mozillians from DIIT 
+ are going to organize day long activity to promote Mozilla and way of cont
+ ribution.\n\nVarious activity regarding Web Compat and Firefox Test Pilot 
+ would be done.
+URL:https://reps.mozilla.org/e/web-compat-and-firefox-test-pilot-sprint-di
+ it/
+SEQUENCE:3
+X-COORDINATES-LAT:23.7004327
+X-COORDINATES-LON:90.4996741
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

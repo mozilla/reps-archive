@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2184
+CLASS:PUBLIC
+DTSTAMP:20200423T195644Z
+DTSTART:20140429T100000Z
+DTEND:20140429T130000Z
+LOCATION:International Hellenic University\, Sedes\, Greece
+SUMMARY:Introduction to Firefox OS and Open Web Apps at International Hell
+ enic University
+DESCRIPTION:This workshop will walk you through one of the most exciting n
+ ew mobile platforms\, Firefox OS. You will have the opportunity to take a 
+ look under the hood of Firefox OS\, the web technologies adopted and how o
+ pen web applications work. In addition we are going to build our own first
+  open web application using HTML5\, Javascript and CSS using Firefox&#39;s inn
+ ovative developer tools. Are you a developer\, or IT student/graduate? The
+ n join us to learn more!
+URL:https://reps.mozilla.org/e/introduction-to-firefox-os-and-open-web-app
+ s-at-international-hellenic-university/
+SEQUENCE:1
+X-COORDINATES-LAT:40.5355519766
+X-COORDINATES-LON:23.0107473132
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

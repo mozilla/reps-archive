@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1242
+CLASS:PUBLIC
+DTSTAMP:20200423T210745Z
+DTSTART:20130921T140000Z
+DTEND:20130922T000000Z
+LOCATION:Puebla Institute of Technology.\, Puebla\, Mexico
+SUMMARY:Software Freedom Day
+DESCRIPTION:During the event there will be a Firefox OS hackathon.
+URL:https://reps.mozilla.org/e/software-freedom-day/
+SEQUENCE:2
+X-COORDINATES-LAT:19.0543297806
+X-COORDINATES-LON:-98.2081604004
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

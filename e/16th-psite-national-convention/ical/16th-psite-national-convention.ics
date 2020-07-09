@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1744
+CLASS:PUBLIC
+DTSTAMP:20200423T202301Z
+DTSTART:20140227T000000Z
+DTEND:20140301T090000Z
+LOCATION:Baguio Crown Legacy Hotel\, Baguio City\, Philippines
+SUMMARY:16th PSITE National Convention
+DESCRIPTION:The conference is one of the leading and largest national conv
+ entions and gatherings of IT educators in the country. It is aimed to prov
+ ide a unique forum for ICT professionals to discuss the latest research\, 
+ development\, applications\, issues and strategies in ICT\; explore new te
+ chnologies\; and to identify solutions for today&#39;s challenges related to I
+ T. Aside from these\, it also serves as venue to exchange our ideas and kn
+ owledge for personal growth and learning.
+URL:https://reps.mozilla.org/e/16th-psite-national-convention/
+SEQUENCE:5
+X-COORDINATES-LAT:16.4103917472
+X-COORDINATES-LON:120.592103003
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

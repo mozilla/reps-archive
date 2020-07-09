@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6052
+CLASS:PUBLIC
+DTSTAMP:20200423T114547Z
+DTSTART:20161117T120000Z
+DTEND:20161117T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozKopdarJKT - The Rusty Web
+DESCRIPTION:Karl Dubost (from Mozilla Japan) will talk about the resilence
+  of technology and how we connect that to the Web architecture and our abi
+ lities to maintain it.
+URL:https://reps.mozilla.org/e/mozkopdarjkt-the-rusty-web/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.05864523767
+X-COORDINATES-LON:110.5052948
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

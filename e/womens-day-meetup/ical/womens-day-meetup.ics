@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6311
+CLASS:PUBLIC
+DTSTAMP:20200423T112513Z
+DTSTART:20170308T004000Z
+DTEND:20170308T053000Z
+LOCATION:Indore\, Indore\, India
+SUMMARY:Women’s Day Meetup
+DESCRIPTION:March is declared Women&#39;s Month and we decided through an even
+ t to celebrate women in the world of technology. This event is Internation
+ al Women Day meetup in Yamoussoukro\, aims to introduce the technologies\,
+  web universe and the code to the women (Students or not). This is real op
+ portunity to grow the number of women in the tech area in our city and to 
+ invite female tech lead to bring our experiences to other women.
+URL:https://reps.mozilla.org/e/womens-day-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:22.7182368222
+X-COORDINATES-LON:75.8611634094
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

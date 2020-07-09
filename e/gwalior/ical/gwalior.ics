@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1001
+CLASS:PUBLIC
+DTSTAMP:20200423T212827Z
+DTSTART:20130706T053000Z
+DTEND:20130706T113000Z
+LOCATION:ITM University\, Gwalior\, India
+SUMMARY:Maker Tech Camp Gwalior
+DESCRIPTION:Gwalior is an effort to build a Mozilla and FOSS community in 
+ the city. With the global maker party\, Gwalior community takes its first 
+ steps in contribution to spread Open Web ideologies and create Mozilla pre
+ sence. The event would include a sessions on Mozilla Webmaker\, hands-on w
+ ith awesome Webmaker tools like Thimble\, Popcorn and X-Ray Goggles.. FOSS
+  \, Mozilla Initiatives and Contributions and a FOSS quiz.
+URL:https://reps.mozilla.org/e/gwalior/
+SEQUENCE:4
+X-COORDINATES-LAT:26.2035021138
+X-COORDINATES-LON:78.1577682495
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

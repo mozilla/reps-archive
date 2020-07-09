@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5100
+CLASS:PUBLIC
+DTSTAMP:20200407T182417Z
+DTSTART:20160327T040000Z
+DTEND:20160327T110000Z
+LOCATION:CDAC\, Pune\, India
+SUMMARY:Mozilla QA Hackathon @ CDAC\, Pune
+DESCRIPTION:The SQTM contributors in Pune are hosting a hackathon to promo
+ te QA participation in the region. It will be an open event where anyone c
+ an learn about how to contribute towards Mozilla QA.
+URL:https://reps.mozilla.org/e/mozilla-qa-hackathon-cdac-pune/
+SEQUENCE:8
+X-COORDINATES-LAT:18.5633402843
+X-COORDINATES-LON:73.8073502854
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

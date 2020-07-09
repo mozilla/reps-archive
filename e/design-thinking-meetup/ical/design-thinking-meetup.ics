@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7859
+CLASS:PUBLIC
+DTSTAMP:20200422T102621Z
+DTSTART:20180616T090000Z
+DTEND:20180616T130000Z
+LOCATION:TBD\, Douala\, Cameroon
+SUMMARY:Design Thinking Meetup
+DESCRIPTION:boost the activities of the community by guiding them in innov
+ ative projects such as creating new addons\, developing interesting produc
+ ts with Rust and others that will fit with the Moz Activate campaign and f
+ or this the community needs to have some prerequisites
+URL:https://reps.mozilla.org/e/design-thinking-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:4.0510564
+X-COORDINATES-LON:9.7678687
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

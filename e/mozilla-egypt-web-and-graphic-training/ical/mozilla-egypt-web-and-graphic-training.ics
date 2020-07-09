@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5672
+CLASS:PUBLIC
+DTSTAMP:20200407T180202Z
+DTSTART:20160726T220000Z
+DTEND:20160826T220000Z
+LOCATION:TBD\, Cairo\, Egypt
+SUMMARY:Mozilla Egypt Web and Graphic training
+DESCRIPTION:Mozilla Egypt will offer qualified persons a 200$ internship i
+ n Egypt this year \nthis will be done due to the shortage of volunteering 
+ graphic and web designers in the community also we will share the mozilla 
+ mission with the trainees and we will help anyone who would like to volunt
+ eer for mozilla.
+URL:https://reps.mozilla.org/e/mozilla-egypt-web-and-graphic-training/
+SEQUENCE:6
+X-COORDINATES-LAT:30.0480705628
+X-COORDINATES-LON:31.2610816956
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7099
+CLASS:PUBLIC
+DTSTAMP:20200407T181848Z
+DTSTART:20171020T090000Z
+DTEND:20171020T110000Z
+LOCATION:Rust RestoBar\, Bacolod City\, Philippines
+SUMMARY:MozCoffee Bacolod 2017
+DESCRIPTION:We will discuss about the latest updates and campaigns for Fir
+ efox Quantum and the upcoming release this quarter.
+URL:https://reps.mozilla.org/e/mozcoffee-firefox-quantum-sprint/
+SEQUENCE:3
+X-COORDINATES-LAT:10.6385639077
+X-COORDINATES-LON:123.011352494
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

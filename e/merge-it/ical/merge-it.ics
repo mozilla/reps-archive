@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7467
+CLASS:PUBLIC
+DTSTAMP:20200407T174242Z
+DTSTART:20180324T080000Z
+DTEND:20180324T190000Z
+LOCATION:Corso Castelfidardo 30/A\, Turin\, Italy
+SUMMARY:Merge-it
+DESCRIPTION:Event made for the Communities focused on the Digital Freedoms
+  that are active in Italy. The main goal is to give the opportunity at tho
+ se communities to meet\, share\, debate and know each other.
+URL:https://reps.mozilla.org/e/merge-it/
+SEQUENCE:1
+X-COORDINATES-LAT:45.0645478367
+X-COORDINATES-LON:7.65993046691
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

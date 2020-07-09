@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8001
+CLASS:PUBLIC
+DTSTAMP:20200407T171617Z
+DTSTART:20180923T043000Z
+DTEND:20180923T113000Z
+LOCATION:JNTU Hyderabad\, Hyderabad\, India
+SUMMARY:Firefox WebExtensions Hackathon @ JNTUH
+DESCRIPTION:Awareness about importance of web extensions in day-day life b
+ rowsing\, development of web extensions by the local college students and 
+ developer community of Hyderabad. \n\nReaching students from geographicall
+ y diverse colleges and making them understand about Mozilla&#39;s mission and 
+ building the spirit of add-on development through this event.\n\n\nOrganis
+ ers: Asif\, Sanjith and Bhavani
+URL:https://reps.mozilla.org/e/firefox-webextensions-hackathon-jntuh/
+SEQUENCE:5
+X-COORDINATES-LAT:17.4937244521
+X-COORDINATES-LON:78.3925781253
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

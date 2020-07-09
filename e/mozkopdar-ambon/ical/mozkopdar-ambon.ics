@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@379
+CLASS:PUBLIC
+DTSTAMP:20200423T220844Z
+DTSTART:20130216T103000Z
+DTEND:20130216T123000Z
+LOCATION:Kafe Robot\, Ambon\, Indonesia
+SUMMARY:MozKopdar Ambon
+DESCRIPTION: First official meetup for mozillians in Ambon\, Indonesia. 
+URL:https://reps.mozilla.org/e/mozkopdar-ambon/
+SEQUENCE:0
+X-COORDINATES-LAT:-3.6760546
+X-COORDINATES-LON:128.1934246
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

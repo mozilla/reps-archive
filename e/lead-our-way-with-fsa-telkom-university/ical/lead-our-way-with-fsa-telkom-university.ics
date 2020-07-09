@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1920
+CLASS:PUBLIC
+DTSTAMP:20200423T202230Z
+DTSTART:20140228T070000Z
+DTEND:20140228T100000Z
+LOCATION:Telkom University\, Citeureup\, Indonesia
+SUMMARY:Lead Our Way with FSA Telkom University
+DESCRIPTION:In collaboration with Telkom University Firefox Club\, we&#39;re g
+ oing to introduce FSA program to Telkom University students
+URL:https://reps.mozilla.org/e/lead-our-way-with-fsa-telkom-university/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.97461095083
+X-COORDINATES-LON:107.631834983
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

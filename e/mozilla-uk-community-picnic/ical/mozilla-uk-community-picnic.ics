@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7521
+CLASS:PUBLIC
+DTSTAMP:20200407T165054Z
+DTSTART:20180602T100000Z
+DTEND:20180602T170000Z
+LOCATION:Hyde Park\, London\, Westminster\, United Kingdom
+SUMMARY:Mozilla UK Community Picnic
+DESCRIPTION:There are few things scarier than planning a picnic in the UK.
+  Come rain\, hail\, or sunshine LET&#39;S DO THIS.\n\nBring a plate of food to
+  share. Bring some drinks too. Bring your friends\, family\, and pets alon
+ g for a fun afternoon. A few games\, new friends\, and co-conspirators.\n\
+ nWe can&#39;t guarantee good weather but we can guarantee it will be legendary
+ .
+URL:https://reps.mozilla.org/e/mozilla-uk-community-picnic/
+SEQUENCE:0
+X-COORDINATES-LAT:51.5041577939
+X-COORDINATES-LON:-0.16717493545
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3106
+CLASS:PUBLIC
+DTSTAMP:20200407T165831Z
+DTSTART:20141118T040000Z
+DTEND:20141120T160000Z
+LOCATION:EMK Centre \, Dhaka \, Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Make-A-Thon
+DESCRIPTION:Make-A-Thon is the first ever Hardware Hackathon in Bangladesh
+  where we will Build the next big or\nsmall thing for Bangladesh! It is a 
+ 36 hours hackathon from the 18th of November to the 20th during the\nGloba
+ l Entrepreneurship week 2014 happening in Dhaka leading to joining an inte
+ rnational MakerFest in\nJanuary 2015.
+URL:https://reps.mozilla.org/e/make-a-thon/
+SEQUENCE:7
+X-COORDINATES-LAT:23.7044753859
+X-COORDINATES-LON:90.3989868052
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

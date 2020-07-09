@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5309
+CLASS:PUBLIC
+DTSTAMP:20200423T153032Z
+DTSTART:20160423T150000Z
+DTEND:20160423T230000Z
+LOCATION:La casa Tomada\, Antiguo Cuscatlán\, El Salvador
+SUMMARY:Flisol 2016\, san salvador\, El salvador
+DESCRIPTION:Flisol is the biggest event related to free software developed
+  in El Salvador.  Mozilla El Salvador is part of the event organizers un w
+ hich members of this community will give workshops and speaches to share w
+ ith people interested in free software so that they can join our community
+  and be active participants of it.
+URL:https://reps.mozilla.org/e/flisol-2016-san-salvador-el-salvador/
+SEQUENCE:0
+X-COORDINATES-LAT:13.6925794057
+X-COORDINATES-LON:-89.221847537
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

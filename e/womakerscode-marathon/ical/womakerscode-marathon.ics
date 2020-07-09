@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5128
+CLASS:PUBLIC
+DTSTAMP:20200407T181952Z
+DTSTART:20160312T110000Z
+DTEND:20160324T000000Z
+LOCATION:PUCRS - Av. Ipiranga\, 6681 - Partenon\, Porto Alegre\, Brazil
+SUMMARY:WoMakersCode Marathon
+DESCRIPTION:To celebrate women&#39;s month\, WoMakersCode and WoMoz Brazil org
+ anizing a marathon with workshops and lectures around Brazil\, focused in 
+ integration\, sharing and gender equality. Activities in areas as Front-en
+ d\, UX\, Software Engineering\, Digital Marketing\, Entrepreneurship\, Com
+ munication\, Privacy and Mobile.
+URL:https://reps.mozilla.org/e/womakerscode-marathon/
+SEQUENCE:3
+X-COORDINATES-LAT:-30.0370494439
+X-COORDINATES-LON:-51.1951675429
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

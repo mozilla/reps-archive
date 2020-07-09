@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1860
+CLASS:PUBLIC
+DTSTAMP:20200423T202213Z
+DTSTART:20140228T090000Z
+DTEND:20140302T150000Z
+LOCATION:NIT Campus (PO)\, Kallanthode\, Koolimad - Nairkuzhi Rd\, Thazhec
+ ode\, Kerala\, Calicut\, India
+SUMMARY:Karma 2014
+DESCRIPTION:KARMA – the annual national level techno-managerial-socio-cu
+ ltural extravaganza of KMCT College of Engineering and KMCT School of Busi
+ ness. Born in 2013 with the motto of promoting technology\, scientific thi
+ nking and innovation\, Karma has created an unmatched aura of a science an
+ d technology spectacle at the campus of KMCT. Karma invites innovative min
+ ds to compete with each other\, share ideas and educate people about new t
+ echnological advancements and be a part of the tech platform.
+URL:https://reps.mozilla.org/e/karma-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:11.2992771004
+X-COORDINATES-LON:75.8865394589
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

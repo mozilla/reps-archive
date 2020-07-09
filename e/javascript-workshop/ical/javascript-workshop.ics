@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4546
+CLASS:PUBLIC
+DTSTAMP:20200423T163543Z
+DTSTART:20150926T083000Z
+DTEND:20150926T110000Z
+LOCATION:Universidad de El salvador\, Santa Ana\, El Salvador
+SUMMARY:JavaScript Workshop
+DESCRIPTION:Javascript workshop saturday september 26\, the objective is t
+ eaching of javascript programing language for develop apps for firefox os 
+ and mozilla adds on.
+URL:https://reps.mozilla.org/e/javascript-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:13.994705241
+X-COORDINATES-LON:-89.5442390442
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

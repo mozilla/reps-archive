@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1231
+CLASS:PUBLIC
+DTSTAMP:20200423T210952Z
+DTSTART:20130918T210000Z
+DTEND:20130920T010000Z
+LOCATION:-25.509185148594586 -54.63908672332764\, Ciudad del Este\, Paragu
+ ay
+SUMMARY:MozEdu en el CEM
+DESCRIPTION:Mozilla Education MozEdu reaches the Centro Educativo Municipa
+ l (CEM) is an educational institution that is free men and women\, based o
+ n love\, recognizes God\, the Family and nature as pillars of human format
+ ion. Promotes service excellence\, promotes leadership\, and supports the 
+ quality of life.
+URL:https://reps.mozilla.org/e/mozedu-en-el-cem/
+SEQUENCE:5
+X-COORDINATES-LAT:-25.5199811513
+X-COORDINATES-LON:-54.6400308609
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

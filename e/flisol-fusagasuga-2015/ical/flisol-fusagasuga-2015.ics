@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3554
+CLASS:PUBLIC
+DTSTAMP:20200407T175504Z
+DTSTART:20150411T140000Z
+DTEND:20150411T210000Z
+LOCATION:Colegio Femenino Teodoro Aya Villaveces\, Fusagasugá\, Colombia
+SUMMARY:Flisol Fusagasugá 2015
+DESCRIPTION:The Latin American Festival  of Free Software Installation (FL
+ ISoL) is the broadcast event Free  Software largest in Latin America\, was
+  born in Colombia in 2005\, and is now celebrated in over  20 countries an
+ d in  over  100  cities worldwide.  Its  main objective is to promote the 
+ use of free  software\, revealing publicly his philosophy\, scope\, progre
+ ss and development.
+URL:https://reps.mozilla.org/e/flisol-fusagasuga-2015/
+SEQUENCE:7
+X-COORDINATES-LAT:4.34022068684
+X-COORDINATES-LON:-74.361156458
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

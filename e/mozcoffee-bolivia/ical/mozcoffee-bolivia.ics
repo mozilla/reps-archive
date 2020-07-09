@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@981
+CLASS:PUBLIC
+DTSTAMP:20200423T212752Z
+DTSTART:20130706T210000Z
+DTEND:20130706T230000Z
+LOCATION:Rene Moreno avenue\, Santa Cruz\, Bolivia\, Santa Cruz\, Bolivia
+SUMMARY:MozCoffee Bolivia
+DESCRIPTION:The first Bolivian&#39;s mozCoffe where we will talk and share man
+ y experiences and knowledges about the world Mozilla for our bolivian&#39;s us
+ er.  \nOur first MozCoffe will be in the Santa Cruz City\, and we will to 
+ show to all the participants about the Geeksphone and we will talk about t
+ he Firefox OS and Marketplace.
+URL:https://reps.mozilla.org/e/mozcoffee-bolivia/
+SEQUENCE:5
+X-COORDINATES-LAT:-17.7836089592
+X-COORDINATES-LON:-63.1813216209
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

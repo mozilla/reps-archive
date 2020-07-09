@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6127
+CLASS:PUBLIC
+DTSTAMP:20200423T114131Z
+DTSTART:20161210T170000Z
+DTEND:20161210T210000Z
+LOCATION:Campeche 300\, Piso 1\, Condesa\, 06100\, México City\, Mexico C
+ ity\, Mexico
+SUMMARY:Meetup Rust CDMX
+DESCRIPTION:First meeting and our first Rust programming language workshop
+  in Mexico City. Meeting to create activities within Actívate de mozilla\
+ , the community is helping the local Rust community to create a larger and
+  more participatory community.
+URL:https://reps.mozilla.org/e/meetup-rust-cdmx/
+SEQUENCE:3
+X-COORDINATES-LAT:19.3664980762
+X-COORDINATES-LON:-99.1437415
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

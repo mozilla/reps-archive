@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1478
+CLASS:PUBLIC
+DTSTAMP:20200407T183319Z
+DTSTART:20131109T010000Z
+DTEND:20131109T110000Z
+LOCATION:Shenzhen Wuzhou Guest House\, Shenzhen\, China
+SUMMARY:Test The Web Forward
+DESCRIPTION:Test the Web Forward brings you closer to the very specificati
+ ons that you use to craft web experiences. At this event\, experts from th
+ e W3C\, Adobe\, Intel\, Mozilla\, Google\, and Opera as well as independen
+ t developers will be on hand to guide you step-by-step through reading &amp; u
+ nderstanding specs and through creating &amp; contributing new tests for them.
+  By participating in this event\, you are joining a movement that is shapi
+ ng the future of the web.
+URL:https://reps.mozilla.org/e/test-the-web-forward/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5431462996
+X-COORDINATES-LON:114.085762025
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

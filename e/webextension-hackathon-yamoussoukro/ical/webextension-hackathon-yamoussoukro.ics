@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6637
+CLASS:PUBLIC
+DTSTAMP:20200423T105703Z
+DTSTART:20170629T080000Z
+DTEND:20170630T080000Z
+LOCATION:Yamoussoukro\, Abidjan\, Ivory Coast
+SUMMARY:WebExtension Hackathon - Yamoussoukro
+DESCRIPTION:Un Hackathon avec pour but de developper des Addons.
+URL:https://reps.mozilla.org/e/webextension-hackathon-yamoussoukro/
+SEQUENCE:5
+X-COORDINATES-LAT:6.72189266995
+X-COORDINATES-LON:-5.19309997559
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

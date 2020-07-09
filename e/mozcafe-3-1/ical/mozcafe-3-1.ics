@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5126
+CLASS:PUBLIC
+DTSTAMP:20200407T174240Z
+DTSTART:20160213T150000Z
+DTEND:20160213T170000Z
+LOCATION:OpenLabs Hackerspace\, Tirana\, Albania
+SUMMARY:MozCafe Tirana #3
+DESCRIPTION:During the event we will discuss different topics such as: &#39;Ho
+ w to get involved in Mozilla&#39;\, areas that we all can contribute. We will 
+ discuss specifically about Internet of Things and for the new initiative C
+ onnected Devices.
+URL:https://reps.mozilla.org/e/mozcafe-3-1/
+SEQUENCE:4
+X-COORDINATES-LAT:41.3200371841
+X-COORDINATES-LON:19.8280849471
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

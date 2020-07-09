@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5607
+CLASS:PUBLIC
+DTSTAMP:20200423T151730Z
+DTSTART:20160625T140000Z
+DTEND:20160625T160000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:MozCafé Tirana (July 2016)
+DESCRIPTION:Another meetup of the Albanian Mozilla community with a focus 
+ on: \n- activities for the next half of 2016\;\n- Mozbalkans 2016 in Tiran
+ a\;\n- presence of Mozilla Albania at Open Source Conference Albania (revi
+ ew).
+URL:https://reps.mozilla.org/e/mozcafe-tirana-july-2016/
+SEQUENCE:0
+X-COORDINATES-LAT:41.3268106824
+X-COORDINATES-LON:19.8289489746
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4475
+CLASS:PUBLIC
+DTSTAMP:20200407T174227Z
+DTSTART:20150924T170000Z
+DTEND:20150924T180000Z
+LOCATION:MAdrid\, Spain\, Madrid\, Spain
+SUMMARY:Firefox OS Meetup: Spark and Addons!
+DESCRIPTION:We are going to introduce the Spark initiative and we are goin
+ g to being the development of Firefox OS Addons.
+URL:https://reps.mozilla.org/e/firefox-os-meetup-spark-and-addons/
+SEQUENCE:1
+X-COORDINATES-LAT:40.4112652547
+X-COORDINATES-LON:-3.69613945506
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

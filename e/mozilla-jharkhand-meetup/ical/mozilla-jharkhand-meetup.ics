@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7405
+CLASS:PUBLIC
+DTSTAMP:20200423T100316Z
+DTSTART:20180129T063000Z
+DTEND:20180129T093000Z
+LOCATION:Nucleus Mall\, Ranchi\, India
+SUMMARY:Mozilla Jharkhand Meetup
+DESCRIPTION:Inviting new people who are interested to contribute to Mozill
+ a. Help new people to understand about mozilla\, Mozilla Jharkhand Communi
+ ty\, How to start contributing\,\nCommunity Building\, Mozilla QA\, Mozill
+ a India\, Mozilla Activate Program\, etc
+URL:https://reps.mozilla.org/e/mozilla-jharkhand-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:23.3313276956
+X-COORDINATES-LON:85.3212887049
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7939
+CLASS:PUBLIC
+DTSTAMP:20200423T091726Z
+DTSTART:20180714T033000Z
+DTEND:20180715T123000Z
+LOCATION:GTU\, Ahmedabad\, India
+SUMMARY:Maker Party Gujarat
+DESCRIPTION:Gujarat is hosting Lots of sessions on OpenSource and other te
+ chnologies in a big Maker Party event this season and will be reaching out
+  to more and more people than the previous year. Session on Rust\, WebVR\,
+  Mixed Reality\, Add-ons\, L10N\, Internet Health Report\, Serverless\, Pr
+ ivacy\, security and lot more by amazing speakers from different parts.\n\
+ nThis is the mini version.
+URL:https://reps.mozilla.org/e/maker-party-gujarat-1/
+SEQUENCE:3
+X-COORDINATES-LAT:23.0375623804
+X-COORDINATES-LON:72.5274260042
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

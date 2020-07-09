@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2904
+CLASS:PUBLIC
+DTSTAMP:20200423T182830Z
+DTSTART:20141121T080000Z
+DTEND:20141122T170000Z
+LOCATION:Universidad San Pablo CEU\, Campus de Montepríncipe (Boadilla de
+ l Monte\, Madrid)\, Boadilla del monte\, Spain
+SUMMARY:Codemotion 2014
+DESCRIPTION:Codemotion gets all the IT communities in Spain together for t
+ wo days. We take an entire university building to present the best of each
+  technology and get you far away from your comfort zone.
+URL:https://reps.mozilla.org/e/codemotion-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:40.399720713
+X-COORDINATES-LON:-3.8360280991
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

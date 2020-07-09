@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7423
+CLASS:PUBLIC
+DTSTAMP:20200423T095830Z
+DTSTART:20180217T150000Z
+DTEND:20180217T190000Z
+LOCATION:Instituto Federal de Educação\, Ciência e Tecnologia do Rio Gr
+ ande do Norte\, Natal\, Brazil
+SUMMARY:Dive Into Rust @IFRN
+DESCRIPTION:The Rust programming language will be important to the future 
+ of the web\, making it safe and great. Join us to understand\, use and eva
+ ngelize this language will advance make the web better and more secure!
+URL:https://reps.mozilla.org/e/dive-into-rust-ifrn/
+SEQUENCE:2
+X-COORDINATES-LAT:-5.78476273836
+X-COORDINATES-LON:-35.1977691654
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

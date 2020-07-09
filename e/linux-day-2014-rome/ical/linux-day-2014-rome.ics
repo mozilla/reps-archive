@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2868
+CLASS:PUBLIC
+DTSTAMP:20200407T174244Z
+DTSTART:20141025T070000Z
+DTEND:20141025T160000Z
+LOCATION:Via del Politecnico\, Rome\, Italy
+SUMMARY:Linux day 2014 - Rome
+DESCRIPTION:Linux day 2014 event in Italy\, organized by Roma2Lug. Linux d
+ ay is a day dedicated to Linux that is celebrated at the same time in all 
+ Italy.\n\nThe talk will be about &#34;Firefox OS development for newbies&#34;.
+URL:https://reps.mozilla.org/e/linux-day-2014-rome/
+SEQUENCE:7
+X-COORDINATES-LAT:41.8559824618
+X-COORDINATES-LON:12.6233407255
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

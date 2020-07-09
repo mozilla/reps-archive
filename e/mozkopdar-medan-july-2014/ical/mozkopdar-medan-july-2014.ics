@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2261
+CLASS:PUBLIC
+DTSTAMP:20200407T175915Z
+DTSTART:20140705T120000Z
+DTEND:20140705T140000Z
+LOCATION:TBD\, Medan\, Indonesia
+SUMMARY:MozKopDar Medan - July 2014 (Pending to September)
+DESCRIPTION:An official Mozillians meetup in Medan for July 2014. Giving u
+ pdates about Firefox Student Ambassador program. Also giving updates from 
+ Mozilla projects. \n\ncollaborate w/ Risman Rangga (https://reps.mozilla.o
+ rg/u/iman_stallion/)
+URL:https://reps.mozilla.org/e/mozkopdar-medan-july-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:3.59748765745
+X-COORDINATES-LON:98.6499014497
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

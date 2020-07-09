@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@114
+CLASS:PUBLIC
+DTSTAMP:20200407T165747Z
+DTSTART:20120915T040800Z
+DTEND:20120915T120000Z
+LOCATION:University of Baguio\, Baguio\, Philippines
+SUMMARY:Software Freedom Day Celebration by Team SFD.PH (Philippines)
+DESCRIPTION:To celebrate this year&#39;s Software Freedom Day\, Team SFD.PH is
+  hosting an event in another area in the country: Baguio. \n\nTeam SFD.PH 
+ won 2 best event of the year awards\, including last year.
+URL:https://reps.mozilla.org/e/software-freedom-day-celebration-by-team-sf
+ d-ph-philippines/
+SEQUENCE:0
+X-COORDINATES-LAT:13.2399454993
+X-COORDINATES-LON:122.34375
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

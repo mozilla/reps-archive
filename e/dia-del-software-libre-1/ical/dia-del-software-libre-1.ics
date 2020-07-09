@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@29
+CLASS:PUBLIC
+DTSTAMP:20200423T225425Z
+DTSTART:20121013T130000Z
+DTEND:20121013T210000Z
+LOCATION:Biblioteca de Santiago\, Santiago\, Chile
+SUMMARY:Software Freedom Day - Santiago\, Chile.
+DESCRIPTION:The Software Freedom Day is a global celebration\, celebrating
+  the Free Software. Our goal in this celebration is to educate the general
+  public about the benefits of using quality free software in education\, i
+ n government\, at home and in business... In short\, everywhere! In Santia
+ go\, Chile\, GNUHILE Foundation coordinates the event along with other org
+ anizations and a team of volunteers to allow this event.
+URL:https://reps.mozilla.org/e/dia-del-software-libre-1/
+SEQUENCE:0
+X-COORDINATES-LAT:-33.4515400721
+X-COORDINATES-LON:-70.6803810596
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

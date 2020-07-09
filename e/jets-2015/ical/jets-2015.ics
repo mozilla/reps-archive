@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3794
+CLASS:PUBLIC
+DTSTAMP:20200423T173015Z
+DTSTART:20150424T140000Z
+DTEND:20150424T150000Z
+LOCATION:3 anillo Interno entre Bush y San Martin.\, Santa Cruz de la Sier
+ ra\, Bolivia
+SUMMARY:JETS 2015
+DESCRIPTION:Jest is a week of conferences about technology in the UTEPSA U
+ niversity in Santa Cruz city. Mozilla Bolivia will be there showing Firefo
+ x and Firefox OS.
+URL:https://reps.mozilla.org/e/jets-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.765833628
+X-COORDINATES-LON:-63.1985085012
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

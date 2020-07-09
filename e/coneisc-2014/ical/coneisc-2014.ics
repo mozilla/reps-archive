@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2504
+CLASS:PUBLIC
+DTSTAMP:20200423T191313Z
+DTSTART:20140818T170000Z
+DTEND:20140822T170000Z
+LOCATION:Universidad Nacional de Trujillo\, Trujillo\, Peru
+SUMMARY:CONEISC 2014
+DESCRIPTION:ENGLISH: The National Conference of Students of Systems Engine
+ ering and Computing is held every year in a Peruvian city and brings toget
+ her students across the country during a week.\n \nESPAÑOL: El Congreso N
+ acional de Estudiantes de Ingeniería de Sistemas y Computación se realiz
+ a cada año en una ciudad del Perú y reúne estudiantes de universidades 
+ de todo el país durante una semana.
+URL:https://reps.mozilla.org/e/coneisc-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:-8.11557650256
+X-COORDINATES-LON:-79.039710045
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2402
+CLASS:PUBLIC
+DTSTAMP:20200407T181610Z
+DTSTART:20140616T100000Z
+DTEND:20140616T120000Z
+LOCATION:32.564345\,35.880454\, Al-Albayt University\, Jordan
+SUMMARY:AABU workshop
+DESCRIPTION:this is a workshop to educate AABU Mozilla Club about Mozilla 
+ products\, Web Maker\, Popcorn &amp; Mozilla Thimble\n\n\nthere will be also a
+  session for the ladies about the Womoz division.
+URL:https://reps.mozilla.org/e/aabu-workshop/
+SEQUENCE:3
+X-COORDINATES-LAT:32.2790733091
+X-COORDINATES-LON:35.9133853856
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

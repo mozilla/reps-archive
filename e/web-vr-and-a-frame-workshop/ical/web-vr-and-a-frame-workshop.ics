@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6417
+CLASS:PUBLIC
+DTSTAMP:20200407T181232Z
+DTSTART:20170417T053000Z
+DTEND:20170417T103000Z
+LOCATION:Mangalore Institute\, Mangalore\, India
+SUMMARY:Web VR and A-Frame workshop
+DESCRIPTION:Web-VR workshop on the lines of Mozilla Activate campaign.\nht
+ tps://activate.mozilla.community/webvr-camp/ we will have a short introduc
+ tion and then build our own virtual environments with A-Frame on our lapto
+ ps and take actual virtual looks into them with Cardboards and mobile phon
+ es.
+URL:https://reps.mozilla.org/e/web-vr-and-a-frame-workshop/
+SEQUENCE:4
+X-COORDINATES-LAT:12.8591118305
+X-COORDINATES-LON:74.8493043333
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

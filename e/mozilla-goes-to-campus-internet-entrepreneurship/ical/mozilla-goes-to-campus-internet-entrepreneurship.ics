@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@299
+CLASS:PUBLIC
+DTSTAMP:20200423T224119Z
+DTSTART:20121203T023000Z
+DTEND:20121203T050000Z
+LOCATION:Hall of Faculty of Computer Science\, Jakarta\, Indonesia
+SUMMARY:Mozilla Goes To Campus (Internet Entrepreneurship)
+DESCRIPTION:Mozilla Indonesia Community with Local Entrepreneurs will have
+  a half-day seminars in Faculty of Economics and Faculty of Computer Scien
+ ce\, Borobudur University. Target of participant : 50 - 100.\n\nViking Kar
+ wur\, Finan Akbar and Artanto Ishaam as a Mozilla reps will have a session
+  to talk about Mozilla vision &amp; mission\, Firefox OS and other Mozilla Pro
+ ject.
+URL:https://reps.mozilla.org/e/mozilla-goes-to-campus-internet-entrepreneu
+ rship/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.24437989895
+X-COORDINATES-LON:106.898174286
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

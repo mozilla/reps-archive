@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6204
+CLASS:PUBLIC
+DTSTAMP:20200407T170237Z
+DTSTART:20170205T033000Z
+DTEND:20170205T100000Z
+LOCATION:Mechanical Auditorium\, Cummins College of Engineering for Women\
+ , Karve Nagar\, Pune\, India
+SUMMARY:Privacy and Security Workshop
+DESCRIPTION:An event by Mozilla Club Cummins\n\nAgenda :\n\n1.Introduction
+  to Mozilla and Open Source \n2. Easy Tips on Privacy and Security \n3.Eth
+ ical Hacking
+URL:https://reps.mozilla.org/e/privacy-and-security/
+SEQUENCE:10
+X-COORDINATES-LAT:18.4932328215
+X-COORDINATES-LON:73.8158472776
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

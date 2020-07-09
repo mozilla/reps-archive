@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3681
+CLASS:PUBLIC
+DTSTAMP:20200407T174244Z
+DTSTART:20150414T170000Z
+DTEND:20150414T180000Z
+LOCATION:Via Copernico\, 38\, Milan\, Italy
+SUMMARY:Meetup@MilanoJS
+DESCRIPTION:MIlanoJS is a JavaScript user group in Milan that every month 
+ hosts a talk (last month for example was in the Google Italia office in Mi
+ lan).\nThe meetup will have in the agenda only one talk dedicated only to 
+ Firefox OS. During this meetup Daniele Scasciafratte will talk about Firef
+ ox OS and will show Firefox OS devices.
+URL:https://reps.mozilla.org/e/meetup-milanojs/
+SEQUENCE:8
+X-COORDINATES-LAT:45.4882903508
+X-COORDINATES-LON:9.20154136402
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

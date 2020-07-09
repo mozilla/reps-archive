@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2886
+CLASS:PUBLIC
+DTSTAMP:20200423T184413Z
+DTSTART:20141017T080000Z
+DTEND:20141017T170000Z
+LOCATION:Darwin Darwin - 87 Quai des Queyries - 33100 Bordeaux - France\, 
+ Bordeaux\, France
+SUMMARY:Code of war
+DESCRIPTION:Code of War is a team programming competition\, free and open 
+ to all.\n\nTeams have two or three members at least one of which with prog
+ ramming skills. This competition won&#39;t reward the best coder\, but the bes
+ t strategy.\n\nEach team will code their robot Artificial Intelligence via
+  one of the SDKs available in JavaScript\, TypeScript\, CoffeeScript\, Hax
+ e or Dart.
+URL:https://reps.mozilla.org/e/code-of-war-1/
+SEQUENCE:7
+X-COORDINATES-LAT:44.8489765509
+X-COORDINATES-LON:-0.560626029619
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

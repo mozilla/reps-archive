@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@572
+CLASS:PUBLIC
+DTSTAMP:20200423T220828Z
+DTSTART:20130218T170000Z
+DTEND:20130218T210000Z
+LOCATION:Zöld kapu vendéglő\, Budapest\, Hungary
+SUMMARY:Fedora 18 release party
+DESCRIPTION:Fedora Hungarian Community celebrates Fedora 18. I introduced 
+ Firefox OS\, first steps\, other Mozilla projects in a 20 minutes presenta
+ tion.
+URL:https://reps.mozilla.org/e/fedora-18-release-party/
+SEQUENCE:0
+X-COORDINATES-LAT:47.5370073077
+X-COORDINATES-LON:19.0379548073
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

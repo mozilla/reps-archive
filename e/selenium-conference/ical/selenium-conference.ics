@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@670
+CLASS:PUBLIC
+DTSTAMP:20200407T183319Z
+DTSTART:20130610T120000Z
+DTEND:20130612T210000Z
+LOCATION:Marriott Renaissance Boston\, Boston\, United States
+SUMMARY:Selenium Conference
+DESCRIPTION:Selenium Conference gets all the Selenium Users and developers
+  into one conference to share experiences and war stories!
+URL:https://reps.mozilla.org/e/selenium-conference/
+SEQUENCE:4
+X-COORDINATES-LAT:42.3301235463
+X-COORDINATES-LON:-71.0430908203
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4532
+CLASS:PUBLIC
+DTSTAMP:20200423T163053Z
+DTSTART:20151008T053000Z
+DTEND:20151008T093000Z
+LOCATION:Sagar Ring Road \, Hyderabad\, Telangana India\, Hyderabad\, Indi
+ a
+SUMMARY:Moz Schoolz 3
+DESCRIPTION:where  there is no proper guidance about what is internet and 
+ what exactly  the web is ??  so\, we we have decided to educate the Govt. 
+ school  students about  computers \, basic internet concepts and web techn
+ ologies   \n\nmain motto of doing the event is to educate the govt school 
+ students about internet and computers
+URL:https://reps.mozilla.org/e/moz-schoolz-3/
+SEQUENCE:3
+X-COORDINATES-LAT:17.342168311
+X-COORDINATES-LON:78.5466331241
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

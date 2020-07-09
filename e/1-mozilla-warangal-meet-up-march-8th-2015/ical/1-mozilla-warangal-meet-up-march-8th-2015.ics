@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3606
+CLASS:PUBLIC
+DTSTAMP:20200407T175018Z
+DTSTART:20150308T043000Z
+DTEND:20150308T073000Z
+LOCATION:Rishi Institute of Spoken English\, J.P.N Road\, Opposite to SBH 
+ Warangal\, Warangal\, India
+SUMMARY:#1 Mozilla Warangal Meet up - March 8th 2015
+DESCRIPTION:A meet up aimed to bring back the spirit of Mozillian Contribu
+ tions and the Glory of Mozilla Warangal.
+URL:https://reps.mozilla.org/e/1-mozilla-warangal-meet-up-march-8th-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:17.9915279501
+X-COORDINATES-LON:79.6012651916
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

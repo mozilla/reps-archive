@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6873
+CLASS:PUBLIC
+DTSTAMP:20200423T101735Z
+DTSTART:20171115T050000Z
+DTEND:20171115T100000Z
+LOCATION:AUST\, Dhaka\, Bangladesh
+SUMMARY:Intro to webExtension at AUST
+DESCRIPTION:In the event participants will learn how easily they can devel
+ op an extension for Firefox using webExtension APIs and port the extension
+  in other browser (Chorme\, opera\, Edge etc.)
+URL:https://reps.mozilla.org/e/intro-to-webextension-at-aust/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7639260363
+X-COORDINATES-LON:90.4078352451
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

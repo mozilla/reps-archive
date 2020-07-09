@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4184
+CLASS:PUBLIC
+DTSTAMP:20200407T174946Z
+DTSTART:20150730T183000Z
+DTEND:20150814T183000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:WEBMAKER BOOM SERIES 2015
+DESCRIPTION:WEBMAKER BOOM SERIES 2015  is organized to host maker parties 
+ in 3 different states of India where people are untouched from the Webmake
+ r&#39;s awesomeness. Our mission would be to make people aware of the awesome 
+ tools we have in WebMaker and shift people from &#34;Using the Web&#34; to &#34; Makin
+ g the Web&#34;.
+URL:https://reps.mozilla.org/e/webmaker-boom-series-2015/
+SEQUENCE:5
+X-COORDINATES-LAT:28.849084274
+X-COORDINATES-LON:77.090148814
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

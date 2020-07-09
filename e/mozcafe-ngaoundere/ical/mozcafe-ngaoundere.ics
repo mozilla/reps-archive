@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4710
+CLASS:PUBLIC
+DTSTAMP:20200423T162335Z
+DTSTART:20151024T153000Z
+DTEND:20151024T173000Z
+LOCATION:Campus Numérique Francophone - Ngaoundere  (CNF)\, Ngaoundere\, 
+ Cameroon
+SUMMARY:MozCafe Ngaoundere
+DESCRIPTION:Open Meet-up of about 2 hours between Firefox Students Ambassa
+ dors\, WoMoz Members\, other Mozillians\, some target audience of Firefox 
+ OS\, Bloggers\, It&amp;web specialist\n3 Main presentations:\n- What&#39;s Mozilla
+  Cameroon and different dedicated programs by Mozilla?\n- Firefox OS: Why?
+ \n- How to develop and App for Firefox OS MarketPlace?
+URL:https://reps.mozilla.org/e/mozcafe-ngaoundere/
+SEQUENCE:1
+X-COORDINATES-LAT:7.3088020274
+X-COORDINATES-LON:13.5462341085
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

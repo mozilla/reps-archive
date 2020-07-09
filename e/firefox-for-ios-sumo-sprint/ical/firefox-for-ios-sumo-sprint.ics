@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4832
+CLASS:PUBLIC
+DTSTAMP:20200423T161250Z
+DTSTART:20151120T120000Z
+DTEND:20151120T133000Z
+LOCATION:Mozilla Community Space Taipei\, Da-an District\, Taiwan
+SUMMARY:MozTW Lab - Firefox for iOS SUMO sprint
+DESCRIPTION:Small SUMO sprint for Firefox iOS articles
+URL:https://reps.mozilla.org/e/firefox-for-ios-sumo-sprint/
+SEQUENCE:4
+X-COORDINATES-LAT:25.0439709416
+X-COORDINATES-LON:121.532189324
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

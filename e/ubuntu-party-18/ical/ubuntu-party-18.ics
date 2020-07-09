@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2139
+CLASS:PUBLIC
+DTSTAMP:20200423T194604Z
+DTSTART:20140524T070000Z
+DTEND:20140525T170000Z
+LOCATION:Cité des Sciences et de l&#39;Industrie\, Carrefour numérique\, Fra
+ nce
+SUMMARY:Ubuntu Party #18
+DESCRIPTION:It&#39;s a very important Parisian event where the French communit
+ y traditionnaly held a booth and gives some talks about Mozilla.
+URL:https://reps.mozilla.org/e/ubuntu-party-18/
+SEQUENCE:4
+X-COORDINATES-LAT:48.8958149144
+X-COORDINATES-LON:2.3885056976
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

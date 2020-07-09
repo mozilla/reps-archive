@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7190
+CLASS:PUBLIC
+DTSTAMP:20200423T102112Z
+DTSTART:20171029T043000Z
+DTEND:20171029T113000Z
+LOCATION:IIIT Hyderabad\, Hyderabad\, India
+SUMMARY:Hacktoberfest Hyderabad
+DESCRIPTION:Mozilla Telangana and Andhra Pradesh community is participatin
+ g in Hacktoberfest Hyderabad on 29th October 2017 at IIIT Hyderabad. \nThi
+ s event is an amazing learning opportunity in terms of working in open sou
+ rce and various FOSS communities will be taking part from across Hyderabad
+ . The entire event is absolutely free and open to all!\nYou can find all t
+ he details here: http://osdg-iiith.github.io/hacktoberfest
+URL:https://reps.mozilla.org/e/hacktoberfest-hyderabad/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4456004438
+X-COORDINATES-LON:78.3492642046
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

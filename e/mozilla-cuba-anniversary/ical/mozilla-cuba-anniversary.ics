@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5072
+CLASS:PUBLIC
+DTSTAMP:20200407T173814Z
+DTSTART:20160205T150000Z
+DTEND:20160206T190000Z
+LOCATION:University Jesús Montané Oropesa\, Nueva Gerona\, Cuba
+SUMMARY:Mozilla Cuba Anniversary
+DESCRIPTION:Celebrating the 7th anniversary of the formal creation of Fire
+ foxmanía Community\, we\, the active members of the community\, are going
+  to visit another province in the country.\n\nThis will be the first time 
+ we realize moving active members to other places outside Havana.
+URL:https://reps.mozilla.org/e/mozilla-cuba-anniversary/
+SEQUENCE:4
+X-COORDINATES-LAT:21.8877727744
+X-COORDINATES-LON:-82.8048580887
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

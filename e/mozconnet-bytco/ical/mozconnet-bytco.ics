@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3502
+CLASS:PUBLIC
+DTSTAMP:20200423T175711Z
+DTSTART:20150213T203000Z
+DTEND:20150213T233000Z
+LOCATION:Bytco college Nashik Road\, Nashik\, Nashik\, India
+SUMMARY:MozConnet Bytco
+DESCRIPTION:This Saturday there is an event going to be held in Bytco coll
+ ege the main motto of ths event is to literate students about Online Priva
+ cy and how Mozilla&#39;s extraordinary tool LIGHTBEAM can help to maintain it.
+ . Agenda for the session\n*About Mozilla\n*FOSS and Open Source\n*Online P
+ rivacy\n*Solution\n*Lightbeam
+URL:https://reps.mozilla.org/e/mozconnet-bytco/
+SEQUENCE:0
+X-COORDINATES-LAT:20.0047006
+X-COORDINATES-LON:73.7676085
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

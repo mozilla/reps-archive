@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4074
+CLASS:PUBLIC
+DTSTAMP:20200423T164618Z
+DTSTART:20150904T030000Z
+DTEND:20150904T064500Z
+LOCATION:Notre Dame College\, Dhaka\, Bangladesh
+SUMMARY:WebMaker App for Android Explore @ NDC
+DESCRIPTION:We will be exploring WebMaker app for andorid &amp; creating conte
+ nts in the event.
+URL:https://reps.mozilla.org/e/webmaker-explore-ndc/
+SEQUENCE:12
+X-COORDINATES-LAT:23.7283966368
+X-COORDINATES-LON:90.4220258072
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3373
+CLASS:PUBLIC
+DTSTAMP:20200423T180745Z
+DTSTART:20150117T100000Z
+DTEND:20150117T140000Z
+LOCATION:Avenue Aka Abidjan Côte d&#39;Ivoire\, Williamsville\, Ivory Coast
+SUMMARY:Meetup Sumo office Ivory Coast
+DESCRIPTION:knowledge and using mozilla canal to work.
+URL:https://reps.mozilla.org/e/meetup-sumo-office-ivory-coast/
+SEQUENCE:1
+X-COORDINATES-LAT:5.316667
+X-COORDINATES-LON:-4.033333
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9148
+CLASS:PUBLIC
+DTSTAMP:20200407T170239Z
+DTSTART:20200228T033000Z
+DTEND:20200229T123000Z
+LOCATION:MCCIA Trade Tower\, Pune\, India
+SUMMARY:JSFoo Pune 2020
+DESCRIPTION:JSFoo is a platform for:\n\n    Front-end engineers\n    Fulls
+ tack developers\n    Web application development teams\n    Senior archite
+ cts\n\nto:\n\n    Share insights from work on web application development.
+ \n    Learn from peers.\n    Discover of emerging trends for JavaScript in
+  India.\n    Understand perspectives on component architecture\, front-end
+  security\, performance and emerging trends.
+URL:https://reps.mozilla.org/e/jsfoo-pune-2020/
+SEQUENCE:1
+X-COORDINATES-LAT:18.3927553513
+X-COORDINATES-LON:73.9394527674
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

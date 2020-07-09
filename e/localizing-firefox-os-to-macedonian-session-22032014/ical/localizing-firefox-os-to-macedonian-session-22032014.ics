@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2043
+CLASS:PUBLIC
+DTSTAMP:20200407T182330Z
+DTSTART:20140322T140000Z
+DTEND:20140322T200000Z
+LOCATION:KIKA Hacklab Vasil Stefanovski 8/1\, Skopje\, Macedonia\, Skopje\
+ , Macedonia\, F.Y.R. of
+SUMMARY:Localizing Firefox OS to Macedonian - Session 22032014
+DESCRIPTION:The local Mozilla community will be working on completing the 
+ Macedonian localization of Firefox OS.\n\nThe event is open to all.
+URL:https://reps.mozilla.org/e/localizing-firefox-os-to-macedonian-session
+ -22032014/
+SEQUENCE:9
+X-COORDINATES-LAT:41.9962317751
+X-COORDINATES-LON:21.418347761
+X-COUNTRY-CODE:mk
+END:VEVENT
+
+END:VCALENDAR

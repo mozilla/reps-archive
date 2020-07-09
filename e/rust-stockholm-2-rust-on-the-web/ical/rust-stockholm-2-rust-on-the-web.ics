@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6303
+CLASS:PUBLIC
+DTSTAMP:20200423T150103Z
+DTSTART:20160829T160000Z
+DTEND:20160829T200000Z
+LOCATION:Widespace\, Regeringsgatan 30\, Sweden
+SUMMARY:Rust Stockholm #2:   Rust on the web
+DESCRIPTION:There is great promise for Rust on the web\, and the community
+  is quickly checking the boxes of http://www.arewewebyet.org/ with web fra
+ meworks like Iron\, database drivers and ORMs like Diesel\, JSON serializa
+ tion with serde-json and websocket libraries etc.
+URL:https://reps.mozilla.org/e/rust-stockholm-2-rust-on-the-web/
+SEQUENCE:0
+X-COORDINATES-LAT:59.3316996
+X-COORDINATES-LON:18.0666414
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

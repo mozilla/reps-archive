@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2836
+CLASS:PUBLIC
+DTSTAMP:20200423T183910Z
+DTSTART:20141027T100000Z
+DTEND:20141031T210000Z
+LOCATION:UFLA\, Lavras\, Brazil
+SUMMARY:Semana de Tecnologia da Informação da Universidade Federal de La
+ vras
+DESCRIPTION:Semana de Tecnologia da Universidade Federal de Lavras (Federa
+ l University of Lavras Technology week) is one of the most important event
+ s organized by a college related to IT in Minas Gerais.\n\nPlanned activit
+ ies: 3 talks and a booth. More details on event wiki page.
+URL:https://reps.mozilla.org/e/semana-de-tecnologia-da-universidade-federa
+ l-de-lavras/
+SEQUENCE:5
+X-COORDINATES-LAT:-21.2305087687
+X-COORDINATES-LON:-44.9965124132
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

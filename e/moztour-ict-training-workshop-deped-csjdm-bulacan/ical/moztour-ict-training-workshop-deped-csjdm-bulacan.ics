@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4814
+CLASS:PUBLIC
+DTSTAMP:20200423T161244Z
+DTSTART:20151120T170000Z
+DTEND:20151121T080000Z
+LOCATION:Harmony Hills High School\, San Jose del Monte\, Philippines
+SUMMARY:MozTour/ ICT Training Workshop DepEd CSJDM Bulacan
+DESCRIPTION:Department of Education Division of San Jose del Monte Bulacan
+  Region III invites the Mozilla Philippines Community for a Moztour which 
+ we will discuss the overview of Mozilla and its projects: Firefox OS\, FSA
+ \, and the Mozilla Learning Initiative. We will also talk to the personnel
+  of the Department of Education Region III for the possible partnership in
+  preparation for the K to 12 implementation.
+URL:https://reps.mozilla.org/e/moztour-ict-training-workshop-deped-csjdm-b
+ ulacan/
+SEQUENCE:0
+X-COORDINATES-LAT:14.8081807816
+X-COORDINATES-LON:121.046751738
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

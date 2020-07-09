@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6692
+CLASS:PUBLIC
+DTSTAMP:20200407T175054Z
+DTSTART:20170601T070000Z
+DTEND:20170602T150000Z
+LOCATION:Cliqz GmbH (Rosenkavalierplatz 10\, Munich)\, Munich\, Germany
+SUMMARY:Mozilla Global Sprint 2017 - Munich\, Germany
+DESCRIPTION:We&#39;re hosting a site here at Munich for the Mozilla Global Spr
+ int on June 1-2\, 2017 https://mozilla.github.io/global-sprint/.  The  Glo
+ bal Sprint is a fun\, two-day community event bringing people from around 
+ the world together to collaborate on open projects\, such as developing op
+ en source software\, building open tools\, writing curriculum\, planning e
+ vents\, and more.
+URL:https://reps.mozilla.org/e/mozilla-global-sprint-2017-munich-germany/
+SEQUENCE:2
+X-COORDINATES-LAT:48.1390578094
+X-COORDINATES-LON:11.5744400024
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

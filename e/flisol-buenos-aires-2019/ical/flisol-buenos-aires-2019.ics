@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8518
+CLASS:PUBLIC
+DTSTAMP:20200407T174058Z
+DTSTART:20190427T130000Z
+DTEND:20190427T230000Z
+LOCATION:Centro Cultural General San Martín\, Ciudad Autonoma de Buenos A
+ ires\, Argentina
+SUMMARY:FLISoL CABA 2019
+DESCRIPTION:FLISoL is the largest Free Software dissemination event in Lat
+ in America and is aimed at all kinds of audiences: students\, academics\, 
+ entrepreneurs\, workers\, public officials\, enthusiasts and even people w
+ ho do not have much computer knowledge.
+URL:https://reps.mozilla.org/e/flisol-buenos-aires-2019/
+SEQUENCE:6
+X-COORDINATES-LAT:-34.6050658235
+X-COORDINATES-LON:-58.38843441
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

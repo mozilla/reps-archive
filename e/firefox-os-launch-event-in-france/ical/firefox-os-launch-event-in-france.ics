@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2881
+CLASS:PUBLIC
+DTSTAMP:20200407T173659Z
+DTSTART:20140906T080000Z
+DTEND:20140906T160000Z
+LOCATION:Magasins Leclerc\, Paris\, France
+SUMMARY:Firefox OS launch event in France
+DESCRIPTION:We are launching Firefox OS phones in France (4 around Paris\,
+  1 near Toulouse\, 1 in Vannes\, 1 in Grenoble). Seven Leclerc shops (sell
+ ing ZTE phones) will host mozillians to present Firefox OS phones to the g
+ eneral public on saturday.
+URL:https://reps.mozilla.org/e/firefox-os-launch-event-in-france/
+SEQUENCE:4
+X-COORDINATES-LAT:48.8544327728
+X-COORDINATES-LON:2.34749793832
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

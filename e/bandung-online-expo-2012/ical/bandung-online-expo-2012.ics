@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@75
+CLASS:PUBLIC
+DTSTAMP:20200423T225806Z
+DTSTART:20120928T030000Z
+DTEND:20120930T130000Z
+LOCATION:Graha Manggala Siliwangi\, Bandung\, Indonesia
+SUMMARY:Bandung International Online Expo 2012
+DESCRIPTION:Bandung International Online Expo 2012 is the first Internet S
+ ervice expo ever in Bandung and also in Indonesia. This expo presents loca
+ l and international well-known Internet Service provider like Facebook and
+  Twitter. In this event\, I will give a talk about Mozilla project\, share
+  about how the Web become a platform with Firefox OS and open Firefox Clin
+ ic on the event.
+URL:https://reps.mozilla.org/e/bandung-online-expo-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.90940698508
+X-COORDINATES-LON:107.619870901
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

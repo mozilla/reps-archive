@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4331
+CLASS:PUBLIC
+DTSTAMP:20200423T165344Z
+DTSTART:20150812T063000Z
+DTEND:20150812T140000Z
+LOCATION:The Oberoi\, Bangalore\, Bangalore\, India
+SUMMARY:ALN Round Table on &#34;Driving Innovation and Scalability with Free a
+ nd Open Source Software.&#34;
+DESCRIPTION:The event is by invitation-only.\n\nAsia Legal Network (ALN)\,
+  Software Freedom Law Center (SFLC) and the Open Invention Network (OIN) o
+ rganizing ALN Round Table on &#34;Driving Innovation and Scalability with Free
+  and Open Source Software.&#34; This event will be held on August 12th\, 2015 
+ in Bangalore at Oberoi Hotel\, M.G. Road. The keynote speaker for this eve
+ nt will be Prof. Eben Moglen.  We will also have Keith Bergelt\, CEO of th
+ e Open Innovation Network
+URL:https://reps.mozilla.org/e/aln-round-table-on-driving-innovation-and-s
+ calability-with-free-and-open-source-software/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9733984249
+X-COORDINATES-LON:77.6182159781
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

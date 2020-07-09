@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2632
+CLASS:PUBLIC
+DTSTAMP:20200423T184940Z
+DTSTART:20141004T130000Z
+DTEND:20141004T230000Z
+LOCATION:Avenida Libertador Bernardo O&#39;Higgins nº 3363\, Santiago\, Chile
+SUMMARY:Software Freedom Day Santiago de Chile 2014
+DESCRIPTION:The SFD is celebrated worldwide on the third Saturday of Septe
+ mber. As in Chile have national holidays on that date is changed to the fi
+ rst week of October.\n\nWe try to raise awareness of the use of free softw
+ are\, promoting constructive dialogue on responsibilities and rights of th
+ e information society.
+URL:https://reps.mozilla.org/e/software-freedom-day-santiago-de-chile-2014
+ /
+SEQUENCE:27
+X-COORDINATES-LAT:-33.4517653544
+X-COORDINATES-LON:-70.6865901947
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

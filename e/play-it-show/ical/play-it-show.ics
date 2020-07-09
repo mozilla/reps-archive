@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2115
+CLASS:PUBLIC
+DTSTAMP:20200423T195853Z
+DTSTART:20140426T060000Z
+DTEND:20140426T180000Z
+LOCATION:SYMA Hall\, Budapest\, Hungary
+SUMMARY:Play IT Show
+DESCRIPTION:The biggest game\, IT and mobile show of the country will be h
+ eld again on April 26th\n\nPlayIT Show is the successor of Budapest Game S
+ how\, the first real Hungarian gamer expo. It provides quality fun for peo
+ ple of all ages and genders\, who are interested in the world of IT\, mobi
+ les and videogames two times a year (in spring and autumn/winter).
+URL:https://reps.mozilla.org/e/play-it-show/
+SEQUENCE:4
+X-COORDINATES-LAT:47.5011968479
+X-COORDINATES-LON:19.10097313
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

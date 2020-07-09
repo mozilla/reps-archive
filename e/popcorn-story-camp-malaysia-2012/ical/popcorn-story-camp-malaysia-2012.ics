@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@206
+CLASS:PUBLIC
+DTSTAMP:20200407T175904Z
+DTSTART:20121208T040000Z
+DTEND:20121209T040000Z
+LOCATION:Fakulti Teknologi dan Sains Maklumat UKM\, Universiti Kebangsaan 
+ Malaysia\, Bangi\, Malaysia
+SUMMARY:Popcorn Story Camp Malaysia 2012
+DESCRIPTION:Popcorn  Story Camp Malaysia 2012 contains hands on sessions\,
+  talks\, and  hack!(not security stuff). &#34;Make your own story or Cheritera
+  Anda!&#34; is  selected theme for this event. The event will focusing for sma
+ ll group  students and be trained by individual person passionate to Web a
+ nd part  of that community\, helping build a brighter future for the Web. 
+ The  concept is fun\, interactive and more exposure to World Wide Web.
+URL:https://reps.mozilla.org/e/popcorn-story-camp-malaysia-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:2.924601
+X-COORDINATES-LON:101.77274
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

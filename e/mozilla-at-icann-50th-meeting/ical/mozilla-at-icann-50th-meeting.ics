@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2319
+CLASS:PUBLIC
+DTSTAMP:20200423T193437Z
+DTSTART:20140620T060000Z
+DTEND:20140628T160000Z
+LOCATION:London - Hilton London Metropole Hotel\, London\, United Kingdom
+SUMMARY:Mozilla At ICANN 50th Meeting
+DESCRIPTION:ICANN meetings are held three times each year in different reg
+ ions of the globe to enable attendees from around the world to participate
+  in person. One meeting each year is also the organization&#39;s annual genera
+ l meeting\, during which new Board members take their seats.
+URL:https://reps.mozilla.org/e/mozilla-at-icann-50th-meeting/
+SEQUENCE:2
+X-COORDINATES-LAT:51.4939248037
+X-COORDINATES-LON:-0.11352583766
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

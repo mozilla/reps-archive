@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3791
+CLASS:PUBLIC
+DTSTAMP:20200423T172718Z
+DTSTART:20150505T180000Z
+DTEND:20150505T190000Z
+LOCATION:IRC\, Glasgow\, United Kingdom
+SUMMARY:Contributor Meetup May 2015
+DESCRIPTION:This is the bi monthly Mozilla Contributor event we are doing 
+ \n\nWe are going to change the formatt for these events by having a modera
+ tor page
+URL:https://reps.mozilla.org/e/contributor-meetup-may-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:55.8583581066
+X-COORDINATES-LON:-4.35813903809
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

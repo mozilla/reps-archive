@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3083
+CLASS:PUBLIC
+DTSTAMP:20200423T182716Z
+DTSTART:20141122T050000Z
+DTEND:20141122T090000Z
+LOCATION:University of Asia &amp; the Pacific\, Sumilang\, Philippines
+SUMMARY:Campus DevCon at University of Asia and the Pacific
+DESCRIPTION:Campus DevCon at University of Asia and the Pacific is a gathe
+ ring in partnership with University of Asia and the Pacific that aims to a
+ ugment the academic learnings of students with up-to-date trends in the IT
+  industry. The event converges an average of 200 students taking up Comput
+ er Science or other IT-related courses.
+URL:https://reps.mozilla.org/e/campus-devcon-at-university-of-asia-and-the
+ -pacific/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5801327557
+X-COORDINATES-LON:121.061548233
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

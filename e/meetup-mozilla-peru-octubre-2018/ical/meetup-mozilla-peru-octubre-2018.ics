@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8155
+CLASS:PUBLIC
+DTSTAMP:20200422T230123Z
+DTSTART:20181018T000000Z
+DTEND:20181018T020000Z
+LOCATION:Av. Almirante Miguel Grau 629\, Barranco\, Barranco\, Peru
+SUMMARY:Meetup Mozilla Perú Octubre 2018
+DESCRIPTION:Las charlas propuestas deben estar relacionadas de alguna form
+ a a la misión de Mozilla y/o alguno de los proyectos que inició o mantie
+ ne. Desde tecnologías y herramientas creadas y/o utilizadas hasta proyect
+ os de la comunidad.
+URL:https://reps.mozilla.org/e/meetup-mozilla-peru-octubre-2018/
+SEQUENCE:7
+X-COORDINATES-LAT:-12.1511204145
+X-COORDINATES-LON:-77.0201518536
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5327
+CLASS:PUBLIC
+DTSTAMP:20200407T174249Z
+DTSTART:20160504T120000Z
+DTEND:20160507T230000Z
+LOCATION:UFF Venue in Rio das Ostras\, Rio das Ostras\, Brazil
+SUMMARY:1a Semana da Computação da UFF 2016
+DESCRIPTION:Tech event from the Fluminense Federal University in Rio das O
+ stras\, RJ
+URL:https://reps.mozilla.org/e/1a-semana-da-computacao-da-uff-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.5278210909
+X-COORDINATES-LON:-41.943508387
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

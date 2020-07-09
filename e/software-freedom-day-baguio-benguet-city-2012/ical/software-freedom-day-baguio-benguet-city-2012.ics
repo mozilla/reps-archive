@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@64
+CLASS:PUBLIC
+DTSTAMP:20200407T165757Z
+DTSTART:20120915T000000Z
+DTEND:20120915T090000Z
+LOCATION:University of Baguio\, Baguio\, Philippines
+SUMMARY:Software Freedom Day Baguio-Benguet City 2012
+DESCRIPTION:Mozilla Philippines is one with the Philippine OpenSource Netw
+ ork (POSNet) in celebrating Software Freedom Day 2012 in the cities of Bag
+ uio &amp; Benguet (north of Manila).
+URL:https://reps.mozilla.org/e/software-freedom-day-baguio-benguet-city-20
+ 12/
+SEQUENCE:0
+X-COORDINATES-LAT:16.4038117621
+X-COORDINATES-LON:120.598983765
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

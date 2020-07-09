@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1778
+CLASS:PUBLIC
+DTSTAMP:20200407T180112Z
+DTSTART:20140220T080000Z
+DTEND:20140220T090000Z
+LOCATION:Bulawayo Polytechnic\, Bulawayo\, Zimbabwe
+SUMMARY:Mozilla at Bulawayo Polytechnic
+DESCRIPTION:A presentation on Mozilla products/projects i.e FirefoxOS and 
+ the mentorship opportunities that Mozilla offers such as ReMo\,Firefox Stu
+ dent Ambassadors Program and WebFwd. \n\nThe event will focus on creating 
+ awareness of the different Mozilla projects and the aim is to get students
+  to sign up for FSA.
+URL:https://reps.mozilla.org/e/mozilla-at-bulawayo-polytechnic/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.3068518468
+X-COORDINATES-LON:28.6054694653
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

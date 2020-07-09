@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1775
+CLASS:PUBLIC
+DTSTAMP:20200423T200909Z
+DTSTART:20140402T060000Z
+DTEND:20140402T080000Z
+LOCATION:Jagannath University\, Dhaka\, Bangladesh
+SUMMARY:JnU Firefox Students meet-up &amp; intro to contribution
+DESCRIPTION:On wiki:\nhttps://wiki.mozilla.org/Jagannath_University_Firefo
+ x_Club\n\nAgenda to be discussed\n\nJnU fx club lead Rafiqul Alam Khan wil
+ l organize this event with our help
+URL:https://reps.mozilla.org/e/jnu-firefox-students-meet-up-intro-to-contr
+ ibution/
+SEQUENCE:6
+X-COORDINATES-LAT:23.709921
+X-COORDINATES-LON:90.407143
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

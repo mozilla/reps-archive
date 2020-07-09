@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7702
+CLASS:PUBLIC
+DTSTAMP:20200423T093901Z
+DTSTART:20180504T080000Z
+DTEND:20180504T110000Z
+LOCATION:FH Technikum Wien\, Vienna\, Austria
+SUMMARY:WebVR/XR &amp; A-Frame Workshop @ Linuxwochen Wien
+DESCRIPTION:Mostly following MozActivate WebVR plan at https://activate.mo
+ zilla.community/webvr-camp/ we will have a short introduction and then bui
+ ld our own virtual environments with A-Frame on our laptops and take actua
+ l virtual looks into them with Cardboards and mobile phones.
+URL:https://reps.mozilla.org/e/webvr-xr-a-frame-workshop-linuxwochen-wien/
+SEQUENCE:1
+X-COORDINATES-LAT:48.2051616175
+X-COORDINATES-LON:16.3450491406
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

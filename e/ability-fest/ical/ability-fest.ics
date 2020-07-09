@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5619
+CLASS:PUBLIC
+DTSTAMP:20200407T182335Z
+DTSTART:20161012T090000Z
+DTEND:20161012T150000Z
+LOCATION:None\, None\, United Kingdom
+SUMMARY:Ability Fest -This is no longer happening
+DESCRIPTION:This is no longer happening \n\nEstablished in 1999\, Ability 
+ Fest has become the No.1 annual event which offers unique benefits to the 
+ disabled community\, employers and support organisations in Glasgow and th
+ e West of Scotland and surrounding areas.
+URL:https://reps.mozilla.org/e/ability-fest/
+SEQUENCE:6
+X-COORDINATES-LAT:55.8659198215
+X-COORDINATES-LON:-4.25907075427
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

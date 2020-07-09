@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@778
+CLASS:PUBLIC
+DTSTAMP:20200407T173900Z
+DTSTART:20130523T070000Z
+DTEND:20130523T180000Z
+LOCATION:Euskalduna Congress Center\, Bilbao\, Spain
+SUMMARY:Sherpa Web Summit
+DESCRIPTION:The Sherpa Summit is the global event that brings together key
+  business people and experts discussing and debating the future of the bus
+ iness and technology in the Web and IT organized by Sher.pa.\n\nIn this pa
+ rticular edition\, the main topic of the conference will be the next gener
+ ation of search engines\, mobile search\, voice search\, interaction and n
+ ew user interfaces.
+URL:https://reps.mozilla.org/e/sherpa-web-summit/
+SEQUENCE:8
+X-COORDINATES-LAT:43.2647063086
+X-COORDINATES-LON:-2.93918609619
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

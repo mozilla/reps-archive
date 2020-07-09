@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4734
+CLASS:PUBLIC
+DTSTAMP:20200407T175113Z
+DTSTART:20151219T060000Z
+DTEND:20151219T123000Z
+LOCATION:Mozilla Community Space Taipei\, Da-an District\, Taiwan
+SUMMARY:SUMO party 2015 &#34;The Adventures in SUMO Kingdom&#34;
+DESCRIPTION:** We may postpone event date from NOV 28 to DEC 19 OR DEC 20 
+ due to venue availability. **\n\nThe SUMO pay is coming again! This time y
+ ou are going to visit the SUMO kingdom and try to work together with your 
+ fellows in order to gain as many Action Point as you can\, and lead your t
+ eam to uncover the secret of the kingdom.\n\nWe are going to focus on Fire
+ fox for desktop and Firefox OS this time\, and sure we will have swags for
+  you! So don&#39;t forget to save the date and bring your friends with us!
+URL:https://reps.mozilla.org/e/sumo-party-2015-the-adventures-in-sumo-king
+ dom/
+SEQUENCE:7
+X-COORDINATES-LAT:25.0441267676
+X-COORDINATES-LON:121.532448996
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

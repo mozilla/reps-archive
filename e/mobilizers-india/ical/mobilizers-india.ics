@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2598
+CLASS:PUBLIC
+DTSTAMP:20200407T174451Z
+DTSTART:20140726T023000Z
+DTEND:20140826T063000Z
+LOCATION:India\, New Delhi\, India
+SUMMARY:Mobilizers India
+DESCRIPTION:Mobilizers are tech/geek enthusiasts that are committed to spr
+ eading Firefox OS\, Mozilla&#39;s new mobile product. Mobilizers receive perio
+ dic missions asking them to do a simple action to teach others about the n
+ ew Firefox OS. Mobilizers will also attend\, assist or host events in thei
+ r market about once a month. \n\nAll team members will receive training on
+  how to do these activities and a great deal of support from the Mozilla E
+ ngagement team throughout the launch period.
+URL:https://reps.mozilla.org/e/mobilizers-india/
+SEQUENCE:1
+X-COORDINATES-LAT:28.5539678211
+X-COORDINATES-LON:77.2456052899
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

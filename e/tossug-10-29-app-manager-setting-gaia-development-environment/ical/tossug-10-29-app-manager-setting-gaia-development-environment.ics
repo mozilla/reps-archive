@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1431
+CLASS:PUBLIC
+DTSTAMP:20200423T205640Z
+DTSTART:20131029T113000Z
+DTEND:20131029T130000Z
+LOCATION:Ville Cafe\, Taipei\, Taiwan
+SUMMARY:TOSSUG 10/29: App Manager &amp; Setting Gaia Development Environment
+DESCRIPTION:Gary Kwong from Mozilla Mountain View office is going to visit
+  Taipei at the end of October\, and will give a talk about the new App Man
+ ager. Also we will have Yuren Ju from Mozilla Taiwan to share his experien
+ ce on setting the development environment of Gaia\, the front-end part of 
+ Firefox OS.
+URL:https://reps.mozilla.org/e/tossug-10-29-app-manager-setting-gaia-devel
+ opment-environment/
+SEQUENCE:8
+X-COORDINATES-LAT:25.0161815446
+X-COORDINATES-LON:121.531791687
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

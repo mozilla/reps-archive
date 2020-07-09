@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6996
+CLASS:PUBLIC
+DTSTAMP:20200407T174626Z
+DTSTART:20170916T040000Z
+DTEND:20170916T070000Z
+LOCATION:NIET\, Greater Noida\, India
+SUMMARY:Rain of Rust
+DESCRIPTION:The Rust programming language will be important to the future 
+ of the web\, making it safe and great\, Join us to understand\, use and ev
+ angelize this language to make web better and more secure! You&#39;ll come to 
+ know the most advanced features of rust as a system programming language a
+ nd realize that it is really fast. Apart from Rust as a system programming
+  language\, people will come to know the advantages of using rust over any
+  other programming language.
+URL:https://reps.mozilla.org/e/rain-of-rust/
+SEQUENCE:1
+X-COORDINATES-LAT:28.4671001162
+X-COORDINATES-LON:77.5140280277
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

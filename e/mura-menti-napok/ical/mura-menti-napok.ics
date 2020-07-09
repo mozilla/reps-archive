@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@14
+CLASS:PUBLIC
+DTSTAMP:20200407T182251Z
+DTSTART:20120815T100000Z
+DTEND:20120820T100000Z
+LOCATION:Outdoor event\, Letenye\, Hungary
+SUMMARY:Mura Menti Napok
+DESCRIPTION:This is the biggest event in the South-West region in Hungary.
+  5 days long event for all kind of people. \n\nWe will focusing on the stu
+ dents/teachers and everyone who interested. We would like to organize game
+ s\, quiz and knowledge transfer. \n\nVolunteers will running Mozilla booth
+  and share information about Mozilla mission\, projects\, products. We wou
+ ld like to focus on the youth/teachers. We are planning to do quiz.
+URL:https://reps.mozilla.org/e/mura-menti-napok/
+SEQUENCE:0
+X-COORDINATES-LAT:46.4113515029
+X-COORDINATES-LON:16.7211914062
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5056
+CLASS:PUBLIC
+DTSTAMP:20200423T154827Z
+DTSTART:20160217T033000Z
+DTEND:20160218T133000Z
+LOCATION:Gulzar Group of Institutes\, Ludhiana\, Ludhiana\, India
+SUMMARY:MozPunjab
+DESCRIPTION:This talk will center on &#34;Mozilla&#34; where it includes all about
+   Launching of Mozilla club in GGI\, about Mozilla\,its products\, new tec
+ hnologies that are obtained by Mozilla and how can students contribute to 
+ it. This will be of 2 days session which includes presentation and worksho
+ p to train students about web technologies.
+URL:https://reps.mozilla.org/e/mozludhiana/
+SEQUENCE:2
+X-COORDINATES-LAT:30.1570020872
+X-COORDINATES-LON:74.7825622559
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

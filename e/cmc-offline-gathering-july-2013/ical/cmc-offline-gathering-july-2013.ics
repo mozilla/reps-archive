@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1056
+CLASS:PUBLIC
+DTSTAMP:20200423T212842Z
+DTSTART:20130706T043000Z
+DTEND:20130706T063000Z
+LOCATION:Oost Koffie and Thee\, Surabaya\, Indonesia
+SUMMARY:CMC Offline Gathering - July 2013
+DESCRIPTION:Monthly gathering of Campus Marketeers Club (CMC) that connect
+ ed all marketing enthusiasts from all campuses in East Java\, mostly Surab
+ aya. Organized by Marketeers/Mark Plus. \n\nThis month\, the theme is &#34;Mar
+ keting to Netizen\, Tactical Marketing Through Internet&#34;. Mozilla Rep in S
+ urabaya is invited to give a talk and share expirence about it.
+URL:https://reps.mozilla.org/e/cmc-offline-gathering-july-2013/
+SEQUENCE:4
+X-COORDINATES-LAT:-7.25996693286
+X-COORDINATES-LON:112.77431488
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

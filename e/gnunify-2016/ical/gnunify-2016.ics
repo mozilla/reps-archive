@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5124
+CLASS:PUBLIC
+DTSTAMP:20200407T174439Z
+DTSTART:20160212T043000Z
+DTEND:20160213T123000Z
+LOCATION:SICSR\, Model Colony\, Pune\, Pune\, India
+SUMMARY:GNUnify 2016
+DESCRIPTION:GNUnify is an annual gathering consisting of Free and Open Sou
+ rce software workshops\, talks\, seminars and BOFs (Birds of a feather)\, 
+ hosted by the Pune Linux User Group(PLUG) and the Symbiosis Institute of C
+ omputer Studies and Research(SICSR) in Pune\, India. Mozilla has been acti
+ vely participating at GNUnify since 2008!
+URL:https://reps.mozilla.org/e/gnunify-2016/
+SEQUENCE:0
+X-COORDINATES-LAT:18.5111108306
+X-COORDINATES-LON:73.857563
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

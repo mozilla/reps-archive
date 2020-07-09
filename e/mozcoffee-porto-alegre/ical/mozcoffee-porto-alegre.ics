@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3311
+CLASS:PUBLIC
+DTSTAMP:20200423T181008Z
+DTSTART:20150110T220000Z
+DTEND:20150111T015500Z
+LOCATION:Pasito\, Porto Alegre\, Brazil
+SUMMARY:MozCoffee Porto Alegre
+DESCRIPTION:Meeting of volunteers and Mozilla enthusiasts to talk about pr
+ ojects and eat.
+URL:https://reps.mozilla.org/e/mozcoffee-porto-alegre/
+SEQUENCE:4
+X-COORDINATES-LAT:-30.0417104005
+X-COORDINATES-LON:-51.221145303
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR
