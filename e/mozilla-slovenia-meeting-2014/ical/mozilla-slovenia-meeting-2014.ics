@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2044
+CLASS:PUBLIC
+DTSTAMP:20200423T195920Z
+DTSTART:20140425T130000Z
+DTEND:20140426T160000Z
+LOCATION:Mozilla Space Novo mesto\, Podbreznik 15\, Novo mesto\, Slovenia\
+ , Novo mesto\, Slovenia
+SUMMARY:Mozilla Slovenia Meeting 2014
+DESCRIPTION:First Slovenian Mozilla community meeting in 2014. This event 
+ will be associated with Open Way on Friday (25th of April 2014) and Meetin
+ g on Saturday (26th of April 2014).\n\nThe plan of the meeting is to have 
+ a workshops and work together on tasks.\n\nDetailed to-do list: https://mo
+ si.etherpad.mozilla.org/16
+URL:https://reps.mozilla.org/e/mozilla-slovenia-meeting-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:45.8045255605
+X-COORDINATES-LON:15.1316374538
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

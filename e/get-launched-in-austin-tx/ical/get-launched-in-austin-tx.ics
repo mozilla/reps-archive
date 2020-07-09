@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8018
+CLASS:PUBLIC
+DTSTAMP:20200407T174238Z
+DTSTART:20180815T170000Z
+DTEND:20180816T003000Z
+LOCATION:Capital Factory\, Austin\, United States
+SUMMARY:Get Launched in Austin\, TX
+DESCRIPTION:Microchip is proud to bring the Get Launched start-up program 
+ to the Capital Factory in Austin\, TX. Learn how to quickly go from concep
+ t to creation and get to market fast through our series of technical works
+ hops\, keynote speaker presentations and partner exhibits.\n\nAustin’s G
+ et Launch event is entirely free and includes hardware for participation i
+ n technical workshops\, one-on-one access to experts and partners\, food a
+ nd refreshments and more.
+URL:https://reps.mozilla.org/e/get-launched-in-austin-tx/
+SEQUENCE:0
+X-COORDINATES-LAT:30.2688433077
+X-COORDINATES-LON:-97.7406775653
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

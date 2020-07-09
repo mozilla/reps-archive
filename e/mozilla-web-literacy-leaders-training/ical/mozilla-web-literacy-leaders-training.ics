@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5633
+CLASS:PUBLIC
+DTSTAMP:20200407T180241Z
+DTSTART:20160730T053000Z
+DTEND:20160730T083000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Mozilla Web Literacy Leaders Training
+DESCRIPTION:The Mozilla Philippines Community organize a web literacy trai
+ ning for the Club Captains and interested individual on the Mozilla&#39;s ways
+  of teaching the Web. In this event we will also demonstrate the tools and
+  other resources one can use to learn and teach web literacy.
+URL:https://reps.mozilla.org/e/mozilla-web-literacy-leaders-training/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5450758458
+X-COORDINATES-LON:121.01710081
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

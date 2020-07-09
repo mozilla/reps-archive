@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4438
+CLASS:PUBLIC
+DTSTAMP:20200407T181628Z
+DTSTART:20150908T013000Z
+DTEND:20150909T013000Z
+LOCATION:Cafe Coffee Day\, Indore\, India
+SUMMARY:Mozcafe
+DESCRIPTION:Meetup with local Mozillian &amp; Reps\, in Indore &amp; Bhopal for Lo
+ cal event planing in 2015-2016
+URL:https://reps.mozilla.org/e/mozcafe-4/
+SEQUENCE:1
+X-COORDINATES-LAT:22.7195687
+X-COORDINATES-LON:75.8577258
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

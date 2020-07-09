@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3446
+CLASS:PUBLIC
+DTSTAMP:20200423T180035Z
+DTSTART:20150205T050000Z
+DTEND:20150205T090000Z
+LOCATION:Philippine Christian University - Manila\, Manila\, Philippines
+SUMMARY:Campus DevCon Philippine Christian University
+DESCRIPTION:Campus DevCon at Philippine Christian University is a gatherin
+ g in partnership with Philippine Christian University that aims to augment
+  the academic learnings of students with up-to-date trends in the IT indus
+ try. The event converges an average of 200 students taking up Computer Sci
+ ence or other IT-related courses.
+URL:https://reps.mozilla.org/e/campus-devcon-philippine-christian-universi
+ ty/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5752763319
+X-COORDINATES-LON:120.989135385
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

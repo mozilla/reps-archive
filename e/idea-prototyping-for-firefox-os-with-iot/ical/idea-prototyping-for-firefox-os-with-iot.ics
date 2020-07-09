@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5152
+CLASS:PUBLIC
+DTSTAMP:20200423T154534Z
+DTSTART:20160227T143000Z
+DTEND:20160227T153000Z
+LOCATION:Google Hangouts\, Chengannur\, India
+SUMMARY:Idea Prototyping for Firefox OS with IOT
+DESCRIPTION:* Collecting the suggestions about how can we take the idea Fi
+ refox OS with IOT to forward.\n\n\n\n* Selecting the possible usecases and
+  sharing the ideas about the proposed usecases\n\n\n* Click the below link
+  to share your idea
+URL:https://reps.mozilla.org/e/idea-prototyping-for-firefox-os-with-iot/
+SEQUENCE:2
+X-COORDINATES-LAT:10.5388407919
+X-COORDINATES-LON:76.1290204201
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

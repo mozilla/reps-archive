@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5699
+CLASS:PUBLIC
+DTSTAMP:20200423T145639Z
+DTSTART:20160916T043000Z
+DTEND:20160918T103000Z
+LOCATION:GOA\, Panaji\, India
+SUMMARY:MakerParty  GOA
+DESCRIPTION:This event will target the College Students.The event is basic
+ ally to create awareness about Mozilla Mission\, Firefox Browser and mostl
+ y on connected devices among the students so that they can start contribut
+ ing in Mozilla&#39;s various projects.In this we will discuss and demonstrate 
+ on different Projects of Mozilla. Our major focus will be on working on ma
+ ny connected devices ideas and implement them in short time period.
+URL:https://reps.mozilla.org/e/mozilla-connected-devices-goa/
+SEQUENCE:6
+X-COORDINATES-LAT:15.2956120423
+X-COORDINATES-LON:73.9481129935
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5003
+CLASS:PUBLIC
+DTSTAMP:20200407T170249Z
+DTSTART:20160116T080000Z
+DTEND:20160116T100000Z
+LOCATION:House#01 (Ground Floor)\, Road#20/B\, Sector#04\, Uttara\, Dhaka-
+ 1230\, Dhaka\, Bangladesh
+SUMMARY:Mozilla@Trimatrik
+DESCRIPTION:A Mozilla awareness event to spread the Mozilla mission among 
+ the employees of Trimatrik. web: http://www.trimatrikbd.com\n\nAgenda: Moz
+ illa &amp; open web\, Mozilla technologies\, Mozilla Bangladesh community\, Ho
+ w to get involve\, Open discussion\, QA
+URL:https://reps.mozilla.org/e/mozilla-trimatrik/
+SEQUENCE:4
+X-COORDINATES-LAT:23.876020833
+X-COORDINATES-LON:90.3907728178
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

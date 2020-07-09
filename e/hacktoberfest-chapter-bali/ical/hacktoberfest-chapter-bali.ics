@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8813
+CLASS:PUBLIC
+DTSTAMP:20200423T080616Z
+DTSTART:20191019T030000Z
+DTEND:20191019T080000Z
+LOCATION:TBD\, Badung\, Bali\, Indonesia
+SUMMARY:Hacktoberfest - Chapter Bali
+DESCRIPTION:Di acara ini\, kita akan bersama-sama belajar mengenai open so
+ urce serta melakukan kontribusi langsung ke proyek open source apapun yang
+  kalian anggap menarik.
+URL:https://reps.mozilla.org/e/hacktoberfest-chapter-bali/
+SEQUENCE:1
+X-COORDINATES-LAT:-8.84526947436
+X-COORDINATES-LON:115.29199183
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

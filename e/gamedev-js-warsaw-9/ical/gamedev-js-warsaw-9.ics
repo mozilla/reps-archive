@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7238
+CLASS:PUBLIC
+DTSTAMP:20200423T101407Z
+DTSTART:20171128T173000Z
+DTEND:20171128T200000Z
+LOCATION:Crux\, Warsaw\, Poland
+SUMMARY:Gamedev.js Warsaw #9
+DESCRIPTION:Monthly meetup about HTML5 game development - in Polish\, with
+  recorded talks.
+URL:https://reps.mozilla.org/e/gamedev-js-warsaw-9/
+SEQUENCE:1
+X-COORDINATES-LAT:52.224671
+X-COORDINATES-LON:21.01028
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3907
+CLASS:PUBLIC
+DTSTAMP:20200423T172022Z
+DTSTART:20150525T220000Z
+DTEND:20150527T215500Z
+LOCATION:DGI-Byen\, Copenhagen\, Denmark\, Frederiksberg\, Denmark
+SUMMARY:AtTheFrontend 2015 Developer Conference
+DESCRIPTION:Professional developer conference in Copenhagen\, Denmark. Org
+ anized by the battle-tested team behind Sweden&#39;s Øredev.\nI have will att
+ end and evangelize Mozilla goals as a Mozilla Rep.
+URL:https://reps.mozilla.org/e/atthefrontend-2015-developer-conference/
+SEQUENCE:1
+X-COORDINATES-LAT:55.6699028774
+X-COORDINATES-LON:12.563830376
+X-COUNTRY-CODE:dk
+END:VEVENT
+
+END:VCALENDAR

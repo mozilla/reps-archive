@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1901
+CLASS:PUBLIC
+DTSTAMP:20200407T174433Z
+DTSTART:20140315T100000Z
+DTEND:20140315T160000Z
+LOCATION:Pervasive Media Studio\, 1 Canons Road\, Harbourside\, Bristol\, 
+ United Kingdom
+SUMMARY:LinuxLive Bristol 2014
+DESCRIPTION:LinuxLive will showcase various Linux alternatives to Windows.
+  Attendees will get to see the systems themselves\, and many of the common
+ ly used applications for everyday tasks.\n\n\nSwitching to a new operating
+  system can seem like a daunting task\, as can switching to alternative ap
+ plications. Members of the Bristol and Bath Linux User Group aim to show a
+ ttendees just how easy it can be\, and just how much more they can get out
+  of using Linux on their PCs.
+URL:https://reps.mozilla.org/e/linuxlive-bristol-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:51.4520410241
+X-COORDINATES-LON:-2.59805506459
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

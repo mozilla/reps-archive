@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2535
+CLASS:PUBLIC
+DTSTAMP:20200423T192614Z
+DTSTART:20140717T000000Z
+DTEND:20140717T023000Z
+LOCATION:The City Library\, Salt Lake City\, United States
+SUMMARY:Private Screening of &#34;Terms and Conditions May Apply&#34; by Mozilla
+DESCRIPTION:Mozilla invites faculty and administrators from Utah instituti
+ ons to a private screening of the web privacy documentary\, &#34;Terms and Con
+ ditions May Apply.&#34; This event is for Mozilla to present a privacy-oriente
+ d pilot program of donating public screening licenses of the documentary t
+ o Utah institutions.The goal of this is to increase public web literacy an
+ d public dialogue concerning online privacy issues throughout Utah. We wil
+ l follow the screening with a Q&amp;A about the educational program.
+URL:https://reps.mozilla.org/e/private-screening-of-terms-and-conditions-m
+ ay-apply-by-mozilla/
+SEQUENCE:4
+X-COORDINATES-LAT:40.760243085
+X-COORDINATES-LON:-111.884646893
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

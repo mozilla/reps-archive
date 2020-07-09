@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6315
+CLASS:PUBLIC
+DTSTAMP:20200423T112830Z
+DTSTART:20170218T060000Z
+DTEND:20170218T090000Z
+LOCATION:Mozilla Community Space Taipei\, Taipei\, Taiwan
+SUMMARY:Discussion of Draft Convergence Acts in Taiwan
+DESCRIPTION:NCC (Taiwan&#39;s FCC) had draft 2 new digital convergence acts\, 
+ which will be the the main law of internet governance. There are regulatio
+ ns about net neutrality\, transparency of traffic adjustment and public mu
+ ltistakeholder approach\, as well as  national security and DMCA-like take
+ down.\n\nMozilla Taiwan Community had co-work with others to host this eve
+ nt\, we will lead the discussion line by line through the whole draft acts
+ \, and hope to create an opinion afterward.
+URL:https://reps.mozilla.org/e/discussion-of-draft-convergence-acts-in-tai
+ wan/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0441265167
+X-COORDINATES-LON:121.532552356
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

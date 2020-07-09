@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4853
+CLASS:PUBLIC
+DTSTAMP:20200423T155746Z
+DTSTART:20160103T130000Z
+DTEND:20160103T180000Z
+LOCATION:Vilnius City Municipality\, Vilnius\, Lithuania
+SUMMARY:Mozilla workshop Lithuania
+DESCRIPTION:Members of the community of Mozilla in Lithuania will be famil
+ iarizing people with the technology we use\, our mission and goals. This i
+ s based on a tailored approach to every attendee in order create the oppor
+ tunity for potential volunteers to join the community of Mozilla with a he
+ lping hand and no complications.
+URL:https://reps.mozilla.org/e/mozilla-workshop-lithuania/
+SEQUENCE:10
+X-COORDINATES-LAT:54.6958199503
+X-COORDINATES-LON:25.2792813777
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

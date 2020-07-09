@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2822
+CLASS:PUBLIC
+DTSTAMP:20200423T184452Z
+DTSTART:20141015T043000Z
+DTEND:20141016T113000Z
+LOCATION:Arya college of engineering &amp; I.T.\, Jaipur\, India
+SUMMARY:Webathone @ Arya
+DESCRIPTION:Spreading web literacy so that students can easily develop app
+ s for firefox os. Topic covered will be : html5\, css3\, js
+URL:https://reps.mozilla.org/e/webathone-arya/
+SEQUENCE:15
+X-COORDINATES-LAT:26.9137432346
+X-COORDINATES-LON:75.8312986046
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

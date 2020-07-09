@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3097
+CLASS:PUBLIC
+DTSTAMP:20200407T183632Z
+DTSTART:20141119T193000Z
+DTEND:20141120T040000Z
+LOCATION:University of Canturbury\, Christchurch\, New Zealand
+SUMMARY:Open Data Day NZ 2014
+DESCRIPTION:The intent of the day is to pull a mix of government and non-g
+ overnment individuals and organisations together to concentrate on the fut
+ ure of open data in New Zealand\, explore opportunities and areas for impr
+ ovement\, build relationships and learn new things.\n\nThe outputs from th
+ e day will be a series of videos and wiki-style documents that capture the
+  core messages and discussion points.
+URL:https://reps.mozilla.org/e/open-data-day-nz-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:-43.522282939
+X-COORDINATES-LON:172.569107651
+X-COUNTRY-CODE:nz
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6381
+CLASS:PUBLIC
+DTSTAMP:20200423T111722Z
+DTSTART:20170410T063000Z
+DTEND:20170410T113000Z
+LOCATION:Siliguri Surendra Nath College\, Barasat\, India
+SUMMARY:MozActivate Tour 4 - SSNC
+DESCRIPTION:In this event student will learn WebVR development using A-Fra
+ me framework.
+URL:https://reps.mozilla.org/e/mozactivate-tour-4/
+SEQUENCE:2
+X-COORDINATES-LAT:22.3627764899
+X-COORDINATES-LON:88.2916259766
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

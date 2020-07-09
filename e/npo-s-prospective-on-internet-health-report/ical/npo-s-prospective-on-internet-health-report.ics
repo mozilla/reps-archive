@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8073
+CLASS:PUBLIC
+DTSTAMP:20200423T090831Z
+DTSTART:20180821T110000Z
+DTEND:20180821T130000Z
+LOCATION:慕哲咖啡\, Taipei\, Taiwan
+SUMMARY:NPO&#39;s Prospective on Internet Health Report
+DESCRIPTION:Talk to Introduce 2018 Internet Health Report for various NPO&#39;
+ s people on Net Tuesday meetup.
+URL:https://reps.mozilla.org/e/npo-s-prospective-on-internet-health-report
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:25.044776091
+X-COORDINATES-LON:121.525311649
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

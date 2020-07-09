@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@569
+CLASS:PUBLIC
+DTSTAMP:20200407T182414Z
+DTSTART:20130620T110000Z
+DTEND:20130730T150000Z
+LOCATION:5 Schools: Seeta High School\; MACOS\; Greenhill\, Kampala\, Ugan
+ da
+SUMMARY:Webmaker GenOpen School Tour Uganda
+DESCRIPTION:We take on the new GenOpen project under webmaker and go to at
+  least 5 schools where we shall find out how many youth actually know abou
+ t Mozilla\, the web and open source. \n\nFrom the question. &#34;If you had th
+ e power to change the web\, what would you do with it?&#34; to use of webmaker
+  tools like Thimble and Popcorn to remix the web. Punchline\, Fun!
+URL:https://reps.mozilla.org/e/webmaker-genopen-school-tour-uganda/
+SEQUENCE:6
+X-COORDINATES-LAT:-0.703107352436
+X-COORDINATES-LON:31.640625
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

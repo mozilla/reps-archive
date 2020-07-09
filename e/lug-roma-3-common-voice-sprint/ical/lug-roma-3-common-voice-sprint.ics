@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8572
+CLASS:PUBLIC
+DTSTAMP:20200423T082849Z
+DTSTART:20190520T160000Z
+DTEND:20190520T180000Z
+LOCATION:Roma 3 - Ingegneria informatica\, Roma\, Italy
+SUMMARY:LUG Roma 3 - Common Voice Sprint
+DESCRIPTION:A Common Voice sprint for the LUG Roma 3 for italian
+URL:https://reps.mozilla.org/e/lug-roma-3-common-voice-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:41.855434
+X-COORDINATES-LON:12.4696574
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

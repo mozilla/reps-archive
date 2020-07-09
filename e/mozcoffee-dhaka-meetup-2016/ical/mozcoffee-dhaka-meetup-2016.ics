@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4990
+CLASS:PUBLIC
+DTSTAMP:20200407T165910Z
+DTSTART:20160129T090000Z
+DTEND:20160129T130000Z
+LOCATION:NewsCred\, Banani Model Town\, Bangladesh
+SUMMARY:MozCoffee Dhaka Meetup 2016
+DESCRIPTION:This is the first community meetup of year 2016. This is the g
+ reat opportunity to meet all the community members as well as anyone inter
+ ested\, each other at the beginning of the year to discuss\, plan share th
+ e ideas for the new year. Also this is the perfect occasion for sharing th
+ e experiences of Participation Cohort participants to the community member
+ s.
+URL:https://reps.mozilla.org/e/mozcoffee-dhaka-meetup-2016/
+SEQUENCE:6
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

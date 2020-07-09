@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6747
+CLASS:PUBLIC
+DTSTAMP:20200423T105127Z
+DTSTART:20170727T163000Z
+DTEND:20170727T193000Z
+LOCATION:Digital Catapult\, 101 Euston Rd\, Camden\, London\, NW1 2RA\, Ca
+ mden\, United Kingdom
+SUMMARY:&#39;WebVR Camp&#39; with &#39;Web XR London&#39; Meetup
+DESCRIPTION:Are you fascinated by virtual reality? Perhaps you&#39;re a develo
+ per\, designer\, or a student? Bring your own laptop and have fun learning
+ \, hacking\, and start building your very own WebVR experience at this new
+ bies workshop. A-Frame is a web framework for building virtual reality exp
+ eriences\, making it easy for anyone to get involved with virtual reality.
+  All attendees should have a basic grasp of HTML.
+URL:https://reps.mozilla.org/e/webvr-camp-with-london-s-web-xr-meetup/
+SEQUENCE:10
+X-COORDINATES-LAT:51.5283785078
+X-COORDINATES-LON:-0.127399206167
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6007
+CLASS:PUBLIC
+DTSTAMP:20200407T181223Z
+DTSTART:20161102T043000Z
+DTEND:20161102T093000Z
+LOCATION:Kolkata\, Kolkata\, India
+SUMMARY:Web Compatibility
+DESCRIPTION:Teaching new kids about Web Compatibility\, Mozilla Mission
+URL:https://reps.mozilla.org/e/web-compatibility/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5568329656
+X-COORDINATES-LON:88.358738
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

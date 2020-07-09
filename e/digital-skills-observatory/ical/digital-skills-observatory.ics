@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5054
+CLASS:PUBLIC
+DTSTAMP:20200407T170251Z
+DTSTART:20160115T060000Z
+DTEND:20160117T130000Z
+LOCATION:Pride Inn Hotel\, Nairobi\, Nairobi\, Kenya
+SUMMARY:Digital Skills Observatory
+DESCRIPTION:Mozilla is partnering with Digital Divide Data (DDD) to create
+  the Digital Skills Observatory: a research initiative which seeks to unde
+ rstand learning\, digital skills\, and digital financial services in Kenya
+ .
+URL:https://reps.mozilla.org/e/digital-skills-observatory/
+SEQUENCE:1
+X-COORDINATES-LAT:-1.2601604
+X-COORDINATES-LON:36.8031041
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7501
+CLASS:PUBLIC
+DTSTAMP:20200407T183807Z
+DTSTART:20180509T083000Z
+DTEND:20180509T093000Z
+LOCATION:中国新疆乌鲁木齐市光明路9号新疆教育学院\, Urum
+ qi\, China
+SUMMARY:互联网基础讲座一
+DESCRIPTION:网络素养是指学生参与网络活动的能力，包括
+ 读，写，网络安全保护 ，个人隐私保护，以及利用互联
+ 网产品创新的能力\n本课件所有活动基于有限的网络，教
+ 师课课根据课堂实际情况灵活发挥
+URL:https://reps.mozilla.org/e/hu-lian-wang-ji-chu-jiang-zuo-yi-9/
+SEQUENCE:0
+X-COORDINATES-LAT:43.8016701214
+X-COORDINATES-LON:2607.61428595
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

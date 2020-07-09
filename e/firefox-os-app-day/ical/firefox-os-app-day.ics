@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@538
+CLASS:PUBLIC
+DTSTAMP:20200407T182705Z
+DTSTART:20130126T103000Z
+DTEND:20130126T210000Z
+LOCATION:Martiniano de Carvalho\, 851\, São Paulo\, Brazil
+SUMMARY:Firefox OS App Day
+DESCRIPTION:Junte-se a nós no TBD no sábado\, 26 de janeiro\, para apren
+ der\, hackear e celebrar o Firefox OS\, o sistema operacional de código a
+ berto da Mozilla para a web móvel.\n\nSe você é um desenvolvedor web\, 
+ você estará em casa criando aplicativos usando HTML5\, JavaScript e CSS 
+ para o Firefox OS. Nós o ajudaremos com todo o resto\, incluindo guias en
+ siando como acessar as APIs Web móveis e como usar o Firefox OS Simulator
+  no seu navegador desktop para ver e testar seus aplicativos móveis.
+URL:https://reps.mozilla.org/e/firefox-os-app-day/
+SEQUENCE:0
+X-COORDINATES-LAT:-23.566362
+X-COORDINATES-LON:-46.642732
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

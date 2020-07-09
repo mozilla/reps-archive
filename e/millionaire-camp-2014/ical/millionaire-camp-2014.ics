@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2486
+CLASS:PUBLIC
+DTSTAMP:20200423T192640Z
+DTSTART:20140715T060000Z
+DTEND:20140724T150000Z
+LOCATION:Elniakampis (24km from Vilnius)\, Vilnius\, Lithuania
+SUMMARY:Millionaire camp 2014
+DESCRIPTION:Economics\, business and finance camp for 15 - 18 year old stu
+ dents. Each year during the camp we are visited by various experts that de
+ liver useful information to teens raging from career opportunities\, techn
+ ological sector trends\, to data security and IT in general. Mozilla will 
+ be helping us this year by teaching students about open web\, HTML\, l10n 
+ and mobile apps!\n\nAs this event is a camp\, it may only be visited by co
+ ntacting the organizers.
+URL:https://reps.mozilla.org/e/millionaire-camp-2014/
+SEQUENCE:9
+X-COORDINATES-LAT:54.7907722126
+X-COORDINATES-LON:24.9730682303
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

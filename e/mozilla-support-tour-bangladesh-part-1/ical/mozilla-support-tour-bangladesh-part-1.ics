@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4146
+CLASS:PUBLIC
+DTSTAMP:20200407T175458Z
+DTSTART:20150810T180000Z
+DTEND:20151010T180000Z
+LOCATION:Chittagong\, Sylhet\, Rajshahi\, Chittagong\, Sylhet\, Khulna\, B
+ angladesh
+SUMMARY:Mozilla Support Tour : Bangladesh - Part 1
+DESCRIPTION:In 2013\, we (me and Safwan) started SuMo top 20 KB l10n. From
+  that time to now we have grown big. We have achieved few milestone with o
+ ur contributors like : top 100 KB l10n\, product based 100% KB l10n. In th
+ is journey\, we have got many contributors for which Now we are a communit
+ y of more than 30 active contributors\, but as all our previous activities
+  were done in Dhaka city\, most of our contributors are from Dhaka city. W
+ e are thinking  promote sumo outside of Dhaka to gather more contributor.
+URL:https://reps.mozilla.org/e/mozilla-support-tour-bangladesh-part-1/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7250117328
+X-COORDINATES-LON:90.5877685421
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

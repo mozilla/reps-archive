@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6835
+CLASS:PUBLIC
+DTSTAMP:20200407T175932Z
+DTSTART:20170826T041500Z
+DTEND:20170826T121500Z
+LOCATION:Real Time Solutions Pvt. Ltd.\, Dhobighat\, Nepal
+SUMMARY:Mozilla Nepal Meetup - V and Fifth Anniversary Celebration
+DESCRIPTION:August 26 marks as Mozilla Nepal&#39;s anniversary date.\n    \nTh
+ is year we want to celebrate it with a much needed community meetup. We ha
+ ven&#39;t been able to distribute tasks properly among ourselves and community
+  engagement has not been quite good in the past year. But recently we have
+  seen more interest in the community activites with various small events l
+ ike &#34;Mozilla Global Sprint&#34;\, &#34;MozActivate Extensions&#34;\, &#34;Campus Campaigns
+ &#34; By our RC and Localization.
+URL:https://reps.mozilla.org/e/mozilla-nepal-meetup-v-and-fifth-anniversar
+ y-celebration/
+SEQUENCE:2
+X-COORDINATES-LAT:27.6762216213
+X-COORDINATES-LON:85.3088183999
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1342
+CLASS:PUBLIC
+DTSTAMP:20200423T205933Z
+DTSTART:20131019T043000Z
+DTEND:20131019T073000Z
+LOCATION:CVR College of Engineering\, Hyderabad\, India
+SUMMARY:Mozilla Club Initiative @ CVR College
+DESCRIPTION:The event is held as an introduction for the students of the c
+ ollege to know about Mozilla Mission\, What does Mozilla do for the Open W
+ eb\, How can one contribute to the Mozilla Projects focusing more on Open 
+ source aspects. Firefox Club Launch by Firefox Student Ambassador of CVR C
+ ollege
+URL:https://reps.mozilla.org/e/mozilla-club-initiative-cvr-college/
+SEQUENCE:3
+X-COORDINATES-LAT:17.376852561
+X-COORDINATES-LON:78.4808349609
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

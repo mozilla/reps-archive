@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7516
+CLASS:PUBLIC
+DTSTAMP:20200423T094534Z
+DTSTART:20180408T033000Z
+DTEND:20180408T113000Z
+LOCATION:IIT BHU\, Varanasi\, India
+SUMMARY:Virtual Reality @ Indian Institute of Technology (BHU)
+DESCRIPTION:Indian Institute of Technology (BHU) Varanasi is a public engi
+ neering institution located in Varanasi\, Uttar Pradesh\, India. Founded i
+ n 1919 as the Banaras Engineering College\, it became the Institute of Tec
+ hnology\, Banaras Hindu University in 1968.\nWe will have a one day Virtua
+ l Reality session with Hands on.
+URL:https://reps.mozilla.org/e/virtual-reality-indian-institute-of-technol
+ ogy-bhu/
+SEQUENCE:6
+X-COORDINATES-LAT:25.2974751881
+X-COORDINATES-LON:83.0272865295
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

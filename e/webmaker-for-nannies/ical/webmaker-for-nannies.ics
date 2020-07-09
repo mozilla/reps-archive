@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@637
+CLASS:PUBLIC
+DTSTAMP:20200423T214955Z
+DTSTART:20130421T130000Z
+DTEND:20130428T200000Z
+LOCATION:Kababayan Community Centre\, Toronto\, Canada
+SUMMARY:Webmaker for Nannies
+DESCRIPTION:The concept is pretty simple: Enable nannies to become Webmake
+ r coaches to their wards.\n\nThe learning setting for them is very informa
+ l and the expectation ranges from sharing some bits of info about Webmaker
+  initiatives to doing demos of the tools. The over-arching goal is to get 
+ their wards interested and motivated about Webmaking.\n\nThe main benefit 
+ of this is a win-win situation for both the nanny and the ward: Both of th
+ em gain knowledge about Webmaking.
+URL:https://reps.mozilla.org/e/webmaker-for-nannies/
+SEQUENCE:0
+X-COORDINATES-LAT:43.64085812
+X-COORDINATES-LON:-79.4313240051
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

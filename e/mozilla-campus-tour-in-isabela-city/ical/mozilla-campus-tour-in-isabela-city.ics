@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@418
+CLASS:PUBLIC
+DTSTAMP:20200423T222350Z
+DTSTART:20130122T010000Z
+DTEND:20130123T070000Z
+LOCATION:Basilan State College\, Isabela City\, Philippines
+SUMMARY:Mozilla Campus Tour in Isabela City
+DESCRIPTION:Mozilla Philippines will visit conduct a Mozilla campus tour p
+ roject in the island of Basilan\, which we will visit two big schools in I
+ sabela City namely Claret College of Isabela with expected participants of
+  200 and Basilan State College with expected participants of 150 to introd
+ uce Mozilla\, Mozilla Projects and encourage them to contribute to some pr
+ oject of Mozilla.
+URL:https://reps.mozilla.org/e/mozilla-campus-tour-in-isabela-city/
+SEQUENCE:0
+X-COORDINATES-LAT:6.66460756217
+X-COORDINATES-LON:122.069091797
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

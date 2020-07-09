@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4492
+CLASS:PUBLIC
+DTSTAMP:20200423T162409Z
+DTSTART:20151024T070000Z
+DTEND:20151024T160000Z
+LOCATION:TBD\, Bergamo\, Italy
+SUMMARY:Linux Day 2015 - Bergamo
+DESCRIPTION:Linux day is an event that spreads across all Italy with the g
+ oal to promote Linux and FLOSS in general in the country. It&#39;s organised b
+ y groups of volunteer and sees the participation of hacker\, IT people and
+  courious citizens that want to enter the Open Source world.
+URL:https://reps.mozilla.org/e/linux-day-2015-bergamo/
+SEQUENCE:6
+X-COORDINATES-LAT:45.698264
+X-COORDINATES-LON:9.67727
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

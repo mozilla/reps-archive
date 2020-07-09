@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3026
+CLASS:PUBLIC
+DTSTAMP:20200423T182810Z
+DTSTART:20141121T100000Z
+DTEND:20141122T190000Z
+LOCATION:Centro de aulas D (UFG)\, Goiania\, Brazil
+SUMMARY:XI Forum Goiano de Software livre
+DESCRIPTION:Created in 2003 by the Free Software Community of the State of
+  Goiás\, the FGSL - Goiás Free Software Forum - addresses the issue:\n\n
+ RIGHT socially\, economically\, technologically\, SUSTAINABLE\n\ndiscussin
+ g issues that permeate the use\, production and dissemination of Free Soft
+ ware in the entire state of Goiás.
+URL:https://reps.mozilla.org/e/xi-forum-goiano-de-software-livre/
+SEQUENCE:17
+X-COORDINATES-LAT:-16.6701257436
+X-COORDINATES-LON:-49.238868705
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

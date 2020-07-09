@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1608
+CLASS:PUBLIC
+DTSTAMP:20200423T203632Z
+DTSTART:20140105T083000Z
+DTEND:20140105T133000Z
+LOCATION:Mouchak&#39;s\, Barasat\, India
+SUMMARY:MozHub
+DESCRIPTION:It will be the first event.Here mostly students will know abou
+ t mozilla mission and mozilla products . We will have discussion on l10n a
+ nd webmaker. This event will boot up them very much.
+URL:https://reps.mozilla.org/e/mozhub/
+SEQUENCE:12
+X-COORDINATES-LAT:22.7147988577
+X-COORDINATES-LON:88.4926986555
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

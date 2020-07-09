@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5055
+CLASS:PUBLIC
+DTSTAMP:20200407T182428Z
+DTSTART:20160220T130000Z
+DTEND:20160220T150000Z
+LOCATION:http://cykelcafe.se/\, Folkungagatan 67\, Sweden
+SUMMARY:Mozfika Stockholm #1 2016
+DESCRIPTION:Fika of Mozillians of the Swedish Community or visiting Stockh
+ olm :)
+URL:https://reps.mozilla.org/e/mozfika-stockholm-1-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:59.3434610487
+X-COORDINATES-LON:18.0622556806
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5163
+CLASS:PUBLIC
+DTSTAMP:20200423T153710Z
+DTSTART:20160331T160000Z
+DTEND:20160331T170000Z
+LOCATION:Colab Fribourg\, Rte de la Fonderie 2\, Fribourg\, Switzerland
+SUMMARY:Mozilla and our experiments around Smart Home
+DESCRIPTION:Last december it became clear that Mozilla will shift its focu
+ s to Connected Devices. In\nthe first two months of 2016 it became clear a
+ s well\, that Mozilla will sunset Firefox OS after the version 2.6 release
+  in May. Even though the smartphone might still be relevant in the IoT\, w
+ e will focus on how we can use the power of the Web for IoT. In this talk 
+ Michael will show a few demos (might still be alpha by then) and show you 
+ the new\, exiting path for the future.
+URL:https://reps.mozilla.org/e/mozilla-and-our-experiments-around-smart-ho
+ me/
+SEQUENCE:3
+X-COORDINATES-LAT:46.7941811693
+X-COORDINATES-LON:7.15469741786
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

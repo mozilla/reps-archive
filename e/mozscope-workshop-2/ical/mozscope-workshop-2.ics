@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7657
+CLASS:PUBLIC
+DTSTAMP:20200423T093619Z
+DTSTART:20180510T160000Z
+DTEND:20180510T180000Z
+LOCATION:Mozilla Hungary Community Space\, Dessewffy u. 18.\, Budapest\, H
+ ungary
+SUMMARY:MozSCOPE workshop
+DESCRIPTION:open software translation workshop
+URL:https://reps.mozilla.org/e/mozscope-workshop-2/
+SEQUENCE:1
+X-COORDINATES-LAT:47.5052760282
+X-COORDINATES-LON:19.0564986168
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

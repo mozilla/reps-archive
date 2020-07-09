@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2341
+CLASS:PUBLIC
+DTSTAMP:20200423T195358Z
+DTSTART:20140507T070000Z
+DTEND:20140507T100000Z
+LOCATION:Computer center\, National Cheng Kung University\, Tainan City\, 
+ Taiwan
+SUMMARY:Mozilla campus talk at NCKU
+DESCRIPTION:Campus talk on Mozilla\, Firefox and our community culture at 
+ OSS class at NCNU university. There are about 30 students join the class.
+URL:https://reps.mozilla.org/e/mozilla-campus-talk-at-ncnu/
+SEQUENCE:10
+X-COORDINATES-LAT:22.9981693234
+X-COORDINATES-LON:120.218523502
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

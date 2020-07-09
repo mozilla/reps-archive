@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2559
+CLASS:PUBLIC
+DTSTAMP:20200423T192527Z
+DTSTART:20140718T110000Z
+DTEND:20140718T140000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Jhongshan District\
+ , Taiwan
+SUMMARY:Weekly MozTW Lab\, Taipei - David Ascher&#39;s MoFo talk
+DESCRIPTION:We welcome David Ascher coming to weekly MozTW Lab (MozCafé) 
+ and sharing the projects of Mozilla Foundation including Webmaker and Appm
+ aker.\n\n--\n\nA weekly MozCafe in Taipei. We do event planning\, l10n\, F
+ irefox OS testing\, webpage of moztw.org\, and endless chatting on Mozilla
+ -related topics.  Anyone can bring his own works/tasks/fun to attend this 
+ event and sharing.
+URL:https://reps.mozilla.org/e/weekly-moztw-lab-taipei-david-aschers-mofo-
+ talk/
+SEQUENCE:19
+X-COORDINATES-LAT:25.0667536545
+X-COORDINATES-LON:121.526270092
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

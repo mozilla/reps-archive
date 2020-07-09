@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1410
+CLASS:PUBLIC
+DTSTAMP:20200407T182241Z
+DTSTART:20131118T140000Z
+DTEND:20131119T140000Z
+LOCATION:Centro de Convenções Rebouças\, São Paulo\, Brazil
+SUMMARY:Web.br 2013
+DESCRIPTION:Official W3C conference in Brazil. Lots of high profile speake
+ rs in a two days packed event with many tracks.\n\nThe event has a wonderf
+ ul visibility and lots of community leaders are joining it.
+URL:https://reps.mozilla.org/e/web-br-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.5790915962
+X-COORDINATES-LON:-46.6259765625
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

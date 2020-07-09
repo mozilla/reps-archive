@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5131
+CLASS:PUBLIC
+DTSTAMP:20200423T153823Z
+DTSTART:20160326T043000Z
+DTEND:20160326T143000Z
+LOCATION:University of Allahabad\, Allahabad\, India
+SUMMARY:FOSS @ Academician
+DESCRIPTION:Role of Free and Open Source Software in Science\, Engineering
+  and Education\n\nPrivacy\, Security and Open Web
+URL:https://reps.mozilla.org/e/foss-academician/
+SEQUENCE:1
+X-COORDINATES-LAT:25.4597402952
+X-COORDINATES-LON:81.8526992797
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2725
+CLASS:PUBLIC
+DTSTAMP:20200423T184047Z
+DTSTART:20141024T090000Z
+DTEND:20141024T110000Z
+LOCATION:Ladoke Akintola University\,Ogbomosho.\, Ogbomosho\, Nigeria
+SUMMARY:Mozcoffe (Mozilla Nigeria)
+DESCRIPTION:Discussions on Latest news in Mozilla. Encouraging and welcomi
+ ng new volunteers to Mozilla Nigeria.Discussion on ways to spreads the Moz
+ illa mission in Nigeria.
+URL:https://reps.mozilla.org/e/mozcoffe/
+SEQUENCE:8
+X-COORDINATES-LAT:8.13715150708
+X-COORDINATES-LON:4.22894239426
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

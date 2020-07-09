@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3987
+CLASS:PUBLIC
+DTSTAMP:20200407T182133Z
+DTSTART:20150616T180000Z
+DTEND:20150616T213000Z
+LOCATION:Avenida Aviadores del Chaco 2066\, Asuncion\, Paraguay
+SUMMARY:Regional Meeting on Open Government.
+DESCRIPTION:Open government of Paraguay Data is data that the institutions
+  of the Paraguayan state\, made freely available to its citizens\, to brin
+ g transparency to the management and promote accountability\, promoting pa
+ rticipation and cooperation between citizens and government. Participation
+  and collaboration\, facilitate governance and the creation of public valu
+ e to improve government services\, promote innovation and demand changes o
+ r improvements.
+URL:https://reps.mozilla.org/e/regional-meeting-on-open-government/
+SEQUENCE:2
+X-COORDINATES-LAT:-25.2840757779
+X-COORDINATES-LON:-57.5646834075
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

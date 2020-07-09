@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5596
+CLASS:PUBLIC
+DTSTAMP:20200407T175457Z
+DTSTART:20160930T040000Z
+DTEND:20161001T113000Z
+LOCATION:Galesia.com\, Banani Model Town\, Bangladesh
+SUMMARY:bn-BD Localized Build Review and Awareness
+DESCRIPTION:The purpose of this event is to recruit and train new voluntee
+ rs\, and arrange advance training for old volunteers. We shall focus on tr
+ anslation QUALITY and IMPACT of localized build users. This event will hel
+ p ensuring that localizations are always up to date\, and a year long plan
+ ning to be aligned with the overall goals for l10n.
+URL:https://reps.mozilla.org/e/bn-bd-localized-build-review-and-awareness/
+SEQUENCE:7
+X-COORDINATES-LAT:23.7953182455
+X-COORDINATES-LON:90.4026857614
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

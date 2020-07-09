@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7309
+CLASS:PUBLIC
+DTSTAMP:20200423T101105Z
+DTSTART:20171218T043000Z
+DTEND:20171218T060000Z
+LOCATION:Kendriya Vidyalaya\,New Cantt\,  V.D Road\,Top Khana Bazar\, Alla
+ habad\, India
+SUMMARY:Moz Hour of Code
+DESCRIPTION:This is an event split across two days\, where we will teach s
+ chool students about following topics on first day:\n\n1. Introduction to 
+ FOSS (Free and Open Source Software).\n2. Introduction to Mozilla Foundati
+ on.\n3. Contribution areas.\n4. How to join Mozilla community.
+URL:https://reps.mozilla.org/e/moz-hour-of-code/
+SEQUENCE:1
+X-COORDINATES-LAT:25.4513586
+X-COORDINATES-LON:81.807185
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

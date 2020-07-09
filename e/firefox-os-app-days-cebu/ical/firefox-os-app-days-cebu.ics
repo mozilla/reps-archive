@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@979
+CLASS:PUBLIC
+DTSTAMP:20200407T180257Z
+DTSTART:20130817T010000Z
+DTEND:20130817T090000Z
+LOCATION:TBA\, Cebu City\, Philippines
+SUMMARY:Firefox OS App Days - Cebu
+DESCRIPTION:If you&#39;re a web developer (or a student developer)\, you’ll 
+ be right at home coding apps in HTML5\, JavaScript and CSS for the Firefox
+  OS. We’ll help you with  everything else\, including how to access mobi
+ le Web APIs and how to use  the Firefox OS Simulator in your desktop brows
+ er to view and test your mobile apps.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-cebu/
+SEQUENCE:4
+X-COORDINATES-LAT:10.2960033669
+X-COORDINATES-LON:123.909301758
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

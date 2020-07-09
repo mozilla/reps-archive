@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@294
+CLASS:PUBLIC
+DTSTAMP:20200407T173824Z
+DTSTART:20121201T150000Z
+DTEND:20121202T210000Z
+LOCATION:Co working space in Rosario\, Santa Fé\, Rosario\, Argentina
+SUMMARY:Argentina&#39;s community meetup
+DESCRIPTION:For first time\, Argentina&#39;s Mozilla community will held a nat
+ ional meetup to talk about our previous work and prepare our plan for 2013
+ .
+URL:https://reps.mozilla.org/e/argentinas-community-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:-32.9620103266
+X-COORDINATES-LON:-60.6589508057
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

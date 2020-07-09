@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3495
+CLASS:PUBLIC
+DTSTAMP:20200407T171716Z
+DTSTART:20150226T080000Z
+DTEND:20150226T120000Z
+LOCATION:TBD\, irbed\, Jordan
+SUMMARY:J.U.S.T Mozilla Day
+DESCRIPTION:event created by the new FireFox student in j.u.s.t introducin
+ g the sirvces that mozilla provide for the people how can they participate
+  in the new community and how can provide better web .\n1-about mozilla\nf
+ 2-irefox student Ambassador program \n3-womz \n4-fire fox OS \n5-localizat
+ ion \n6-security
+URL:https://reps.mozilla.org/e/j-u-s-t-mozilla-day/
+SEQUENCE:2
+X-COORDINATES-LAT:32.4953793838
+X-COORDINATES-LON:35.9891362488
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@704
+CLASS:PUBLIC
+DTSTAMP:20200423T215654Z
+DTSTART:20130404T070000Z
+DTEND:20130404T160000Z
+LOCATION:RAM Colosseum\, Budapest\, Hungary
+SUMMARY:Smartmobil 2013
+DESCRIPTION:The 2013 edition of the Smartmobil conference in Budapest will
+  be held on April 4th. This year\, they have developed a dedicated startup
+  section\, looking for the region’s best mobile startups and bringing a 
+ group of international investors and accelerators in the audience.\nAlthou
+ gh the main focus of the conference seems to be on the Hungarian tech scen
+ e\, the organizers specifically state they are accepting applications from
+  “neighbouring countries”.\n
+URL:https://reps.mozilla.org/e/smartmobil-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:47.5226203672
+X-COORDINATES-LON:19.0563869476
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

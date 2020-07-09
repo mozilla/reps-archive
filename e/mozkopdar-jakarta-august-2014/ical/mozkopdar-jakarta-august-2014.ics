@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2681
+CLASS:PUBLIC
+DTSTAMP:20200407T165900Z
+DTSTART:20140829T120000Z
+DTEND:20140829T150000Z
+LOCATION:Eatology\, Jakarta\, Indonesia
+SUMMARY:MozKopdar Jakarta - August 2014
+DESCRIPTION:This is a meetup event for Mozillians at Jakarta. We will shar
+ e updates about Mozilla Community\, Mozilla Projects\, Web We Want\, Webma
+ ker\, Maker Party\, Firefox Student Ambassador\, Firefox OS\, WoMoz Projec
+ t\, l10n\, and how to contribute. We will also give tips and tricks on usi
+ ng Firefox Browser with add-ons. We do the Speed Hacking\, inspired by Mic
+ helle Thorne! :D
+URL:https://reps.mozilla.org/e/mozkopdar-jakarta-august-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:-6.18392128036
+X-COORDINATES-LON:106.824733973
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

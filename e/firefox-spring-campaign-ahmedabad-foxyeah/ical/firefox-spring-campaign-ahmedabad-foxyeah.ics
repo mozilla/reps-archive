@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4037
+CLASS:PUBLIC
+DTSTAMP:20200423T170641Z
+DTSTART:20150704T043000Z
+DTEND:20150704T113000Z
+LOCATION:Ahmedabad\, ahmedabad\, India
+SUMMARY:Firefox Spring Campaign\, Ahmedabad
+DESCRIPTION:Mozillians meetup in Ahmedabad. This time is special\, it is a
+ ll about #FoxYeah\, a campaign that encourages fans of Firefox (that’s u
+ s) to share fun photos\, memes and videos about what makes Firefox great. 
+ This event is organized by the active mozillians\, supported by the local 
+ open source community
+URL:https://reps.mozilla.org/e/firefox-spring-campaign-ahmedabad-foxyeah/
+SEQUENCE:7
+X-COORDINATES-LAT:22.9498576038
+X-COORDINATES-LON:72.6296710968
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

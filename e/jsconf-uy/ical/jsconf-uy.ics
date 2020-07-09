@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1893
+CLASS:PUBLIC
+DTSTAMP:20200407T174351Z
+DTSTART:20140314T110000Z
+DTEND:20140315T220000Z
+LOCATION:Auditorio Torre de las Telecomunicaciones - Guatemala 1075\, Mont
+ evideo\, Uruguay
+SUMMARY:JSConf UY
+DESCRIPTION:The exclusive conference for JavaScript (JS) development for w
+ eb and\nserver-side alike. This event gathers together programmers\, enthu
+ siasts with state of the art\nlibraries\, products\, services.
+URL:https://reps.mozilla.org/e/jsconf-uy/
+SEQUENCE:2
+X-COORDINATES-LAT:-34.891986389
+X-COORDINATES-LON:-56.1943041086
+X-COUNTRY-CODE:uy
+END:VEVENT
+
+END:VCALENDAR

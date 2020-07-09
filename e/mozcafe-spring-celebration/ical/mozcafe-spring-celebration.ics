@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3941
+CLASS:PUBLIC
+DTSTAMP:20200423T170411Z
+DTSTART:20150710T100000Z
+DTEND:20150710T130000Z
+LOCATION:F&amp;F\, Opposite of New Market main gate\, Rajshahi\, Bangladesh
+SUMMARY:MozCafe\, Spring Celebration
+DESCRIPTION:Event to support Spring Campaign
+URL:https://reps.mozilla.org/e/mozcafe-spring-celebration/
+SEQUENCE:6
+X-COORDINATES-LAT:24.4007807355
+X-COORDINATES-LON:88.5913238581
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

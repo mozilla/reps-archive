@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4642
+CLASS:PUBLIC
+DTSTAMP:20200407T174821Z
+DTSTART:20151113T130000Z
+DTEND:20151115T220000Z
+LOCATION:Universidad Cooperativa De COlombia (UCC) Santa Martha\, Santa Ma
+ rta\, Colombia
+SUMMARY:Startup Weekend Santa marta- Firefox OS and Firefox Dev - UCC
+DESCRIPTION:This is a 3 days event\, In this event enterpreneurs\, develop
+ ers and user are going to use Mozilla technologies to create their non-fun
+ tional and not funtional prototypes\, the idea is to develop web and mobil
+ e applications using mozilla tools like Firefox Dev Version\, Thimble and 
+ FIrefoxOS Tools.\n\nWe are going to mentor people about development tools:
+ \n\n- JS Frameworks\n- Firefox Desktop\n- PHP Frameworks\n- Thimble Web Ed
+ itor \n- Firefox Dev Version
+URL:https://reps.mozilla.org/e/startup-weekend-santa-martha-mozstartup/
+SEQUENCE:11
+X-COORDINATES-LAT:11.2364114685
+X-COORDINATES-LON:-74.1977062239
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

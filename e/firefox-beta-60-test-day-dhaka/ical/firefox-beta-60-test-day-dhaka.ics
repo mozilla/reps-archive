@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7624
+CLASS:PUBLIC
+DTSTAMP:20200407T181229Z
+DTSTART:20180504T030000Z
+DTEND:20180504T110000Z
+LOCATION:University of Liberal Arts Bangladesh\, House No. 56\, Road No. 4
+ /A\, Satmasjid Road\, Dhaka\, Bangladesh
+SUMMARY:Firefox Beta 60 Test Day Dhaka
+DESCRIPTION:This is an event to engage new people to walk around about dif
+ ferent contributions opportunity in or around Bugzilla and QA
+URL:https://reps.mozilla.org/e/firefox-beta-60-test-day-dhaka/
+SEQUENCE:0
+X-COORDINATES-LAT:23.7541529194
+X-COORDINATES-LON:90.3766727373
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

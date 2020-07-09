@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7256
+CLASS:PUBLIC
+DTSTAMP:20200423T101231Z
+DTSTART:20171209T043000Z
+DTEND:20171209T123000Z
+LOCATION:Runwal Garden City Club House\, Mumbai\, India
+SUMMARY:Rust December
+DESCRIPTION:Rust is a new systems programming language developed by Mozill
+ a. This event is for (co)learning of Rust Programming Language. Rustacians
+  of all skill levels is welcome.\n\nThis event is a continuous learning pr
+ ogram for learnings after ( https://reps.mozilla.org/e/rust-mumbai-meetup/
+  ) meetup by Nicholas Cameron to increase the number of rust contributors 
+ in Mumbai.
+URL:https://reps.mozilla.org/e/rust-december/
+SEQUENCE:4
+X-COORDINATES-LAT:19.2228302
+X-COORDINATES-LON:72.9881863
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

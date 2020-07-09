@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2404
+CLASS:PUBLIC
+DTSTAMP:20200423T192137Z
+DTSTART:20140729T170000Z
+DTEND:20140730T000000Z
+LOCATION:Rua Conselheiro Ribas\, 136 - Sesc Santos\, Santos\, Brazil
+SUMMARY:Maker Party Week 1st day
+DESCRIPTION:A great opportunity to share knowledge and to learn about the 
+ web\, privacy and freedom.\n\nThe plan is to do a full week of Maker Party
+  at São Paulo state.
+URL:https://reps.mozilla.org/e/maker-party-week/
+SEQUENCE:15
+X-COORDINATES-LAT:-23.9763620813
+X-COORDINATES-LON:-46.3121836781
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

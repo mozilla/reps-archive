@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1554
+CLASS:PUBLIC
+DTSTAMP:20200407T175531Z
+DTSTART:20131207T133000Z
+DTEND:20131207T180000Z
+LOCATION:ESP\, Dakar\, Senegal
+SUMMARY:MozSN - Meetup Rentree
+DESCRIPTION:Every year\, Mozilla Senegal team organize an event at the sam
+ e time as the start of the academic year to bring the new students to know
+  the world of free software. But also\, the Mozilla&#39;s mission and bring th
+ em to contribute in their area of ​​contribution!
+URL:https://reps.mozilla.org/e/mozsn-meetup-rentree/
+SEQUENCE:4
+X-COORDINATES-LAT:14.6813702632
+X-COORDINATES-LON:-17.4673730137
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

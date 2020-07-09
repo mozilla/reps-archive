@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4995
+CLASS:PUBLIC
+DTSTAMP:20200407T174427Z
+DTSTART:20160218T183000Z
+DTEND:20160220T183000Z
+LOCATION:The Maharaja Sayajirao University\, Vadodara\, Gujurat\, Vadodara
+ \, India
+SUMMARY:WoT FootPrintsX6
+DESCRIPTION:FootPrints is one of the largest National Level Tech fest orga
+ nised by &#34;The Maharaja Sayajirao University\, Baroda\, Gujarat  (Faculty o
+ f Science and Technology)&#34;. This year Mozilla (Mozilla India) would be org
+ anizing a worshop in Tech Fest on Web of Things. Where workshop would be o
+ f 2 days with around 30 teams participating in workshop (each team consist
+ ing of 3-5 members). Topics like Foxberry\, IoT with FxOS\, and IoT projec
+ t development would be taught using Raspberry Pi\, Arduino n FxOS Phones.
+URL:https://reps.mozilla.org/e/wot-footprintsx6/
+SEQUENCE:3
+X-COORDINATES-LAT:22.261774101
+X-COORDINATES-LON:73.2110023499
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

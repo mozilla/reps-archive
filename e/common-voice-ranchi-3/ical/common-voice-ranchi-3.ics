@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8724
+CLASS:PUBLIC
+DTSTAMP:20200423T081524Z
+DTSTART:20190816T083000Z
+DTEND:20190816T113000Z
+LOCATION:Alfaaz Lingua Pvt. Ltd.\, Ranchi\, India
+SUMMARY:Common Voice Ranchi - 3
+DESCRIPTION:Common Voice is a project to help make voice recognition open 
+ to everyone. To create voice systems\, developers need an extremely large 
+ amount of voice data. Most of the data used by large companies isn’t ava
+ ilable to the majority of people. We think that stifles innovation. So we
+ ’ve launched Common Voice\, a project to help make voice recognition ope
+ n and accessible to everyone! Raise your voice and get involved!
+URL:https://reps.mozilla.org/e/common-voice-ranchi-3/
+SEQUENCE:2
+X-COORDINATES-LAT:23.34
+X-COORDINATES-LON:85.3
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

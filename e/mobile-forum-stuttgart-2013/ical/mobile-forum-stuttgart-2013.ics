@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@652
+CLASS:PUBLIC
+DTSTAMP:20200423T214336Z
+DTSTART:20130517T070000Z
+DTEND:20130517T160000Z
+LOCATION:Haus der Wirtschaft\, Stuttgart\, Germany
+SUMMARY:Mobile Forum Stuttgart 2013
+DESCRIPTION:This is a one-day conference organized by the Java User Group 
+ Stuttgart. It is focused on software for mobile devices.
+URL:https://reps.mozilla.org/e/mobile-forum-stuttgart-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:48.7789591168
+X-COORDINATES-LON:9.17371809483
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

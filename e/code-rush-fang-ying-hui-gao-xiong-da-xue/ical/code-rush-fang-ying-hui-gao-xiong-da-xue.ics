@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1499
+CLASS:PUBLIC
+DTSTAMP:20200423T203938Z
+DTSTART:20131219T090000Z
+DTEND:20131219T120000Z
+LOCATION:高雄大學 National University of Kaohsiung\, 高雄市 Kaohsiu
+ ng City\, Taiwan
+SUMMARY:高雄大學 Code Rush 放映會
+DESCRIPTION:這是一場「Code Rush: Netscape Mozilla 紀錄片 1998 - 20
+ 00」的放映會，和高雄大學的學生、在地摩茲人以及所有
+ 參與者一起了解關於 Mozilla 以及 Netscape 的故事。
+URL:https://reps.mozilla.org/e/code-rush-fang-ying-hui-gao-xiong-da-xue/
+SEQUENCE:7
+X-COORDINATES-LAT:22.733341
+X-COORDINATES-LON:120.279047
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

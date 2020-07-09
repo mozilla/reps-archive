@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@174
+CLASS:PUBLIC
+DTSTAMP:20200423T225822Z
+DTSTART:20120926T110000Z
+DTEND:20120926T150000Z
+LOCATION:Menara Uoa Bangsar\, Kuala Lumpur\, Kuala Lumpur\, Malaysia
+SUMMARY:WebCamp KL September 2012
+DESCRIPTION:Come and join us for the most persistent geek community event 
+ of the year!\n\nIt&#39;s FREE\, action-packed\, 1-night event open to all\, we
+  might host some talks targeted at development professionals from all sort
+ s of roles in the industry\, otherwise we just hang out and network with d
+ evelopment professionals around you and of course... unleash your inner ge
+ ek!\n\nP.S. This is a bring your own cup and take off your shoes when you 
+ get here event.
+URL:https://reps.mozilla.org/e/webcamp-kl-september-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:6.31529853833
+X-COORDINATES-LON:99.84375
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

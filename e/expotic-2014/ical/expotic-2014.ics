@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2997
+CLASS:PUBLIC
+DTSTAMP:20200407T175302Z
+DTSTART:20141106T123000Z
+DTEND:20141106T223000Z
+LOCATION:Hotel Alba Caracas\, Caracas\, Venezuela
+SUMMARY:EXPOTIC 2014
+DESCRIPTION:The goal of &#34;EXPOTIC 2014&#34; to promote the participation of com
+ panies\, SMEs\, Organizations\, Schools (colleges and universities) and th
+ e State on the development of the telecommunications sector and informatio
+ n technology and communication in Venezuela.
+URL:https://reps.mozilla.org/e/expotic-2014/
+SEQUENCE:11
+X-COORDINATES-LAT:10.5006117959
+X-COORDINATES-LON:-66.9502944953
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

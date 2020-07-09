@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5918
+CLASS:PUBLIC
+DTSTAMP:20200423T115255Z
+DTSTART:20161018T033000Z
+DTEND:20161018T100000Z
+LOCATION:Tirupati\, Tirupati\, India
+SUMMARY:Mozilla Community Engagement @AITS
+DESCRIPTION:This is a part of community engagement tour to develop mozilla
+  community in new Andhra pradesh
+URL:https://reps.mozilla.org/e/mozilla-community-engagement-aits/
+SEQUENCE:3
+X-COORDINATES-LAT:13.6356440141
+X-COORDINATES-LON:79.3976783752
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

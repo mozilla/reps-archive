@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1102
+CLASS:PUBLIC
+DTSTAMP:20200407T181856Z
+DTSTART:20130717T111500Z
+DTEND:20130717T124500Z
+LOCATION:Maitighar Cafe\, Maitighar\, Kathmandu\, Nepal
+SUMMARY:MozCafe Nepal July 2013
+DESCRIPTION:A regular meetup of Mozilla Nepal Community members. We shall 
+ be discussing about our future plans/road-maps for coming month.\nMostly a
+ bout Firefox Student Ambassadors&#39; meet in the coming week. We will also be
+  celebrating the launch of Firefox OS and our community&#39;s new mailing list
+ .
+URL:https://reps.mozilla.org/e/mozcoffee/
+SEQUENCE:5
+X-COORDINATES-LAT:27.6943393183
+X-COORDINATES-LON:85.3199958801
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

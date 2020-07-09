@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@890
+CLASS:PUBLIC
+DTSTAMP:20200423T214518Z
+DTSTART:20130511T000000Z
+DTEND:20130518T000000Z
+LOCATION:Institut Français du Sénégal\, Dakar\, Senegal
+SUMMARY:Tandem Paris - Dakar
+DESCRIPTION:The operation &#34;Dakar Libre v1&#34; (Dakar free v1)  offers retreat
+ s around the free culture that is at the heart of the new economy and the 
+ transformation observed in the world today. During these days\, &#34;Jokkolabs
+ &#34;\, &#34;La Cantine&#34; and the whole community of this movement offers open meet
+ ings and workshops to promote and launch projects and local initiatives in
+  this direction.
+URL:https://reps.mozilla.org/e/tandem-paris-dakar/
+SEQUENCE:1
+X-COORDINATES-LAT:14.668211
+X-COORDINATES-LON:-17.435347
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

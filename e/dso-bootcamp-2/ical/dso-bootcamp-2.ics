@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5580
+CLASS:PUBLIC
+DTSTAMP:20200407T170250Z
+DTSTART:20160701T050000Z
+DTEND:20160702T160000Z
+LOCATION:Malindi\, Malindi\, Kenya
+SUMMARY:DSO Bootcamp 2
+DESCRIPTION:This is the second bootcamp for the DSO project Mozilla is run
+ ning in Kenya: https://github.com/MozillaFoundation/digital-skills-observa
+ tory It&#39;s aim is to asses the first half of the project and plan for what&#39;
+ s left.\n\nParticipants of the bootcamp are DSO community members comprise
+ d of Mozilla volunteers\, MoFo staff and Digital Divide Data staff.
+URL:https://reps.mozilla.org/e/dso-bootcamp-2/
+SEQUENCE:0
+X-COORDINATES-LAT:-3.21284539933
+X-COORDINATES-LON:40.113144
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

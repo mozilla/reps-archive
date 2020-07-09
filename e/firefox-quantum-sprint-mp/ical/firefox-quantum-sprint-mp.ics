@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7077
+CLASS:PUBLIC
+DTSTAMP:20200423T103016Z
+DTSTART:20171006T043000Z
+DTEND:20171006T073000Z
+LOCATION:Radharaman Institute Of Technology &amp; Science\, Bhopal\, India
+SUMMARY:Firefox Quantum Sprint@MP
+DESCRIPTION:Firefox Quantum is soon to be launched and this is our opportu
+ nity to make Firefox rise again. Participate in the Firefox Quantum Sprint
+  and make a difference by ensuring that Firefox runs smoothly in your regi
+ on.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-mp/
+SEQUENCE:3
+X-COORDINATES-LAT:23.2507674361
+X-COORDINATES-LON:77.4016106129
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

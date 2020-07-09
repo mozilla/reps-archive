@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6750
+CLASS:PUBLIC
+DTSTAMP:20200423T104513Z
+DTSTART:20170828T130000Z
+DTEND:20170902T010000Z
+LOCATION:Distrital University Francisco Jose de Caldas.\, Bogota\, Colombi
+ a
+SUMMARY:SLUD XIV (2017)
+DESCRIPTION:The Linux Week of the District University is an annual event w
+ ith national visibility organized by the GNU / Linux Group of the District
+  University. In this event it is announced aspects on the development\, us
+ e and dissemination of Free Software\, and the advantages of its implement
+ ation for the technological progress of society. There will be conferences
+ \, workshops\, tournaments and a free technology hackathon focused on IoT.
+URL:https://reps.mozilla.org/e/slud-xiv-2017/
+SEQUENCE:5
+X-COORDINATES-LAT:4.62795960597
+X-COORDINATES-LON:-74.0655237438
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

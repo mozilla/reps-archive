@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7357
+CLASS:PUBLIC
+DTSTAMP:20200407T170251Z
+DTSTART:20191123T043000Z
+DTEND:20191123T103000Z
+LOCATION:TBD\, Kurnool\, India
+SUMMARY:Firefox Addons Workshop
+DESCRIPTION:A one-day workshop fully packed with building add-on for Firef
+ ox Browser. This will encourage participants to build their own add-on and
+  publish it on addons.mozilla.org
+URL:https://reps.mozilla.org/e/firefox-addons-workshop/
+SEQUENCE:14
+X-COORDINATES-LAT:15.8336916972
+X-COORDINATES-LON:78.0846212246
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1334
+CLASS:PUBLIC
+DTSTAMP:20200423T211147Z
+DTSTART:20130914T040000Z
+DTEND:20130914T073000Z
+LOCATION:Aurora&#39;s Scientific and Technological Institute Aurora&#39;s Technolo
+ gical &amp; Research Institute\, Hyderabad\, India
+SUMMARY:Mozilla Club Initiative @ ATRI
+DESCRIPTION:The event is held as an introduction for the students of the c
+ ollege to know about Mozilla Mission\, What does Mozilla do for the Open W
+ eb\, How can one contribute to the Mozilla Projects focusing more on Open 
+ source aspects. Firefox Club Launch by Firefox Student Ambassador Charan R
+ eddy
+URL:https://reps.mozilla.org/e/mozilla-club-initiative-atri/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4063390333
+X-COORDINATES-LON:78.614730835
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

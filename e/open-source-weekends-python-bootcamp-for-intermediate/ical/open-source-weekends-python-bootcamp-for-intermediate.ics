@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5661
+CLASS:PUBLIC
+DTSTAMP:20200423T151007Z
+DTSTART:20160724T113000Z
+DTEND:20160724T133000Z
+LOCATION:2nd floor\, kundlini complex\, above honest restaurant\, opp. vas
+ trapur lake\,  Vastrapur Ahmedabad\, Ahmedabad\, India
+SUMMARY:Open Source Weekends - Python Bootcamp For Intermediate
+DESCRIPTION:Our motto is to enable people from all age groups and professi
+ ons to be a part of making awesome things on the web. We teach all to deve
+ lop their web literacy skills by spreading awareness and teaching the skil
+ ls required to develop the web. To do so\, we go to school\, colleges\, of
+ fices and any public spaces to teach them about the open source technologi
+ es
+URL:https://reps.mozilla.org/e/open-source-weekends-python-bootcamp-for-in
+ termediate/
+SEQUENCE:1
+X-COORDINATES-LAT:23.0359279041
+X-COORDINATES-LON:71.9003905356
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

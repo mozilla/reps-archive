@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7048
+CLASS:PUBLIC
+DTSTAMP:20200423T103750Z
+DTSTART:20170920T113000Z
+DTEND:20170920T140000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Da-an District\, Ta
+ iwan
+SUMMARY:#FirefoxQuantum Subtitle Sprint
+DESCRIPTION:Firefox Quantum is soon to be launched and this is our opportu
+ nity to make Firefox rise again. \n\nParticipate in the Firefox Quantum Sp
+ rint and let&#39;s make subtitle for recent Mozilla videos to help promoting F
+ irefox.
+URL:https://reps.mozilla.org/e/firefoxquantum-subtitle-sprint/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0439959711
+X-COORDINATES-LON:121.53231883
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

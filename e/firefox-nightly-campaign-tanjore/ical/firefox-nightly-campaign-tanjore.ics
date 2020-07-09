@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6609
+CLASS:PUBLIC
+DTSTAMP:20200423T110204Z
+DTSTART:20170611T033000Z
+DTEND:20170611T083000Z
+LOCATION:Tradent Technologies\, Nallaiah Complex\,\, Tanjore\, India
+SUMMARY:Firefox Nightly Campaign-Tanjore
+DESCRIPTION:One day Firefox Nightly camp to test Firefox Nightly
+URL:https://reps.mozilla.org/e/firefox-nightly-campaign-tanjore/
+SEQUENCE:3
+X-COORDINATES-LAT:10.7927263496
+X-COORDINATES-LON:79.1378631815
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

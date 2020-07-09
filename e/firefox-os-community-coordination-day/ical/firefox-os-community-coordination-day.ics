@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1036
+CLASS:PUBLIC
+DTSTAMP:20200407T174936Z
+DTSTART:20130622T070000Z
+DTEND:20130622T160000Z
+LOCATION:Plaza de Espana\, Madrid\, Spain
+SUMMARY:Firefox OS Community Coordination Day
+DESCRIPTION:Firefox OS Community Coordination Day - Spanish\, Polish commu
+ nity and Mozilla staff
+URL:https://reps.mozilla.org/e/firefox-os-community-coordination-day/
+SEQUENCE:1
+X-COORDINATES-LAT:40.4221380655
+X-COORDINATES-LON:-3.71101856232
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4887
+CLASS:PUBLIC
+DTSTAMP:20200407T174206Z
+DTSTART:20160115T180000Z
+DTEND:20160117T150000Z
+LOCATION:Mozilla\, Paris\, France
+SUMMARY:Hackathon Firefox OS Paris
+DESCRIPTION:Firefox OS France User Group hosted at Mozilla Paris\, for a H
+ ackathon Firefox OS.\n\nThe event aims to bring new platforms to Firefox O
+ S\, but also to create Add-ons on 2.5 or master choice.\n\n\n\n---&gt; Presen
+ ce of employees as Mozilla\n* Julien Wajsberg \n* Adam Farden (CZ) \n* Jua
+ n Gomez (Madrid)\n\n\n\n\n---&gt; Live Streaming for 15 January 2016 : \nhttp
+ s://air.mozilla.org/paris-firefox-os-hackathon-presentations/
+URL:https://reps.mozilla.org/e/hackathon-firefox-os-paris/
+SEQUENCE:10
+X-COORDINATES-LAT:48.7754995899
+X-COORDINATES-LON:2.87109285593
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

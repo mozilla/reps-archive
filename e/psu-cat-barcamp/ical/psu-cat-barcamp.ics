@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2916
+CLASS:PUBLIC
+DTSTAMP:20200407T174912Z
+DTSTART:20140913T120000Z
+DTEND:20140913T190000Z
+LOCATION:Portland State University\, Portland\, United States
+SUMMARY:PSU Cat BarCamp
+DESCRIPTION:Portland State University Cat BarCamp is a Unconference geared
+  towards technologists and developers who are students or affiliated with 
+ PSU.
+URL:https://reps.mozilla.org/e/psu-cat-barcamp/
+SEQUENCE:3
+X-COORDINATES-LAT:45.5060261051
+X-COORDINATES-LON:-122.650085427
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

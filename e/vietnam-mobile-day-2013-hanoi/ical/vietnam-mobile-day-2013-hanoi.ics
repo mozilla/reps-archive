@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@760
+CLASS:PUBLIC
+DTSTAMP:20200407T175945Z
+DTSTART:20130511T013000Z
+DTEND:20130511T103000Z
+LOCATION:Vietnam Trade Union Hotel\, Hanoi\, Hanoi\, Vietnam
+SUMMARY:Vietnam Mobile Day 2013 - Hanoi
+DESCRIPTION:Mozilla Vietnam Community will attend the Vietnam Mobile Day 2
+ 013 (in May 11th in Hanoi\, and May 18th in Ho Chi Minh City) and have int
+ roduction session about Firefox OS\, Firefox Markeplace to local mobile pr
+ ogrammers&#39; community.
+URL:https://reps.mozilla.org/e/vietnam-mobile-day-2013-hanoi/
+SEQUENCE:9
+X-COORDINATES-LAT:21.020323623
+X-COORDINATES-LON:105.844269991
+X-COUNTRY-CODE:vn
+END:VEVENT
+
+END:VCALENDAR

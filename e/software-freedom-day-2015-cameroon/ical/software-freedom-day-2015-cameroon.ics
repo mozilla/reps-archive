@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4473
+CLASS:PUBLIC
+DTSTAMP:20200423T163714Z
+DTSTART:20150923T110000Z
+DTEND:20150923T160000Z
+LOCATION:Campus Numérique Francophone - Yaoundé (CNF)\, Yaounde\, Camero
+ on
+SUMMARY:Software Freedom Day 2015 - Cameroon
+DESCRIPTION:SFD is a worldwide celebration of Free and Open Source Softwar
+ e (FOSS). Goal in this celebration is to educate the worldwide public abou
+ t the benefits of using high quality FOSS in education\, in government\, a
+ t home\, and in business -- in short\, everywhere! Ubuntu-CM and Mozilla C
+ ameroon will held this event in Yaounde ought to advocate on FOSS uses in 
+ Cameroon
+URL:https://reps.mozilla.org/e/software-freedom-day-2015-cameroon/
+SEQUENCE:1
+X-COORDINATES-LAT:3.72905419614
+X-COORDINATES-LON:11.6249996424
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

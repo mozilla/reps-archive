@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2256
+CLASS:PUBLIC
+DTSTAMP:20200423T195044Z
+DTSTART:20140512T143000Z
+DTEND:20140512T170000Z
+LOCATION:Port City International University \, Chittagong\, Chittagong\, B
+ angladesh
+SUMMARY:PCIU Maker Party@PCIU
+DESCRIPTION:The maker party was designed to give participants a hands on e
+ xperience with Web maker tools and enlighten them to remix some makes on t
+ he later part of the event. We initiated the web maker practice there to m
+ ake transform them from a web user to a web maker.
+URL:https://reps.mozilla.org/e/pciu-maker-party-pciu/
+SEQUENCE:2
+X-COORDINATES-LAT:22.5049184731
+X-COORDINATES-LON:91.8078803946
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

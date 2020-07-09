@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4725
+CLASS:PUBLIC
+DTSTAMP:20200423T162306Z
+DTSTART:20151025T053000Z
+DTEND:20151025T083000Z
+LOCATION:Sheesha Restaurent\, Jaipur\, India
+SUMMARY:MCR SIG Followup
+DESCRIPTION:It has been two months since inception of MCR special interest
+  groups. This meetup is to bring all mentors and mentees together and disc
+ uss their till date progress and plan for upcoming two months.
+URL:https://reps.mozilla.org/e/mcr-sig-followup/
+SEQUENCE:2
+X-COORDINATES-LAT:26.9008440799
+X-COORDINATES-LON:75.8305663615
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

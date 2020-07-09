@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3313
+CLASS:PUBLIC
+DTSTAMP:20200407T180528Z
+DTSTART:20150207T090000Z
+DTEND:20150207T120000Z
+LOCATION:Khulna University\, Khulna\, Bangladesh
+SUMMARY:Make the Web @Khulna University
+DESCRIPTION:Firefox Student Ambassadors of Khulna University are ready to 
+ have the first Makerparty of the year! Firefox Student Ambassadors will in
+ troduce the Open Web to the participants in this event. There will be a sm
+ all session on Mozilla&#39;s mission and vision\, different projects and produ
+ cts of Mozilla. They will take interactive sessions on the Webmaker tools 
+ such as X-ray Goggles and Thimble.
+URL:https://reps.mozilla.org/e/make-the-web-khulna-university/
+SEQUENCE:5
+X-COORDINATES-LAT:22.8191202883
+X-COORDINATES-LON:89.5519409236
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

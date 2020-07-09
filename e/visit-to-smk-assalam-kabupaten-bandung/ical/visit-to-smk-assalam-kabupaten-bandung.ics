@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3961
+CLASS:PUBLIC
+DTSTAMP:20200423T171924Z
+DTSTART:20150530T040000Z
+DTEND:20150530T070000Z
+LOCATION:SMK Assalam\, Bandung\, Indonesia
+SUMMARY:Visit to SMK Assalam - Kabupaten Bandung
+DESCRIPTION:A visit to one of the vocational high school in Bandung. They 
+ asked Mozilla to visit their school and meet their headmaster. Also an app
+ roach for establishing another Mozilla Club.
+URL:https://reps.mozilla.org/e/visit-to-smk-assalam-kabupaten-bandung/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.96672763428
+X-COORDINATES-LON:107.592040658
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5748
+CLASS:PUBLIC
+DTSTAMP:20200423T150420Z
+DTSTART:20160814T060000Z
+DTEND:20160814T080000Z
+LOCATION:Food Court\, CCM\, Nashik\, India
+SUMMARY:MozMeet to plan Club activities
+DESCRIPTION:This will be a meetup to plan future activities in the communi
+ ty. Focus will be on setting up new clubs and how it will function. Anothe
+ r focus area will the setting up plans on Open Source Weekend in the city.
+   Agenda for the meetup will be:\n1. Introduction to Mozilla Clubs.\n2. Ex
+ ploring new contribution areas.\n3. Open source Weekend planning.
+URL:https://reps.mozilla.org/e/mozmeet-to-plan-club-activities/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9903621172
+X-COORDINATES-LON:73.7615060789
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

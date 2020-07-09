@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3916
+CLASS:PUBLIC
+DTSTAMP:20200423T172210Z
+DTSTART:20150521T100000Z
+DTEND:20150521T113000Z
+LOCATION:Orange Cameroon Headquarters\, Douala\, Cameroon
+SUMMARY:Firefox OS Launch in Cameroon (Orange Klif)
+DESCRIPTION:Official presentation of the offer Orange Klif\, the Firefox O
+ S phone launch by Mozillian partnership with Orange Cameroun the product c
+ alled .
+URL:https://reps.mozilla.org/e/firefox-os-launch-in-cameroon-orange-klif/
+SEQUENCE:2
+X-COORDINATES-LAT:4.04061669813
+X-COORDINATES-LON:9.71484374721
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1720
+CLASS:PUBLIC
+DTSTAMP:20200423T202524Z
+DTSTART:20140221T200000Z
+DTEND:20140222T070000Z
+LOCATION:Simon Fraser University\, Vancouver\, Canada
+SUMMARY:Canadian Open Data Summit
+DESCRIPTION:Open Data Summit\, gathering of government\, educators and tec
+ hnologists to promote use and sharing of Open Data.  My particular role is
+  speaker proposing Open Data + Webmaker as a youth community empowerment a
+ ctivity.
+URL:https://reps.mozilla.org/e/open-data-summit/
+SEQUENCE:2
+X-COORDINATES-LAT:49.150574572
+X-COORDINATES-LON:-123.06738317
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

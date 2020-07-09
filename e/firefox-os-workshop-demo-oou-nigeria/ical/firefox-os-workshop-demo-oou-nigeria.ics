@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4112
+CLASS:PUBLIC
+DTSTAMP:20200423T165114Z
+DTSTART:20150819T090000Z
+DTEND:20150819T120000Z
+LOCATION:Olabisi Onabanjo University\,Ogun State\, Abeokuta\, Nigeria
+SUMMARY:Firefox OS Workshop/Demo OOU Nigeria
+DESCRIPTION:The event would feature presentations on the Firefox OS\,what 
+ exciting about the operating system and ways to contribute through the bui
+ lding of apps for the Firefox OS marketplace.\n\nThere would also be a Dem
+ o of the Firefox OS device.\n\nAt the end of the workshop\,Participant wou
+ ld be enlightened on ways to build for the Firefox OS marketplace and othe
+ r contribution ways through Localization.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-demo-oou-nigeria/
+SEQUENCE:8
+X-COORDINATES-LAT:7.13814285538
+X-COORDINATES-LON:3.6320018517
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

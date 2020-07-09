@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3925
+CLASS:PUBLIC
+DTSTAMP:20200407T181943Z
+DTSTART:20150525T110000Z
+DTEND:20150525T130000Z
+LOCATION:CCD\, SRS Mall\, Gomtinagar\, Lucknow\, Lucknow\, India
+SUMMARY:MozCafe Lucknow
+DESCRIPTION:I have created this event on behalf of Ms. Vnisha Srivastava\,
+  an active Mozillian from Lucknow.\n\n\nThe idea for this short meetup is 
+ to get started with the Mozilla Lucknow community and to plan future activ
+ ities and events. Basically\, this is an orientation session for all the M
+ ozillians in Lucknow. \nP.S. It&#39;s is not a sponsored meetup\, please pay a
+ nd enjoy your own coffee :)
+URL:https://reps.mozilla.org/e/mozcafe-lucknow/
+SEQUENCE:2
+X-COORDINATES-LAT:26.8577548015
+X-COORDINATES-LON:80.9975852963
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

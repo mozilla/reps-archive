@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1152
+CLASS:PUBLIC
+DTSTAMP:20200407T173742Z
+DTSTART:20130803T110000Z
+DTEND:20130803T210000Z
+LOCATION:Teatro Ney Soares - Rua Diamantina\, 463\, Belo Horizonte\, Brazi
+ l
+SUMMARY:Front in BH
+DESCRIPTION:Front in BH is an event focus on front-end development. It is 
+ part of the front-end group that organizes events like this in several sta
+ tes in Brazil.\n\nThe main topics on the event are Javascript and CSS deve
+ lopment related.
+URL:https://reps.mozilla.org/e/front-in-bh/
+SEQUENCE:1
+X-COORDINATES-LAT:-19.9068771112
+X-COORDINATES-LON:-43.9458740234
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

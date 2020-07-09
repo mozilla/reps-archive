@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6305
+CLASS:PUBLIC
+DTSTAMP:20200423T113341Z
+DTSTART:20170126T170000Z
+DTEND:20170126T213000Z
+LOCATION:Valtech AB\, Hantverkargatan 5\, Sweden
+SUMMARY:Rust Stockholm #4:  REST in Rust and Rust Hack Night
+DESCRIPTION:join us for our first meetup of 2017 at Valtech\, who are grac
+ iously providing us with both venue and food. :)\n\nThere will be a presen
+ tation about implementing a REST server in Rust followed by some mob progr
+ amming where we&#39;ll break you up in little teams to hack on Rust.\n\nWe&#39;ll 
+ have projects prepared for people who are complete beginners or a little m
+ ore advanced\, and if you want to bring your own project and find friends 
+ to help you hack on it you are very welcome to do that.
+URL:https://reps.mozilla.org/e/rust-stockholm-4-rest-in-rust-and-rust-hack
+ -night/
+SEQUENCE:0
+X-COORDINATES-LAT:59.3279224
+X-COORDINATES-LON:18.0484016
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

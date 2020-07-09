@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6936
+CLASS:PUBLIC
+DTSTAMP:20200407T174146Z
+DTSTART:20170923T063000Z
+DTEND:20170923T093000Z
+LOCATION:Café 80s\, Dumdum\, India
+SUMMARY:Using &amp; Testing Nightly in Kolkata
+DESCRIPTION:Firefox Nightly\, as a pre-release version of Firefox targetin
+ g power-users and core Mozilla contributors\, is a glimpse of what the fut
+ ure of Firefox will be for hundreds of millions of people. Having a health
+ y and strong technical community using and testing Nightly is a great way 
+ to easily get involved in Mozilla by providing a constant feedback loop to
+  developers.
+URL:https://reps.mozilla.org/e/using-testing-nightly-in-kolkata/
+SEQUENCE:0
+X-COORDINATES-LAT:22.6064044209
+X-COORDINATES-LON:87.7512359619
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

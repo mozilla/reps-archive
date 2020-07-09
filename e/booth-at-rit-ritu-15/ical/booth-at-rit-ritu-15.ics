@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3572
+CLASS:PUBLIC
+DTSTAMP:20200423T175154Z
+DTSTART:20150225T043000Z
+DTEND:20150227T103000Z
+LOCATION:Rajiv Gandhi Institute of Technology\, kottayam\, India
+SUMMARY:Booth at RIT  - Ritu &#39;15
+DESCRIPTION:**FSA Stall** \nTo create more awareness about Firefox Student
+  Ambassador program for the students \n**Fx OS stall**\n To teach more abo
+ ut Firefox OS and attract developers to develop more web apps \n**Firefox 
+ Stumbler** \nTo create awareness about MLS to the attendees and help them 
+ install Firefox Stumbler and contribue
+URL:https://reps.mozilla.org/e/booth-at-rit-ritu-15/
+SEQUENCE:2
+X-COORDINATES-LAT:9.5885349958
+X-COORDINATES-LON:76.5483169549
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8312
+CLASS:PUBLIC
+DTSTAMP:20200407T174131Z
+DTSTART:20190102T043000Z
+DTEND:20190102T073000Z
+LOCATION:SND College of Polytechnic\,  Lasalgaon Patoda Yeola Rd\, Yeola\,
+  Maharashtra 423401\, Yeola\, India
+SUMMARY:Privacy Workshop at SND College of Polytechnic\, Yeola
+DESCRIPTION:Privacy awareness workshop for the polytechnic students. This 
+ event comes under the global #PrivacyMonth . Agenda is simple making stude
+ nts and staff awareness about the rich Privacy Features of Firefox. The ev
+ ent will be hosted by Akshay Sonavane
+URL:https://reps.mozilla.org/e/privacy-workshop-at-snd-college-of-polytech
+ nic-yeola/
+SEQUENCE:0
+X-COORDINATES-LAT:20.0416947952
+X-COORDINATES-LON:74.4794054038
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

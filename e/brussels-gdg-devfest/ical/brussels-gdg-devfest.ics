@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4549
+CLASS:PUBLIC
+DTSTAMP:20200407T173640Z
+DTSTART:20151003T070000Z
+DTEND:20151004T160000Z
+LOCATION:Famoco\, 4th and 5th floor\, Rue des Tanneurs 52\, Brussels\, Bel
+ gium\, Bruxelles\, Belgium
+SUMMARY:Brussels GDG DevFest
+DESCRIPTION:This is a local Google Developer Group Community event with ta
+ lks  about Android\, Web and IoT.
+URL:https://reps.mozilla.org/e/brussels-gdg-devfest/
+SEQUENCE:0
+X-COORDINATES-LAT:50.8403340555
+X-COORDINATES-LON:4.34679132683
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

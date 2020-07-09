@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2352
+CLASS:PUBLIC
+DTSTAMP:20200423T192742Z
+DTSTART:20140711T103000Z
+DTEND:20140713T130000Z
+LOCATION:Capitol University\, Cagayan de Oro City\, Philippines
+SUMMARY:Startup Weekend Cagayan de Oro City (PHL)
+DESCRIPTION:Startup Weekend is a global grassroots movement of active and 
+ empowered entrepreneurs who are learning the basics of founding startups a
+ nd launching successful ventures. It is the largest community of passionat
+ e entrepreneurs with over 1800 past events in 120 countries around the wor
+ ld in 2014.
+URL:https://reps.mozilla.org/e/startup-weekend-cagayan-de-oro-city-phl/
+SEQUENCE:4
+X-COORDINATES-LAT:8.45018603404
+X-COORDINATES-LON:124.538452104
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

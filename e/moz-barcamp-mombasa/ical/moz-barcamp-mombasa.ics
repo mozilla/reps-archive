@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1373
+CLASS:PUBLIC
+DTSTAMP:20200423T204359Z
+DTSTART:20131205T080000Z
+DTEND:20131205T160000Z
+LOCATION:Jomo Kenyatta University of Agriculture and Technology Mombasa Ca
+ mpus\, Mombasa\, Kenya
+SUMMARY:Moz Barcamp Mombasa
+DESCRIPTION:This event will be focused to bring together IT professionals\
+ , innovators\, business people and students under their own agenda to netw
+ ork and come up with ideas that will enable them to work on ideas and crea
+ te prototypes in a day.\n\nThe event will also be aimed to create further 
+ awareness on Firefox OS and to teach people how to develop apps for Firefo
+ x OS\n\nAt the end of the event\, we shall reward the participants who giv
+ e the most impressive demos by the end.
+URL:https://reps.mozilla.org/e/moz-barcamp-mombasa/
+SEQUENCE:6
+X-COORDINATES-LAT:-4.1492006931
+X-COORDINATES-LON:39.6496582031
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

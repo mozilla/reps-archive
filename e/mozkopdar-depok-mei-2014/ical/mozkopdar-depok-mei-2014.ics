@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2160
+CLASS:PUBLIC
+DTSTAMP:20200407T175321Z
+DTSTART:20140528T110000Z
+DTEND:20140528T130000Z
+LOCATION:Code Margonda\, Tugu\, Indonesia
+SUMMARY:MozKopDar Depok - Mei 2014
+DESCRIPTION:An official Mozillians meetup in Depok for Mei 2014. Giving up
+ dates about Firefos Student Ambassador program. Also giving updates from M
+ ozilla projects.
+URL:https://reps.mozilla.org/e/mozkopdar-depok-mei-2014/
+SEQUENCE:5
+X-COORDINATES-LAT:-6.37362673065
+X-COORDINATES-LON:106.832404732
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

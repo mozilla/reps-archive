@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8699
+CLASS:PUBLIC
+DTSTAMP:20200407T171704Z
+DTSTART:20190711T120000Z
+DTEND:20190711T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:#MozKopdarJKT: The Future of Firefox Lite
+DESCRIPTION:Joe Cheng\, Head of Product - Mozilla Asia\, from the Mozilla 
+ office in Taipei will share the journey of Firefox Lite in the last 6 mont
+ hs in Indonesia\, and the future planning of Firefox Lite in Indonesia for
+  the next 6 months.
+URL:https://reps.mozilla.org/e/mozkopdarjkt-the-future-of-firefox-lite/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.2348886897
+X-COORDINATES-LON:106.821042895
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8456
+CLASS:PUBLIC
+DTSTAMP:20200407T165041Z
+DTSTART:20190329T033000Z
+DTEND:20190329T113000Z
+LOCATION:Online\, Kolkata\, India
+SUMMARY:International Organization of Software Developers
+DESCRIPTION:IOSD-International Organisation of Software Developers is Indi
+ a&#39;s Leading organisation Headed by students and youth\, and is rapidly exp
+ anding with student chapters in 20+ Colleges spanning across Delhi-NCR\, K
+ olkata\, Chandigarh\, Gwalior\, Jammu and many more. We are India&#39;s Larges
+ t Development based student organisation.
+URL:https://reps.mozilla.org/e/international-organization-of-software-deve
+ lopers/
+SEQUENCE:1
+X-COORDINATES-LAT:22.4279552968
+X-COORDINATES-LON:88.4414058924
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

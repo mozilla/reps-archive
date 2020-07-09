@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1154
+CLASS:PUBLIC
+DTSTAMP:20200407T181856Z
+DTSTART:20130801T041500Z
+DTEND:20130801T061500Z
+LOCATION:Acme Engineering College\, Banasthali\, Kathmandu\, Kathmandu\, N
+ epal
+SUMMARY:Mozilla Nepal Orientation at ACME College
+DESCRIPTION:We would have a discussion and presentation on different topic
+  about Mozilla:\n1) About Mozilla\n2) About Mozilla Nepal\n3) How can we c
+ ontribute on Mozilla\n4) How Mozilla is an Open Source\n5) about Firefox O
+ S\n\nThe main agenda of our Event is to provide information and education 
+ to student about Mozilla and help student to know more about the work of M
+ ozilla and Mozilla Nepal.
+URL:https://reps.mozilla.org/e/mozilla-nepal-orientation-at-acme-college/
+SEQUENCE:1
+X-COORDINATES-LAT:27.726296
+X-COORDINATES-LON:85.294772
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

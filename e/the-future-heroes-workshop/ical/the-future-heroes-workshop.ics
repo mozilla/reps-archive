@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2761
+CLASS:PUBLIC
+DTSTAMP:20200423T191551Z
+DTSTART:20140813T140000Z
+DTEND:20140823T160000Z
+LOCATION:TBD\, Amman\, Jordan
+SUMMARY:The Future heroes Workshop
+DESCRIPTION:*This workshop was given in the hall of eligible contains the 
+ necessary tools.\n*This workshop is targeting school students of the 9grad
+ e and 10grade.\n*Students be aware of the Mozilla Corporation. \n*explain 
+ the construct 2 Game engine \n*Games design and how to send it to Firefox 
+ marketplace \n*teach the basics of HTML5 .\n*explaine the appmaker.
+URL:https://reps.mozilla.org/e/the-future-heroes-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:32.0076878107
+X-COORDINATES-LON:35.9293213114
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

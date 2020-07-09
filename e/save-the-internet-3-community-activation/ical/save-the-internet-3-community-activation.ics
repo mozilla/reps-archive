@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4971
+CLASS:PUBLIC
+DTSTAMP:20200407T174140Z
+DTSTART:20160103T083000Z
+DTEND:20160103T123000Z
+LOCATION:ScrollBack Office\, Bengaluru\, Bangalore\, India
+SUMMARY:Save the Internet - 3 Community Activation
+DESCRIPTION:Inviting all Mozillians to the ScrollBack office in Bangalore.
+  Main Agenda is to address the awareness gap in Mozillians on Netneutralit
+ y and explain the current happenings around TRAI&#39;s consultation on differe
+ ntial pricing.\n\n\nMozilla Officially responded to Telecom regulatory aut
+ hority of India and it is available at http://blog.mozillaindia.org/1558\n
+ \n\nAnivar Aravind from Mozilla India policy and Advocacy Task Force and A
+ ravind Ravi Sulekha from Savetheinternet.in will lead the session
+URL:https://reps.mozilla.org/e/save-the-internet-3-community-activation/
+SEQUENCE:8
+X-COORDINATES-LAT:12.9531195191
+X-COORDINATES-LON:77.6529511213
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

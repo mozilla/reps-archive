@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@773
+CLASS:PUBLIC
+DTSTAMP:20200407T175124Z
+DTSTART:20130518T060000Z
+DTEND:20130518T090000Z
+LOCATION:The Coffee Bean &amp; Tea Leaf (CBTL) Two E-Com Center\, Pasay City\,
+  Philippines
+SUMMARY:MozCoffee: Student Volunteers Meetup!
+DESCRIPTION:The Student volunteers in our community has great sign ups and
+  great participation in different events we had organized. This event will
+  help active volunteers know more about how they can contribute to the com
+ munity. and meet other student volunteers from different schools.
+URL:https://reps.mozilla.org/e/mozcoffee-student-volunteers-meetup/
+SEQUENCE:6
+X-COORDINATES-LAT:14.539326
+X-COORDINATES-LON:120.981611
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

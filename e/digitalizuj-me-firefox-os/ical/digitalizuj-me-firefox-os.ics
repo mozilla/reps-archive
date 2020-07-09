@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@865
+CLASS:PUBLIC
+DTSTAMP:20200407T180506Z
+DTSTART:20130528T170000Z
+DTEND:20130528T190000Z
+LOCATION:Telenor HQ\, Bulevar Džordža Vašingtona 83\, Podgorica\, Podgo
+ rica\, Montenegro
+SUMMARY:Digitalizuj.me - Firefox OS
+DESCRIPTION:This event is same as a Mobile Monday event in Belgrade.\nhttp
+ s://reps.mozilla.org/e/mobile-monday-firefox-os/\n\nThis event is organize
+ d with Telenor Serbia. Main mission is to attract media and developers.\nD
+ igitalizuj.me is a largest Montenegrin IT community.
+URL:https://reps.mozilla.org/e/digitalizuj-me-firefox-os/
+SEQUENCE:6
+X-COORDINATES-LAT:42.4401492416
+X-COORDINATES-LON:19.2577457428
+X-COUNTRY-CODE:me
+END:VEVENT
+
+END:VCALENDAR

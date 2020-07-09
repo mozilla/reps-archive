@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2297
+CLASS:PUBLIC
+DTSTAMP:20200407T175115Z
+DTSTART:20140528T163000Z
+DTEND:20140528T233000Z
+LOCATION:Unviversity\, Cumaná\, Venezuela
+SUMMARY:Firefox Os Workshop UDO
+DESCRIPTION:In this workshop I will be giving a talk on development\, inte
+ grating new partners for mozilla\, application developers with local conte
+ nt for the platform firefoxos\, disseminate new web technologies for an op
+ en web\, this university still has not been given any event mozilla and th
+ ere are students with good potential
+URL:https://reps.mozilla.org/e/firefox-os-workshop-udo/
+SEQUENCE:8
+X-COORDINATES-LAT:10.451174485
+X-COORDINATES-LON:-64.1827440279
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

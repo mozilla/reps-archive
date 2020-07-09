@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4369
+CLASS:PUBLIC
+DTSTAMP:20200423T162548Z
+DTSTART:20151021T063000Z
+DTEND:20151021T140000Z
+LOCATION:Arab Academy for Science\, Technology &amp; Maritime Transport\, Alex
+ andria\, Egypt
+SUMMARY:Academy Clubs Welcome Party V1
+DESCRIPTION:By the Start of the new Academic Year\, our Academy clubs make
+  a welcome party to show the new comers what they do and what activities t
+ hey make. This year our club will take part in this welcome party  aiming 
+ to recruit a lot of FSAs to the program and spread Mozilla&#39;s mission with 
+ the new comers.\n\nExpected number of FSAs recruited: 40-50 FSA each year 
+ (25-30) each semester.
+URL:https://reps.mozilla.org/e/academy-clubs-welcome-party/
+SEQUENCE:22
+X-COORDINATES-LAT:31.3100025802
+X-COORDINATES-LON:30.0644942523
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

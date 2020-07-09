@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1729
+CLASS:PUBLIC
+DTSTAMP:20200423T203542Z
+DTSTART:20140116T090000Z
+DTEND:20140116T160000Z
+LOCATION:Toc H Instiute of Technology\, Cochin\, India
+SUMMARY:Toc H App Day
+DESCRIPTION:The second app day at in cochin after an year\, this event tar
+ gets newbie to both web technologies and Firefox OS.
+URL:https://reps.mozilla.org/e/toc-h-app-day/
+SEQUENCE:1
+X-COORDINATES-LAT:9.71966027994
+X-COORDINATES-LON:76.601715032
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

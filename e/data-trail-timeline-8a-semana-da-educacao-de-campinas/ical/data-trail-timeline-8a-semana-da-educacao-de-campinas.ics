@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6847
+CLASS:PUBLIC
+DTSTAMP:20200423T103437Z
+DTSTART:20170930T110000Z
+DTEND:20170930T210000Z
+LOCATION:PUC Campinas\, Campinas\, Brazil
+SUMMARY:Data Trail Timeline @8ª Semana da Educação de Campinas
+DESCRIPTION:The Campinas Education Week is an annual event to bring what&#39;s
+  new in formal and informal education\, relevant technologies and topics o
+ f education in the bigf metropolis. We\, as part of the Leadership Network
+ \, will approach privacy and security in education with open tools develop
+ ed by Mozilla.
+URL:https://reps.mozilla.org/e/data-trail-timeline-8a-semana-da-educacao-d
+ e-campinas/
+SEQUENCE:3
+X-COORDINATES-LAT:-23.5733
+X-COORDINATES-LON:-46.6417
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

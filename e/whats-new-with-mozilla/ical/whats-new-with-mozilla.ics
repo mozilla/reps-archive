@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@936
+CLASS:PUBLIC
+DTSTAMP:20200407T183104Z
+DTSTART:20130701T110000Z
+DTEND:20130712T200000Z
+LOCATION:Pittsburgh Area\, Pittsburgh\, United States
+SUMMARY:What&#39;s New With Mozilla
+DESCRIPTION:This event will be an informational in a few Pittsburgh locati
+ ons (specifics TBD) about different projects that Mozilla is working on in
+ cluding: Firefox OS\, Servo\, Rust\, and many others. The event will showc
+ ase a Firefox OS demo loaded on a Raspberry Pi.
+URL:https://reps.mozilla.org/e/whats-new-with-mozilla/
+SEQUENCE:8
+X-COORDINATES-LAT:40.3856674281
+X-COORDINATES-LON:-79.9976241589
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

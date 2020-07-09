@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@372
+CLASS:PUBLIC
+DTSTAMP:20200407T180333Z
+DTSTART:20130119T140000Z
+DTEND:20130119T170000Z
+LOCATION:FII (Faculty of Computer Science\, UAIC)\, Iași\, Romania
+SUMMARY:Firefox 18 launch party in Iași\, Romania
+DESCRIPTION:Firefox 18 launch party event in Iași. Iași is one of the ma
+ in cities in Romania. The event is sponsored by Mozilla and hosted by the 
+ Faculty of Computer Science. Special thanks to Ceata for assisting with th
+ e organization of the launch party. The local coordinator is Andreea Popes
+ cu\, a new member of Mozilla community. The event consists of demos and ta
+ lks on latest stable Firefox\, Firefox OS and WebFWD.
+URL:https://reps.mozilla.org/e/firefox-18-launch-party-in-iasi-romania/
+SEQUENCE:1
+X-COORDINATES-LAT:47.1740235003
+X-COORDINATES-LON:27.5749540329
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

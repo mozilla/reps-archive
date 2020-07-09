@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3753
+CLASS:PUBLIC
+DTSTAMP:20200423T172555Z
+DTSTART:20150509T140000Z
+DTEND:20150516T140000Z
+LOCATION:INACAP Sede Maipú\, Maipú\, Chile
+SUMMARY:Training Course Womoz Chile - INACAP Maipú
+DESCRIPTION:Training course is to introduce girls interested in learning t
+ o code the free and open web language. The goal of this event is to introd
+ uce Firefox OS and Firefox Marketplace\, and share knowledge about the too
+ ls available to help developers get started building apps to submit to the
+  Marketplace. Also\, our other goal is to empower women to the programming
+  subject.
+URL:https://reps.mozilla.org/e/training-course-womoz-chile-inacap-maipu/
+SEQUENCE:5
+X-COORDINATES-LAT:-33.4804583362
+X-COORDINATES-LON:-70.7559719683
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9216
+CLASS:PUBLIC
+DTSTAMP:20200422T230145Z
+DTSTART:20200427T163000Z
+DTEND:20200427T173000Z
+LOCATION:Women in Voice Italy (via Zoom)\, Turin\, Italy
+SUMMARY:Women in Voice Italy: Open source your Voice!
+DESCRIPTION:Talk about Common Voice and DeepSpeech with demo
+URL:https://reps.mozilla.org/e/women-in-voice-italy-open-source-your-voice
+ /
+SEQUENCE:0
+X-COORDINATES-LAT:45.0537976212
+X-COORDINATES-LON:7.73071277887
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

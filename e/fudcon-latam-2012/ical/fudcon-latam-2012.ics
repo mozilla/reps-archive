@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@40
+CLASS:PUBLIC
+DTSTAMP:20200423T230640Z
+DTSTART:20120823T163000Z
+DTEND:20120825T163000Z
+LOCATION:Universidad Antonio José Paez\, Valencia\, Venezuela
+SUMMARY:FUDCon LATAM 2012
+DESCRIPTION:The FUDCon is the Fedora Users and Developers Conference\, our
+  premier event held in four different regions of the world\, once a year e
+ ach. The FUDCon is always free\, free and open to the public. Some of the 
+ topics covered in the FUDCon include: Infrastructure\, Development\, Commu
+ nity Building\, Project Management and Marketing\, Design\, Testing and So
+ ftware Quality Control\, Packaging\, among others. The FUDCon will feature
+  great international speakers.
+URL:https://reps.mozilla.org/e/fudcon-latam-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:10.2365670754
+X-COORDINATES-LON:-67.9642367363
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

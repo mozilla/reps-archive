@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@518
+CLASS:PUBLIC
+DTSTAMP:20200423T220641Z
+DTSTART:20130223T160000Z
+DTEND:20130223T230000Z
+LOCATION: Mediateca del Centro Cultural España\, Mexico\, D.F.\, Mexico
+SUMMARY: Translathon in Nahuatl (Feb 21th)
+DESCRIPTION:Marathon translations commemorating the International Day of N
+ ative Languages. 
+URL:https://reps.mozilla.org/e/translathon-in-nahuatl-feb-21th/
+SEQUENCE:0
+X-COORDINATES-LAT:19.4350590523
+X-COORDINATES-LON:-99.1328948736
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

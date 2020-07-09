@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8133
+CLASS:PUBLIC
+DTSTAMP:20200407T171653Z
+DTSTART:20180922T053000Z
+DTEND:20180922T093000Z
+LOCATION:Oriental Institute of Science and Technology\, Bhopal\, India
+SUMMARY:Dark Funnel Campaign MozMPCG
+DESCRIPTION:By participating in this campaign you’ll be helping Mozilla 
+ shine light on unknown download sources. Every site reported by a communit
+ y member will get us one step closer to our goal of understanding the enti
+ re dark funnel\, which in turn helps us keep all Firefox users safe.
+URL:https://reps.mozilla.org/e/dark-funnel-campaign-3/
+SEQUENCE:4
+X-COORDINATES-LAT:23.3405747362
+X-COORDINATES-LON:77.3005369306
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

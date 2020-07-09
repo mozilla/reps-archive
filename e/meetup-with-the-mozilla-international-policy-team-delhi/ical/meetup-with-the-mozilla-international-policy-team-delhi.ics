@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7944
+CLASS:PUBLIC
+DTSTAMP:20200407T171621Z
+DTSTART:20180715T093000Z
+DTEND:20180715T113000Z
+LOCATION:Software Freedom Law Centre\, India K-9\, Second Floor\, Jangpura
+  Extension\, Delhi\, India
+SUMMARY:Meetup with the Mozilla International Policy Team- Delhi
+DESCRIPTION:The draft of India&#39;s first privacy and data protection bill is
+  going to drop any day now! And Mozilla is gearing up to launch a campaign
+  to ensure our voices are heard by decision makers to empower us with a st
+ rong and robust law. Jochai Ben-Avie\, and Amba Kak\, members of Mozilla&#39;s
+  international policy team are visiting Delhi to speak with and listen to 
+ the community during this crucial time in the privacy debate in India.
+URL:https://reps.mozilla.org/e/meetup-with-the-mozilla-international-polic
+ y-team-delhi/
+SEQUENCE:1
+X-COORDINATES-LAT:28.584997
+X-COORDINATES-LON:77.242386
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

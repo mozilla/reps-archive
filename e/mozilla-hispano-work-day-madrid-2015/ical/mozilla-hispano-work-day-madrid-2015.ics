@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3216
+CLASS:PUBLIC
+DTSTAMP:20200407T174228Z
+DTSTART:20150117T090000Z
+DTEND:20150117T180000Z
+LOCATION:La Industrial\, Madrid\, Spain
+SUMMARY:Mozilla Hispano Work Day Madrid 2015
+DESCRIPTION:Mozilla Hispano meeting and work day for contributors living i
+ n Spain.\n\nMozilla Hispano contributors living in Spain will meet in Madr
+ id for a get together\, discuss and advance on the plans for the community
+  in Spain and globally in all Spanish speaking countries.
+URL:https://reps.mozilla.org/e/mozilla-hispano-work-day-madrid-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:40.4260006114
+X-COORDINATES-LON:-3.70369792006
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

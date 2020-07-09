@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5129
+CLASS:PUBLIC
+DTSTAMP:20200423T154823Z
+DTSTART:20160217T120000Z
+DTEND:20160217T140000Z
+LOCATION:Dim Sum Lab\, 14/F 1000 Jervois Street\, Sheung Wan\, Hong Kong\,
+  Hong Kong
+SUMMARY:The Loop - 2016 Feb Meetup
+DESCRIPTION:Mozilla HK would love to bring Mozillians in Hong Kong to visi
+ t F/OSS friends at &#34;The Loop&#34; meetup\, and we will meet a special guest fr
+ om Mozilla.\n\nThe Loop is a recurring bi-weekly hacker event for open sou
+ rce development to gather for coding and chit-chat.
+URL:https://reps.mozilla.org/e/the-loop-2016-feb-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2850853596
+X-COORDINATES-LON:114.150940061
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

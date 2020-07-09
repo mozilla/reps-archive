@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4419
+CLASS:PUBLIC
+DTSTAMP:20200423T163346Z
+DTSTART:20151002T033000Z
+DTEND:20151002T113000Z
+LOCATION:NIIT University \, Alwar\, Alwar\, India
+SUMMARY:Webmaker and Security Workshop at NIIT University
+DESCRIPTION:This event will start with Introduction to Mozilla Mission and
+  then FSA and WoMoz Programs would be introduced. After that \, a whole da
+ y workshop would be organized on Security and Webmaker.
+URL:https://reps.mozilla.org/e/webmaker-and-security-workshop-at-niit-univ
+ ersity/
+SEQUENCE:5
+X-COORDINATES-LAT:26.7186271008
+X-COORDINATES-LON:75.8860015869
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

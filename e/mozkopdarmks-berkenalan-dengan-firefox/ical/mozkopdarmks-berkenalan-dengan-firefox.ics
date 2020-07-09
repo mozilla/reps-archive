@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7577
+CLASS:PUBLIC
+DTSTAMP:20200423T094953Z
+DTSTART:20180329T123000Z
+DTEND:20180329T143000Z
+LOCATION:Warkop Ogi&#39;e Abdesir\, Makassar\, Indonesia
+SUMMARY:MozKopdarMKS: Berkenalan dengan Firefox
+DESCRIPTION:#MozKopdarMKS is an offline meetup for mozillians in Makassar.
+ \n\nThis event will be hosted by Muh. Fachrul Razy\, one of Mozilla Tech S
+ peakers in Indonesia.
+URL:https://reps.mozilla.org/e/mozkopdarmks-berkenalan-dengan-firefox/
+SEQUENCE:0
+X-COORDINATES-LAT:-5.15993614038
+X-COORDINATES-LON:119.460977554
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

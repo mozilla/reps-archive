@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4932
+CLASS:PUBLIC
+DTSTAMP:20200423T160119Z
+DTSTART:20151222T043000Z
+DTEND:20151222T063000Z
+LOCATION:Cox&#39;s Bazar Polytechnic Institute\, Cox&#39;s Bazar\, Bangladesh
+SUMMARY:FSA Boostup Pre-Camp @ Cox&#39;s Bazar Polytechnic Institute
+DESCRIPTION:We have started our boost up campaign of FSA as we said. It wa
+ s started in 19 Dec&#39;15 and will continue until further notice. It’s happ
+ ening all around the country in different Firefox clubs and institute. We 
+ are campaigning in some institutes...\nThis is also a part of win10 campai
+ gn
+URL:https://reps.mozilla.org/e/fsa-boostup-pre-camp-coxs-bazar-polytechnic
+ -institute/
+SEQUENCE:2
+X-COORDINATES-LAT:21.432666799
+X-COORDINATES-LON:91.9867792726
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

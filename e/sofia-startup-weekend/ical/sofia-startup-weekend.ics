@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@633
+CLASS:PUBLIC
+DTSTAMP:20200423T215634Z
+DTSTART:20130405T120000Z
+DTEND:20130407T120000Z
+LOCATION:Betahaus\, Sofia\, Bulgaria
+SUMMARY:Sofia Startup Weekend 
+DESCRIPTION:Startup Weekend is a global grassroots movement of active and 
+ empowered entrepreneurs who are learning the basics of founding startups a
+ nd launching successful ventures. It is the largest community of passionat
+ e entrepreneurs with over 400 past events in 100 countries around the worl
+ d in 2011.  \n\nPavel Ivanov will participate(will be coaching) at this ev
+ ent which is  mobile oriented this time and will promote Mozilla and Firef
+ oxOS
+URL:https://reps.mozilla.org/e/sofia-startup-weekend/
+SEQUENCE:1
+X-COORDINATES-LAT:42.6965673097
+X-COORDINATES-LON:23.3188247681
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

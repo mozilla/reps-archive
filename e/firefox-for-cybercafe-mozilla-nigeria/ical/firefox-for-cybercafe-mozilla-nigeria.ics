@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4233
+CLASS:PUBLIC
+DTSTAMP:20200407T180044Z
+DTSTART:20150921T070000Z
+DTEND:20150924T230000Z
+LOCATION:Uinversity of Lagos.University of Ilorin.Ekiti State University\,
+ Olabisi Onabanjo Uinversity\,Federal University of Technology FUTA.\, Lago
+ s\, Nigeria
+SUMMARY:Firefox for Internet Cafe  -Mozilla Nigeria
+DESCRIPTION:Cybercafe are the most common platform through which student a
+ ccess the internet.\nThe purpose of the event is to brand the cafe with Fi
+ refox  Logo through posters and give swags to Firefox users accessing the 
+ internet at the Cybercafe.\n5 days\,5 Universities branding Cybercafe in 5
+  Campuses and sharing pictures on Social Media.
+URL:https://reps.mozilla.org/e/firefox-for-cybercafe-mozilla-nigeria/
+SEQUENCE:5
+X-COORDINATES-LAT:7.09725885503
+X-COORDINATES-LON:3.77197176218
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

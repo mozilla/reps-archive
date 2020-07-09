@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4834
+CLASS:PUBLIC
+DTSTAMP:20200423T161141Z
+DTSTART:20151123T083000Z
+DTEND:20151123T100000Z
+LOCATION:Urumqi fortieth high school\, urumqi\, China
+SUMMARY:Firefox Tianshan tour -five --what is IP ? What is web ?
+DESCRIPTION:The lesson we introduce students to what a local area network\
+ , the Internet\, what is the ip address\, dns is doing what?
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson-3-x-ray-goggle
+ s/
+SEQUENCE:6
+X-COORDINATES-LAT:43.6711750125
+X-COORDINATES-LON:2607.57515216
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

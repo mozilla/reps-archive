@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1685
+CLASS:PUBLIC
+DTSTAMP:20200423T203047Z
+DTSTART:20140131T040000Z
+DTEND:20140131T070000Z
+LOCATION:North South University\, Banani Model Town\, Bangladesh
+SUMMARY:Hackjam with NSUFSA\,NSUWF\,NSUEC
+DESCRIPTION:AGENDA:\n\n    Introduction to Mozilla\,contribution ways\n\n 
+    Introduction to HTML5 and CSS\,\n\n    Getting Started with Webmaker\,\
+ n\n    Play with webmaker tools\, Popcorn\, Thimble and X-Ray Goggles\,\n\
+ n    Introduction to Firefox OS\,\n\n    Introduction of Firefox Students 
+ Ambassador Program.\n\n    MozQuiz
+URL:https://reps.mozilla.org/e/hackjam-with-nsufsa-nsuwf-nsuec/
+SEQUENCE:17
+X-COORDINATES-LAT:23.8158133015
+X-COORDINATES-LON:90.4263560772
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

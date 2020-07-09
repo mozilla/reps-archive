@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@310
+CLASS:PUBLIC
+DTSTAMP:20200423T223927Z
+DTSTART:20121208T010000Z
+DTEND:20121208T070000Z
+LOCATION:Dean Building\, Universitas Padjadjaran\, Bandung\, Indonesia
+SUMMARY:IT-Preneur by Universitas Padjadjaran
+DESCRIPTION:IT-Preneur is a one-day talkshow and sharing session about IT 
+ and its relation with entrepreneurship. This event is organized by Informa
+ tics Students Assosiation of Universitas Padjadjaran\, Bandung\, Indonesia
+ . In this event\, I&#39;m going to give a talk about Firefox OS and WebFWD (as
+  this event is related with entrepreneurship).
+URL:https://reps.mozilla.org/e/it-preneur-by-universitas-padjadjaran/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.89332382406
+X-COORDINATES-LON:107.617006302
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

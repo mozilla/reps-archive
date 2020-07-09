@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6223
+CLASS:PUBLIC
+DTSTAMP:20200423T113518Z
+DTSTART:20170120T053000Z
+DTEND:20170120T070000Z
+LOCATION:Sir BPTI Campus\, Vidhyanagar\, Bhavnagar\, Gujarat 364002\, Bhav
+ nagar\, India
+SUMMARY:Privacy Brigade
+DESCRIPTION:Introducing  Privacy and Security to Students\nSupporting #Pri
+ vacymonth campaign
+URL:https://reps.mozilla.org/e/privacy-brigade/
+SEQUENCE:3
+X-COORDINATES-LAT:21.774785449
+X-COORDINATES-LON:72.1324195
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

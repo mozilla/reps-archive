@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5532
+CLASS:PUBLIC
+DTSTAMP:20200407T174835Z
+DTSTART:20160708T220000Z
+DTEND:20160709T220000Z
+LOCATION:Hostel Celica\, Ljubljana\, Slovenia
+SUMMARY:L10n Hackathon for Balkans
+DESCRIPTION:Localisation Hackathon for the Balkan region. Two days of hard
+  work and learning.
+URL:https://reps.mozilla.org/e/hackathon-for-balkan/
+SEQUENCE:8
+X-COORDINATES-LAT:46.0565073416
+X-COORDINATES-LON:14.5164569244
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

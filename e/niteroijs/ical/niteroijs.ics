@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3641
+CLASS:PUBLIC
+DTSTAMP:20200423T173335Z
+DTSTART:20150411T120000Z
+DTEND:20150411T220000Z
+LOCATION:Universidade Federal Fluminense\, Campus de Computação\, NBA\, 
+ Rio de Janeiro\, Brazil
+SUMMARY:NiteroiJS
+DESCRIPTION:NiteroiJS is a gathering of web developers happening in Nitero
+ i which is the sister city of Rio and a hub for Mozilla Volunteers\, web d
+ evelopers and startups.\n\nThis is the first event of its kind but the org
+ anizers want to make it a regular event focused on web innovation\, best p
+ ractices and knowledge sharing much in the spirit of other BrazilJS events
+ .
+URL:https://reps.mozilla.org/e/niteroijs/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.8964708363
+X-COORDINATES-LON:-43.1270141574
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

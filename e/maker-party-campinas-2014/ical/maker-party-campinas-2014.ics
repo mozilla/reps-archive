@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2712
+CLASS:PUBLIC
+DTSTAMP:20200423T183637Z
+DTSTART:20141104T110000Z
+DTEND:20141111T190000Z
+LOCATION:CRJ - Centro de Referência da Juventude - Vila União\, Campinas
+ \, Brazil
+SUMMARY:Maker Party Campinas 2014
+DESCRIPTION:The  web is a fantastic way to develop your creativity and sha
+ re highly  relevant content\, and what better than to bring an event to di
+ scuss and  learn how to create web pages using the Thimble.
+URL:https://reps.mozilla.org/e/maker-party-campinas-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:-22.9075135572
+X-COORDINATES-LON:-47.0593757636
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8990
+CLASS:PUBLIC
+DTSTAMP:20200407T165028Z
+DTSTART:20191228T103000Z
+DTEND:20191228T123000Z
+LOCATION:Blue Blogs Cafe\, Vadodara\, India
+SUMMARY:MozMeets
+DESCRIPTION:Firefox Account Campaign will be the main focus of this meetup
+ .  We will also discuss about various initiatives with fellow Mozillians a
+ nd have some fun!
+URL:https://reps.mozilla.org/e/mozmeets/
+SEQUENCE:2
+X-COORDINATES-LAT:22.2577494845
+X-COORDINATES-LON:73.227538839
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

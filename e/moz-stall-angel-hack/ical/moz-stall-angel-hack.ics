@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7873
+CLASS:PUBLIC
+DTSTAMP:20200423T091952Z
+DTSTART:20180630T033000Z
+DTEND:20180730T103000Z
+LOCATION:Cowrks\, Wroli\, Mumbai\, India
+SUMMARY:Moz Stall @ Angel Hack
+DESCRIPTION:Every year\, AngelHack adventures across the globe for our yea
+ rly Global Hackathon Series. Over the course of Summer 2018\, we’ll hit 
+ six continents\, bridging the gap between Silicon Valley innovation and en
+ trepreneurs all over the world.\n\nThis year’s theme? Seamless Technolog
+ y. Hackathons are built for rapid innovation\, and rapid isn’t always pr
+ etty. But no matter the roadblock\, broken code or bumps\, we continue on 
+ and push forward\, together. There’s no boundary or limit to what we can
+  create.
+URL:https://reps.mozilla.org/e/moz-stall-angel-hack/
+SEQUENCE:1
+X-COORDINATES-LAT:19.0181359973
+X-COORDINATES-LON:72.8322172147
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

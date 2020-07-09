@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5063
+CLASS:PUBLIC
+DTSTAMP:20200407T170236Z
+DTSTART:20160128T053000Z
+DTEND:20160128T123000Z
+LOCATION:multiple venues depending on the choice of mozillians.\, Kolkata\
+ , India
+SUMMARY:Mass Privacy Campaign\, Kolkata
+DESCRIPTION:The  plan is to organize as many personal level events as poss
+ ible all at the  same time at different places to gain a broader audience 
+ all over the city state or even country..\n\nIf a single person can bring 
+ about 10 people to spread the  knowledge about this privacy campaign all a
+ t the same time we can have a huge impact.  That is each mozillian will be
+  doing 1 event.
+URL:https://reps.mozilla.org/e/mass-privacy-campaign-kolkata/
+SEQUENCE:1
+X-COORDINATES-LAT:22.4034108927
+X-COORDINATES-LON:88.4715270996
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

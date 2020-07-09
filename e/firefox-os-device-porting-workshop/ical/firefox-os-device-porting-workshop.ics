@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4726
+CLASS:PUBLIC
+DTSTAMP:20200423T162128Z
+DTSTART:20151029T170000Z
+DTEND:20151029T200000Z
+LOCATION:Mozilla London\, 101 St Martin&#39;s Ln WC2N 4AZ\, London\, United Ki
+ ngdom
+SUMMARY:Firefox OS Device Porting Workshop
+DESCRIPTION:Are you interested in porting Firefox OS to a specific device?
+  Have you ever been curious about how ports are made\, and how to put Fire
+ fox OS on an Android device? Do you want to help improve an existing devic
+ e port? Join us to learn about how device porting works\, and get help fro
+ m a few porting engineers on the Firefox OS engineering team.\n\nMore deta
+ ils at http://www.meetup.com/fr/FirefoxOS/events/226067334/
+URL:https://reps.mozilla.org/e/firefox-os-device-porting-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:51.5134154096
+X-COORDINATES-LON:-0.126520156773
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

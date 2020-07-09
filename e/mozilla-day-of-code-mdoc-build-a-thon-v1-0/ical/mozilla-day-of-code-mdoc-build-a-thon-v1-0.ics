@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3958
+CLASS:PUBLIC
+DTSTAMP:20200423T171520Z
+DTSTART:20150613T043000Z
+DTEND:20150613T163000Z
+LOCATION:Sheesha Cafe\, Jaipur\, India
+SUMMARY:Mozilla Day of Code (MDoC) Build-a-thon [v1.0]
+DESCRIPTION:Mozilla Day of Code (MDoC) is an initiative taken by Mozilla C
+ ommunity Rajasthan and is a monthly program which primarily focuses on Inn
+ ovation\, building cool new products and services and making the current M
+ ozilla products and services more better.
+URL:https://reps.mozilla.org/e/mozilla-day-of-code-mdoc-build-a-thon-v1-0/
+SEQUENCE:0
+X-COORDINATES-LAT:26.9167
+X-COORDINATES-LON:75.8167
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

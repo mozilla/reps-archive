@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1887
+CLASS:PUBLIC
+DTSTAMP:20200423T202241Z
+DTSTART:20140227T120000Z
+DTEND:20140227T130000Z
+LOCATION:Starbucks Coffee\, Hong Kong Cultural Centre\, Tsim Sha Tsui\, Ts
+ im Sha Tsui\, Hong Kong
+SUMMARY:Hacking Thursday Hong Kong (2014.02)
+DESCRIPTION:a casual meetup\, and local Mozillians will hack on translatio
+ n of unofficial Chinese Hong Kong version Firefox.
+URL:https://reps.mozilla.org/e/hacking-thursday-hong-kong-2014-02/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2938808326
+X-COORDINATES-LON:114.170369446
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

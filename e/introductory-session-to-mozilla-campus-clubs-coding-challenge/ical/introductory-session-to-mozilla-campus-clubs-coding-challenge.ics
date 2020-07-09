@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8168
+CLASS:PUBLIC
+DTSTAMP:20200423T090031Z
+DTSTART:20180929T090000Z
+DTEND:20180929T110000Z
+LOCATION:Narasus Sarathy Institute of Technology\, Salem\, India
+SUMMARY:Introductory session to Mozilla Campus Clubs coding challenge
+DESCRIPTION:By participating in this will help the Campus Club members to 
+ develop new skills\, contribute to innovative web technologies\, and be pa
+ rt of a powerful network of students and professionals.
+URL:https://reps.mozilla.org/e/introductory-session-to-mozilla-campus-club
+ s-coding-challenge/
+SEQUENCE:1
+X-COORDINATES-LAT:11.6289222193
+X-COORDINATES-LON:78.1748656556
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

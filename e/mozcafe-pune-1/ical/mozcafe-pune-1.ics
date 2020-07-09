@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@885
+CLASS:PUBLIC
+DTSTAMP:20200423T214437Z
+DTSTART:20130511T233000Z
+DTEND:20130512T013000Z
+LOCATION:Mocha\, Kore\, Pune\, India
+SUMMARY:MozCafe\, Pune
+DESCRIPTION:This event is going to a gathering of all the Mozilla Represen
+ tatives from Pune area. \n\nDue to their busy schedules and college examin
+ ations\, not much work had been done in Pune for the last 2 months. This m
+ eeting is mainly to get everyone back in track\, assign task to each indiv
+ idual\, plan for the next few months and maintain a timeline for all the t
+ asks assigned.
+URL:https://reps.mozilla.org/e/mozcafe-pune-1/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9733487861
+X-COORDINATES-LON:73.828125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

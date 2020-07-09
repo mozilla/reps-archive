@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1402
+CLASS:PUBLIC
+DTSTAMP:20200423T205412Z
+DTSTART:20131108T083000Z
+DTEND:20131108T123000Z
+LOCATION:Brac University\, Dhaka\, Bangladesh
+SUMMARY:Firefox OS App Training Day — Brac University
+DESCRIPTION:Newly formed BRACU Firefox Club is eager to start building for
+  Firefox OS. In this day long event participants will get to know Firefox 
+ OS and how to use their already acquired web development skills to build a
+ pps for it.. Mozillians will help them to create a few apps in the process
+ .
+URL:https://reps.mozilla.org/e/firefox-os-app-training-day-brac-university
+ /
+SEQUENCE:6
+X-COORDINATES-LAT:23.7806911995
+X-COORDINATES-LON:90.4043054581
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

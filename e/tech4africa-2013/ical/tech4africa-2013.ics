@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1209
+CLASS:PUBLIC
+DTSTAMP:20200423T210233Z
+DTSTART:20131009T070000Z
+DTEND:20131010T140000Z
+LOCATION:The Core\, 1st Floor South\, Cnr Kikuyu and Leeuwkop Streets\, Su
+ nninghill\, Sandton\,\, Johannesburg\, South Africa
+SUMMARY:Tech4Africa 2013
+DESCRIPTION:The premier African technology event for everyone interested i
+ n technology in Africa\n\nFirst day is for deep dive technical sessions\, 
+ hands-on workshops and subject matter sessions. The second day is for high
+ er level talks\, demo’s and inspiration\, followed by post-event party &amp;
+  drinks.
+URL:https://reps.mozilla.org/e/tech4africa-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:-25.7306325255
+X-COORDINATES-LON:28.2019042969
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

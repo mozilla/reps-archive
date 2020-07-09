@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@909
+CLASS:PUBLIC
+DTSTAMP:20200423T214401Z
+DTSTART:20130516T120000Z
+DTEND:20130616T120000Z
+LOCATION:&#34;TBD&#34;\, Warangal\, India
+SUMMARY:Summer of Web 2013
+DESCRIPTION:This is an effort to teach the Webmaking online to a large gro
+ up of people through dedicated mentors. The learners will be taught to scr
+ ipt in HTML\, CSS and JavaScript over a span on 30 - 40 days. \n\nAt the e
+ nd of it all\, we&#39;ll be having a &#34;HACK THE WEB CONTEST&#34; where many web dev
+ elopers hack the web and make their own web pages and websites.
+URL:https://reps.mozilla.org/e/summer-of-web-2013/
+SEQUENCE:4
+X-COORDINATES-LAT:15.9613290816
+X-COORDINATES-LON:75.234375
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

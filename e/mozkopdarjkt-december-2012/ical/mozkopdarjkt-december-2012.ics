@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@345
+CLASS:PUBLIC
+DTSTAMP:20200407T182701Z
+DTSTART:20121213T111500Z
+DTEND:20121213T134500Z
+LOCATION:Coffee Institute (@coffeIns)\, South Jakarta\, Indonesia
+SUMMARY:MozKopDarJKT Desember 2012
+DESCRIPTION:One of your opportunity to meet and greet with fellow Mozillia
+ ns in Jakarta. We\;re gonna share about the hype around #FirefoxOS and eve
+ rything new in Mozilla Universe :D\n\nGet early hands-on with #FirefoxOS a
+ nd their Development environment\, also learn some other Mozilla Project.
+URL:https://reps.mozilla.org/e/mozkopdarjkt-december-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.23822781013
+X-COORDINATES-LON:106.807510754
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

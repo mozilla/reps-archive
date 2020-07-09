@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@758
+CLASS:PUBLIC
+DTSTAMP:20200423T214431Z
+DTSTART:20130514T040000Z
+DTEND:20130514T080000Z
+LOCATION:TBA\, Zamboanga City\, Philippines
+SUMMARY:Mozcoffee in Zamboanga City
+DESCRIPTION:A community meetup in Zamboanga City wherein we will discuss a
+ nd do a calendar of activities for 2013 targeting schools and local commun
+ ity. The Meetup will also create a new team of localization for Chavacano.
+URL:https://reps.mozilla.org/e/mozcoffee-in-zamboanga-city/
+SEQUENCE:7
+X-COORDINATES-LAT:6.91006734159
+X-COORDINATES-LON:122.063598633
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

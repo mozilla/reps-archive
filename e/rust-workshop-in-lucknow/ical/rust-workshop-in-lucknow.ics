@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6706
+CLASS:PUBLIC
+DTSTAMP:20200407T171621Z
+DTSTART:20170618T100000Z
+DTEND:20170618T150000Z
+LOCATION:TBD\, Lucknow\, India
+SUMMARY:Rust Workshop in Lucknow
+DESCRIPTION:This is a first ever Rust workshop in Lucknow. Rust is a new s
+ ystems programming language sponsored by Mozilla. This event is to train d
+ evelopers\, students\, mozillians and budding programmers on Rust.
+URL:https://reps.mozilla.org/e/rust-workshop-in-lucknow/
+SEQUENCE:0
+X-COORDINATES-LAT:26.8256026699
+X-COORDINATES-LON:80.9666633606
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

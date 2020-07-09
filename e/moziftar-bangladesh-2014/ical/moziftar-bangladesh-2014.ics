@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2432
+CLASS:PUBLIC
+DTSTAMP:20200407T174830Z
+DTSTART:20140718T110000Z
+DTEND:20140719T130000Z
+LOCATION:TBD\, Chittagong\, Rajshahi &amp; Sylhet\, Bangladesh
+SUMMARY:MozIftar Bangladesh 2014
+DESCRIPTION:Iftar is a religious culture for Muslim society. In Bangladesh
+  it has a huge potentiality for different communities. For sharing ideas &amp;
+  discuss different issues Iftar is a great way to communicate. For last tw
+ o years we were arranging MozIftar in Dhaka &amp; Chittagong. This year we are
+  planning for arranging three event in three cities (Chittagong\, Rajshahi
+  &amp; Sylhet). All these cities has a huge number of potential Mozillians.
+URL:https://reps.mozilla.org/e/moziftar-bangladesh-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:23.8695913917
+X-COORDINATES-LON:90.3997746575
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

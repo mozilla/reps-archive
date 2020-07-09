@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6713
+CLASS:PUBLIC
+DTSTAMP:20200407T174151Z
+DTSTART:20170729T033000Z
+DTEND:20170730T113000Z
+LOCATION:Swecha Sy. No. 91\, Beside Centre for Good Governance\, Greenland
+ s colony\, &#39;X&#39;Roads\, beside Sherilingampally\, Jawaharlal Nehru Outer Rin
+ g Road\, Gachib\, Hyderabad\, India
+SUMMARY:Telugu l10n meetup - తెలుగు స్తానికీ
+ కరణ సమావేశం
+DESCRIPTION:This is the annual community meetup of telugu localizers.\nThi
+ s event will mainly focus on reviewing our work to deliver quality localis
+ ation of Firefox for Desktop and Firefox for Android and training new loca
+ lizers.\n\nFYI\, Primary planning pad is here. https://public.etherpad-moz
+ illa.org/p/tel10n
+URL:https://reps.mozilla.org/e/telugu-community-meetup-2017/
+SEQUENCE:17
+X-COORDINATES-LAT:17.4359194
+X-COORDINATES-LON:78.3604184
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

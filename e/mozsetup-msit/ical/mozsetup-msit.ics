@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3742
+CLASS:PUBLIC
+DTSTAMP:20200407T182610Z
+DTSTART:20150425T043000Z
+DTEND:20150426T113000Z
+LOCATION:Meghnad Saha Institute of Technology\, Kolkata\, Kolkata\, India
+SUMMARY:MozSetup - MSIT
+DESCRIPTION:This  is the first time we are going to organize an event at M
+ eghnad Saha Institute of Technology. It is a place of great talent and min
+ d  too. We are expecting at around 100-150px people who will be learning  
+ about Mozilla and Its Mission. There is a group of FSA&#39;s in MSIT\,and to r
+ ecruit new FSA&#39;s so that they also can work properly and also  can organiz
+ e more events in that college only.
+URL:https://reps.mozilla.org/e/mozsetup-msit/
+SEQUENCE:2
+X-COORDINATES-LAT:22.6038688429
+X-COORDINATES-LON:88.2586669922
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

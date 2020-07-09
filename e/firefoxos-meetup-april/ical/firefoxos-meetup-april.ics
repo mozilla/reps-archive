@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3727
+CLASS:PUBLIC
+DTSTAMP:20200423T173043Z
+DTSTART:20150423T160000Z
+DTEND:20150423T180000Z
+LOCATION:MediaLab Prado\, Madrid\, Spain
+SUMMARY:FirefoxOS Meetup - April
+DESCRIPTION:Monthly meeting. We talk about FirefoxOS and its new features\
+ , new technologies\, etc.
+URL:https://reps.mozilla.org/e/firefoxos-meetup-april/
+SEQUENCE:2
+X-COORDINATES-LAT:40.4105375244
+X-COORDINATES-LON:-3.69360923811
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

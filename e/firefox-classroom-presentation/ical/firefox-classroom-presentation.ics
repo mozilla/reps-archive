@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5799
+CLASS:PUBLIC
+DTSTAMP:20200423T150023Z
+DTSTART:20160903T030000Z
+DTEND:20160903T040000Z
+LOCATION:Xinjiang University Software Park\, Urumqi\, China
+SUMMARY:Firefox classroom presentation
+DESCRIPTION:狐天山行 -计算机公益课堂是我们的主要服务与
+ 产品，其中包括三个部分的内容：\n1、为我们的孩子大
+ 声读出来项目：\n活动内容主要是依托我们自主开发的双
+ 福语音浏览器及爱妮少儿英语网站平台帮助学生学习汉
+ 语，英语，维语\n2、Web maker 少年创客训练营项目：\n活
+ 动内容除语音学习之外，另外增加了网页设计 ，软件编
+ 程，手机APP开发等\n3、火狐双语教学平台\n 火狐双语教
+ 学平台：这是我们今年即将推出的一个新作品：\n新疆是
+ 一个多民族地区，自治区政府也非常重视双语教学这一
+ 部分的发展，我们开发了这样一个平台，就是想为我区
+ 各组人民提供一个免费的，开源的双语教学平台，目前
+ 正在进行测试和优化
+URL:https://reps.mozilla.org/e/firefox-classroom-presentation/
+SEQUENCE:3
+X-COORDINATES-LAT:43.8039048335
+X-COORDINATES-LON:2607.59331965
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

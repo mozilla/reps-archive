@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2283
+CLASS:PUBLIC
+DTSTAMP:20200407T181611Z
+DTSTART:20140625T090000Z
+DTEND:20140625T110000Z
+LOCATION:TBD\, Amman\, Jordan
+SUMMARY:Fire-Zilla Day
+DESCRIPTION:Our main objective from this event\, is to inform &amp; educate st
+ udents\, professors\, &amp; normal users\, of Mozilla’s today’s most used\
+ , widely spread\, &amp; new technologies
+URL:https://reps.mozilla.org/e/fire-zilla-day/
+SEQUENCE:3
+X-COORDINATES-LAT:31.9471128188
+X-COORDINATES-LON:35.9002076089
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

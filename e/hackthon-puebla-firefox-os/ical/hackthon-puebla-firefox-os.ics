@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1268
+CLASS:PUBLIC
+DTSTAMP:20200423T210739Z
+DTSTART:20130921T140000Z
+DTEND:20130922T010000Z
+LOCATION:Instituto Tecnológico de Puebla\, Puebla\, Mexico
+SUMMARY:Hackthon Puebla Firefox OS
+DESCRIPTION:The goal of the App Day is to introduce Firefox OS and Firefox
+  Marketplace\, and share knowledge about the tools available to help devel
+ opers get started building apps to submit to the Marketplace. Learn\, Hack
+  and Celebrate the Firefox OS\, Mozilla&#39;s open source operating system for
+  the mobile web The event will be held at the Instituto Tecnologico de Pue
+ bla.\n\nThe hackathon Firefox OS is developed during the Software Freedom 
+ Day event
+URL:https://reps.mozilla.org/e/hackthon-puebla-firefox-os/
+SEQUENCE:3
+X-COORDINATES-LAT:19.0685671294
+X-COORDINATES-LON:-98.1682062149
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

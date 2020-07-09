@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3826
+CLASS:PUBLIC
+DTSTAMP:20200423T172727Z
+DTSTART:20150504T000000Z
+DTEND:20150511T000000Z
+LOCATION:Dakar\, Dakar\, Senegal
+SUMMARY:Mozilla Participation Experiments in Senegal
+DESCRIPTION:Staff members from MoCo and MoFo will be spending a week in Da
+ kar\, Senegal to meet with universities\, tech hubs\, incubators and minis
+ tries to explore new experimental approached to community building. The su
+ mmary can be found here: https://docs.google.com/document/d/19Vd6qFByYVeMP
+ FuOnUpkmh1kI-gNvT7K7bHXS5TQM6Q/edit
+URL:https://reps.mozilla.org/e/mozilla-tour-in-senegal/
+SEQUENCE:1
+X-COORDINATES-LAT:14.7102626114
+X-COORDINATES-LON:-17.4583395
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

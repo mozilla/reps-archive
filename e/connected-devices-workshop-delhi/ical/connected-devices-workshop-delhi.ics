@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6247
+CLASS:PUBLIC
+DTSTAMP:20200423T113004Z
+DTSTART:20170211T063000Z
+DTEND:20170211T103000Z
+LOCATION:PDM College of Engineering\, New Delhi\, India
+SUMMARY:Connected Devices Workshop\, Delhi
+DESCRIPTION:The event will focus on introducing the participants to the ba
+ sics of Arduino and how they can use the development board\n    to build s
+ mart experiences. \n        \n    At the end of the workshop\, we expect t
+ he participants to go out with a basic knowledge of the development board\
+ n    and interfacing with the other extension peripherals
+URL:https://reps.mozilla.org/e/connected-devices-workshop-delhi/
+SEQUENCE:2
+X-COORDINATES-LAT:28.5837178296
+X-COORDINATES-LON:77.1837159991
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

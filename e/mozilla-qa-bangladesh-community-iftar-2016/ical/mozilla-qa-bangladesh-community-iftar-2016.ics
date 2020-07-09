@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5535
+CLASS:PUBLIC
+DTSTAMP:20200407T180518Z
+DTSTART:20160617T100000Z
+DTEND:20160617T140000Z
+LOCATION:Food Buzz\, Banasree\, Bangladesh
+SUMMARY:Mozilla QA Bangladesh Community Iftar 2016
+DESCRIPTION:Iftar is an holy month for Muslim people as we break our fasti
+ ng after a whole day. This event is aimed to meet together and celebrate I
+ ftar and brainstorm what we want to achieve in future!
+URL:https://reps.mozilla.org/e/mozilla-qa-bangladesh-community-iftar-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

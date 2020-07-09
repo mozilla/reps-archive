@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1404
+CLASS:PUBLIC
+DTSTAMP:20200423T205322Z
+DTSTART:20131109T090000Z
+DTEND:20131110T160000Z
+LOCATION:Microsoft India Development Center\, ISB Road\, Hyderabad\, India
+SUMMARY:AngelHack Hyderabad 2013
+DESCRIPTION:AngelHack is a premier developer marketing agency\, which offe
+ rs comprehensive marketing programs to enhance existing corporate initiati
+ ves around developer relations\, developer marketing\, startup outreach\, 
+ and the creation of developer ecosystems. Specialized in hackathons and in
+ novation events\, they have thrown over 100 events in 35 cities operating 
+ in 25 countries. The flagship event is our Global Hackathon competition\, 
+ bringing together 10\,000+ developers each time.
+URL:https://reps.mozilla.org/e/angelhack-hyderabad-2013/
+SEQUENCE:5
+X-COORDINATES-LAT:17.4135461144
+X-COORDINATES-LON:78.5083007812
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

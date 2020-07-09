@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1752
+CLASS:PUBLIC
+DTSTAMP:20200423T201920Z
+DTSTART:20140308T050000Z
+DTEND:20140308T090000Z
+LOCATION:Pamantasan ng Cabuyao\, Cabuyao\, Philippines
+SUMMARY:MozTour  in Pamantasan ng Cabuyao
+DESCRIPTION:The Mozilla Philippines Community will be holding a MozTour in
+  the University\, there would be a discussion about how the community star
+ ted in the country and will introduce to them the Mozilla Products\, Proje
+ cts and Tools\,
+URL:https://reps.mozilla.org/e/moztour-in-pamantasan-ng-cabuyao/
+SEQUENCE:4
+X-COORDINATES-LAT:14.2598798178
+X-COORDINATES-LON:121.13370502
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

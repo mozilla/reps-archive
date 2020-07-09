@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3592
+CLASS:PUBLIC
+DTSTAMP:20200407T174542Z
+DTSTART:20150303T180000Z
+DTEND:20150303T213000Z
+LOCATION:16\, bis boulevard Montmartre\, Paris\, France
+SUMMARY:Tuppervim #0x22
+DESCRIPTION:Sharing VIM tips and other useful tools (enlarge your producti
+ vity!).\n\nEnhance VIM for Web development (codename = vimoz) : syntactic 
+ color\, HTML5/CSS3/JS\, omni-complétion DOM\, etc.\n\nHave a nice time wi
+ th other nerds\n\nHow ? The idea is to remain informal and spontaneous\, t
+ he objective being (ideally) that everyone goes home with two or three tip
+ s that he or she can use within the next month.
+URL:https://reps.mozilla.org/e/tuppervim-0x22/
+SEQUENCE:2
+X-COORDINATES-LAT:48.8721381272
+X-COORDINATES-LON:2.34128692744
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

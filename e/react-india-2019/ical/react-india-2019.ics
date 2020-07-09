@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8704
+CLASS:PUBLIC
+DTSTAMP:20200423T081013Z
+DTSTART:20190926T033000Z
+DTEND:20190928T113000Z
+LOCATION:Planet Hollywood Beach Resort\, Salcete\, India
+SUMMARY:React India 2019
+DESCRIPTION:React India is an international community-led non-profit initi
+ ative that provides a platform for developers to share and discuss their i
+ nsights and experiences with React. The three-day conference is the first 
+ of its kind in India.
+URL:https://reps.mozilla.org/e/react-india-2019/
+SEQUENCE:3
+X-COORDINATES-LAT:15.3131061413
+X-COORDINATES-LON:73.9265441336
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

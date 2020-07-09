@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6135
+CLASS:PUBLIC
+DTSTAMP:20200423T114126Z
+DTSTART:20161211T043000Z
+DTEND:20161211T063000Z
+LOCATION:MCR - Community House\, Jaipur\, India
+SUMMARY:Mozactivate MCR - PreEvent Volunteer Training
+DESCRIPTION:This is a Pre-Event volunteer training for Mozactivate events 
+ by the community to ensure proper contribution and mentorship.
+URL:https://reps.mozilla.org/e/mozactivate-mcr-preevent-volunteer-training
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:26.8894131763
+X-COORDINATES-LON:75.8781735599
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

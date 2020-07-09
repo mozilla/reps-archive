@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7746
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20181025T053000Z
+DTEND:20181025T080000Z
+LOCATION:FAREI\, Wooton\, Mauritius
+SUMMARY:Mozilla meeting Women in Science
+DESCRIPTION:This is an introduction of Mozilla to a group of women belongi
+ ng to the science community. This introduction consists of a meeting with 
+ main collaborators and a presentation of Mozilla and its Mission. The main
+  objective behind this initiative is to invite women to get involved in Mo
+ zilla mission and also to contribute to the open web\, thereby empowering 
+ them to the Internet technologies.
+URL:https://reps.mozilla.org/e/mozilla-meeting-women-in-science/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.3163503006
+X-COORDINATES-LON:57.5407790998
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

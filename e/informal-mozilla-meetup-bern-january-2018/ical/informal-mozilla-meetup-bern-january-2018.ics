@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7412
+CLASS:PUBLIC
+DTSTAMP:20200423T095915Z
+DTSTART:20180214T180000Z
+DTEND:20180214T210000Z
+LOCATION:Restaurant Pangäa\, Schwanengasse 8\, Bern\, Switzerland
+SUMMARY:Informal Mozilla Meetup Bern - February 2018
+DESCRIPTION:Informal meetup of Mozillians in Switzerland. This means we wi
+ ll go for dinner (not sponsored) and have informal discussions\, no offici
+ al talk will be presented. As we need to reserve a table\, please tell Mic
+ hael if you want to attend so he can extend the reservation. Everyone welc
+ ome!
+URL:https://reps.mozilla.org/e/informal-mozilla-meetup-bern-january-2018/
+SEQUENCE:3
+X-COORDINATES-LAT:46.9467770712
+X-COORDINATES-LON:7.43884938951
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

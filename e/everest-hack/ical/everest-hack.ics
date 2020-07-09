@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8672
+CLASS:PUBLIC
+DTSTAMP:20200407T170239Z
+DTSTART:20190719T043000Z
+DTEND:20190721T123000Z
+LOCATION:NAMI College\, Kathmandu\, Nepal
+SUMMARY:Everest Hack
+DESCRIPTION:Everest Hack is a focused 24-hour event where students\, desig
+ ner\, entrepreneurs\, programmers\, and problem solver come together in sm
+ all teams to share ideas and build something new and exciting\, alongside 
+ a whole bunch of like-minded people.
+URL:https://reps.mozilla.org/e/everest-hack/
+SEQUENCE:2
+X-COORDINATES-LAT:27.5634752212
+X-COORDINATES-LON:85.4047858715
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

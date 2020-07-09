@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4414
+CLASS:PUBLIC
+DTSTAMP:20200423T163415Z
+DTSTART:20151001T060000Z
+DTEND:20151004T160000Z
+LOCATION:Swami Vivekananda  International Convention Centre (SVICC)\, Pail
+ les\, Mauritius
+SUMMARY:Mozilla at Infotech 2015 Mauritius
+DESCRIPTION:INFOTECH is the major  annual Information and Communication Te
+ chnology (ICT- http://www.infotech.mu) event organised in  Mauritius by th
+ e National Computer Board (NCB)\, operating under the  aegis of the Minist
+ ry of Technology\,Communication and Innovation. The  aim is to create awar
+ eness on emerging technologies and provide business  opportunities in the 
+ ICT sector.
+URL:https://reps.mozilla.org/e/mozilla-at-infotech-2015-mauritius/
+SEQUENCE:3
+X-COORDINATES-LAT:-20.19463347
+X-COORDINATES-LON:57.490410803
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

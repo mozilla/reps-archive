@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2500
+CLASS:PUBLIC
+DTSTAMP:20200407T174551Z
+DTSTART:20140708T160000Z
+DTEND:20140708T210000Z
+LOCATION:Mozilla Space\, 16 bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Meetup Ocaml d&#39;été by the OUPS
+DESCRIPTION:Let&#39;s talk and share about Ocaml a functional programming lang
+ uage!\n\nThe OUPS is the Ocaml user-group of Paris\n\nThis time 5 speakers
+  are invited.
+URL:https://reps.mozilla.org/e/meetup-ocaml-dete/
+SEQUENCE:4
+X-COORDINATES-LAT:48.8719581637
+X-COORDINATES-LON:2.34118120373
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@38
+CLASS:PUBLIC
+DTSTAMP:20200423T230305Z
+DTSTART:20120915T000000Z
+DTEND:20120915T090000Z
+LOCATION:University of San Carlos\, Cebu City\, Philippines
+SUMMARY:Software Freedom Day Cebu 2012
+DESCRIPTION:Celebration of Software Freedom Day (SFD) 2012 at Cebu (south 
+ of Metro Manila). 
+URL:https://reps.mozilla.org/e/software-freedom-day-cebu-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:10.3564838663
+X-COORDINATES-LON:123.913700581
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

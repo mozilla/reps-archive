@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3760
+CLASS:PUBLIC
+DTSTAMP:20200423T172424Z
+DTSTART:20150515T030000Z
+DTEND:20150515T120000Z
+LOCATION:University of Liberal Arts\, Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:QA Contributor Mentoring Day
+DESCRIPTION:QA Contributor Mentoring Day an event to encourage people to c
+ ontribute in QA and help them to start their journey with QA. They will le
+ arn to contribute in QA and get hand on mentoring while contributing.
+URL:https://reps.mozilla.org/e/qa-contributor-mentoring-day/
+SEQUENCE:8
+X-COORDINATES-LAT:23.7453942439
+X-COORDINATES-LON:90.394576625
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

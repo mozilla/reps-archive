@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@515
+CLASS:PUBLIC
+DTSTAMP:20200407T175124Z
+DTSTART:20130316T000000Z
+DTEND:20130316T090000Z
+LOCATION:Elearning Centre Inc.\, Zamboanga City\, Philippines
+SUMMARY:Zamboanga City goes Mobile - Open Source Style
+DESCRIPTION:After the success event of Firefox OS in Manila\, A community 
+ meetup was organized in Zamboanga City with the expected participants of 1
+ 00-150 and at the same time will introduce Mozilla Firefox OS to the parti
+ cipants. Event theme : Revolves HTML5\, Firefox for Android\, Webapps\, &amp; 
+ FirefoxOS.
+URL:https://reps.mozilla.org/e/zamboanga-city-goes-mobile-open-source-styl
+ e/
+SEQUENCE:0
+X-COORDINATES-LAT:6.90662708705
+X-COORDINATES-LON:122.077867985
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

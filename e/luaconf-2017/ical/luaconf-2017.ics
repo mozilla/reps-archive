@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6595
+CLASS:PUBLIC
+DTSTAMP:20200407T174359Z
+DTSTART:20170603T110000Z
+DTEND:20170603T230000Z
+LOCATION:PUC Rio\, Rio de Janeiro\, Brazil
+SUMMARY:LuaConf 2017
+DESCRIPTION:LuaConf is a one-day single-track international conference foc
+ used on the Lua programming language. Even though Lua was created in Brazi
+ l\, since 2010 the Lua workshop has been held in foreign countries. It is 
+ time a local conference is held and\, for this reason\, LuaConf was create
+ d.
+URL:https://reps.mozilla.org/e/luaconf-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.8808142596
+X-COORDINATES-LON:-43.3901381493
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

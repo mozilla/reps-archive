@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3172
+CLASS:PUBLIC
+DTSTAMP:20200407T174925Z
+DTSTART:20141128T170000Z
+DTEND:20141128T200000Z
+LOCATION:Berlin Mozilla Office\, Berlin\, Germany
+SUMMARY:OpenXLab Berlin
+DESCRIPTION:The first OpenXLab meetup at Mozilla Berlin about Open Hardwar
+ e\, the Internet of Things and Open Tech startups. We have exciting speake
+ rs including Lorenzo Pirritano\, Prashanth Makaram (from Fabulyzer) and La
+ risa Kryuchkova (UVIZR). You are invited to a reception with beverages and
+  snacks after the presentations.\n\nThe idea behind OpenXLab is to build f
+ uture labs where people from various backgrounds can experiment\, create n
+ ew things and develop open hardware for the Internet of things.
+URL:https://reps.mozilla.org/e/openxlab-berlin/
+SEQUENCE:2
+X-COORDINATES-LAT:52.5125993732
+X-COORDINATES-LON:13.4128418192
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

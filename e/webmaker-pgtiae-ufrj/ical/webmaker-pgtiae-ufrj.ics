@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@688
+CLASS:PUBLIC
+DTSTAMP:20200423T215357Z
+DTSTART:20130412T160000Z
+DTEND:20130412T210000Z
+LOCATION:NCE/UFRJ\, Rio de Janeiro\, Brazil
+SUMMARY:Mozilla Webmaker - Do something amazing with the web - PGTIAE/UFRJ
+  
+DESCRIPTION:In that Class/Event will cover the tools and technologies avai
+ lable for creating classes/lectures and Web-based content with educational
+  purposes.\nIn addition to lectures regarding the tools Popcorn Maker\, Th
+ imble and X-ray Goggles we will develop practical activities and brainstor
+ m about planning and implementing activities with these technologies in th
+ e classroom.\n
+URL:https://reps.mozilla.org/e/webmaker-pgtiae-ufrj/
+SEQUENCE:5
+X-COORDINATES-LAT:-22.858312
+X-COORDINATES-LON:-43.232427
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

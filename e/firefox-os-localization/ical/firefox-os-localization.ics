@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3411
+CLASS:PUBLIC
+DTSTAMP:20200407T175312Z
+DTSTART:20150321T080000Z
+DTEND:20150322T080000Z
+LOCATION:University of Ibadan\,Oyo state.Nigeria\, Ibadan\, Nigeria
+SUMMARY:Nigeria  FirefoxOS L10n Sprint 2015
+DESCRIPTION:Localization of the Firefox OS in the three Nigerian Languages
+ :Yoruba\,Hausa and Igbo
+URL:https://reps.mozilla.org/e/firefox-os-localization/
+SEQUENCE:6
+X-COORDINATES-LAT:7.3777847327
+X-COORDINATES-LON:3.908172
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

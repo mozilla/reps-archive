@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@428
+CLASS:PUBLIC
+DTSTAMP:20200423T224411Z
+DTSTART:20121124T140000Z
+DTEND:20121124T200000Z
+LOCATION:Centro de Innovación Emprendimiento de Los Olivos\, Los Olivos\,
+  Lima\, Peru
+SUMMARY:II FESLEDU
+DESCRIPTION:ENGLISH: FESLEDU in an annual event where it teaches about fre
+ e software and their benefits applied to education\, web and day-to-day si
+ tuations to a public related with education: teachers\, students and paren
+ ts.\n\nESPAÑOL: FESLEDU es un evento anual en donde se enseña acerca del
+  Software Libre y sus beneficios\, aplicados tanto en la educación\, web 
+ o situaciones cotidianas hacia un público relacionado con la educación: 
+ docentes\, estudiantes y padres de familia.
+URL:https://reps.mozilla.org/e/ii-fesledu/
+SEQUENCE:0
+X-COORDINATES-LAT:-12.0004732142
+X-COORDINATES-LON:-77.0833611488
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

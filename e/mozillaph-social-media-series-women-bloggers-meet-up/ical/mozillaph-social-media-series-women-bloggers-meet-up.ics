@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1845
+CLASS:PUBLIC
+DTSTAMP:20200407T173810Z
+DTSTART:20140322T050000Z
+DTEND:20140322T090000Z
+LOCATION:Palet Express\, Molave Building 2231 Chino Roces Ave.\, Makati\, 
+ Philippines
+SUMMARY:MozillaPH Social Media Series: Women in Social Media
+DESCRIPTION:In celebration of the women&#39;s month\, the Mozilla PH Community
+  dedicates the second installment of the MozillaPH Social Media Series to 
+ current women and aspiring women bloggers from all the fields on interest.
+ \n\nIn this small meet-up we aim to get to know ladies who are into social
+  media to share tips and tools that can help in their hobby/profession. We
+  also aim to introduce Mozilla&#39;s efforts on women empowerment and other ac
+ tivities women can contribute to in the Mozilla PH community.
+URL:https://reps.mozilla.org/e/mozillaph-social-media-series-women-blogger
+ s-meet-up/
+SEQUENCE:8
+X-COORDINATES-LAT:14.5457638496
+X-COORDINATES-LON:121.01525867
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

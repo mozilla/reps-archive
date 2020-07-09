@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3409
+CLASS:PUBLIC
+DTSTAMP:20200407T174849Z
+DTSTART:20150226T080000Z
+DTEND:20150226T150000Z
+LOCATION:University of Chlef\, Chlef\, ALGERIA\, Ouled Fares\, Algeria
+SUMMARY:Mozilla Day
+DESCRIPTION:Mozilla day will be held at the University of Chlef\, ALGERIA 
+ \,it is a one day event\, where we will be speaking about mozilla&#39;s missio
+ n\, products different programs\, and how can people contribute to mozilla
+  and create their own FSA Clubs\, and communities\nwe will introduce Firef
+ ox OS to the Algerian community\, so it will be the first event talking ab
+ out Firefox OS\, applicaitons developement and contribution.
+URL:https://reps.mozilla.org/e/mozilla-day/
+SEQUENCE:18
+X-COORDINATES-LAT:36.2240517534
+X-COORDINATES-LON:1.24331188184
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

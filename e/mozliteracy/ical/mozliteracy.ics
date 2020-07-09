@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3085
+CLASS:PUBLIC
+DTSTAMP:20200407T174946Z
+DTSTART:20150117T033000Z
+DTEND:20150117T113000Z
+LOCATION:Manav Rachna International University\, Faridabad\, India
+SUMMARY:Mozliteracy
+DESCRIPTION:This event would be based on the the introduction of different
+  Projects of Mozilla to people. Also a talk on Firefox OS would be given.T
+ he whole Agenda of the Event would be:-\n 1) Introducing WebMaker Project.
+  \n 2)AppMaker in 60 mins using Appmaker tool \n 3)Localization Project an
+ d how to Contribute\n.4) Firefox Student Ambassador recruitment. \n5) WoMo
+ z Recruitment \n 6) Firefox OS Introduction. \n7)Mozilla Developer Network
+URL:https://reps.mozilla.org/e/mozliteracy/
+SEQUENCE:6
+X-COORDINATES-LAT:28.8414660728
+X-COORDINATES-LON:76.7871084809
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

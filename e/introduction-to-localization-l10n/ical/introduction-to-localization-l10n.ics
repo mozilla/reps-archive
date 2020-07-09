@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5997
+CLASS:PUBLIC
+DTSTAMP:20200423T115122Z
+DTSTART:20161022T060000Z
+DTEND:20161022T073000Z
+LOCATION:Bob&#39;s Coffee\, Bacolod City\, Philippines
+SUMMARY:Introduction to Localization (L10n)
+DESCRIPTION:Localization Translation event initiative for Mozilla Firefox 
+ browser and introduction to &#34;Pontoon&#34;.
+URL:https://reps.mozilla.org/e/introduction-to-localization-l10n/
+SEQUENCE:1
+X-COORDINATES-LAT:10.6734006589
+X-COORDINATES-LON:122.94818115
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

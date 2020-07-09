@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2713
+CLASS:PUBLIC
+DTSTAMP:20200423T190405Z
+DTSTART:20140909T160000Z
+DTEND:20140909T190000Z
+LOCATION:TBD\, Budapest\, Hungary
+SUMMARY:Open Source Budapest - FirefoxOS special
+DESCRIPTION:Mozilla always has marked presence on the Open Source Budapest
+  meetups - this September we are organizing a &#34;Firefox OS Special&#34; meetup\
+ , with presentations about all the different aspects (end user facing\, de
+ veloper-related and community contributions) of Firefox OS.
+URL:https://reps.mozilla.org/e/open-source-budapest-firefoxos-special/
+SEQUENCE:7
+X-COORDINATES-LAT:47.4859044427
+X-COORDINATES-LON:19.015869163
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

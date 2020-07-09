@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4740
+CLASS:PUBLIC
+DTSTAMP:20200423T162026Z
+DTSTART:20151031T060000Z
+DTEND:20151031T113000Z
+LOCATION:Cummins College of Engineering for Women\, Pune\, Pune\, India
+SUMMARY:Freshmen Orientation
+DESCRIPTION:This event is to brief the first year engineering students abo
+ ut the different contribution pathways as beginners and demos for wach one
+  of them.
+URL:https://reps.mozilla.org/e/freshman-orientation/
+SEQUENCE:10
+X-COORDINATES-LAT:18.5101710304
+X-COORDINATES-LON:73.8859862834
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

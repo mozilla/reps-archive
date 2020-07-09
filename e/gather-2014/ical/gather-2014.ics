@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2417
+CLASS:PUBLIC
+DTSTAMP:20200407T183632Z
+DTSTART:20140711T200000Z
+DTEND:20140712T063000Z
+LOCATION:Ormiston Senior College (OSC)\, Papatoetoe\, New Zealand
+SUMMARY:Gather 2014
+DESCRIPTION:Gather is the digital\, technical and creative community’s b
+ ig day out. It’s an event designed to facilitate collaboration and allow
+  people to learn and share their latest designs\, works-in-progress\, tech
+  toys\, and side projects with other like-minded\, awesome people.
+URL:https://reps.mozilla.org/e/gather-2014/
+SEQUENCE:5
+X-COORDINATES-LAT:-36.9675551864
+X-COORDINATES-LON:174.917906283
+X-COUNTRY-CODE:nz
+END:VEVENT
+
+END:VCALENDAR

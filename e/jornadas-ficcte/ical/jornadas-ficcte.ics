@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@239
+CLASS:PUBLIC
+DTSTAMP:20200407T182836Z
+DTSTART:20121017T000000Z
+DTEND:20121017T010000Z
+LOCATION:Universidad de Morón\, Morón\, Argentina
+SUMMARY:Jornadas FICCTE
+DESCRIPTION:Technology event.\n\nI am going to be talking about B2G and ho
+ w to install and hack it
+URL:https://reps.mozilla.org/e/jornadas-ficcte/
+SEQUENCE:0
+X-COORDINATES-LAT:-36.5978891331
+X-COORDINATES-LON:-58.359375
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

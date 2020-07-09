@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4440
+CLASS:PUBLIC
+DTSTAMP:20200407T182116Z
+DTSTART:20151204T140000Z
+DTEND:20151206T100000Z
+LOCATION:Oaxaca\, Oaxaca\, Oaxaca de Juarez\, Mexico
+SUMMARY:Mozilla Localization Hackathon in México
+DESCRIPTION:Localizers for the indigenuos languages of the México will be
+  meeting together to localize projects together\, meet with localization d
+ rivers\, and discuss the use of Firefox and other Mozilla projects in thei
+ r local languages. At this hackathon\, active Mozillians working on l10n w
+ ill receive training on the latest projects within those functional areas 
+ plus community growth within both l10n. For all details about this event\,
+  please see the etherpad.
+URL:https://reps.mozilla.org/e/mozilla-localization-hackathon-in-mexico/
+SEQUENCE:2
+X-COORDINATES-LAT:17.0588564969
+X-COORDINATES-LON:-96.7250651121
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6053
+CLASS:PUBLIC
+DTSTAMP:20200423T114558Z
+DTSTART:20161115T120000Z
+DTEND:20161115T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Hipster Tech Meeting
+DESCRIPTION:In this event\, we&#39;ll talk about front end development with El
+ m\, and back end development with Rust.
+URL:https://reps.mozilla.org/e/hipster-tech-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.05864523767
+X-COORDINATES-LON:110.5052948
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

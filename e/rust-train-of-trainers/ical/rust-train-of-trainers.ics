@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8071
+CLASS:PUBLIC
+DTSTAMP:20200423T085608Z
+DTSTART:20181025T140000Z
+DTEND:20181027T230000Z
+LOCATION:Rokode @ WeWork Reforma Latino\, Mexico City\, Mexico
+SUMMARY:Rust - Train of Trainers
+DESCRIPTION:The Rust - Train of Trainers is a series of talks and workshop
+ s about Rust that aims more developers know the language and get familiar 
+ with the way of developing projects with it. After the event\, attendees a
+ re commited to train others by organizing events following the format of t
+ he training or their own ideas. This event pretends to increase the partic
+ ipation in the Rust community and adoption of the language.
+URL:https://reps.mozilla.org/e/rust-train-of-trainers/
+SEQUENCE:4
+X-COORDINATES-LAT:19.427367
+X-COORDINATES-LON:-99.1674096
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

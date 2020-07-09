@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8258
+CLASS:PUBLIC
+DTSTAMP:20200423T085204Z
+DTSTART:20181115T070000Z
+DTEND:20181115T113000Z
+LOCATION:India Habitat Centre\, New Delhi\, India
+SUMMARY:Discussion on Privacy and Security of IoT devices
+DESCRIPTION:MediaNama in collaboration Internet Society Asia-Pacific is ho
+ sting a discussion on Privacy and Security of IoT Devices.\n\nAt this disc
+ ussion\, we will look at issues around disclosures\, consent\, data protec
+ tion\, security of data collection\, transfer and storage\, patching of vu
+ lnerabilities\, notifications\, encryption\, dealing with vulnerabilities\
+ , dealing with the transfer of ownership of device etc.
+URL:https://reps.mozilla.org/e/discussion-on-privacy-and-security-of-iot-d
+ evices/
+SEQUENCE:2
+X-COORDINATES-LAT:28.6414726705
+X-COORDINATES-LON:77.2469043697
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

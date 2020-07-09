@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@653
+CLASS:PUBLIC
+DTSTAMP:20200423T215746Z
+DTSTART:20130331T150000Z
+DTEND:20130331T230000Z
+LOCATION:Park Kennedy\, Miraflores\, Peru
+SUMMARY:Anniversary of Mozilla
+DESCRIPTION:is the birthday of the Mozilla community. Let the Miraflores P
+ ark to celebrate with the locals. Let&#39;s take pictures with people\, handin
+ g out swag and talk about Mozilla.\n\nThat this event coincides with our &#34;
+ MozillaHispano Work Week&#34;\, so will be stay a lot of mozillians in Peru.
+URL:https://reps.mozilla.org/e/aniversario-mozilla/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.1207432127
+X-COORDINATES-LON:-77.0293736458
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

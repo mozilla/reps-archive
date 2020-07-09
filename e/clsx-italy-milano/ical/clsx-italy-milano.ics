@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6467
+CLASS:PUBLIC
+DTSTAMP:20200423T111117Z
+DTSTART:20170506T070000Z
+DTEND:20170506T180000Z
+LOCATION:Via Arcivescovo Calabiana\, 6\, Milan\, Italy
+SUMMARY:CLSX Italy 2017 - Milano
+DESCRIPTION:The Community Leadership Summit X Italy (CLSxItaly) is an even
+ t for all the community leader\, organizer\, curious people about the expe
+ rience in management of a community.
+URL:https://reps.mozilla.org/e/clsx-italy-milano/
+SEQUENCE:4
+X-COORDINATES-LAT:45.4646895092
+X-COORDINATES-LON:9.18848705274
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

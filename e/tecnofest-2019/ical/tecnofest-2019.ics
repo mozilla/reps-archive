@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8925
+CLASS:PUBLIC
+DTSTAMP:20200407T170336Z
+DTSTART:20191115T130000Z
+DTEND:20191116T230000Z
+LOCATION:Centro Administrativo Municipal (CAM) Avenida 2 Norte #10 - 70. C
+ ali - Valle del Cauca - Colombia.\, Cali\, Colombia
+SUMMARY:Tecnofest 2019
+DESCRIPTION:Tecnofest 2019\, a meeting place for lovers of digital technol
+ ogy\, strengthening the culture of innovation in the city and consolidatin
+ g the Cali Digital Innovation Ecosystem.\nTecnofest 2019\, un espacio de e
+ ncuentro para los enamorados de la tecnología digital\, fortaleciendo la 
+ cultura de la innovación en la ciudad y consolidando el Ecosistema de Inn
+ ovación Digital caleño.
+URL:https://reps.mozilla.org/e/tecnofest-2019/
+SEQUENCE:0
+X-COORDINATES-LAT:3.263690792
+X-COORDINATES-LON:-76.7888488993
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

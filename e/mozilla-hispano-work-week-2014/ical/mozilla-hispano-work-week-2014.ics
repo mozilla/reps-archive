@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1835
+CLASS:PUBLIC
+DTSTAMP:20200407T175504Z
+DTSTART:20140417T100000Z
+DTEND:20140419T140000Z
+LOCATION:Hotel Tryp Ambassador\, Madrid\, Spain
+SUMMARY:Mozilla Hispano Work Week 2014
+DESCRIPTION:A meeting for the Mozilla Hispano community\, to reinforce our
+  relationships inside the community\, and to improve our work. We will dis
+ cuss about all the areas inside Mozilla Hispano (labs\, l10n\, news\, even
+ ts\, support).
+URL:https://reps.mozilla.org/e/mozilla-hispano-work-week-2014/
+SEQUENCE:5
+X-COORDINATES-LAT:40.4193664253
+X-COORDINATES-LON:-3.70182037703
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

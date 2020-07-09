@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3501
+CLASS:PUBLIC
+DTSTAMP:20200407T174256Z
+DTSTART:20150307T090000Z
+DTEND:20150307T170000Z
+LOCATION:Maseno University\, Kisumu\, Kenya
+SUMMARY:Firefox OS Day at Maseno University
+DESCRIPTION:The event is focused on introducing Firefox OS Mobile App deve
+ lopment as well as to teach FSAs how to develop apps for Firefox OS and to
+  showcase the Geeks Phone.
+URL:https://reps.mozilla.org/e/firefox-os-day-at-maseno-university/
+SEQUENCE:1
+X-COORDINATES-LAT:-0.103830026365
+X-COORDINATES-LON:34.743576
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

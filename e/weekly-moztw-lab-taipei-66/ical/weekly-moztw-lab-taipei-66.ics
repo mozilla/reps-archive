@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3769
+CLASS:PUBLIC
+DTSTAMP:20200423T171950Z
+DTSTART:20150529T110000Z
+DTEND:20150529T140000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Da-an District\, Ta
+ iwan
+SUMMARY:Weekly MozTW Lab with Japan Mozillians\, Taipei
+DESCRIPTION:A weekly MozCafe in Taipei. We do event planning\, l10n\, Fire
+ fox OS testing\, webpage of moztw.org\, and endless chatting on Mozilla-re
+ lated topics.  Anyone can bring his own works/tasks/fun to attend this eve
+ nt and sharing.\n\nThis week we had 5 Japanese Mozillians visited Mozilla 
+ Community Space Taipei and gave lighting talk about Mozilla Factory and Mo
+ zOpenHard.
+URL:https://reps.mozilla.org/e/weekly-moztw-lab-taipei-66/
+SEQUENCE:4
+X-COORDINATES-LAT:25.0439959711
+X-COORDINATES-LON:121.53231883
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

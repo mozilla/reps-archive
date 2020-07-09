@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2122
+CLASS:PUBLIC
+DTSTAMP:20200407T182553Z
+DTSTART:20140412T123000Z
+DTEND:20140412T153000Z
+LOCATION:SMU Kumasi Campus\, Kumasi\, Ghana
+SUMMARY:MozGhana Community Meetup
+DESCRIPTION:Waiting period is over Folks!!\nIn this second  Mozilla Ghana 
+ Community meet-up  we are going to do following activity :-\n1. Recruitmen
+ t of New Mozillians \n2. Introduction to Firefox Student Ambassador (FSA) 
+ \n3. Foundation of most awaited  two new Firefox Clubs \n	a. SMU Kumasi Fi
+ refox Club\n	b. KNUST Firefox Club\n4. Next 3 months Strategic event plann
+ ing
+URL:https://reps.mozilla.org/e/mozghana-community-meetup/
+SEQUENCE:5
+X-COORDINATES-LAT:6.6871401
+X-COORDINATES-LON:-1.6037377
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

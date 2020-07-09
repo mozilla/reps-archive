@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8301
+CLASS:PUBLIC
+DTSTAMP:20200407T174121Z
+DTSTART:20181222T051500Z
+DTEND:20181222T101500Z
+LOCATION:Kathmandu Living Labs\, Kathmandu\, Nepal
+SUMMARY:Open Meet Week #2
+DESCRIPTION:Web scraping with python\n( Theme : Scraping Nepali Sentences 
+ )\n\n\nOne will come prepared and give session to other attendees so that 
+ one&#39;s investment can be used and other also can benefit from it. This will
+  be for knowledge only and we will discuss other use cases on that day. Ev
+ eryone should come up with some project based on the ideas discussed there
+  within one week (At least a prototype) . \n\n`Mozilla Campus Club ASCOL T
+ eam`
+URL:https://reps.mozilla.org/e/open-meet-week-2/
+SEQUENCE:1
+X-COORDINATES-LAT:27.7242340592
+X-COORDINATES-LON:85.3244705172
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

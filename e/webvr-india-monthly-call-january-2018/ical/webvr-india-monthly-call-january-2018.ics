@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7375
+CLASS:PUBLIC
+DTSTAMP:20200407T165247Z
+DTSTART:20180121T163000Z
+DTEND:20180121T173000Z
+LOCATION:Hangout and Youtube Live\, Bhopal\, India
+SUMMARY:WebVR India Monthly Call  January 2018
+DESCRIPTION:Monthly meeting to discuss and plan strategies for WebVR commu
+ nity in India.
+URL:https://reps.mozilla.org/e/webvr-india-monthly-call-january-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:23.2304096759
+X-COORDINATES-LON:77.1090087667
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

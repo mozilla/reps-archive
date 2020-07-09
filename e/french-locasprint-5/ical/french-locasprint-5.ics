@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6409
+CLASS:PUBLIC
+DTSTAMP:20200407T173639Z
+DTSTART:20170408T070000Z
+DTEND:20170409T170000Z
+LOCATION:Mozilla Paris Office\, 16 bis blv Montmartre\, Paris\, France
+SUMMARY:French Locasprint 5
+DESCRIPTION:Onboarding of new volunteer localizers for MDN\, SUMO\, Produc
+ ts\, Life Cycle Marketing\, Mozilla Internet Health team\, Mozilla Foundat
+ ion.\n \n \n Registration: http://framaforms.org/atelier-de-traduction-m
+ ozilla-francophone-8-et-9-avril-2017-1482344769
+URL:https://reps.mozilla.org/e/french-locasprint-5/
+SEQUENCE:8
+X-COORDINATES-LAT:48.872024983
+X-COORDINATES-LON:2.3413653372
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

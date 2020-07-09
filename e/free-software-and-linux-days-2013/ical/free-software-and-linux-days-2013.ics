@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@636
+CLASS:PUBLIC
+DTSTAMP:20200407T175658Z
+DTSTART:20130405T060000Z
+DTEND:20130406T160000Z
+LOCATION:Istanbul Bilgi University / Santral (Eski Silahtarağa Elektrik S
+ antralı Kazım Karabekir Cad. No: 2/13)\, Istanbul\, Turkey
+SUMMARY:Free Software and Linux Days 2013
+DESCRIPTION:Organized by the Turkish Linux Users Association and Istanbul 
+ Bilgi University annually\, Free Software and Linux Days consist of semina
+ rs\, applied seminars\, short talks\, workshops\, and demo tables.
+URL:https://reps.mozilla.org/e/free-software-and-linux-days-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:41.0655687763
+X-COORDINATES-LON:28.9448547363
+X-COUNTRY-CODE:tr
+END:VEVENT
+
+END:VCALENDAR

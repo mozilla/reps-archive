@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5504
+CLASS:PUBLIC
+DTSTAMP:20200407T174139Z
+DTSTART:20160530T133000Z
+DTEND:20160530T163000Z
+LOCATION:Red Hat Bangalore\, Bangalore\, India
+SUMMARY:Mozilla Bangalore Community Meetup with George Roter
+DESCRIPTION:Mozilla Bangalore Meetup with George Roter
+URL:https://reps.mozilla.org/e/mozilla-bangalore-community-meetup-with-geo
+ rge-roter/
+SEQUENCE:0
+X-COORDINATES-LAT:12.9222528756
+X-COORDINATES-LON:77.4846839905
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

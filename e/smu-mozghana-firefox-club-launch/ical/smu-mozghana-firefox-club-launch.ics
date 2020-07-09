@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2359
+CLASS:PUBLIC
+DTSTAMP:20200407T182553Z
+DTSTART:20140628T130000Z
+DTEND:20140628T153000Z
+LOCATION:SMU Kumasi Campus\, Kumasi\, Ghana
+SUMMARY:SMU MozGhana Firefox Club Launch
+DESCRIPTION:SMU Kumasi Mozilla Firebox Club is going out with the mandate 
+ to teach and educate web users on latest web technologies\, open source an
+ d to enhance their understanding on how to use this web technologies.\nThi
+ s is the part of MozillaGhana FSA initiative. Club is majorly student cent
+ ered and chaired by the representatives of Mozilla Ghana.\n\nFor More info
+  about Club visit :-\n\nhttps://wiki.mozilla.org/SMU_MozGhana_Firefox_Club
+URL:https://reps.mozilla.org/e/smu-mozghana-firefox-club-launch/
+SEQUENCE:9
+X-COORDINATES-LAT:6.68711322729
+X-COORDINATES-LON:-1.61953926086
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

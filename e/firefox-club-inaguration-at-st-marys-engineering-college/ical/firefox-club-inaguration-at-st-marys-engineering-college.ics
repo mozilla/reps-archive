@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3474
+CLASS:PUBLIC
+DTSTAMP:20200423T175841Z
+DTSTART:20150210T040000Z
+DTEND:20150210T073000Z
+LOCATION:St Marys Engineering College\, Deshmukhi\, near mount opera\, Nal
+ gonda District\, Hyderabad\, India
+SUMMARY:Firefox Club Inaguration at St Marys Engineering College
+DESCRIPTION:Introduction to Mozilla and mission\, Firefox OS\, Webmaker an
+ d FSA program
+URL:https://reps.mozilla.org/e/firefox-club-inaguration-at-st-marys-engine
+ ering-college/
+SEQUENCE:4
+X-COORDINATES-LAT:17.3698625851
+X-COORDINATES-LON:78.4562987834
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

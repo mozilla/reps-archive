@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6631
+CLASS:PUBLIC
+DTSTAMP:20200423T110730Z
+DTSTART:20170521T093000Z
+DTEND:20170521T133000Z
+LOCATION:Awfis\, Connaught Place\, New Delhi\, India
+SUMMARY:Deep Dive into Open Source
+DESCRIPTION:This event guides through the process of getting started with 
+ your contributions to Open Source.\n\n- We&#39;ll be explaining the process on
+  how to use Bugzilla and Bugs Ahoy to contribute to Mozilla.\n\n- Understa
+ nd different aspects and per-requisites for code contributions.\n\n- Searc
+ h different projects in Mozilla according to skill-level/language you&#39;re i
+ nterested in.
+URL:https://reps.mozilla.org/e/deep-dive-into-open-source/
+SEQUENCE:1
+X-COORDINATES-LAT:28.634062
+X-COORDINATES-LON:77.22213
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

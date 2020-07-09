@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7312
+CLASS:PUBLIC
+DTSTAMP:20200423T093036Z
+DTSTART:20180526T100000Z
+DTEND:20180526T180000Z
+LOCATION:Meltwater Entrepreneurial School of Technology - Incubator\, Accr
+ a\, Ghana
+SUMMARY:WebVR Camp  ACCRA step#1
+DESCRIPTION:First WebVR camp organized in Accra \, Ghana.\n\nThis event ha
+ s for purpose to give to attendee the First A-frame and Web Virtual Realit
+ y Experience.
+URL:https://reps.mozilla.org/e/webvr-camp-accra-step-1/
+SEQUENCE:12
+X-COORDINATES-LAT:5.27968268026
+X-COORDINATES-LON:-4.00657653809
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

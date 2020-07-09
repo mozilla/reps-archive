@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6911
+CLASS:PUBLIC
+DTSTAMP:20200407T174124Z
+DTSTART:20171028T063000Z
+DTEND:20171028T113000Z
+LOCATION:Crayolas Lab\, Pune\, Pune\, India
+SUMMARY:Mozilla Hindi &amp; Marathi L10N Workshop Phase-2
+DESCRIPTION:Translation quality review\, Style guide review\, Promotional 
+ strategy\, Work progress check and assignment.
+URL:https://reps.mozilla.org/e/mozilla-hindi-marathi-l10n-workshop-phase-2
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:18.3675593025
+X-COORDINATES-LON:73.9833068848
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

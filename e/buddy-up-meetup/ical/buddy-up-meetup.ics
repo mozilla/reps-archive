@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3545
+CLASS:PUBLIC
+DTSTAMP:20200407T174540Z
+DTSTART:20150225T180000Z
+DTEND:20150225T213000Z
+LOCATION:16\, boulevard Montmartre\, Paris\, France
+SUMMARY:Buddy Up Meetup
+DESCRIPTION:The BuddyUp meetup will be hackathon style\, with a short pres
+ entation of the application as well as the chance to meet the developers\,
+  members of the QA team\, UX and project management. You will have the opp
+ ortunity to test the application as well as learn more about how we can au
+ tomate some of the tests.
+URL:https://reps.mozilla.org/e/buddy-up-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8721381272
+X-COORDINATES-LON:2.34128692744
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

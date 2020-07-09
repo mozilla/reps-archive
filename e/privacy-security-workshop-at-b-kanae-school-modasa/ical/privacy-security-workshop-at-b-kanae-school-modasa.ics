@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6501
+CLASS:PUBLIC
+DTSTAMP:20200423T111610Z
+DTSTART:20170417T033000Z
+DTEND:20170417T063000Z
+LOCATION:B-KANAE SCHOOL\, Modasa - Himatnagar Highway\, Sabalpur\, Modasa 
+ - 383315.\, Modasa\, India
+SUMMARY:Privacy &amp; Security Workshop At B-KANAE SCHOOL\, Modasa
+DESCRIPTION:Privacy awareness workshop for the High School students. Agend
+ a is simple making students and staff aware about the rich Privacy Feature
+ s of Firefox desktop and Mobile.
+URL:https://reps.mozilla.org/e/privacy-security-workshop-at-b-kanae-school
+ -modasa/
+SEQUENCE:3
+X-COORDINATES-LAT:23.0062675943
+X-COORDINATES-LON:72.5363158062
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

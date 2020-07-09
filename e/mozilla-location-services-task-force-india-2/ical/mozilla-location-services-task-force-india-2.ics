@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4099
+CLASS:PUBLIC
+DTSTAMP:20200423T170739Z
+DTSTART:20150701T153000Z
+DTEND:20150701T180000Z
+LOCATION:Hangout / IRC Meetup\, Kochi\, India
+SUMMARY:Mozilla Location Services Task Force [INDIA]
+DESCRIPTION:This geolocation meetup will evangelize the community to adopt
+  MozStumbler &amp; use it on daily basis to enrich the Mozilla location-servic
+ e. This event mainly focus to plan more MLS events all over India..
+URL:https://reps.mozilla.org/e/mozilla-location-services-task-force-india-
+ 2/
+SEQUENCE:3
+X-COORDINATES-LAT:9.9806570926
+X-COORDINATES-LON:76.2376098626
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

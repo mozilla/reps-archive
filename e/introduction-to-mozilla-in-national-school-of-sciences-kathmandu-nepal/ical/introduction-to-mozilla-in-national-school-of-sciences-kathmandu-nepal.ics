@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5713
+CLASS:PUBLIC
+DTSTAMP:20200407T181215Z
+DTSTART:20160803T031500Z
+DTEND:20160803T041500Z
+LOCATION:National School of Sciences\, Kathmandu\, Nepal
+SUMMARY:Introduction to Mozilla in National School of Sciences\, Kathmandu
+ \, Nepal
+DESCRIPTION:Introduction to Mozilla and How Students can Contribute to it.
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-in-national-school-
+ of-sciences-kathmandu-nepal/
+SEQUENCE:1
+X-COORDINATES-LAT:27.7180999244
+X-COORDINATES-LON:85.3144599795
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

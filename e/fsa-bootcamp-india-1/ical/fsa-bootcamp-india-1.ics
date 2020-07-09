@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3344
+CLASS:PUBLIC
+DTSTAMP:20200407T174405Z
+DTSTART:20150214T000000Z
+DTEND:20150214T100000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, India
+SUMMARY:FSA Bootcamp India
+DESCRIPTION:A bootcamp for all the enthusiastic FSA&#39;s in India meet togeth
+ er at the Space for trainings related to Webmaker\, FirefoxOS and Firefox.
+  After the trainings\, the FSA&#39;s are expected to conduct events and promot
+ e Firefox at their universities.
+URL:https://reps.mozilla.org/e/fsa-bootcamp-india-1/
+SEQUENCE:3
+X-COORDINATES-LAT:13.0223982424
+X-COORDINATES-LON:77.6308590174
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

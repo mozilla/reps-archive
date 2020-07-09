@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6842
+CLASS:PUBLIC
+DTSTAMP:20200407T174309Z
+DTSTART:20170909T090000Z
+DTEND:20170909T170000Z
+LOCATION:Makerere University\, Faculty of Computing and Information Techno
+ logy\, kampala\, Uganda
+SUMMARY:WebVR Camp - Makerere University
+DESCRIPTION:All web developers\, designers\, and  students will come toget
+ her to learn\, hack\, and start building their  own WebVR experiences at M
+ akerere University.\n\nThey will be able to create virtual and augmented r
+ eality using web technologies which is exciting and makes VR accessible\, 
+ easier to create and distribute.\n\nA-Frame is a web framework for buildin
+ g virtual reality experiences\, making it easy for anyone to get involved 
+ with virtual reality.
+URL:https://reps.mozilla.org/e/webvr-camp-makerere-university/
+SEQUENCE:5
+X-COORDINATES-LAT:0.233458826651
+X-COORDINATES-LON:32.5511169434
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

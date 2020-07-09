@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@535
+CLASS:PUBLIC
+DTSTAMP:20200423T220546Z
+DTSTART:20130228T050000Z
+DTEND:20130228T080000Z
+LOCATION:Zamboanga City State Polytechnic College\, Zamboanga City\, Phili
+ ppines
+SUMMARY:CITC Day at Zamboanga City State Polytechnic College
+DESCRIPTION:Mozilla will have a talk during event regarding FOSS and Mozil
+ la Project with the expected participant of 200.
+URL:https://reps.mozilla.org/e/citc-day-at-zamboanga-city-state-polytechni
+ c-college/
+SEQUENCE:0
+X-COORDINATES-LAT:6.91228272446
+X-COORDINATES-LON:122.056388855
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5741
+CLASS:PUBLIC
+DTSTAMP:20200423T150433Z
+DTSTART:20160812T120000Z
+DTEND:20160812T140000Z
+LOCATION:Gedung BRI I\, lantai 21\, Jalan Jend Sudirman Kav. 44-46\, Jakar
+ ta\, Indonesia
+SUMMARY:Digital Challenge Meetup: Innovate to Empower Indonesia
+DESCRIPTION:In this meetup\, BRI and Tech in Asia is going to announce a m
+ ajor challenge for developers and activists startup to create digital inno
+ vation that can make service quality digital transactions in Indonesia mor
+ e efficiently by utilizing the bank of digital products.\n\nMozilla Indone
+ sia were invited by Tech in Asia to attend this meetup.
+URL:https://reps.mozilla.org/e/digital-challenge-meetup-innovate-to-empowe
+ r-indonesia/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.2175038403
+X-COORDINATES-LON:106.813064933
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

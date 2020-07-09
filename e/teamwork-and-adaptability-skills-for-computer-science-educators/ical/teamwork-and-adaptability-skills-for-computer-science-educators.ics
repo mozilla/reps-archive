@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8921
+CLASS:PUBLIC
+DTSTAMP:20200407T174051Z
+DTSTART:20191107T093000Z
+DTEND:20191107T103000Z
+LOCATION:IOT Centre\, Federal Science and Technical College (FSTC)\, Yaba\
+ , Lagos\, Nigeria
+SUMMARY:Teamwork and Adaptability Skills for Computer Science Educators
+DESCRIPTION:A speech on how to build and work among teams in the tech envi
+ ronment.\n\nTopic: &#34;Teamwork and Adaptability Skills for Computer Science 
+ Educators&#34; \n\nDate: Thursday 7th October 2019\n\nTime: 10:30am – 11:30a
+ m\n\nVenue: IOT Centre\, Federal Science and Technical College (FSTC)\, Ya
+ ba.\n\n\nThe session was planned with the aim of equipping participants wi
+ th essential knowledge\, values\, skills and insights required to perform 
+ optimally as Computer Science Educators.
+URL:https://reps.mozilla.org/e/teamwork-and-adaptability-skills-for-comput
+ er-science-educators/
+SEQUENCE:2
+X-COORDINATES-LAT:6.48982485274
+X-COORDINATES-LON:3.37978506075
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

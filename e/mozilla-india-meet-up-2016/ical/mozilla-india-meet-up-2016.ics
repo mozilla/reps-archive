@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5666
+CLASS:PUBLIC
+DTSTAMP:20200407T165047Z
+DTSTART:20160826T123000Z
+DTEND:20160828T120000Z
+LOCATION:Holiday Inn Pune\, Pune\, India
+SUMMARY:Mozilla India Meet-Up 2016
+DESCRIPTION:An event hosted by Mozilla India Community in India with peopl
+ e from different sub communities based on gender diversity\, regional repr
+ esentation\, activities and leadership in community. This event will mainl
+ y focus on developing options for the direction\, vision\, strategy and ro
+ admap of the Mozilla India community for the year 2016-17\, and undertakin
+ g detailed planning\, structure and workflow of the contribution pathways.
+URL:https://reps.mozilla.org/e/mozilla-india-meet-up-2016/
+SEQUENCE:6
+X-COORDINATES-LAT:18.4509521165
+X-COORDINATES-LON:73.8864898682
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

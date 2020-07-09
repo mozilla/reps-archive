@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6320
+CLASS:PUBLIC
+DTSTAMP:20200423T112948Z
+DTSTART:20170211T213000Z
+DTEND:20170212T010000Z
+LOCATION:Telmex Hub\, Delegacion Iztapalapa\, Mexico
+SUMMARY:Process structure\, programming fundamentals and introduction to H
+ TML
+DESCRIPTION:HTML is the most basic language for creating web pages. This c
+ ourse allows you to learn the basics for creating web pages using HTML and
+  one of our web publishing platforms: Thimble. Thimble is an online code e
+ ditor that makes it easy to create and publish your web pages while learni
+ ng HTML\, CSS &amp; JavaScript. Contents: Introduction to html. Internet and h
+ ow the information is transmitted. Structure of a basic page. Introduction
+  to Thimble
+URL:https://reps.mozilla.org/e/process-structure-programming-fundamentals-
+ and-introduction-to-html-1/
+SEQUENCE:0
+X-COORDINATES-LAT:19.4312291123
+X-COORDINATES-LON:-99.1367838979
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

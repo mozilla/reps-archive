@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7892
+CLASS:PUBLIC
+DTSTAMP:20200423T091852Z
+DTSTART:20180704T120000Z
+DTEND:20180704T133000Z
+LOCATION:Hive by MAS - hive.lk\, Colombo\, Sri Lanka
+SUMMARY:Know Your Privacy and GDPR
+DESCRIPTION:Event Description\nThese days people are getting privacy updat
+ es from the services they registered. Anyone have any idea about it. Anyon
+ e know what GDPR is?  Here what we try to do is give some awareness about 
+ your privacy.\n\nEvent Organizer : Milinda Arambawela
+URL:https://reps.mozilla.org/e/know-your-privacy-and-gdpr/
+SEQUENCE:5
+X-COORDINATES-LAT:6.91730635088
+X-COORDINATES-LON:79.8648433687
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

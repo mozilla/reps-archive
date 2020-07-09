@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5754
+CLASS:PUBLIC
+DTSTAMP:20200407T174311Z
+DTSTART:20161014T070000Z
+DTEND:20161014T083000Z
+LOCATION:North South University\, Banani Model Town\, Bangladesh
+SUMMARY:Webmaker Hackjam v3 @NSU
+DESCRIPTION:The Computer and Engineering club of North South University is
+  going to organize a tech fest where we will be having a workshop of webma
+ ker. Students of NSU will learn about new thimble\, they will make good co
+ ntents. People will also know about webmaker for android and learn how to 
+ make contents using it. Basically it will be one of those content creation
+  events.
+URL:https://reps.mozilla.org/e/webmaker-hackjam-v3-nsu/
+SEQUENCE:1
+X-COORDINATES-LAT:23.8359935364
+X-COORDINATES-LON:90.4073524475
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

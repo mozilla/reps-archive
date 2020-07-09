@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3758
+CLASS:PUBLIC
+DTSTAMP:20200407T174534Z
+DTSTART:20150502T140000Z
+DTEND:20150502T160000Z
+LOCATION:Abidjan\, Cocody\, Miage- GI\, Williamsville\, Ivory Coast
+SUMMARY:Abidjan Mozcoffee
+DESCRIPTION:Discussion about the latest Mozilla news and Firefox OS launch
+ ing in Africa
+URL:https://reps.mozilla.org/e/abidjan-mozcoffee/
+SEQUENCE:4
+X-COORDINATES-LAT:5.316667
+X-COORDINATES-LON:-4.033333
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

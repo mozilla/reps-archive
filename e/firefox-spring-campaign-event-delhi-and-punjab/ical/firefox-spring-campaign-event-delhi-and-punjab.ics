@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3931
+CLASS:PUBLIC
+DTSTAMP:20200423T170632Z
+DTSTART:20150704T053000Z
+DTEND:20150712T113000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:Firefox Spring Campaign Event \, Delhi and Punjab
+DESCRIPTION:A MozCoffee event in Delhi and Punjab for the Spring Campaign
+URL:https://reps.mozilla.org/e/firefox-spring-campaign-event-delhi-and-pun
+ jab/
+SEQUENCE:3
+X-COORDINATES-LAT:28.6255144488
+X-COORDINATES-LON:77.1514892578
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

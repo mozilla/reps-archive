@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3632
+CLASS:PUBLIC
+DTSTAMP:20200423T172816Z
+DTSTART:20150429T050000Z
+DTEND:20150502T103000Z
+LOCATION:TBD\, GUNA\, India
+SUMMARY:Hour Of Code Guna
+DESCRIPTION:The event is basically to create  awareness about Mozilla Miss
+ ion\, Firefox Browser among the students so that they can start contributi
+ ng in the Mozilla&#39;s various projects.\n&#34;Hour of Code&#34; initiative has plans
+  to target 100 million students and expose them to computer science! Let&#39;s
+  involve our Guna and inspire students of our city to code their first pro
+ grams We plan to organize this for an hour daily in the evening at differe
+ nt schools.
+URL:https://reps.mozilla.org/e/college-chale-hum/
+SEQUENCE:13
+X-COORDINATES-LAT:22.7172509015
+X-COORDINATES-LON:75.8660125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

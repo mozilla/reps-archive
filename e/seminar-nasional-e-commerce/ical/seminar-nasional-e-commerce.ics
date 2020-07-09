@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7891
+CLASS:PUBLIC
+DTSTAMP:20200407T180632Z
+DTSTART:20180916T000000Z
+DTEND:20180916T060000Z
+LOCATION:Kampus UTM\, Madura\, Indonesia
+SUMMARY:Seminar Nasional E-Commerce
+DESCRIPTION:Event akhir tahun dari Unit Kegiatan Mahasiswa Creative Comput
+ er Club (UKM Triple-C)
+URL:https://reps.mozilla.org/e/seminar-nasional-e-commerce/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.12721887065
+X-COORDINATES-LON:112.722852409
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3236
+CLASS:PUBLIC
+DTSTAMP:20200423T180053Z
+DTSTART:20150204T053000Z
+DTEND:20150204T093000Z
+LOCATION:Saroor Nagar\,Hyderabad\, Hyderabad\, India
+SUMMARY:MozSchoolz2
+DESCRIPTION:--Mozilla Mission [Showing Videos] \n--What is internet?\n --O
+ pen web technologies \n--Basics of Html\n --Hands On Experience \n--Quiz \
+ n--painting/drawing competition \n--Prizes\n Above mentioned the main agen
+ da of MozSchoolz\, where there is no proper guidance about what is interne
+ t and what exactly the web is ?? so\, we we have decided to educate the Go
+ vt. school students about internet and web technologies
+URL:https://reps.mozilla.org/e/mozschoolz2/
+SEQUENCE:5
+X-COORDINATES-LAT:17.3551945546
+X-COORDINATES-LON:78.5315054653
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

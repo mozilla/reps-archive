@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5307
+CLASS:PUBLIC
+DTSTAMP:20200407T181601Z
+DTSTART:20160421T080000Z
+DTEND:20160421T150000Z
+LOCATION:TBD\, Honduras\, Honduras
+SUMMARY:FLISOL Honduras 2016
+DESCRIPTION:The Latin American Festival of Free Software Installation (FLI
+ SoL) is the broadcast event Free Software largest in Latin America\, was b
+ orn in Colombia in 2005\, and is now celebrated in over 20 countries and i
+ n over 100 cities worldwide. Its main objective is to promote the use of f
+ ree software\, revealing publicly his philosophy\, scope\, progress and de
+ velopment.
+URL:https://reps.mozilla.org/e/flisol-honduras-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:12.1392593
+X-COORDINATES-LON:-86.2136299
+X-COUNTRY-CODE:hn
+END:VEVENT
+
+END:VCALENDAR

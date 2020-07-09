@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6328
+CLASS:PUBLIC
+DTSTAMP:20200407T174310Z
+DTSTART:20170325T130000Z
+DTEND:20170325T150000Z
+LOCATION:Makerere University\, Faculty of Computing and Information Techno
+ logy\, kampala\, Uganda
+SUMMARY:Mozilla Uganda Community Meet-Up
+DESCRIPTION:A community meeting  of the Mozilla Uganda core contributors a
+ nd  Mozillians to discuss Mozilla\, community goals for 2017 and bringing 
+ people into contributing to our mission by helping them strengthen the imp
+ act of their contribution.
+URL:https://reps.mozilla.org/e/mozilla-uganda-community-meet-up/
+SEQUENCE:2
+X-COORDINATES-LAT:0.278090338812
+X-COORDINATES-LON:32.5318908691
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

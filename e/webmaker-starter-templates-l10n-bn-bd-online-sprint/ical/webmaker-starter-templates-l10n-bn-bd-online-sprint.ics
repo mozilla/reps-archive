@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1491
+CLASS:PUBLIC
+DTSTAMP:20200423T205506Z
+DTSTART:20131103T060000Z
+DTEND:20131130T170000Z
+LOCATION:Bangladesh\, Whole Nation\, Bangladesh
+SUMMARY:webmaker starter templates l10n bn-BD online sprint
+DESCRIPTION:We have webmaker.org 100% localized in bn-BD thanks to all our
+  community members. From the Mozilla Festival 2013\, I have learned that w
+ e can localize the webmaker stater templates\, because stater templates is
+  the easiest way to learn making :). So lets starts the webmaker starter t
+ emplates l10n bn-BD online sprint through out this month. Hopefuly we can 
+ finish all the starter templates.
+URL:https://reps.mozilla.org/e/webmaker-starter-templates-l10n-bn-bd-onlin
+ e-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:23.7987487649
+X-COORDINATES-LON:90.3544914722
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

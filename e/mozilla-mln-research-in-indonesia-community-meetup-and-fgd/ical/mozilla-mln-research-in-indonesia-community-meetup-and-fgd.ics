@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4600
+CLASS:PUBLIC
+DTSTAMP:20200423T163451Z
+DTSTART:20150930T110000Z
+DTEND:20150930T130000Z
+LOCATION:Domicile Kitchen and Lounge\, Surabaya\, Surabaya\, Indonesia
+SUMMARY:Mozilla MLN Research in Indonesia: Community Meetup and FGD
+DESCRIPTION:A research related to Mozilla Learning Network in Indonesia.  
+ \nThe visit and interview is part of research conducted by Mozilla Foundat
+ ion. The research team are Laura de Reynal (London) and Bobby Richter (Tor
+ onto)\n\nThis is part of research is a community meetup with Mozillian\, t
+ eachers\, lecturers\, mentors\, NGO in teaching and literacy\, also other 
+ FOSS activists and enthusiasts.
+URL:https://reps.mozilla.org/e/mozilla-mln-research-in-indonesia-community
+ -meetup-and-fgd/
+SEQUENCE:4
+X-COORDINATES-LAT:-7.25079981972
+X-COORDINATES-LON:112.750122068
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

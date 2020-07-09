@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5143
+CLASS:PUBLIC
+DTSTAMP:20200407T174135Z
+DTSTART:20160221T040000Z
+DTEND:20160221T123000Z
+LOCATION:Mozilla community space\, Bangalore\, Bangalore\, India
+SUMMARY:Mozilla Advocacy Workshop -Bangalore
+DESCRIPTION:One day workshop on Advocacy and Policy Issues related to Open
+  web followed by a small celebration on #Netneutrality victory on TRAI con
+ sultation on differential pricing . \n\nThe program is focusing to learn a
+ nd plan on Advocacy activities in Bangalore with Mozillians \, FSAs and Re
+ ps and align it with Campus campaign.\n\nSara Haghdoosti\, Global Campaign
+  Manager \, Mozilla Foundation and Jochai Ben-Avie\,  Senior Global Policy
+  Manager\, Mozilla Corporation will join us for the program.
+URL:https://reps.mozilla.org/e/mozilla-advocacy-workshop-bangalore/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9600821319
+X-COORDINATES-LON:77.6147954464
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9162
+CLASS:PUBLIC
+DTSTAMP:20200407T170216Z
+DTSTART:20200330T143000Z
+DTEND:20200330T153000Z
+LOCATION:Online\, Jalandhar\, India
+SUMMARY:Community Call - Mozilla Punjab
+DESCRIPTION:Community Calls are general online calls where all the members
+  of the Community gather and talk share updates about themselves\, ongoing
+  projects\, campaigns\, etc. Mozillians also talk about how they are doing
+  and share their struggles and the community helps solve them together!\n\
+ nIn this call\, we shall discuss about the new Community Portal\, how it w
+ orks\, how to go about hosting events and how it effects the community in 
+ general!
+URL:https://reps.mozilla.org/e/community-call-mozilla-punjab-2/
+SEQUENCE:0
+X-COORDINATES-LAT:31.260158
+X-COORDINATES-LON:75.707254
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1140
+CLASS:PUBLIC
+DTSTAMP:20200423T211942Z
+DTSTART:20130810T080000Z
+DTEND:20130810T110000Z
+LOCATION:Goodlands\, Goodlands\, Mauritius
+SUMMARY:Marker party
+DESCRIPTION:Our series of webmaker continues here in Mauritius. Our main g
+ oal is to run several webmaker events around the island. In the context of
+  the Maker party\, we are organising an events for kids and youth in the N
+ orth of Mauritius at Goodlands. More than 20 students are expected to part
+ icipate in the event.
+URL:https://reps.mozilla.org/e/marker-party/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.0107743437
+X-COORDINATES-LON:57.6383972168
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

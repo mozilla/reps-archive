@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4788
+CLASS:PUBLIC
+DTSTAMP:20200407T182113Z
+DTSTART:20151205T160000Z
+DTEND:20151205T210000Z
+LOCATION:Avenida Borges de Medeiros\, 2233 - 7ª andar\, Porto Alegre\, Br
+ azil
+SUMMARY:WoMoz Brasil &amp; WoMakersCode
+DESCRIPTION:O WoMakersCode é um projeto livre\, criado e mantido por volu
+ ntários ligados à comunidades open-source\, que tem como objetivo incent
+ ivar o aprendizado e a participação de mulheres em áreas como robótica
+ \, desenvolvimento e qualidade de software. São desenvolvidas oficinas co
+ m base teórica e prática\, onde o aprendizado colaborativo e compartilha
+ mento de experiências\, são parte fundamental.
+URL:https://reps.mozilla.org/e/womoz-brasil-womakerscode/
+SEQUENCE:1
+X-COORDINATES-LAT:-30.0516613514
+X-COORDINATES-LON:-51.1406251788
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

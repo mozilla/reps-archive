@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4567
+CLASS:PUBLIC
+DTSTAMP:20200423T162016Z
+DTSTART:20151031T093000Z
+DTEND:20151031T133000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Add-on Hacks FxOS
+DESCRIPTION:Add-ons are a well-known concept in the world of web browsers\
+ , and this concept has been added to Firefox OS too. A single Firefox OS a
+ dd-on can extend just one app\, several\, or all of them\, including the s
+ ystem app itself. \nThis event will cover creating your own Firefox OS add
+ -ons\, as well as hints\, tips\, and other information to be aware of.
+URL:https://reps.mozilla.org/e/add-on-hacks-fxos/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4380882
+X-COORDINATES-LON:78.3900414
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

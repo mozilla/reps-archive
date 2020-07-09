@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1197
+CLASS:PUBLIC
+DTSTAMP:20200423T212632Z
+DTSTART:20130715T100000Z
+DTEND:20130908T100000Z
+LOCATION:Hungary / no exact location\, Budapest\, Hungary
+SUMMARY:Telenor Application Development Competition for Firefox OS
+DESCRIPTION:Telenor Application Development Competition for Firefox OS\n\n
+ Bulid Webapps for Firefox OS in 5 category.
+URL:https://reps.mozilla.org/e/telenor-application-development-competition
+ -for-firefox-os/
+SEQUENCE:3
+X-COORDINATES-LAT:46.5588603031
+X-COORDINATES-LON:19.51171875
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

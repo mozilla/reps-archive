@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1679
+CLASS:PUBLIC
+DTSTAMP:20200423T203823Z
+DTSTART:20131221T120000Z
+DTEND:20131221T150000Z
+LOCATION:Fixx Coffee House\, Rathfarnham\, Ireland
+SUMMARY:Moz Ireland Winter Meetup
+DESCRIPTION:Our winter meet up took place in our usual location. The objec
+ tive of the event was to draw up plans for the new year and a recap of our
+  November event at TOG Hackerspace. \n\nWe covered the following\n+ Site u
+ pgrade plan\n+ Firefox OS application for our community site\n\n+ Estimate
+  month for next event\n+ Type of event
+URL:https://reps.mozilla.org/e/moz-ireland-winter-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:53.3413405068
+X-COORDINATES-LON:-6.25806748889
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

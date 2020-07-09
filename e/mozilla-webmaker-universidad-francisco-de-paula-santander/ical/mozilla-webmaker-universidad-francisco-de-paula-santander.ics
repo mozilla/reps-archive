@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3022
+CLASS:PUBLIC
+DTSTAMP:20200423T182824Z
+DTSTART:20141121T080000Z
+DTEND:20141122T080000Z
+LOCATION:Avenida Gran Colombia No. 12E-96 Barrio Colsag\, San José de Cú
+ cuta\, Cucuta\, Colombia
+SUMMARY:Mozilla Webmaker - Universidad Francisco de Paula Santander
+DESCRIPTION:Mozilla Colombia Community will be hosting this event with stu
+ dents and professors on the 21th and 22th of November 2014. This event is 
+ a 2-day session for developing new mentor and providing teaching skills wo
+ rking with Webmaker and FirefoxOS tools especially those who are passionat
+ e to teach and also to educate other people about the Web!
+URL:https://reps.mozilla.org/e/mozilla-webmaker-universidad-francisco-de-p
+ aula-santander/
+SEQUENCE:3
+X-COORDINATES-LAT:7.85428417704
+X-COORDINATES-LON:-72.542552948
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

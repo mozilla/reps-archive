@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1678
+CLASS:PUBLIC
+DTSTAMP:20200423T210156Z
+DTSTART:20131011T110000Z
+DTEND:20131012T010000Z
+LOCATION:Aqaba\, Aqaba\, Jordan
+SUMMARY:Quality and mozilla &#39;QAM&#39;
+DESCRIPTION:mozilla improvement with quality community .\nhow we can impro
+ ve mozilla quality and what the tools you can use to QAM \, i will present
+  some live example about bug fixed on bugzilla at University Of Jordan/ Aq
+ aba
+URL:https://reps.mozilla.org/e/quality-and-mozilla-qam/
+SEQUENCE:1
+X-COORDINATES-LAT:30.4455167769
+X-COORDINATES-LON:35.526856184
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

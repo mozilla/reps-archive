@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5144
+CLASS:PUBLIC
+DTSTAMP:20200407T181934Z
+DTSTART:20160226T043000Z
+DTEND:20160226T113000Z
+LOCATION:NIT TRICHY\, Thuvakudi\, India
+SUMMARY:GOLANG - Introduction
+DESCRIPTION:Lot&#39;s of Mozilla&#39;s security projects like MIG are in Golang. M
+ ozilla India is organizing this workshop in association with &#39;DoSelect&#39; th
+ at will help participant to understand the basics and get a start with FOS
+ S Projects.\n\nIntroduction to Golang: \nBasics of Golang (Variables\, loo
+ ps\, conditionals\, functions)\nPointers and Data Structures\nInterfaces\,
+  goroutines and channels\n\nBuilding web applications with Go:\nIntroducti
+ on to net/http\nHTML templates\nRouting\, status codes and error handling
+URL:https://reps.mozilla.org/e/golang-introduction/
+SEQUENCE:3
+X-COORDINATES-LAT:10.7635333
+X-COORDINATES-LON:78.8124562
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

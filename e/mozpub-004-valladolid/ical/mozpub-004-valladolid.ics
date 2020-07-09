@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1617
+CLASS:PUBLIC
+DTSTAMP:20200423T204706Z
+DTSTART:20131128T190000Z
+DTEND:20131128T213000Z
+LOCATION:Pub Life\, Valladolid\, Spain
+SUMMARY:MozPub #004 Valladolid
+DESCRIPTION:Mozpub is an informal meeting in Valladolid to talk about Mozi
+ lla\, open technologies and\, in this one\, specially about Firefox OS.\n\
+ nThis event aims to get more awareness about Firefox OS\, Mozilla local co
+ mmunity and Mobilizers program.
+URL:https://reps.mozilla.org/e/mozpub-004-valladolid/
+SEQUENCE:1
+X-COORDINATES-LAT:41.6525168057
+X-COORDINATES-LON:-4.72297883025
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

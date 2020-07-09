@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4878
+CLASS:PUBLIC
+DTSTAMP:20200407T174531Z
+DTSTART:20151121T080000Z
+DTEND:20151122T150000Z
+LOCATION:Mozilla Berlin\, Berlin\, Germany
+SUMMARY:Tüfteln zum OER Sprint Weekend Berlin
+DESCRIPTION:Wir möchten am Samstag von 10:00 - 16:00 Uhr und am Sonntag v
+ on 12:00 - 16:00 Uhr mit euch Material produzieren\, uns austauschen\, Neu
+ es lernen\, Erfahrungen sammeln\, Spaß haben. Kinder sind auch herzlich w
+ illkommen. Schließlich brauchen wir ja jemanden\, der unsere Ergebnisse g
+ egentestet :-). Alles dreht sich darum Kinder spielerisch für Technik und
+  Programmierung zu begeistern.
+URL:https://reps.mozilla.org/e/tufteln-zum-oer-sprint-weekend-berlin/
+SEQUENCE:0
+X-COORDINATES-LAT:52.5414662724
+X-COORDINATES-LON:13.3883199695
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5134
+CLASS:PUBLIC
+DTSTAMP:20200407T173813Z
+DTSTART:20160214T150000Z
+DTEND:20160214T230000Z
+LOCATION:La Cabaña\, Havana\, Cuba
+SUMMARY:Mozilla Cuba at International Book Fair Havana 2016
+DESCRIPTION:The University of Computer Sciences where most of the Communit
+ y colaborators are from or work at\, owns a space at the International Boo
+ k Fair venue. February 14th is only for the Mozilla Cuba Community and we 
+ will be demoing devices\, playing with augmented reality on the web\, demo
+ s and interacting with people at this huge event
+URL:https://reps.mozilla.org/e/mozilla-cuba-at-international-book-fair-hav
+ ana-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:23.1473837331
+X-COORDINATES-LON:-82.3509362341
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

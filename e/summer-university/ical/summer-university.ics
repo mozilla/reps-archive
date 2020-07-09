@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1051
+CLASS:PUBLIC
+DTSTAMP:20200423T212437Z
+DTSTART:20130723T170000Z
+DTEND:20130725T190000Z
+LOCATION:Corvinus\, Budapest\, Hungary
+SUMMARY:Summer University
+DESCRIPTION:Summer University is a very popular event.\nKAMI will introduc
+ e Mozilla Firefox and Firefox OS in a long session\nGergő will have Firef
+ ox OS specific workshops\nQ&amp;A session
+URL:https://reps.mozilla.org/e/summer-university/
+SEQUENCE:2
+X-COORDINATES-LAT:46.8000594468
+X-COORDINATES-LON:19.3359375
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

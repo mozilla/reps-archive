@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3011
+CLASS:PUBLIC
+DTSTAMP:20200423T182359Z
+DTSTART:20141128T150000Z
+DTEND:20141130T210000Z
+LOCATION:TDB\, Panama\, Panama
+SUMMARY:Mapps Hackathon Panama
+DESCRIPTION:This is an initiative to solve problems through maps\, creatin
+ g free applications with data sources of the same type (maps)\, there will
+  also be challenges related to prevention and disaster relief\, smart citi
+ es\, geolocalization\, coastal tourism\, climate change etc .\n\nThe Mozil
+ la community Panama introduce the development of Firefox OS apps that impl
+ ement Openstreetmap. There will be a space for Mozilla community with a bo
+ oth and talks.
+URL:https://reps.mozilla.org/e/mapps-hackathon-panama/
+SEQUENCE:5
+X-COORDINATES-LAT:9.05494443763
+X-COORDINATES-LON:-79.4220085256
+X-COUNTRY-CODE:pa
+END:VEVENT
+
+END:VCALENDAR

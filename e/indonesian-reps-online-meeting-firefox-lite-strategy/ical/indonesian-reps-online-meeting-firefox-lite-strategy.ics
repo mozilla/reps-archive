@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8935
+CLASS:PUBLIC
+DTSTAMP:20200407T170245Z
+DTSTART:20191111T120000Z
+DTEND:20191111T133000Z
+LOCATION:Zoom Online Meeting\, Jakarta\, Indonesia
+SUMMARY:Indonesian Reps Online Meeting - Firefox Lite Strategy
+DESCRIPTION:Online meeting attended by Reps from Indonesia. Our topic disc
+ ussion is Firefox Lite on-ground marketing as offered by Taipei Team.
+URL:https://reps.mozilla.org/e/indonesian-reps-online-meeting-firefox-lite
+ -strategy/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23491517559
+X-COORDINATES-LON:106.820346952
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

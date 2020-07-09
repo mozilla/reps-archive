@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3456
+CLASS:PUBLIC
+DTSTAMP:20200407T182328Z
+DTSTART:20150418T050000Z
+DTEND:20150418T200000Z
+LOCATION:Sofia\, Sofia\, Bulgaria
+SUMMARY:Bulgaria Web Summit 2015
+DESCRIPTION:Hello\, this is Bulgaria Web Summit 2015\n(Almost) everything 
+ a modern web person should know:\n{Programming\, IoT\, UX\, UI\, Fun\, Pri
+ vacy}\nI will be held on April 18th\, 2015 in Sofia\, Bulgaria\nLanguages:
+  {Bulgarian\, English}
+URL:https://reps.mozilla.org/e/bulgaria-web-summit-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:42.6455658471
+X-COORDINATES-LON:23.3981380449
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

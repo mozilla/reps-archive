@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2476
+CLASS:PUBLIC
+DTSTAMP:20200423T193008Z
+DTSTART:20140702T170000Z
+DTEND:20140702T200000Z
+LOCATION:Co-Working im Neuweg\, Neuweg 3\, Luzern\, Lucerne\, Switzerland
+SUMMARY:Talk - Introduction to Firefox OS Development
+DESCRIPTION:Mozilla stands for an open web\, with Firefox OS being only on
+ e mean to reach the goal. Ever wanted to develop a Web App which runs on o
+ pen technologies? Michael Kohler will give an introduction to Firefox OS a
+ nd explain how to write your own app. HTML/CSS/JavaScript knowledge is not
+  necessary for this talk\, but certain knowledge about programming in gene
+ ral doesn&#39;t hurt.
+URL:https://reps.mozilla.org/e/talk-introduction-to-firefox-development/
+SEQUENCE:3
+X-COORDINATES-LAT:47.0440120378
+X-COORDINATES-LON:8.30776977535
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7971
+CLASS:PUBLIC
+DTSTAMP:20200423T091606Z
+DTSTART:20180720T073000Z
+DTEND:20180720T103000Z
+LOCATION:Toc H Institute Of Science And Technology\, Cochin\, India
+SUMMARY:Mozilla Kerala @ Toch
+DESCRIPTION:Foss awareness and cyber security Campaign.\nFirefox Evangelis
+ m campaign.
+URL:https://reps.mozilla.org/e/mozilla-kerala-toch/
+SEQUENCE:1
+X-COORDINATES-LAT:9.8930217
+X-COORDINATES-LON:76.4359838
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

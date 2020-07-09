@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@276
+CLASS:PUBLIC
+DTSTAMP:20200423T223655Z
+DTSTART:20121212T020000Z
+DTEND:20121212T040000Z
+LOCATION:Urban Airship\, Portland\, United States
+SUMMARY:Winter Coders Social
+DESCRIPTION:Join Portland&#39;s tech community in celebrating the end of anoth
+ er year. This is a fun\, free annual event where members of local user gro
+ ups and their families are invited to mingle\, eat and play games. This is
+  the fifth time the event&#39;s been held and it&#39;s lots of fun every time.\n\n
+URL:https://reps.mozilla.org/e/winter-coders-social/
+SEQUENCE:0
+X-COORDINATES-LAT:45.4986468234
+X-COORDINATES-LON:-122.656860352
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

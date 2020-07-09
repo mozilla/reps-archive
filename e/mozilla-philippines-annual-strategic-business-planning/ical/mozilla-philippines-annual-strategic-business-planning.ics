@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@365
+CLASS:PUBLIC
+DTSTAMP:20200407T165746Z
+DTSTART:20121215T000000Z
+DTEND:20121215T090000Z
+LOCATION:Globe Valero Telepark \, Makati \, Philippines
+SUMMARY:Mozilla Philippines Annual Strategic Business Planning
+DESCRIPTION:Annual event planning for the future activities of Mozilla Phi
+ lippines community.
+URL:https://reps.mozilla.org/e/mozilla-philippines-annual-strategic-busine
+ ss-planning/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5585222553
+X-COORDINATES-LON:121.020750403
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

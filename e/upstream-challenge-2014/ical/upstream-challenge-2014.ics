@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1536
+CLASS:PUBLIC
+DTSTAMP:20200407T175300Z
+DTSTART:20140927T090000Z
+DTEND:20140927T110000Z
+LOCATION:University Politehnica of Bucharest\, Bucharest\, Romania
+SUMMARY:Upstream Challenge 2014
+DESCRIPTION:The Upstream Challenge is a yearly event that encourages stude
+ nts to contribute to Open Source projects.\n\nLast year&#39;s event made 30 co
+ ntributions to Mozilla projects\, and over 100 patches to other projects\,
+  including the Linux kernel\, Wordpress and KDE.\n\nThis year&#39;s competitio
+ n is open to any student living in Romania.
+URL:https://reps.mozilla.org/e/upstream-challenge-2014/
+SEQUENCE:8
+X-COORDINATES-LAT:44.4358671212
+X-COORDINATES-LON:26.0474426151
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

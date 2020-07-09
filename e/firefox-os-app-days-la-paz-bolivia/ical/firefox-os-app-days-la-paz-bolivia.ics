@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1135
+CLASS:PUBLIC
+DTSTAMP:20200423T211101Z
+DTSTART:20130914T170000Z
+DTEND:20130915T000000Z
+LOCATION:TBD\, La Paz\, Bolivia
+SUMMARY:Firefox OS App Days La Paz\, Bolivia
+DESCRIPTION:Part of the worldwide App Days events (organized after the Jan
+  26th milestone). Developers gathering to hack around FirefoxOS\, Web Apps
+ \, Web APIs. This is the first time that we made a Firefox OS App Days in 
+ La Paz city!!! there are a lot of developers\, who want to learn about Fir
+ efox OS Apps!!!
+URL:https://reps.mozilla.org/e/firefox-os-app-days-la-paz-bolivia/
+SEQUENCE:5
+X-COORDINATES-LAT:-16.505244995
+X-COORDINATES-LON:-68.1303405762
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

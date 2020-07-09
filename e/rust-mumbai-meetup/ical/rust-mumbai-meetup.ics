@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7167
+CLASS:PUBLIC
+DTSTAMP:20200407T164103Z
+DTSTART:20171023T083000Z
+DTEND:20171023T113000Z
+LOCATION:IIDE Campus\, Andheri West\, Mumbai\, India
+SUMMARY:Rust Mumbai Meetup
+DESCRIPTION:Rust is a new systems programming language developed by Mozill
+ a. This event is for  (co)learning of Rust Programming Language. Rustacian
+ s of all skill levels is welcome.\n\nThe speaker is Nicholas Cameron.\n\nN
+ icholas Cameron is part of the Rust core team and the Rust team at Mozilla
+ . He leads the developer tools team and hacks on IDE support\, Rustfmt\, t
+ he compiler\, the language design\, etc. He has previously worked on layou
+ t and graphics in Firefox and on academic programming language research.
+URL:https://reps.mozilla.org/e/rust-mumbai-meetup/
+SEQUENCE:6
+X-COORDINATES-LAT:19.117076
+X-COORDINATES-LON:72.844763
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4746
+CLASS:PUBLIC
+DTSTAMP:20200407T175211Z
+DTSTART:20151119T080000Z
+DTEND:20151119T140000Z
+LOCATION:Techhub Bucharest\, Bucharest\, Romania
+SUMMARY:LOAD 2015
+DESCRIPTION:Former Mozilla intern Robert Bindar will be giving a presentat
+ ion on Firefox OS and web apps.
+URL:https://reps.mozilla.org/e/load-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:44.4391100462
+X-COORDINATES-LON:26.1022023261
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

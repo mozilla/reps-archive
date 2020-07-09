@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3263
+CLASS:PUBLIC
+DTSTAMP:20200423T181501Z
+DTSTART:20141221T080000Z
+DTEND:20141221T110000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, India
+SUMMARY:MozCoffee Bangalore v11.0
+DESCRIPTION:Informal meetup of Mozillians to hack/discuss on future events
+  and plans.
+URL:https://reps.mozilla.org/e/mozcoffee-bangalore-v11-0/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9367532148
+X-COORDINATES-LON:77.5561514497
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

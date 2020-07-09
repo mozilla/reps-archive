@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2741
+CLASS:PUBLIC
+DTSTAMP:20200423T190956Z
+DTSTART:20140827T120000Z
+DTEND:20140827T130000Z
+LOCATION:5to Anillo Radial 17 Piraí\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:WebMaker - MozEdu La Roca High School
+DESCRIPTION:This is a WebMaker - MozEdu event for the &#34;La Roca&#34; High Schoo
+ l. We will talk about the freedom and the importance of the web\, also we 
+ will show tools for make the web.
+URL:https://reps.mozilla.org/e/webmaker-mozedu-la-roca-high-school/
+SEQUENCE:3
+X-COORDINATES-LAT:-17.8000988117
+X-COORDINATES-LON:-63.220075607
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

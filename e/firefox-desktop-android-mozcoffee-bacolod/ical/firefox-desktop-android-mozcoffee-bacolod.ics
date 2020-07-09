@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4080
+CLASS:PUBLIC
+DTSTAMP:20200423T170724Z
+DTSTART:20150703T100000Z
+DTEND:20150703T130000Z
+LOCATION:Dojo8 Co-Working Space\, Bacolod City\, Philippines
+SUMMARY:Firefox Desktop &amp; Android MozCoffee Bacolod
+DESCRIPTION:Mabuhay!\n\nThe Mozilla Philippines Community (MozillaPH) invi
+ tes you to an informal gathering over coffee this coming Friday\, 03 July 
+ 2015 6PM at Dojo8\, Bacolod City.\n\nMozilla Rep Robert &#34;Bob&#34; Reyes and Mo
+ zillaPH Regional Coordinator Frederick Villaluna will host this MozCoffee 
+ session and discuss the following:\n\n~ Overview of the Mozilla Project\n~
+  Mozilla in the Philippines\n~ What&#39;s new with Firefox Desktop and Firefox
+  for Android\n~ How to be part of Mozilla
+URL:https://reps.mozilla.org/e/firefox-desktop-android-mozcoffee-bacolod/
+SEQUENCE:1
+X-COORDINATES-LAT:10.6821443747
+X-COORDINATES-LON:122.984756464
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

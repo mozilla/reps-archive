@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3327
+CLASS:PUBLIC
+DTSTAMP:20200423T180957Z
+DTSTART:20150111T053000Z
+DTEND:20150111T083000Z
+LOCATION:EurecaTech\,Gwalior\, MP\, Gwalior\, India
+SUMMARY:L10n Sprint Gwalior
+DESCRIPTION:The event will focusing on bring out more Localization contrib
+ utors from Gwalior as here is very less awareness about Localization proje
+ ct. The event will cover all the key point of localization and there will 
+ be a localization sprint in which we will be localizing  the webmaker know
+ ledge base.
+URL:https://reps.mozilla.org/e/l10n-sprint-gwalior/
+SEQUENCE:3
+X-COORDINATES-LAT:26.2220142959
+X-COORDINATES-LON:78.176903
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

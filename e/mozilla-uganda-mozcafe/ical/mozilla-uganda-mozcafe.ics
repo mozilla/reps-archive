@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5218
+CLASS:PUBLIC
+DTSTAMP:20200407T174310Z
+DTSTART:20160319T130000Z
+DTEND:20160319T150000Z
+LOCATION:The FoodCourts\, Kampala\, Uganda
+SUMMARY:“Mozilla Uganda Mozcafe
+DESCRIPTION:This events gathers the community core members and other contr
+ ibutors to align and set the road map for 2016 for Mozilla Uganda communit
+ y
+URL:https://reps.mozilla.org/e/mozilla-uganda-mozcafe/
+SEQUENCE:0
+X-COORDINATES-LAT:0.305784792947
+X-COORDINATES-LON:32.6301267743
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8487
+CLASS:PUBLIC
+DTSTAMP:20200407T174132Z
+DTSTART:20190401T033000Z
+DTEND:20190401T103000Z
+LOCATION:St joseph College of Enginerering and Technology\, Kottayam\, Ind
+ ia
+SUMMARY:Support Sprint Sjcet
+DESCRIPTION:Mozilla SJCET in association with Department of Computer Scien
+ ce and Engineering is organizing Mozilla Firefox 66 SUMO Sprint on 1st Apr
+ il\, 2019.\nIt&#39;s an event dedicated to supporting Mozilla product users.
+URL:https://reps.mozilla.org/e/support-sprint-sjcet/
+SEQUENCE:1
+X-COORDINATES-LAT:9.8417645
+X-COORDINATES-LON:76.3566121
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

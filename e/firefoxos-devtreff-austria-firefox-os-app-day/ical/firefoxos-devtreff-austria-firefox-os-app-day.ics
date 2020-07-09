@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1486
+CLASS:PUBLIC
+DTSTAMP:20200423T204814Z
+DTSTART:20131125T173000Z
+DTEND:20131125T200000Z
+LOCATION:StockWerk\, Vienna\, Austria
+SUMMARY:FirefoxOS DevTreff Austria (Firefox OS App Day)
+DESCRIPTION:A community event: ViennaJS hosts a special version of their m
+ onthly meetup where they want to talk\, learn and demo cool Firefox OS stu
+ ff.
+URL:https://reps.mozilla.org/e/firefoxos-devtreff-austria-firefox-os-app-d
+ ay/
+SEQUENCE:2
+X-COORDINATES-LAT:48.191957726
+X-COORDINATES-LON:16.3360601662
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

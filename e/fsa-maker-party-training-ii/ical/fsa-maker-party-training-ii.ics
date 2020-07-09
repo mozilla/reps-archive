@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2469
+CLASS:PUBLIC
+DTSTAMP:20200407T175931Z
+DTSTART:20150307T050000Z
+DTEND:20150307T090000Z
+LOCATION:Mozilla Community Space Manila\, Pasay City\, Philippines
+SUMMARY:FSA Maker Party Training
+DESCRIPTION:In celebration of the Maker Party Season\, the Mozilla Philipp
+ ines Community organize a Maker Party for FSA\, where the attendees can ha
+ ve a deepen understanding what is Webmaker project of Mozilla. In this ses
+ sion\, we will focus on the Appmaker and creating teaching kits. At the en
+ d of the training session attendees will be more confident in creating the
+ ir own maker party and teach the others.
+URL:https://reps.mozilla.org/e/fsa-maker-party-training-ii/
+SEQUENCE:8
+X-COORDINATES-LAT:14.5382856948
+X-COORDINATES-LON:121.020376682
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

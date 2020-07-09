@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@502
+CLASS:PUBLIC
+DTSTAMP:20200423T215549Z
+DTSTART:20130406T060000Z
+DTEND:20130406T110000Z
+LOCATION:The Coffee Bean &amp; Tea Leaf (CBTL) Two E-Com Center \, Pasay City\
+ , Philippines
+SUMMARY:MozCoffee: MozillaPH Dev Team
+DESCRIPTION:The very first meeting of MozillaPH Developer Team\, the meeti
+ ng would focus on the the future events for developers both students and p
+ rofessionals\, In addition ReMos would introduce to them the tools we have
+  for Devs\n\n
+URL:https://reps.mozilla.org/e/mozcoffee-mozillaph-dev-team/
+SEQUENCE:2
+X-COORDINATES-LAT:14.53971
+X-COORDINATES-LON:120.981272
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

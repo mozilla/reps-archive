@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1453
+CLASS:PUBLIC
+DTSTAMP:20200423T204113Z
+DTSTART:20131213T170000Z
+DTEND:20131214T040000Z
+LOCATION:Crystal Gardens\, Victoria BC\, Victoria\, Canada
+SUMMARY:Discover Tectoria
+DESCRIPTION:This all ages event will be a veritable technological playgrou
+ nd featuring some of Victoria&#39;s most tech savvy companies.  Occurring ever
+ y two years .  Over 3000 people will be in attendance.  We will be partici
+ pating in a &#39;teach kids to code&#39; session running every half hour\, for 5 s
+ eperate sessions (35 kids each session).  We&#39;ll also have a booth demoing 
+ Webmaker tools and FFOS.
+URL:https://reps.mozilla.org/e/discover-tectoria/
+SEQUENCE:4
+X-COORDINATES-LAT:48.4239511606
+X-COORDINATES-LON:-123.363670351
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

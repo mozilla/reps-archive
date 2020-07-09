@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@799
+CLASS:PUBLIC
+DTSTAMP:20200423T214656Z
+DTSTART:20130428T111500Z
+DTEND:20130428T151500Z
+LOCATION:Babarmahal Revisited\, Kathmandu\, Nepal
+SUMMARY:Tech Mashup - A Speed Networking Event
+DESCRIPTION:A speed networking event\, is a part of World Startup Report\,
+  Nepal. Organised by Janaki Technology and Biruwa Ventures with support fr
+ om Sakar Pudasaini\, Catrin Froehlich\, Chandan Gupta and Avinash Kundaliy
+ a\, the event is aimed at bringing technological enthusiasts together for 
+ casual meeting and discussion on the startup culture and its promotion in 
+ Nepal. Also present in the event will be the Silicon Valley entrepreneur B
+ owei Ga.
+URL:https://reps.mozilla.org/e/tech-mashup-a-speed-networking-event/
+SEQUENCE:2
+X-COORDINATES-LAT:27.6944818143
+X-COORDINATES-LON:85.3228497505
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

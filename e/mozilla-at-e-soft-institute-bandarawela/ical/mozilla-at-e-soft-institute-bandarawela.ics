@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7407
+CLASS:PUBLIC
+DTSTAMP:20200423T095812Z
+DTSTART:20180221T033000Z
+DTEND:20180221T073000Z
+LOCATION:E-Soft Bandarawela\, Colombo\, Sri Lanka
+SUMMARY:Mozilla at E-SOFT  Institute Bandarawela
+DESCRIPTION:After previous day Mozilla at school \, we&#39;ll be doing another
+  event at E-Soft Campus Bandarawela\n\nFOSS Introduction &amp; Contributions\n
+ Step into rust\n\nevent requested by the institute and 3 mozillians will b
+ e travelling to join the event.
+URL:https://reps.mozilla.org/e/mozilla-at-e-soft-institute-bandarawela/
+SEQUENCE:1
+X-COORDINATES-LAT:6.82945356613
+X-COORDINATES-LON:80.9976453782
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

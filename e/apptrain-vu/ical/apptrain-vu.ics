@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4318
+CLASS:PUBLIC
+DTSTAMP:20200407T180525Z
+DTSTART:20150909T030000Z
+DTEND:20150909T120000Z
+LOCATION:VU CSE Building\, Rajshahi\, Bangladesh
+SUMMARY:AppTrain VU
+DESCRIPTION:This event will focus on Firefox OS application development fo
+ r students of VU\, Rajshahi.
+URL:https://reps.mozilla.org/e/apptrain-vu/
+SEQUENCE:5
+X-COORDINATES-LAT:24.3624191214
+X-COORDINATES-LON:88.6248908042
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

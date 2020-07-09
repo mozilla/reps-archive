@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6121
+CLASS:PUBLIC
+DTSTAMP:20200423T113728Z
+DTSTART:20170110T033000Z
+DTEND:20170110T103000Z
+LOCATION:Jaipur National University\, Jaipur\, India
+SUMMARY:MozActivate – JNU
+DESCRIPTION:To shift the focus of JNU Firefox Club\,Unicorn Club to work o
+ n functional areas and contribution pathways in Mozilla.\n \nSession-I\n09
+ :30 am – 09:45 am : Inauguration &amp; welcome speech\n09:45 am - 10:30 am :
+   Brief on Mozilla mission &amp; its contribution area\n10:30 am – 12:00 pm:
+  Focus on MozActivate Campaign\n\nSession-II\n1:00 pm – 4:00 pm – Brie
+ f  on WebVR  with demo  and build\n4:00 pm – 4:15 pm - Valedictory speec
+ h &amp; Swag distribution
+URL:https://reps.mozilla.org/e/mozactivate-jnu/
+SEQUENCE:2
+X-COORDINATES-LAT:26.9122738266
+X-COORDINATES-LON:75.8876954019
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

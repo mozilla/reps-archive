@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3923
+CLASS:PUBLIC
+DTSTAMP:20200423T171919Z
+DTSTART:20150530T063000Z
+DTEND:20150531T093000Z
+LOCATION:Pushpak apt\, Pandit colony\, Lane no-3\, Nashik-422002\, Nashik\
+ , India
+SUMMARY:MozSummer Camp Week - IV
+DESCRIPTION:Last week of the month\, we will be winding up this month with
+  a talk on SUMO. This wee will be special as we will be also focusing on a
+ n off topic of Public Speaking. We will have all the participants speaking
+  on specific topics.
+URL:https://reps.mozilla.org/e/mozsummer-camp-week-iv/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0041593113
+X-COORDINATES-LON:73.777288198
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

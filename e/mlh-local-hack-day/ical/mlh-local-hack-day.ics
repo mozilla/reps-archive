@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7223
+CLASS:PUBLIC
+DTSTAMP:20200423T101340Z
+DTSTART:20171201T150000Z
+DTEND:20171201T220000Z
+LOCATION:Polytechnic University of Tapachula\, Tapachula\, Mexico
+SUMMARY:MLH Local Hack Day
+DESCRIPTION:Rust talk &amp; Mentorship during MLH Local Hack Day in Tapachula.
+  About MLH Local Hack Day - MLH Local Hack Day is a 12 hour hack day on yo
+ ur school&#39;s campus that brings together the local hacker community to cele
+ brate building awesome technology.
+URL:https://reps.mozilla.org/e/mlh-local-hack-day/
+SEQUENCE:2
+X-COORDINATES-LAT:14.7464008
+X-COORDINATES-LON:-92.4012583
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

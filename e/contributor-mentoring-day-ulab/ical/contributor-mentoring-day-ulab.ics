@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2046
+CLASS:PUBLIC
+DTSTAMP:20200423T200527Z
+DTSTART:20140410T080000Z
+DTEND:20140410T110000Z
+LOCATION:University of Liberal Arts Bangladesh\, Tejgaon\, Bangladesh
+SUMMARY:Contributor Mentoring Day @ ULAB
+DESCRIPTION:After a successful awareness booth @ ULAB\, some of there stud
+ ents are interested to contribute with us. So we talked with the Universit
+ y authority and they gave us permission to organize a contributor mentorin
+ g day at their campus.
+URL:https://reps.mozilla.org/e/contributor-mentoring-day-ulab/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7462617764
+X-COORDINATES-LON:90.3743777274
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

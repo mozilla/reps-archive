@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5872
+CLASS:PUBLIC
+DTSTAMP:20200407T174249Z
+DTSTART:20160930T210000Z
+DTEND:20161001T020000Z
+LOCATION:Lab804 - Jaboticabal\, Jaboticabal\, Brazil
+SUMMARY:Web Compatibility Sprint - Lab804
+DESCRIPTION:To support Mozilla&#39;s Activate Campaign\, we are going to organ
+ ize an event to promote Mozilla and ways to contribute. The main activity 
+ is regarding Web Compat and will be done with students.
+URL:https://reps.mozilla.org/e/web-compatibility-sprint-etec-jaboticabal/
+SEQUENCE:5
+X-COORDINATES-LAT:-21.2560424654
+X-COORDINATES-LON:-48.3221515418
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

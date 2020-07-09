@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@629
+CLASS:PUBLIC
+DTSTAMP:20200407T174937Z
+DTSTART:20130405T100000Z
+DTEND:20130407T100000Z
+LOCATION:&#34;TBD&#34;\, Kraków\, Poland
+SUMMARY:Aviary.pl bi-annual meeting
+DESCRIPTION:Polish community bi-annual meeting. Estimated attendance ~18 p
+ eople.
+URL:https://reps.mozilla.org/e/aviary-pl-bi-annual-meeting-1/
+SEQUENCE:0
+X-COORDINATES-LAT:50.0580204528
+X-COORDINATES-LON:19.9305725098
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

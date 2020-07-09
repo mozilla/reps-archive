@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@88
+CLASS:PUBLIC
+DTSTAMP:20200423T230607Z
+DTSTART:20120827T033000Z
+DTEND:20120827T113000Z
+LOCATION:Bharati Vidyapeeth&#39;s College of Engineering\, Paschim Vihar East 
+ Metro Station\, \, India
+SUMMARY:Mozilla Summer Code Party\, BVPMOSC\, Delhi
+DESCRIPTION:The plan for the summer code party in the Delhi/NCR region is 
+ a multi-tier agenda. The idea is to organize a structured hack-jam\, in wh
+ ich productive work will be done through functional\, publishable web apps
+  being made. \n\nTo achieve this\, BVPMOSC will conduct a series of hands-
+ on workshops to prepare new people with the tool-sets and the skill-sets r
+ equired for the hack jam.\n\nThe workshops will be divided into: Basic wor
+ kshop and Advanced workshops.\n\nThis will be the Basic HTML5 Hack Jam
+URL:https://reps.mozilla.org/e/mozilla-summer-code-party-bvpmosc-delhi/
+SEQUENCE:0
+X-COORDINATES-LAT:28.6753773981
+X-COORDINATES-LON:77.1082305908
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

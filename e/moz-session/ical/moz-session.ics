@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4604
+CLASS:PUBLIC
+DTSTAMP:20200407T181539Z
+DTSTART:20151005T080000Z
+DTEND:20151005T103000Z
+LOCATION:Integral University\, Lucknow\, India
+SUMMARY:Moz-Session
+DESCRIPTION:The event is being organized in collaboration with Robotics So
+ ciety of Integral University.\n\nThe event discusses about Mozilla&#39;s Journ
+ ey and why we need an open and better web. The entire event duration is di
+ vided into three phases. \n\nThis is a beginner session.\nRecomended Level
+ : Freshers / First Year Students
+URL:https://reps.mozilla.org/e/moz-session/
+SEQUENCE:0
+X-COORDINATES-LAT:26.8359040885
+X-COORDINATES-LON:80.9257221222
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

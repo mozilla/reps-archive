@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2470
+CLASS:PUBLIC
+DTSTAMP:20200423T190530Z
+DTSTART:20140906T050000Z
+DTEND:20140906T090000Z
+LOCATION:Globe Corporate Showroom Valero Telepark 111 Valero St.\, Makati 
+ City\, Philippines
+SUMMARY:Maker Party for Teachers/Professors
+DESCRIPTION:In celebration of the Maker Party Season\, the Mozilla Philipp
+ ines Community organize a Maker Party for teachers/professors\, where the 
+ attendees can have a deepen understanding what is Webmaker project of Mozi
+ lla. In this session\, we will introduce the webmaker tools and teaching k
+ its\, that they can use in teaching their students. At the end of the sess
+ ion we&#39;ll expect to increase the number of Wemaker mentors.
+URL:https://reps.mozilla.org/e/maker-party-for-teachers-professors/
+SEQUENCE:6
+X-COORDINATES-LAT:14.5383895478
+X-COORDINATES-LON:121.020462513
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@548
+CLASS:PUBLIC
+DTSTAMP:20200407T173707Z
+DTSTART:20130328T140000Z
+DTEND:20130331T010000Z
+LOCATION:Casa Andina Private Collection Miraflores (Lima\, Perú)\, Mirafl
+ ores\, Lima\, Peru
+SUMMARY:Mozilla Hispano Work Week 2013
+DESCRIPTION:Mozilla Hispano Work Week is a three days work sessions to gat
+ her active contributors working on the future of the community.
+URL:https://reps.mozilla.org/e/mozilla-hispano-work-week-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.1230404386
+X-COORDINATES-LON:-77.0266914368
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

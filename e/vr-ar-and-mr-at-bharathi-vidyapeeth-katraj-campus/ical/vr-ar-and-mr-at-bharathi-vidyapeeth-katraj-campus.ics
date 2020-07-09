@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7687
+CLASS:PUBLIC
+DTSTAMP:20200423T094830Z
+DTSTART:20180331T083000Z
+DTEND:20180331T103000Z
+LOCATION:Bharathi Vidyapeeth Katraj\, Pune\, India
+SUMMARY:VR\, AR and MR at Bharathi Vidyapeeth Katraj Campus
+DESCRIPTION:This is the first time Mozilla is conducting a workshop at Bha
+ rathi Vidyapeeth Katraj Campus. The event agenda includes VR\, AR and MR.
+URL:https://reps.mozilla.org/e/vr-ar-and-mr-at-bharathi-vidyapeeth-katraj-
+ campus/
+SEQUENCE:0
+X-COORDINATES-LAT:18.4589275576
+X-COORDINATES-LON:73.8568840013
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4805
+CLASS:PUBLIC
+DTSTAMP:20200423T161514Z
+DTSTART:20151115T043000Z
+DTEND:20151115T083000Z
+LOCATION:LMNIIT Jaipur\, Jaipur\, India
+SUMMARY:Addon Dev in the Box
+DESCRIPTION:To help students interested in developing an addon for the Fir
+ efox so that they could code and create efficient addons. Would contain bo
+ th the theoretical and hands-on sessions.
+URL:https://reps.mozilla.org/e/addon-dev-in-the-box/
+SEQUENCE:1
+X-COORDINATES-LAT:26.8722643533
+X-COORDINATES-LON:75.8675536886
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

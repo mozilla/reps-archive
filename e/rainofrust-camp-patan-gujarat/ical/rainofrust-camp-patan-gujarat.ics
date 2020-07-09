@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6698
+CLASS:PUBLIC
+DTSTAMP:20200423T105727Z
+DTSTART:20170627T043000Z
+DTEND:20170627T073000Z
+LOCATION:TBD\, Patan\, India
+SUMMARY:RainOfRust Camp Patan\, Gujarat
+DESCRIPTION:An activities and initiative followed by https://reps.mozilla.
+ org/e/rainofrust-campaign/ Rust India community come up with RainOfRust Ca
+ mpaign to spread the awesomeness of Rust language. This event is focused o
+ n introducing and teaching the state of art system programming language Ru
+ st to Students/ Developers and Mozillians around.
+URL:https://reps.mozilla.org/e/rainofrust-camp-patan-gujarat/
+SEQUENCE:1
+X-COORDINATES-LAT:23.586433431
+X-COORDINATES-LON:72.3467101157
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

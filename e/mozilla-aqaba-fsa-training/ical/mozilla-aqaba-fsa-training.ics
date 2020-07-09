@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3596
+CLASS:PUBLIC
+DTSTAMP:20200407T174833Z
+DTSTART:20150416T070000Z
+DTEND:20150416T130000Z
+LOCATION:TBD\, Aqabah\, Jordan
+SUMMARY:Mozilla Aqaba FSA Training
+DESCRIPTION:I received a call from the students at Jordan University of Aq
+ abah\, Organizing this event to train new FSA&#39;s at Aqaba\, to keep the clu
+ b active there\, and to help them find there ways to contribute.\n\nAs an 
+ RAL for the Middle East/North Africa it&#39;s my Responsibility to lunch and k
+ eep Firefox Clubs active.\n\nit will be a Training for 2 days\, about wiki
+ \, Resources \, Projects(introduction)\, Webmaker (introduction)\, localiz
+ ation and More...
+URL:https://reps.mozilla.org/e/mozilla-aqaba-fsa-training/
+SEQUENCE:4
+X-COORDINATES-LAT:29.5109316782
+X-COORDINATES-LON:35.0223998912
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

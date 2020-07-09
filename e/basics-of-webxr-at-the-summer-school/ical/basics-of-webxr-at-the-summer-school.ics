@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7725
+CLASS:PUBLIC
+DTSTAMP:20200423T093323Z
+DTSTART:20180520T043000Z
+DTEND:20180520T103000Z
+LOCATION:Academic Heights Public School\, Hyderabad\, India
+SUMMARY:Basics of WebXR at the Summer School
+DESCRIPTION:This event is for kids and parents. The event will focus on ta
+ king the importance of technology and how WebXR has a future impact. Will 
+ teach on basic skills needed to contribute towards WebXR. Furthermore\, ed
+ ucating parents also on this will ensure that their kids can do magic out 
+ of technology.
+URL:https://reps.mozilla.org/e/basics-of-webxr-at-the-summer-school/
+SEQUENCE:8
+X-COORDINATES-LAT:17.3869794732
+X-COORDINATES-LON:78.7857055664
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

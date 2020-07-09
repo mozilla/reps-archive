@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@181
+CLASS:PUBLIC
+DTSTAMP:20200423T225132Z
+DTSTART:20121025T050000Z
+DTEND:20121104T090000Z
+LOCATION:East Africa\, Mombasa\, Kampala\, Kenya
+SUMMARY:B2G Community Tour
+DESCRIPTION:This event will be a tour of the B2G device to neighbouring Mo
+ zilla communities in Mombasa and Kampala. The device is currently being ha
+ cked on by Mozilla contributors in Nairobi who will be in a position to sh
+ are gained knowledge.
+URL:https://reps.mozilla.org/e/b2g-community-tour/
+SEQUENCE:0
+X-COORDINATES-LAT:1.66968550099
+X-COORDINATES-LON:34.892578125
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

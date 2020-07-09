@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@446
+CLASS:PUBLIC
+DTSTAMP:20200423T220905Z
+DTSTART:20130216T010000Z
+DTEND:20130216T050000Z
+LOCATION:STIKOM Ambon\, Ambon\, Indonesia
+SUMMARY:MozKampus : STIKOM Ambon
+DESCRIPTION:Mozilla Indonesia Community with STIKOM Ambon will held a talk
+  about Mozilla Projects and Updates\, Firefox OS Introduction\, sharing ab
+ out how to join and contribute in Mozilla projects. 
+URL:https://reps.mozilla.org/e/mozkampus-universitas-pattimura/
+SEQUENCE:0
+X-COORDINATES-LAT:-3.68337334319
+X-COORDINATES-LON:128.095092773
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

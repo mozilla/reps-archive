@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6700
+CLASS:PUBLIC
+DTSTAMP:20200407T170237Z
+DTSTART:20170618T043000Z
+DTEND:20170618T093000Z
+LOCATION:Red Hat\, Pune\, Pune\, India
+SUMMARY:#RainOfRust Workshop in Pune
+DESCRIPTION:The event is organized by the Mozilla Pune community. It would
+  be a full day workshop targeting Rust.
+URL:https://reps.mozilla.org/e/rainofrust-workshop-in-pune/
+SEQUENCE:2
+X-COORDINATES-LAT:18.5158982575
+X-COORDINATES-LON:73.927762988
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

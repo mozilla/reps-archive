@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@95
+CLASS:PUBLIC
+DTSTAMP:20200407T183144Z
+DTSTART:20120922T043000Z
+DTEND:20120923T123000Z
+LOCATION:Faculty of Engineering &amp; Technology\, Jamia Milia\, New Delhi\, I
+ ndia
+SUMMARY:MozCamp Delhi
+DESCRIPTION:MozCamp Delhi will be a follow-up event for the various Mozill
+ a Summer Code parties that happened in Delhi NCR region. It will bring tog
+ ether existing contributors and volunteers and all those who got benifitte
+ d from the Summer Code Party to get together to create something good for 
+ the open web and have fun.\n\nThe event will follow the &#34;Unconference&#34; for
+ mat.
+URL:https://reps.mozilla.org/e/mozcamp-delhi/
+SEQUENCE:0
+X-COORDINATES-LAT:28.497660833
+X-COORDINATES-LON:77.080078125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4987
+CLASS:PUBLIC
+DTSTAMP:20200407T174316Z
+DTSTART:20161015T040000Z
+DTEND:20161015T110000Z
+LOCATION:TBD\, Rajshahi\, Bangladesh
+SUMMARY:Mozilla QA Contributor Engaging Tour\, Rajshahi
+DESCRIPTION:Mozilla QA Contributor Engagement Tour\, Rajshahi is a series 
+ of 5 events which will happen in a Timeline of 1 Months! This event&#39;s obje
+ ctive is to reach more people who are interested about contributing in QA 
+ around Rajshahi city!
+URL:https://reps.mozilla.org/e/mozilla-qa-contributor-engaging-tour-rajsha
+ hi/
+SEQUENCE:4
+X-COORDINATES-LAT:24.3682457942
+X-COORDINATES-LON:88.6066245
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

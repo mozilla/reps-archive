@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6970
+CLASS:PUBLIC
+DTSTAMP:20200423T103639Z
+DTSTART:20170924T033000Z
+DTEND:20170924T113000Z
+LOCATION:CMRIT\, Bangalore\, India
+SUMMARY:Web VR Camp\, Bangalore
+DESCRIPTION:A full day web VR workshop in the city of Bangalore\, India at
+  one of our Mozilla Campus Clubs using the AFrame library.
+URL:https://reps.mozilla.org/e/web-vr-camp-bangalore/
+SEQUENCE:4
+X-COORDINATES-LAT:12.9715987
+X-COORDINATES-LON:77.5945627
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

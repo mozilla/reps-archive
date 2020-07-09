@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1656
+CLASS:PUBLIC
+DTSTAMP:20200423T203547Z
+DTSTART:20140113T080000Z
+DTEND:20140113T110000Z
+LOCATION:Sekolah Tinggi Perpajakan Indonesia\, Jakarta\, Indonesia
+SUMMARY:Hacking Web With Webmaker
+DESCRIPTION:Learn how to make web with HTML5\, CSS and Javascript using We
+ bmaker.\n\nAgenda :\n1. Introducing to Mozilla &amp; Mozilla History\n2. Intro
+ ducing to Mozilla Webmaker\n3. Hacking with Webmaker\n4. Build own web por
+ tofolio with Webmaker\n5. Innovation
+URL:https://reps.mozilla.org/e/hacking-web-with-webmaker/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.22384546592
+X-COORDINATES-LON:106.847502706
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

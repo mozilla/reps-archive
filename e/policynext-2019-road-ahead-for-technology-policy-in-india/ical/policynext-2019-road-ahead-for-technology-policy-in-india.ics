@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8666
+CLASS:PUBLIC
+DTSTAMP:20200423T082239Z
+DTSTART:20190627T070000Z
+DTEND:20190627T143000Z
+LOCATION:India Habitat Centre\, New Delhi\, India
+SUMMARY:PolicyNext 2019: Road ahead for technology policy in India
+DESCRIPTION:The preceding couple of years have seen hectic activity in the
+  policy space\, with a focus on increased control of the Internet\, some o
+ f it driven by local considerations\, and some by global considerations. T
+ his discussion will seek to identify key opportunities and concerns relate
+ d to technology policy.\n\nMediaNama is hosting this with support from ISO
+ C-APAC\, Google\, Amazon\, OYO &amp; Facebook\, and The Digital Empowerment Fo
+ undation.
+URL:https://reps.mozilla.org/e/policynext-2019-road-ahead-for-technology-p
+ olicy-in-india/
+SEQUENCE:2
+X-COORDINATES-LAT:28.5948115841
+X-COORDINATES-LON:77.2191467229
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

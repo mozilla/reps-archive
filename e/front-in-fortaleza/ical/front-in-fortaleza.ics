@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2085
+CLASS:PUBLIC
+DTSTAMP:20200423T194836Z
+DTSTART:20140517T110000Z
+DTEND:20140517T210000Z
+LOCATION:Faculdade 7 de Setembro\, Fortaleza\, Brazil
+SUMMARY:Front in Fortaleza
+DESCRIPTION:The event&#39;s main theme FrontEnd development and its technologi
+ es. With topics in html5\, css3\, javascript\, mobile\, responsive design\
+ , web apps etc.. The event format lectures 45min each presenter with varie
+ d themes FrontEnd universe.
+URL:https://reps.mozilla.org/e/front-in-fortaleza/
+SEQUENCE:6
+X-COORDINATES-LAT:-3.73143072823
+X-COORDINATES-LON:-38.5251359941
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@786
+CLASS:PUBLIC
+DTSTAMP:20200423T213841Z
+DTSTART:20130601T020000Z
+DTEND:20130601T090000Z
+LOCATION:FiveElements\, Ubud\, Indonesia
+SUMMARY:TEDxUbud 2013
+DESCRIPTION:The third annual TEDxUbud will take place on June 1st. This ye
+ ar’s theme is (Un)Common Ground\; it’s about finding common ground amo
+ ngst seemingly uncommon people\, cultures\, and ideas. 
+URL:https://reps.mozilla.org/e/tedxubud-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:-8.50794123033
+X-COORDINATES-LON:115.261173248
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2435
+CLASS:PUBLIC
+DTSTAMP:20200423T192545Z
+DTSTART:20140718T070000Z
+DTEND:20140718T110000Z
+LOCATION:Lagos\, Lagos\, Nigeria
+SUMMARY:Tech4Africa (Lagos)
+DESCRIPTION:Tech4Africa – the first Web\, mobile and emerging technology
+  conference of its kind in South Africa – stems from the belief that the
+  best tech ecosystems in the world have regular events bringing together p
+ eople in the tech industry.
+URL:https://reps.mozilla.org/e/tech4africa-lagos/
+SEQUENCE:10
+X-COORDINATES-LAT:8.53620727517
+X-COORDINATES-LON:4.60155487061
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

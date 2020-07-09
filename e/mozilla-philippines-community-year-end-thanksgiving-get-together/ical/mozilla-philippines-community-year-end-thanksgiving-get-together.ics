@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2994
+CLASS:PUBLIC
+DTSTAMP:20200407T175729Z
+DTSTART:20141213T090000Z
+DTEND:20141213T130000Z
+LOCATION:Mozilla Community Space Manila (MozSpaceMNL)\, Makati City\, Phil
+ ippines
+SUMMARY:Mozilla Philippines Community Year-end Thanksgiving Get-together
+DESCRIPTION:The Mozilla Philippines Community will celebrate the accomplis
+ hments of the team for 2014 in a simple get-together with volunteers and c
+ ontributors who became part of MozillaPH in one way or another.
+URL:https://reps.mozilla.org/e/mozilla-philippines-community-year-end-than
+ ksgiving-get-together/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5467560426
+X-COORDINATES-LON:121.015630245
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

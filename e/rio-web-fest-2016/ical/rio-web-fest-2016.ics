@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5693
+CLASS:PUBLIC
+DTSTAMP:20200423T150703Z
+DTSTART:20160731T140000Z
+DTEND:20160731T220000Z
+LOCATION:PontoCom1\, Centro\, Brazil
+SUMMARY:Rio Web Fest 2016
+DESCRIPTION:This is a gathering of all Rio Mozilla Clubs in a single place
+  to celebrate creativity and digital skills. Together\, we&#39;ll do many acti
+ vities ranging from fanzine creation to ecobag customization. We&#39;ll explor
+ e the internet of things and robotics and also create memes.
+URL:https://reps.mozilla.org/e/rio-web-fest-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.9243526266
+X-COORDINATES-LON:-43.1822662801
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

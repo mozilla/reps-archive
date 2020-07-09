@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6325
+CLASS:PUBLIC
+DTSTAMP:20200423T112702Z
+DTSTART:20170226T113000Z
+DTEND:20170226T133000Z
+LOCATION:Collab House\, 66\, Above Syndicate Bank\, Road Number 70\,\, Jou
+ rnalist Colony\, Jubilee Hills\, Journalist Colony\, Jubilee Hills\, Hyder
+ abad\, India
+SUMMARY:MozCafe
+DESCRIPTION:It is an informal meetup of the Mozilla community and an oppor
+ tunity for the non-Mozillians to Interact with them. Calling all the nethe
+ ads around\,to hear the stories of the Mozilla Community Volunteers in Hyd
+ erabad and a lot\, lot more! Come and join us over a coffee to hear the st
+ ories of the Mozilla Community Volunteers around Hyderabad.
+URL:https://reps.mozilla.org/e/mozcafe-6/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4215
+X-COORDINATES-LON:78.4097
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

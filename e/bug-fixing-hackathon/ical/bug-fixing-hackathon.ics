@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5151
+CLASS:PUBLIC
+DTSTAMP:20200423T154046Z
+DTSTART:20160319T033000Z
+DTEND:20160319T073000Z
+LOCATION:Cummins College of Engineering for Women\, Pune.\, Pune\, India
+SUMMARY:Bug Fixing Hackathon
+DESCRIPTION:This will be a hackathon where people will start working on or
+  solve bugs from projects on github or bugzilla issues\, starting from eas
+ y to difficult if they proceed well.
+URL:https://reps.mozilla.org/e/bug-fixing-hackathon/
+SEQUENCE:3
+X-COORDINATES-LAT:18.5101710304
+X-COORDINATES-LON:73.8859862834
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

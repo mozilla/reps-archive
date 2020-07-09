@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7121
+CLASS:PUBLIC
+DTSTAMP:20200423T102621Z
+DTSTART:20171008T053000Z
+DTEND:20171008T083000Z
+LOCATION:McDonalds\, 3rd floor\, Alpha One Mall\, Opp. to Vastrapur Lake\,
+  Ahmedabad\, Gujarat- 380015\, Ahmedabad\, India
+SUMMARY:Firefox Quantum Sprint\, Ahmedabad
+DESCRIPTION:Firefox 57 we are going to introduce to the world a product wh
+ ich is faster and more reliable than ever. Mozilla’s employees and contr
+ ibutors have put thousands of hours of work to ensure that this is going t
+ o be successful.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-ahmedabad-1/
+SEQUENCE:0
+X-COORDINATES-LAT:23.0395293533
+X-COORDINATES-LON:72.531646192
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5385
+CLASS:PUBLIC
+DTSTAMP:20200407T174555Z
+DTSTART:20160423T180000Z
+DTEND:20160423T190000Z
+LOCATION:TBD\, M&#39;Sila\, Algeria
+SUMMARY:Mozilla Arabic meeting half monthly 2
+DESCRIPTION:A meeting of the Mozilla Arabic half monthly . To rebuild comm
+ unity and talking a about the future of the community.
+URL:https://reps.mozilla.org/e/mozilla-arabic-meeting-half-monthly-2/
+SEQUENCE:1
+X-COORDINATES-LAT:35.7036766387
+X-COORDINATES-LON:4.54278767109
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

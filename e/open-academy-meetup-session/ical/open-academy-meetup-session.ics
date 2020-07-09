@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@873
+CLASS:PUBLIC
+DTSTAMP:20200423T214129Z
+DTSTART:20130523T150000Z
+DTEND:20130523T190000Z
+LOCATION:BME Q épület 1117 Budapest\, Magyar tudósok körútja 2.\, Sim
+ onyi Károly előadóterem\, Budapest\, Hungary
+SUMMARY:Open Academy - Meetup Session
+DESCRIPTION:Webdev related lessions for developers.\nWe will have 10 minut
+ e talk here about Firefox OS.\n\nOn the next event I invited Christian Hei
+ lmann as a special guest star :o)
+URL:https://reps.mozilla.org/e/open-academy-meetup-session/
+SEQUENCE:1
+X-COORDINATES-LAT:47.4725468354
+X-COORDINATES-LON:19.0607643127
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

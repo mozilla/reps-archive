@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6727
+CLASS:PUBLIC
+DTSTAMP:20200407T174125Z
+DTSTART:20170610T063000Z
+DTEND:20170720T063000Z
+LOCATION:Remote\, Pune\, India
+SUMMARY:A-Frame Bug Fixing Contest
+DESCRIPTION:A contest for developers to get started on resolving the good-
+ first bugs for the aframe framework as well as the official website.\n\nFo
+ r any queries\, visit the etherpad link\, or contact @shaguftamethwani or 
+ @mdsbzalam on Telegram
+URL:https://reps.mozilla.org/e/a-frame-bug-fixing-contest/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4433573
+X-COORDINATES-LON:78.3753431
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

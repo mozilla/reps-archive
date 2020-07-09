@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7086
+CLASS:PUBLIC
+DTSTAMP:20200407T183809Z
+DTSTART:20171006T050000Z
+DTEND:20171006T083000Z
+LOCATION:Mawlana Bhashani Science and Technology University\, Taingail\, B
+ angladesh
+SUMMARY:Firefox Quantum Sprint @ MBSTU
+DESCRIPTION:With the introduction of Stylo on Nightly\, we know that websi
+ tes might break. The Firefox team is not able to test all of those website
+ s\, especially the local ones. For that reason\, we will help to test as m
+ any local websites as possible to build a better Firefox.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-mbstu/
+SEQUENCE:0
+X-COORDINATES-LAT:24.2353278824
+X-COORDINATES-LON:89.8898644745
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

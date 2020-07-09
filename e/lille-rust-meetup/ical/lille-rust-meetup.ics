@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6262
+CLASS:PUBLIC
+DTSTAMP:20200407T174207Z
+DTSTART:20170223T174500Z
+DTEND:20170223T210000Z
+LOCATION:16 Place du général de gaulle\, Lille\, France
+SUMMARY:Lille RUST Meetup
+DESCRIPTION:LilleFP is a group of developer in Lille who organized meetup 
+ for people who want to stay up to date about development.\n\nThis group al
+ ready organize 2 meetup with an average attendance of 60 people and wnat f
+ or the 3rd meetup to make an entire meetup about RUST.\n\nThis meetup will
+  be a test for the lauch of regular meetup about RUST
+URL:https://reps.mozilla.org/e/lille-rust-meetup/
+SEQUENCE:4
+X-COORDINATES-LAT:50.6368589477
+X-COORDINATES-LON:3.06369495374
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

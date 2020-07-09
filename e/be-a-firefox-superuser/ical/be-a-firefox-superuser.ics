@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4285
+CLASS:PUBLIC
+DTSTAMP:20200423T164257Z
+DTSTART:20150912T053000Z
+DTEND:20150912T083000Z
+LOCATION:Symbiosis Institute of Computer Studies and Research\, Pune\, Pun
+ e\, India
+SUMMARY:Be a Firefox Superuser
+DESCRIPTION:This event will be targeted at teaching participants only one 
+ thing....the Firefox browser...a to z of the browser. From customizing the
+  browser\, using the right add-ons to being secure on the web\, we are pla
+ nning to cover it all. The target is to build a few superusers of the Fire
+ fox browser.
+URL:https://reps.mozilla.org/e/be-a-firefox-superuser/
+SEQUENCE:2
+X-COORDINATES-LAT:18.5594760332
+X-COORDINATES-LON:74.5415040851
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

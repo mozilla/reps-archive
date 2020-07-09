@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8591
+CLASS:PUBLIC
+DTSTAMP:20200423T082407Z
+DTSTART:20190616T063000Z
+DTEND:20190616T113000Z
+LOCATION:Navrachana University\, Vadodara\, India
+SUMMARY:Flutter BootCamp - Week 1
+DESCRIPTION:Dart is a big reason why developers love Flutter. We will dive
+  into Dartverse. You will learn basics of dart to get started with Flutter
+ .\n\nThe moment you sign up for bootcamp is here. You will learn basic Flu
+ tter Widgets and will develop your first cross-platform application.\n\nEv
+ er had doubt whether SQL or NoSQL? Don&#39;t worry we got your back. You will 
+ learn SQL vs NoSQL and Firestore with Flutter. Also you will learn about B
+ LoC patterns.\n\nThe playground to test your newly acquire skills.
+URL:https://reps.mozilla.org/e/flutter-bootcamp/
+SEQUENCE:12
+X-COORDINATES-LAT:22.1433160213
+X-COORDINATES-LON:73.2846678793
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

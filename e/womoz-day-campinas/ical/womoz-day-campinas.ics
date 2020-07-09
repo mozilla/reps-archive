@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4730
+CLASS:PUBLIC
+DTSTAMP:20200423T161424Z
+DTSTART:20151117T100000Z
+DTEND:20151117T140000Z
+LOCATION:Escola Municipal de Ensino Fundamental Padre Leão Vallerie\, Cam
+ pinas\, Brazil
+SUMMARY:Womoz Day - Campinas
+DESCRIPTION:WoMoz Day is presentation event to WoMoz Brasil project\, look
+ ing for share experiences\, knowledge and mission\, supported with two tal
+ ks\, one workshop and theater\, organized by girls (new voluntary&#39;s WoMoz 
+ Brazil). The activities will presented for childrens\, youngs and teachers
+ .
+URL:https://reps.mozilla.org/e/womoz-day-campinas/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.9414284692
+X-COORDINATES-LON:-47.184788078
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6200
+CLASS:PUBLIC
+DTSTAMP:20200423T112801Z
+DTSTART:20170222T043000Z
+DTEND:20170223T103000Z
+LOCATION:S.P.B. Patel Engineering College Near Shanku’s Water Park Ahmed
+ abad Mehsana Highway At &amp; Post Linch\, District : Mehsana\, Gujarat 384435
+ \, Mehshana\, India
+SUMMARY:MozActivate With VEYG
+DESCRIPTION:This is the very first time Mozilla presence at new city name 
+ called &#34;Mehshana&#34; -  Thanks to Mozilla Gujarat Community! \n\n&#39;VEYG&#39; is a 
+ student driven technical festival that is conducted every year at our camp
+ us. Students from more than 50 colleges across Gujarat participate in our 
+ technical events.\n\nhttp://blog.mozillagujarat.org/mozactivate-with-veyg/
+URL:https://reps.mozilla.org/e/mozactivate-rajkot/
+SEQUENCE:11
+X-COORDINATES-LAT:24.6852888001
+X-COORDINATES-LON:71.7941898108
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

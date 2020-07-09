@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2772
+CLASS:PUBLIC
+DTSTAMP:20200423T190517Z
+DTSTART:20140906T080000Z
+DTEND:20140906T110000Z
+LOCATION:Riviere du Rempart\, Riviere du Rempart\, Mauritius
+SUMMARY:Mozilla Maker Party for kids
+DESCRIPTION:Mozilla Mauritius continues with its maker parties around the 
+ country and this time we are moving in the North at Riviere du Rempart. A 
+ mini-web-maker party will be organized for children who use to attend thei
+ r Saturday extra-curricular classes in Asian language.
+URL:https://reps.mozilla.org/e/mozilla-maker-party-for-kids/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.1067307069
+X-COORDINATES-LON:57.6898670162
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

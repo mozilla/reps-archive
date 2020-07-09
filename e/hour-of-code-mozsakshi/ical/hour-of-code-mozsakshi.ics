@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5132
+CLASS:PUBLIC
+DTSTAMP:20200423T154258Z
+DTSTART:20160310T010000Z
+DTEND:20160310T083500Z
+LOCATION:Guna\,Madhya Pradesh\, Bhopal\, India
+SUMMARY:Hour of Code-MozSakshi
+DESCRIPTION:The event aims at introduction to the Mozilla and its communit
+ ies.The event showcases the webmaker tools which are a great use to the de
+ velopers all over the world .The event contains introduction of  IoT (Inte
+ rnet of things). It also aims at encouraging people to contribute to the M
+ ozilla in their respective field of interest. It will also be used to show
+ case the various paths of contributing to Mozilla with a brief introductio
+ n to a few of them.
+URL:https://reps.mozilla.org/e/hour-of-code-mozsakshi/
+SEQUENCE:2
+X-COORDINATES-LAT:23.2607824267
+X-COORDINATES-LON:77.3978862766
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

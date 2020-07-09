@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@919
+CLASS:PUBLIC
+DTSTAMP:20200407T173706Z
+DTSTART:20130518T170000Z
+DTEND:20130518T223000Z
+LOCATION:Plaza Mayor de Lima\, Perú\, Lima\, Peru
+SUMMARY:Día de Internet ONGEI 2013
+DESCRIPTION:Celebrating the World Telecommunication and Information Societ
+ y Day ceremony on 17 May\, the National Office of Electronic Government an
+ d Informatics (ONGEI) in Peru and the City Hall of Lima\, Peru will develo
+ p a set of activities. Mozilla Peru will join a fair where we will talk ab
+ out the Mozilla&#39;s mission and the advantages of using Firefox. The event w
+ ill take place in the main square of Lima\, the capital of Peru.
+URL:https://reps.mozilla.org/e/dia-de-internet-ongei-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.0457421062
+X-COORDINATES-LON:-77.0310688019
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

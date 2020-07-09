@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5266
+CLASS:PUBLIC
+DTSTAMP:20200407T181952Z
+DTSTART:20160416T110000Z
+DTEND:20160416T220000Z
+LOCATION:Instituto Federal de Educação Ciência e Tecnologia da Bahia\, 
+ Valença\, Brazil
+SUMMARY:Flisol Valença
+DESCRIPTION:The Latino Festival of Free Software Installation American - F
+ LISoL is an international event held annually\, which occurs simultaneousl
+ y in several cities in Latin America. The FLISoL is a decentralized event 
+ where different communities organize and perform their festival\, voluntar
+ ily\, with the main objective to promote the use of free software\, presen
+ ting its philosophy\, scope\, progress and development to the general publ
+ ic.\nCheck: https://wiki.mozilla.org/BrazilianEvents:2016/FlisolValenca
+URL:https://reps.mozilla.org/e/flisol-valenca/
+SEQUENCE:2
+X-COORDINATES-LAT:-17.0099524442
+X-COORDINATES-LON:-39.7120971791
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1095
+CLASS:PUBLIC
+DTSTAMP:20200423T212621Z
+DTSTART:20130716T040000Z
+DTEND:20130716T070000Z
+LOCATION:Sekolah Tinggi Perpajakan Indonesia\, Jakarta\, Indonesia
+SUMMARY:STPI Firefox Club (FSA)
+DESCRIPTION:We help spread firefox and promote Mozilla&#39;s mission at Sekola
+ h Tinggi Perpajakan Indonesia. This event will give an introduction about 
+ Firefox Student Ambassador program. And also focus on Mozilla Webmaker.
+URL:https://reps.mozilla.org/e/stpi-firefox-club-fsa/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.20102634464
+X-COORDINATES-LON:106.855459467
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

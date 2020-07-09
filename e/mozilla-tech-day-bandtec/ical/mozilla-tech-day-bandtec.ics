@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@866
+CLASS:PUBLIC
+DTSTAMP:20200407T173741Z
+DTSTART:20130615T110000Z
+DTEND:20130615T220000Z
+LOCATION:BandTec Rua Estela\, 268 - Vila Mariana\, São Paulo\, Brazil
+SUMMARY:Mozilla Tech Day - BandTec
+DESCRIPTION:The Mozilla Tech Day is an event proposed by me to realize her
+ e in Brasil inside Universities to spread the Mozilla&#39;s technologies and p
+ rojects and bring new contributors to our community.\n\nThe first edition 
+ will be realized inside the BandTec University in São Paulo - Brasil with
+  a day of activities\, including talks and hands-on sessions.\n\nCovering 
+ themes like:\n\nWebmaker\nFirefoxOS\nMozilla Developer Network\nHTML5+CSS3
+ \nWebAPIs\nPersona and OpenBadges\n\nAttendees : 150-200 (estimated)
+URL:https://reps.mozilla.org/e/mozilla-tech-day-bandtec/
+SEQUENCE:8
+X-COORDINATES-LAT:-23.5506119312
+X-COORDINATES-LON:-46.6354179382
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

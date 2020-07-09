@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5161
+CLASS:PUBLIC
+DTSTAMP:20200407T181555Z
+DTSTART:20160318T043000Z
+DTEND:20160319T113000Z
+LOCATION:JNTU\, Hyderabad\, Hyderabad\, India
+SUMMARY:Hackathon on Internet of Things
+DESCRIPTION:Developers hacking around Firefox OS for Internet Of Things(Io
+ T) as part of Mozilla&#39;s mission for connected devices. This will involve I
+ oT and JavaScript\, Hands-on on Arduino\, Firefox OS and making offline ap
+ ps using OghLiner. \n\nThis is being organized on par with the ongoing FSA
+  Bootcamp in Hyderabad.
+URL:https://reps.mozilla.org/e/hackathon-on-internet-of-things/
+SEQUENCE:2
+X-COORDINATES-LAT:17.3086878868
+X-COORDINATES-LON:78.4423828125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

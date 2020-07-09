@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2368
+CLASS:PUBLIC
+DTSTAMP:20200423T193937Z
+DTSTART:20140608T081500Z
+DTEND:20140608T093000Z
+LOCATION:Ananya Mens Hostel\, Gachibowli\, Hyderabad\, India
+SUMMARY:Mozilla Geolocation Pilot
+DESCRIPTION:- Download &amp; install\nMozStumbler&lt;https://github.com/mozilla/M
+ ozStumbler/releases&gt;on your\nGPS enabled Android phone\n          - Open t
+ he App\, visit settings &amp; set a Nickname\n           - The nick will be us
+ ed for ranking you on the\nleaderboard&lt;https://location.services.mozilla.c
+ om/leaders&gt;\n      - Go on about Stumbling all over Hyderabad (or\, as muc
+ h as you can\n   cover)\nThe kick off event has been scheduled at 2:00PM I
+ ST on 8th June\, 2014. Join us over Vidyo at http://mzl.la/remo-vidyo.
+URL:https://reps.mozilla.org/e/mozilla-geolocation-pilot/
+SEQUENCE:4
+X-COORDINATES-LAT:17.4318901286
+X-COORDINATES-LON:78.4547424316
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5625
+CLASS:PUBLIC
+DTSTAMP:20200407T170242Z
+DTSTART:20160713T160000Z
+DTEND:20160713T170000Z
+LOCATION:http://doodle.com/poll/6xk2t5v5zws9cimb\, New Delhi\, India
+SUMMARY:Mozcafe- Mozpacers - Mozilla India Planning Meetup
+DESCRIPTION:An update event on the Mozilla india planning meetup for the r
+ egional community.
+URL:https://reps.mozilla.org/e/mozcafe-mozpacers-mozilla-india-planning-me
+ etup/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6068285705
+X-COORDINATES-LON:77.2210121155
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

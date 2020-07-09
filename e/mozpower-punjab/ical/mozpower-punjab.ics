@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@956
+CLASS:PUBLIC
+DTSTAMP:20200407T165610Z
+DTSTART:20130811T033000Z
+DTEND:20130811T103000Z
+LOCATION:Rayat-Bahra Group of Institutes \, Hoshiarpur\, Hoshiarpur\, Indi
+ a
+SUMMARY:MozPower Punjab
+DESCRIPTION:After successful organization of 3 events in Punjab \, India i
+ n the month of March 2013 \, Now the target is to make the already recruit
+ ed volunteers more active &amp; also looking for more possible active contribu
+ tors in the other regions of Punjab.
+URL:https://reps.mozilla.org/e/mozpower-punjab/
+SEQUENCE:33
+X-COORDINATES-LAT:18.6462451427
+X-COORDINATES-LON:80.15625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

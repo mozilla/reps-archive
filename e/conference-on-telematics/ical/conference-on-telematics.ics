@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3024
+CLASS:PUBLIC
+DTSTAMP:20200423T184907Z
+DTSTART:20141006T140000Z
+DTEND:20141008T230000Z
+LOCATION:Centro Universitario del Sur\, Ciudad Guzmán\, Mexico
+SUMMARY:Conference on Telematics
+DESCRIPTION:Lectures and workshops on current issues in technology and inn
+ ovation.
+URL:https://reps.mozilla.org/e/conference-on-telematics/
+SEQUENCE:2
+X-COORDINATES-LAT:19.7255029949
+X-COORDINATES-LON:-103.461958408
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

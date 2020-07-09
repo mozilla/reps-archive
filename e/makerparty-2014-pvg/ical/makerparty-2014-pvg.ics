@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2393
+CLASS:PUBLIC
+DTSTAMP:20200423T192725Z
+DTSTART:20140712T043000Z
+DTEND:20140712T103000Z
+LOCATION:Pune Vidhyarthi Griha&#39;s  College of Engineering\, Nashik.  206\, 
+ Dindori Road\,  Behind Reliance Petrol Pump\, Near Meri\,  Mhasrul\, Nashi
+ k\, India
+SUMMARY:MakerParty 2014 @ PVG
+DESCRIPTION:This event is aimed as a start of Maker Party 2014 in Nasik\,I
+ ndia for Engineering college students. The Event would also have Introduct
+ ory session of Firefox and Its privacy and security.
+URL:https://reps.mozilla.org/e/makerparty-2014-pvg/
+SEQUENCE:13
+X-COORDINATES-LAT:19.9991067007
+X-COORDINATES-LON:73.8053512434
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

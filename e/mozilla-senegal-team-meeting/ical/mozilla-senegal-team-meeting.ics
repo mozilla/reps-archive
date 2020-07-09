@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2943
+CLASS:PUBLIC
+DTSTAMP:20200407T175902Z
+DTSTART:20141011T150000Z
+DTEND:20141011T180000Z
+LOCATION:Zone de captage codems front de terr\, Dakar\, Senegal
+SUMMARY:Mozilla Senegal Team Meeting
+DESCRIPTION:Mozilla Senegal Team Meeting to review and update our activity
+  for the next year
+URL:https://reps.mozilla.org/e/mozilla-senegal-team-meeting/
+SEQUENCE:2
+X-COORDINATES-LAT:14.764504
+X-COORDINATES-LON:-17.366029
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

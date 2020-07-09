@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1988
+CLASS:PUBLIC
+DTSTAMP:20200423T201838Z
+DTSTART:20140311T210000Z
+DTEND:20140311T220000Z
+LOCATION:Busch Avenue\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Week Anniversary of Science Computer and Telecommunications
+DESCRIPTION:Week Anniversary of Science Computer and Telecommunications of
+  the Gabriel Rene Moreno University in Santa Cruz city.\nAll the week will
+  show conferences about Informations Technologies and our Mozillian Commun
+ ity is invited to show about tools of development for Firefox OS  and web 
+ apps.\n\nHere the Schedule: http://is.gd/aMGUXh
+URL:https://reps.mozilla.org/e/week-anniversary-of-science-computer-and-te
+ lecommunications/
+SEQUENCE:2
+X-COORDINATES-LAT:-17.7745606016
+X-COORDINATES-LON:-63.1947097782
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

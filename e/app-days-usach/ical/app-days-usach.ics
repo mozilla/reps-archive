@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2631
+CLASS:PUBLIC
+DTSTAMP:20200423T191047Z
+DTSTART:20140823T133000Z
+DTEND:20140906T170000Z
+LOCATION:Avenida Libertador Bernardo O&#39;Higgins nº 3363\, Santiago\, Chile
+SUMMARY:Firefox OS App Days USACH
+DESCRIPTION:App Days USACH is a full of four sessions\, starting in August
+  23rd and finishing in September 13th. Type of event: ‘hacks sessions’
+  for intermediate level developers. The goal of the App Day is to introduc
+ e Firefox OS and Firefox Marketplace\, and share knowledge about the tools
+  available to help developers get started building apps to submit to the M
+ arketplace.
+URL:https://reps.mozilla.org/e/app-days-usach/
+SEQUENCE:23
+X-COORDINATES-LAT:-33.451819064
+X-COORDINATES-LON:-70.6866760254
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

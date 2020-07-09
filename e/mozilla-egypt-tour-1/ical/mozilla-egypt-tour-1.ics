@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3269
+CLASS:PUBLIC
+DTSTAMP:20200407T174904Z
+DTSTART:20150210T080000Z
+DTEND:20150601T170000Z
+LOCATION:Egypt\, Cairo\, Egypt
+SUMMARY:Mozilla Egypt Tour (1)
+DESCRIPTION:First part : About \n   Will give you a chance to look at the 
+ big picture of Mozilla and Mozilla Egypt community in particular\, who we 
+ are\, what we believe in\, we&#39;ll talk about new mozilla technologies\, ins
+ ights into the Mozilla Egypt community\, and how to get involved . Lots of
+  fun and challenges will be there .\nSecond part : Firefox OS and WebMaker
+  Circles\n  Join us to learn and celebrate the Firefox OS (Mozilla&#39;s open 
+ source operating system for the mobile web) and Mozilla Webmaker.
+URL:https://reps.mozilla.org/e/mozilla-egypt-tour-1/
+SEQUENCE:7
+X-COORDINATES-LAT:29.9517617737
+X-COORDINATES-LON:31.3168944418
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

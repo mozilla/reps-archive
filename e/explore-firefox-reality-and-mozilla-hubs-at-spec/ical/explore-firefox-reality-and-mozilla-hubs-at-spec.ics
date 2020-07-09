@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9007
+CLASS:PUBLIC
+DTSTAMP:20200407T165007Z
+DTSTART:20200201T033000Z
+DTEND:20200202T113000Z
+LOCATION:National Institute of Technology\, Hamirpur\, Hamirpur\, India
+SUMMARY:Explore Firefox Reality and Mozilla Hubs at SPEC
+DESCRIPTION:SPEC is being run under the aegis of Electronics and Communica
+ tion Department\, NIT Hamirpur and the department itself has collaborated 
+ in the various activities conducted by SPEC.The society also invites vario
+ us guest speakers and lecturers from around India to deliver talks during 
+ the SPEC-FEST. The team has worked for the benefits of students in past an
+ d promise to continue its contribution with full dedication in future.
+URL:https://reps.mozilla.org/e/explore-firefox-reality-and-mozilla-hubs-at
+ -spec/
+SEQUENCE:6
+X-COORDINATES-LAT:31.6742262044
+X-COORDINATES-LON:76.5220641531
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

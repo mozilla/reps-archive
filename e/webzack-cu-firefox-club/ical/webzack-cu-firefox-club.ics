@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4739
+CLASS:PUBLIC
+DTSTAMP:20200423T162243Z
+DTSTART:20151026T043000Z
+DTEND:20151026T103000Z
+LOCATION:Chandigarh University\, Chandigarh\, India
+SUMMARY:WebZack   CU-Firefox Club
+DESCRIPTION:The event is being organised by  one of the most active clubs 
+ of Mozilla Punjab \, which is CU Firefox Club Chandigarh
+URL:https://reps.mozilla.org/e/webzack-cu-firefox-club/
+SEQUENCE:4
+X-COORDINATES-LAT:30.7349914671
+X-COORDINATES-LON:76.7613407735
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

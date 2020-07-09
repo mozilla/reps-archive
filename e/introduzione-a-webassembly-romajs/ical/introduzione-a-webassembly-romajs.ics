@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6739
+CLASS:PUBLIC
+DTSTAMP:20200423T105900Z
+DTSTART:20170621T170000Z
+DTEND:20170621T180000Z
+LOCATION:Luiss Enlabs\, Rieti\, Italy
+SUMMARY:Introduzione a WebAssembly - RomaJS
+DESCRIPTION:A talk at RomaJS meetup about WebAssembly by Gabriele\, an Ita
+ lian TechSpeaker
+URL:https://reps.mozilla.org/e/introduzione-a-webassembly-romajs/
+SEQUENCE:1
+X-COORDINATES-LAT:41.8985611017
+X-COORDINATES-LON:12.5065155036
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

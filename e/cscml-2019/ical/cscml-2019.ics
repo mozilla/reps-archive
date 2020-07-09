@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8551
+CLASS:PUBLIC
+DTSTAMP:20200423T082244Z
+DTSTART:20190626T170000Z
+DTEND:20190627T170000Z
+LOCATION:Saal Auditorium\, Ben-Gurion University\, Be&#39;er Sheva\, Israel
+SUMMARY:CSCML 2019
+DESCRIPTION:The Symposium is an international forum for researchers and pr
+ actitioners in the theory\, design\, analysis\, implementation\, or applic
+ ation of cyber security\, cryptography and machine learning systems and ne
+ tworks\; and\, in particular\, of conceptually innovative results.
+URL:https://reps.mozilla.org/e/cscml-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:31.4224136076
+X-COORDINATES-LON:35.1152336597
+X-COUNTRY-CODE:il
+END:VEVENT
+
+END:VCALENDAR

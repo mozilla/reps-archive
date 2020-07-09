@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5315
+CLASS:PUBLIC
+DTSTAMP:20200423T152948Z
+DTSTART:20160425T234000Z
+DTEND:20160426T004000Z
+LOCATION:FACCAT - Faculdades Integradas de Taquara\, Taquara\, Brazil
+SUMMARY:TechParty 2016
+DESCRIPTION:TechParty FACCAT is a event a completely free and open to the 
+ community event to promote the Information Technology (IT) and knowledge s
+ haring. There will be two talks per night for a whole week\, with qualifie
+ d and experienced in their fields. The activities will be conducted by int
+ ernal staff and outside the institution.
+URL:https://reps.mozilla.org/e/techparty-2016/
+SEQUENCE:10
+X-COORDINATES-LAT:-29.6443058271
+X-COORDINATES-LON:-50.7843015
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

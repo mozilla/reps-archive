@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2035
+CLASS:PUBLIC
+DTSTAMP:20200423T201117Z
+DTSTART:20140328T230000Z
+DTEND:20140329T090000Z
+LOCATION:SAP Labs\, Bangalore\, Bangalore\, India
+SUMMARY:Barcamp Bangalore
+DESCRIPTION:Barcamp Bangalore is an open event focused around people\, ide
+ as and collaboration. There is no fixed format and agenda.\n\nSessions on 
+ variety of topics like\n  •   Technology\n  •   Design\n  •   Startu
+ ps &amp; Entrepreneurship\n  •   Business &amp; Management\n  •   Photography\
+ n  •   User Experience\n  •   Your life learnings\n  •   and a lot m
+ ore...\n\nMozilla has been a part of Barcamp Bangalore for past few years.
+URL:https://reps.mozilla.org/e/barcamp-bangalore/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9827016821
+X-COORDINATES-LON:77.6119994
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

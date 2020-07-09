@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1782
+CLASS:PUBLIC
+DTSTAMP:20200407T182303Z
+DTSTART:20140322T043000Z
+DTEND:20140323T113000Z
+LOCATION:Pune\, Pune\, India
+SUMMARY:Mozilla Hindi Community Meet
+DESCRIPTION:The Hindi localization team from across India will meet to dis
+ cuss on completely redesigning the way localization of products are done. 
+ Improving the contribution funnel\, assigning tasks and ownership of produ
+ ct localization to community. Hindi is one of the most spoken language of 
+ the world.
+URL:https://reps.mozilla.org/e/mozilla-hindi-community-meet/
+SEQUENCE:11
+X-COORDINATES-LAT:18.5149622956
+X-COORDINATES-LON:73.9265534873
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

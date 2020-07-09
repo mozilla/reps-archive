@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2803
+CLASS:PUBLIC
+DTSTAMP:20200423T184934Z
+DTSTART:20141004T140000Z
+DTEND:20141005T140000Z
+LOCATION:Universidad Santo Tomas de Aquino\, Bogota\, Colombia
+SUMMARY:Software Freedom Day Bogotá
+DESCRIPTION:On 04 October 2014\, user groups of Free Software from Colombi
+ a  come together to celebrate the International Software Freedom Day. Ther
+ e will be workshops\, lectures and presentations by the Colombian communit
+ y.
+URL:https://reps.mozilla.org/e/software-freedom-day-bogota/
+SEQUENCE:8
+X-COORDINATES-LAT:4.55952722077
+X-COORDINATES-LON:-74.0431630611
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

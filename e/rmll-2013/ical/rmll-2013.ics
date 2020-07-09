@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@950
+CLASS:PUBLIC
+DTSTAMP:20200423T212822Z
+DTSTART:20130706T080000Z
+DTEND:20130711T160000Z
+LOCATION:ULB Campus Solbosch\, Brussels\, Belgium
+SUMMARY:RMLL 2013
+DESCRIPTION:14th RMLL/LSM is a non-commercial cycle of conferences\, round
+  tables and practical workshops based on Libre Software and its uses. Its 
+ aim is to provide a platform for Libre Software users\, developers and sta
+ keholders.\n\nAccess to LSM is free of charge and open to all.\n\nThis yea
+ r\, the LSM will be organised in Brussels from 6th to 11th July 2013 by a 
+ collective of local associations\, with the support of public and private 
+ partners.
+URL:https://reps.mozilla.org/e/rmll-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:50.8129380219
+X-COORDINATES-LON:4.38137769699
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

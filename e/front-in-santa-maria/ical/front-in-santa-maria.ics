@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3871
+CLASS:PUBLIC
+DTSTAMP:20200407T181954Z
+DTSTART:20150627T110000Z
+DTEND:20150627T214000Z
+LOCATION:Itaimbé Palace Hotel - Rua Venâncio Aires\, 2741 - Santa Maria 
+ - RS\, Santa Maria\, Brazil
+SUMMARY:Front in Santa Maria
+DESCRIPTION:Front in Santa Maria/Front in SM is an event with focus in dev
+ elopers\, web designers and all people who wants learn or just are curious
+  about the web and everything it represents in our actual life.\nThis even
+ t will happen in south of Brazil in a state where occur one of biggest eve
+ nts of Javascript known as BrazilJS and other events as RSJS and Front In 
+ PoA in Porto Alegre city\, neighbor of Santa Maria.
+URL:https://reps.mozilla.org/e/front-in-santa-maria/
+SEQUENCE:5
+X-COORDINATES-LAT:-29.6889731463
+X-COORDINATES-LON:-53.827290684
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

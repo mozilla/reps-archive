@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3045
+CLASS:PUBLIC
+DTSTAMP:20200423T183247Z
+DTSTART:20141112T190000Z
+DTEND:20141112T220000Z
+LOCATION:Restaurant O bolles\, Bollwerk 35\, 3011 Bern\, Berne\, Switzerla
+ nd
+SUMMARY:10 Years Firefox - Bern meetup
+DESCRIPTION:Let&#39;s meet up in Bern for an informal &#34;10 years of Firefox&#34; ce
+ lebration. We&#39;ll sit together and have some talks about the last 10 years 
+ and talk about Firefox and Mozilla in general. If nobody non-German-speaki
+ ng shows up\, we&#39;ll be having the discussions in German.
+URL:https://reps.mozilla.org/e/10-years-firefox-bern-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:46.9515652626
+X-COORDINATES-LON:7.44136548034
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

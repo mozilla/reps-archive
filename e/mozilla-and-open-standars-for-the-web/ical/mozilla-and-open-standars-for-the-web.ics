@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4769
+CLASS:PUBLIC
+DTSTAMP:20200423T160857Z
+DTSTART:20151128T120000Z
+DTEND:20151205T220000Z
+LOCATION:Petrolera Ave. and Comercio street\, Camiri\, Bolivia
+SUMMARY:Mozilla and Open standars for the web.
+DESCRIPTION:This event will be for two days training\, We&#39;ll teach open st
+ andars web tools and how these tools can be use to collaborate with Mozill
+ a.\nThis event will be the very first in this kind and\, like 40 students 
+ will be training in theses topics.\nWe hope to launch like 2 to 5 Firefox 
+ OS Apps.
+URL:https://reps.mozilla.org/e/mozilla-and-open-standars-for-the-web/
+SEQUENCE:5
+X-COORDINATES-LAT:-20.0397053304
+X-COORDINATES-LON:-63.5181112288
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

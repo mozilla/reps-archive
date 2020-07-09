@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8079
+CLASS:PUBLIC
+DTSTAMP:20200423T085231Z
+DTSTART:20181110T140000Z
+DTEND:20181112T000000Z
+LOCATION:Juan de Cordova Library\, Oaxaca\, Mexico
+SUMMARY:Hackathon L10n 2018 Mozilla Nativo
+DESCRIPTION:Core focus: * Mozilla Nativo Projects *Rebuilding communities 
+ * Evangelizing localized products * Quality * Training on tooling changes 
+ *Training open communities
+URL:https://reps.mozilla.org/e/hackathon-l10n-2018-mozilla-nativo/
+SEQUENCE:2
+X-COORDINATES-LAT:17.0613164056
+X-COORDINATES-LON:-96.7220335008
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

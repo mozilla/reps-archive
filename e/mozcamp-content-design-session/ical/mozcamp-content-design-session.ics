@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2175
+CLASS:PUBLIC
+DTSTAMP:20200407T174500Z
+DTSTART:20140423T160000Z
+DTEND:20140426T000000Z
+LOCATION:Mozilla Office\, San Francisco\, United States
+SUMMARY:MozCamp Content Design Session
+DESCRIPTION:The meetup looks to evolve MozCamps to better support our goal
+  to increase active contributors to Mozilla’s target initiatives by 10x.
+   It will also explore how MozCamps can be used to initiate a series of di
+ stributed and global events to recruit new Mozilians.
+URL:https://reps.mozilla.org/e/mozcamp-content-design-session/
+SEQUENCE:1
+X-COORDINATES-LAT:37.7887921878
+X-COORDINATES-LON:-122.389724493
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

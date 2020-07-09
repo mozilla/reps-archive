@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1103
+CLASS:PUBLIC
+DTSTAMP:20200423T211644Z
+DTSTART:20130822T170000Z
+DTEND:20130822T190000Z
+LOCATION:Scandic Anglais Humlegårdsgatan 23\, 102 44\, Stockholm\, Sweden
+SUMMARY:Stockholm MozCafe
+DESCRIPTION:Community building meetup for all Mozillians and anyone else i
+ nterested in the open web! We&#39;ll be focusing on localization\, how to get 
+ involved\, and community organization. This event will be hosted with the 
+ Stockholm Loungehackers.
+URL:https://reps.mozilla.org/e/stockholm-mozcafe/
+SEQUENCE:3
+X-COORDINATES-LAT:59.3369540823
+X-COORDINATES-LON:18.0731964111
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

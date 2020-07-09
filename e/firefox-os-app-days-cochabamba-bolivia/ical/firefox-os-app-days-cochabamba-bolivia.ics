@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1004
+CLASS:PUBLIC
+DTSTAMP:20200423T212108Z
+DTSTART:20130803T160000Z
+DTEND:20130803T230000Z
+LOCATION:Avenida Siles\, Cochabamba\, Bolivia
+SUMMARY:Firefox OS App Days - Cochabamba\, Bolivia
+DESCRIPTION:Part of the worldwide App Days events (organized after the Jan
+  26th milestone). Developers gathering to hack around FirefoxOS\, Web Apps
+ \, Web APIs. This is the first time that we made a Firefox OS in the city 
+ of Cochabamba!!! there are a lot of developers\, who want to learn about F
+ irefox OS Apps!!!
+URL:https://reps.mozilla.org/e/firefox-os-app-days-cochabamba-bolivia/
+SEQUENCE:4
+X-COORDINATES-LAT:-17.4065847339
+X-COORDINATES-LON:-66.1649036407
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

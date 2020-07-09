@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2758
+CLASS:PUBLIC
+DTSTAMP:20200407T183605Z
+DTSTART:20140913T163000Z
+DTEND:20140914T003000Z
+LOCATION:CCSF Ocean Campus Batmale Hall\, San Francisco\, United States
+SUMMARY:Open Source Comes to Campus: City College of San Francisco
+DESCRIPTION:This is a day-long immersion event that will take place on Sep
+ tember 13\, 2014 at City College of San Francisco&#39;s Ocean campus. The curr
+ iculum is designed by OpenHatch\, a non-profit dedicated to helping people
+  get involved in open source.\nStudents will be working on Mozilla project
+ s with Mozilla Mentors
+URL:https://reps.mozilla.org/e/open-source-comes-to-campus-city-college-of
+ -san-francisco/
+SEQUENCE:1
+X-COORDINATES-LAT:37.6461346039
+X-COORDINATES-LON:-122.320312858
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

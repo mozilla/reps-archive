@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@642
+CLASS:PUBLIC
+DTSTAMP:20200423T215429Z
+DTSTART:20130410T150000Z
+DTEND:20130412T170000Z
+LOCATION:University of Sonora\, Hermosillo\, Mexico
+SUMMARY:Axis 2013
+DESCRIPTION:THIS INNOVATING\, transforming the future\n\nThey are a group 
+ of students transforming the AXIS project\,which became one of the centers
+  of most important Industrial Engineering in Mexico\,becoming at No.2. Pic
+ king up with a new approach now also including the areas of Industrial Eng
+ ineering and Engineering Mechatronics Engineering Systems. Looking to crea
+ te a space for training to industry in the region\, and to train participa
+ nts with different tools that complement their professional development.
+URL:https://reps.mozilla.org/e/axis-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:29.083136
+X-COORDINATES-LON:-110.964076
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7321
+CLASS:PUBLIC
+DTSTAMP:20200407T181218Z
+DTSTART:20180125T230000Z
+DTEND:20180128T225500Z
+LOCATION:Faculty of Information Technology\, Brno University of Technology
+ \, Brno\, Czech Republic
+SUMMARY:DevConf.cz 2018
+DESCRIPTION:DevConf.cz 2018 is the 10th annual\, free\, Red Hat sponsored 
+ community conference for developers\, admins\, DevOps engineers\, testers\
+ , documentation writers and other contibutors to open source technologies 
+ such as Linux\, Middleware\, Virtualization\, Storage\, Cloud and mobile w
+ here FLOSS communities sync\, share\, and hack on upstream projects togeth
+ er in the beautiful city of Brno\, Czech Republic.
+URL:https://reps.mozilla.org/e/devconf-cz-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:49.2263559718
+X-COORDINATES-LON:16.5968304277
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

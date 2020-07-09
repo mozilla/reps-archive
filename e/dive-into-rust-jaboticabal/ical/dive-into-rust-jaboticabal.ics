@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7351
+CLASS:PUBLIC
+DTSTAMP:20200423T100119Z
+DTSTART:20180203T150000Z
+DTEND:20180203T180000Z
+LOCATION:20\, Floriano Peixoto St.\, Jaboticabal - SP\, Jaboticabal\, Braz
+ il
+SUMMARY:Dive Into Rust @ Jaboticabal
+DESCRIPTION:The Rust programming language will be important to the future 
+ of the web\, making it safe and great. Having more developers understand\,
+  use and evangelize this language will advance make the web better and mor
+ e secure. At Brazil we’ll run Rust Roadshow Brasil 2018 made by Mozilla 
+ and Rust communities\, we’re excited to engage more Rust mobilizers to t
+ ake the lead and organize local engaging and participatory Rust activities
+ .
+URL:https://reps.mozilla.org/e/dive-into-rust-jaboticabal/
+SEQUENCE:4
+X-COORDINATES-LAT:-21.2622416836
+X-COORDINATES-LON:-48.3152389529
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

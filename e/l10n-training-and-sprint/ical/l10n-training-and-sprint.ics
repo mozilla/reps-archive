@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2577
+CLASS:PUBLIC
+DTSTAMP:20200407T174822Z
+DTSTART:20140904T033000Z
+DTEND:20140904T113000Z
+LOCATION:Satyabama University\, Tiruvallur\, India
+SUMMARY:l10n Training and Sprint
+DESCRIPTION:Technosummit is a National Level Technical symposium conducted
+  by Sathyabama University for a period of three days.\nThe l10n training h
+ elps people contribute to Open Source in general.\nTraining and sprint wou
+ ld be conducted in three languages-Hindi\, Tamil and Telugu.
+URL:https://reps.mozilla.org/e/l10n-training-and-sprint/
+SEQUENCE:3
+X-COORDINATES-LAT:13.1556575929
+X-COORDINATES-LON:80.2957305894
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7795
+CLASS:PUBLIC
+DTSTAMP:20200423T092626Z
+DTSTART:20180604T110000Z
+DTEND:20180604T210000Z
+LOCATION:Fatec Taquaritinga\, Taquaritinga\, Brazil
+SUMMARY:Firefox Support Sprint - Taquaritinga
+DESCRIPTION:With more and more people getting connected to the internet vi
+ a their phones nowadays\, Firefox for Android a key product for Mozilla to
+  remain relevant and influence the market. Participate in the support spri
+ nt and help our users to get better Firefox experience in your language.
+URL:https://reps.mozilla.org/e/firefox-support-sprint-taquaritinga/
+SEQUENCE:2
+X-COORDINATES-LAT:-21.429464294
+X-COORDINATES-LON:-48.5146665582
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

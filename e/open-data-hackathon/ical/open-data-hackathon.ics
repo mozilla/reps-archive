@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1365
+CLASS:PUBLIC
+DTSTAMP:20200423T205107Z
+DTSTART:20131116T010000Z
+DTEND:20131117T090000Z
+LOCATION:12/F SaDoce\, Smart Tower\, 6799 Ayala Ave.\, Makati City\, Calam
+ ba\, Philippines
+SUMMARY:Open Data Hackathon
+DESCRIPTION:As one of the eight founding states of the Open Government Par
+ tnership\, the Philippine government is committed to Open Governance throu
+ gh initiatives such as Open Data Philippines.
+URL:https://reps.mozilla.org/e/open-data-hackathon/
+SEQUENCE:8
+X-COORDINATES-LAT:14.55687633
+X-COORDINATES-LON:121.023051739
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

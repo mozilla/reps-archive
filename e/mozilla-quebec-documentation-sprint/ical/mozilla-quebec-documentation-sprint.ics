@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@492
+CLASS:PUBLIC
+DTSTAMP:20200407T175110Z
+DTSTART:20130209T143000Z
+DTEND:20130210T020000Z
+LOCATION:Caravan\, Montréal\, Canada
+SUMMARY:Mozilla Québec Documentation Sprint
+DESCRIPTION:People will gather to share their love of the Open Web and con
+ tribute to keeping it opened by sharing their knowledge.\nEric Shepherd (@
+ sheppy) will be present to guide us through and act as a facilitator.
+URL:https://reps.mozilla.org/e/mozilla-quebec-documentation-sprint/
+SEQUENCE:0
+X-COORDINATES-LAT:45.5265170123
+X-COORDINATES-LON:-73.594622612
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

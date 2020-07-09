@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5109
+CLASS:PUBLIC
+DTSTAMP:20200423T154939Z
+DTSTART:20160211T033000Z
+DTEND:20160212T113000Z
+LOCATION:Toc H Institute Of Science &amp; Technology\, Piravam\, India
+SUMMARY:Mozilla @ TECHFOSS 2K16
+DESCRIPTION:Tech FOSS is a national event conducted by CSI Student Branch 
+ &amp; IEDC\, TocH Institute of Science and Technology\, jointly with Computer 
+ Society of India. Our mission is to free people from the world of expensiv
+ e software and to create awareness about the free alternatives available\,
+  which are of the same or higher quality. We support the event by hosting 
+ a Mini MakerParty.
+URL:https://reps.mozilla.org/e/mozilla-techfoss-2k16/
+SEQUENCE:2
+X-COORDINATES-LAT:9.91506794772
+X-COORDINATES-LON:76.415771484
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

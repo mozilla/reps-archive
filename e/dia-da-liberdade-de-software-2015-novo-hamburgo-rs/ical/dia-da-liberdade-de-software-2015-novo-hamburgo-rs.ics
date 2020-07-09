@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4296
+CLASS:PUBLIC
+DTSTAMP:20200423T163821Z
+DTSTART:20150919T160000Z
+DTEND:20150919T200000Z
+LOCATION:Universidade Feevale Campus 2\, Novo Hamburgo\, Brazil
+SUMMARY:Dia da Liberdade de Software 2015 - Novo Hamburgo / RS
+DESCRIPTION:Software Freedom Day is a worldwide celebration of Free and Op
+ en Source Software (FOSS). Our goal in this celebration is to educate the 
+ worldwide public about the benefits of using high quality FOSS in educatio
+ n\, in government\, at home\, and in business -- in short\, everywhere!
+URL:https://reps.mozilla.org/e/dia-da-liberdade-de-software-2015-novo-hamb
+ urgo-rs/
+SEQUENCE:4
+X-COORDINATES-LAT:-29.6649608563
+X-COORDINATES-LON:-51.1190401018
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

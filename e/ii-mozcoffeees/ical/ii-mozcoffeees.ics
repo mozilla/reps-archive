@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3772
+CLASS:PUBLIC
+DTSTAMP:20200407T175754Z
+DTSTART:20150425T183000Z
+DTEND:20150425T193000Z
+LOCATION:CEET Vasco Countinho\, Vila Velha\, Brazil
+SUMMARY:II MozCoffeeES
+DESCRIPTION:The main focus of this event is to get the community stronger 
+ an recruit new volunteers to help us on events\, work on our work groups a
+ nd above all create a better web through knowledge sharing. It&#39;s going to 
+ happen inside Vila Velha&#39;s FLISOL.
+URL:https://reps.mozilla.org/e/ii-mozcoffeees/
+SEQUENCE:0
+X-COORDINATES-LAT:-20.3605067846
+X-COORDINATES-LON:-40.3229369223
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

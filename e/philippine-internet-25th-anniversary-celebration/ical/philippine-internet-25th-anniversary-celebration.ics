@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8517
+CLASS:PUBLIC
+DTSTAMP:20200407T175902Z
+DTSTART:20190330T053000Z
+DTEND:20190330T100000Z
+LOCATION:Canva Manila\, Makati City\, Philippines
+SUMMARY:Philippine Internet 25th Anniversary Celebration
+DESCRIPTION:MozillaPH spearheaded the celebration of the Philippines&#39; 25th
+  year of being connected to the Internet. The event is co-organized with o
+ ther tech communities in the country.
+URL:https://reps.mozilla.org/e/philippine-internet-25th-anniversary-celebr
+ ation/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5558370197
+X-COORDINATES-LON:121.016759634
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

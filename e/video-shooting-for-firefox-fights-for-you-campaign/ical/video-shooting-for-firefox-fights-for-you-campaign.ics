@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8374
+CLASS:PUBLIC
+DTSTAMP:20200423T084422Z
+DTSTART:20190127T070000Z
+DTEND:20190127T083000Z
+LOCATION:Hong Kong\, Hong Kong\, Hong Kong
+SUMMARY:Video shooting for Firefox fights for you campaign
+DESCRIPTION:Video shooting for Cantonese version of Firefox fights for you
+  campaign
+URL:https://reps.mozilla.org/e/video-shooting-for-firefox-fights-for-you-c
+ ampaign/
+SEQUENCE:2
+X-COORDINATES-LAT:22.4285898093
+X-COORDINATES-LON:114.226318337
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

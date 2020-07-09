@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6445
+CLASS:PUBLIC
+DTSTAMP:20200423T111031Z
+DTSTART:20170510T050000Z
+DTEND:20170510T103000Z
+LOCATION:TBD\, Kolkata\, India
+SUMMARY:MozActivate Tour 6
+DESCRIPTION:In this event\, we will teach Rust (Programming Language) to i
+ nterested students\n\nThis session is designed for people who wish to lear
+ n a new programming language.
+URL:https://reps.mozilla.org/e/mozactivate-tour-6/
+SEQUENCE:0
+X-COORDINATES-LAT:22.4034108927
+X-COORDINATES-LON:87.8830718994
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

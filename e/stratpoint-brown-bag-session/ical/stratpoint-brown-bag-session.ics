@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@663
+CLASS:PUBLIC
+DTSTAMP:20200423T220556Z
+DTSTART:20130227T170000Z
+DTEND:20130227T180000Z
+LOCATION:Stratpoint HQ\, GTP\, Mandaluyong\, Philippines
+SUMMARY:Stratpoint Brown Bag Session
+DESCRIPTION:Stratpoint brown bag session is a monthly seminar event for St
+ ratpoint employees that covers topics about software development\, latest 
+ trends and technology
+URL:https://reps.mozilla.org/e/stratpoint-brown-bag-session/
+SEQUENCE:0
+X-COORDINATES-LAT:14.571829396
+X-COORDINATES-LON:121.04968071
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

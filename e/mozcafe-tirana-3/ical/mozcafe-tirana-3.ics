@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3212
+CLASS:PUBLIC
+DTSTAMP:20200423T181642Z
+DTSTART:20141217T170000Z
+DTEND:20141217T190000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:MozCafé Tirana #3
+DESCRIPTION:The 3rd edition of MozCafé Tirana is before us! \nLots of swa
+ g\, experiences and Mozilla love to share with fellow (potential) contribu
+ tors. \nIn this edition we will talk about:\n- organizing of Mozilla Weeke
+ nd in Tirana 2015\n- latest Mozilla news\n- updating mozilla-albania.org\n
+ - growing our community even\n- any other proposed issue
+URL:https://reps.mozilla.org/e/mozcafe-tirana-3/
+SEQUENCE:2
+X-COORDINATES-LAT:41.3220885109
+X-COORDINATES-LON:19.8144063949
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

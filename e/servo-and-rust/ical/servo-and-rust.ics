@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5805
+CLASS:PUBLIC
+DTSTAMP:20200423T145827Z
+DTSTART:20160908T190000Z
+DTEND:20160908T210000Z
+LOCATION:Bush Ave. UAGRM\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Servo and Rust
+DESCRIPTION:Servo is the great projects from Mozilla\, using Rust (another
+  great project). So\, we are working to show these to a lot of people (stu
+ dent people) in the largest university of the country. This is the opportu
+ nity to create a Rust community.
+URL:https://reps.mozilla.org/e/servo-and-rust/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.7761518449
+X-COORDINATES-LON:-63.1950284241
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

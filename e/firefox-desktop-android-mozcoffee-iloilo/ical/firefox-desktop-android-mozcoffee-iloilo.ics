@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4209
+CLASS:PUBLIC
+DTSTAMP:20200423T165259Z
+DTSTART:20150814T093000Z
+DTEND:20150814T120000Z
+LOCATION:Dojo8 Co-Working Space\, Iloilo City\, Philippines
+SUMMARY:Firefox Desktop &amp; Android MozCoffee Iloilo
+DESCRIPTION:Mabuhay!\n\nThe Mozilla Philippines Community (MozillaPH) invi
+ tes you to an informal gathering over coffee this coming Friday\, 14 Augus
+ t 2015 5:30PM at Dojo8\, Iloilo City.\n\nMozilla Rep Robert &#34;Bob&#34; Reyes an
+ d MozillaPH Regional Coordinator Frederick Villaluna will host this MozCof
+ fee session and discuss the following:\n\n~ Overview of the Mozilla Projec
+ t\n~ Mozilla in the Philippines\n~ What&#39;s new with Firefox Desktop and Fir
+ efox for Android\n~ How to be part of Mozilla
+URL:https://reps.mozilla.org/e/firefox-desktop-android-mozcoffee-iloilo/
+SEQUENCE:1
+X-COORDINATES-LAT:10.6780958695
+X-COORDINATES-LON:122.578948969
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

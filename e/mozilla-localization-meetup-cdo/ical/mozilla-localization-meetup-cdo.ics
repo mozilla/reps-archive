@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8434
+CLASS:PUBLIC
+DTSTAMP:20200423T083917Z
+DTSTART:20190309T050000Z
+DTEND:20190309T090000Z
+LOCATION:Innovuze Solutions\, Inc.\, 8th Level\, Gateway Tower\, Limketkai
+  Center Lapasan\, Cagayan De Oro\, Philippines
+SUMMARY:Mozilla Localization Meetup CDO
+DESCRIPTION:First ever Mozilla Localization Meetup for CDO\n\nThis is open
+  to anyone who would like to participate and volunteer in Mozilla Localiza
+ tion activities. Limited slots only.
+URL:https://reps.mozilla.org/e/mozilla-localization-meetup-cdo/
+SEQUENCE:0
+X-COORDINATES-LAT:8.4719407385
+X-COORDINATES-LON:124.648349761
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

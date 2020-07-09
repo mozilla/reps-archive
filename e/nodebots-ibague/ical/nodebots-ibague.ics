@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4374
+CLASS:PUBLIC
+DTSTAMP:20200407T174300Z
+DTSTART:20150924T190000Z
+DTEND:20150924T230000Z
+LOCATION:HackerLab\, Ibagué\, Colombia
+SUMMARY:NodeBots - Ibague
+DESCRIPTION:NodeBots Day is not a hackathon. There will be no prizes other
+  than the satisfaction of making something awesome! There will be very lit
+ tle in the way of talks. We&#39;re going to get together\, collaborate and hac
+ k. The focus of NodeBots Day is on sharing and enjoying each other&#39;s compa
+ ny. And JavaScript. Lots of JavaScript.
+URL:https://reps.mozilla.org/e/nodebots-ibague/
+SEQUENCE:1
+X-COORDINATES-LAT:4.43778071977
+X-COORDINATES-LON:-75.2078933723
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5279
+CLASS:PUBLIC
+DTSTAMP:20200407T182127Z
+DTSTART:20160429T140000Z
+DTEND:20160429T230000Z
+LOCATION:Instituto Tecnológico Ciudad Madero.\, Ciudad Madero\, Mexico
+SUMMARY:FLISoL Madero 2016
+DESCRIPTION:The Latino Festival of Free Software Installation American - F
+ LISoL is an international event held annually\, which occurs simultaneousl
+ y in several cities in Latin America. The FLISoL is a decentralized event 
+ where different communities organize and perform their festival\, voluntar
+ ily\, with the main objective to promote the use of free software\, presen
+ ting its philosophy\, scope\, progress and development to the general publ
+ ic.\n\nTalk: Security\, Privacy and Internet surveillance.
+URL:https://reps.mozilla.org/e/flisol-madero-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:22.2523874426
+X-COORDINATES-LON:-97.8430995945
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

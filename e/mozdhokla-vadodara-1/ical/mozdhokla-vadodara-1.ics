@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8632
+CLASS:PUBLIC
+DTSTAMP:20200423T082644Z
+DTSTART:20190531T083000Z
+DTEND:20190531T153000Z
+LOCATION:Silver Coin Apartments\, Vadodara\, India
+SUMMARY:MozDhokla - Vadodara
+DESCRIPTION:A regular meetup to check-up on Volunteers around the region a
+ nd catch-up with them.
+URL:https://reps.mozilla.org/e/mozdhokla-vadodara-1/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2720867857
+X-COORDINATES-LON:73.1913700048
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

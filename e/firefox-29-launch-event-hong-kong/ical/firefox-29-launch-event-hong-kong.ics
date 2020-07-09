@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2148
+CLASS:PUBLIC
+DTSTAMP:20200423T195529Z
+DTSTART:20140503T070000Z
+DTEND:20140503T100000Z
+LOCATION:The Good Lab\, 1/F The Sparkle\, 500 Tung Chau Street\, Cheung Sh
+ a Wan\, Hong Kong
+SUMMARY:Firefox 29 Launch Event\, Hong Kong
+DESCRIPTION:Firefox 29 launch events will be started worldwide in May\, An
+ d we will host one in Hong Kong.
+URL:https://reps.mozilla.org/e/firefox-29-launch-event-hong-kong/
+SEQUENCE:6
+X-COORDINATES-LAT:22.3332050939
+X-COORDINATES-LON:114.152009368
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2397
+CLASS:PUBLIC
+DTSTAMP:20200423T193607Z
+DTSTART:20140615T100000Z
+DTEND:20140615T123000Z
+LOCATION:Collab House\, A32\, 3rd floor\, Road No.5\, Film Nagar\, Jubilee
+  Hills\, Hyderabad\, India
+SUMMARY:Maker Meetup &amp; 3D Printing
+DESCRIPTION:Anyone who wants to learn\, tinker and understand 3D Printing.
+  Also anyone who wants to share their gyaan and expertise in this area and
+  building community and networking !
+URL:https://reps.mozilla.org/e/maker-meetup-3d-printing/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4318901286
+X-COORDINATES-LON:78.4547424316
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

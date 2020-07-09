@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8569
+CLASS:PUBLIC
+DTSTAMP:20200423T082518Z
+DTSTART:20190610T073000Z
+DTEND:20190616T103000Z
+LOCATION:Laico Hotel\, Tunis\, Tunis\, Tunisia
+SUMMARY:RightsCon 2019 - Young Leaders Summit
+DESCRIPTION:RightsCon is the world’s leading summit on human rights in t
+ he digital age. It brings together business leaders\, policy makers\, gene
+ ral counsels\, government representatives\, technologists\, and human righ
+ ts defenders to connect\, strategize\, and shape the future. The RightsCon
+  Young Leaders Summit brings together students and young professionals for
+  a one-day workshop.
+URL:https://reps.mozilla.org/e/rightscon-2019-young-leaders-summit/
+SEQUENCE:2
+X-COORDINATES-LAT:36.7893077875
+X-COORDINATES-LON:10.1701354422
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

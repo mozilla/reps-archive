@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4091
+CLASS:PUBLIC
+DTSTAMP:20200423T165712Z
+DTSTART:20150731T050000Z
+DTEND:20150731T070000Z
+LOCATION:La Consolacion College Bacolod\, Bacolod City\, Philippines
+SUMMARY:Mozilla Maker Party for the Beginners
+DESCRIPTION:This Mozilla Club event will be discussing about the basic of 
+ HTML stuff and web literacy
+URL:https://reps.mozilla.org/e/mozilla-maker-party-for-the-beginners/
+SEQUENCE:3
+X-COORDINATES-LAT:10.6709370494
+X-COORDINATES-LON:122.948939324
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

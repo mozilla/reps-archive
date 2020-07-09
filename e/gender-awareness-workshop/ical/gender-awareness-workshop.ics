@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7201
+CLASS:PUBLIC
+DTSTAMP:20200423T102100Z
+DTSTART:20171030T103000Z
+DTEND:20171031T143000Z
+LOCATION:IIIT Hyderabad\, Hyderabad\, India
+SUMMARY:Gender Awareness Workshop @ IIIT Hyderabad
+DESCRIPTION:Gender gap in Mozilla is worrying issue like in any other geek
+ /FOSS community and being part of this event would help the mobilisers and
+  active mozillians in community to design more inclusive activities and he
+ lp grow into a more diverse community.
+URL:https://reps.mozilla.org/e/gender-awareness-workshop/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4456157968
+X-COORDINATES-LON:78.349269569
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1854
+CLASS:PUBLIC
+DTSTAMP:20200423T202720Z
+DTSTART:20140213T130000Z
+DTEND:20140213T173000Z
+LOCATION:Le Murate\, Florence\, Italy
+SUMMARY:Firefox OS talk @ Mobile&amp;Embedded
+DESCRIPTION:This event is organized by GDG (Google Developers Group) Firen
+ ze\, in collaboration with UDOO. There will be talks about Android\, Firef
+ ox OS\, Intel NDK x86 and HTML5.\nThe Mozillians partecipants\, Luca Greco
+  and Daniele Scasciafratte\, will have a talk about Firefox OS with the ti
+ tle: &#34;Firefox OS: where WebApps become Native&#34;.\nFurther informations are 
+ in the link.
+URL:https://reps.mozilla.org/e/firefox-os-talk-mobile-embedded/
+SEQUENCE:4
+X-COORDINATES-LAT:43.7691098068
+X-COORDINATES-LON:11.2686620952
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

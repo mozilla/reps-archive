@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1892
+CLASS:PUBLIC
+DTSTAMP:20200423T202310Z
+DTSTART:20140226T010000Z
+DTEND:20140226T040000Z
+LOCATION:Laguna State Polytechnic University Main Campus\, Sta. Cruz\, Phi
+ lippines
+SUMMARY:Firefox OS Mobile Development Symposium
+DESCRIPTION:Today&#39;s fast changing technology\, mobile development played a
+ n important role in building connections to different places and communiti
+ es in the world. Hence\, this event aims to talk about Firefox OS mobile d
+ evelopment to the future IT practitioners.
+URL:https://reps.mozilla.org/e/firefox-os-mobile-development-symposium/
+SEQUENCE:1
+X-COORDINATES-LAT:14.2815565561
+X-COORDINATES-LON:121.415303706
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

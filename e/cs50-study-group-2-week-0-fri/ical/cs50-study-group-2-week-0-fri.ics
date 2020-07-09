@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3292
+CLASS:PUBLIC
+DTSTAMP:20200423T181134Z
+DTSTART:20150107T120000Z
+DTEND:20150107T140000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Da-an District\, Ta
+ iwan
+SUMMARY:CS50 study group - #2 (Week 0 Fri.)
+DESCRIPTION:Welcome join us every week to watching Harvard CS50 lecture vi
+ deo and discussing together at Mozilla Community Space Taipei. \n\nPlease 
+ RSVP at facebook event page on above URL.
+URL:https://reps.mozilla.org/e/cs50-study-group-2-week-0-fri/
+SEQUENCE:6
+X-COORDINATES-LAT:25.0440320976
+X-COORDINATES-LON:121.532258749
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8997
+CLASS:PUBLIC
+DTSTAMP:20200423T080007Z
+DTSTART:20191207T050000Z
+DTEND:20191207T090000Z
+LOCATION:Telkom University Bandung\, Bandung\, Indonesia
+SUMMARY:#MozKampus: Web VR &amp; What&#39;s New in Firefox Lite
+DESCRIPTION:It is a campus visit activity by Mozilla Indonesia that aiming
+  for socializing the new features of Firefox Lite and Firefox 70.0 also br
+ ing Web VR for technical seesion. This event held in Telkom University\, B
+ andung.
+URL:https://reps.mozilla.org/e/web-vr-what-s-new-in-firefox-lite/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.94283193559
+X-COORDINATES-LON:107.628616333
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

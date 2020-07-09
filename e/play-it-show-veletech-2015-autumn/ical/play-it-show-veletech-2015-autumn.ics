@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4568
+CLASS:PUBLIC
+DTSTAMP:20200407T174825Z
+DTSTART:20151128T070000Z
+DTEND:20151129T190000Z
+LOCATION:Hungexpo\, Budapest\, Hungary
+SUMMARY:Play IT Show + Veletech 2015 Autumn
+DESCRIPTION:The biggest game\, IT and mobile show of the country will be h
+ eld again on 28 and 29 of November with Veletech.\nRunning booth\n* Showca
+ se Firefox\n* Showcase Firefox OS phones\n* Showcase Firefox developer and
+  education program\n* Introduce other Mozilla projects\n* Introduce Play i
+ n Browser games
+URL:https://reps.mozilla.org/e/play-it-show-veletech-2015-autumn/
+SEQUENCE:3
+X-COORDINATES-LAT:47.5011968479
+X-COORDINATES-LON:19.10097313
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

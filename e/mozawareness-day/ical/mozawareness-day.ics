@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3416
+CLASS:PUBLIC
+DTSTAMP:20200407T180050Z
+DTSTART:20150310T110000Z
+DTEND:20150310T140000Z
+LOCATION:Jomo Kenyatta university of agriculture and technology Mombasa Ca
+ mpus\, Mombasa\, Kenya
+SUMMARY:MozAwareness Day
+DESCRIPTION:A day to bring university students together to know about: \n-
+  Mozilla Mission\n- Open Web\n- Privacy\n- Web Literacy
+URL:https://reps.mozilla.org/e/mozawareness-day/
+SEQUENCE:1
+X-COORDINATES-LAT:-4.0640111
+X-COORDINATES-LON:39.672152
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

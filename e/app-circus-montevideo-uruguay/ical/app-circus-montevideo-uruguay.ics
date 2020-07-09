@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1487
+CLASS:PUBLIC
+DTSTAMP:20200423T204939Z
+DTSTART:20131121T203000Z
+DTEND:20131122T010000Z
+LOCATION:Ingenio - Incubadora de empresas\, Av Italia 6201\, Montevideo\, 
+ Uruguay
+SUMMARY:App Circus Montevideo - Uruguay
+DESCRIPTION:App Circus is a global event to develop mobile apps. At the fi
+ nal day\, there will be a Firefox OS app workshop (1 hour). This events is
+  sponsored by Movistar\, and they ask the community to help with the works
+ hop.
+URL:https://reps.mozilla.org/e/app-circus-montevideo-uruguay/
+SEQUENCE:2
+X-COORDINATES-LAT:-34.8797026845
+X-COORDINATES-LON:-56.0755734437
+X-COUNTRY-CODE:uy
+END:VEVENT
+
+END:VCALENDAR

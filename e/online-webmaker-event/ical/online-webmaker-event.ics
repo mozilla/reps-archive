@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4185
+CLASS:PUBLIC
+DTSTAMP:20200407T174947Z
+DTSTART:20150725T143000Z
+DTEND:20150725T153000Z
+LOCATION:Delhi\, New Delhi\, India
+SUMMARY:Online WebMaker Event
+DESCRIPTION:Online WebMaker event is planned to spread the awareness of ou
+ r new WebMaker App on Android. For more details please visit EtherPad
+URL:https://reps.mozilla.org/e/online-webmaker-event/
+SEQUENCE:1
+X-COORDINATES-LAT:28.5648234728
+X-COORDINATES-LON:77.178039439
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

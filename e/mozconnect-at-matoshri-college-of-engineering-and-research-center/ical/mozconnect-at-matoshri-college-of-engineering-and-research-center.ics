@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3700
+CLASS:PUBLIC
+DTSTAMP:20200423T173809Z
+DTSTART:20150327T043000Z
+DTEND:20150327T073000Z
+LOCATION:Eklahare\, off Nashik Aurangbad Highway\, Near Odha Village. Talu
+ ka: Nashik. Dist: Nashik\, Nashik\, India
+SUMMARY:Mozconnect at Matoshri College of Engineering and Research Center
+DESCRIPTION:The Main Motto of the Event is to Literate Students about Mozi
+ lla\, the Online Privacy &amp; Security\, what is FOSS and how The Exclusive t
+ ool LIGHTBEAM can be the Best option to Prevent their privacy\, Introducin
+ g them to Open Source O.S. Linux and a Live Demo of Firefox Hello. \n\nAge
+ nda:            \n\n    About Mozilla.\n    FOSS and Open Source\n    Onli
+ ne Privacy\, Security &amp; Lightbeam\n    Short session on Linux \n    Commun
+ ity Building &amp; Contribution areas of Mozilla \n    Firefox Hello
+URL:https://reps.mozilla.org/e/mozconnect-at-matoshri-college-of-engineeri
+ ng-and-research-center/
+SEQUENCE:3
+X-COORDINATES-LAT:19.9973
+X-COORDINATES-LON:73.791
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

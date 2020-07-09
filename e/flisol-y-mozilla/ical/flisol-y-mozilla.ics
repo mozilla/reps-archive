@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2203
+CLASS:PUBLIC
+DTSTAMP:20200423T195737Z
+DTSTART:20140426T150000Z
+DTEND:20140426T223000Z
+LOCATION:Universidad Centroamericana. Managua\, Nicaragua\, Managua\, Nica
+ ragua
+SUMMARY:Flisol y Mozilla
+DESCRIPTION:Participamos en el Festival Latinoamericano de Software Libre 
+ en Managua.
+URL:https://reps.mozilla.org/e/flisol-y-mozilla/
+SEQUENCE:5
+X-COORDINATES-LAT:12.1250404563
+X-COORDINATES-LON:-86.3178405818
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

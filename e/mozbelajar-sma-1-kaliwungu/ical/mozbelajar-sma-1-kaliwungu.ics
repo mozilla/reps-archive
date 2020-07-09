@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4267
+CLASS:PUBLIC
+DTSTAMP:20200423T163559Z
+DTSTART:20150926T070000Z
+DTEND:20150926T100000Z
+LOCATION:SMK 2 Adiwerna\, Kendal\, Indonesia
+SUMMARY:#MozBelajar SMK 2 Adiwerna
+DESCRIPTION:An event to introduce the newly launched Webmaker App to vocat
+ ional high school students in SMK 2 Adiwerna. There will be Webmaker App d
+ ownloading session and hands on workshop in making projects using the app.
+  This event is organized as part of Webmaker App Launch initiatives in Ind
+ onesia.
+URL:https://reps.mozilla.org/e/mozbelajar-sma-1-kaliwungu/
+SEQUENCE:3
+X-COORDINATES-LAT:-6.9430129747
+X-COORDINATES-LON:110.194335915
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

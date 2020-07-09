@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@228
+CLASS:PUBLIC
+DTSTAMP:20200423T224440Z
+DTSTART:20121124T060000Z
+DTEND:20121124T090000Z
+LOCATION:The Coffee Bean &amp; Tea Leaf (CBTL) Ayala Center CEB\, Cebu City\, 
+ Philippines
+SUMMARY:MozCoffee Y4IT Cebu
+DESCRIPTION:Holding a MozCoffee in Cebu City after the Youth for IT (Y4IT)
+  Student Conference speaking engagement.
+URL:https://reps.mozilla.org/e/mozcoffee-y4it-cebu/
+SEQUENCE:0
+X-COORDINATES-LAT:10.3473439301
+X-COORDINATES-LON:123.821411133
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7597
+CLASS:PUBLIC
+DTSTAMP:20200423T094653Z
+DTSTART:20180402T040000Z
+DTEND:20180402T060000Z
+LOCATION:Parul University\, Vadodara\, India
+SUMMARY:Mozilla BootCamp-2  Vadodara
+DESCRIPTION:Its a 2 hours workshop on open source technologies
+URL:https://reps.mozilla.org/e/mozilla-bootcamp-2-vadodara/
+SEQUENCE:0
+X-COORDINATES-LAT:22.2945973014
+X-COORDINATES-LON:73.3340778365
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

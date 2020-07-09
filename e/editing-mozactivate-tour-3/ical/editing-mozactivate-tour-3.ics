@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6300
+CLASS:PUBLIC
+DTSTAMP:20200423T113030Z
+DTSTART:20170209T043000Z
+DTEND:20170209T103000Z
+LOCATION:The Sonnet\, Kolkata\, India
+SUMMARY:MozActivate Tour 3 - Wordcon 2017
+DESCRIPTION:In this conference attendee will learn WebVR using A-Frame fra
+ mework.
+URL:https://reps.mozilla.org/e/editing-mozactivate-tour-3/
+SEQUENCE:3
+X-COORDINATES-LAT:22.3466889683
+X-COORDINATES-LON:88.9555665851
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

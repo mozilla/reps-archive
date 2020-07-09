@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3991
+CLASS:PUBLIC
+DTSTAMP:20200423T171655Z
+DTSTART:20150607T143000Z
+DTEND:20150608T003000Z
+LOCATION:Collabs House\,Opp Film nagar society complex\,Filmnagar\, Hydera
+ bad\, India
+SUMMARY:Community Engagement 3.0
+DESCRIPTION:Community\,Discussions\,Documentations\,Blogging\,Structuring\
+ n#Foxyeah
+URL:https://reps.mozilla.org/e/community-engagement-3-0/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4320710551
+X-COORDINATES-LON:78.456501
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

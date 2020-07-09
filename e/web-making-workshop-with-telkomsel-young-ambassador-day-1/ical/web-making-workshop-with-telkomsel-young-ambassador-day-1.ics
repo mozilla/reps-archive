@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6430
+CLASS:PUBLIC
+DTSTAMP:20200407T175156Z
+DTSTART:20170326T030000Z
+DTEND:20170326T050000Z
+LOCATION:Eduplex Dago\, Bandung\, Indonesia
+SUMMARY:Web Making Workshop with Telkomsel Young Ambassador Day 1
+DESCRIPTION:In collaboration with Telkomsel\, we deliver a set of workshop
+ s on how to make great web content and design for Telkomsel Young Ambassad
+ or. Workshop will be held on weekend and is divided into 4 sessions. In th
+ e end\, they present their work on designing their website and its content
+ . Our aim is to make all Telkomsel Young Ambassador able to produce positi
+ ve and engaging local web content in Indonesia.
+URL:https://reps.mozilla.org/e/web-making-workshop-with-telkomsel-young-am
+ bassador-day-1/
+SEQUENCE:5
+X-COORDINATES-LAT:-6.89601903423
+X-COORDINATES-LON:107.613023937
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@471
+CLASS:PUBLIC
+DTSTAMP:20200407T173708Z
+DTSTART:20130209T150000Z
+DTEND:20130209T210000Z
+LOCATION:BitZeppelin\, Barranco\, Peru
+SUMMARY:MozTanta
+DESCRIPTION:Improve contribution to MDN.\n\nWe divide attendees in two gro
+ ups. One group to review and translate content from MDN\, and another grou
+ p to play with mozilla&#39;s technologies.\n\nIn this seasion we plan to play 
+ with Persona and at the same time we try to improve documentation.\n\nThe 
+ list of proposed articles are in peru.etherpad.mozilla.org/23\n\nThis even
+ t is in person and virtual way\, so people interested in Peru or another c
+ ountry can attended via irc in #mozillaperu
+URL:https://reps.mozilla.org/e/moztanta/
+SEQUENCE:0
+X-COORDINATES-LAT:-12.1444173268
+X-COORDINATES-LON:-77.0230436325
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6690
+CLASS:PUBLIC
+DTSTAMP:20200423T105742Z
+DTSTART:20170625T170000Z
+DTEND:20170625T200000Z
+LOCATION:Asian Mall\, Warangal\, India
+SUMMARY:Nightly Marathon -2
+DESCRIPTION:As a part of my series event on Nightly \, this was the 2nd ev
+ ent i am organizing.
+URL:https://reps.mozilla.org/e/nightly-marathon-2/
+SEQUENCE:1
+X-COORDINATES-LAT:17.9731534459
+X-COORDINATES-LON:79.6051579714
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

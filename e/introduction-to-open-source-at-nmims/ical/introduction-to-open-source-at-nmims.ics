@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6192
+CLASS:PUBLIC
+DTSTAMP:20200407T175531Z
+DTSTART:20161125T033000Z
+DTEND:20161125T113000Z
+LOCATION:NMIMS\, Mumbai\, Mira-Bhayandar\, India
+SUMMARY:Introduction to Open Source at NMIMS
+DESCRIPTION:The talk on open source technologies was given by Mr. Rahul Ka
+ nojia\, an entrepreneur and open source enthusiast. The motive is to intro
+ duce open source technologies to students of all programs of NMIMS institu
+ te.
+URL:https://reps.mozilla.org/e/introduction-to-open-source-at-nmims/
+SEQUENCE:1
+X-COORDINATES-LAT:19.2531467075
+X-COORDINATES-LON:72.8624012992
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

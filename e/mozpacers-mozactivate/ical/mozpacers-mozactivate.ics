@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6002
+CLASS:PUBLIC
+DTSTAMP:20200407T170242Z
+DTSTART:20161112T043000Z
+DTEND:20161112T103000Z
+LOCATION:University School of Information\, Communication and Technology \
+ , Guru Gobind Singh Indraprastha University\, New Delhi\, India
+SUMMARY:Mozpacers Mozactivate
+DESCRIPTION:WebVR: The session will focus upon the experimental support fo
+ r WebVR in the browsers. After the basic intro to what WebVR is\, we will 
+ move on to understand which libraries are their to help build the scenes i
+ n WebVR. Continuing on this\, an introduction and hands on session will be
+  delivered on how to use A-Frame JS to build a VR that can be loaded up on
+  the web.
+URL:https://reps.mozilla.org/e/mozpacers-mozactivate/
+SEQUENCE:2
+X-COORDINATES-LAT:28.5483383876
+X-COORDINATES-LON:77.2922515869
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7550
+CLASS:PUBLIC
+DTSTAMP:20200423T102211Z
+DTSTART:20171025T120000Z
+DTEND:20171025T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: Dive Into Rust
+DESCRIPTION:In this event\, we will learn more about what is Rust\, how th
+ e difference with C / C ++ and what are its advantages when used to progra
+ m the system. In closing\, there will also be a small demonstration\, how 
+ to use Rust to create a multithread web server while looking deeper into t
+ he TCP and HTTP stack.
+URL:https://reps.mozilla.org/e/mozbelajar-dive-into-rust/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.2352153
+X-COORDINATES-LON:106.821205
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2167
+CLASS:PUBLIC
+DTSTAMP:20200423T194808Z
+DTSTART:20140518T220000Z
+DTEND:20140519T010000Z
+LOCATION:580 Av. Manoel Albino - Cucina di Polettho\, Guaruja\, Brazil
+SUMMARY:PizzaMaker
+DESCRIPTION:PizzaMaker is an event to celebrate the success of webmakers&#39;s
+  pilot program in Guarujá. All the webmakers are invited to enjoy Pizza\,
+  friendship and sharing of knowledge in an awesome restaurant. Ambient mus
+ ic and technology activities including arduino teaching\, are part of the 
+ party.\nAnd\, best of all\, focusing on a free\, open and useful web for e
+ verybody.
+URL:https://reps.mozilla.org/e/pizzamaker/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.9947217353
+X-COORDINATES-LON:-46.2764116824
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

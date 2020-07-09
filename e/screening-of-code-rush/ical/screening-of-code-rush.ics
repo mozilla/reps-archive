@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2346
+CLASS:PUBLIC
+DTSTAMP:20200407T182330Z
+DTSTART:20140605T180000Z
+DTEND:20140605T200000Z
+LOCATION:AKSC\, Skopje\, Macedonia\, F.Y.R. of
+SUMMARY:Screening of &#39;Code Rush&#39;
+DESCRIPTION:Screening of &#39;Code Rush&#39; for the local audience at AKSC (https
+ ://www.facebook.com/AKSC2) in Skopje
+URL:https://reps.mozilla.org/e/screening-of-code-rush/
+SEQUENCE:2
+X-COORDINATES-LAT:41.9973245577
+X-COORDINATES-LON:21.4179682723
+X-COUNTRY-CODE:mk
+END:VEVENT
+
+END:VCALENDAR

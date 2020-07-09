@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@367
+CLASS:PUBLIC
+DTSTAMP:20200423T223104Z
+DTSTART:20121222T090000Z
+DTEND:20121223T180000Z
+LOCATION:Thiés\, Senegal\, Thies\, Senegal
+SUMMARY:BarcampThies 2012 
+DESCRIPTION:BarCamp is an international network of user-generated conferen
+ ces (or unconferences) primarily focused around technology and the Web. Th
+ ey are open\, participatory workshop-events\, the content of which is prov
+ ided by participants. 
+URL:https://reps.mozilla.org/e/barcampthies-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:14.795422
+X-COORDINATES-LON:-16.96489
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

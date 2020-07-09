@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2219
+CLASS:PUBLIC
+DTSTAMP:20200423T194558Z
+DTSTART:20140524T073000Z
+DTEND:20140524T163000Z
+LOCATION:Médiathèque Verlaine (Pontiffroy) Services numériques 1 place 
+ de la bibliothèque 57000 Metz\, Metz\, France
+SUMMARY:Conférences autour du Libre
+DESCRIPTION:The Graoulug (Linux and FLOSS Users group around the city of M
+ etz\, in France) is hosting this day dedicated to talks around FLOSS. Gera
+ rd-Majax is going to present FirefoxOS to enthusiasts and more ! \n\nIt&#39;s 
+ very important for the French community not to be only in Paris\, or in Fr
+ ench biggest cities.
+URL:https://reps.mozilla.org/e/conferences-autour-du-libre/
+SEQUENCE:2
+X-COORDINATES-LAT:49.1247031225
+X-COORDINATES-LON:6.17642390745
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

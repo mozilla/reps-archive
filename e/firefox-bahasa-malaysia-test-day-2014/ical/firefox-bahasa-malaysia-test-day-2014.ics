@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1898
+CLASS:PUBLIC
+DTSTAMP:20200407T175449Z
+DTSTART:20140316T010000Z
+DTEND:20140316T080000Z
+LOCATION:Universiti Teknologi Malaysia\, Sekudai\, Malaysia
+SUMMARY:Firefox Bahasa Malaysia Test Day 2014
+DESCRIPTION:Firefox Bahasa Malaysia Test Day 2014 will be focusing more on
+  user experiences and gaining feedback regarding a project that the Commun
+ ity is currently working on known as  “Projek Firefox Bahasa Malaysia”
+  or Firefox Bahasa Malaysia Project\, thus collecting data for the betterm
+ ent of the project. Our objective is to have less misunderstanding in loca
+ lized words in every localized product of Mozilla.
+URL:https://reps.mozilla.org/e/firefox-bahasa-malaysia-test-day-2014/
+SEQUENCE:9
+X-COORDINATES-LAT:1.55926482624
+X-COORDINATES-LON:103.638736904
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

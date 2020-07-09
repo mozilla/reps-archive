@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2887
+CLASS:PUBLIC
+DTSTAMP:20200407T182345Z
+DTSTART:20141024T220000Z
+DTEND:20141024T233000Z
+LOCATION:Marketplace at Doan @ Saginaw Valley State University\, Saginaw\,
+  United States
+SUMMARY:MozCoffee@SVSU
+DESCRIPTION:The main goal of this MozCoffee is to get SVSU students excite
+ d about Mozilla and the things we&#39;re doing. This will be a fairly general 
+ affair\, as it&#39;s our first meeting.\n\nTopics covered will include the pos
+ sibility of starting a digital rights group on campus\, future Maker Parti
+ es/crypto parties/Firefox clinics\, Firefox OS demo recruitment -- and my 
+ upcoming talk about Firefox OS as well.
+URL:https://reps.mozilla.org/e/mozcoffee-svsu/
+SEQUENCE:8
+X-COORDINATES-LAT:43.5118118909
+X-COORDINATES-LON:-83.9636767208
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

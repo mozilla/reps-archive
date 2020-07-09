@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2937
+CLASS:PUBLIC
+DTSTAMP:20200407T165522Z
+DTSTART:20141031T070000Z
+DTEND:20141103T100000Z
+LOCATION:Radisson Blu Venue\, Istanbul\, Turkey
+SUMMARY:Arabic Mozilla Meetup 2014
+DESCRIPTION:During the Arabic Mozilla Meetup\, 2014&#39;s version\, our aim is
+  to strengthen the inter-communities links and bring together active contr
+ ibutors from Arabic countries in one place for discussions and presentatio
+ ns mainly around localization and Firefox OS. We also intend to plan for t
+ he future of Mozilla&#39;s presence in the region\, with the one overarching g
+ oal: getting a solid ground ready to welcome Firefox OS in the region.
+URL:https://reps.mozilla.org/e/arabic-mozilla-meetup-2014/
+SEQUENCE:10
+X-COORDINATES-LAT:41.0303954051
+X-COORDINATES-LON:28.9720247986
+X-COUNTRY-CODE:tr
+END:VEVENT
+
+END:VCALENDAR

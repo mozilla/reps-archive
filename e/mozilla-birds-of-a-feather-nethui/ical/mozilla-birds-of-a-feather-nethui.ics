@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2480
+CLASS:PUBLIC
+DTSTAMP:20200407T183632Z
+DTSTART:20140709T051500Z
+DTEND:20140709T070000Z
+LOCATION:SkyCity Convention Centre\, Auckland\, New Zealand
+SUMMARY:Mozilla Birds of a Feather NZ @ Nethui 2014
+DESCRIPTION:Mozilla Birds of a Feather is an informal get-together for the
+  Mozilla community in NZ\, and anyone interested in what Mozilla is doing.
+  Come and talk\, meet people in the Mozilla community\, ask questions\, an
+ d see how you can become involved. We&#39;ll be discussing whatever people are
+  interested in.\n\nWe&#39;ll also have a show-and-tell\, for people in the Moz
+ illa community to show off what they&#39;re most excited about or have been wo
+ rking on.
+URL:https://reps.mozilla.org/e/mozilla-birds-of-a-feather-nethui/
+SEQUENCE:5
+X-COORDINATES-LAT:-36.8487972258
+X-COORDINATES-LON:174.762822032
+X-COUNTRY-CODE:nz
+END:VEVENT
+
+END:VCALENDAR

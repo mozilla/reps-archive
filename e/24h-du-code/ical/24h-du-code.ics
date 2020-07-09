@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1363
+CLASS:PUBLIC
+DTSTAMP:20200407T174203Z
+DTSTART:20140125T110000Z
+DTEND:20140126T090000Z
+LOCATION:ENSIM\, Le Mans\, France
+SUMMARY:24h du code
+DESCRIPTION:A 24 hours hackathon\, teams working on three proposed subject
+ s\, one being an awesome open web app for Firefox (OS). Mozilla Reps atten
+ ding will help for the Open Web Apps coding and will elect the best implem
+ entation for the Mozilla subject: GTFS application. This is a specificatio
+ n for public transportations schedules and stops. The goal is to provide a
+ n awesome app for FirefoxOS that will help people with their public transp
+ ortation\, and have some offline computing capability.
+URL:https://reps.mozilla.org/e/24h-du-code/
+SEQUENCE:5
+X-COORDINATES-LAT:48.019439
+X-COORDINATES-LON:0.15781
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

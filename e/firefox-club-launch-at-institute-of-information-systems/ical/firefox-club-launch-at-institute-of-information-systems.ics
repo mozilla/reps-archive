@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5271
+CLASS:PUBLIC
+DTSTAMP:20200423T152809Z
+DTSTART:20160503T100000Z
+DTEND:20160503T140000Z
+LOCATION:Higher Institute of Information Systems\, Al Iskandariyah\, Egypt
+SUMMARY:Firefox club launch at Institute of Information Systems
+DESCRIPTION:AS Mozilla Reps program aim to empower and to help push respon
+ sibility in order to help Mozilla contributor base grow &amp; Mozilla Egypt st
+ rategy to Create new Clubs in all cities to spread Mozilla&#39;s mission and k
+ nowledge\,build and support existing/future clubs\,so we are helping this 
+ new club at it&#39;s 1st launch Event to show new comers what they do and Recr
+ uit new members to the club.we aiming to recruit huge NEW FSA we&#39;ll suppor
+ t them and help them to be a good contributor &amp; qualified Mozilla rep
+URL:https://reps.mozilla.org/e/firefox-club-launch-at-institute-of-informa
+ tion-systems/
+SEQUENCE:7
+X-COORDINATES-LAT:31.2712321439
+X-COORDINATES-LON:30.005890847
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

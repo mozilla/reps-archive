@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@891
+CLASS:PUBLIC
+DTSTAMP:20200423T214213Z
+DTSTART:20130520T140000Z
+DTEND:20130520T170000Z
+LOCATION:Cra 7 No. 12-24 Parque Principal\, Soacha\, Colombia
+SUMMARY:Unimunuto Fair
+DESCRIPTION:Week of science in the Uniminuto university. We will talk abou
+ t Mozilla Projets and a wokshop of Firefox OS.
+URL:https://reps.mozilla.org/e/unimunuto-fair/
+SEQUENCE:1
+X-COORDINATES-LAT:4.58108777948
+X-COORDINATES-LON:-74.2199742794
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

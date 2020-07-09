@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4760
+CLASS:PUBLIC
+DTSTAMP:20200423T161959Z
+DTSTART:20151031T150000Z
+DTEND:20151031T163000Z
+LOCATION:University of the Aegean - Papanikolaou Building\, Karlovasi\, Gr
+ eece
+SUMMARY:&lt;p&gt;Hello HTML&lt;/p&gt; @ the University of the Aegean
+DESCRIPTION:The Free &amp; Open Source Software Community of the University of
+  the Aegean is organizing a series of workshops around web development.\n\
+ nDuring this very first course\, participants will get to write their own 
+ content and webpages in HTML. For this purpose\, we&#39;re going to use the Th
+ imble editor.
+URL:https://reps.mozilla.org/e/p-hello-html-p-the-university-of-the-aegean
+ /
+SEQUENCE:2
+X-COORDINATES-LAT:37.7971270155
+X-COORDINATES-LON:26.7022022009
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

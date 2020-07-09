@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8924
+CLASS:PUBLIC
+DTSTAMP:20200407T170218Z
+DTSTART:20191208T033000Z
+DTEND:20191209T113000Z
+LOCATION:Thapar Institute of Engineering &amp; Technology\, Patiala\, India
+SUMMARY:Hack TIET
+DESCRIPTION:Backed by the experienced hacker’s core team\, we aim to mak
+ e this event an inclusive one for each and every hacker out there. We are 
+ planning for special prizes and recognition for under-represented communit
+ ites in the world of tech!
+URL:https://reps.mozilla.org/e/hack-tiet/
+SEQUENCE:1
+X-COORDINATES-LAT:30.3297427203
+X-COORDINATES-LON:76.4110936224
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

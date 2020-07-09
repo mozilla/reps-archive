@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1372
+CLASS:PUBLIC
+DTSTAMP:20200423T205615Z
+DTSTART:20131101T020000Z
+DTEND:20131101T170000Z
+LOCATION:Lotus Hotel Conference room\, Mombasa\, Kenya
+SUMMARY:The Launch of WoMoz Mombasa
+DESCRIPTION:The first ever WoMoz event aimed at officially launching\, int
+ roducing and creating awareness about the initiative within the Mombasa co
+ mmunity as well as identifying challenges facing women in technology and w
+ ays to solve and increase inclusion of Women in tech.
+URL:https://reps.mozilla.org/e/the-launch-of-womoz-mombasa/
+SEQUENCE:4
+X-COORDINATES-LAT:-4.08345277204
+X-COORDINATES-LON:39.7045898438
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

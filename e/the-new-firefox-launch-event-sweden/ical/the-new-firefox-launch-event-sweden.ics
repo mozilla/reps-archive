@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2241
+CLASS:PUBLIC
+DTSTAMP:20200407T175255Z
+DTSTART:20140517T110000Z
+DTEND:20140517T190000Z
+LOCATION:Tegnérlunden (12.30-15)\, Takterrassen Oxtorgsgatan 4\, 10tr\, S
+ tockholm (16-21)\, Stockholm\, Sweden
+SUMMARY:The New Firefox Launch event\, Sweden
+DESCRIPTION:The Mozilla Swedish community is hosting a day of activities i
+ n Stockholm city to celebrate the release of the new Firefox. We will star
+ t the day by a public public face painting outside in Kungsträdården 13:
+ 00 and later host a community event at Takterrassen from 16:00.\n\nOliver 
+ Propst (@opropst) and Soumya (@soumyaC) are the main organizers of this ev
+ ent.
+URL:https://reps.mozilla.org/e/the-new-firefox-launch-event-sweden/
+SEQUENCE:12
+X-COORDINATES-LAT:59.3346609569
+X-COORDINATES-LON:18.0662852524
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

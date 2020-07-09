@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6506
+CLASS:PUBLIC
+DTSTAMP:20200423T111107Z
+DTSTART:20170507T053000Z
+DTEND:20170507T103000Z
+LOCATION:MCR Community House Jaipur\, Jaipur\, India
+SUMMARY:Rust Hack Jaipur
+DESCRIPTION:Rust is a systems programming language that runs blazingly fas
+ t\, prevents segfaults\, and guarantees thread safety.\nThis event is to t
+ rain developers\, students\, mozillians and budding programmers on Rust. \
+ nNever wrote a single line of code in Rust? Don’t worry\, most of us are
+  just starting off.
+URL:https://reps.mozilla.org/e/rust-hack-jaipur/
+SEQUENCE:5
+X-COORDINATES-LAT:26.7815783301
+X-COORDINATES-LON:75.9082022309
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

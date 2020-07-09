@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8200
+CLASS:PUBLIC
+DTSTAMP:20200407T173859Z
+DTSTART:20181215T090000Z
+DTEND:20181215T190000Z
+LOCATION:TBD\, Abidjan\, Ivory Coast
+SUMMARY:RustHack Bootcamp - DevFest Yamoussoukro 2018
+DESCRIPTION:2 days event around Rust Language. People will learn and code 
+ with rust. Also will introduce some Technologies.
+URL:https://reps.mozilla.org/e/rusthack-bootcamp-dev-festival/
+SEQUENCE:9
+X-COORDINATES-LAT:5.32344000157
+X-COORDINATES-LON:-3.96263122559
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

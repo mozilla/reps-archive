@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5290
+CLASS:PUBLIC
+DTSTAMP:20200423T154333Z
+DTSTART:20160305T130000Z
+DTEND:20160305T170000Z
+LOCATION:Pigier Côte d&#39;Ivoire\, Abidjan\, Ivory Coast
+SUMMARY:MozUniv Tour PIGIER CÔTE D&#39;IVOIRE (ABIDJAN)
+DESCRIPTION:We are committed myself and Ivory Coast Mozilla community to i
+ mplement Mozilla community on the various campuses of Ivory Coast.We are s
+ tarting these activities through various events where mozillians and Reps 
+ From Ivory Coast come to introduce Mozilla mission\, different contributio
+ n areas \, projects \, products and campaigns and Firefox Student Ambassad
+ ors program. This March 5th we are at PIGIER Côte d&#39;Ivoire - Abidjan.
+URL:https://reps.mozilla.org/e/mozuniv-tour-pigier-cote-divoire-abidjan/
+SEQUENCE:0
+X-COORDINATES-LAT:5.1921587979
+X-COORDINATES-LON:-3.96263122559
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

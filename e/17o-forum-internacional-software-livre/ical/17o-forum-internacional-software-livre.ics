@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5458
+CLASS:PUBLIC
+DTSTAMP:20200407T183724Z
+DTSTART:20160713T130000Z
+DTEND:20160716T220000Z
+LOCATION:Centro de Eventos PUCRS\, Porto Alegre\, Rio Grande do Sul\, Bras
+ il.\, Porto Alegre\, Brazil
+SUMMARY:17º Fórum Internacional Software Livre
+DESCRIPTION:Fórum Internacional Software Livre has established itself as 
+ a place of discussion and exposure of what is latest in free technologies.
+  The FISL preserving values such as maintaining transparency in the techno
+ logy\, whether the codes in open standards and the struggle for free and n
+ eutral internet. In 2016 Porto Alegre will again host the biggest gatherin
+ g of Free Software communities in the world.
+URL:https://reps.mozilla.org/e/17o-forum-internacional-software-livre/
+SEQUENCE:15
+X-COORDINATES-LAT:-29.9493074154
+X-COORDINATES-LON:-51.1693611089
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

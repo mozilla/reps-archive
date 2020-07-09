@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7632
+CLASS:PUBLIC
+DTSTAMP:20200423T093847Z
+DTSTART:20180505T043000Z
+DTEND:20180505T123000Z
+LOCATION:CMR\, Hyderabad\, Hyderabad\, India
+SUMMARY:Rust Hack Series - Day 1
+DESCRIPTION:It is a series of power pack events for 8 days in the month of
+  May completely dedicated to Rust. This would be an introductory session t
+ o Rust.
+URL:https://reps.mozilla.org/e/rust-hack-series-day-1/
+SEQUENCE:3
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

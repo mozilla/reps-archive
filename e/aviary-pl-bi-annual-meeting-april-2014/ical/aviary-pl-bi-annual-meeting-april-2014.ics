@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1975
+CLASS:PUBLIC
+DTSTAMP:20200407T174934Z
+DTSTART:20140411T160000Z
+DTEND:20140413T130000Z
+LOCATION:Cinema Residence\, Łódź\, Poland
+SUMMARY:Aviary.pl bi-annual meeting\, April 2014
+DESCRIPTION:Polish community bi-annual meeting. Estimated attendance ~13 p
+ eople.
+URL:https://reps.mozilla.org/e/aviary-pl-bi-annual-meeting-april-2014/
+SEQUENCE:8
+X-COORDINATES-LAT:51.7629590129
+X-COORDINATES-LON:19.4580835102
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

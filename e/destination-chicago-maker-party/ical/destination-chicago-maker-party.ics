@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1625
+CLASS:PUBLIC
+DTSTAMP:20200423T203353Z
+DTSTART:20140118T170000Z
+DTEND:20140118T220000Z
+LOCATION:DePaul Concourse - Lower Level - 1 East Jackson Boulevard\, Chica
+ go\, United States
+SUMMARY:Destination Chicago: Maker Party
+DESCRIPTION:Chicago City of Learning presents Destination Chicago featurin
+ g an all-day Maker Party. The space is full of stations and mini-sessions 
+ resulting with a “make”. Designed for youth from ages 4- 24\, attendee
+ s\, kids young and old\, are able to pick and choose the stations that mos
+ t draw them in. In this way\, they make their way through the room\, sampl
+ ing\, observing or diving into the offerings.\n\nFor more on Chicago City 
+ of Learning &amp; Destination Chicago: Check out explorechi.org\n\n\nFREE
+URL:https://reps.mozilla.org/e/destination-chicago-maker-party/
+SEQUENCE:7
+X-COORDINATES-LAT:41.8746312356
+X-COORDINATES-LON:-87.6381912455
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@525
+CLASS:PUBLIC
+DTSTAMP:20200423T220802Z
+DTSTART:20130221T150000Z
+DTEND:20130222T000000Z
+LOCATION:Café Nux\, Campeche\, Mexico
+SUMMARY:Translathon in Campeche (Feb 21th)
+DESCRIPTION:We proposed Translathon event\, an activitie to make the local
+ ization of Firefox and creation of Wikipedia articles\, in this case Maya 
+ Yucatec in Campeche venue. The main objective is form community committed 
+ to support the localization\, looking for awareness in our society about t
+ he importance of language preservation and promotion of the use on an impo
+ rtant issue of digital inclusion of indigenous communities. It calls on ke
+ y dates such as Feb. 21\, the International Day of Indigenous languages.
+URL:https://reps.mozilla.org/e/translathon-in-campeche-feb-21th/
+SEQUENCE:0
+X-COORDINATES-LAT:19.8270297996
+X-COORDINATES-LON:-90.5558395386
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5317
+CLASS:PUBLIC
+DTSTAMP:20200407T175507Z
+DTSTART:20160404T130000Z
+DTEND:20160404T150000Z
+LOCATION:Facultad Politécnica Universidad Nacional de Asunción\, San Lor
+ enzo\, Paraguay
+SUMMARY:Lanzamiento oficial Firefox  Guarani
+DESCRIPTION:Officially the translation Guarani Mozilla Firefox browser #Gu
+ arani Aguaratata was concluded on Monday\, March 7\, 2016\, after two year
+ s and four months of patient and meticulous teamwork. Notably\, no doubt\,
+  this great work of translation is the most important event of recent time
+ s in favor of strengthening and nesting Guarani language.
+URL:https://reps.mozilla.org/e/lanzamiento-oficial-firefox-guarani/
+SEQUENCE:1
+X-COORDINATES-LAT:-25.3424875505
+X-COORDINATES-LON:-57.5129756931
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

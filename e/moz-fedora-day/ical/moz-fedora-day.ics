@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7332
+CLASS:PUBLIC
+DTSTAMP:20200423T100709Z
+DTSTART:20180113T043000Z
+DTEND:20180113T113000Z
+LOCATION:Investopad Hauz Khas\, New Delhi\, India
+SUMMARY:Moz Fedora Day
+DESCRIPTION:The core event focuses on making the participants automate the
+  build of any of the Mozilla&#39;s open source project of their choice The aim
+  is to influence people to switch to linux as a build environment (Let&#39;s u
+ se Fedora for this) and introduce the basics of the version control system
+  (Mercurial in case of Mozilla). The event will also introduce to Vagrant 
+ for running standardised virtual machines for build environments.
+URL:https://reps.mozilla.org/e/moz-fedora-day/
+SEQUENCE:3
+X-COORDINATES-LAT:28.5226008446
+X-COORDINATES-LON:77.2792053223
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

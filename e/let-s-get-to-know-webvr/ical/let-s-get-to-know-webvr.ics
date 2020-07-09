@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6633
+CLASS:PUBLIC
+DTSTAMP:20200423T110308Z
+DTSTART:20170606T110000Z
+DTEND:20170606T140000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Let&#39;s get to know WebVR
+DESCRIPTION:Let&#39;s learn how to make VR experience through web technology. 
+ Mozilla Tech Speaker Rizky Ariestiyansyah will lead the session and teach 
+ you how the concepts of WebVR with A-Frame.
+URL:https://reps.mozilla.org/e/let-s-get-to-know-webvr/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.05864523767
+X-COORDINATES-LON:110.5052948
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8068
+CLASS:PUBLIC
+DTSTAMP:20200423T090353Z
+DTSTART:20180916T063000Z
+DTEND:20180916T103000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:Laravel Live - New Delhi Meetup
+DESCRIPTION:Mozilla India Community will be partnering withThe Laravel Liv
+ e Community New Delhi to host a session on Rust and MDN during the meetup.
+URL:https://reps.mozilla.org/e/laravel-live-new-delhi-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:28.6132585075
+X-COORDINATES-LON:77.216949407
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

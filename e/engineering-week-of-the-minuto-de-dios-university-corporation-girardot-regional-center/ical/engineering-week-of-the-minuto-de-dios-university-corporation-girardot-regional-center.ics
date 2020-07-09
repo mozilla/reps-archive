@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8882
+CLASS:PUBLIC
+DTSTAMP:20200407T174609Z
+DTSTART:20191019T130000Z
+DTEND:20191019T230000Z
+LOCATION:Girardot headquarters Pilot University\, Girardot\, Colombia
+SUMMARY:III TECHNOLOGICAL WEEK - First Meeting: Programs Systems engineer 
+ of the High Mag
+DESCRIPTION:III TECHNOLOGICAL WEEK\n&#34;inspires innovation with technology a
+ nd engineering science&#34;\nFirst Meeting: Systems Engineering Programs of Al
+ to Magdalena\n\nThe title of the presentation of Mozilla is:\nMoz://a: a h
+ ealthy\, secure and affordable Internet
+URL:https://reps.mozilla.org/e/engineering-week-of-the-minuto-de-dios-univ
+ ersity-corporation-girardot-regional-center/
+SEQUENCE:2
+X-COORDINATES-LAT:4.30093190091
+X-COORDINATES-LON:-74.8112690451
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

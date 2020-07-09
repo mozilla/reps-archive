@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3986
+CLASS:PUBLIC
+DTSTAMP:20200423T170827Z
+DTSTART:20150628T083000Z
+DTEND:20150628T160000Z
+LOCATION:Hotel Asma Tower\,Mavoor Rd\, Arayidathupalam\,\, Kozhikode\, Ind
+ ia
+SUMMARY:Firefox Spring Campaign\,kozhikode
+DESCRIPTION:A mozcoffee event in kozhikode to spread the words about Firef
+ ox under Firefox Spring Campaign
+URL:https://reps.mozilla.org/e/firefox-spring-campaign-kozhikode/
+SEQUENCE:2
+X-COORDINATES-LAT:11.2769010686
+X-COORDINATES-LON:75.7948495
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3633
+CLASS:PUBLIC
+DTSTAMP:20200423T174209Z
+DTSTART:20150316T093000Z
+DTEND:20150316T123000Z
+LOCATION:K B Joshi Hall\, MKSSS&#39;s Cummins College of Engineering for Women
+ \, Pune\, India
+SUMMARY:Celebrating Womanhood
+DESCRIPTION:This is a women centric event only for women on how women shou
+ ld be confident and start contributing in OpenSource\, instead of feeling 
+ inferior at workplace. And How they can maintain their privacy and securit
+ y online.\nNote: This event is co-organized by FSA Shagufta Methwani from 
+ Cummins FSA Club
+URL:https://reps.mozilla.org/e/celebrating-womanhood/
+SEQUENCE:5
+X-COORDINATES-LAT:18.4778725139
+X-COORDINATES-LON:73.940917924
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

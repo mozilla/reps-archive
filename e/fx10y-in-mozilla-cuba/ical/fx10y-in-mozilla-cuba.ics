@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3014
+CLASS:PUBLIC
+DTSTAMP:20200407T173813Z
+DTSTART:20141110T193000Z
+DTEND:20141110T213000Z
+LOCATION:UCI\, Havana\, Cuba
+SUMMARY:Fx10y in Mozilla Cuba
+DESCRIPTION:Mozilla Cuba Community\, has more than 5 years of created and 
+ through Firefoxmanía\, we&#39;ve been spreading Firefox from February 2008 to
+  today. We are very excited with the upcoming 10th anniversary of Firefox 
+ and I am organizing a Campaign and an Activity. The campaign will consist 
+ of online quizes\, contests\, banners\, spread with printed banners and a 
+ many posts on Social Networks and blogs.
+URL:https://reps.mozilla.org/e/fx10y-in-mozilla-cuba/
+SEQUENCE:2
+X-COORDINATES-LAT:22.98698667
+X-COORDINATES-LON:-82.467046738
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

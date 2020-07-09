@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7371
+CLASS:PUBLIC
+DTSTAMP:20200407T171654Z
+DTSTART:20180224T043000Z
+DTEND:20180224T103000Z
+LOCATION:Gyan Ganga Institute of Technology and Science\, Jabalpur\, India
+SUMMARY:Dive into Rust @GGITS
+DESCRIPTION:Rust programming language will be important to the future of t
+ he web\, making it safe and great. We will understand\, use and evangelize
+  this language will advance make the web better and more secure! You’ll 
+ come to know the most advance features of rust and realize that it is real
+ ly very fast. Apart from Rust as a system programming language people will
+  come to know the advantages of using rust over any other programming lang
+ uage.   For more details and Info Contact:  \nRitwik: 8982716569
+URL:https://reps.mozilla.org/e/dive-into-rust-ggits/
+SEQUENCE:6
+X-COORDINATES-LAT:23.1441351896
+X-COORDINATES-LON:79.9413013423
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

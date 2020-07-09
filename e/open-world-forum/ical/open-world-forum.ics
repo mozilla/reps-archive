@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2942
+CLASS:PUBLIC
+DTSTAMP:20200423T183830Z
+DTSTART:20141030T080000Z
+DTEND:20141031T180000Z
+LOCATION:Eurosite Georges V 28\, avenue Georges V 75008 Paris FRANCE\, Par
+ is\, France
+SUMMARY:Open World forum
+DESCRIPTION:Explore Open Source\, Open Hardware\, Open Data and the Open W
+ eb with the world&#39;s top technical\, business and thought leaders\, and the
+  most vibrant communities\, for two days (Oct 30-31) in the heart of Paris
+ &#39;s downtown business and entertainment district.
+URL:https://reps.mozilla.org/e/open-world-forum/
+SEQUENCE:4
+X-COORDINATES-LAT:48.8680386042
+X-COORDINATES-LON:2.30172872532
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

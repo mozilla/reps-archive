@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2272
+CLASS:PUBLIC
+DTSTAMP:20200407T181947Z
+DTSTART:20140514T183000Z
+DTEND:20140514T210000Z
+LOCATION:UCI\, Havana\, Cuba
+SUMMARY:Firefox Launch Party [Cuba]
+DESCRIPTION:The lastest Firefox Release is special. This event was to let 
+ the people know the reasons why it is so special.
+URL:https://reps.mozilla.org/e/firefox-launch-party-cuba/
+SEQUENCE:2
+X-COORDINATES-LAT:22.9871512844
+X-COORDINATES-LON:-82.4676160814
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

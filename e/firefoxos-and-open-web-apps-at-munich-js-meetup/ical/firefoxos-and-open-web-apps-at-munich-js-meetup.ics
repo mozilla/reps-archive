@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@270
+CLASS:PUBLIC
+DTSTAMP:20200423T200709Z
+DTSTART:20121108T180000Z
+DTEND:20121108T210000Z
+LOCATION:Combinat 56 (Adams-Lehmann-Str. 56\, 80797 Munich)\, Munich\, Ger
+ many
+SUMMARY:FirefoxOS and Open Web Apps at Munich.JS Meetup
+DESCRIPTION:There is a monthly meetup of Munich&#39;s JavaScript community. In
+  the November Meetup some Mozillians from Munich will demo FirefoxOS and h
+ ave ad-hoc talks about Open Web Apps.
+URL:https://reps.mozilla.org/e/firefoxos-and-open-web-apps-at-munich-js-me
+ etup/
+SEQUENCE:0
+X-COORDINATES-LAT:48.1635486072
+X-COORDINATES-LON:11.5583467484
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

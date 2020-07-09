@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2118
+CLASS:PUBLIC
+DTSTAMP:20200423T200439Z
+DTSTART:20140411T123000Z
+DTEND:20140411T133000Z
+LOCATION:蛙蛙漫吧\, Da-an District\, Taiwan
+SUMMARY:MozTW Handicraft - Perler Beads Workshop
+DESCRIPTION:Through Perler Beads workshop\, we create an environment for t
+ hose people who are not familiar with information technology\, make them p
+ erform their skills out of computer programming\, so anyone who is interes
+ ted is welcomed.\nCreating a fun\, interesting\, and simple thing for all 
+ people\, with no IT background\, this should be very easy for everyone get
+ ting their hands on.  Also\, besides inspiring individual member&#39;s creativ
+ ity \, everyone should be knowing each others better through the workshop.
+URL:https://reps.mozilla.org/e/moztw-lab-handicraft-foxmosa-plastic-beads/
+SEQUENCE:4
+X-COORDINATES-LAT:25.044582
+X-COORDINATES-LON:121.53328
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

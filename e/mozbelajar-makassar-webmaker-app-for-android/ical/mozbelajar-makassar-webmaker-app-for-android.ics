@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4286
+CLASS:PUBLIC
+DTSTAMP:20200423T164810Z
+DTSTART:20150829T030000Z
+DTEND:20150829T080000Z
+LOCATION:Digital Innovation Lounge (DILO) Makassar\, Makassar\, Indonesia
+SUMMARY:#MozBelajar Makassar : Webmaker App for Android
+DESCRIPTION:The Webmaker team and the Participation team will be organizin
+ g a series of interactive events to celebrate the official launch of the W
+ ebmaker app\, across 5 major cities in Indonesia: Jakarta\, Bandung\, Sura
+ baya\, Semarang\, Makassar. There will be Webmaker App downloading session
+  and hands on workshop in making projects using the app. This event is org
+ anized by Mozilla Indonesia
+URL:https://reps.mozilla.org/e/mozbelajar-makassar-webmaker-app-for-androi
+ d/
+SEQUENCE:2
+X-COORDINATES-LAT:-5.15527953362
+X-COORDINATES-LON:119.416171074
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

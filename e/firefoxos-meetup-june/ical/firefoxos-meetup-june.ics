@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3992
+CLASS:PUBLIC
+DTSTAMP:20200407T174227Z
+DTSTART:20150617T160000Z
+DTEND:20150617T180000Z
+LOCATION:MediaLab Prado\, Madrid\, Spain
+SUMMARY:FirefoxOS Meetup - June
+DESCRIPTION:Monthly meeting. We talk about FirefoxOS and its new features\
+ , new technologies\, etc.
+URL:https://reps.mozilla.org/e/firefoxos-meetup-june/
+SEQUENCE:1
+X-COORDINATES-LAT:40.4105375244
+X-COORDINATES-LON:-3.69360923811
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@546
+CLASS:PUBLIC
+DTSTAMP:20200407T181121Z
+DTSTART:20130413T170000Z
+DTEND:20130413T200000Z
+LOCATION:Faculdade Meridional IMED\, Laboratório Roxo - Rua Senador Pinhe
+ iro\, 304\, Passo Fundo\, Brazil
+SUMMARY:MozCoffee Passo Fundo / SuMo Localization Sprint
+DESCRIPTION:This event aims to start gathering volunteers who would like t
+ o help localize SuMo articles on the region. This is the first event\, and
+  so we will introuce people to Mozilla\, SuMo\, localization tools and com
+ munity.
+URL:https://reps.mozilla.org/e/mozcoffee-passo-fundo-sumo-localization-spr
+ int/
+SEQUENCE:6
+X-COORDINATES-LAT:-28.2654178026
+X-COORDINATES-LON:-52.3974895477
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

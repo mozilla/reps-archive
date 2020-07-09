@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3398
+CLASS:PUBLIC
+DTSTAMP:20200407T175053Z
+DTSTART:20150227T060000Z
+DTEND:20150227T083000Z
+LOCATION:SMA Negeri 5 Surabaya\, Surabaya\, Indonesia
+SUMMARY:Seminar Mozilla: &#34;Blaze Your Own Path&#34;
+DESCRIPTION:This is the first seminar for senior high school in Surabaya t
+ hat talk about Mozilla in general. The students will get more information 
+ about Mozilla\, Firefox\, Firefox OS\, Webmaker\, Mozilla Community in Ind
+ onesia\, and how to contribute in Mozilla. And because it will be held for
+  students\, the main point to talk is about Webmaker. What kind of tool in
+  Webmaker that can help them learn or tech the web.
+URL:https://reps.mozilla.org/e/seminar-mozilla-blaze-your-own-path/
+SEQUENCE:5
+X-COORDINATES-LAT:-7.25673238995
+X-COORDINATES-LON:112.750130296
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

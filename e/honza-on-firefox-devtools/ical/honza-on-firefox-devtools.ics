@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6432
+CLASS:PUBLIC
+DTSTAMP:20200423T112218Z
+DTSTART:20170322T113000Z
+DTEND:20170322T133000Z
+LOCATION:Mozilla Community Space Taipei\, Taipei\, Taiwan
+SUMMARY:Honza on Firefox DevTools
+DESCRIPTION:Honza visited the space and gave a talk about the future of De
+ vTools. Also\, Shing Lyu gave a brief introduction of Quantum CSS project.
+URL:https://reps.mozilla.org/e/honza-on-firefox-devtools/
+SEQUENCE:1
+X-COORDINATES-LAT:25.0440568029
+X-COORDINATES-LON:121.532240868
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

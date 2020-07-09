@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1226
+CLASS:PUBLIC
+DTSTAMP:20200407T180312Z
+DTSTART:20130918T070000Z
+DTEND:20130918T090000Z
+LOCATION:Dorna Candrenilor Technologic Highschool\, Dorna Candrenilor\, Ro
+ mania
+SUMMARY:Mozilla at highschool: Mozilla presentation
+DESCRIPTION:At the Dorna Candrenilor Technologic Highschool from Dorna Can
+ drenilor locality I will make presentations about Mozilla&#39;s products.
+URL:https://reps.mozilla.org/e/mozilla-at-high-school-mozilla-presentation
+ /
+SEQUENCE:4
+X-COORDINATES-LAT:47.3555131691
+X-COORDINATES-LON:25.2587270737
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2374
+CLASS:PUBLIC
+DTSTAMP:20200407T175449Z
+DTSTART:20140615T050000Z
+DTEND:20140615T080000Z
+LOCATION:iTrain Malaysia\, Kuala Lumpur\, Malaysia
+SUMMARY:Fedora Malaysia Planning Meeting 2014
+DESCRIPTION:&#34;Reviving Fedora Malaysia\, and Malaysian FOSS ecosystem&#34; is s
+ elected theme for upcoming event and organized by Fedora Malaysia.
+URL:https://reps.mozilla.org/e/fedora-malaysia-planning-meeting-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:3.16123385849
+X-COORDINATES-LON:101.716767847
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4871
+CLASS:PUBLIC
+DTSTAMP:20200423T155851Z
+DTSTART:20151230T043000Z
+DTEND:20151230T093000Z
+LOCATION:Chandigarh University\, Chandigarh\, India
+SUMMARY:End year MozCafe Punjab 2015
+DESCRIPTION:A meetup to facilitate communication in the Mozilla Punjab We 
+ are planning to build start working on building an agenda and work-flow fo
+ r contribution in 2016. The MozCafe meetup will serve the purpose of meeti
+ ng point and reference event for local community and people who want to ge
+ t involved the regional Mozilla community.
+URL:https://reps.mozilla.org/e/end-year-mozcafe-punjab-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:30.7349914671
+X-COORDINATES-LON:76.7613407735
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8769
+CLASS:PUBLIC
+DTSTAMP:20200407T170228Z
+DTSTART:20190817T010000Z
+DTEND:20190818T100000Z
+LOCATION:International Building (IB)\, NTUST\, Taipei City\, Taiwan
+SUMMARY:COSCUP 2019
+DESCRIPTION:COSCUP is the largest annual FLOSS conference in Asia\,  organ
+ ized by local communities in Taiwan. \n\nThe conference has sessions for n
+ ew users\, enthusiastic promoters\, coders or anyone who is interested in 
+ cutting-edge FLOSS technologies. \n\nThe goal is to create a friendly and 
+ informative environment for people from different communities to make frie
+ nds\, learn new technologies and inspire each other. \n\nA few Mozillians 
+ are the staff of the conference\, includes :bobchao
+URL:https://reps.mozilla.org/e/coscup-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:25.0140199241
+X-COORDINATES-LON:121.541427612
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

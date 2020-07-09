@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8433
+CLASS:PUBLIC
+DTSTAMP:20200422T102621Z
+DTSTART:20190406T090000Z
+DTEND:20190406T123000Z
+LOCATION:TBD\, Douala\, Cameroon
+SUMMARY:GIRLS IN TECH: HACKING MY MEDIA
+DESCRIPTION:learners create a remix of a Wikimedia page as they think crit
+ ically about the intersection of gender\, culture\, technology and identit
+ y.\n\n\nTHE EVENT WILL TAKE PLACE IN DOUALA AND YAGOUA
+URL:https://reps.mozilla.org/e/girls-in-tech-hacking-my-media/
+SEQUENCE:2
+X-COORDINATES-LAT:3.65870482627
+X-COORDINATES-LON:11.6819000244
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

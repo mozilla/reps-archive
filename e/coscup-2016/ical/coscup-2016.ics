@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5844
+CLASS:PUBLIC
+DTSTAMP:20200407T175114Z
+DTSTART:20160820T013000Z
+DTEND:20160821T090500Z
+LOCATION:International Conference Hall\, Academia Sinica\, Taipei City\, T
+ aiwan
+SUMMARY:COSCUP 2016
+DESCRIPTION:COSCUP is the largest annual FLOSS conference organized by loc
+ al communities in Taiwan. The conference has sessions for new users\, enth
+ usiastic promoters\, coders or anyone who is interested in cutting-edge FL
+ OSS technologies. The goal is to create a friendly and informative environ
+ ment for people from different communities to make friends\, learn new tec
+ hnologies and inspire each other. A few Mozillians are the staff of the co
+ nference\, include :bobchao
+URL:https://reps.mozilla.org/e/coscup-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:25.040941054
+X-COORDINATES-LON:121.611974001
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

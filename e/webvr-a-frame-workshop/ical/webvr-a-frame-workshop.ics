@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6376
+CLASS:PUBLIC
+DTSTAMP:20200423T112006Z
+DTSTART:20170329T153000Z
+DTEND:20170329T190000Z
+LOCATION:Metalab\, Rathausstraße 6\, 1010 Wien\, Austria
+SUMMARY:WebVR &amp; A-Frame Workshop
+DESCRIPTION:Mostly following MozActivate WebVR plan at https://activate.mo
+ zilla.community/webvr-camp/ we will have a short introduction and then bui
+ ld our own virtual environments with A-Frame on our laptops and take actua
+ l virtual looks into them with Cardboards and mobile phones.
+URL:https://reps.mozilla.org/e/webvr-a-frame-workshop/
+SEQUENCE:4
+X-COORDINATES-LAT:48.209417094
+X-COORDINATES-LON:16.3560913503
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2747
+CLASS:PUBLIC
+DTSTAMP:20200423T185653Z
+DTSTART:20140920T043000Z
+DTEND:20140920T113000Z
+LOCATION:Rakhra\, Punjab\, Patiala\, India
+SUMMARY:MozMaker Punjab &amp;  RefreshPunjab with FirefoxOS
+DESCRIPTION:In this event we would be having a good \,healthy session of W
+ ebMaker along with the other Agendas like finding more active contributors
+  from this Region . ( I had  organized events in Punjab last year and foun
+ d  awesome contributors from there who are rocking in the  SuMo ) The agen
+ da is to find more contributors like that and move the mission forward . N
+ ow since Firefox OS is also launched in India . So \, I would be giving in
+ teresting facts and  let crowd know &#34;Why &#34; Firefox OS mobile Phone.
+URL:https://reps.mozilla.org/e/mozmaker-punjab-refreshpunjab-with-firefoxo
+ s/
+SEQUENCE:6
+X-COORDINATES-LAT:30.3665563769
+X-COORDINATES-LON:76.3183575869
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

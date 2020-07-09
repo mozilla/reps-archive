@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@462
+CLASS:PUBLIC
+DTSTAMP:20200423T222810Z
+DTSTART:20130110T163000Z
+DTEND:20130110T180000Z
+LOCATION:IIT Bombay\, Mumbai\, India
+SUMMARY:MozCafe IITB
+DESCRIPTION:This MozCafe was decided over the phone for 5-6 persons in a v
+ ery last minute to give a short presentation of 30 minutes on Mozilla init
+ iatives.
+URL:https://reps.mozilla.org/e/mozcafe-1/
+SEQUENCE:0
+X-COORDINATES-LAT:21.2893743559
+X-COORDINATES-LON:80.15625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

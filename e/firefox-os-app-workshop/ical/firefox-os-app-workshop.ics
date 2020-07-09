@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1438
+CLASS:PUBLIC
+DTSTAMP:20200423T204853Z
+DTSTART:20131123T080000Z
+DTEND:20131123T180000Z
+LOCATION:USTREAM /TBD/\, Budapest\, Hungary
+SUMMARY:Firefox OS App Workshop
+DESCRIPTION:At the workshop\, you’ll spend the day working on your app w
+ ith help from our team\, with breaks for meals and snacks. Our first activ
+ ity will show you how to send your app from the Simulator to the Geeksphon
+ e Keon Firefox OS Developer Preview device. At the end of the day\, there
+ ’s a chance to demo the app you’re working on. After the workshop\, th
+ e Geeksphone is yours to keep\, to complete your Firefox OS app and contin
+ ue to use.
+URL:https://reps.mozilla.org/e/firefox-os-app-workshop/
+SEQUENCE:9
+X-COORDINATES-LAT:47.5607740552
+X-COORDINATES-LON:19.0502929688
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1824
+CLASS:PUBLIC
+DTSTAMP:20200423T202930Z
+DTSTART:20140208T030000Z
+DTEND:20140208T090000Z
+LOCATION:Ahsanullah University of Science and Technology\, 141 &amp; 142\, Lov
+ e road Dhaka 1208 Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awareness Booth at AUST\, February &#39;14
+DESCRIPTION:The newly formed AUST Firefox Club is setting up a Mozilla Awa
+ reness Booth at their campus to let people know about Mozilla. They will b
+ e talking to the interested people about Mozilla and it&#39;s philosophy\, Fir
+ efox Student Ambassadors and how to get connected to Mozilla Bangladesh co
+ mmunity.
+URL:https://reps.mozilla.org/e/mozilla-awareness-booth-at-aust/
+SEQUENCE:23
+X-COORDINATES-LAT:23.7643628867
+X-COORDINATES-LON:90.4066523016
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

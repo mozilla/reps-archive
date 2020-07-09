@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@949
+CLASS:PUBLIC
+DTSTAMP:20200423T213813Z
+DTSTART:20130601T050000Z
+DTEND:20130601T083000Z
+LOCATION:Long Mountain\, Mauritius\, Long Mountain\, Mauritius
+SUMMARY:Webmaker
+DESCRIPTION:This event concerns an Introduction to Webmaker for students\,
+  age range 12-17. Our series of Webmaking for kids continues\, where stude
+ nts are introduce to webmaking (1st session). This event will be conducted
+  in my homevillage again where some 40 students (aged 12-15) will be parti
+ cipating. \n\nThe session will comprise mainly of webmaker and the tools w
+ hich can be used to create something on the web.
+URL:https://reps.mozilla.org/e/webmaker-1/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1553918853
+X-COORDINATES-LON:57.5765991211
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

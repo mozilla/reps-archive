@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7272
+CLASS:PUBLIC
+DTSTAMP:20200407T174628Z
+DTSTART:20171203T043000Z
+DTEND:20171203T073000Z
+LOCATION:Wittyfeed Headquaters\, Indore\, India
+SUMMARY:MozCafe Indore Dec 2017
+DESCRIPTION:Monthly Mozilla Indore meet up with mozillians and Reps Agenda
+ :\n1. Onboarding new mozillians\n2. Taking inputs from local mozillians\n3
+ . Updates regarding upcoming events with Mozilla Indore.\n4.) To get all t
+ he intrested contributors and motivate them to start their contribution to
+ wards Mozilla.\nDemo of basic A-Frame scenes &amp; apps\nPropose your idea of 
+ VR experiences to build\n6.) Volunteers meetup for Wittyhacks
+URL:https://reps.mozilla.org/e/mozcafe-indore-dec-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5666766522
+X-COORDINATES-LON:79.3945240974
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

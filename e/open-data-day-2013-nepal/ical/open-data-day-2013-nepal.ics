@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1889
+CLASS:PUBLIC
+DTSTAMP:20200423T202435Z
+DTSTART:20140222T051500Z
+DTEND:20140222T091500Z
+LOCATION:Nepal Telecom Training Centre\, Pashupati Kshetra\, Nepal
+SUMMARY:Open Data Day 2013\,  Nepal
+DESCRIPTION:Open communities of Nepal are planning on celebrating Open Dat
+ a Day jointly this year.\n1. FOSS Nepal\n2. Mozilla Nepal\n3. Wikipedia/Wi
+ kimedia Nepal\n4. Open Knowledge Foundation Nepal\n5. Open Learning Exchan
+ ge Nepal (NGO\, Non-profit)\n\nMozilla Nepal will be collaborating with OK
+ FN. OKFN will be doing data visualization using Webmaker and their API.\nF
+ SAs will be doing work on webmaker\, it will help FSAs who have already or
+  haven&#39;t used webmaker to learn practically.
+URL:https://reps.mozilla.org/e/open-data-day-2013-nepal/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6941061788
+X-COORDINATES-LON:85.3223242163
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

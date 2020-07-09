@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2709
+CLASS:PUBLIC
+DTSTAMP:20200423T191216Z
+DTSTART:20140821T220000Z
+DTEND:20140821T230000Z
+LOCATION:San Martin Ave. 4to anillo.\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Educating parents
+DESCRIPTION:This event aims teach to parents about the importance of the w
+ eb\, the dangers and solutions. So\, they can teach to their childrens. Th
+ is will be the first event with this public (parents). This event will tak
+ e place in a Petroleum company.
+URL:https://reps.mozilla.org/e/educating-parents/
+SEQUENCE:4
+X-COORDINATES-LAT:-17.7567085895
+X-COORDINATES-LON:-63.1995753053
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

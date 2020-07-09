@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9049
+CLASS:PUBLIC
+DTSTAMP:20200407T165028Z
+DTSTART:20200131T043000Z
+DTEND:20200201T053000Z
+LOCATION:Vivekananda Institute of Professional Studies\, New Delhi\, India
+SUMMARY:Hack VSIT 3.0
+DESCRIPTION:ACE - The Technical Society of VSIT\, VIPS presents the third 
+ edition of HackVSIT under the banner of CSI - Students&#39; Convention 2020. W
+ e at VIPS believe in encouraging the growing talent and by HackVSIT we bri
+ ng together\, people with different outlooks and solutions for already exi
+ sting problems using technology and design. For 24 hours\, you will work t
+ ogether with your teams to envision and develop the technology of tomorrow
+  to solving the problems of today.
+URL:https://reps.mozilla.org/e/hack-vsit-3-0/
+SEQUENCE:1
+X-COORDINATES-LAT:28.7213687993
+X-COORDINATES-LON:77.1408453729
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

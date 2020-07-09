@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@954
+CLASS:PUBLIC
+DTSTAMP:20200407T180226Z
+DTSTART:20130612T083000Z
+DTEND:20130612T103000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:MozCafe with Spinger Wang of Mozilla Taiwan
+DESCRIPTION:Spinger Wang is from Mozilla Taiwan working on the Business De
+ velopment. Spinger will be in Delhi on a work trip and would like to meet 
+ the local community for some informal chat.
+URL:https://reps.mozilla.org/e/mozcafe-with-spinger-wang-of-mozilla-taiwan
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:28.5989915677
+X-COORDINATES-LON:77.2393798828
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

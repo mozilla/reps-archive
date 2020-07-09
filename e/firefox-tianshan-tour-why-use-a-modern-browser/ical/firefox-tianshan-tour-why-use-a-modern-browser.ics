@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5494
+CLASS:PUBLIC
+DTSTAMP:20200423T150610Z
+DTSTART:20160804T070000Z
+DTEND:20160804T090000Z
+LOCATION:Urumqi gaoxin community\, Urumqi\, China
+SUMMARY:Firefox Tianshan Tour--    Lesson 3- Scratch creative (1)
+DESCRIPTION:Look at this presentation\,  and familiar\nDescription\nLearni
+ ng scratch\, awareness program\n\nhttps://scratch.mit.edu/projects/1105360
+ 52/#editor
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-why-use-a-modern-brow
+ ser/
+SEQUENCE:2
+X-COORDINATES-LAT:43.8803469967
+X-COORDINATES-LON:2607.55236518
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

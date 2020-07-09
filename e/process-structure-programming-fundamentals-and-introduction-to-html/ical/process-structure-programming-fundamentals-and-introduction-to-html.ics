@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6308
+CLASS:PUBLIC
+DTSTAMP:20200423T113431Z
+DTSTART:20170121T213000Z
+DTEND:20170122T010000Z
+LOCATION:Telmex Hub\, Delegacion Cuauhtemoc\, Mexico
+SUMMARY:Process structure\, programming fundamentals and introduction to H
+ TML
+DESCRIPTION:The purpose of this training is to understand the basics of pr
+ ogramming to begin mastering it before choosing a language. This workshop 
+ facilitates learning for all those who want to learn how to program and do
+  not know where to start\, or for those self-made programmers who lack alg
+ orithmic fundamentals.
+URL:https://reps.mozilla.org/e/process-structure-programming-fundamentals-
+ and-introduction-to-html/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4310722873
+X-COORDINATES-LON:-99.1368053556
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

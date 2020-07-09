@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1693
+CLASS:PUBLIC
+DTSTAMP:20200407T180112Z
+DTSTART:20140127T070000Z
+DTEND:20140127T130000Z
+LOCATION:TBD\, Bulawayo\, Zimbabwe
+SUMMARY:L10n Meetup
+DESCRIPTION:This event is scheduled to be the first meetup for all contrib
+ utors working on Firefox l10n.Contributors to meet in person\, work on cre
+ ating assets for the project and ironing out challenges the team has been 
+ facing.  \n\nGoal:Meet and translate at least 1000 words.\n5 people are in
+ vited to this meetup\, one of them a vouched mozillian.\nAfter the event\,
+  attendees will have pizza and drinks.
+URL:https://reps.mozilla.org/e/l10n-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1419082848
+X-COORDINATES-LON:28.9130866528
+X-COUNTRY-CODE:zw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3052
+CLASS:PUBLIC
+DTSTAMP:20200407T175310Z
+DTSTART:20160820T100000Z
+DTEND:20160820T140000Z
+LOCATION:Academic City College\, Accra\, Ghana\, Accra\, Ghana
+SUMMARY:FireFox in Twi Language
+DESCRIPTION:In this event we are going to localize Firefox in twi language
+  which is very popular in Ghana\, Africa. We are going to translate Firefo
+ x into twi languages or adapting a product for a specifically for Ghanians
+ .
+URL:https://reps.mozilla.org/e/firefox-in-twi-language/
+SEQUENCE:5
+X-COORDINATES-LAT:5.56458622986
+X-COORDINATES-LON:-0.227550208656
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7097
+CLASS:PUBLIC
+DTSTAMP:20200423T102246Z
+DTSTART:20171022T093000Z
+DTEND:20171022T133000Z
+LOCATION:Community House\, Jaipur\, India
+SUMMARY:MozCafe Jaipur - MCR Diwali Meet
+DESCRIPTION:Happy Diwali MCR! \n\nWhile Mozilla has got lot of great updat
+ es recently\, including Quantum hiting Nightly\, the community also got ma
+ ny updates. Lets catch up right after Diwali to share the wishes &amp; updates
+  :-)
+URL:https://reps.mozilla.org/e/mozcafe-jaipur-mcr-diwali-meet/
+SEQUENCE:3
+X-COORDINATES-LAT:26.8835335653
+X-COORDINATES-LON:75.8994139731
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

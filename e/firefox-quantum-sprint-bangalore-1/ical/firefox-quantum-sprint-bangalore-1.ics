@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7123
+CLASS:PUBLIC
+DTSTAMP:20200407T174555Z
+DTSTART:20171007T040000Z
+DTEND:20171007T060000Z
+LOCATION:TBD\, Bangalore\, India
+SUMMARY:Firefox Quantum Sprint - Bangalore
+DESCRIPTION:Firefox Quantum is soon to be launched and this is our opportu
+ nity to make Firefox rise again. Participate in the Firefox Quantum Sprint
+  and make a difference by ensuring that Firefox runs smoothly in oour regi
+ on.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-bangalore-1/
+SEQUENCE:2
+X-COORDINATES-LAT:13.0107462376
+X-COORDINATES-LON:77.5630044937
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

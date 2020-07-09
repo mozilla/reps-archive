@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8486
+CLASS:PUBLIC
+DTSTAMP:20200407T181214Z
+DTSTART:20190322T080000Z
+DTEND:20190324T170000Z
+LOCATION:Slovak University of Technology in Bratislava Faculty of Informat
+ ics and Information Technologies Ilkovičova 2 84216 Bratislava 4\, Slovak
+  University of Technology\, Slovakia
+SUMMARY:Pycon SK 2019
+DESCRIPTION:The PyCon SK 2019 conference\, which will be held in Bratislav
+ a\, is the annual gathering for the community using and developing the ope
+ n-source Python programming language. It is organized by the volunteers fr
+ om the SPy o.z.\, civic association dedicated to advancing and promoting P
+ ython and other Open Source technologies and ideas.
+URL:https://reps.mozilla.org/e/pycon-sk-2019/
+SEQUENCE:1
+X-COORDINATES-LAT:48.701520463
+X-COORDINATES-LON:19.5434417389
+X-COUNTRY-CODE:sk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7584
+CLASS:PUBLIC
+DTSTAMP:20200407T174124Z
+DTSTART:20180602T042500Z
+DTEND:20180603T113000Z
+LOCATION:TBD\, Pune\, India
+SUMMARY:Pontoon Training Pune
+DESCRIPTION:Pontoon is a localisation tool powered by Mozilla. We will be 
+ doing a full day training on Pontoon and other related QA tools like trans
+ vision ( https://transvision.mozfr.org)  \nUnderstanding the build cycle. 
+ Style guide and terminology.\nThis even will be open for all localisation 
+ lovers irrespective of language.
+URL:https://reps.mozilla.org/e/pontoon-training-pune/
+SEQUENCE:2
+X-COORDINATES-LAT:18.3675593025
+X-COORDINATES-LON:73.9743804932
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

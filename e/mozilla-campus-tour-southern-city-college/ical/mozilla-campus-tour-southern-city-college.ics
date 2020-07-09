@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@344
+CLASS:PUBLIC
+DTSTAMP:20200423T223754Z
+DTSTART:20121210T090000Z
+DTEND:20121210T110000Z
+LOCATION:Southern City College\, Zamboanga City\, Philippines
+SUMMARY:Mozilla Campus Tour - Southern City College
+DESCRIPTION:Mozilla goes to Southern City College\, one of the colleges in
+  Region IX located at Zamboanga City. Together with the student volunteer 
+ we will Introduce Mozilla to the school and recruit them to volunteer.
+URL:https://reps.mozilla.org/e/mozilla-campus-tour-southern-city-college/
+SEQUENCE:0
+X-COORDINATES-LAT:6.91006734159
+X-COORDINATES-LON:122.052612305
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

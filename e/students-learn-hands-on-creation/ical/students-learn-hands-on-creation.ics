@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5487
+CLASS:PUBLIC
+DTSTAMP:20200423T160307Z
+DTSTART:20151216T080000Z
+DTEND:20151216T093000Z
+LOCATION:Urumqi tenth Primary school\, Urumqi\, China
+SUMMARY:Students learn hands-on creation
+DESCRIPTION:The lesson we require all students followed the teacher templa
+ tes to create a simple demo requirement is a problem distinguish between t
+ he correct answer and use of radio command
+URL:https://reps.mozilla.org/e/students-learn-hands-on-creation/
+SEQUENCE:1
+X-COORDINATES-LAT:43.7699291152
+X-COORDINATES-LON:2607.62703681
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

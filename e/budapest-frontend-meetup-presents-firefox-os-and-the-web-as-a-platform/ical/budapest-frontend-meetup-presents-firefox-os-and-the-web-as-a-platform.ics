@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2169
+CLASS:PUBLIC
+DTSTAMP:20200423T194412Z
+DTSTART:20140529T170000Z
+DTEND:20140529T193000Z
+LOCATION:CarnationGroup HQ\, Budapest\, Hungary
+SUMMARY:Budapest Frontend Meetup presents: Firefox OS and the Web as a Pla
+ tform
+DESCRIPTION:The Future of the Web Platform:\nMozilla Hungary and the Hunga
+ rian Firefox OS Engagement team teams up with CarnationGroup (POSSIBLE Bud
+ apest) and the Hungarian Frontend Meetup to present the latest and greates
+ t in hardware (Firefox OS tablets\, new phones &amp; developer device) and sof
+ tware (Firefox OS 2.0/Haida/NFC\, Open Web API-s\, ES6 features) innovatio
+ ns to the cream crop of the Hungarian front-end scene.
+URL:https://reps.mozilla.org/e/budapest-frontend-meetup-presents-firefox-o
+ s-and-the-web-as-a-platform/
+SEQUENCE:5
+X-COORDINATES-LAT:47.4780865327
+X-COORDINATES-LON:19.0272885559
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

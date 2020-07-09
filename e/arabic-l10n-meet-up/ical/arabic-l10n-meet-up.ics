@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8163
+CLASS:PUBLIC
+DTSTAMP:20200407T174554Z
+DTSTART:20180817T063000Z
+DTEND:20180818T063000Z
+LOCATION:Amman Rotana Hotel\, Amman\, Jordan
+SUMMARY:Arabic L10n Meet up
+DESCRIPTION:Establish a quality-oriented workflow that emphasizes mentorsh
+ ip between localizers in various roles.\nExplore how other global organiza
+ tions do Arabic localization and determine if that&#39;s appropriate for this 
+ community (e.g.\, one Arabic\, region-specific Arabic\, etc.).\nDiscuss ne
+ w localizer roles descriptions created by l10n-drivers and how they apply 
+ to Arabic community.\nCPG and reporting process is understood and accepted
+  by all.
+URL:https://reps.mozilla.org/e/arabic-l10n-meet-up/
+SEQUENCE:0
+X-COORDINATES-LAT:31.9396352258
+X-COORDINATES-LON:35.8485603333
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

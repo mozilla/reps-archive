@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@42
+CLASS:PUBLIC
+DTSTAMP:20200407T181847Z
+DTSTART:20120929T060000Z
+DTEND:20120929T090000Z
+LOCATION:Bebidas Coffee Bar\, Ormoc City\, Leyte\, Ormoc City\, Philippine
+ s
+SUMMARY:MozCoffee Leyte
+DESCRIPTION:Meeting with Student Reps and aspiring Mozilla Representatives
+  in Leyte in response to the successful MozTour in Leyte last August 2 to 
+ 4 by fellow Mozilla Reps.\n\nDiscussions will include\n1. the Mozilla Webm
+ aker project\n2. contributions to Free and Open Source Software communitie
+ s\n3. involvement in local community teams\, Student Reps\, ReMo\, etc
+URL:https://reps.mozilla.org/e/mozcoffee-leyte/
+SEQUENCE:0
+X-COORDINATES-LAT:11.0047354602
+X-COORDINATES-LON:124.610259533
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

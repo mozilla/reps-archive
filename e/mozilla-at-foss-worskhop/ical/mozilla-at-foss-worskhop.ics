@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1621
+CLASS:PUBLIC
+DTSTAMP:20200423T204204Z
+DTSTART:20131209T050000Z
+DTEND:20131213T120000Z
+LOCATION:Mauritius Institute of Health\, Long Mountain\, Mauritius
+SUMMARY:Mozilla at FOSS Worskhop
+DESCRIPTION:After a few days of silence\, Mozilla Mauritius is back on bus
+ iness with a new event: Mozilla introduction to doctors during a FOSS work
+ shop on Open Journal Systems where Firefox will be used as browser. This f
+ ive-day workshop will be held in the computer lab of the Mauritius Institu
+ te of Health at Pamplemousses in the north of Mauritius. As I am one of th
+ e facilitators\, I shall introduce them to Mozilla and its products.
+URL:https://reps.mozilla.org/e/mozilla-at-foss-worskhop/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1113987002
+X-COORDINATES-LON:57.5770139677
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

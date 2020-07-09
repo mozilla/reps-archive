@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@856
+CLASS:PUBLIC
+DTSTAMP:20200423T213415Z
+DTSTART:20130615T123000Z
+DTEND:20130615T230000Z
+LOCATION:Colegio &#34;Don Bosco&#34; Sarmiento 1088\, Formosa\, Formosa\, Capital\
+ , Argentina
+SUMMARY:BarCamp NEA
+DESCRIPTION:Like any other Barcamp\, this is a conference day where everyo
+ ne could propose a talk. This will be for NE Argentina&#39;s region. Pablo Ter
+ radillos\, an Argentina&#39;s community member will be there\, talking about F
+ irefox OS.
+URL:https://reps.mozilla.org/e/barcamp-nea/
+SEQUENCE:5
+X-COORDINATES-LAT:-26.1702290475
+X-COORDINATES-LON:-58.1890869141
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

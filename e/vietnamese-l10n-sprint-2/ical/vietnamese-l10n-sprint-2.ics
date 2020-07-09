@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@250
+CLASS:PUBLIC
+DTSTAMP:20200407T175946Z
+DTSTART:20121017T020000Z
+DTEND:20121017T050000Z
+LOCATION:3rd floor\, No. 20A Alleyway 98 Thai Ha\, Hanoi\, Hanoi\, Vietnam
+SUMMARY:Vietnamese L10N Sprint 
+DESCRIPTION: Localization sprint to translate Firefox Vietnamese 
+URL:https://reps.mozilla.org/e/vietnamese-l10n-sprint-2/
+SEQUENCE:0
+X-COORDINATES-LAT:20.879342972
+X-COORDINATES-LON:105.8203125
+X-COUNTRY-CODE:vn
+END:VEVENT
+
+END:VCALENDAR

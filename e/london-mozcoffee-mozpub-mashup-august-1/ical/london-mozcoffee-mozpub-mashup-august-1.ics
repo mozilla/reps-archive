@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7750
+CLASS:PUBLIC
+DTSTAMP:20200407T165054Z
+DTSTART:20180929T130000Z
+DTEND:20180929T160000Z
+LOCATION:Namco Funscape\, County Hall\, Westminster Bridge Rd\, Lambeth\, 
+ London SE1 7PB\, Lambeth\, United Kingdom
+SUMMARY:London MozCoffee visits a games arcade - September
+DESCRIPTION:This event will be different. A chance to meet together\, play
+  some games\, have a natter\, and a bit of a laugh.\n\nThis 29th September
+  event (14:00 - 17:00) will be a special gaming day at Namco. They have pi
+ ng-ping\, air hockey\, ten pin bowling\, snooker\, an escape room\, and st
+ acks of arcade games too. An opportunity to meet face-to-face and PLAY. \n
+ \nI look forward to meeting you in person.\n\nPlease grab a ticket via the
+  above &#39;URL&#39;. Location TBC. Get in touch if you&#39;ve got a cool suggestion!
+URL:https://reps.mozilla.org/e/london-mozcoffee-mozpub-mashup-august-1/
+SEQUENCE:2
+X-COORDINATES-LAT:51.5013091537
+X-COORDINATES-LON:-0.119644403676
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3154
+CLASS:PUBLIC
+DTSTAMP:20200423T182248Z
+DTSTART:20141129T113000Z
+DTEND:20141129T143000Z
+LOCATION:TBD\, Kanchipuram\, India
+SUMMARY:MozCafe Chennai
+DESCRIPTION:The simple tech talk and community development targeted event.
+URL:https://reps.mozilla.org/e/mozcafe-chennai-5/
+SEQUENCE:1
+X-COORDINATES-LAT:13.0230263
+X-COORDINATES-LON:80.1733094
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

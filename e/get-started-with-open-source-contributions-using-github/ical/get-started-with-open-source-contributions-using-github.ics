@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8751
+CLASS:PUBLIC
+DTSTAMP:20200423T081344Z
+DTSTART:20190828T043000Z
+DTEND:20190828T113000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:Get Started with Open Source Contributions using GitHub
+DESCRIPTION:People are often confused on how to approach and contribute in
+  the open source projects\, this will be a getting started guide. I will b
+ e sharing my knowledge on getting started in open source. The people will 
+ be of my community\, right now\, I am talking for a venue\, hopefully I ge
+ t in Central Delhi due to the easy accessibility. There will be a live han
+ dson session with a bug that I will be solving.
+URL:https://reps.mozilla.org/e/get-started-with-open-source-contributions-
+ using-github/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6102447132
+X-COORDINATES-LON:77.3496079445
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

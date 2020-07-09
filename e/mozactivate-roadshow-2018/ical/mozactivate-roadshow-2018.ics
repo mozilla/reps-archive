@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8048
+CLASS:PUBLIC
+DTSTAMP:20200423T085744Z
+DTSTART:20181015T043000Z
+DTEND:20181015T123000Z
+LOCATION:Gujarat\, Ahmedabad\, India
+SUMMARY:MozActivate Roadshow 2018
+DESCRIPTION:Mozilla Roadshow is Mozilla’s Activate campaign to teach the
+  WebVR and Rust Languagae\, through hands-on learning. The Mozilla Gujarat
+  community\, along with educators\, organizations and enthusiastic web use
+ rs\, will be teaching and learning the WebVR and Rust in hundreds of class
+ rooms and cafes\, libraries and living rooms all around the Gujarat.
+URL:https://reps.mozilla.org/e/mozactivate-roadshow-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:23.0331144319
+X-COORDINATES-LON:72.5475296978
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

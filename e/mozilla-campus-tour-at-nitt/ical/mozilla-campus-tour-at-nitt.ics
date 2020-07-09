@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1269
+CLASS:PUBLIC
+DTSTAMP:20200423T205805Z
+DTSTART:20131024T033000Z
+DTEND:20131024T113000Z
+LOCATION:National Institute of Technology\, Trichy\, India
+SUMMARY:Mozilla Campus Tour [at] NITT.
+DESCRIPTION:Kick-off event in NITT where familiarizing OpenSource Software
+  and Firefox OS\, sharing the insights of OpenWeb technologies\, Sample Ap
+ p-Dev\, WebFWD for entrepreneurs\, Webmaker hacks and fun.
+URL:https://reps.mozilla.org/e/mozilla-campus-tour-at-nitt/
+SEQUENCE:5
+X-COORDINATES-LAT:11.5015569009
+X-COORDINATES-LON:78.4204101562
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

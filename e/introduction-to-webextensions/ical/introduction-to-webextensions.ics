@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5823
+CLASS:PUBLIC
+DTSTAMP:20200423T145508Z
+DTSTART:20160919T170000Z
+DTEND:20160919T190000Z
+LOCATION:Liip\, Limmatstrasse 183\, Zürich\, Zurich\, Switzerland
+SUMMARY:Introduction to WebExtensions
+DESCRIPTION:Firefox is drastically changing its extension system and repla
+ cing it with the Chrome-like WebExtensions. Chrome-like is an empty descri
+ ption for you? Perfect\, Martin will explain what WebExtensions are\, why 
+ you should care about them and what to do if you have an extension for Fir
+ efox that you will have to port over. For those already familiar with the 
+ Chrome extension API\, the talk will point out the differences and nuances
+  to check when porting.
+URL:https://reps.mozilla.org/e/introduction-to-webextensions/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3861749375
+X-COORDINATES-LON:8.52924299223
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

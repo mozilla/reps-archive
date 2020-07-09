@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5565
+CLASS:PUBLIC
+DTSTAMP:20200423T152628Z
+DTSTART:20160512T073000Z
+DTEND:20160512T090000Z
+LOCATION:Urumqi 126 Primary school\, Urumqi\, China
+SUMMARY:Firefox Tianshan tour- for our children to read out loud
+DESCRIPTION:Time May 12\, 2016\nVenue Urumqi 126 primary school classroom 
+ computer Firefox
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-for-our-children-to-r
+ ead-out-loud/
+SEQUENCE:1
+X-COORDINATES-LAT:43.7577892904
+X-COORDINATES-LON:2607.62800312
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

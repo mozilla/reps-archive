@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5864
+CLASS:PUBLIC
+DTSTAMP:20200423T115250Z
+DTSTART:20161018T033000Z
+DTEND:20161019T113000Z
+LOCATION:Gujarat Technological University(GTU)\, Chandkheda Campus\, Ahmed
+ abad\, India
+SUMMARY:MozActivate Gujarat
+DESCRIPTION:Gujarat is hosting a big Maker Party and MozActivate this seas
+ on\, and will be reaching out to more and more people.
+URL:https://reps.mozilla.org/e/maker-party-gujarat/
+SEQUENCE:18
+X-COORDINATES-LAT:23.4800420194
+X-COORDINATES-LON:71.9750967622
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

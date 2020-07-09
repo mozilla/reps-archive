@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2172
+CLASS:PUBLIC
+DTSTAMP:20200407T182503Z
+DTSTART:20140508T150000Z
+DTEND:20140511T020000Z
+LOCATION:Utah Valley University\, Orem\, United States
+SUMMARY:Open West Conference
+DESCRIPTION:The OpenWest conference is a regional conference that has cont
+ inued to show strong growth in the Open Source\, Open Hardware and Open St
+ andards communities. Utah Open Source Foundation\, a collaboration of volu
+ nteers from local user groups\, held its first conference in 2006 to suppo
+ rt and promote open-source software.
+URL:https://reps.mozilla.org/e/open-west-conference/
+SEQUENCE:1
+X-COORDINATES-LAT:40.2782760775
+X-COORDINATES-LON:-111.714689255
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

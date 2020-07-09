@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4170
+CLASS:PUBLIC
+DTSTAMP:20200423T165632Z
+DTSTART:20150801T030000Z
+DTEND:20150801T050000Z
+LOCATION:SMK Al-Luthfah Jl Villa Mutiara Cikarang No. 3\, Ciantra\, Cikara
+ ng Selatan\, Bekasi\, Indonesia
+SUMMARY:#MozBelajar SMK Al Luthfah
+DESCRIPTION:An event to introduce the newly launched Webmaker App to vocat
+ ional high school students in SMK Al Luthfah. There will be Webmaker App d
+ ownloading session and hands on workshop in making projects using the app.
+  \n\nThis event is organized as part of Webmaker App Launch initiatives in
+  Indonesia.
+URL:https://reps.mozilla.org/e/mozbelajar-smk-al-luthfah/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.33718360231
+X-COORDINATES-LON:107.193240165
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

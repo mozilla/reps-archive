@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1167
+CLASS:PUBLIC
+DTSTAMP:20200423T205058Z
+DTSTART:20131116T010000Z
+DTEND:20131116T100000Z
+LOCATION:Globe Valero\, Makati City\, Philippines
+SUMMARY:Firefox OS Challenge for Students
+DESCRIPTION:Firefox OS Challenge for Students is a mini-hackathon for stud
+ ents who are interested in building and launching an app to the Firefox Ma
+ rketplace.
+URL:https://reps.mozilla.org/e/firefox-os-challenge-for-students/
+SEQUENCE:12
+X-COORDINATES-LAT:14.5598047186
+X-COORDINATES-LON:121.018331051
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

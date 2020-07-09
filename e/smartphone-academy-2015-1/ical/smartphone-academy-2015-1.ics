@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3320
+CLASS:PUBLIC
+DTSTAMP:20200423T180704Z
+DTSTART:20150121T160000Z
+DTEND:20150121T200000Z
+LOCATION:Budapest\, Millenáris B Épület (Nagycsarnok)\, Budapest\, Hung
+ ary
+SUMMARY:Smartphone Academy 2015/1
+DESCRIPTION:The Telenor is organizing an event around ...\nOur carrier par
+ tner invited us to show actual things. We plan the usual things\, also we 
+ moved from paper based quizes to electronic solution.\nWe would like to ha
+ ve cake as Firefox is 10. Is there any news and highliths that we can show
+ ? New devices\, interesting projects\, etc?
+URL:https://reps.mozilla.org/e/smartphone-academy-2015-1/
+SEQUENCE:23
+X-COORDINATES-LAT:47.5123444981
+X-COORDINATES-LON:19.0238771442
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

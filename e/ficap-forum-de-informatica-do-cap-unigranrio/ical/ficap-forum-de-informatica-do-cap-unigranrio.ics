@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@266
+CLASS:PUBLIC
+DTSTAMP:20200407T182241Z
+DTSTART:20121110T100000Z
+DTEND:20121110T200000Z
+LOCATION:Rua Prof. José de Souza Herdy\, 1.160 - 25 de Agost\, Duque de C
+ axias\, Brazil
+SUMMARY:FICAP - Fórum de Informática do CAP UNIGRANRIO
+DESCRIPTION:Web Development event with focus on computer technician course
+  students. 
+URL:https://reps.mozilla.org/e/ficap-forum-de-informatica-do-cap-unigranri
+ o/
+SEQUENCE:0
+X-COORDINATES-LAT:-22.7891595147
+X-COORDINATES-LON:-43.3113670349
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5389
+CLASS:PUBLIC
+DTSTAMP:20200407T173813Z
+DTSTART:20160425T130000Z
+DTEND:20160427T210000Z
+LOCATION:Colegio Universitario San Gerónimo de La Habana\, Havana\, Cuba
+SUMMARY:Cuba Conference
+DESCRIPTION:&#34;Unfortunately the majority of large Free Software Conferences
+  take place in rich countries. People from poor countries like Cuba normal
+ ly are prevented to participate not only by financial reasons but also by 
+ denying the entry visa to countries like USA\, Canada or most European cou
+ ntries. So we decided to turn it upside down and have an International Fre
+ e Software Conference in Havana\, Cuba. We invite free software enthusiast
+ s from all over the world to participate&#34;
+URL:https://reps.mozilla.org/e/cuba-conference/
+SEQUENCE:1
+X-COORDINATES-LAT:23.1396389717
+X-COORDINATES-LON:-82.3511677983
+X-COUNTRY-CODE:cu
+END:VEVENT
+
+END:VCALENDAR

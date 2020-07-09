@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@113
+CLASS:PUBLIC
+DTSTAMP:20200423T225712Z
+DTSTART:20120929T090000Z
+DTEND:20120929T120000Z
+LOCATION:  Exist TechBar\, 5/F Orient Square Bldg\,\, Ortigas Center\, Pas
+ ig City\, Philippines
+SUMMARY:&#34;Learn from the Drop&#34; (Drupal for beginners)
+DESCRIPTION:&#34;Learn from the Drop&#34; is for drupal newbies\,enthusiast\, and 
+ young professionals who would like to know more about DRUPAL-how powerful 
+ it is \,and explore more of its undeniable beautiful CMS and Modules&#34;
+URL:https://reps.mozilla.org/e/learn-from-the-drop-drupal-for-beginners/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5854628005
+X-COORDINATES-LON:121.062008142
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

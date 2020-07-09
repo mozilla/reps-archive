@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3488
+CLASS:PUBLIC
+DTSTAMP:20200407T175508Z
+DTSTART:20150312T110000Z
+DTEND:20150312T150000Z
+LOCATION:Charles de Gaulle 1645 casi Alfredo Seiperheld\, Asuncion\, Parag
+ uay
+SUMMARY:Firefox OS Workshop Asunción
+DESCRIPTION:This Firefox OS Workshop is a course to be held at San Rafael 
+ Foundation. At the end of the course\, participants will have a better und
+ erstanding of how to create webapps for Firefox OS using open web technolo
+ gies.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-asuncion/
+SEQUENCE:2
+X-COORDINATES-LAT:-25.3064345846
+X-COORDINATES-LON:-57.5872868858
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

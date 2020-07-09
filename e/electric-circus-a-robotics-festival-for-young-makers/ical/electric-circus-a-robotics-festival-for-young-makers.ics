@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3500
+CLASS:PUBLIC
+DTSTAMP:20200407T174347Z
+DTSTART:20150301T070000Z
+DTEND:20150301T160000Z
+LOCATION:Thessaloniki City Hall\, Thessaloniki\, Greece
+SUMMARY:Electric Circus\, a Robotics Festival for young makers
+DESCRIPTION:During Sunday 01/03 the festival is free and open to the publi
+ c with talks\, workshops\, round table discussion\, robots exhibits\, a ci
+ rcuit bended instruments electronic music performance\, interactive instal
+ lation and a students robotics competition.
+URL:https://reps.mozilla.org/e/electric-circus-a-robotics-festival-for-you
+ ng-makers/
+SEQUENCE:1
+X-COORDINATES-LAT:40.6232031569
+X-COORDINATES-LON:22.9536230565
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6985
+CLASS:PUBLIC
+DTSTAMP:20200423T104437Z
+DTSTART:20170831T063000Z
+DTEND:20170831T073000Z
+LOCATION:Jaipur\, Jaipur\, India
+SUMMARY:Reactivation discussion
+DESCRIPTION:A telecommunication discussion with few other members of the c
+ ommunity to have the current status for deciding the future steps that can
+  be taken to enhance the contribution.
+URL:https://reps.mozilla.org/e/reactivation-discussion/
+SEQUENCE:1
+X-COORDINATES-LAT:26.7423402219
+X-COORDINATES-LON:75.8378908038
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

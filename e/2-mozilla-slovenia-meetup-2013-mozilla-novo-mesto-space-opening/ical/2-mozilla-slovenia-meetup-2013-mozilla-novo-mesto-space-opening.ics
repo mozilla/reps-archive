@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1228
+CLASS:PUBLIC
+DTSTAMP:20200423T211135Z
+DTSTART:20130914T060000Z
+DTEND:20130914T190000Z
+LOCATION:Mozilla Space Novo mesto\, Podbreznk 15\, Novo mesto\, Novo mesto
+ \, Slovenia
+SUMMARY:2. Mozilla Slovenia Meetup  2013 + Mozilla Novo mesto Space openin
+ g
+DESCRIPTION:Second Slovenian Mozilla community meeting this year. We have 
+ achieved a lot in this year\, so it&#39;s time to recap again and set our goal
+ s for the future. In the morning we will have a meeting and in the afterno
+ on we will celebrate the opening of Mozilla Space in Novo mesto.
+URL:https://reps.mozilla.org/e/2-mozilla-slovenia-meetup-2013-mozilla-novo
+ -mesto-space-opening/
+SEQUENCE:7
+X-COORDINATES-LAT:45.8045
+X-COORDINATES-LON:15.13296
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

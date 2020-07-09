@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2129
+CLASS:PUBLIC
+DTSTAMP:20200423T200611Z
+DTSTART:20140409T050000Z
+DTEND:20140409T070000Z
+LOCATION:Scoala Axente Sever\, Aiud\, Romania
+SUMMARY:Scoala Altfel - Aiud
+DESCRIPTION:&#34;Scoala Altfel&#34; (en. Other type of School / Different School) 
+ is a one week program that all schools from Romania are organizing to offe
+ r to the young students alternative to formal learning. I will be present 
+ in a chool to introduce Webmaker tools and Firefox OS .
+URL:https://reps.mozilla.org/e/scoala-alfel-aiud/
+SEQUENCE:2
+X-COORDINATES-LAT:46.3085781982
+X-COORDINATES-LON:23.7298822394
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

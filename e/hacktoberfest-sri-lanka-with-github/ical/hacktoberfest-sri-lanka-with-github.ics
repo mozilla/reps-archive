@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8195
+CLASS:PUBLIC
+DTSTAMP:20200407T182433Z
+DTSTART:20181030T043000Z
+DTEND:20181030T113000Z
+LOCATION:NSBM - Green University Town\, Colombo\, Sri Lanka
+SUMMARY:Hacktoberfest Sri Lanka with Github &amp; Mozilla LK
+DESCRIPTION:in the month of October\,  hacktobefest global event to uplift
+  the open source contribution and to motivate students and open source\, e
+ nthusiasts.\n\nGithub campus experts &amp; Mozilla LK Team thought of helping 
+ the local community to take part in this event. So\, we are organizing an 
+ event which helps anyone to come and learn the GitHub workflow\, How Open-
+ Source Contribution works and also how to take part in Hacktoberfest 2018 
+ with a contribution to Mozilla Firefox addons and known repositories.
+URL:https://reps.mozilla.org/e/hacktoberfest-sri-lanka-with-github/
+SEQUENCE:3
+X-COORDINATES-LAT:6.74825996209
+X-COORDINATES-LON:80.0478512049
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

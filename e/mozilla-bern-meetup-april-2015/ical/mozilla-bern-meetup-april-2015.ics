@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3759
+CLASS:PUBLIC
+DTSTAMP:20200423T173118Z
+DTSTART:20150420T170000Z
+DTEND:20150420T190000Z
+LOCATION:Altes Tramdepot\, Grosser Muristalden 6\, 3006 Bern\, Berne\, Swi
+ tzerland
+SUMMARY:Mozilla Bern Meetup April 2015
+DESCRIPTION:Informal get-together of Mozillians in Bern. No scheduled talk
+ \, just some interesting discussions over dinner/drinks.
+URL:https://reps.mozilla.org/e/mozilla-bern-meetup-april-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:46.9476469509
+X-COORDINATES-LON:7.45974397651
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

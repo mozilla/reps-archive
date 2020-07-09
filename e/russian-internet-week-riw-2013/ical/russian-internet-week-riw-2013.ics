@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1288
+CLASS:PUBLIC
+DTSTAMP:20200407T182217Z
+DTSTART:20131017T050000Z
+DTEND:20131019T160000Z
+LOCATION:Exhibition centre at Krasnaya Presnya\, Moscow\, Russian Federati
+ on
+SUMMARY:Russian Internet Week (RIW 2013)
+DESCRIPTION:The main internet event of the industry – Russian Internet W
+ eek (RIW 2013) will be held at Krasnaya Presnya Exhibition Centre on Octob
+ er 17-19 2013. This year the RIW celebrates its 6th anniversary.\n\nTradit
+ ionally general and professional programs\, Program+ and the Internet 2013
+  major exhibition are organised. Every year RIW attracts about 15000 visit
+ ors.
+URL:https://reps.mozilla.org/e/russian-internet-week-riw-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:55.751016145
+X-COORDINATES-LON:37.5471711159
+X-COUNTRY-CODE:ru
+END:VEVENT
+
+END:VCALENDAR

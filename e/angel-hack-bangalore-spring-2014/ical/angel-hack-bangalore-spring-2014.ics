@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2144
+CLASS:PUBLIC
+DTSTAMP:20200423T195544Z
+DTSTART:20140503T043000Z
+DTEND:20140504T113000Z
+LOCATION:Microsoft Accelerator\, Lavelle Road\, Bangalore\, Bangalore\, In
+ dia
+SUMMARY:Angel Hack Bangalore Spring 2014
+DESCRIPTION:Angel Hack Spring 2014 is the largest Hackathon series\, ever.
+  Over 30 cities and 6\,000 developers will join in to build stronger devel
+ oper ecosystem around the world. In friendly partnership with Angel Hack\,
+  we will be giving a talk and demo FirefoxOS for a crowd of 1000+ and help
+  the participants build apps for FirefoxOS.
+URL:https://reps.mozilla.org/e/angel-hack-bangalore-spring-2014/
+SEQUENCE:5
+X-COORDINATES-LAT:12.8939196582
+X-COORDINATES-LON:77.6000967622
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

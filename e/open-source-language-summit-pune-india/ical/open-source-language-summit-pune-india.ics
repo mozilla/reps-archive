@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@253
+CLASS:PUBLIC
+DTSTAMP:20200423T224839Z
+DTSTART:20121106T030000Z
+DTEND:20121107T120000Z
+LOCATION:Red Hat India Magarpatta City\, Pune\, Pune\, India
+SUMMARY:Open Source Language Summit\, Pune India
+DESCRIPTION:Wikimedia Foundation and Red Hat are organizing an open source
+  language developers summit in Pune on November 6-7\, 2012. This summit is
+  focused on language tools and technology development to support 285+ lang
+ uages on Wikipedia\, the Web and Linux.\n\n\nThis developers summit is par
+ ticipation by invitation only.
+URL:https://reps.mozilla.org/e/open-source-language-summit-pune-india/
+SEQUENCE:0
+X-COORDINATES-LAT:18.3128108464
+X-COORDINATES-LON:74.0478515625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

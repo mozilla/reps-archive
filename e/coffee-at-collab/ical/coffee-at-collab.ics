@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3296
+CLASS:PUBLIC
+DTSTAMP:20200423T181333Z
+DTSTART:20141228T043000Z
+DTEND:20141228T133000Z
+LOCATION:Collabs House\,Opp Film nagar society complex\,Filmnagar\, Hydera
+ bad\, India
+SUMMARY:Coffee at Collab 1.0
+DESCRIPTION:An Event celebrating the end of our exams with a coffee at our
+  Mozilla Community Workspace.
+URL:https://reps.mozilla.org/e/coffee-at-collab/
+SEQUENCE:3
+X-COORDINATES-LAT:17.4501507078
+X-COORDINATES-LON:78.457661
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

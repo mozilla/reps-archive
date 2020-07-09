@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1582
+CLASS:PUBLIC
+DTSTAMP:20200423T204129Z
+DTSTART:20131213T040000Z
+DTEND:20131213T080000Z
+LOCATION:Shajalal University of Science &amp; Technology\, Sylhet\, Bangladesh
+SUMMARY:SUST FSA Club &amp; FxOS App Intro
+DESCRIPTION:Note: This a FSA event by RMA Arif Nezami.\n\nInauguration of 
+ SUST FSA club.\nIntroduction to Mozilla\nIntro to FSA\nIntroduction on Fir
+ efoxOS Apps.\nMozilla Quiz\nEnd of the event.
+URL:https://reps.mozilla.org/e/fsa-bangladesh-fxos-app-intro/
+SEQUENCE:2
+X-COORDINATES-LAT:24.9193122
+X-COORDINATES-LON:91.8317191
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

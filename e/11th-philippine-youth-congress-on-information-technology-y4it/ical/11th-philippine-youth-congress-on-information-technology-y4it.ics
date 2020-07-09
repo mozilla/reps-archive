@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@661
+CLASS:PUBLIC
+DTSTAMP:20200423T211028Z
+DTSTART:20130917T000000Z
+DTEND:20130919T090000Z
+LOCATION:SMX Convention Center\, Pasay City\, Philippines
+SUMMARY:11th Philippine Youth Congress on Information Technology (Y4iT)
+DESCRIPTION:University of the Philippines IT Development Center is the org
+ anizer of Y4iT 2013\, the largest IT event in the country\, attended by ov
+ er 28\,000 college students and young professionals nationwide.\n\nThe eve
+ nt will help a company increase reach and exposure while strengthening tie
+ s with your target market through exhibit\, promotion\, or product launch 
+ during the three day event at SMX Convention Center on September 17 to 19 
+ 2013
+URL:https://reps.mozilla.org/e/11th-philippine-youth-congress-on-informati
+ on-technology-y4it/
+SEQUENCE:6
+X-COORDINATES-LAT:14.5319938442
+X-COORDINATES-LON:120.980801582
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6028
+CLASS:PUBLIC
+DTSTAMP:20200423T114538Z
+DTSTART:20161118T043000Z
+DTEND:20161118T123000Z
+LOCATION:CII-Suresh Neotia Centre of Excellence for Leadership\, DC-36\, S
+ ector – I\, Salt Lake City (Behind City Centre)\, Kolkata - 700 064.\, K
+ olkata\, India
+SUMMARY:WebVR at infocon
+DESCRIPTION:In a quest to drive the power of IS (Information Security) for
+  the ignition of knowledge in enterprises across the globe\, “Infocon-Ko
+ lkata 2016” is the follow-up event after it’s successful kick-start in
+  Bangladesh and United Kingdom in it’s category under the brand “Infoc
+ on”. “Infocon” is a platform that aims to bring together the MD/CEOs
+ /CIOs/CDOs/CISOs across the globe with an agenda to interact and discuss t
+ he latest trends in Information Security.
+URL:https://reps.mozilla.org/e/biraj-karmakar/
+SEQUENCE:3
+X-COORDINATES-LAT:22.498601207
+X-COORDINATES-LON:88.5436248779
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

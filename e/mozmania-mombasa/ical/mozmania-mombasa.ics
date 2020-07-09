@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1703
+CLASS:PUBLIC
+DTSTAMP:20200423T202909Z
+DTSTART:20140208T050000Z
+DTEND:20140208T130000Z
+LOCATION:Jomo Kenyatta University of Agriculture and Technology Mombasa Ca
+ mpus\, Mombasa\, Kenya
+SUMMARY:MozMania Mombasa
+DESCRIPTION:This is event aimed to spread knowledge about Open Source Tech
+ nologies specifically focusing Python Programming Language and will aim to
+  target enthusiast learners\, Python Developers\, as well as beginers.
+URL:https://reps.mozilla.org/e/mozmania-mombasa/
+SEQUENCE:2
+X-COORDINATES-LAT:-4.076603719
+X-COORDINATES-LON:39.744758606
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

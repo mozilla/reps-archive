@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@833
+CLASS:PUBLIC
+DTSTAMP:20200423T213847Z
+DTSTART:20130531T120000Z
+DTEND:20130531T160000Z
+LOCATION:Avda 2 de Mayo c/ Patricio Escobar\, Lambare\, Paraguay
+SUMMARY:MozEdu - Lambaré
+DESCRIPTION:The objective is to speak of free software\, Mozilla technolog
+ ies and products (such as Mozilla Firefox web browser\, mail client Mozill
+ a Thunderbird and Mozilla Labs projects)\, software licenses\, open web an
+ d much more.
+URL:https://reps.mozilla.org/e/firefox-at-school/
+SEQUENCE:8
+X-COORDINATES-LAT:-25.3447386998
+X-COORDINATES-LON:-57.6162582636
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

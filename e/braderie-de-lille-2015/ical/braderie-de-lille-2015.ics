@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3563
+CLASS:PUBLIC
+DTSTAMP:20200407T173640Z
+DTSTART:20150905T080000Z
+DTEND:20150906T160000Z
+LOCATION:Place du Vieux Marché aux Chevaux\, Lille\, France\, Lille\, Fra
+ nce
+SUMMARY:Braderie de Lille 2015
+DESCRIPTION:Like each year\, the local Chtinux LUG in Lille (Northern Fran
+ ce) invites us to its &#34;free software village&#34; in the middle of the Braderi
+ e de Lille\, a gigantic flea market occupying the whole city center during
+  the first weekend of September. More than 2.5 million people are expected
+  to visit the braderie. \n\nA local volunteer presence for Mozilla was the
+ re in 2008\, 2009\, 2011\,2012 and 2014.
+URL:https://reps.mozilla.org/e/braderie-de-lille-2015/
+SEQUENCE:8
+X-COORDINATES-LAT:50.6324754566
+X-COORDINATES-LON:3.06346177967
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

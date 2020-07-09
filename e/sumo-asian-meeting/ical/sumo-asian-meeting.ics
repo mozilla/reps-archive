@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1358
+CLASS:PUBLIC
+DTSTAMP:20200407T174112Z
+DTSTART:20131206T130000Z
+DTEND:20131206T140000Z
+LOCATION:Online\, Durgapur\, India
+SUMMARY:SUMO Asia Meeting #3
+DESCRIPTION:The goal of this meeting is to increase Inter-community Collab
+ oration and identify ones who can take leads and can teach other community
+  members from different Asian Countries and can outcome a solid impact on 
+ the whole SUMO project in Asia Region.
+URL:https://reps.mozilla.org/e/sumo-asian-meeting/
+SEQUENCE:36
+X-COORDINATES-LAT:22.5937260639
+X-COORDINATES-LON:79.453125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

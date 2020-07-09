@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2954
+CLASS:PUBLIC
+DTSTAMP:20200423T184249Z
+DTSTART:20141020T170000Z
+DTEND:20141020T190000Z
+LOCATION:Gfeller Restaurant\, Bärenplatz 21\, Bern\, Berne\, Switzerland
+SUMMARY:Mozilla Bern Meetup October 2014
+DESCRIPTION:An informal meetup of Mozillians from Bern and everybody else 
+ who wants to join and talk about Mozilla.
+URL:https://reps.mozilla.org/e/mozilla-bern-meetup-october-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:46.9478001489
+X-COORDINATES-LON:7.44408130602
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

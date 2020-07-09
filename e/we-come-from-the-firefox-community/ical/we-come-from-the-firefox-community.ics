@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5473
+CLASS:PUBLIC
+DTSTAMP:20200423T150913Z
+DTSTART:20160728T023000Z
+DTEND:20160728T043000Z
+LOCATION:Urumqi  gaoxin community\, Urumqi\, China
+SUMMARY:We come from the Firefox community
+DESCRIPTION:What is Web Literacy? Why do we have to organize this event?\n
+ \nDescription\nThe goal of this activity is to let parents\, teachers\, an
+ d students to understand the significance of Firefox Tianshan tour activit
+ ies\, and recognize that through our joint efforts\, the students will gai
+ n what? How to improve the level of computer applications?
+URL:https://reps.mozilla.org/e/we-come-from-the-firefox-community/
+SEQUENCE:2
+X-COORDINATES-LAT:43.8809385858
+X-COORDINATES-LON:2607.55353641
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

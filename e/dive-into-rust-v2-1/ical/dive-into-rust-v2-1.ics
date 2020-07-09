@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6189
+CLASS:PUBLIC
+DTSTAMP:20200423T113708Z
+DTSTART:20170112T033000Z
+DTEND:20170112T103000Z
+LOCATION:TBA\, Tirupati\, India
+SUMMARY:Dive into Rust v2
+DESCRIPTION:Rust is a new systems programming language developed by Mozill
+ a. This event is for open hacking and (co)learning of Rust (Programming La
+ nguage). Rustacians of all skill levels are welcome. Never written a singl
+ e line of Rust\, but interested in the language? Don&#39;t worry\, most of us 
+ are just starting off.
+URL:https://reps.mozilla.org/e/dive-into-rust-v2-1/
+SEQUENCE:1
+X-COORDINATES-LAT:13.6355135313
+X-COORDINATES-LON:79.397934
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6131
+CLASS:PUBLIC
+DTSTAMP:20200423T113811Z
+DTSTART:20170102T053000Z
+DTEND:20170102T093000Z
+LOCATION:Truba Institute of Engineering and Information Technology\, Bhopa
+ l\, India
+SUMMARY:MozVR Camp Bhopal - 4
+DESCRIPTION:In this event you will learn WebVR development using A-Frame f
+ ramework (one of emerging future technology by Mozilla). This event is for
+  participants who already know HTML
+URL:https://reps.mozilla.org/e/mozvr-camp-bhopal-4/
+SEQUENCE:3
+X-COORDINATES-LAT:23.2412409546
+X-COORDINATES-LON:77.1677398402
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

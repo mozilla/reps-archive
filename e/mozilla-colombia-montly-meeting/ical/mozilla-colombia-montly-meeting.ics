@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8675
+CLASS:PUBLIC
+DTSTAMP:20200407T170336Z
+DTSTART:20190704T010000Z
+DTEND:20190704T020000Z
+LOCATION:Zoom Mozilla Hispano\, Bogota\, Colombia
+SUMMARY:Mozilla Colombia montly meeting
+DESCRIPTION:We will meet to organize community activities\, projects and o
+ bjectives.
+URL:https://reps.mozilla.org/e/mozilla-colombia-montly-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:4.51801584484
+X-COORDINATES-LON:-73.9365237951
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

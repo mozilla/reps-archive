@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1020
+CLASS:PUBLIC
+DTSTAMP:20200423T215216Z
+DTSTART:20130417T033000Z
+DTEND:20130417T103000Z
+LOCATION:SASTRA University\, Thanjavur\, India
+SUMMARY:Firefox OS App Dev
+DESCRIPTION:In co-ordination with an inter-university tech fest VIBHA 2013
+ \, App Dev workshop will be conducted on behalf of Mozilla. The workshop i
+ ncludes app development for Firefox OS and converting web codes to FXOS Ap
+ ps.
+URL:https://reps.mozilla.org/e/firefox-os-app-dev/
+SEQUENCE:1
+X-COORDINATES-LAT:10.7274052291
+X-COORDINATES-LON:79.0181350708
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

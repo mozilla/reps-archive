@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2769
+CLASS:PUBLIC
+DTSTAMP:20200423T190725Z
+DTSTART:20140905T030000Z
+DTEND:20140906T120000Z
+LOCATION:Hotel 71\, Bijoy Nagar Rd\, Dhaka\, Dhaka\, Bangladesh
+SUMMARY:l10n Sprint for Firefox OS Bangaldesh Launch
+DESCRIPTION:2 Day long off site residential sprint to clear all bloacker f
+ or Firefox OS Bangladesh launch.
+URL:https://reps.mozilla.org/e/l10n-sprint-for-firefox-os-bangaldesh-launc
+ h/
+SEQUENCE:5
+X-COORDINATES-LAT:23.7366495987
+X-COORDINATES-LON:90.4104942081
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

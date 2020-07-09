@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@231
+CLASS:PUBLIC
+DTSTAMP:20200423T225256Z
+DTSTART:20121019T160000Z
+DTEND:20121019T180000Z
+LOCATION:Salzburg University of Applied Science\, Urstein\, Puch\, Austria
+SUMMARY:Exhibition at Barcamp Salzburg
+DESCRIPTION:This year&#39;s BarCamp in Salzburg will have an &#34;Exhibition&#34; (sim
+ ilar to the Science Fair at MozFest). At this event we will present the Mo
+ zilla Webmaker projects and possibly Firefox OS.
+URL:https://reps.mozilla.org/e/exhibition-at-barcamp-salzburg/
+SEQUENCE:0
+X-COORDINATES-LAT:47.7237434292
+X-COORDINATES-LON:13.0866158009
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

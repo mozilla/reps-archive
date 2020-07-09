@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3981
+CLASS:PUBLIC
+DTSTAMP:20200423T164356Z
+DTSTART:20150909T080000Z
+DTEND:20151216T170000Z
+LOCATION:Budapest Bécsi út 96B\, Budapest\, Hungary
+SUMMARY:Firefox OS semester in Óbuda University
+DESCRIPTION:After very successful Firefox OS semesters at Óbuda Universit
+ y\, and University of Szeged\, and Kecskemét College we decided to try to
+  introduce more Firefox OS WebApp development semester in Hungarian Univer
+ sities and colleges.\n\nWe plan to visit four times the University to kick
+  up the semester and provide consultation days. Other consultation will ha
+ ppen on Hangout or Skype.
+URL:https://reps.mozilla.org/e/firefox-os-semester-in-obuda-university/
+SEQUENCE:0
+X-COORDINATES-LAT:46.9607371404
+X-COORDINATES-LON:18.9347666504
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5297
+CLASS:PUBLIC
+DTSTAMP:20200423T162507Z
+DTSTART:20151023T040000Z
+DTEND:20151023T110000Z
+LOCATION:Daffodil International University\, Banani Model Town\, Banglades
+ h
+SUMMARY:QA Contributor Mentoring Day @ DIU
+DESCRIPTION:QA Event in DIU supported by DIU Firefox Club!
+URL:https://reps.mozilla.org/e/qa-contributor-mentoring-day-diu/
+SEQUENCE:1
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

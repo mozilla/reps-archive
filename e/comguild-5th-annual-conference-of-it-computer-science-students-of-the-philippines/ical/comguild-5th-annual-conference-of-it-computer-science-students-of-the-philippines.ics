@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1541
+CLASS:PUBLIC
+DTSTAMP:20200423T204533Z
+DTSTART:20131201T000000Z
+DTEND:20131201T090000Z
+LOCATION:AFP Theater\, Camp Aguinaldo\, Quezon City\, Philippines
+SUMMARY:COMGUILD 5th Annual Conference of IT &amp; Computer Science Students o
+ f the Philippines
+DESCRIPTION:Over 1400 expected participants all over the Philippines.\n\nT
+ he goal of this alternative learning program is to enhance the \nknowledge
+  of students\, increase their awareness about the latest advancement and d
+ evelopment in the field and encourage them to pursue a career in informati
+ on technology.
+URL:https://reps.mozilla.org/e/comguild-5th-annual-conference-of-it-comput
+ er-science-students-of-the-philippines/
+SEQUENCE:1
+X-COORDINATES-LAT:14.6062781588
+X-COORDINATES-LON:121.064369201
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

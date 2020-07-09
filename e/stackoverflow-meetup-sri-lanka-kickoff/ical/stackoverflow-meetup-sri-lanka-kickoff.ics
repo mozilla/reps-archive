@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7916
+CLASS:PUBLIC
+DTSTAMP:20200423T092100Z
+DTSTART:20180625T113000Z
+DTEND:20180625T133000Z
+LOCATION:99x Technology\, Colombo\, Sri Lanka
+SUMMARY:Attend as Speaker to StackOverFlow Meetup Sri Lanka - Kickoff
+DESCRIPTION:StackOverFlow Meetup Sri Lanka - Kickoff\n\nEvent Organized by
+  : Stackoverflow community Sri Lanka \nHost at : 99x Technology
+URL:https://reps.mozilla.org/e/stackoverflow-meetup-sri-lanka-kickoff/
+SEQUENCE:2
+X-COORDINATES-LAT:7.01003342923
+X-COORDINATES-LON:80.0566408038
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2977
+CLASS:PUBLIC
+DTSTAMP:20200423T183423Z
+DTSTART:20141110T063000Z
+DTEND:20141110T123000Z
+LOCATION:SASTRA University\, Thanjavur\, India
+SUMMARY:Happy Birthday &#39;Firefox&#39;
+DESCRIPTION:As the Firefox turns 10\, a small gathering of FSAs nearby to 
+ celebrate this occasion. The motive is to share the experience of contribu
+ tors from various platforms.\nConcluding the event with a makerparty and e
+ nabling the community to do more.
+URL:https://reps.mozilla.org/e/happy-birthday-firefox/
+SEQUENCE:6
+X-COORDINATES-LAT:10.8008764374
+X-COORDINATES-LON:78.9447555318
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

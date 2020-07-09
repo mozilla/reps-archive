@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9100
+CLASS:PUBLIC
+DTSTAMP:20200407T170240Z
+DTSTART:20200320T043000Z
+DTEND:20200321T093000Z
+LOCATION:Mar Baselios Christian College of Engineering and Technology\, Pa
+ llikunnu Peermade Rd\, Peermade\, Kuttikkanam\, Kerala 685531\, Idukki\, I
+ ndia
+SUMMARY:VR Camp @  MBCCET
+DESCRIPTION:In this event\, you will learn WebVR development using the A-F
+ rame framework (one of the emerging future technologies by Mozilla). This 
+ event is for participants who already know HTML on first day and on the se
+ cond Day workshop on Contribute to Common Voice and Mozilla Stall.
+URL:https://reps.mozilla.org/e/vr-camp-mbccet/
+SEQUENCE:1
+X-COORDINATES-LAT:9.57431659228
+X-COORDINATES-LON:77.0099830558
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

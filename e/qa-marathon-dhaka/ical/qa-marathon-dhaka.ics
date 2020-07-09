@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3475
+CLASS:PUBLIC
+DTSTAMP:20200423T174106Z
+DTSTART:20150320T030000Z
+DTEND:20150321T000000Z
+LOCATION:University Of Liberal Arts of Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:QA Marathon Dhaka
+DESCRIPTION:QA Marathon Dhaka is a regional event to encourage contributor
+ s to contribute in QA . It will be an offsite event to help people to cont
+ ribute in QA. Participant will be guided from the basic of Bugzilla to Tes
+ ting bugs\, Verifying bugs and some other aspects of QA .\n\nIt is a 2 Day
+ s event and participants will be mentored all the way so that they can be 
+ comfortable with all the basic procedure of QA and can jump in to make Fir
+ efox better .
+URL:https://reps.mozilla.org/e/qa-marathon-dhaka/
+SEQUENCE:28
+X-COORDINATES-LAT:23.7409452944
+X-COORDINATES-LON:90.3745418228
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

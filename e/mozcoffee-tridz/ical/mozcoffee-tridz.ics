@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3964
+CLASS:PUBLIC
+DTSTAMP:20200407T182307Z
+DTSTART:20150621T090000Z
+DTEND:20150621T113000Z
+LOCATION:Tridz HQ\, Bangalore\, India
+SUMMARY:MozCoffee Tridz
+DESCRIPTION:This is an event for Tech and Open-source Enthusiast  of a com
+ pany known as Tridz who are willing to spend some time in contributing to 
+ open-source through Mozilla. The main Aim of this event is introducing moz
+ illa and it&#39;s activities to the Technical as well as Design team of Tridz-
+ Technologies thereby spending few time in understanding about the communit
+ y\,Opensource and it&#39;s greatest importance in today&#39;s world\, and finding 
+ few time in contributing to Mozilla.\nwww.tridz.com
+URL:https://reps.mozilla.org/e/mozcoffee-tridz/
+SEQUENCE:5
+X-COORDINATES-LAT:12.9722072
+X-COORDINATES-LON:77.631862
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

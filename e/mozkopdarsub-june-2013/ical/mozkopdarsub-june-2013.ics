@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@836
+CLASS:PUBLIC
+DTSTAMP:20200423T213709Z
+DTSTART:20130603T120000Z
+DTEND:20130603T140000Z
+LOCATION:S-House\, Townsquare Surabaya\, Surabaya\, Indonesia
+SUMMARY:MozKopdarSUB - June 2013
+DESCRIPTION:Small meetup for Mozillians in Surabaya to get update about Mo
+ zilla latest updates\, like 15th anniversary of Mozilla\, Firefox\, Firefo
+ x for Android\, Firefox OS\, Firefox Marketplace\, apps for Firefox OS\, F
+ irefox Flicks\, etc.
+URL:https://reps.mozilla.org/e/mozkopdarsub-june-2013/
+SEQUENCE:8
+X-COORDINATES-LAT:-7.29423551459
+X-COORDINATES-LON:112.730669975
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

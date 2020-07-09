@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6061
+CLASS:PUBLIC
+DTSTAMP:20200423T114317Z
+DTSTART:20161128T120000Z
+DTEND:20161202T190000Z
+LOCATION:Campinas City\, Campinas\, Brazil
+SUMMARY:Maker Party Week Campinas 2016
+DESCRIPTION:Mozilla’s Maker Party is a place for artists to connect with
+  educators\; for activists to trade ideas with coders\; and for entreprene
+ urs to chat with makers. It’s a place to network\, innovate and make a d
+ ifference.\n\nThis year Campinas\, Brazil\, we’ll come together with thi
+ s same spirit\, and also with a mission — educate about copyright\, and 
+ encourage people to create openly licensed content.
+URL:https://reps.mozilla.org/e/maker-party-week-campinas-2016/
+SEQUENCE:23
+X-COORDINATES-LAT:-22.8915132173
+X-COORDINATES-LON:-47.103796
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

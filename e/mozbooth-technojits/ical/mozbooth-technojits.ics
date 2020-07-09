@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2860
+CLASS:PUBLIC
+DTSTAMP:20200407T182615Z
+DTSTART:20141010T043000Z
+DTEND:20141011T103000Z
+LOCATION:Jayamukhi Institute of Technological Sciences\, Warangal\, India
+SUMMARY:Maker Faire @ Jayamukhi Firefox Club
+DESCRIPTION:A Mozilla Stall or Station or a booth to show case the mozilla
+ &#39;s products\, explain mozilla&#39;s mission\, openness\, open web and projects
+  of Mozilla.
+URL:https://reps.mozilla.org/e/mozbooth-technojits/
+SEQUENCE:6
+X-COORDINATES-LAT:17.9360576594
+X-COORDINATES-LON:79.7698972374
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

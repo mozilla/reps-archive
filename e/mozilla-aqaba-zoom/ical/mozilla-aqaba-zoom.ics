@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2032
+CLASS:PUBLIC
+DTSTAMP:20200407T181610Z
+DTSTART:20140817T060000Z
+DTEND:20140818T130000Z
+LOCATION:Aqaba-Jordan\, Aqaba\, Jordan
+SUMMARY:Mozilla Aqaba Zoom
+DESCRIPTION:Mozilla Event in Aqaba city on the campus of the University of
+  Jordan Aqaba Branch \,organized representatives in Jordan and  Firefox am
+ bassadors to talk about the Mozilla community and their products :\n-Mozil
+ la web maker\n-FirefoxOS\n-Localization\n-Quality Assurance \n-Testing\n-S
+ ecurity &amp; Privacy\n-UX\n\nAnd supervision of graduation  project students 
+  applications\,  Firefox OS.
+URL:https://reps.mozilla.org/e/mozilla-aqaba-zoom/
+SEQUENCE:13
+X-COORDINATES-LAT:29.6176395954
+X-COORDINATES-LON:35.086555481
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

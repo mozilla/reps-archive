@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@214
+CLASS:PUBLIC
+DTSTAMP:20200423T225558Z
+DTSTART:20121009T160000Z
+DTEND:20121009T190000Z
+LOCATION:Cafe Bordo\, Bucharest\, Romania
+SUMMARY:MozCoffee Bucharest - Open Volunteer Meeting
+DESCRIPTION:On the occasion of the new Firefox 16 official release we will
+  organize the first MozCoffee held in Bucharest to celebrate and promote v
+ olunteering for Mozilla.\n\nThe event is opened to anyone interested joini
+ ng and learning about volunteers and Mozilla.\n
+URL:https://reps.mozilla.org/e/mozcoffee-bucharest-open-volunteer-metting/
+SEQUENCE:0
+X-COORDINATES-LAT:44.4436770628
+X-COORDINATES-LON:26.0547530651
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

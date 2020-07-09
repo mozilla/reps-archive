@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1485
+CLASS:PUBLIC
+DTSTAMP:20200407T182433Z
+DTSTART:20131122T180000Z
+DTEND:20131122T220000Z
+LOCATION:TOG Hackerspace\, Dublin City\, Ireland
+SUMMARY:Mozilla Ireland @ TOG Dublin
+DESCRIPTION:This is going to be the first community event as we present Mo
+ zilla\, the community and other aspects of the community to the general pu
+ blic!
+URL:https://reps.mozilla.org/e/mozilla-ireland-tog-dublin/
+SEQUENCE:3
+X-COORDINATES-LAT:53.3413725349
+X-COORDINATES-LON:-6.26887035352
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

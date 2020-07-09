@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2207
+CLASS:PUBLIC
+DTSTAMP:20200407T175406Z
+DTSTART:20140612T160000Z
+DTEND:20140615T140000Z
+LOCATION:Hive\, Kampala\, Uganda
+SUMMARY:Train the Trainer Uganda
+DESCRIPTION:An event to training mentors and supermentors who will be help
+ ing in the preparation for the MozFestEA happening in July. Laura Hiliger 
+ and Michelle Thorne will facilitate the training.
+URL:https://reps.mozilla.org/e/train-the-trainer-uganda/
+SEQUENCE:2
+X-COORDINATES-LAT:0.318373009375
+X-COORDINATES-LON:32.5575255789
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

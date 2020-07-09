@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8709
+CLASS:PUBLIC
+DTSTAMP:20200407T170336Z
+DTSTART:20190724T233000Z
+DTEND:20190725T013000Z
+LOCATION:Platzi  9 - 55 Calle 72\, Bogota\, Colombia
+SUMMARY:De Python a Rust: ¿Cómo empezar con Rust?
+DESCRIPTION:Los invitamos al Meetup de &#34;Platzi Developer Group&#34; donde habl
+ aremos de Rust un lenguaje compilado con sintaxis moderna desarrollado por
+  Mozilla\, y adoptado ampliamente por la comunidad\, por ser muy seguro\, 
+ concurrente y práctico.\n\nEdwar Baron\nBackend Developer en Platzi\n\nVe
+ n y aprende de Rust y cómo se utiliza en la actualidad\, comparte con má
+ s personas interesadas y ven a pasar un buen rato hablando con personas qu
+ e comparten el mismo interés.
+URL:https://reps.mozilla.org/e/de-python-a-rust-como-empezar-con-rust/
+SEQUENCE:1
+X-COORDINATES-LAT:4.65664974789
+X-COORDINATES-LON:-74.0563802721
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

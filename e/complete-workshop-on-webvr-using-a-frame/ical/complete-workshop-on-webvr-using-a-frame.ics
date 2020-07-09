@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8652
+CLASS:PUBLIC
+DTSTAMP:20200423T082439Z
+DTSTART:20190614T033000Z
+DTEND:20190614T113000Z
+LOCATION:Sastra University\, Tanjore\, India
+SUMMARY:Complete workshop on WebVR using A-Frame
+DESCRIPTION:in this event I will be teaching about A-frame fundamentals to
+  students so as to do small projects out of it. Also  a Mini-Hackathon tow
+ ards the end to know what impact the session had on the students.
+URL:https://reps.mozilla.org/e/complete-workshop-on-webvr-using-a-frame/
+SEQUENCE:1
+X-COORDINATES-LAT:10.7767402999
+X-COORDINATES-LON:79.171646107
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

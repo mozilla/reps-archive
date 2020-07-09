@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5525
+CLASS:PUBLIC
+DTSTAMP:20200423T151926Z
+DTSTART:20160616T193000Z
+DTEND:20160616T203000Z
+LOCATION:Avenida Angélica\, 2318 - Consolação\, São Paulo - SP\, 01228
+ -200\, São Paulo\, Sao Paulo\, Brazil
+SUMMARY:Aplicativos Híbridos Meetup #11
+DESCRIPTION:Vamos compartilhar nossas experiências e aprendizados no dese
+ nvolvimento de aplicativos híbridos\, na lambda3 no dia 16 de junho as 19
+ h. O meetup é para pessoas que tem interesse ou que trabalham com aplicat
+ ivos híbridos. Teremos apresentações e bastante troca de informações/
+ conversas entre os participantes.
+URL:https://reps.mozilla.org/e/aplicativos-hibridos-meetup-11/
+SEQUENCE:0
+X-COORDINATES-LAT:-23.4708045634
+X-COORDINATES-LON:-46.4975738525
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2987
+CLASS:PUBLIC
+DTSTAMP:20200407T175730Z
+DTSTART:20141118T103000Z
+DTEND:20141118T130000Z
+LOCATION:Mozilla Community Space Manila (MozSpaceMNL)\, Makati City\, Phil
+ ippines
+SUMMARY:Engineering at Mozilla - Building Firefox with Georg Fritzsche
+DESCRIPTION:The Mozilla Philippines Community (MozillaPH) welcomes Georg F
+ ritzsche to the Mozilla Community Space Manila (MozSpaceMNL) on the evenin
+ g of Tue 18 Nov 2014.\n\nGeorg is a Platform Engineer working on Firefox D
+ esktop. He will talk about the Firefox engineering process as well as his 
+ recent projects and experiences working on Firefox.
+URL:https://reps.mozilla.org/e/engineering-at-mozilla-building-firefox-wit
+ h-georg-fritzsche/
+SEQUENCE:5
+X-COORDINATES-LAT:14.5468958061
+X-COORDINATES-LON:121.016040802
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

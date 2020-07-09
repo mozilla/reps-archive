@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3145
+CLASS:PUBLIC
+DTSTAMP:20200423T181935Z
+DTSTART:20141207T033000Z
+DTEND:20141207T113000Z
+LOCATION:Kharagpur\, Kharagpur\, India
+SUMMARY:Moz Meetup @ KGP
+DESCRIPTION:Planning for future actiivities at Kharagpur.\nPlanning for up
+ coming Maker Party in Kgp.\nPlanning for upcoming Hive Popup in Kgp.\nPlan
+ ning for upcoming Maker Party in Kolkata.\nPlanning for upcoming Hive Popu
+ p in Kolkata.
+URL:https://reps.mozilla.org/e/moz-meetup-kgp/
+SEQUENCE:3
+X-COORDINATES-LAT:22.3902906902
+X-COORDINATES-LON:87.3376463726
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2852
+CLASS:PUBLIC
+DTSTAMP:20200423T185309Z
+DTSTART:20140927T043000Z
+DTEND:20140927T123000Z
+LOCATION:K.B.T. College of Engineering\, Udoji Maratha Boarding Campus\, G
+ angapur Road\, Nashik-422013.\, Nashik\, India
+SUMMARY:Webmaker Reboot
+DESCRIPTION:Mozilla webmaker event in a Engineering college. over 80 plus 
+ computer post graduation students will be attending this even.\nAgenda of 
+ the Event:\n1)Mozilla FOSS intro\n2)Privacy and Security\n3)Webmaker Intro
+ \n4)HandsOn\n5)FSA intro\n6)Firefox OS intro
+URL:https://reps.mozilla.org/e/webmaker-reboot/
+SEQUENCE:2
+X-COORDINATES-LAT:20.0062828055
+X-COORDINATES-LON:73.7617739436
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3095
+CLASS:PUBLIC
+DTSTAMP:20200407T183632Z
+DTSTART:20141120T183000Z
+DTEND:20141122T003000Z
+LOCATION:University of Canturbury\, Christchurch\, New Zealand
+SUMMARY:Nethui South 2014
+DESCRIPTION:2 day conference that brings together everyone involved with I
+ nternet issues in New Zealand. NetHui is based on the format of multi-stak
+ eholder collaboration successfully introduced by the global Internet Gover
+ nance Forum (IGF).\n\nNethui is essentially Mozilla&#39;s mission reformatted 
+ into conference/unconference format. It deals with keeping the web open an
+ d participatory\, issues around privacy and digital rights\, how the inter
+ net is governed\, education\, identity\, copyright\, open data\, etc etc.
+URL:https://reps.mozilla.org/e/nethui-south-2014/
+SEQUENCE:12
+X-COORDINATES-LAT:-43.522333182
+X-COORDINATES-LON:172.569034517
+X-COUNTRY-CODE:nz
+END:VEVENT
+
+END:VCALENDAR

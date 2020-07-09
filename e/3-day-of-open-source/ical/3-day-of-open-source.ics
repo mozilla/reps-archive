@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@655
+CLASS:PUBLIC
+DTSTAMP:20200423T215207Z
+DTSTART:20130417T060000Z
+DTEND:20130417T180000Z
+LOCATION:Faculty of information studies in Novo mesto\, Novo mesto\, Slove
+ nia
+SUMMARY:3. Day of open source
+DESCRIPTION:Day of open source it now a traditional event on Faculty of in
+ formation studies in Novo mesto\, Slovenia. Mozilla Slovenia was on first\
+ , second and now also on third Day of open source. \n
+URL:https://reps.mozilla.org/e/3-day-of-open-source/
+SEQUENCE:4
+X-COORDINATES-LAT:45.80638
+X-COORDINATES-LON:15.16497
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1696
+CLASS:PUBLIC
+DTSTAMP:20200423T203622Z
+DTSTART:20140109T160000Z
+DTEND:20140109T180000Z
+LOCATION:MAKE DIY\, Thessaloniki\, Greece
+SUMMARY:MozCoffee Thessaloniki
+DESCRIPTION:This is a regular MozCoffee meeting in Thessaloniki\, Greece. 
+ \nTopics:\n - Firefox OS\n - Webmaker\n - Open Web Applications\n - Firefo
+ x Marketplace\n - Firefox Clinic\n etc.
+URL:https://reps.mozilla.org/e/mozcoffee-thessaloniki/
+SEQUENCE:1
+X-COORDINATES-LAT:40.6276658586
+X-COORDINATES-LON:22.9496585728
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3454
+CLASS:PUBLIC
+DTSTAMP:20200423T173857Z
+DTSTART:20150326T063000Z
+DTEND:20150328T063000Z
+LOCATION:BITS Pilani\, Pilani\, India
+SUMMARY:HIVE Pop-up Pilani 2015
+DESCRIPTION:The ultimate goal is to teach\, learn\, build promote and expl
+ ore connected learning\, digital skills and web literacy.\n\n Mozilla Comm
+ unity Rajasthan is a growing community and HIVE Pop-up in Pilani would giv
+ e us the opportunity to explore experiment\, iterate and share discoveries
+  and build and learn great things together.
+URL:https://reps.mozilla.org/e/hive-pop-up-pilani-2015/
+SEQUENCE:13
+X-COORDINATES-LAT:28.3708983952
+X-COORDINATES-LON:75.59795
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

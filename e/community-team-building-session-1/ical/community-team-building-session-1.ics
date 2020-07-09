@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1089
+CLASS:PUBLIC
+DTSTAMP:20200423T212705Z
+DTSTART:20130712T150000Z
+DTEND:20130712T180000Z
+LOCATION:Forever Living Product\, Dakar\, Senegal
+SUMMARY:Community Team building Session 1
+DESCRIPTION:As part of its program of &#34;Community Team building&#34;\, members 
+ of the Mozilla Senegal team will meet Saturday\, July 12\, 2013 in Dakar t
+ o share their experience for all mondre is level and has a good knowledge 
+ of Mozilla&#39;s mission.
+URL:https://reps.mozilla.org/e/community-team-building-session-1/
+SEQUENCE:2
+X-COORDINATES-LAT:14.722202
+X-COORDINATES-LON:-17.471272
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

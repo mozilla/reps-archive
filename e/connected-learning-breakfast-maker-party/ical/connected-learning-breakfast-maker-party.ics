@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2727
+CLASS:PUBLIC
+DTSTAMP:20200407T174527Z
+DTSTART:20140919T070000Z
+DTEND:20140919T103000Z
+LOCATION:Kista alléväg 15\, Kista\, Stockholm\, Sweden
+SUMMARY:Connected Learning Breakfast Maker Party
+DESCRIPTION:We gather together at the Mashup@NOD festival in Kista. The ev
+ ent aims to introduce the Webmaking tools and resources to the attendees. 
+ This event is also targeted to foster the spirit of Creating\, Learning an
+ d Sharing.
+URL:https://reps.mozilla.org/e/connected-learning-breakfast-maker-party/
+SEQUENCE:4
+X-COORDINATES-LAT:59.4032554439
+X-COORDINATES-LON:17.944528833
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7105
+CLASS:PUBLIC
+DTSTAMP:20200423T102814Z
+DTSTART:20171007T063000Z
+DTEND:20171007T103000Z
+LOCATION:Parul University  P.O.Limda\, Ta.Waghodia - 391760 Dist. Vadodara
+ \, Gujarat(India)\, Vadodara\, India
+SUMMARY:Firefox Quantum Sprint at Parul University
+DESCRIPTION:Firefox 57 we are going to introduce to the world a product wh
+ ich is faster and more reliable than ever. Mozilla’s employees and contr
+ ibutors have put thousands of hours of work to ensure that this is going t
+ o be successful.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-at-nirma-university/
+SEQUENCE:5
+X-COORDINATES-LAT:23.0359279041
+X-COORDINATES-LON:71.0434556007
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

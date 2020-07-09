@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1565
+CLASS:PUBLIC
+DTSTAMP:20200407T175210Z
+DTSTART:20131203T180000Z
+DTEND:20131203T210000Z
+LOCATION:681\, rue de la passerelle\, St Martin D&#39;Hères\, France
+SUMMARY:Privacy on the Internet
+DESCRIPTION:I&#39;m co-organizing with the Guilde (The Linux User Group of Gre
+ noble) a presentation about privacy online and webtracking. This presentat
+ ion will be mainly based on Lightbeam (Ex collusion)\, the new awesome add
+ ons of mozilla to observe online trackers.
+URL:https://reps.mozilla.org/e/privacy-on-the-internet/
+SEQUENCE:1
+X-COORDINATES-LAT:45.1932805386
+X-COORDINATES-LON:5.76829504966
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

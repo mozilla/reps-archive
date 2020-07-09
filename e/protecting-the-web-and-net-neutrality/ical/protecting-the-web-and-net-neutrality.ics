@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3784
+CLASS:PUBLIC
+DTSTAMP:20200407T175313Z
+DTSTART:20150419T043000Z
+DTEND:20150419T083000Z
+LOCATION:Plot no 9 ishwarshti sadguru nagar \, behind Big Bazaar\, Nashik 
+ Road\, Nashik\, Nashik\, India
+SUMMARY:Protecting the Web and Net Neutrality
+DESCRIPTION:Net Neutrality has always been the backbone of Free and Open I
+ nternet. It stands for the sense of equality in terms of access and is app
+ licable to every aspect of the Internet. So it is our job to protect and p
+ reserve it.\n\nNashik Community is trying to reach more and more people wi
+ th this idea to protect our public resource\, and to fight for it.
+URL:https://reps.mozilla.org/e/protecting-the-web-and-net-neutrality/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9583370811
+X-COORDINATES-LON:73.8273382169
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

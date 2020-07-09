@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@717
+CLASS:PUBLIC
+DTSTAMP:20200423T214916Z
+DTSTART:20130425T113000Z
+DTEND:20130425T140000Z
+LOCATION:Miracle House\, Flat 697\, 3/F Winner Mansion\, 691-697 Nathan Ro
+ ad\, Mong Kok\, Kowloon\, Hong Kong\, Hong Kong\, Hong Kong
+SUMMARY:Mozilla 15-year Open Web Party\, Hong Kong
+DESCRIPTION:It is a mini party to celebrate 15 years open web of the Mozil
+ la. Talk about what Mozilla does\, and what the next 15 years might hold. 
+ Thanks for Mozilla to sponsor a cake and some Mozilla swag.\n\nFee: around
+  HK120-150 / head.\n\nRSVP: http://registrano.com/events/b130e6?locale=en\
+ n\nPlanning Pad: https://etherpad.mozilla.org/remo-mozilla-15-year-open-we
+ b-party-hong-kong\n\nSupporting Organizations:\nHong Kong Linux User Group
+ \nOpen Source Hong Kong
+URL:https://reps.mozilla.org/e/mozilla-15-year-open-web-party-hong-kong/
+SEQUENCE:6
+X-COORDINATES-LAT:22.3200360685
+X-COORDINATES-LON:114.169117212
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

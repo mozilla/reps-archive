@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4051
+CLASS:PUBLIC
+DTSTAMP:20200423T170714Z
+DTSTART:20150703T140000Z
+DTEND:20150704T140000Z
+LOCATION:Av. Lázaro Cárdenas #525\, Col. Revolución. C.P.  61609 Pátzc
+ uaro\, Michoacán\, México.\, Pátzcuaro\, Mexico
+SUMMARY:Firefox Mutilingüe - Universidad Intercultural Indigena de Michoa
+ cán
+DESCRIPTION:Present the progress of native Mozilla location for indigenous
+  languages to Mozilla products. This event is in preparation for the parti
+ cipation of Mexico in Mozilla L10n/QA Hackathon in LATAM
+URL:https://reps.mozilla.org/e/firefox-mutilingue/
+SEQUENCE:4
+X-COORDINATES-LAT:19.5112023335
+X-COORDINATES-LON:-101.612663283
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

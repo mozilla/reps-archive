@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4489
+CLASS:PUBLIC
+DTSTAMP:20200423T162519Z
+DTSTART:20151022T140000Z
+DTEND:20151022T220000Z
+LOCATION:Hotel Hex\, Estelí\, Nicaragua
+SUMMARY:5th forum of engineering systems
+DESCRIPTION:The main theme of the forum is: &#34;Mobile app development\, supp
+ orting business productivity&#34;. Mozilla Nicaragua will be part of the event
+  and we give a talk about web app development and Firefox OS.
+URL:https://reps.mozilla.org/e/5th-forum-of-engineering-systems/
+SEQUENCE:4
+X-COORDINATES-LAT:13.0953068048
+X-COORDINATES-LON:-86.3370667398
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

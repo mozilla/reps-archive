@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3262
+CLASS:PUBLIC
+DTSTAMP:20200407T175253Z
+DTSTART:20141230T123000Z
+DTEND:20141230T140000Z
+LOCATION:Drop Coffee Wollmar Yxkullsgatan 10\, Stockholm\, Sweden
+SUMMARY:Mozfika Stockholm 2014 holiday edition
+DESCRIPTION:Let&#39;s meet for a holiday fika.
+URL:https://reps.mozilla.org/e/mozfika-stockholm-2014-holiday-edition/
+SEQUENCE:2
+X-COORDINATES-LAT:59.31670229
+X-COORDINATES-LON:18.0620820521
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

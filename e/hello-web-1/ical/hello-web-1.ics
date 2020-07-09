@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6056
+CLASS:PUBLIC
+DTSTAMP:20200407T174129Z
+DTSTART:20161203T043000Z
+DTEND:20170530T043000Z
+LOCATION:Multiple cities\, Bangalore\, India
+SUMMARY:Hello Web
+DESCRIPTION:Hello Web is a global literacy campaign to acquaint people of 
+ various age groups and hailing from various social backgrounds with the wa
+ y technology in general &amp; the web\, in particular\, can be used to help th
+ em lead better lives. It is focused on helping them solve their daily life
+  problems by using the web so that they relate to technology as something 
+ that actually helps them and thereby inculcate the digital literacy cultur
+ e.
+URL:https://reps.mozilla.org/e/hello-web-1/
+SEQUENCE:0
+X-COORDINATES-LAT:12.9534672
+X-COORDINATES-LON:77.652922
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

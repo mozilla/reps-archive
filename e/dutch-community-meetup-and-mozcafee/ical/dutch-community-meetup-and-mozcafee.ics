@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3675
+CLASS:PUBLIC
+DTSTAMP:20200407T174223Z
+DTSTART:20150419T083000Z
+DTEND:20150419T200000Z
+LOCATION:Restaurant-Café Harbour\, Utrecht\, Netherlands
+SUMMARY:Dutch community meetup and mozcafee
+DESCRIPTION:The dutch community meeting to talk about the community\, lear
+ n from each other and meet new people in the mozcafee
+URL:https://reps.mozilla.org/e/dutch-community-meetup-and-mozcafee/
+SEQUENCE:7
+X-COORDINATES-LAT:52.0823145113
+X-COORDINATES-LON:5.10915720472
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3800
+CLASS:PUBLIC
+DTSTAMP:20200423T172713Z
+DTSTART:20150505T230000Z
+DTEND:20150506T010000Z
+LOCATION:Universidad Cooperativa de Colombia\, Ibagué\, Colombia
+SUMMARY:Security for humans
+DESCRIPTION:A talk about security\, massive surveillance and risks on inte
+ rnet. Show how Mozilla started to take of internet and what Mozilla has do
+ ne to protect the internet we have and will have in the future. Those talk
+ s are organized bi-weekly with a focus on learning and giving resources to
+  students.
+URL:https://reps.mozilla.org/e/security-for-humans/
+SEQUENCE:3
+X-COORDINATES-LAT:4.44329126551
+X-COORDINATES-LON:-75.2430113555
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

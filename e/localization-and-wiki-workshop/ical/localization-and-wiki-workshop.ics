@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7258
+CLASS:PUBLIC
+DTSTAMP:20200423T101541Z
+DTSTART:20171120T041500Z
+DTEND:20171120T054500Z
+LOCATION:Sagarmatha College of Science and Technology\, Kathmandu\, Nepal
+SUMMARY:Localization and Wiki Workshop
+DESCRIPTION:This is the first step towards contributing to Open Source. Fo
+ r anyone interested to learn how technology shaping our everyday lives is 
+ made accessible to people all around the world and how the world&#39;s largest
+  encyclopedia gets all of its content then this is where we discuss and te
+ ach you about these very things.\n\nAlso\, We will be demonstrating the Po
+ ntoon tool for localilizing different products/projects of Mozilla.
+URL:https://reps.mozilla.org/e/localization-and-wiki-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:27.6845098163
+X-COORDINATES-LON:85.3018884652
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

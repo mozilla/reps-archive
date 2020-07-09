@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6047
+CLASS:PUBLIC
+DTSTAMP:20200407T175506Z
+DTSTART:20161129T210000Z
+DTEND:20161130T000000Z
+LOCATION:Facultad Politécnica - UNA\, San Lorenzo\, Paraguay
+SUMMARY:Lanzamiento app de Aguaratata para Android
+DESCRIPTION:Lanzamiento oficial en Paraguay del App de Aguaratata para And
+ roid (traducción del Firefox para Android)
+URL:https://reps.mozilla.org/e/lanzamiento-app-de-aguaratata-para-android/
+SEQUENCE:2
+X-COORDINATES-LAT:-25.3359782967
+X-COORDINATES-LON:-57.5216694474
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

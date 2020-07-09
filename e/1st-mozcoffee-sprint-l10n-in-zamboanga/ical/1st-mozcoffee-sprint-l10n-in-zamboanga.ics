@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@22
+CLASS:PUBLIC
+DTSTAMP:20200423T230811Z
+DTSTART:20120722T050000Z
+DTEND:20120722T080000Z
+LOCATION:Witch Craft Coffee Shop Zamboanga\, Zamboanga City\, Philippines
+SUMMARY:1st Mozcoffee Sprint l10n in Zamboanga 
+DESCRIPTION:Mozcoffee style with Sprint in localization for Chavacano modu
+ le in firefox Aurora.
+URL:https://reps.mozilla.org/e/1st-mozcoffee-sprint-l10n-in-zamboanga/
+SEQUENCE:0
+X-COORDINATES-LAT:6.9700494173
+X-COORDINATES-LON:122.135009766
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@346
+CLASS:PUBLIC
+DTSTAMP:20200423T224150Z
+DTSTART:20121201T180000Z
+DTEND:20121201T230000Z
+LOCATION:El Carabobeño\, Valencia\, Venezuela
+SUMMARY:Refresh Valencia\, Edición 28
+DESCRIPTION:RefreshValencia is a open community of web designers and devel
+ opers\, they look to &#34;refresh&#34; the culture with new creative ideas\, doing
+  montly meetings in order to exchange new information between all.\n\nStud
+ ents\, Professionals Bloggers\, Periodists\, Businessmans\, Developers\, D
+ esigners\, everyone is welcome to share their knowledge.\n\nEvent is FREE 
+ ENTRY.\n\nTwitter: @refreshval\nmail: info@refreshvalencia.org\nWeb: refre
+ shvalencia.org\nhttps://www.facebook.com/events/502661706418817/\n
+URL:https://reps.mozilla.org/e/refresh-valencia-edicion-28/
+SEQUENCE:0
+X-COORDINATES-LAT:10.25007
+X-COORDINATES-LON:-68.01341
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

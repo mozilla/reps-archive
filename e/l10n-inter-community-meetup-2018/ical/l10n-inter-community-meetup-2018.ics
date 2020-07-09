@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7963
+CLASS:PUBLIC
+DTSTAMP:20200407T174554Z
+DTSTART:20181221T033000Z
+DTEND:20181222T123000Z
+LOCATION:Qafqaz Baku City Hotel &amp; Residences\, Baku\, Azerbaijan
+SUMMARY:L10n Inter-community Meetup 2018
+DESCRIPTION:Gathering of l10n RTL Communities (Urdu\, Persian\, Arabic\, a
+ nd Hebrew) to plan new programs and initiatives\, improve quality\,  and d
+ eliver projects alongside with discussing style guides to improve the qual
+ ity of the translation.
+URL:https://reps.mozilla.org/e/l10n-inter-community-meetup-2018/
+SEQUENCE:14
+X-COORDINATES-LAT:40.3961497
+X-COORDINATES-LON:49.8170229
+X-COUNTRY-CODE:az
+END:VEVENT
+
+END:VCALENDAR

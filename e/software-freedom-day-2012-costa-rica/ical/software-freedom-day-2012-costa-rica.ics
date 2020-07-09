@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@143
+CLASS:PUBLIC
+DTSTAMP:20200423T230020Z
+DTSTART:20120921T150000Z
+DTEND:20120921T230000Z
+LOCATION:Universidad de Costa Rica\, Education Faculty\, San José\, Costa
+  Rica
+SUMMARY:Software Freedom Day 2012\, Costa Rica
+DESCRIPTION:We&#39;re celebrating Software Freedom Day at Universidad de Costa
+  Rica. There will be stands for various open source groups\, and Mozilla C
+ osta Rica will have their own.\n\nSince the focus of the event is &#34;Open So
+ urce and Education&#34;\, we will be mostly talking about Hackasaurus and WebM
+ aker.
+URL:https://reps.mozilla.org/e/software-freedom-day-2012-costa-rica/
+SEQUENCE:0
+X-COORDINATES-LAT:9.93604945083
+X-COORDINATES-LON:-84.0493154526
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

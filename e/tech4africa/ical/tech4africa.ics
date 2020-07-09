@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@213
+CLASS:PUBLIC
+DTSTAMP:20200407T183231Z
+DTSTART:20121031T100000Z
+DTEND:20121101T100000Z
+LOCATION:Indaba Hotel\, Johannesburg\, South Africa
+SUMMARY:Tech4Africa
+DESCRIPTION:Tech4Africa is the premier mobile\, web &amp; emerging technology 
+ conference\, bringing global perspective to the African context.
+URL:https://reps.mozilla.org/e/tech4africa/
+SEQUENCE:0
+X-COORDINATES-LAT:-28.9216312824
+X-COORDINATES-LON:29.53125
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

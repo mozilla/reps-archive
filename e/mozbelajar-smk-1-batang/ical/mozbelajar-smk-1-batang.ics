@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4246
+CLASS:PUBLIC
+DTSTAMP:20200407T174119Z
+DTSTART:20150916T070000Z
+DTEND:20150916T100000Z
+LOCATION:SMK 1 Batang\, Batang\, Indonesia
+SUMMARY:#MozBelajar SMK 1 Batang
+DESCRIPTION:An event to introduce the newly launched Webmaker App to stude
+ nts in SMK 1 Batang. There will be Webmaker App downloading session and ha
+ nds on workshop in making projects using the app. This event is organized 
+ as part of Webmaker App Launch initiatives in Indonesia.
+URL:https://reps.mozilla.org/e/mozbelajar-smk-1-batang/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.90916201388
+X-COORDINATES-LON:109.732960761
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

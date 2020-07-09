@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@647
+CLASS:PUBLIC
+DTSTAMP:20200423T220141Z
+DTSTART:20130317T093000Z
+DTEND:20130317T113000Z
+LOCATION:Barista Lavazza Kondapur Main Road Hyderabad\, Hyderabad\, India
+SUMMARY:7th MozCafe Hyderabad
+DESCRIPTION:Agenda\n3:00 PM - 3:15 PM : Introduction of attendes.\n3:15 PM
+  - 4:30 PM : Vineel and Galaxy sharing their experience of Web Maker days 
+ in Athens.\n4:30 PM - 5:00 PM : Mozilla Club Hyderabad Future plans.
+URL:https://reps.mozilla.org/e/7th-mozcafe-hyderabad/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4510511027
+X-COORDINATES-LON:78.3798980713
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

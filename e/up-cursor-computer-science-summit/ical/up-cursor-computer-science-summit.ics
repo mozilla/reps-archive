@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4813
+CLASS:PUBLIC
+DTSTAMP:20200423T155058Z
+DTSTART:20160206T000000Z
+DTEND:20160206T090000Z
+LOCATION:University of the Philippines Diliman\, Quezon City\, Philippines
+SUMMARY:UP CURSOR Computer Science Summit
+DESCRIPTION:The Computer Science Summit (CSS) is a seminar-workshop for\ns
+ tudents from secondary and tertiary levels of education that encourages th
+ em to see Computer Science not only as a potential career but also as a me
+ ans to help develop the country in the field of science and technology. On
+  its 2nd year\, CSS will again be gathering 200 students from top performi
+ ng high schools &amp; universities in Metro Manila to participate in a day-lon
+ g conference at the College of Engineering\, Melchor Hall\, UP Diliman.
+URL:https://reps.mozilla.org/e/up-cursor-computer-science-summit/
+SEQUENCE:0
+X-COORDINATES-LAT:14.6537174861
+X-COORDINATES-LON:121.061161995
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

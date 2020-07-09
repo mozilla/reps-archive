@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6586
+CLASS:PUBLIC
+DTSTAMP:20200407T175210Z
+DTSTART:20171205T230000Z
+DTEND:20171206T230000Z
+LOCATION:Les docs de Paris\, Paris\, France
+SUMMARY:Paris Open Source Summit 2017
+DESCRIPTION:Merge of two events: - Solutions Linux - Open World Forum Mozi
+ lla was usually present at these two events. Now the event is called Paris
+  Open Source Summit (POSS) This event aims to be global. With aims to cove
+ r the major issues of open source\, the program will be divided into three
+  main themes: business\, technological and societal. &#34;Business-wise\, the 
+ focus will be on feedback\, particularly in the areas of governance\, purc
+ hases or open source innovation&#34;
+URL:https://reps.mozilla.org/e/paris-open-source-summit-2017/
+SEQUENCE:2
+X-COORDINATES-LAT:48.8591249654
+X-COORDINATES-LON:2.386093
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

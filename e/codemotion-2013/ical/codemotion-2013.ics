@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1182
+CLASS:PUBLIC
+DTSTAMP:20200423T210029Z
+DTSTART:20131018T070000Z
+DTEND:20131019T160000Z
+LOCATION:Escuelas Universitarias de Informática y Telecomunicaciones Univ
+ ersidad Politécnica de Madrid\, Madrid\, Spain
+SUMMARY:Codemotion 2013
+DESCRIPTION:The codemotion aims to be an event to gather all the new techn
+ ologies and languages. Last year was held simulteanesly with Rome\, and th
+ is year is expanded to Berlín too.\n\nMadrid will be a hot spot for techs
+  and developers.
+URL:https://reps.mozilla.org/e/codemotion-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:40.3894428597
+X-COORDINATES-LON:-3.62823486328
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

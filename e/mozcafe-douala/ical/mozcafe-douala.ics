@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4758
+CLASS:PUBLIC
+DTSTAMP:20200423T161456Z
+DTSTART:20151115T123000Z
+DTEND:20151115T143000Z
+LOCATION:Agence Julien (front of Astoria Hotel- Mermoz Akwa)\, Douala\, Ca
+ meroon
+SUMMARY:MozCafe Douala
+DESCRIPTION:Open Meet-up of about 2 hours between Firefox Students Ambassa
+ dors\, WoMoz Members\, other Mozillians\, some target audience of Firefox 
+ OS\, Bloggers\, It&amp;web specialist\n3 Main presentations:\n- What&#39;s Mozilla
+  Cameroon and different dedicated programs by Mozilla?\n- Firefox OS: Why?
+ \n- How to develop and App for Firefox OS MarketPlace?
+URL:https://reps.mozilla.org/e/mozcafe-douala/
+SEQUENCE:1
+X-COORDINATES-LAT:4.01715146427
+X-COORDINATES-LON:9.73956294358
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5739
+CLASS:PUBLIC
+DTSTAMP:20200423T145928Z
+DTSTART:20160905T170000Z
+DTEND:20160905T190000Z
+LOCATION:Liip\, Limmatstrasse 183\, Zürich\, Zurich\, Switzerland
+SUMMARY:Rust - Introduction to Generics
+DESCRIPTION:&#34;Rust is a systems programming language that runs blazingly fa
+ st\, prevents segfaults\, and guarantees thread safety&#34;\n\nStefan will pre
+ sent an introduction to generics in rust. Generics or templates are a powe
+ rful way to generalize functionality for more types\, reducing the total a
+ mount of code you have to test.
+URL:https://reps.mozilla.org/e/rust-introduction-to-generics/
+SEQUENCE:1
+X-COORDINATES-LAT:47.3861828068
+X-COORDINATES-LON:8.52914071074
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

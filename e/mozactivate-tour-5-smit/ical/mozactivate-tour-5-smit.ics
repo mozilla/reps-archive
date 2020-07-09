@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6551
+CLASS:PUBLIC
+DTSTAMP:20200423T111308Z
+DTSTART:20170430T053000Z
+DTEND:20170430T123000Z
+LOCATION:Sikkim Manipal Institute of Technology\, Sikkim\, India
+SUMMARY:MozActivate Tour 5-SMIT
+DESCRIPTION:Web Compatibility Sprint + Web VR will be held among the stude
+ nts.\n\nOrganiser : Subhasis Chatterjee
+URL:https://reps.mozilla.org/e/mozactivate-tour-5-smit/
+SEQUENCE:0
+X-COORDINATES-LAT:23.1045758298
+X-COORDINATES-LON:87.9556273296
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

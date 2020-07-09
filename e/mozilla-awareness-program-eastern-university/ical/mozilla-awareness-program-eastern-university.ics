@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5053
+CLASS:PUBLIC
+DTSTAMP:20200423T160114Z
+DTSTART:20151222T070000Z
+DTEND:20151222T100000Z
+LOCATION:Eastern University\, Banani Model Town\, Bangladesh
+SUMMARY:Mozilla Awareness Program @ Eastern University
+DESCRIPTION:A event organized by Mozilla Bangladesh and Eastern University
+ \, to aware the university students about Mozilla&#39;s mission\, contribution
+  opportunity and show users\, how they can use Firefox as default browser 
+ on windows 10!
+URL:https://reps.mozilla.org/e/mozilla-awareness-program-eastern-universit
+ y/
+SEQUENCE:1
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

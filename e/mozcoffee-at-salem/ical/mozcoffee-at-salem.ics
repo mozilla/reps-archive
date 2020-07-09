@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8246
+CLASS:PUBLIC
+DTSTAMP:20200423T085320Z
+DTSTART:20181103T103000Z
+DTEND:20181103T123000Z
+LOCATION:Polar Bear\, Salem\, India
+SUMMARY:Mozcoffee at Salem
+DESCRIPTION:On boarding new contributors\, and exchanges thoughts and todo
+  of upcoming days.
+URL:https://reps.mozilla.org/e/mozcoffee-at-salem/
+SEQUENCE:4
+X-COORDINATES-LAT:11.6396828299
+X-COORDINATES-LON:78.1638793275
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

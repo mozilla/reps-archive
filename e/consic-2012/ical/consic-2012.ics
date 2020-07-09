@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@224
+CLASS:PUBLIC
+DTSTAMP:20200423T225210Z
+DTSTART:20121022T170000Z
+DTEND:20121026T170000Z
+LOCATION:Auditorio del Colegio de Ingenieros del Perú - CDP\, Puno\, Peru
+SUMMARY:CONSIC 2012
+DESCRIPTION:ENGLISH: This event\, placed in one of the farest cities of Pe
+ ru (and bordering the country of Bolivia) intends to show experiences and 
+ knowledge between students and professionals and increase the academic com
+ petivity in the region. \n\nESPAÑOL: Este evento se realizará en una de 
+ las ciudades más alejadas del Perú (y limítrofe con Bolivia) tiene la i
+ ntención de mostrar experiencias y conocimientos entre los estudiantes y 
+ los profesionales e incrementar la competitividad académica en la región
+ .
+URL:https://reps.mozilla.org/e/consic-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-15.8376322324
+X-COORDINATES-LON:-70.0223493576
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

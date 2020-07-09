@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9109
+CLASS:PUBLIC
+DTSTAMP:20200407T170215Z
+DTSTART:20200218T140000Z
+DTEND:20200218T153000Z
+LOCATION:soul brew cafe\, Vadodara\, India
+SUMMARY:MozPrints
+DESCRIPTION:A small meetup to discuss with the community about the Booth c
+ rawl we will be doing this weekend at FootPrints.
+URL:https://reps.mozilla.org/e/mozprints/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2633414996
+X-COORDINATES-LON:73.227538839
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4898
+CLASS:PUBLIC
+DTSTAMP:20200423T155921Z
+DTSTART:20151228T030000Z
+DTEND:20151228T050000Z
+LOCATION:CCD Hazratganj\, Lucknow\, Lucknow\, India
+SUMMARY:MozCafe Lucknow
+DESCRIPTION:The objective of &#34;MozCoffee Lucknow&#34; is to gather all the FSAs
+  and Mozillians in and around Lucknow. This meetup will focus on Community
+  involvement\, engagement and planning the roadmap for next 3 months.
+URL:https://reps.mozilla.org/e/mozcafe-lucknow-1/
+SEQUENCE:3
+X-COORDINATES-LAT:26.4205698758
+X-COORDINATES-LON:80.088500753
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

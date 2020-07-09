@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3726
+CLASS:PUBLIC
+DTSTAMP:20200423T173839Z
+DTSTART:20150326T120000Z
+DTEND:20150326T123000Z
+LOCATION:Telecom Tower\, Port Louis\, Mauritius
+SUMMARY:Meeting with MT business development team
+DESCRIPTION:This is a meeting that have been scheduled further to the rece
+ nt announcement of the launching of FirefoxOS in Mauritius and other count
+ ries in the African Region by Orange. A meeting between officials from he 
+ Business Development Unit and Mozilla Mauritius was planned.
+URL:https://reps.mozilla.org/e/meeting-with-mt-business-development-team/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1651041737
+X-COORDINATES-LON:57.5025629989
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

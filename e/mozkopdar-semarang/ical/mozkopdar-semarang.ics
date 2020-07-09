@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@272
+CLASS:PUBLIC
+DTSTAMP:20200423T224348Z
+DTSTART:20121125T110000Z
+DTEND:20121125T130000Z
+LOCATION:Parahita Coffee and Resto\, Semarang\, Indonesia
+SUMMARY:MozKopDar Semarang
+DESCRIPTION:Meetup for Mozillian in Semarang #MozKopdarSMG (Artanto Ishaam
+  &amp; Finan Akbar)
+URL:https://reps.mozilla.org/e/mozkopdar-semarang/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.97856897741
+X-COORDINATES-LON:110.416374207
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

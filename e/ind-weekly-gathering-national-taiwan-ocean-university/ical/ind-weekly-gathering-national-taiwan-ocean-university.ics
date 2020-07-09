@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1459
+CLASS:PUBLIC
+DTSTAMP:20200423T205816Z
+DTSTART:20131022T100000Z
+DTEND:20131022T110000Z
+LOCATION:National Taiwan Ocean University Data Center\, Keelung\, Taiwan
+SUMMARY:IND weekly gathering - National Taiwan Ocean University
+DESCRIPTION:Talk about 「What is Open Source？ What is Mozilla？ How to
+  get involved?」
+URL:https://reps.mozilla.org/e/ind-weekly-gathering-national-taiwan-ocean-
+ university/
+SEQUENCE:3
+X-COORDINATES-LAT:25.150179
+X-COORDINATES-LON:121.776506
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1924
+CLASS:PUBLIC
+DTSTAMP:20200423T201609Z
+DTSTART:20140315T080000Z
+DTEND:20140315T110000Z
+LOCATION:Global Rainbow Trust Foundation\, Pointe aux Sables\, Mauritius
+SUMMARY:Mozilla Tour
+DESCRIPTION:Mozilla Tour II is going to be the second tour after the one w
+ e had last February. Mozilla Mauritius will continue its mission to reach 
+ the youth and kids. The event will comprise of  an introduction of Mozilla
+  and its products to students and a Webmaker activity. \n\nWe have been in
+ vited by the Global Rainbow Trust Foundation for an introduction to  Mozil
+ la and also to look into how to collaborate in the future. This will be de
+ finitely an opportunity for Mozilla Mauritius for partnership.
+URL:https://reps.mozilla.org/e/mozilla-tour/
+SEQUENCE:5
+X-COORDINATES-LAT:-20.1739497853
+X-COORDINATES-LON:57.4701118399
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

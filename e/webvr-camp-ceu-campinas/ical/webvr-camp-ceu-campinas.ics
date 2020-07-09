@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6492
+CLASS:PUBLIC
+DTSTAMP:20200423T110907Z
+DTSTART:20170517T130000Z
+DTEND:20170517T183000Z
+LOCATION:R. Lasar Segal\, 617-779 - Jardim Florence\, Campinas - SP\, Camp
+ inas\, Brazil
+SUMMARY:WebVR Camp @CEU Campinas
+DESCRIPTION:A-Frame is a web framework for building virtual reality experi
+ ences\, making it easy for anyone to get involved with virtual reality.
+URL:https://reps.mozilla.org/e/webvr-camp-ceu-campinas/
+SEQUENCE:4
+X-COORDINATES-LAT:-23.5464
+X-COORDINATES-LON:-46.6289
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

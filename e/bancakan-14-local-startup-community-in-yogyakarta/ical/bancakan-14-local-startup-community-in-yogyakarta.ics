@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1538
+CLASS:PUBLIC
+DTSTAMP:20200407T180631Z
+DTSTART:20131115T110000Z
+DTEND:20131115T140000Z
+LOCATION:Telkom JDV - Jalan Kartini No. 7 Sagan\, Yogyakarta\, Yogyakarta\
+ , Indonesia
+SUMMARY:Bancakan 14 - Local Startup Community in Yogyakarta
+DESCRIPTION:Bancakan is local startup community in Yogyakarta. On this Eve
+ nt mozilla reps invited as speaker. The participant are mostly Developer a
+ nd Student. Iam going to give presentation about Mozilla tools for Develop
+ er\, and sharing latest update about Mozilla FirefoxOS and HTML technology
+ .
+URL:https://reps.mozilla.org/e/bancakan-14-local-startup-community-in-yogy
+ akarta/
+SEQUENCE:3
+X-COORDINATES-LAT:-7.77987048218
+X-COORDINATES-LON:110.377904176
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1982
+CLASS:PUBLIC
+DTSTAMP:20200407T181611Z
+DTSTART:20140415T071500Z
+DTEND:20140415T124500Z
+LOCATION:Amman\,Jordan -Philadelphia University\, Amman\, Jordan
+SUMMARY:PU Hackaton (Philadelphia University)
+DESCRIPTION:This event is part of Mozilla community Jordan efforts to rela
+ unch again by doing events around the country with media coverage. \n \nse
+ ssions:\n&gt;about Mozilla:FF team.\n&gt;open source:mohammad dirar aletoum.\n&gt;s
+ ecurity: mohammed migdadi.\n&gt;addons &amp; Hacking: mahmoud alqudah.\n&gt;Firefix 
+ OS:mohammad migadady \, Ahmad Algharaibeh\, Mohammad dirar aletoum.\n&gt;Webm
+ aker: FF team.\n&gt;UX interface: Wissam alazzam.
+URL:https://reps.mozilla.org/e/pu-hackaton-philadelphia-university/
+SEQUENCE:2
+X-COORDINATES-LAT:31.9480353132
+X-COORDINATES-LON:35.9288177476
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

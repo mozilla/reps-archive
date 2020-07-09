@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4412
+CLASS:PUBLIC
+DTSTAMP:20200407T180043Z
+DTSTART:20151024T090000Z
+DTEND:20151024T130000Z
+LOCATION:Covenant University\, Lagos\, Nigeria
+SUMMARY:Stumbling in a Box -Mozilla Nigeria
+DESCRIPTION:This would be a GeoLocation Sprint where we will talk about th
+ e Mozilla Location Service.ways to Contribute to Mozilla and free and open
+  projects introduction to stumbling tools that bring knowledge to particip
+ ants on how to gather geolocation information in their cities. \n\nAfter w
+ hich\, participants will gather information and upload it to the Mozilla s
+ ervers.\nThe particpant would be encouraged to contribute more to the Mozi
+ lla Geolocation service.
+URL:https://reps.mozilla.org/e/stumbling-in-a-box-mozilla-nigeria/
+SEQUENCE:10
+X-COORDINATES-LAT:6.47142578761
+X-COORDINATES-LON:3.24133291841
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

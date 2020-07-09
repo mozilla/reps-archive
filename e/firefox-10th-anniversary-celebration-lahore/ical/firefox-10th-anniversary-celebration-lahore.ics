@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3029
+CLASS:PUBLIC
+DTSTAMP:20200407T182508Z
+DTSTART:20141110T050000Z
+DTEND:20141110T100000Z
+LOCATION:Beaconhouse National University\, Tarogil Campus\, Lahore\, Lahor
+ e\, Pakistan
+SUMMARY:Firefox 10th Anniversary Celebration - Lahore
+DESCRIPTION:A celebration on the 10th anniversary of Firefox at the Beacon
+ house National University campus in Lahore. The following activities will 
+ be included:\n\n1. A mobile photobooth to tour the campus and get pictures
+ /videos of students wishing Mozilla a happy 10th anniversary\n2. A gaming 
+ competition to demo the Mozilla Humble Bundle games\n3. Cake\n\nThe univer
+ sity has a very active Firefox club\, and we will also be joined by Mozill
+ a Reps and other volunteers for the day
+URL:https://reps.mozilla.org/e/firefox-10th-anniversary-celebration-lahore
+ /
+SEQUENCE:5
+X-COORDINATES-LAT:31.549672526
+X-COORDINATES-LON:74.3316648155
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

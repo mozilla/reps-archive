@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5182
+CLASS:PUBLIC
+DTSTAMP:20200423T155656Z
+DTSTART:20160109T050000Z
+DTEND:20160109T090000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Online Privacy and Chill
+DESCRIPTION:In celebration of the Privacy Month\, we are holding this sess
+ ion where we get users aware about online privacy by watching documentarie
+ s and getting involved in a discussion afterwards.
+URL:https://reps.mozilla.org/e/online-privacy-and-chill/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5467711873
+X-COORDINATES-LON:121.015599847
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2917
+CLASS:PUBLIC
+DTSTAMP:20200423T185029Z
+DTSTART:20141002T190000Z
+DTEND:20141002T200000Z
+LOCATION:Mr. Pickwick\, Wallgasse\, Bern\, Berne\, Switzerland
+SUMMARY:Mini Mozilla Meetup Bern
+DESCRIPTION:Mini Meetup with Oleg from opendata.ch to discuss MozFest 2014
+  and other Mozilla-related topics.
+URL:https://reps.mozilla.org/e/mini-mozilla-meetup-bern/
+SEQUENCE:3
+X-COORDINATES-LAT:46.9463059924
+X-COORDINATES-LON:7.43871259685
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

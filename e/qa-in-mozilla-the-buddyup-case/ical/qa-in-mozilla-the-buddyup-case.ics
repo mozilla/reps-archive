@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3643
+CLASS:PUBLIC
+DTSTAMP:20200407T174346Z
+DTSTART:20150318T170000Z
+DTEND:20150318T180000Z
+LOCATION:P-Space\, Patra\, Greece
+SUMMARY:QA in Mozilla - The BuddyUp case
+DESCRIPTION:Using the BuddyUp case we will take a closer look into Mozilla
+  QA&#39;s tools\, techniques and methodologies.\n\nWe will explore:\n - How to
+  prepare a QA test plan\, \n - How to write manual test cases and enter th
+ em into MozTrap\n - QA best practices\n - QA Testing methodology\n - Testi
+ ng and debugging an app on FX OS\n - How to write automated test cases (br
+ iefly)
+URL:https://reps.mozilla.org/e/qa-in-mozilla-the-buddyup-case/
+SEQUENCE:2
+X-COORDINATES-LAT:38.2554103996
+X-COORDINATES-LON:21.745566845
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

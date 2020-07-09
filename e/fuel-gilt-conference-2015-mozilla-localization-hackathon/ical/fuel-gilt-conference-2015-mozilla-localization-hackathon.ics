@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4777
+CLASS:PUBLIC
+DTSTAMP:20200407T174820Z
+DTSTART:20151120T033000Z
+DTEND:20151123T143000Z
+LOCATION:Tamil Virtual Academy Chennai\, Chennai\, India
+SUMMARY:FUEL GILT Conference 2015 + Mozilla Localization Hackathon
+DESCRIPTION:FUEL GILT Conference is an annual event which gives opportunit
+ y to its participants to listen to experts on various topics related to lo
+ calization. Mozilla localization hackathon will be conducted as a part of 
+ FUEL GILT Conference 2015 on 21st and 22nd November 2015.\n\nThis is just 
+ created for the help of the reps and others who anyhow want to be associat
+ ed with this event
+URL:https://reps.mozilla.org/e/fuel-gilt-conference-2015-mozilla-localizat
+ ion-hackathon/
+SEQUENCE:1
+X-COORDINATES-LAT:13.0678849726
+X-COORDINATES-LON:80.3082273155
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

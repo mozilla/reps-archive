@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6548
+CLASS:PUBLIC
+DTSTAMP:20200423T110857Z
+DTSTART:20170518T170000Z
+DTEND:20170518T210000Z
+LOCATION:Mozilla Paris\, paris\, France
+SUMMARY:Mozilla Roadshow at Paris
+DESCRIPTION:the team Mozilla&#39;s Dev Marketing organizes a series of events 
+ called Mozilla Roadshows.\n\nAt Mozilla Paris\, We organize 3 conferences 
+ during an evening : \n* Janitor\n* You are not authorized to access bug\n*
+  webAssembly
+URL:https://reps.mozilla.org/e/mozilla-roadshow-at-paris/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8718262157
+X-COORDINATES-LON:2.34125661867
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

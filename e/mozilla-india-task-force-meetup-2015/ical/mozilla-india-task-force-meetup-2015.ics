@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3796
+CLASS:PUBLIC
+DTSTAMP:20200407T174406Z
+DTSTART:20150508T000000Z
+DTEND:20150510T080000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, India
+SUMMARY:Mozilla India Task Force Meetup 2015
+DESCRIPTION:Mozilla India Annual Task Force Meetup. \nA focused group of M
+ ozillians who were actively part of 2014 task forces will meet for 3 days 
+ to reflect on 2014\, discuss what worked\, what didn&#39;t work\, what to impr
+ ove\, brainstorm on organizational pathways for regional community &amp; creat
+ e roadmap for 2015.\n\nNOTE: This meetup is NOT &#39;Community India Meetup&#39;. 
+ Community India meetup is in the roadmap and the discussion for the same w
+ ill be started right after the Task Force Meetup.
+URL:https://reps.mozilla.org/e/mozilla-india-task-force-meetup-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:12.9632566736
+X-COORDINATES-LON:77.6140497922
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

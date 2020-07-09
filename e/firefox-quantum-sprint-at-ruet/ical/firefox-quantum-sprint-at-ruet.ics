@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7052
+CLASS:PUBLIC
+DTSTAMP:20200407T180521Z
+DTSTART:20171004T210000Z
+DTEND:20171004T230000Z
+LOCATION:TBD\, Rajshahi\, Bangladesh
+SUMMARY:Firefox Quantum Sprint at RUET
+DESCRIPTION:Firefox 57 is around the corner and we the members of Mozilla 
+ Campus Club Ruet want to make sure that Firefox 57 works flawlessly with t
+ he latest Firefox 57.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-at-ruet/
+SEQUENCE:1
+X-COORDINATES-LAT:24.3639063105
+X-COORDINATES-LON:88.6298060413
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7641
+CLASS:PUBLIC
+DTSTAMP:20200407T173911Z
+DTSTART:20180428T130000Z
+DTEND:20180428T210000Z
+LOCATION:Bush Ave. - UAGRM\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:FLISOL Santa Cruz 2018
+DESCRIPTION:The Latin American Free Software Install Fest will held this y
+ ear in more than 200 cities across Latin America. The UAGRM University wil
+ l celebrate the festival on April 28th in Santa Cruz\, Bolivia. A talk abo
+ ut Firefox Quantum\, WebExtensions and Privacy will be presented during th
+ e festival.
+URL:https://reps.mozilla.org/e/flisol-santa-cruz-2018/
+SEQUENCE:3
+X-COORDINATES-LAT:-17.7754783991
+X-COORDINATES-LON:-63.1937427528
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

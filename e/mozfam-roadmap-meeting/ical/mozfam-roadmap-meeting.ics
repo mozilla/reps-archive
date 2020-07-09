@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8919
+CLASS:PUBLIC
+DTSTAMP:20200423T080359Z
+DTSTART:20191105T143000Z
+DTEND:20191105T154500Z
+LOCATION:Zoom\, Surat\, India
+SUMMARY:MozFam Roadmap Meeting
+DESCRIPTION:A discussion of roadmaps and updates from Community Members. G
+ athering insights and creating clear goals for the coming period.
+URL:https://reps.mozilla.org/e/mozfam-roadmap-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:21.4980526739
+X-COORDINATES-LON:73.0209946632
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

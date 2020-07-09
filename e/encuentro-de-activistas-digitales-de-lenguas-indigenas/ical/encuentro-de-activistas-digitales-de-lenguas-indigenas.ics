@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2657
+CLASS:PUBLIC
+DTSTAMP:20200423T184959Z
+DTSTART:20141003T140000Z
+DTEND:20141005T140000Z
+LOCATION:Ciudad de Oaxaca\, Oaxaca de Juarez\, Mexico
+SUMMARY:Digital Activists Meeting on Indigenous Languages​​.
+DESCRIPTION:This meeting will be held in Oaxaca\, Mexico on October 3-5\, 
+ 2014 and will bring together various digital activists who are driving to 
+ their languages ​​online so they can exchange experiences and teach / 
+ learn new techniques and strategies to create a new generation who revital
+ ize their languages ​​through digital media.\n\nhttp://rising.globalvo
+ icesonline.org/lenguas/convocatoria/
+URL:https://reps.mozilla.org/e/encuentro-de-activistas-digitales-de-lengua
+ s-indigenas/
+SEQUENCE:6
+X-COORDINATES-LAT:17.0612531562
+X-COORDINATES-LON:-96.7217946061
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

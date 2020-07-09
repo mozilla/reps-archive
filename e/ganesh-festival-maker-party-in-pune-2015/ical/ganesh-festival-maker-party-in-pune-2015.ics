@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4433
+CLASS:PUBLIC
+DTSTAMP:20200423T163758Z
+DTSTART:20150920T123000Z
+DTEND:20150920T153000Z
+LOCATION:Shaniwar Peth\, Pune\, Pune\, India
+SUMMARY:MILE at Vrindavan Society [2015]
+DESCRIPTION:Previous year&#39;s blog link :\nhttp://prathameshpchavan.blogspot
+ .in/2014/09/ganesh-festival-maker-party-in-pune_6.html
+URL:https://reps.mozilla.org/e/ganesh-festival-maker-party-in-pune-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:18.5191232145
+X-COORDINATES-LON:73.853480815
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2310
+CLASS:PUBLIC
+DTSTAMP:20200407T174407Z
+DTSTART:20140711T060000Z
+DTEND:20140713T140000Z
+LOCATION:Makerere University\, Kampala\, Uganda
+SUMMARY:Mozilla Festival East Africa (MozFestEA2014)
+DESCRIPTION:The event is a huge 2 day maker party that will bring together
+  educators\, innovators\, learners and makers from East Africa and beyond 
+ to share experiences and build the web together laying a foundation for gr
+ owth of the internet and information of technology in Africa. This will be
+  annual event that will later spread across Africa helping address the tec
+ hnological challenges faced in the African continent through meaningful co
+ llaborations.
+URL:https://reps.mozilla.org/e/mozilla-festival-east-africa-mozfestea2014/
+SEQUENCE:6
+X-COORDINATES-LAT:0.331446453049
+X-COORDINATES-LON:32.5704822242
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

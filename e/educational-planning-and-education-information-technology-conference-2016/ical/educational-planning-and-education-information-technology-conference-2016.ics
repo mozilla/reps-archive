@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4991
+CLASS:PUBLIC
+DTSTAMP:20200407T182324Z
+DTSTART:20160205T080000Z
+DTEND:20160206T120000Z
+LOCATION:Eszterházy Károly Főiskola 3300 Eger Eszterházy tér 1. “A
+ ” épület\, Líceum\, Kápolna\, Erlau\, Hungary
+SUMMARY:Educational Planning and Education Information Technology Conferen
+ ce 2016
+DESCRIPTION:I will present  open Firefox OS KMOOC course\, \nand  support 
+ of training at the Óbuda University\, University of Szeged\, University o
+ f Dunaújváros Kecskemét College.
+URL:https://reps.mozilla.org/e/educational-planning-and-education-informat
+ ion-technology-conference-2016/
+SEQUENCE:5
+X-COORDINATES-LAT:47.9000035564
+X-COORDINATES-LON:20.3763788941
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

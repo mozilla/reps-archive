@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7169
+CLASS:PUBLIC
+DTSTAMP:20200423T102444Z
+DTSTART:20171015T043000Z
+DTEND:20171015T073000Z
+LOCATION:SpringRole\, Bangalore\, India
+SUMMARY:Sunday school: Blockchain - the new Internet?
+DESCRIPTION:Find out what blockchain is and why it matters with Kartik Man
+ daville on 15 Oct from 10AM at SpringRole
+URL:https://reps.mozilla.org/e/sunday-school-blockchain-the-new-internet/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9347165825
+X-COORDINATES-LON:77.6088877913
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

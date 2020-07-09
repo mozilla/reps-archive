@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2698
+CLASS:PUBLIC
+DTSTAMP:20200407T181954Z
+DTSTART:20141108T110000Z
+DTEND:20141108T210000Z
+LOCATION:R. Martiniano de Carvalho\, 851 - Bela Vista\, Sao Paulo\, Brazil
+SUMMARY:Mobile Brazil Conference
+DESCRIPTION:Mobile Brazil Conference  is an event focused on mobile develo
+ pers. This second edition will bring many lectures on all that is newest a
+ nd trends in mobile development\, especially on FirefoxOS with André Nata
+ l and your project SpeechRTC.\n\nThe conference is very important for mobi
+ le developers in Brazil. Because it is always an area with major changes a
+ nd expansions but with little focus on events that bring some of these inn
+ ovations and transmit them.
+URL:https://reps.mozilla.org/e/mobile-brazil-conference/
+SEQUENCE:9
+X-COORDINATES-LAT:-23.5674495419
+X-COORDINATES-LON:-46.6433268788
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

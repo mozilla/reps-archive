@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@998
+CLASS:PUBLIC
+DTSTAMP:20200423T213424Z
+DTSTART:20130615T093000Z
+DTEND:20130616T170000Z
+LOCATION:Danaos Cinema\, Athens\, Greece
+SUMMARY:JoomlaDay Greece 2013
+DESCRIPTION:JoomlaDay is an event for web developers and web designers.
+URL:https://reps.mozilla.org/e/joomladay-greece-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:37.993415
+X-COORDINATES-LON:23.767928
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

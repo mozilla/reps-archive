@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7564
+CLASS:PUBLIC
+DTSTAMP:20200407T170347Z
+DTSTART:20180510T140000Z
+DTEND:20180512T230000Z
+LOCATION:UCR (Universidad de Costa Rica) - Sede del Pacífico\, Puntarenas
+ \, Costa Rica
+SUMMARY:X Foro: Herramientas Tecnológicas\, Software Libre y Código Abie
+ rto
+DESCRIPTION:The UCR (Costa Rica University) invites different communities 
+ and universities that support free software\, to the X Forum Technology To
+ ols to share various topics related to technologies\, open source and free
+  software. The event is for 3 days\, each day with a different central the
+ me.\n\nDay 1. Literacy\nDay 2. Technical Training \nDay 3. Socialization
+URL:https://reps.mozilla.org/e/x-foro-herramientas-tecnologicas-software-l
+ ibre-y-codigo-abierto/
+SEQUENCE:16
+X-COORDINATES-LAT:12.1137465153
+X-COORDINATES-LON:-86.2509155153
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

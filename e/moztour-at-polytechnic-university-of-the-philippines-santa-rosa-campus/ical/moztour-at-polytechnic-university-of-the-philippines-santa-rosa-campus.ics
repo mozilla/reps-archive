@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4191
+CLASS:PUBLIC
+DTSTAMP:20200407T180241Z
+DTSTART:20160130T050000Z
+DTEND:20160130T090000Z
+LOCATION:Function Hall\, City Hall of Sta. Rosa\, Santa Rosa\, Philippines
+SUMMARY:MozTour at Polytechnic University of the Philippines Santa Rosa Ca
+ mpus
+DESCRIPTION:In cooperation with the Firefox Club in PUP SRC\, the Mozilla 
+ Philippines Community will hold a MozTour at this campus.
+URL:https://reps.mozilla.org/e/moztour-at-polytechnic-university-of-the-ph
+ ilippines-santa-rosa-campus/
+SEQUENCE:5
+X-COORDINATES-LAT:14.3131758769
+X-COORDINATES-LON:121.115550399
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1890
+CLASS:PUBLIC
+DTSTAMP:20200407T182503Z
+DTSTART:20140301T180000Z
+DTEND:20140301T210000Z
+LOCATION:2420 Wilkinson Student Center\, BYU Campus\, Provo\, United State
+ s
+SUMMARY:Mozilla Utah L10n Sprint
+DESCRIPTION:Join Mozilla Utah for a l10n sprint to introduce localization 
+ to bilingual Utahns across the state. All languages are welcome!
+URL:https://reps.mozilla.org/e/mozilla-utah-l10n-sprint-1/
+SEQUENCE:2
+X-COORDINATES-LAT:40.248873317
+X-COORDINATES-LON:-111.647309303
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

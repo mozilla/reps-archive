@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3750
+CLASS:PUBLIC
+DTSTAMP:20200423T170751Z
+DTSTART:20150630T220000Z
+DTEND:20150630T220500Z
+LOCATION:World-wide\, Munich\, Germany
+SUMMARY:Henriks ReMo Goals H1-2015
+DESCRIPTION:This is a meta-event. It describes the goals Henrik sets himse
+ lf for the first half year of 2015 (JAN through JUL).
+URL:https://reps.mozilla.org/e/henriks-remo-goals-h1-2015/
+SEQUENCE:5
+X-COORDINATES-LAT:48.1372529567
+X-COORDINATES-LON:11.57548964
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

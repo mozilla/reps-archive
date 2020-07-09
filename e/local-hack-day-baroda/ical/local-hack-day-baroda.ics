@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8847
+CLASS:PUBLIC
+DTSTAMP:20200407T174129Z
+DTSTART:20191020T043000Z
+DTEND:20191020T133000Z
+LOCATION:GTU Innovation and Startup Center Vadodara\, Vadodara\, India
+SUMMARY:Local Hack Day Baroda
+DESCRIPTION:Join us on Oct 8th\, 2019 for MLH&#39;s Local Hack Day: Learn Day 
+ in Vadodara\, India. Learn Day is a global conference that you can share w
+ ith your community. Pick up the new skills you need by participating in wo
+ rkshops and talks with a community around the world. Over the course of 12
+  hours\, attendees will experience a series of workshops where they&#39;ll lea
+ rn skills such as publishing their first website using AWS\, sending their
+  first SMS with Twilio\, and building their first game in Unity.
+URL:https://reps.mozilla.org/e/local-hack-day-baroda/
+SEQUENCE:2
+X-COORDINATES-LAT:22.3276847251
+X-COORDINATES-LON:73.2071242318
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

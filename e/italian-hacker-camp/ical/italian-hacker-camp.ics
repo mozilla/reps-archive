@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7908
+CLASS:PUBLIC
+DTSTAMP:20200407T181227Z
+DTSTART:20180802T080000Z
+DTEND:20180805T160000Z
+LOCATION:Padova\, Rieti\, Italy
+SUMMARY:Italian Hacker Camp 2018
+DESCRIPTION:The new italian hacker camp that is opened to also the interna
+ tional world.
+URL:https://reps.mozilla.org/e/italian-hacker-camp/
+SEQUENCE:3
+X-COORDINATES-LAT:45.3998336108
+X-COORDINATES-LON:11.9185066214
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

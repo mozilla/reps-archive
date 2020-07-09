@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8854
+CLASS:PUBLIC
+DTSTAMP:20200407T173242Z
+DTSTART:20190930T130000Z
+DTEND:20190930T140000Z
+LOCATION:Online\, Makati City\, Philippines
+SUMMARY:MozillaPH L10n Team Meeting
+DESCRIPTION:Monthly meeting of Mozilla Philippines Community (MozillaPH) L
+ 10n team.
+URL:https://reps.mozilla.org/e/mozillaph-l10n-team-meeting/
+SEQUENCE:0
+X-COORDINATES-LAT:14.4448762123
+X-COORDINATES-LON:120.858032182
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

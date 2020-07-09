@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@196
+CLASS:PUBLIC
+DTSTAMP:20200423T225844Z
+DTSTART:20120924T080000Z
+DTEND:20120928T080000Z
+LOCATION:Computer Lab\, Mauritius Institute of Health\, Pamplemousses\, Ma
+ uritius
+SUMMARY:FOSS Workshop
+DESCRIPTION:Training workshop in using Greenstone for the creation and dev
+ elopment of Digital Libraries. Firefox is the browser for viewing the coll
+ ections
+URL:https://reps.mozilla.org/e/foss-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:-20.4681892226
+X-COORDINATES-LON:58.0078125
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4631
+CLASS:PUBLIC
+DTSTAMP:20200423T161325Z
+DTSTART:20151119T040000Z
+DTEND:20151119T060000Z
+LOCATION:Eskaton Road\, Dhaka\, Bangladesh
+SUMMARY:Kidzilla 1.0 @Dhaka
+DESCRIPTION:All the students of UT and teachers will join this event. They
+  will be collaborating during the event.\n&gt; Learning objectives:\n#Use of 
+ technology in academics\n#New Practical approaches on the web\n#Importance
+  of Open Source and Open Web\n#Web literacy and thereby safety
+URL:https://reps.mozilla.org/e/kidzilla-1-0-dhaka/
+SEQUENCE:6
+X-COORDINATES-LAT:23.7468002663
+X-COORDINATES-LON:90.3997671604
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

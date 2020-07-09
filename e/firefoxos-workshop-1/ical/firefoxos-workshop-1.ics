@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1714
+CLASS:PUBLIC
+DTSTAMP:20200407T175900Z
+DTSTART:20140201T000000Z
+DTEND:20140201T040000Z
+LOCATION:ICS Lab 2\, Roque Ruano Bldg\, University of Santo Tomas\,\, Espa
+ na Blvd.\, Sampaloc\, Manila\, 1008\, Philippines
+SUMMARY:FirefoxOS Workshop at University of Santo Tomas
+DESCRIPTION:As per request of our FSA from University of Santo Tomas\, Moz
+ illa Philippines will be conducting a FirefoxOS Workshop\, from scratch to
+  Marketplace.
+URL:https://reps.mozilla.org/e/firefoxos-workshop-1/
+SEQUENCE:9
+X-COORDINATES-LAT:14.6101227884
+X-COORDINATES-LON:120.991971195
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

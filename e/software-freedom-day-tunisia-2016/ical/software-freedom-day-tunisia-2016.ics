@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6130
+CLASS:PUBLIC
+DTSTAMP:20200407T174908Z
+DTSTART:20161120T080000Z
+DTEND:20161120T150000Z
+LOCATION:Higher Institute Of Etudes Technologiques De Sousse Institut Sup
+ érieur des Etudes Technologiques de Sousse\, Sousse\, Tunisia
+SUMMARY:Software Freedom Day - Tunisia 2016
+DESCRIPTION:SFD is a yearly celebration for Software Freedom! Every year t
+ here are thousands teams organizing Software Freedom Day in different coun
+ tries and cities. Like last year\, the tunisian association CLibre will or
+ ganize the SFD in Mounestir and we will participate as one of the major fr
+ ee software community in Tunisia. Our community is present with 4 differen
+ t talks :\n- IoT and Open source\n- Rust\n- Personal and community leaders
+ hip\n- Gender equality in communities
+URL:https://reps.mozilla.org/e/software-freedom-day-tunisia-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:35.8015935895
+X-COORDINATES-LON:10.6143922804
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

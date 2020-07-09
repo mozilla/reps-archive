@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2793
+CLASS:PUBLIC
+DTSTAMP:20200407T174407Z
+DTSTART:20140930T050000Z
+DTEND:20141001T130000Z
+LOCATION:Bahari Beach Hotel\, Dar es Salaam\, Tanzania
+SUMMARY:Connect 2 Connect (C2C) Summit
+DESCRIPTION:C2C is a summit being organised by Extensia Ltd to bring toget
+ her several VIP delegates from some of the most respectable organisations 
+ in Africa to come to Tanzania for two days and share where ICT\, internet\
+ , technology and several other challenges facing Africa. They will offer e
+ xisting solutions that organisations have developed and brain storm on ide
+ as and make innovations that could offset these challenges.
+URL:https://reps.mozilla.org/e/connect-2-connect-c2c-summit/
+SEQUENCE:3
+X-COORDINATES-LAT:-6.79553502572
+X-COORDINATES-LON:39.3090820312
+X-COUNTRY-CODE:tz
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1633
+CLASS:PUBLIC
+DTSTAMP:20200407T175518Z
+DTSTART:20131228T073000Z
+DTEND:20131228T123000Z
+LOCATION:TBD\, Warangal\, India
+SUMMARY:Mozilla Warangal Meetup &amp; Discussion.
+DESCRIPTION:A meeting for all Mozillians and Reps in the region to underst
+ and existing metrics and make an action plan for next year.\n1. Plan event
+  timelines\n2. Increase contributors by understanding what the Mozillians 
+ really need.\n3. Discussion on existing work being done and grouping new t
+ eams for\n3.1. Web Maker\n3.2. Coding onto Firefox and Hg workflow.\n3.3. 
+ Git workflow and Git based Mozilla Open source projects.\n3.4. Publicity a
+ nd Event Management.\n     3.5. Women in Mozilla ( WoMoz )
+URL:https://reps.mozilla.org/e/mozilla-warangal-meetup-discussion/
+SEQUENCE:4
+X-COORDINATES-LAT:17.9360576594
+X-COORDINATES-LON:79.6237792075
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

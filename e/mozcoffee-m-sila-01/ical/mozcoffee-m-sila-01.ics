@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5536
+CLASS:PUBLIC
+DTSTAMP:20200407T181213Z
+DTSTART:20160731T080000Z
+DTEND:20160731T110000Z
+LOCATION:المكتبة المركزية للمطالعة العمومية
+  طياية الحاج\, M&#39;Sila\, Algeria
+SUMMARY:M&#39;sila Mozilla Day
+DESCRIPTION:Mini Meetup of Volunteers in M&#39;sila\,Algeria. i will talk abou
+ t (Mozilla\, Firefox\, Thunderbird\, Firefox os\,Connected Devices). Plann
+ ing to creating team local for mozilla.
+URL:https://reps.mozilla.org/e/mozcoffee-m-sila-01/
+SEQUENCE:11
+X-COORDINATES-LAT:35.7044955916
+X-COORDINATES-LON:4.54261064529
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

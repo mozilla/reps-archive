@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4334
+CLASS:PUBLIC
+DTSTAMP:20200407T174852Z
+DTSTART:20150817T080000Z
+DTEND:20150817T120000Z
+LOCATION:Yarmouk University Club\, Irbid\, Jordan
+SUMMARY:Yarmouk Universty Localization Day Workshop
+DESCRIPTION:Our aim create about the need for localization and how anyone\
+ , even without any technical knowledge can contribute very easily to the c
+ ommunity by localization. This event will help to get new contributors to 
+ l10n community .\n\nThe target Localization project in this workshop:\n1- 
+ Mozilla marketplace \nhttps://localize.mozilla.org/ar/marketplace/\n\n2- M
+ ozillians Website\nhttps://localize.mozilla.org/ar/mozillians/\n\n3- Mozil
+ la Thunderbird\nhttp://mozilla.locamotion.org/ar/thunderbird/
+URL:https://reps.mozilla.org/e/yarmouk-universty-localization-and-translat
+ ion-workshop/
+SEQUENCE:3
+X-COORDINATES-LAT:32.5267310681
+X-COORDINATES-LON:35.900594294
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

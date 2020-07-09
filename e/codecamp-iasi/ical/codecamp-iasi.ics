@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5377
+CLASS:PUBLIC
+DTSTAMP:20200423T153207Z
+DTSTART:20160422T050000Z
+DTEND:20160422T190000Z
+LOCATION:HOTEL INTERNATIONAL Str. Palat nr. 5A\, Iași\, Iaşi\, Romania
+SUMMARY:CodeCamp Iasi
+DESCRIPTION:CodeCamp is your local IT community &amp; conference in Cluj\, aim
+ ing for better communication among the IT people. It started small in 2008
+  in Iasi and it grew organically\, continuously fulfilling the community d
+ emand. It now consists of 10 parallel tracks with 60 sessions and almost 2
+ 000 participants. \nAdrian Anghel Mârza is gonna have a talk about &#34;The S
+ tate of Web-Based Software Localization (English)&#34;
+URL:https://reps.mozilla.org/e/codecamp-iasi/
+SEQUENCE:4
+X-COORDINATES-LAT:47.1547767994
+X-COORDINATES-LON:27.5868497193
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

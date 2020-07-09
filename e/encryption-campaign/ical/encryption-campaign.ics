@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5171
+CLASS:PUBLIC
+DTSTAMP:20200407T174139Z
+DTSTART:20160229T183000Z
+DTEND:20160330T183000Z
+LOCATION:Online\, Online\, India
+SUMMARY:Encryption Campaign
+DESCRIPTION:An online Encryption campaign to help the ongoing efforts of M
+ ozilla.
+URL:https://reps.mozilla.org/e/encryption-campaign/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9108752678
+X-COORDINATES-LON:77.4680328369
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

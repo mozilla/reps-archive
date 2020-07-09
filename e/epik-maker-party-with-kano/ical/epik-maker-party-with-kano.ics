@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3430
+CLASS:PUBLIC
+DTSTAMP:20200423T180136Z
+DTSTART:20150201T090000Z
+DTEND:20150201T160000Z
+LOCATION:IonCube Office\, Hersden\, United Kingdom
+SUMMARY:Epik Maker Party with KANO
+DESCRIPTION:Maker Parrty with the Kano team and Minecraft \n\nlearn about 
+ Systems Administration with a new un-launched Project YoMo (Youth Mozilla)
+  Operations.\n\nBlog Post on this event \n\nhttp://www.costenslayer.com/20
+ 15/02/kano-maker-party-mozilla-reps.html
+URL:https://reps.mozilla.org/e/epik-maker-party-with-kano/
+SEQUENCE:2
+X-COORDINATES-LAT:51.3157666135
+X-COORDINATES-LON:1.17675751448
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

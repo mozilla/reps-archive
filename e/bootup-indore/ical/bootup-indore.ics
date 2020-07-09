@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5659
+CLASS:PUBLIC
+DTSTAMP:20200407T171649Z
+DTSTART:20160724T103000Z
+DTEND:20160724T133000Z
+LOCATION:teas and more cafe\, Saket\, Indore\, Indore\, India
+SUMMARY:Bootup Indore
+DESCRIPTION:[Moz Coffee - Delivers of : India meetup held at Pune\, All ha
+ nds London\, LS Singapore]\nIndore has been a stronger contributor region 
+ in Mozilla MP since 2013.\nIt was also one of the host spot for Firefox OS
+  bus. But in recent past community in Indore has not been active for a lon
+ g time and its a high time to get back all the contributors and motivate t
+ hem to restart with their contribution towards Mozilla.
+URL:https://reps.mozilla.org/e/bootup-indore/
+SEQUENCE:2
+X-COORDINATES-LAT:22.7172509015
+X-COORDINATES-LON:75.8660125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

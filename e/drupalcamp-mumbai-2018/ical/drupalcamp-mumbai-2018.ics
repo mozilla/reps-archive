@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7665
+CLASS:PUBLIC
+DTSTAMP:20200423T094105Z
+DTSTART:20180428T043000Z
+DTEND:20180429T103000Z
+LOCATION:IIT Bombay\, Powai\, Mumbai\, India\, Hyderabad\, India
+SUMMARY:DrupalCamp Mumbai 2018
+DESCRIPTION:Talk about\n\nIntro to Free and Open Source Project\, differen
+ t opportunities to contribute\, being part of FOSS Communities by Ranjith 
+ Raj. This talk would be after Keynote.\n\nMozilla Stall at event venue for
+  2 days.
+URL:https://reps.mozilla.org/e/drupalcamp-mumbai-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:19.1334302
+X-COORDINATES-LON:72.9132679
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

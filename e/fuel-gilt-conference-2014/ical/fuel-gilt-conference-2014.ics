@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2974
+CLASS:PUBLIC
+DTSTAMP:20200407T174459Z
+DTSTART:20141114T063000Z
+DTEND:20141115T063000Z
+LOCATION:Yashada Rajbhavan Complex\, Baner Road\, Pune\, India
+SUMMARY:FUEL GILT Conference 2014
+DESCRIPTION:FUEL is an open source community project. Initiated by Red Hat
+ \, FUEL Project has grown into a larger effort. On the occasion of complet
+ ion of Five years FUEL intends to organize a GILT Conference in order to f
+ ocus on the linguistic aspects of the software translations. FUEL GILT Con
+ ference 2013 is being organized by Red Hat and C-DAC GIST. For more info p
+ lease visit: http://fuelproject.org/gilt2014/index
+URL:https://reps.mozilla.org/e/fuel-gilt-conference-2014/
+SEQUENCE:5
+X-COORDINATES-LAT:18.3927553513
+X-COORDINATES-LON:74.1774907708
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

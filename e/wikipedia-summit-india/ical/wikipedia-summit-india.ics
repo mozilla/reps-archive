@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@413
+CLASS:PUBLIC
+DTSTAMP:20200423T222732Z
+DTSTART:20130112T063000Z
+DTEND:20130113T063000Z
+LOCATION: 	Azam Campus\, Camp\, Pune\, India
+SUMMARY:Represent Mozilla India in Wiki Summit\, Pune\, India
+DESCRIPTION:The Wikipedia Summit India 2013 will be a two-day event organi
+ zed by Wikipedia Club Pune to promote Wikipedia as an effective means of e
+ ducation\, to empower and reach out to India\, to bring the country under 
+ a spotlight through Spoken Wikipedia\, and to bridge the gender gap that s
+ adly exists in our milieu.\n\nPlease have a look on following link to see 
+ the success scenario of the event.\n\nhttp://mozillaindia.org/node/693\n\n
+URL:https://reps.mozilla.org/e/wikipedia-summit-india/
+SEQUENCE:0
+X-COORDINATES-LAT:21.2893743559
+X-COORDINATES-LON:76.640625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

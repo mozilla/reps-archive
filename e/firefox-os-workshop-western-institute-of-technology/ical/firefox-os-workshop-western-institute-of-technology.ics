@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4713
+CLASS:PUBLIC
+DTSTAMP:20200423T161221Z
+DTSTART:20151121T043000Z
+DTEND:20151121T090000Z
+LOCATION:Western Institute of Technology\, Iloilo City\, Philippines
+SUMMARY:MozTour &amp; Firefox OS Workshop Western Institute of Technology
+DESCRIPTION:Team MozillaPH will conduct Firefox OS Apps Development Worksh
+ op. Attendees will be taught on how to tap the Firefox OS&#39; full potential 
+ in creating mobile apps using tools readily available to them.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-western-institute-of-te
+ chnology/
+SEQUENCE:7
+X-COORDINATES-LAT:10.7006808801
+X-COORDINATES-LON:122.560895562
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

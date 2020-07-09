@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5011
+CLASS:PUBLIC
+DTSTAMP:20200407T175621Z
+DTSTART:20160228T033000Z
+DTEND:20160301T033000Z
+LOCATION:West Bengal University of Technology\, Kolkata\, India
+SUMMARY:Konstruct Fest MAKAUT 2016
+DESCRIPTION:This is a 3 days long Open Source Fest of Kolkata where many o
+ pen source communities participate \, organize seminars \, hackathons and 
+ much more!Mozilla has a dev room where this year we will focus in &#34;Add-on 
+ Dev&#34;
+URL:https://reps.mozilla.org/e/konstruct-fest-makaut-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:22.583048925
+X-COORDINATES-LON:88.4200229659
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4860
+CLASS:PUBLIC
+DTSTAMP:20200407T180455Z
+DTSTART:20151203T103000Z
+DTEND:20151203T143000Z
+LOCATION:Bibliotheekservice Fryslân\, Leeuwarden\, Netherlands
+SUMMARY:Mozbox Meetup
+DESCRIPTION:An international makerbox meetup at Bibliotheekservice Fryslâ
+ n. Participants will be Mozilla reps\, Fab lab reps\, library developers f
+ rom the Netherlands and Sweden. Apart from an introduction to Frysklab (th
+ e world&#39;s first mobile library Fab Lab) the participants will be invited t
+ o some tinkering with a set of digital literacy focused makerboxes from my
+ Makerbox.es. The project leader Åke Nygren will be on hand explaining how
+  the boxes are linked to digital literacies and Mozilla tools.
+URL:https://reps.mozilla.org/e/mozbox-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:53.1934314755
+X-COORDINATES-LON:5.84540063515
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

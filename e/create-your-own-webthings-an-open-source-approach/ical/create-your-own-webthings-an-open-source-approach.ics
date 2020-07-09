@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9147
+CLASS:PUBLIC
+DTSTAMP:20200407T170248Z
+DTSTART:20200314T033000Z
+DTEND:20200314T073000Z
+LOCATION:Riyasaa Labs\, JS Plaza\, Kottar\, Nagercoil\, Tamil Nadu 629002\
+ , India\, Nagercoil\, India
+SUMMARY:(WEBINAR) Create your own WebThings - An open source approach
+DESCRIPTION:Introduction and Hands on session on development of custom web
+ things using Mozilla&#39;s WebThings Framework.
+URL:https://reps.mozilla.org/e/create-your-own-webthings-an-open-source-ap
+ proach/
+SEQUENCE:2
+X-COORDINATES-LAT:8.174137
+X-COORDINATES-LON:77.438197
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

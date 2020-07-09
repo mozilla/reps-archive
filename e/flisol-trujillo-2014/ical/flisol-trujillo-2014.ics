@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2113
+CLASS:PUBLIC
+DTSTAMP:20200423T195732Z
+DTSTART:20140426T150000Z
+DTEND:20140426T180000Z
+LOCATION:Universidad César Vallejo - Trujillo\, Trujillo\, Peru
+SUMMARY:Flisol Trujillo 2014
+DESCRIPTION:ENGLISH: The festival includes Keynotes about free software in
+  Peru\, In the event will participate Angel Quiroz from Mozilla Peru. He w
+ ill give a Workshop about Firefox OS.
+URL:https://reps.mozilla.org/e/flisol-trujillo-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:-8.13223049693
+X-COORDINATES-LON:-79.0392808916
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

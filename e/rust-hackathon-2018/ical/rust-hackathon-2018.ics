@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7387
+CLASS:PUBLIC
+DTSTAMP:20200423T100336Z
+DTSTART:20180127T123000Z
+DTEND:20180128T063000Z
+LOCATION:GITAM University\, Rudraram\, Mandal\, Sangareddy district\, Pata
+ ncheru\, Hyderabad\, Telangana 502329\, Hyderabad\, India
+SUMMARY:Rust Hackathon 2018
+DESCRIPTION:Rust is a new systems programming language sponsored by Mozill
+ a. \nThis event is to train developers\, students\, mozillians and budding
+  programmers on Rust. \nNever written a single line of code in Rust? Don
+ ’t worry\, most of us are just starting off.
+URL:https://reps.mozilla.org/e/rust-hackathon-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:17.5505274
+X-COORDINATES-LON:78.1656061
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

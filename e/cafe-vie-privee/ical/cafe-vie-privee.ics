@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3471
+CLASS:PUBLIC
+DTSTAMP:20200407T174540Z
+DTSTART:20150314T123000Z
+DTEND:20150314T173500Z
+LOCATION:16 Boulevard Montmartre\, Paris\, France
+SUMMARY:Café Vie Privée
+DESCRIPTION:Because we all have something to hide. Because your neighbors 
+ are probably your best enemy.\n\nBecause the &#34;enemy&#34; is not only the NSA. 
+ Because yes\, the internet is such a fantastic tool you need to use it. \n
+ \nWe invite you to discuss about your privacy and the differents ways to p
+ rotect it at Mozilla. Come with your computer (if possible USB key)\, phon
+ e (smart or not)\, curiosity\, children\, parents\, boyfriends\, girlfrien
+ ds ...
+URL:https://reps.mozilla.org/e/cafe-vie-privee/
+SEQUENCE:2
+X-COORDINATES-LAT:48.8721381272
+X-COORDINATES-LON:2.34128692744
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

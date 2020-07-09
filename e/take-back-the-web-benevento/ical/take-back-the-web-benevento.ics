@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5449
+CLASS:PUBLIC
+DTSTAMP:20200423T152335Z
+DTSTART:20160527T070000Z
+DTEND:20160527T110000Z
+LOCATION:Piazza Roma - Palazzo Giannone Aula G11\, Benevento\, Italy
+SUMMARY:Take Back The Web - Benevento
+DESCRIPTION:Gli FSA di Benevento e il local coach\, Daniele Scasciafratte\
+ , portano a Benevento l&#39;evento sponsorizzato da Mozilla: Take Back The Web
+ .\n\nLa campagna Take Back The Web recita:\n\n&#34;We live so much of our live
+ s online\, but we don’t always know what happens to the data we share or
+  whose hands it ends up in. In order to have meaningful control of our onl
+ ine lives we have to understand our choices.\nYou have the power to take b
+ ack control of your data\, but we need a community to take back the Web.&#34;
+URL:https://reps.mozilla.org/e/take-back-the-web-benevento/
+SEQUENCE:1
+X-COORDINATES-LAT:41.1307614947
+X-COORDINATES-LON:14.7784423811
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

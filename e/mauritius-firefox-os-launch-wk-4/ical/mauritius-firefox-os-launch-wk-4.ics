@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4103
+CLASS:PUBLIC
+DTSTAMP:20200423T170617Z
+DTSTART:20150704T080000Z
+DTEND:20150704T160000Z
+LOCATION:Bagatelle Mall\, Moka\, Moka\, Mauritius
+SUMMARY:Mauritius Firefox OS Launch wk 4
+DESCRIPTION:Firefox OS launching  campaign through  the Orange KLIFF mobil
+ e continues for week-4 in Mauritius. The launching event is being organise
+ d by  Orange Mauritius from 9 May 2015\, which will last for 6 weeks till 
+ July  25\, 2015. These events will be run in different regions (cities and
+   villages) of the Mauritius. Mozilla Mauritius team will be at the Orange
+  Shop at Bagatelle Mall on Saturday 4 July.
+URL:https://reps.mozilla.org/e/mauritius-firefox-os-launch-wk-4/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.2111529331
+X-COORDINATES-LON:57.4842166866
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

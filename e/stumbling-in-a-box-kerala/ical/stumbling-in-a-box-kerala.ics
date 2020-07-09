@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3928
+CLASS:PUBLIC
+DTSTAMP:20200423T165612Z
+DTSTART:20150802T033000Z
+DTEND:20150822T103000Z
+LOCATION:All over Kerala\, Kottayam\, India
+SUMMARY:Stumbling in a Box :  Kerala
+DESCRIPTION:We will have a GeoLocation Sprint where we will talk about the
+  Mozilla Location Service. Contribute to Mozilla and free and open project
+ s introduction to stumbling tools that bring knowledge to participants on 
+ how to gather geolocation information in their cities.. After which\, part
+ icipants will gather information and upload it to the mozilla servers
+URL:https://reps.mozilla.org/e/stumbling-in-a-box-kerala/
+SEQUENCE:5
+X-COORDINATES-LAT:9.58508976618
+X-COORDINATES-LON:76.5271196364
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

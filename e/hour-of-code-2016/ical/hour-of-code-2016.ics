@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5969
+CLASS:PUBLIC
+DTSTAMP:20200423T114200Z
+DTSTART:20161205T043000Z
+DTEND:20161211T113000Z
+LOCATION:Indore\, Indore\, India
+SUMMARY:Hour of Code -  Mozactivate Indore
+DESCRIPTION:The Hour of Code is a one-hour introduction to computer scienc
+ e\, designed to demystify code and show that anybody can learn the basics.
+ Hour of Code 2016\, a movement to recruit millions to try one hour of comp
+ uter science\, will take place during the second week of December Every st
+ udent should have the opportunity to learn computer science. It helps nurt
+ ure problem-solving skills and creativity.
+URL:https://reps.mozilla.org/e/hour-of-code-2016/
+SEQUENCE:11
+X-COORDINATES-LAT:22.7172509015
+X-COORDINATES-LON:75.8660125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

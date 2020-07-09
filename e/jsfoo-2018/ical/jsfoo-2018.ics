@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7781
+CLASS:PUBLIC
+DTSTAMP:20200407T174123Z
+DTSTART:20181025T183000Z
+DTEND:20181026T183000Z
+LOCATION:National Institute of Mental Health and Neurosciences [NIMHANS]\,
+  Bangalore\, India
+SUMMARY:JSFoo 2018
+DESCRIPTION:The eighth edition of India’s first JavaScript conference.\n
+ The JS community in India has grown phenomenally since then. They have off
+ ered free stalls for Mozilla to talk about various projects of Mozilla.
+URL:https://reps.mozilla.org/e/jsfoo-2018/
+SEQUENCE:4
+X-COORDINATES-LAT:12.9407
+X-COORDINATES-LON:77.9583
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

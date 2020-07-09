@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5379
+CLASS:PUBLIC
+DTSTAMP:20200407T175211Z
+DTSTART:20160609T050000Z
+DTEND:20160609T170000Z
+LOCATION:Romexpo Bucharest\, Bucharest\, Romania
+SUMMARY:DevTalks Bucuresti
+DESCRIPTION:Alex Lakatos is having a Keynote on : Firefox DevTools Deep Di
+ ve\nValentin is having a keynote on: WebVR – use the web platform to cre
+ ate immersive applications\, games and interfaces\nAdrian Anghel Marza wil
+ l be at the booth talking about L10n\nGabriel and Valentin will demo WebVR
+ . \n\nDevTalks will have 4 tracks\, as it follows : “ClausemburgoTransit
+ ion to 2020”(IoT\, Smart Devices\, AI &amp; Machine Learning)\, Mobile\, The
+  Everlasting Web (Web 3.0) and Infrastructure of Internet (BigData &amp; Cloud
+ )
+URL:https://reps.mozilla.org/e/devtalks-bucuresti/
+SEQUENCE:1
+X-COORDINATES-LAT:44.4763545642
+X-COORDINATES-LON:26.0654096596
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

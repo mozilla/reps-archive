@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4079
+CLASS:PUBLIC
+DTSTAMP:20200423T170921Z
+DTSTART:20150627T020000Z
+DTEND:20150627T110000Z
+LOCATION:Museo Pambata\, Malate\, Philippines
+SUMMARY:Social Media Day Manila 2015
+DESCRIPTION:Hundreds of netizens\, communities\, social media denizens\, t
+ hought-leaders and advocates are set to gather anew for Social Media Day o
+ n June 27 at the Museo Pambata’s open grounds along Roxas Blvd.\, in Man
+ ila.\n\nCarrying the theme and hashtag #ChangePH\, the fourth Philippine e
+ dition of Social Media Day will feature a community expo starting at 10:00
+  am and a conference from 2:00-8:00 pm.
+URL:https://reps.mozilla.org/e/social-media-day-manila-2015/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5791489328
+X-COORDINATES-LON:120.976902008
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

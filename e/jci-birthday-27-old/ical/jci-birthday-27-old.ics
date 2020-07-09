@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@82
+CLASS:PUBLIC
+DTSTAMP:20200423T230634Z
+DTSTART:20120823T170000Z
+DTEND:20120824T170000Z
+LOCATION:Bogota\, Bogota\, Colombia
+SUMMARY:JCI birthday 27 old
+DESCRIPTION:The event of 27 years old of JCI Santafe de Tierra Linda is ce
+ ntral to the organization of JCI which we have great support with mozilla 
+ Colombia\, managing to be one of the sponsors of the event so important.
+URL:https://reps.mozilla.org/e/jci-birthday-27-old/
+SEQUENCE:0
+X-COORDINATES-LAT:4.63053771168
+X-COORDINATES-LON:-74.0823554993
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5660
+CLASS:PUBLIC
+DTSTAMP:20200423T145533Z
+DTSTART:20160917T160000Z
+DTEND:20160917T220000Z
+LOCATION:14.0849563\,-87.1665814\, Tegucigalpa\, Honduras
+SUMMARY:Software Freedom Day Honduras 2016
+DESCRIPTION:It is an annual worldwide celebration related to free software
+ . It is a public education event for promote the use and virtues of the fr
+ ee software.
+URL:https://reps.mozilla.org/e/software-freedom-day-honduras-2016/
+SEQUENCE:5
+X-COORDINATES-LAT:14.0777512026
+X-COORDINATES-LON:-87.1852112375
+X-COUNTRY-CODE:hn
+END:VEVENT
+
+END:VCALENDAR

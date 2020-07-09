@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7390
+CLASS:PUBLIC
+DTSTAMP:20200407T171622Z
+DTSTART:20180203T043000Z
+DTEND:20180203T073000Z
+LOCATION:Investopedia\, New Delhi\, India
+SUMMARY:Global Diversity CFP Meetup
+DESCRIPTION:There will be numerous workshops hosted around the globe encou
+ raging and advising newbie speakers to put together your very first talk p
+ roposal and share your own individual perspective on any subject of intere
+ st to people in tech.\n\nEach workshop will have experienced speakers on h
+ and to:\n\n- Give you a warm\, inclusive welcome in a safe space\n- Mentor
+  you with your proposal\n- Provide speaking advice\n- and share their enth
+ usiasm to get you to the stage!
+URL:https://reps.mozilla.org/e/global-diversity-cfp-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:28.592497968
+X-COORDINATES-LON:77.2113189683
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

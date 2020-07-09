@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1253
+CLASS:PUBLIC
+DTSTAMP:20200407T175450Z
+DTSTART:20131012T063000Z
+DTEND:20131012T100000Z
+LOCATION:The Whiteaways Arcade\, Penang\, Malaysia
+SUMMARY:TEDxWeldQuay
+DESCRIPTION:In line with TED’s mission of Ideas Worth Spreading\, TEDxWe
+ ldQuay aspires to be a catalyst\; which aims to inspire\, change and culti
+ vate the minds of the Penang community and the world beyond. Being a platf
+ orm\, TEDxWeldQuay looks to undertake its mission by showcasing undiscover
+ ed treasures and talents from the local and international scene. At the sa
+ me time\, we hope to also showcase Penang\, the Pearl of the Orient\, to t
+ he rest of the world through TEDxWeldQuay.
+URL:https://reps.mozilla.org/e/tedxweldquay/
+SEQUENCE:4
+X-COORDINATES-LAT:5.417575
+X-COORDINATES-LON:100.342107
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3401
+CLASS:PUBLIC
+DTSTAMP:20200423T180635Z
+DTSTART:20150123T063000Z
+DTEND:20150123T083000Z
+LOCATION:Sathyabama University\, Chennai\, India\, Chennai\, India
+SUMMARY:Mozilla Tech Talks - Sathyabama IEEE CS Society Inauguration
+DESCRIPTION:A two hour talk to teach about Open Source\, to spread awarene
+ ss about Mozilla Products and its mission. Reaching out to students about 
+ Localisation\, Webmaking\, WoMoz and other Mozilla initiatives.
+URL:https://reps.mozilla.org/e/mozilla-tech-talks-sathyabama-ieee-cs-socie
+ ty-inauguration/
+SEQUENCE:2
+X-COORDINATES-LAT:13.0460861
+X-COORDINATES-LON:80.21589
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

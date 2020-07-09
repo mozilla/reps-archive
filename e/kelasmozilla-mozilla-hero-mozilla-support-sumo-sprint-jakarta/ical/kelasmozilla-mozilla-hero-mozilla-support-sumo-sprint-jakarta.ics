@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9091
+CLASS:PUBLIC
+DTSTAMP:20200407T165017Z
+DTSTART:20200209T080000Z
+DTEND:20200209T110000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:#KelasMozilla: Mozilla Hero - Mozilla Support (SuMo) Sprint Jakart
+ a
+DESCRIPTION:introduce and localize KB articles together
+URL:https://reps.mozilla.org/e/kelasmozilla-mozilla-hero-mozilla-support-s
+ umo-sprint-jakarta/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.23462205526
+X-COORDINATES-LON:106.821039677
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

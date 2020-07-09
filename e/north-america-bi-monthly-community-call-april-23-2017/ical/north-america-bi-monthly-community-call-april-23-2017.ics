@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6495
+CLASS:PUBLIC
+DTSTAMP:20200423T111423Z
+DTSTART:20170423T230000Z
+DTEND:20170424T000000Z
+LOCATION:Google Hangout\, Euless\, United States
+SUMMARY:North America Bi Monthly Community Call (April 23 2017)
+DESCRIPTION:Bi-Monthly North America community call. ***Please see Etherpa
+ d Link (below) for Google Hangout information to connect to the online mee
+ ting*** Details on our Etherpad: https://public.etherpad-mozilla.org/p/moz
+ northamerica Updates are posted on our discourse channel: https://discours
+ e.mozilla-community.org/c/communities/north-america Please feel free to fo
+ rward to other North American Mozillians!
+URL:https://reps.mozilla.org/e/north-america-bi-monthly-community-call-apr
+ il-23-2017/
+SEQUENCE:0
+X-COORDINATES-LAT:32.8415932
+X-COORDINATES-LON:-97.0687403
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8592
+CLASS:PUBLIC
+DTSTAMP:20200423T082526Z
+DTSTART:20190609T063000Z
+DTEND:20190609T113000Z
+LOCATION:Nukkad Pe\, Vadodara\, India
+SUMMARY:Beta Testing BugHunter - Vadodara
+DESCRIPTION:Become a Beta Testing BugHunter Mozilla is launching a NEW And
+ roid web browser and we need your help to get it ready for the free and op
+ en web. We’re asking YOU to become a fearless beta tester and BUG HUNTER
+  to gather with friends and family\, install this brand new browser and te
+ st it until you can test no more!
+URL:https://reps.mozilla.org/e/beta-testing-bughunter-vadodara/
+SEQUENCE:3
+X-COORDINATES-LAT:22.2948110591
+X-COORDINATES-LON:73.154037951
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

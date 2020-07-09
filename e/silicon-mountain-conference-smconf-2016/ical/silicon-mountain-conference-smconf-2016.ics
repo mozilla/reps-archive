@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5515
+CLASS:PUBLIC
+DTSTAMP:20200423T151859Z
+DTSTART:20160618T060000Z
+DTEND:20160618T213000Z
+LOCATION:Chariot Hotel Buea N8\, Buea\, Buea\, Cameroon
+SUMMARY:Silicon Mountain Conference #SMCONF 2016
+DESCRIPTION:SMConf is an annual conference in Cameroon which attracts crea
+ tives\, hackers and organizers from Africa to the Mount Fako area for a da
+ y of code labs\, workshops and sessions of inspiration and fun. \nMozilla 
+ Cameroon will held there and exhibition Stand at Startup Booths\, about 5 
+ talks for various session: Design Studios-Hackers Sandbox-Community Pavill
+ on.
+URL:https://reps.mozilla.org/e/silicon-mountain-conference-smconf-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:4.15762424341
+X-COORDINATES-LON:9.22581480816
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

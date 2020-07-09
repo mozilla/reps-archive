@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7732
+CLASS:PUBLIC
+DTSTAMP:20200407T171617Z
+DTSTART:20180720T043000Z
+DTEND:20180720T123000Z
+LOCATION:CMR\, Hyderabad\, Hyderabad\, India
+SUMMARY:Web Extensions Hackathon
+DESCRIPTION:A Hackathon for bringing contributors to the Add-ons Community
+ .
+URL:https://reps.mozilla.org/e/web-extensions-hackathon/
+SEQUENCE:5
+X-COORDINATES-LAT:17.511
+X-COORDINATES-LON:78.4794
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9093
+CLASS:PUBLIC
+DTSTAMP:20200407T181214Z
+DTSTART:20200220T050000Z
+DTEND:20200220T100000Z
+LOCATION:NSBM Computing - Hall 2\, Colombo\, Sri Lanka
+SUMMARY:Rust day Workshop - Colombo
+DESCRIPTION:Rust is a language gaining popularity among developers and Moz
+ illa Sri Lanka is organising a Rust day Workshop to expose newcomer develo
+ pers to Rust language and its uses.\n\nRust day workshop is a full-day wor
+ kshop with hands-on Rust development. Instructors will guide you on buildi
+ ng a simple application using Rust at the end of the day.\n\nPrior experie
+ nce in Programming languages is needed.
+URL:https://reps.mozilla.org/e/rust-day-workshop-colombo/
+SEQUENCE:1
+X-COORDINATES-LAT:6.9128472194
+X-COORDINATES-LON:79.8730999231
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

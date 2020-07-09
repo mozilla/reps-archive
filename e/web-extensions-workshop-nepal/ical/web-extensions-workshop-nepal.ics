@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6765
+CLASS:PUBLIC
+DTSTAMP:20200407T175934Z
+DTSTART:20170708T051500Z
+DTEND:20170708T091500Z
+LOCATION:Real Time Solutions Pvt. Ltd.\, Dhobighat\, Nepal
+SUMMARY:Web Extensions Workshop - Nepal
+DESCRIPTION:Build Your Own WebExtensions  Addon for Firefox - Mozilla Acti
+ vate
+URL:https://reps.mozilla.org/e/web-extensions-workshop-nepal/
+SEQUENCE:1
+X-COORDINATES-LAT:27.676490033
+X-COORDINATES-LON:85.3089954257
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

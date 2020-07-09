@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5094
+CLASS:PUBLIC
+DTSTAMP:20200407T174553Z
+DTSTART:20160305T090000Z
+DTEND:20160306T210000Z
+LOCATION:Trinity College Dublin   Nassau Street\, Dublin 2\, Dublin\, Irel
+ and
+SUMMARY:Mozilla Celtic Hackathon
+DESCRIPTION:2nd Annual Mozilla Celtic Hackathon hosted by l10n and Remo in
+  Dublin Ireland. \n\nFour groups of Localisators for Irish\, Welsh\, Soctt
+ ish Gaelic and Breton will convene in Trinity College\, Dublin City to bui
+ ld on the goals and results of last years hackathon.
+URL:https://reps.mozilla.org/e/mozilla-celtic-hackathon/
+SEQUENCE:3
+X-COORDINATES-LAT:53.3444112475
+X-COORDINATES-LON:-6.25804013049
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

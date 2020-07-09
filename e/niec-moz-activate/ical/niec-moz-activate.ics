@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6114
+CLASS:PUBLIC
+DTSTAMP:20200423T113317Z
+DTSTART:20170128T053000Z
+DTEND:20170128T113000Z
+LOCATION:Northern India Engineering College\, FC-26\, Shastri Park\, Near 
+ Zero Pusta\, New Delhi\, Delhi 110053\, New Delhi\, India
+SUMMARY:NIEC Moz Activate
+DESCRIPTION:Introduction to Open Source World  &amp; Mozilla\nhttps://whatcani
+ doformozilla.org/\nIntroduction to Mozpacers (local community)\nIntroducti
+ on to GITHUB\nIntroduction to WEB VR and A Frame JS
+URL:https://reps.mozilla.org/e/niec-moz-activate/
+SEQUENCE:6
+X-COORDINATES-LAT:28.6784240189
+X-COORDINATES-LON:77.2421708104
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

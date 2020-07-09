@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8297
+CLASS:PUBLIC
+DTSTAMP:20200423T084721Z
+DTSTART:20190105T030000Z
+DTEND:20190105T130000Z
+LOCATION:Microsoft Singapore\, Singapore\, Singapore
+SUMMARY:Geekcamp Singapore
+DESCRIPTION:GeekCampSG is a free one-day community tech conference that br
+ ings together hundreds of geeks to share about technology and knowledge
+URL:https://reps.mozilla.org/e/geekcamp-singapore/
+SEQUENCE:7
+X-COORDINATES-LAT:1.345
+X-COORDINATES-LON:103.8169
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

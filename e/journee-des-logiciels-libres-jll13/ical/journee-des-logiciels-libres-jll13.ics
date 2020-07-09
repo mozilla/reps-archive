@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@824
+CLASS:PUBLIC
+DTSTAMP:20200423T214634Z
+DTSTART:20130430T080000Z
+DTEND:20130430T170000Z
+LOCATION:Faculty Of Science Tunis\, Tunis\, Tunisia
+SUMMARY:Journée des Logiciels Libres - JLL13
+DESCRIPTION:The CLLFST held annually since 2004\, the Day of Free Software
+  in the FST\, this event is not only dedicated to his students but is open
+  to everyone at the national party. It aims to promote the development of 
+ free software in general and the GNU / Linux operating system in particula
+ r through workshops and conferences that are spread throughout the day
+URL:https://reps.mozilla.org/e/journee-des-logiciels-libres-jll13/
+SEQUENCE:1
+X-COORDINATES-LAT:36.8344145477
+X-COORDINATES-LON:10.1471829414
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

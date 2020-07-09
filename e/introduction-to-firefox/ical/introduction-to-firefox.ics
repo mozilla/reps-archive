@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3400
+CLASS:PUBLIC
+DTSTAMP:20200423T180641Z
+DTSTART:20150123T050000Z
+DTEND:20150123T110000Z
+LOCATION:Mauritius Institute of Health\, Powder Mill\, Pamplemousses\, Pam
+ plemousses\, Mauritius
+SUMMARY:Introduction to Firefox
+DESCRIPTION:I shall be conducting a-day training session on Literature sea
+ rch skills for 22 New Emergency Nurses at my workplace - Mauritius Institu
+ te of Health (MIH)\, Mauritius. Firefox which will be used as browser for 
+ this purpose\, will be used and introduced to them. It should noted that F
+ irefox has been installed in all our 50 (PCs and Laptop). During this trai
+ ning session\, most of the features of Firefox will be introduced to them.
+URL:https://reps.mozilla.org/e/introduction-to-firefox/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1188201859
+X-COORDINATES-LON:57.5535678829
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8257
+CLASS:PUBLIC
+DTSTAMP:20200422T102621Z
+DTSTART:20181215T090000Z
+DTEND:20181215T120000Z
+LOCATION:TBD\, Douala\, Cameroon
+SUMMARY:Protect Your Data CMR DOUALA
+DESCRIPTION:to help young cameroonians to be awareness about the proctecti
+ on of  their data  and we will do this event in two town in the far north 
+ yagoua( official launch) and  in the economic capital Douala\n\nPromote Mo
+ zila tools and manuals related to online privacy and data protection
+URL:https://reps.mozilla.org/e/estelle-ndedi-nguedassong/
+SEQUENCE:7
+X-COORDINATES-LAT:4.00939430579
+X-COORDINATES-LON:9.71854448318
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

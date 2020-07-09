@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3001
+CLASS:PUBLIC
+DTSTAMP:20200407T175903Z
+DTSTART:20141025T133000Z
+DTEND:20141025T180000Z
+LOCATION:Centre Africain de Mise à Niveau qui est à laPatte d’Oie Buil
+ ders villa n° B11 &amp; D11.\, Dakar\, Senegal
+SUMMARY:Rencontre autour du Libre avec Monsieur Jean THIERY
+DESCRIPTION:Pour une seconde fois au DakarLUG nous fait le plaisir d’ani
+ mer une mini-conférence et des ateliers avec pour thèmes :\n\n    One La
+ ptop Per Child\n    Compte rendu du Sugar Camp #3 : dernières nouvelles d
+ u projet OLPC (One Laptop Per Child) et des projets associés. + démonstr
+ ations éventuelles des matériels et logiciels correspondants.\n    Firef
+ ox OS\n    Le système Firefox OS + démonstrations sur un ordiphone ZTE O
+ pen C
+URL:https://reps.mozilla.org/e/rencontre-autour-du-libre-avec-monsieur-jea
+ n-thiery/
+SEQUENCE:2
+X-COORDINATES-LAT:14.764504
+X-COORDINATES-LON:-17.366029
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

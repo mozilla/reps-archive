@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8230
+CLASS:PUBLIC
+DTSTAMP:20200407T182428Z
+DTSTART:20181008T100000Z
+DTEND:20181009T173000Z
+LOCATION:Kulturmagasinet\, Sundsvall\, Stockholm\, Sweden
+SUMMARY:Glass Room Experience @ Kulturmagasinet - Sundsvall
+DESCRIPTION:A pop up exhibition\, courtesy of Tactical Tech Collective wit
+ h support from Mozilla - about online privacy in an age of big data\, IoT 
+ and AI. The exhibition runs in the Kulturmagasinet\, Sundsvall\, as a part
+  of eCitizen Week 2018.
+URL:https://reps.mozilla.org/e/glass-room-experience-kulturmagasinet-sunds
+ vall/
+SEQUENCE:1
+X-COORDINATES-LAT:62.3892539816
+X-COORDINATES-LON:17.315248489
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8209
+CLASS:PUBLIC
+DTSTAMP:20200423T085533Z
+DTSTART:20181026T083000Z
+DTEND:20181026T123000Z
+LOCATION:WeWork 247 Park\, Hyderabad\, India
+SUMMARY:Hacktoberfest Mumbai
+DESCRIPTION:Welcome all FOSS lovers\,\n\nLet&#39;s contribute to FOSS projects
+  in the month of Hacktoberfest at Mumbai.\n\nPerks of attending Hacktoberf
+ et Mumbai:\n\n* Swag for all participants\n* Win t-shirts for who makes at
+ least 5 Pull Requests\, our mentors will help you achieve it.\n* Explore o
+ pportunities of internships and jobs in our networking slots.\n* Get conne
+ cted with mentors to contribute to FOSS projects. Find collaborators for y
+ our projects
+URL:https://reps.mozilla.org/e/hacktoberfest-mumbai/
+SEQUENCE:0
+X-COORDINATES-LAT:19.1929126788
+X-COORDINATES-LON:72.9708595248
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

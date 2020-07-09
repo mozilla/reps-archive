@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8311
+CLASS:PUBLIC
+DTSTAMP:20200423T084738Z
+DTSTART:20181229T173000Z
+DTEND:20181229T183000Z
+LOCATION:Hubs-Mozilla (chat room)\, online\, India
+SUMMARY:Hosting MozillaTN&#39;s first ever meetup on Mozilla-Hubs
+DESCRIPTION:As the New Year is fast approaching Mozilla Tamil Nadu people 
+ are meeting on Mozilla-Hubs so as to discuss on the goals for the new  yea
+ r. We also want to celebrate the achievements that 2k18 has given us and f
+ eel grateful for the same.
+URL:https://reps.mozilla.org/e/hosting-mozillatn-s-first-ever-meetup-on-mo
+ zilla-hubs/
+SEQUENCE:3
+X-COORDINATES-LAT:21.5893420115
+X-COORDINATES-LON:79.7460865974
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4456
+CLASS:PUBLIC
+DTSTAMP:20200423T164246Z
+DTSTART:20150912T083000Z
+DTEND:20150912T110000Z
+LOCATION:University of El salvador\, Santa Ana\, El salvador\, SANTA Ana\,
+  El Salvador
+SUMMARY:Firefox os development
+DESCRIPTION:Is a course about development  app for firefox os\, this Satur
+ day the first session in University of El salvador.\nThe workshop is about
+  HTML5 and CSS3 web Technologies for develop applications for firefox os.
+URL:https://reps.mozilla.org/e/firefox-os-development/
+SEQUENCE:2
+X-COORDINATES-LAT:13.9424808331
+X-COORDINATES-LON:-89.6481370926
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

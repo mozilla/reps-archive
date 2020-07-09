@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@615
+CLASS:PUBLIC
+DTSTAMP:20200423T220002Z
+DTSTART:20130323T123000Z
+DTEND:20130323T213000Z
+LOCATION:TBN\, Puerto Ordaz\, Venezuela
+SUMMARY:Document Freedom Day
+DESCRIPTION:This event is to celebrate the Document Freedom Day\, mozilla 
+ has been invited to give a conference on the &#34;open web&#34;. the event is impo
+ rtant because libreoffice  work whit firefox themes &#39;personas&#39; to pimp the
+  office suite. I will have a booth with the help of my colleagues in Venez
+ uela and I will give a speech on &#34;the web is the platform&#34;\n
+URL:https://reps.mozilla.org/e/document-freedom-day/
+SEQUENCE:0
+X-COORDINATES-LAT:8.31681518265
+X-COORDINATES-LON:-62.7017211914
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

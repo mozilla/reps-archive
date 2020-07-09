@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3365
+CLASS:PUBLIC
+DTSTAMP:20200407T174406Z
+DTSTART:20150207T070000Z
+DTEND:20150207T130000Z
+LOCATION:Uganda Technology and Management University\, Kampala\, Uganda
+SUMMARY:Hive Pop Up
+DESCRIPTION:This is the first hive popup event for the hive community in K
+ ampala. It will bring together potential partners to learn more about hive
+  and plan for hive activities in Kampala in 2015. Members will also have s
+ ometime to participate in some hive activities to get a better understandi
+ ng of how HIVE works.
+URL:https://reps.mozilla.org/e/hive-pop-up/
+SEQUENCE:1
+X-COORDINATES-LAT:0.303953875938
+X-COORDINATES-LON:32.6000967622
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

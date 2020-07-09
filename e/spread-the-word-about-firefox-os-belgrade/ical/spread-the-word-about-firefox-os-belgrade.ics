@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1753
+CLASS:PUBLIC
+DTSTAMP:20200407T181905Z
+DTSTART:20140126T100000Z
+DTEND:20140126T160000Z
+LOCATION:Ušče\, Belgrade\, Serbia
+SUMMARY:Spread the word about Firefox OS - Belgrade
+DESCRIPTION:Serbian Mozilla community is organizing a promotional event ab
+ out Firefox OS since it has been launched in Serbia.
+URL:https://reps.mozilla.org/e/spread-the-word-about-firefox-os-belgrade/
+SEQUENCE:5
+X-COORDINATES-LAT:44.8157561528
+X-COORDINATES-LON:20.4368076324
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

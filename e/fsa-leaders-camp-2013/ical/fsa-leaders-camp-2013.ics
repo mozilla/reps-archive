@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1321
+CLASS:PUBLIC
+DTSTAMP:20200407T175123Z
+DTSTART:20131019T010000Z
+DTEND:20131020T080000Z
+LOCATION:Riverview Resort and Conference Center\, Calamba City\, Philippin
+ es
+SUMMARY:FSA Leaders Camp 2013
+DESCRIPTION:FSA Leaders Camp 2013 aims to generate the very best of all cu
+ rrent Firefox Student Ambassadors Leaders by giving them all the essential
+  knowledge and training from different filipino Mozilla Reps from differen
+ t background of expertise in one venue for two days.\n\nThis camp aims to 
+ arm the FSAs with the necessary information about Mozilla and train their 
+ leadership skills needed to effectively lead their respective clubs.
+URL:https://reps.mozilla.org/e/fsa-leaders-camp-2013/
+SEQUENCE:10
+X-COORDINATES-LAT:14.208812
+X-COORDINATES-LON:14.208812
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

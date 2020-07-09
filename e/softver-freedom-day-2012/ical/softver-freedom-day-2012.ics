@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@23
+CLASS:PUBLIC
+DTSTAMP:20200407T182251Z
+DTSTART:20120921T080000Z
+DTEND:20120921T160000Z
+LOCATION:SZTE University\, Szeged Ady tér 2.\, Szeged\, Hungary
+SUMMARY:Softver Freedom Day 2012 Szeged\, Hungary
+DESCRIPTION:I think SFD is a famous event all over the world. This quite i
+ nteresting in Hungary because this the biggest open source event which is 
+ not in the capital\, but South of Hungary.\n\nI am gonna talk on the event
+  about Mozilla manifesto\, Mozilla projects\, where we are what we gonna d
+ o. This is the best way to talk about Mozilla in a big audience in the uni
+ versity.\n\nI am gonna also run a booth on this event.  
+URL:https://reps.mozilla.org/e/softver-freedom-day-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:46.2508614679
+X-COORDINATES-LON:20.1528739929
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

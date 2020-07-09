@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1817
+CLASS:PUBLIC
+DTSTAMP:20200407T174905Z
+DTSTART:20140222T080000Z
+DTEND:20140222T200000Z
+LOCATION:TBD\, irbid\, Jordan
+SUMMARY:Yarmouk University Firefox Day
+DESCRIPTION:(localizations and web maker) and how create Blogs for student
+ s to enhance the web content in Arabic using a special technology by (Mozi
+ lla Firefox named web maker) \, and speak about Protection of personal con
+ tent sites and profiles on the Social Media to protection of hacking and t
+ heft \, and The important topic in this event is the new technology is (Fi
+ refox OS) an open source operating system for mobiles from Mozilla Firefox
+  .\nLink:mozilla wiki link: https://wiki.mozilla.org/Y.U_Firefox_Club
+URL:https://reps.mozilla.org/e/yarmouk-university-firefox-day/
+SEQUENCE:3
+X-COORDINATES-LAT:32.5072615406
+X-COORDINATES-LON:35.8744010924
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3208
+CLASS:PUBLIC
+DTSTAMP:20200407T174242Z
+DTSTART:20141211T150000Z
+DTEND:20141212T180000Z
+LOCATION:Telefonica main offices\, San Jose\, Costa Rica
+SUMMARY:TeachTheWeb in Costa Rica
+DESCRIPTION:The Mozilla Foundation and the Telefonica Foundation are holdi
+ ng a TeachTheWeb event in Costa Rica\, training local teachers about our w
+ eb development tools for children. Some local mozillians will be there to 
+ help!
+URL:https://reps.mozilla.org/e/teachtheweb-in-costa-rica/
+SEQUENCE:2
+X-COORDINATES-LAT:9.93566856541
+X-COORDINATES-LON:-84.1307466032
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

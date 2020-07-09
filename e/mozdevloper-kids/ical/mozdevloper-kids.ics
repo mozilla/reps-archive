@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3503
+CLASS:PUBLIC
+DTSTAMP:20200423T174419Z
+DTSTART:20150312T053000Z
+DTEND:20150312T080000Z
+LOCATION:Bal Vidya Mandir\, Jaipur\, India
+SUMMARY:MozDevloper-Kids
+DESCRIPTION:It would be all about spreading the word of Mozilla\, open Sou
+ rce and web literacy. Mainly involving the Webmaker and FSA Program. And t
+ o  inaugurate a new club at the school to mentor them for contributing to 
+ Mozilla mission.
+URL:https://reps.mozilla.org/e/mozdevloper-kids/
+SEQUENCE:3
+X-COORDINATES-LAT:26.9008440799
+X-COORDINATES-LON:75.8898921311
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

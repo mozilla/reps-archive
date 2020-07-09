@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@898
+CLASS:PUBLIC
+DTSTAMP:20200407T183025Z
+DTSTART:20130601T023000Z
+DTEND:20130601T233000Z
+LOCATION:Department of Computer Science\, University of Jaffna\, Jaffna\, 
+ Sri Lanka
+SUMMARY:Hackathon 2013
+DESCRIPTION:This YIT Hackathon is to develop Mobile apps in two days. A fi
+ ne mix of both professional and fresh talent is to work together in concep
+ tualizing a product and making it a reality.
+URL:https://reps.mozilla.org/e/hackathon-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:9.68469100269
+X-COORDINATES-LON:80.0221824646
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

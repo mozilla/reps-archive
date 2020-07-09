@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3322
+CLASS:PUBLIC
+DTSTAMP:20200423T175223Z
+DTSTART:20150224T043000Z
+DTEND:20150224T113000Z
+LOCATION:VIIT Engg College Kondhwa Pune\, Pune\, India
+SUMMARY:Coding for Firefox
+DESCRIPTION:Introduction and contributing to Mozilla\, Getting ready for d
+ evelopment\, Building Firefox\,  Getting ready to work on your first bug\,
+  Using online tools to help productivity\, Front end Firefox development t
+ ools
+URL:https://reps.mozilla.org/e/coding-for-firefox/
+SEQUENCE:4
+X-COORDINATES-LAT:18.3675593025
+X-COORDINATES-LON:74.0135192871
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

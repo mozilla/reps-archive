@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1895
+CLASS:PUBLIC
+DTSTAMP:20200407T182217Z
+DTSTART:20140523T050000Z
+DTEND:20140523T150000Z
+LOCATION:Moscow\, Digital October Center\, Yakimanka\, Russian Federation
+SUMMARY:International Mobile Conference (MBLT14)
+DESCRIPTION:Annual International Mobile conference will be held on May 23t
+ h in Digital October Center in Moscow.\n\nThe main topic of the conference
+  is the usage of mobile technologies in different spheres of business.\n\n
+ The goal of #MBLT is to provide a view on current mobile technologies that
+  are changing our everyday lives and influence on the behavior and thinkin
+ g of potential customers.
+URL:https://reps.mozilla.org/e/international-mobile-conference-mblt14/
+SEQUENCE:1
+X-COORDINATES-LAT:55.740616926
+X-COORDINATES-LON:37.6092976928
+X-COUNTRY-CODE:ru
+END:VEVENT
+
+END:VCALENDAR

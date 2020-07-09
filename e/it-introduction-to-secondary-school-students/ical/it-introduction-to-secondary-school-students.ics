@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4215
+CLASS:PUBLIC
+DTSTAMP:20200423T165403Z
+DTSTART:20150811T060000Z
+DTEND:20150811T180000Z
+LOCATION:Elniakampis\, Vilnius\, Lithuania
+SUMMARY:IT introduction to secondary school students
+DESCRIPTION:Mozilla will be introducing software &amp; hardware basics\, IT ca
+ reer opportunities and open Internet importance to secondary school studen
+ ts (15 - 18 years old) while they are on camp.\nEach year the camp is visi
+ ted by various experts that deliver useful information to teens raging fro
+ m career opportunities\, technological sector trends\, to data security an
+ d IT in general.
+URL:https://reps.mozilla.org/e/it-introduction-to-secondary-school-student
+ s/
+SEQUENCE:7
+X-COORDINATES-LAT:54.7926361824
+X-COORDINATES-LON:24.9771423172
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

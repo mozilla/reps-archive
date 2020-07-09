@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@884
+CLASS:PUBLIC
+DTSTAMP:20200423T214302Z
+DTSTART:20130518T060000Z
+DTEND:20130519T190000Z
+LOCATION:&#34;Water Park&#34;\, Thessaloniki\, Greece
+SUMMARY:WhyNot:: Back to school
+DESCRIPTION:it is going to be a two day event organized out in park and de
+ dicated to learning. There are going to be a lot of different and interest
+ ing talks and sessions
+URL:https://reps.mozilla.org/e/whynot-back-to-school/
+SEQUENCE:1
+X-COORDINATES-LAT:40.6059052925
+X-COORDINATES-LON:22.9504823685
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

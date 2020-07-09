@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7341
+CLASS:PUBLIC
+DTSTAMP:20200423T100403Z
+DTSTART:20180127T040000Z
+DTEND:20180127T103000Z
+LOCATION:Hitam College\, Gowdavelly\, Medchal\, Hyderabad\, Telangana 5024
+ 01\, Hyderabad\, India
+SUMMARY:Firefox Add-ons Workshop at HITAM College
+DESCRIPTION:This event is a full-day workshop on contribution towards Mozi
+ lla through Add-ons.\nOpen Invitation. first come\, first reserved.
+URL:https://reps.mozilla.org/e/firefox-add-ons-workshop-at-hitam-college/
+SEQUENCE:2
+X-COORDINATES-LAT:17.595517
+X-COORDINATES-LON:78.452948
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

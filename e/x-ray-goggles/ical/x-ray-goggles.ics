@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4919
+CLASS:PUBLIC
+DTSTAMP:20200423T160056Z
+DTSTART:20151223T081000Z
+DTEND:20151223T093000Z
+LOCATION:Urumqi tenth primary school\, urumqi\, China
+SUMMARY:X-ray Goggles
+DESCRIPTION:Experience the feeling of hack\n\nDescription\nThe children le
+ arn to install goggles\, understand which part of the web can be edited. U
+ nderstand the meaning of the code.
+URL:https://reps.mozilla.org/e/x-ray-goggles/
+SEQUENCE:1
+X-COORDINATES-LAT:43.7704688585
+X-COORDINATES-LON:2607.62597751
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

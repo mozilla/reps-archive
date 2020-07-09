@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8719
+CLASS:PUBLIC
+DTSTAMP:20200407T181213Z
+DTSTART:20190817T043000Z
+DTEND:20190817T093000Z
+LOCATION:CLOwork \, 4th Floor\, New Mark House\, Opp. to MaxCure Hospital\
+ , Hi-Tech City\, Hyderabad\, India
+SUMMARY:WebThings - What? Why? How?
+DESCRIPTION:The Web of Things connects real-world objects to the World Wid
+ e Web.\n\nThe idea of the Web of Things is to create a decentralized Inter
+ net of Things by giving things URLs on the web to make them linkable and d
+ iscoverable\, and defining a standard data model and APIs to make them int
+ eroperable.\n\nThe Web of Things is intended as a unifying application lay
+ er for the Internet of Things (IoT)\, linking together multiple underlying
+  IoT protocols using existing web technologies.
+URL:https://reps.mozilla.org/e/webthings-what-why-how/
+SEQUENCE:3
+X-COORDINATES-LAT:19.0162353
+X-COORDINATES-LON:77.7461093
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

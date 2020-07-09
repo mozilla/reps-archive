@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5965
+CLASS:PUBLIC
+DTSTAMP:20200423T114631Z
+DTSTART:20161113T100000Z
+DTEND:20161113T140000Z
+LOCATION:CETPA Infotech Pvt. Ltd\, 401 A\, 4th Floor\, Lekhraj Khazana\, F
+ aizabad Road\, India
+SUMMARY:MozActivate@Lucknow
+DESCRIPTION:We are organizing Activate Mozilla Community Campaign to focus
+  on four initiatives taken by Mozilla. It will supports the organizational
+  goals by enthusing someone on how he/she can start participating on the w
+ eb and build web a better place to live.
+URL:https://reps.mozilla.org/e/mozactivate-lucknow/
+SEQUENCE:4
+X-COORDINATES-LAT:27.8576945796
+X-COORDINATES-LON:79.9017331749
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

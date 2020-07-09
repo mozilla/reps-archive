@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2502
+CLASS:PUBLIC
+DTSTAMP:20200423T192957Z
+DTSTART:20140703T091000Z
+DTEND:20140703T093000Z
+LOCATION:日月潭教師會館\, 水社村\, Taiwan
+SUMMARY:Webmaker on TPET6 - Taiwan Plurker on Education &amp; Technology
+DESCRIPTION:Irvin will give a 20min intro on Webmaker project for 100 teac
+ hers from all around Taiwan.
+URL:https://reps.mozilla.org/e/webmaker-on-tpet6-taiwan-plurker-on-educati
+ on-technology/
+SEQUENCE:3
+X-COORDINATES-LAT:23.8526872527
+X-COORDINATES-LON:120.913890124
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

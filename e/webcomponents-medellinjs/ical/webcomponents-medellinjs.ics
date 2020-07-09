@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3790
+CLASS:PUBLIC
+DTSTAMP:20200423T172215Z
+DTSTART:20150520T230000Z
+DTEND:20150521T020000Z
+LOCATION:Ruta N\, Medellin\, Colombia
+SUMMARY:Webcomponents the future - MedellinJS
+DESCRIPTION:We are going to talk about Webcomponent and how they are going
+  to change the web is moving. A lot of people has some interest to work on
+  Webcomponents and it&#39;s the moment to talk about X-tag\, the incredible im
+ plementation by Mozilla of Webcomponents.
+URL:https://reps.mozilla.org/e/webcomponents-medellinjs/
+SEQUENCE:4
+X-COORDINATES-LAT:6.24292232378
+X-COORDINATES-LON:-75.5697898893
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

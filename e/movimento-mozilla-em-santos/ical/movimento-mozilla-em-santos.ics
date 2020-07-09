@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5615
+CLASS:PUBLIC
+DTSTAMP:20200407T174938Z
+DTSTART:20160805T120000Z
+DTEND:20160806T010000Z
+LOCATION:Av. Bartolomeu de Gusmão\, 110 - Fatec Rubens Lara - Baixada San
+ tista\, Santos\, Brazil
+SUMMARY:Movimento Mozilla na Fatec Rubens Lara - Baixada Santista
+DESCRIPTION:Movimento Mozilla is a regional action aimed at the clarificat
+ ion of Baixada Santista general community about free software\, open web a
+ nd how Mozilla works to keep these ideals relevant and increasingly presen
+ t in day-to-day for all technology users. Movimento Mozilla is a series of
+  different events that will occur in various places at Baixada Santista. I
+ t shows the organizers&#39; commitment of reach the maximum possible audience 
+ during the project lifetime\, with diverse content and quality.
+URL:https://reps.mozilla.org/e/movimento-mozilla-em-santos/
+SEQUENCE:12
+X-COORDINATES-LAT:-23.9800974087
+X-COORDINATES-LON:-46.3102608921
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

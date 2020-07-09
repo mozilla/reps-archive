@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4920
+CLASS:PUBLIC
+DTSTAMP:20200423T160033Z
+DTSTART:20151224T080000Z
+DTEND:20151224T092000Z
+LOCATION:Xinjiang Education Institute Shiyan Primary School\, urumqi\, Chi
+ na
+SUMMARY:Understanding thimble
+DESCRIPTION:After several attempts\, we plan to use thimble package downlo
+ ad\, the Web page as a whole package\, so that students experience\, what 
+ is html. If the use of thimble to create something with a distinctive pers
+ onal touch works
+URL:https://reps.mozilla.org/e/lesson-8-x-ray-goggles/
+SEQUENCE:2
+X-COORDINATES-LAT:43.801299726
+X-COORDINATES-LON:2607.61482167
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

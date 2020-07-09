@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1497
+CLASS:PUBLIC
+DTSTAMP:20200423T205312Z
+DTSTART:20131109T090000Z
+DTEND:20131109T120000Z
+LOCATION:Krispy Kreme Ayala Avenue\, Makati City\, Philippines
+SUMMARY:Mozilla Summit PHL Debriefing &amp; Cascading
+DESCRIPTION:~ Debriefing for Pinoy Mozillians who attended the Mozilla Sum
+ mit in Santa Clara\, California last Oct 2013.\n\n~ Cascading of Mozilla S
+ ummit points to the core members of MozillaPH\n\n~ Get-together to celebra
+ te the 9th birthday of Firefox (since the release of v1.0)
+URL:https://reps.mozilla.org/e/mozilla-summit-phl-debriefing-cascading/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5575404996
+X-COORDINATES-LON:121.019342422
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

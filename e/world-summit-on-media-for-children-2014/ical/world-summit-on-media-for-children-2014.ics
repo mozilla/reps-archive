@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2315
+CLASS:PUBLIC
+DTSTAMP:20200407T182609Z
+DTSTART:20140908T010000Z
+DTEND:20140910T090000Z
+LOCATION:The Royale Chulan Hotel\, Kuala Lumpur\, Malaysia
+SUMMARY:World Summit on Media for Children 2014
+DESCRIPTION:Global summit on media in the development\, education and well
+ being of children\, and will be organized for the first time in Asia.
+URL:https://reps.mozilla.org/e/world-summit-on-media-for-children-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:3.14950895008
+X-COORDINATES-LON:101.717083275
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

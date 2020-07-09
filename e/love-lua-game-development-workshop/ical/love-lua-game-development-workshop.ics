@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7967
+CLASS:PUBLIC
+DTSTAMP:20200423T091539Z
+DTSTART:20180721T033000Z
+DTEND:20180721T110000Z
+LOCATION:Alpha college of engineering\, Ahmedabad\, India
+SUMMARY:Love + Lua Game development workshop
+DESCRIPTION:Lua is a powerful\, efficient\, lightweight\, embedded scripti
+ ng language. It supports procedural programming\, object-oriented programm
+ ing\, functional programming\, data-driven programming\, and data descript
+ ion.
+URL:https://reps.mozilla.org/e/love-lua-game-development-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:23.0924780654
+X-COORDINATES-LON:72.441613198
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

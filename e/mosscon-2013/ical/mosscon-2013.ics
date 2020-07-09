@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@600
+CLASS:PUBLIC
+DTSTAMP:20200407T165844Z
+DTSTART:20130518T130000Z
+DTEND:20130519T220000Z
+LOCATION:University of Louisville\, Louisville\, United States
+SUMMARY:MOSSCon 2013
+DESCRIPTION:MOSSCon (Midwest Open Source Software Conference) is the first
+  conference about Free and Open Source Software to be held in Louisville\,
+  Kentucky.
+URL:https://reps.mozilla.org/e/mosscon-2013/
+SEQUENCE:9
+X-COORDINATES-LAT:38.2177672874
+X-COORDINATES-LON:-85.7553988695
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

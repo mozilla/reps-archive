@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@640
+CLASS:PUBLIC
+DTSTAMP:20200423T220017Z
+DTSTART:20130323T080000Z
+DTEND:20130323T140000Z
+LOCATION:Softvision \, Iași\, Romania
+SUMMARY:SOFTVISION Open Day 
+DESCRIPTION:SOFTVISION Open Day - I will be present at this event talking 
+ about the high profile and ambitious projects that Mozilla has (Firefox OS
+ ). Moreover\, there will be a Mozilla booth at the event where we’ll ans
+ wer questions regarding Mozilla projects\, community and how anyone can co
+ ntribute to develop our initiatives.
+URL:https://reps.mozilla.org/e/softvision-open-day/
+SEQUENCE:0
+X-COORDINATES-LAT:47.1600880469
+X-COORDINATES-LON:27.5958967209
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

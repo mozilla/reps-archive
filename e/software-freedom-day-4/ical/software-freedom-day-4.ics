@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8142
+CLASS:PUBLIC
+DTSTAMP:20200407T174125Z
+DTSTART:20180915T033000Z
+DTEND:20180916T103000Z
+LOCATION:Panjab University\, Chandigarh\, Chandigarh\, India
+SUMMARY:Software Freedom Day
+DESCRIPTION:SFD is a global event to spread awareness about Free Software 
+ and bring more contributors on-board.
+URL:https://reps.mozilla.org/e/software-freedom-day-4/
+SEQUENCE:1
+X-COORDINATES-LAT:30.753463579
+X-COORDINATES-LON:76.7581243522
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

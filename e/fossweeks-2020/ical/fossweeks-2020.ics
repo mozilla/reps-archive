@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9169
+CLASS:PUBLIC
+DTSTAMP:20200407T165007Z
+DTSTART:20200331T183000Z
+DTEND:20200529T183000Z
+LOCATION:Chennai\, Chennai\, India
+SUMMARY:FOSSWeeks 2020
+DESCRIPTION:FOSSWeeks is a webinar series initiated by MozillaTN\, in an e
+ ffort to boost FOSS (free &amp; open-source software) contribution in the Tami
+ lnadu community in India.\n\nIn this webinar series\, We invite Subject Ma
+ tter Experts(SME) &amp; Longtime contributors from Mozilla and various other F
+ OSS organizations to teach you How-to start contributing to different open
+  source projects.
+URL:https://reps.mozilla.org/e/fossweeks-2020/
+SEQUENCE:0
+X-COORDINATES-LAT:13.0393451
+X-COORDINATES-LON:80.3114318848
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

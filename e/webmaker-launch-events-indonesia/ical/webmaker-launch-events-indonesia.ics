@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4178
+CLASS:PUBLIC
+DTSTAMP:20200407T165626Z
+DTSTART:20150815T110000Z
+DTEND:20150815T150000Z
+LOCATION:N/A\, Jakarta\, Indonesia
+SUMMARY:Webmaker launch events - Indonesia
+DESCRIPTION:The Webmaker team and the Participation team will be organizin
+ g a series of interactive events to celebrate the official launch of the W
+ ebmaker app\, across 5 major cities in Indonesia: Jakarta\, Bandung\, Sura
+ baya\, Semarang\, Makassar\n\nThis event is currently being planned - expe
+ ct updates soon...
+URL:https://reps.mozilla.org/e/webmaker-launch-events-indonesia/
+SEQUENCE:3
+X-COORDINATES-LAT:-6.22021182339
+X-COORDINATES-LON:106.836221572
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

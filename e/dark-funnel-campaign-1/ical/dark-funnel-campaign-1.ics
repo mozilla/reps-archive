@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8118
+CLASS:PUBLIC
+DTSTAMP:20200407T180043Z
+DTSTART:20180922T080000Z
+DTEND:20180923T080000Z
+LOCATION:Oliver Cafe Ibadan\, Ibadan\, Nigeria
+SUMMARY:Dark Funnel Campaign Ibadan
+DESCRIPTION:Understanding the dark funnel is one of Firefox&#39;s most importa
+ nt goals this year. By participating in this campaign you’ll be helping 
+ Mozilla shine light on unknown download sources. Every site reported by a 
+ community member will get us one step closer to our goal of understanding 
+ the entire dark funnel\, which in turn helps us keep all Firefox users saf
+ e.
+URL:https://reps.mozilla.org/e/dark-funnel-campaign-1/
+SEQUENCE:7
+X-COORDINATES-LAT:7.36587177414
+X-COORDINATES-LON:4.14768218994
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

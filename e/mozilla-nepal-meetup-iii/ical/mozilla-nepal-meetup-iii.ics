@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1397
+CLASS:PUBLIC
+DTSTAMP:20200423T205349Z
+DTSTART:20131108T191500Z
+DTEND:20131109T131500Z
+LOCATION:SAP Falca\, Babarmahal\, Kathmandu\, Nepal
+SUMMARY:Mozilla Nepal Meetup-III
+DESCRIPTION:First two meetups were mainly as introduction about Mozilla an
+ d Mozilla Nepal Community to the public.\n\nNow this time we are working f
+ or this meetup as an excuse to gather more core contributors and dedicated
+  volunteers for the community.\n\nSomething as a meeting with all direct/i
+ ndirect contributors and FSAs and work on our plans for the future taking 
+ suggestions and comments from the attendees.\n\nAlso\, we plan to let the 
+ attendees take related sessions if interested.
+URL:https://reps.mozilla.org/e/mozilla-nepal-meetup-iii/
+SEQUENCE:6
+X-COORDINATES-LAT:27.6895893471
+X-COORDINATES-LON:85.3298610449
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

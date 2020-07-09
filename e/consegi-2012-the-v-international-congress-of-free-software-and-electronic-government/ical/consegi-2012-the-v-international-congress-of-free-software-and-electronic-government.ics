@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@316
+CLASS:PUBLIC
+DTSTAMP:20200423T224057Z
+DTSTART:20121203T160000Z
+DTEND:20121207T160000Z
+LOCATION:Belém do Pará\, Belém\, Brazil
+SUMMARY:CONSEGI 2012 - The V International Congress of Free Software and E
+ lectronic Government 
+DESCRIPTION:The event will be at the same time and at the same premises of
+  Serpro Congress of Technology and Management applied for Public Services 
+ (ConSerpro). For the first time CONSEGI will be out of the Brasília and w
+ ill be held December\, 3-7 at Belém\, North of Brazil. The event is promo
+ ted by Federal Service of Data Processing.\nCONSEGI already gained notorie
+ ty as an important forum of governments\, academy and civil society.
+URL:https://reps.mozilla.org/e/consegi-2012-the-v-international-congress-o
+ f-free-software-and-electronic-government/
+SEQUENCE:0
+X-COORDINATES-LAT:-1.43356622267
+X-COORDINATES-LON:-48.4689331055
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

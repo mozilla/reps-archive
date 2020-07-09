@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3838
+CLASS:PUBLIC
+DTSTAMP:20200423T172659Z
+DTSTART:20150507T020000Z
+DTEND:20150509T110000Z
+LOCATION:Balairung Universitas Indonesia\, Depok\, Indonesia
+SUMMARY:GNOME Asia Summit 2015
+DESCRIPTION:GNOME.Asia Summit is an annual conference for GNOME users and 
+ developers in Asia. It brings together not only the GNOME community in Asi
+ a but also everyone that interested or involved in Free and Open Source So
+ ftware activities to provide a forum for users\, developers\, foundation l
+ eaders\, governments and businesses to discuss both the present technologi
+ es and future developments.
+URL:https://reps.mozilla.org/e/gnome-asia-summit-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.36810995636
+X-COORDINATES-LON:106.829698831
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

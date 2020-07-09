@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4577
+CLASS:PUBLIC
+DTSTAMP:20200407T174235Z
+DTSTART:20151017T033000Z
+DTEND:20151017T103000Z
+LOCATION:Hyderabad\, Hyderabad\, India
+SUMMARY:Securing Web @JBIET
+DESCRIPTION:&#34;Securing The Web&#34; is one-day workshop aimed to bring awarenes
+ s around various threats possessed by a web application and help to build 
+ secure web applications. This Workshop will be hosted at J.B Institute of 
+ Engineering and Technology.
+URL:https://reps.mozilla.org/e/securing-web-jbiet/
+SEQUENCE:3
+X-COORDINATES-LAT:17.3216584
+X-COORDINATES-LON:78.5603958
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

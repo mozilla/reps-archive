@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3621
+CLASS:PUBLIC
+DTSTAMP:20200423T172933Z
+DTSTART:20150425T080000Z
+DTEND:20150425T150000Z
+LOCATION:Universidad Politecnica (UPOLI)\, Managua\, Nicaragua
+SUMMARY:FLISOL 2015 Nicaragua
+DESCRIPTION:The FLISOL (FLISoL) is the largest in Latin America broadcast 
+ event free software. Conducted since 2005 and since 2008 its performance S
+ aturday 4th April each year was adopted.\n\nMozilla Nicaragua will establi
+ sh a stand\, to serve the public. and will offer a series of three talks o
+ n topics related to free web and application development firefox os.\n\nMo
+ zilla Nicaragua this year will be organizing the event this year.
+URL:https://reps.mozilla.org/e/flisol-2015/
+SEQUENCE:13
+X-COORDINATES-LAT:12.1375882024
+X-COORDINATES-LON:-86.2202543022
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@156
+CLASS:PUBLIC
+DTSTAMP:20200423T225817Z
+DTSTART:20120927T060000Z
+DTEND:20120927T110000Z
+LOCATION:Khulna University\, Khulna\, Bangladesh
+SUMMARY:Open Day in Khulna
+DESCRIPTION:The first ever event outside of the Captical City of Banglades
+ h. Its a all Open source based lightening talks and project showcasing. Ar
+ ranged by Khulna University (ku.ac.bd). And they invited us (Mozilla Bangl
+ adesh) to present. I shall attend with another ReMo from Dhaka. We will do
+  a booth too. We have booth table cover and Firefox Stand banner.
+URL:https://reps.mozilla.org/e/open-day-in-khulna/
+SEQUENCE:0
+X-COORDINATES-LAT:22.8223506929
+X-COORDINATES-LON:89.5531654358
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

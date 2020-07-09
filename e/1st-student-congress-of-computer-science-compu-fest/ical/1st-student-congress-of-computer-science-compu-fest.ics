@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2242
+CLASS:PUBLIC
+DTSTAMP:20200423T195408Z
+DTSTART:20140506T190000Z
+DTEND:20140507T230000Z
+LOCATION:Facultad de Ciencias de la Computacion\, José María Pino Suáre
+ z\, Mexico
+SUMMARY:1st Student Congress of Computer Science\, Compu_Fest
+DESCRIPTION:Congress for the dissemination and expansion of knowledge in C
+ omputer Science at the Faculty of Sciences of the UNAM.\n\nInform the scie
+ ntific community and interested Responsible for Computer Science in Mexico
+  about the new trends that the industry and academia estaán done in this 
+ important area of knowledge worldwide.
+URL:https://reps.mozilla.org/e/1st-student-congress-of-computer-science-co
+ mpu-fest/
+SEQUENCE:1
+X-COORDINATES-LAT:19.40712055
+X-COORDINATES-LON:-99.1793596749
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4397
+CLASS:PUBLIC
+DTSTAMP:20200407T174609Z
+DTSTART:20150828T183000Z
+DTEND:20150829T153000Z
+LOCATION:Kristu Jyoti College of Management and Technology\, Kurisummoodu 
+ P.O.\, Changanacherry\, Kottayam\, Kerala 686104\, kottayam\, India
+SUMMARY:Introduction to open souce community
+DESCRIPTION:Contributing to an open-source project like Mozilla and DuckDu
+ ckGo is a fun and fulfilling experience
+URL:https://reps.mozilla.org/e/introduction-to-open-souce-community/
+SEQUENCE:0
+X-COORDINATES-LAT:9.43957908943
+X-COORDINATES-LON:76.5005493164
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

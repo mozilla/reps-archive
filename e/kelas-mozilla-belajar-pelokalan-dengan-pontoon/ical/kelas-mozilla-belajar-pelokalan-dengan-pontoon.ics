@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8522
+CLASS:PUBLIC
+DTSTAMP:20200423T083325Z
+DTSTART:20190414T070000Z
+DTEND:20190414T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Kelas Mozilla - Belajar Pelokalan dengan Pontoon
+DESCRIPTION:This is a localization meetup which facilitates people that wa
+ nt do non-technical contribution for Mozilla.
+URL:https://reps.mozilla.org/e/kelas-mozilla-belajar-pelokalan-dengan-pont
+ oon/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23495357068
+X-COORDINATES-LON:106.821066856
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

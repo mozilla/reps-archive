@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6756
+CLASS:PUBLIC
+DTSTAMP:20200423T105412Z
+DTSTART:20170715T160000Z
+DTEND:20170715T180000Z
+LOCATION:Via Alghero\, 13\, Cagliari\, Italy
+SUMMARY:The #COPY-FIGHT starts from Cagliari
+DESCRIPTION:The European Parliament is working to approve a new\, regressi
+ ve and dangerous copyright reform that will destroy our freedom to express
+  and share new ideas\, learn new things\, create and innovate.\n We muster
+  artists\, creatives\, innovators\, researchers\, educators\, Web lovers a
+ nd explorers.\nEveryone will get the chance to learn\, manifest her/his cr
+ eativity and connect with like-minded people.\n\nWe want you\, many and fu
+ ll of creative energies!\n\nWelcome to the #COPY-FIGHT
+URL:https://reps.mozilla.org/e/the-copy-fight-starts-from-cagliari/
+SEQUENCE:5
+X-COORDINATES-LAT:39.2181236356
+X-COORDINATES-LON:9.12101608514
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

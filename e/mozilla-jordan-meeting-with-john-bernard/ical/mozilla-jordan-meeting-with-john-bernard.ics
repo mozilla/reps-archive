@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5062
+CLASS:PUBLIC
+DTSTAMP:20200423T154947Z
+DTSTART:20160210T130000Z
+DTEND:20160210T170000Z
+LOCATION:Zamzam Hotel - Amman\, Amman\, Jordan
+SUMMARY:mozilla jordan meeting with john bernard
+DESCRIPTION:John Bernard will be in Jordan and he ask for a meeting with J
+ ordanian Mozillians \, we will take about firefox os \, connected devices 
+ and mozilla jordan in future And to enrich our experience with connected d
+ evises. this is a good chance to meet someone like john .
+URL:https://reps.mozilla.org/e/mozilla-jordan-meeting-with-john-bernard/
+SEQUENCE:2
+X-COORDINATES-LAT:31.923804102
+X-COORDINATES-LON:35.8749388531
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

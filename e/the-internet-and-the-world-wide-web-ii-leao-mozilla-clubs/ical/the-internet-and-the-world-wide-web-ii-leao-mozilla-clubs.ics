@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6356
+CLASS:PUBLIC
+DTSTAMP:20200423T112012Z
+DTSTART:20170329T133000Z
+DTEND:20170329T180000Z
+LOCATION:Centro de Artes e Esportes Unificados - CEU\, Campinas\, Brazil
+SUMMARY:The Internet and the World Wide Web III @Leão Mozilla Clubs
+DESCRIPTION:The Internet can connect you to people\, information\, and res
+ ources around the world. This course shows you how to connect to the Inter
+ net\, browse Web pages\, navigate Web sites\, use search engines\, and exc
+ hange e-mail with others.
+URL:https://reps.mozilla.org/e/the-internet-and-the-world-wide-web-ii-leao
+ -mozilla-clubs/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.9
+X-COORDINATES-LON:-47.0833
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

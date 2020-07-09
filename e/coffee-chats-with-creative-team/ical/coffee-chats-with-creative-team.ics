@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3691
+CLASS:PUBLIC
+DTSTAMP:20200407T175313Z
+DTSTART:20150329T050000Z
+DTEND:20150329T063000Z
+LOCATION:Mozilla Community Space\, Bengaluru\, Bangalore\, India
+SUMMARY:Coffee chats with Creative Team
+DESCRIPTION:A community interaction session with Creative Team of Mozilla 
+ India. Mozillians can ask to the team anything and everything about the Cr
+ etive. Collecting input from mozillians and aligning with Creative Team&#39;s 
+ goals is one of the primary goals.
+URL:https://reps.mozilla.org/e/coffee-chats-with-creative-team/
+SEQUENCE:2
+X-COORDINATES-LAT:12.9789083541
+X-COORDINATES-LON:77.5919575989
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

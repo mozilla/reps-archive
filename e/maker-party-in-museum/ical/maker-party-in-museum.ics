@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5898
+CLASS:PUBLIC
+DTSTAMP:20200407T174834Z
+DTSTART:20161015T120000Z
+DTEND:20161015T153000Z
+LOCATION:Maistrova 3\, Ljubljana\, Slovenia\, Ljubljana\, Slovenia
+SUMMARY:Maker Party in Museum
+DESCRIPTION:We want to make another event like we used to - teach people w
+ ith new skills. There have been almost two years from the last Webmaker ev
+ ent and it is time to speak again. Building a web is not a hard think\, it
+  can be fun. \n\nAgenda:\n    14:00-14:10: Welcome talk\n    14:10-14:30: 
+ Intro to the Copyright reform\n    14:30-16:30: Intro to the web (HTTP\, H
+ TML\, CSS)\n    16:30-17:00: Teaching activities - madewithcode\n    17:00
+ -17:30: Final talk and Thank you
+URL:https://reps.mozilla.org/e/maker-party-in-museum/
+SEQUENCE:6
+X-COORDINATES-LAT:46.0560305714
+X-COORDINATES-LON:14.5171163676
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

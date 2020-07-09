@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@971
+CLASS:PUBLIC
+DTSTAMP:20200407T180225Z
+DTSTART:20130614T170000Z
+DTEND:20130616T160000Z
+LOCATION:Mozilla Paris space\, Paris\, France
+SUMMARY:Summit Planning Assembly
+DESCRIPTION:The Mozilla Summit Planning Assembly is a gathering of global 
+ delegates nominated to represent their regional and functional areas to la
+ y the groundwork that is necessary for the successful execution of the Sum
+ mit in October. The Assembly will take place over the course of a weekend 
+ in our newly opened Paris office and be attended by both regional communit
+ y representatives as well as Mozilla staff.
+URL:https://reps.mozilla.org/e/summit-planning-assembly/
+SEQUENCE:2
+X-COORDINATES-LAT:48.871801
+X-COORDINATES-LON:2.341306
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

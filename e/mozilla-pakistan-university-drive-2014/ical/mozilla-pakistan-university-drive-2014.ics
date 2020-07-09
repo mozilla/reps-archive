@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2983
+CLASS:PUBLIC
+DTSTAMP:20200407T182923Z
+DTSTART:20141124T070000Z
+DTEND:20141224T070000Z
+LOCATION:multiple locations\, Lahore\, Pakistan
+SUMMARY:Mozilla Pakistan - University Drive 2014
+DESCRIPTION:A month-long university (recruitment) drive in which we will b
+ e visiting different universities in the city of Lahore\, Pakistan\, and s
+ etting up Firefox Clubs there. The sessions will be introductory and most 
+ specifically related to the activities that Firefox Student Ambassadors ge
+ t involved in. This will help build the Mozilla community in Pakistan.
+URL:https://reps.mozilla.org/e/mozilla-pakistan-university-drive-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:31.5454592345
+X-COORDINATES-LON:74.3426511437
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

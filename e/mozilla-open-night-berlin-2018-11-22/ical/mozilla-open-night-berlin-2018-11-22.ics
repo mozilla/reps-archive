@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8259
+CLASS:PUBLIC
+DTSTAMP:20200423T085049Z
+DTSTART:20181122T180000Z
+DTEND:20181122T210000Z
+LOCATION:Mozilla Berlin\, Gebäude 3\, 3. Obergeschoss\, Schlesische Stra
+ ße 27\, Berlin\, Germany\, Berlin\, Germany
+SUMMARY:Mozilla Open Night Berlin - 2018-11-22
+DESCRIPTION:Come and join us for the Open Mozilla Night. This meetup focus
+ es on getting you started for your first contribution to any Mozilla proje
+ ct of your choice and gives you a space to continue your contributions amo
+ ng other Mozillians.
+URL:https://reps.mozilla.org/e/mozilla-open-night-berlin-2018-11-22/
+SEQUENCE:1
+X-COORDINATES-LAT:52.4994373201
+X-COORDINATES-LON:13.4493370054
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

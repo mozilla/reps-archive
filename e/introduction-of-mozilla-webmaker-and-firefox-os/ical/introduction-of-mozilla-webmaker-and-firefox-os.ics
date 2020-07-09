@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@900
+CLASS:PUBLIC
+DTSTAMP:20200423T213806Z
+DTSTART:20130601T063000Z
+DTEND:20130601T094500Z
+LOCATION:TBD\, Hong Kong\, Hong Kong
+SUMMARY:Introduction of Mozilla WebMaker and Firefox OS
+DESCRIPTION:It is a session at Open Source Workshop #14 (June 2013) which 
+ is co-organized by Mozilla Hong Kong Community\, Hong Kong Linux User Grou
+ p and Open Source Hong Kong.\n\nI will introduce Mozilla Webmaker and Fire
+ fox OS\, and other speakers will talk about open source news and KVM Virtu
+ alisation. Open discussion and hacking session will be started after above
+  talks. Cantonese is main language used in this event except English speak
+ ers if any.\n\nDetails and RSVP at http://registrano.com/events/01332d
+URL:https://reps.mozilla.org/e/introduction-of-mozilla-webmaker-and-firefo
+ x-os/
+SEQUENCE:1
+X-COORDINATES-LAT:22.3352899583
+X-COORDINATES-LON:114.174041748
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

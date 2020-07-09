@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2106
+CLASS:PUBLIC
+DTSTAMP:20200423T195749Z
+DTSTART:20140426T140000Z
+DTEND:20140426T220000Z
+LOCATION:TBD\, Managua\, Nicaragua
+SUMMARY:Flisol Nicaragua 2014
+DESCRIPTION:The Latin American Festival of Free Software Installation (FLI
+ SoL) event is the dissemination of Free Software in Latin America&#39;s larges
+ t. In Nicaragua the event will be in the Centroamericana University at Apr
+ il 26th\, 2014. From: 8:00 am to 04:00 pm. Mozilla Nicaragua will have an 
+ stand\, a conference about firefox os and webbaps and a firefox os applica
+ tion development from linux workshop.
+URL:https://reps.mozilla.org/e/flisol-nicaragua-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:12.1255561756
+X-COORDINATES-LON:-86.2711687088
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

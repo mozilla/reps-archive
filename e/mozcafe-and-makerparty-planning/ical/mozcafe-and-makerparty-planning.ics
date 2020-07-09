@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2752
+CLASS:PUBLIC
+DTSTAMP:20200423T190930Z
+DTSTART:20140829T103000Z
+DTEND:20140829T143000Z
+LOCATION:CCD-Velachery\, Chennai\, India
+SUMMARY:MozCafe and Makerparty Planning
+DESCRIPTION:A timely meeting to recruit new mozillians and help existing F
+ SA&#39;s to contribute in a better way and get recognized for their contributi
+ ons.\nPlan for #MakerpartyChennai\, Chennai&#39;s biggest Makerparty which is 
+ scheduled for the 13th and 14th of September.
+URL:https://reps.mozilla.org/e/mozcafe-and-makerparty-planning/
+SEQUENCE:3
+X-COORDINATES-LAT:13.0533924537
+X-COORDINATES-LON:80.2465438843
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

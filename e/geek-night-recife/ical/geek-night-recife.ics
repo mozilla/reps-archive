@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4848
+CLASS:PUBLIC
+DTSTAMP:20200423T161109Z
+DTSTART:20151125T220000Z
+DTEND:20151126T000000Z
+LOCATION:JUMP Brasil\, Recife\, Pernambuco\, Brasil\, Recife\, Brazil
+SUMMARY:Geek Night Recife
+DESCRIPTION:Geek Night is an informal monthly meeting where we choose and 
+ discuss about a tech topic we find interesting. The objective is to be a d
+ emocratic space hosting talks\, activities and forums with all types of su
+ bjects related to geek universe and software development.
+URL:https://reps.mozilla.org/e/geek-night-recife/
+SEQUENCE:1
+X-COORDINATES-LAT:-8.19336686891
+X-COORDINATES-LON:-34.9921873212
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

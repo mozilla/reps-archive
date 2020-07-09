@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5981
+CLASS:PUBLIC
+DTSTAMP:20200423T115536Z
+DTSTART:20161008T040000Z
+DTEND:20161008T103000Z
+LOCATION:Varendra University\, Rajshahi\, Bangladesh
+SUMMARY:Mozilla QA Contributor Mentoring Day @ Varendra University
+DESCRIPTION:To promote participation opportunity in QA and mobilize more p
+ eople towards MozActivate\, It would be a day long event in Varendra Unive
+ rsity. The primary goal would be help them get started with QA and introdu
+ ce them with features of Firefox Test Pilot.
+URL:https://reps.mozilla.org/e/mozilla-qa-contributor-mentoring-day-varend
+ ra-university/
+SEQUENCE:1
+X-COORDINATES-LAT:24.5609669302
+X-COORDINATES-LON:88.9271610898
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

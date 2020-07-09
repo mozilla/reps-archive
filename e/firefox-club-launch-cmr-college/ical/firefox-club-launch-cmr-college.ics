@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3245
+CLASS:PUBLIC
+DTSTAMP:20200423T180537Z
+DTSTART:20150124T033000Z
+DTEND:20150124T113000Z
+LOCATION:CMR College of Engineering\, Hyderabad\, India
+SUMMARY:Firefox Club Launch @CMR College
+DESCRIPTION:Helping out a club lead in Inaugurating a Firefox Club at a co
+ llege and Training Students about Firefox OS App Development.
+URL:https://reps.mozilla.org/e/firefox-club-launch-cmr-college/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4501507078
+X-COORDINATES-LON:78.457661
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

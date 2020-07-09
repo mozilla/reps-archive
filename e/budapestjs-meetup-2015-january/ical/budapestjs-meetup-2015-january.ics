@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3308
+CLASS:PUBLIC
+DTSTAMP:20200423T180357Z
+DTSTART:20150128T180000Z
+DTEND:20150128T200000Z
+LOCATION:TBD\, Budapest\, Hungary
+SUMMARY:BudapestJS Meetup 2015 January
+DESCRIPTION:Giving a talk at the first meetup of the reboot of Budapest JS
+  Meetups\, about the evolution of JavaScript and introducing Firefox OS &amp; 
+ Project Gonzo (by Telenor Digital)
+URL:https://reps.mozilla.org/e/budapestjs-meetup-2015-january/
+SEQUENCE:2
+X-COORDINATES-LAT:47.4751380324
+X-COORDINATES-LON:19.0927737951
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

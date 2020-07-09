@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5715
+CLASS:PUBLIC
+DTSTAMP:20200423T150208Z
+DTSTART:20160826T000000Z
+DTEND:20160828T090000Z
+LOCATION:International University of Malaya-Wales\, Ground Floor\, Block A
+ \, City Campus\, Jalan Tun Ismail\, 50480\, Kuala Lumpur\, Malaysia
+SUMMARY:PyCon Malaysia 2016
+DESCRIPTION:PyCons are conferences about Python usually done by grassroots
+  volunteers within a certain geographic area. PyCon started first in the U
+ nited States in 2003 in Washington D.C\, and have grown worldwide and done
+  yearly in many regions and countries like Europe\, Japan\, Australia\, Si
+ ngapore\, China South Korea\, India and Malaysia. Malaysia had it’s firs
+ t mini PyCon in 2014\, and in 2015 we had our first major PyCon MY.
+URL:https://reps.mozilla.org/e/pycon-malaysia-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:4.00947992642
+X-COORDINATES-LON:102.130279541
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

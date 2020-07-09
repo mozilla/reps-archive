@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5477
+CLASS:PUBLIC
+DTSTAMP:20200407T170249Z
+DTSTART:20160729T100000Z
+DTEND:20160729T140000Z
+LOCATION:Galesia Hotel &amp; Restaurant\, Banani Model Town\, Bangladesh
+SUMMARY:MozillaBD second Mid-term planning 2016
+DESCRIPTION:This is the second community meetup of year 2016. This is the 
+ great opportunity to meet all the community members as well as anyone inte
+ rested to discuss\, plan share the ideas for the second half of the year. 
+ We had our first Mid-Term planning at the very beginning of the year\, we 
+ will be assessing the previous initiatives and will plan for the next 6 mo
+ nths as well on this one.
+URL:https://reps.mozilla.org/e/mozillabd-second-mid-term-planning-2016/
+SEQUENCE:6
+X-COORDINATES-LAT:23.8139042215
+X-COORDINATES-LON:90.4163246148
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

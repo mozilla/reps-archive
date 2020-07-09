@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3864
+CLASS:PUBLIC
+DTSTAMP:20200407T174822Z
+DTSTART:20150612T130000Z
+DTEND:20150614T230000Z
+LOCATION:Universidad industrial de santander\, Bucaramanga\, Colombia
+SUMMARY:Webmaker meetup Bucaramanga
+DESCRIPTION:Mozilla Colombia Community will be hosting this event with stu
+ dents and professors on the 5  June 2015. This event is a 1-day session fo
+ r developing new mentor and providing teaching skills working with Webmake
+ r tools especially those who are passionate to teach and also to educate o
+ ther people about the Web! \n\nTopics: \n\nCreate a webmaker club in the u
+ niversity\n\nFirefoxOS - Firefox Dev Version\n\nThimble\n\nPopCorn\n\nAppm
+ aker
+URL:https://reps.mozilla.org/e/webmaker-meetup-bucaramanga/
+SEQUENCE:6
+X-COORDINATES-LAT:7.13912992092
+X-COORDINATES-LON:-73.1196985248
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

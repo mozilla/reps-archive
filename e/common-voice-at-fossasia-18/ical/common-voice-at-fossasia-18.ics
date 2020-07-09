@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7507
+CLASS:PUBLIC
+DTSTAMP:20200423T095149Z
+DTSTART:20180322T090000Z
+DTEND:20180325T170000Z
+LOCATION:Life Long Learning Institute\, Paya Lebar\, Singapore
+SUMMARY:Common Voice at FOSSASIA&#39;18
+DESCRIPTION:In 2018\, one of the main goals for Common Voice is to start s
+ upporting multi-language\, as well as increase our contributions. Showing 
+ up at FOSSASIA will allow us to better reach open-source minded developers
+  in Asia
+URL:https://reps.mozilla.org/e/common-voice-at-fossasia-18/
+SEQUENCE:5
+X-COORDINATES-LAT:1.3622889676
+X-COORDINATES-LON:103.900762796
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

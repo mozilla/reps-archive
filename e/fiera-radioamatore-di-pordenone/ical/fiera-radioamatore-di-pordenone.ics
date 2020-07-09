@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2089
+CLASS:PUBLIC
+DTSTAMP:20200407T174244Z
+DTSTART:20140425T070000Z
+DTEND:20140427T160000Z
+LOCATION:Pordenone Fiere\, Pordenone\, Italy
+SUMMARY:Fiera radioamatore di Pordenone
+DESCRIPTION:This fair in Pordenone is the most important Italian fair abou
+ t low-cost electronics\, amateur radio and computers. There will be 200 ex
+ hibitors and 30000 visitors from Italy\, Slovenia and Croazia. As Mozilla 
+ there will be some talks about Firefox OS and how to join the community.
+URL:https://reps.mozilla.org/e/fiera-radioamatore-di-pordenone/
+SEQUENCE:9
+X-COORDINATES-LAT:45.9482391804
+X-COORDINATES-LON:12.6568601135
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

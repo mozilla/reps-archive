@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2991
+CLASS:PUBLIC
+DTSTAMP:20200423T183444Z
+DTSTART:20141109T063000Z
+DTEND:20141109T113000Z
+LOCATION:Barasat\, Kolkata\, India
+SUMMARY:Hack the MDN and Celebrate Firefox&#39;s 10th Anniversary
+DESCRIPTION:This is a MDN event where we engage new contributors. This is 
+ basically event for MDN glossary part. Here we will mentor them how they c
+ an start hacking in MDN glossary part realted things. After the event we w
+ ill be celebrating Firefox&#39;s 10th Anniversary .
+URL:https://reps.mozilla.org/e/hack-the-mdn-1/
+SEQUENCE:6
+X-COORDINATES-LAT:22.7203514551
+X-COORDINATES-LON:88.4989242721
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

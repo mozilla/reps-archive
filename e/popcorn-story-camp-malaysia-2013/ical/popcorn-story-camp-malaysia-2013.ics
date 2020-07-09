@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1096
+CLASS:PUBLIC
+DTSTAMP:20200407T175332Z
+DTSTART:20130915T000000Z
+DTEND:20130915T100000Z
+LOCATION:Fluent Space\, Kelana Jaya\, Malaysia
+SUMMARY:Popcorn Story Camp Malaysia 2013 [POSTPONE]
+DESCRIPTION:Popcorn Story Camp Malaysia 2013 contains hands on sessions\, 
+ talks\, and hacks*! Revolutions in Media is the selected theme for this ev
+ ent. The event will be focused towards 50 person of students and be led by
+  individuals passionate about the web. As part of the Mozilla community\, 
+ we’re helping build a brighter future for the Web. The concept is fun\, 
+ interactive and leads to more exposure to the World Wide Web.\n\n*THE EVEN
+ T IS RESCHEDULE ON NEXT DATE*
+URL:https://reps.mozilla.org/e/popcorn-story-camp-malaysia-2013/
+SEQUENCE:11
+X-COORDINATES-LAT:3.102292
+X-COORDINATES-LON:101.600089
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

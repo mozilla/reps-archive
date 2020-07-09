@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@772
+CLASS:PUBLIC
+DTSTAMP:20200423T212546Z
+DTSTART:20130718T043000Z
+DTEND:20130718T073000Z
+LOCATION:Lourdes Schools\, kottayam\, India
+SUMMARY:Spreading The Word Of Mozilla
+DESCRIPTION:Chain of events basically aimed at educational institutions wh
+ ere sessions are taken on Mozilla and Open Source.To discuss the future of
+  web and how one can be a part to shape it.Intensive localization(Malayala
+ m language).
+URL:https://reps.mozilla.org/e/spreading-the-word-of-mozilla/
+SEQUENCE:2
+X-COORDINATES-LAT:9.58788615133
+X-COORDINATES-LON:76.5245819092
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

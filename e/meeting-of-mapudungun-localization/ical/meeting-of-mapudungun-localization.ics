@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6474
+CLASS:PUBLIC
+DTSTAMP:20200423T111258Z
+DTSTART:20170430T130000Z
+DTEND:20170430T190000Z
+LOCATION:Centro Ceremonial Mahuidache\, Santiago\, Chile
+SUMMARY:Meeting of mapudungun localization
+DESCRIPTION:This event will bring together translators from all over Chile
+ \, to talk about future projects to locate mapudungun\, which is the main 
+ native language of Chile\, among them is the project of translation of Fir
+ efox and the version for android.
+URL:https://reps.mozilla.org/e/meeting-of-mapudungun-localization/
+SEQUENCE:6
+X-COORDINATES-LAT:-33.5534361847
+X-COORDINATES-LON:-70.6673126249
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

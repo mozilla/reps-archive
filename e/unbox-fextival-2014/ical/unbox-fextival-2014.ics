@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3110
+CLASS:PUBLIC
+DTSTAMP:20200407T173727Z
+DTSTART:20141212T010000Z
+DTEND:20141214T110000Z
+LOCATION:New Delhi\, India\, New Delhi\, India
+SUMMARY:UnBox Festival 2014
+DESCRIPTION:UnBox began in 2011 as a festival to celebrate interdisciplina
+ ry  collaborations. Over the past four years\, the festival has grown into
+  a  widely recognized platform for inspiration\, dialogue and hand-on acti
+ on.\n\nMozilla will be collaborating with UnBox this year for FirefoxOS\, 
+ and Hive India along with other partners Quicksand\, BBC\, British Council
+ \, UK Science &amp; Innovation Network\, National Institute of Design\, REACT\
+ , Arts &amp; Humanities Research Council.
+URL:https://reps.mozilla.org/e/unbox-fextival-2014/
+SEQUENCE:9
+X-COORDINATES-LAT:28.5732661142
+X-COORDINATES-LON:77.2521968186
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3427
+CLASS:PUBLIC
+DTSTAMP:20200423T175759Z
+DTSTART:20150212T180000Z
+DTEND:20150212T210000Z
+LOCATION:Altes Tramdepot\, Grosser Muristalden 6\, 3006 Bern\, Berne\, Swi
+ tzerland
+SUMMARY:Informal Mozilla Bern meetup
+DESCRIPTION:Let&#39;s meet for an informal meetup in Bern. There won&#39;t be any 
+ talk or presentation\, just getting together and drink something. Since we
+ &#39;re all Mozillians\, we&#39;ll probably talk about Mozilla.
+URL:https://reps.mozilla.org/e/informal-mozilla-bern-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:46.9474632349
+X-COORDINATES-LON:7.45971965785
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

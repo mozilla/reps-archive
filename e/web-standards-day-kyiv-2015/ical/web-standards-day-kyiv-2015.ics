@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4747
+CLASS:PUBLIC
+DTSTAMP:20200407T183420Z
+DTSTART:20151128T070000Z
+DTEND:20151128T170000Z
+LOCATION:Business Center &#34;Parus&#34;\, Kiev\, Ukraine
+SUMMARY:Web Standards Day Kyiv 2015
+DESCRIPTION:Main goal of this event is educational proposes and experience
+  exchange in the web development field. Such format means absence of any c
+ ommercial interests or technology promotion — idea of open web building 
+ unite participants.
+URL:https://reps.mozilla.org/e/web-standards-day-kyiv-2015/
+SEQUENCE:5
+X-COORDINATES-LAT:50.4378380053
+X-COORDINATES-LON:30.5269317627
+X-COUNTRY-CODE:ua
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3058
+CLASS:PUBLIC
+DTSTAMP:20200407T174306Z
+DTSTART:20150221T090000Z
+DTEND:20150222T130000Z
+LOCATION:Mozilla Office Berlin\, Voltastrasse 5\, Berlin\, Germany
+SUMMARY:German-speaking Community Meeting 2015
+DESCRIPTION:We will meet up again in 2015 to  have fruitful discussion abo
+ ut the German-speaking community. We want to set the goals and direction f
+ or the year 2015 and identify good and bad things happening in our communi
+ ty. We will analyze what we can do better so we can improve them in 2015.
+URL:https://reps.mozilla.org/e/german-speaking-community-meeting-2015/
+SEQUENCE:8
+X-COORDINATES-LAT:52.5418044909
+X-COORDINATES-LON:13.3898677822
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

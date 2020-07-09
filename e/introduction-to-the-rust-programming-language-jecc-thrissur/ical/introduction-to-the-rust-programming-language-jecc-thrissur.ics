@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5932
+CLASS:PUBLIC
+DTSTAMP:20200407T174134Z
+DTSTART:20160930T043000Z
+DTEND:20160930T063000Z
+LOCATION:Jyothi Engineering College\, Cheruthuruthi\, India
+SUMMARY:Introduction to the Rust Programming Language @ JECC \, Thrissur
+DESCRIPTION:A two hour presentation for B.Tech/M.Tech CS students of Jyoth
+ i Engineering College \, Cheruthuruthi\,  Thrissur
+URL:https://reps.mozilla.org/e/introduction-to-the-rust-programming-langua
+ ge-jecc-thrissur/
+SEQUENCE:1
+X-COORDINATES-LAT:10.7454405868
+X-COORDINATES-LON:76.2712935
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

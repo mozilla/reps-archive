@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9170
+CLASS:PUBLIC
+DTSTAMP:20200407T170241Z
+DTSTART:20200405T020000Z
+DTEND:20200405T040000Z
+LOCATION:Nicaragua\, Managua\, Nicaragua
+SUMMARY:second Mozilleros Encounters - Mozilla Hispano
+DESCRIPTION:Monthly meeting of Latin American volunteers to talk about our
+  experiences and upcoming global and international activities
+URL:https://reps.mozilla.org/e/first-mozilleros-encounters-mozilla-hispano
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:12.6537380201
+X-COORDINATES-LON:-84.8659515381
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

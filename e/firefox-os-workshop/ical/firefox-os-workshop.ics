@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1206
+CLASS:PUBLIC
+DTSTAMP:20200407T173737Z
+DTSTART:20130824T120000Z
+DTEND:20130824T210000Z
+LOCATION:Avenida Ipiranga\, 6681\, Porto Alegre\, Brazil
+SUMMARY:Firefox OS Workshop - Porto Alegre
+DESCRIPTION:Join us all day on Saturday\, August 24 at the ThoughtWorks Of
+ fice in Porto Alegre for a code workshop followed by demos and dinner. The
+  ThoughtWorks Office is located in the Park of science and technology at P
+ UCRS (TECNOPUC).
+URL:https://reps.mozilla.org/e/firefox-os-workshop/
+SEQUENCE:3
+X-COORDINATES-LAT:-30.0592885517
+X-COORDINATES-LON:-51.1741018295
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

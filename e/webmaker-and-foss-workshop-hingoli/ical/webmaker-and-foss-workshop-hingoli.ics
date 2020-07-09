@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3281
+CLASS:PUBLIC
+DTSTAMP:20200423T180243Z
+DTSTART:20150131T043000Z
+DTEND:20150131T113000Z
+LOCATION:Adarsh College Society\,  Jijamata Nagar\, Near Bypass\, Hingoli\
+ , India
+SUMMARY:Webmaker and FOSS Workshop\, Hingoli
+DESCRIPTION:This workshop aims at education young college going kids about
+  FOSS\, Mozilla and open web. Its is an effort to build a Mozilla and FOSS
+  community in and around Hingoli. The event would also include sessions on
+  Mozilla Webmaker\, hands-on with awesome webmaker tools like Thimble\, X-
+ Ray Goggles and Appmaker.\nAlso educating them about FOSS \, Mozilla Initi
+ atives and Contributions\, a bit about L10N and a small Q/A session.
+URL:https://reps.mozilla.org/e/webmaker-and-foss-workshop-hingoli/
+SEQUENCE:5
+X-COORDINATES-LAT:19.7355085365
+X-COORDINATES-LON:77.1488857234
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

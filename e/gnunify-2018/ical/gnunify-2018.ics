@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7418
+CLASS:PUBLIC
+DTSTAMP:20200407T174123Z
+DTSTART:20180215T183000Z
+DTEND:20180216T183000Z
+LOCATION:SICSR\, Model Colony\, Pune\, Pune\, India
+SUMMARY:GNUnify 2018
+DESCRIPTION:GNUnify is an annual gathering consisting of Free and Open Sou
+ rce software workshops\, talks\, seminars and BOFs (Birds of a feather). M
+ ozilla has a special track at the conference. moz://a track includes talks
+  and workshops on Addons\, Privacy and so on.
+URL:https://reps.mozilla.org/e/gnunify-2018/
+SEQUENCE:10
+X-COORDINATES-LAT:18.5178110691
+X-COORDINATES-LON:74.0668952465
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

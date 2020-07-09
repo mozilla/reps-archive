@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7560
+CLASS:PUBLIC
+DTSTAMP:20200423T094846Z
+DTSTART:20180331T043000Z
+DTEND:20180331T073000Z
+LOCATION:IIIT Hyderabad\, Hyderabad\, India
+SUMMARY:Rust for Beginners - March 2018
+DESCRIPTION:Beginner-friendly session\n\nRust is a systems programming lan
+ guage that runs blazingly fast\, prevents segfaults\, and guarantees threa
+ d safety.\n\nFeaturing\n\nzero-cost abstractions\nmove semantics\nguarante
+ ed memory safety\nthreads without data races\ntrait-based generics\npatter
+ n matching\ntype inference\nminimal runtime\nefficient C bindings
+URL:https://reps.mozilla.org/e/rust-for-beginners-march-2018/
+SEQUENCE:4
+X-COORDINATES-LAT:17.4455819
+X-COORDINATES-LON:78.3490651
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@207
+CLASS:PUBLIC
+DTSTAMP:20200423T230650Z
+DTSTART:20120822T100000Z
+DTEND:20120822T130000Z
+LOCATION:Univercell \, Perundurai\, Perundurai\, India
+SUMMARY:Mozparty with a demo on using &#34;Firefox for Android&#34; @ Univercell \
+ , Perundurai
+DESCRIPTION:Mozparty that helped Univercell shop owner to design and creat
+ e a webpage on his own. Event will help us to get new users for &#34;Firefox f
+ or Android&#34; as Univercell promised to install Firefox for Android on each 
+ Android Mobiles they sell out :) 
+URL:https://reps.mozilla.org/e/mozparty-with-a-demo-on-using-firefox-for-a
+ ndroid-univercell-perundurai/
+SEQUENCE:0
+X-COORDINATES-LAT:11.2740399047
+X-COORDINATES-LON:77.5827026367
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

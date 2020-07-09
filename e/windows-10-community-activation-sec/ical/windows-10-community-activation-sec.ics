@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4534
+CLASS:PUBLIC
+DTSTAMP:20200423T162746Z
+DTSTART:20151016T070000Z
+DTEND:20151016T113000Z
+LOCATION:Sylhet Engineering College\, Sylhet\, Bangladesh
+SUMMARY:Windows 10 Community Activation SEC
+DESCRIPTION:promoting Firefox as a best browser for windows 10 and and hel
+ p all participate to make Firefox as default on their windows 10.
+URL:https://reps.mozilla.org/e/windows-10-community-activation-sec/
+SEQUENCE:1
+X-COORDINATES-LAT:24.8772485788
+X-COORDINATES-LON:91.8364334106
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

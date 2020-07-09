@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5345
+CLASS:PUBLIC
+DTSTAMP:20200423T153414Z
+DTSTART:20160413T050000Z
+DTEND:20160413T090000Z
+LOCATION:Abasyn University\, Peshawar\, Pakistan
+SUMMARY:FSA Camp Peshawar 2016
+DESCRIPTION:We are holding an FSA Camp in Peshawar. FSA from different uni
+ versities in the city are invited to get hands-on information on different
+  projects like the FSA program\, Firefox\, Campus Campaign\, Connected Dev
+ ices IOT and How to Contribute &amp; Get Involved in Mozilla.
+URL:https://reps.mozilla.org/e/fsa-camp-peshawar-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:34.0295209487
+X-COORDINATES-LON:71.5805052593
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

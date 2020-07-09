@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4849
+CLASS:PUBLIC
+DTSTAMP:20200423T160848Z
+DTSTART:20151129T053000Z
+DTEND:20151129T083000Z
+LOCATION:R .K Children school\, Kamla Nehru nagar\,\, Jodhpur\, India
+SUMMARY:Localization @ Jodhpur
+DESCRIPTION:An Interactive event to help newbies know more about the Local
+ ization and to teach them how L10 works and how to get involved in it.\nTh
+ ey will be Introduced to different resources and would be taught to start 
+ contribution in this vertical.\nEach Session would be concluded by a small
+  quiz and each good answer will be swagged :)
+URL:https://reps.mozilla.org/e/localization-jodhpur/
+SEQUENCE:1
+X-COORDINATES-LAT:26.2531886639
+X-COORDINATES-LON:73.0715331808
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

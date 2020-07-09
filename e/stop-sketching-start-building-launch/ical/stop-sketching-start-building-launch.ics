@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1834
+CLASS:PUBLIC
+DTSTAMP:20200423T201202Z
+DTSTART:20140326T140000Z
+DTEND:20140327T000000Z
+LOCATION:TBD\, La Banda\, Mexico
+SUMMARY:&#34;Stop Sketching\, Start Building&#34; Launch
+DESCRIPTION:Hackaton/Unconference expecting to have 200 participants and a
+ round 40 projects.\n\nI&#39;ll give an overview of mozilla\, open web and the 
+ mission\, my objective is to find some more mozillians that might be hidin
+ g within the organization and recruit them formally.\n\nI also plan to tal
+ k about open web apps and demo Firefox OS using the rep Keon I&#39;ve got assi
+ gned.\n\nThen an &#34;ask me anything&#34; session where I&#39;ll try to answer any qu
+ estions about mozilla the audience might have.
+URL:https://reps.mozilla.org/e/stop-sketching-start-building-launch/
+SEQUENCE:4
+X-COORDINATES-LAT:25.6733809027
+X-COORDINATES-LON:-100.410049439
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

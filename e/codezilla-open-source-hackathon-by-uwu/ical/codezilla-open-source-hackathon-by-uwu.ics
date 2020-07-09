@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7742
+CLASS:PUBLIC
+DTSTAMP:20200423T093006Z
+DTSTART:20180527T073000Z
+DTEND:20180527T113000Z
+LOCATION:WSO2\, Colombo\, Sri Lanka
+SUMMARY:CodeZilla - Open Source Hackathon by UWU
+DESCRIPTION:Read More at : https://mozillauwu.github.io/codezilla/
+URL:https://reps.mozilla.org/e/codezilla-open-source-hackathon-by-uwu/
+SEQUENCE:1
+X-COORDINATES-LAT:6.88677679847
+X-COORDINATES-LON:79.8771057185
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

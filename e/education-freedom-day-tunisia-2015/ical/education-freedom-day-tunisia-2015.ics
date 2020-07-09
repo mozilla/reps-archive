@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4303
+CLASS:PUBLIC
+DTSTAMP:20200423T180438Z
+DTSTART:20150125T090000Z
+DTEND:20150125T170000Z
+LOCATION:Faculté des Sciences Monastir\, Al Munastir\, Tunisia
+SUMMARY:Education Freedom Day Tunisia 2015
+DESCRIPTION:EFD is a worldwide celebration of Free Educational Resources. 
+ Initiated in 2013 by the same organization behind Software Freedom Day. It
+  provides an international day to serve as a platform to raise awareness t
+ o existing projects and communities around the world as well an encourage 
+ participation in local free software and free educational resources initia
+ tives.I presented the education program in Mozilla with some tools used fo
+ r education such Webmaker here: http://mermi.github.io/EFD2015/#/
+URL:https://reps.mozilla.org/e/education-freedom-day-tunisia-2015/
+SEQUENCE:0
+X-COORDINATES-LAT:35.767639963
+X-COORDINATES-LON:10.829177855
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

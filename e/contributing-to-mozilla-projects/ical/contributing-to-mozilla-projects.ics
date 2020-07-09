@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1589
+CLASS:PUBLIC
+DTSTAMP:20200407T182508Z
+DTSTART:20131127T050000Z
+DTEND:20131127T080000Z
+LOCATION:COMSATS Institute of Information Technology\, Lahore\, Pakistan
+SUMMARY:Contributing to Mozilla Projects
+DESCRIPTION:Introduction to open source\, the open web\, Mozilla\, and con
+ tribution opportunities at Mozilla.
+URL:https://reps.mozilla.org/e/contributing-to-mozilla-projects/
+SEQUENCE:6
+X-COORDINATES-LAT:30.7386889279
+X-COORDINATES-LON:74.5019495487
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

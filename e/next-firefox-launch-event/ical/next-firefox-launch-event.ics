@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2209
+CLASS:PUBLIC
+DTSTAMP:20200423T195111Z
+DTSTART:20140510T140000Z
+DTEND:20140510T170000Z
+LOCATION:Adverts.ie Office\, Rathfarnham\, Ireland
+SUMMARY:Next Firefox Launch Event
+DESCRIPTION:With the release of the next Firefox we have teamed up with Ad
+ verts.ie to have a Launch Event in the Advert Offices in Dublin City on th
+ e 10th of May.  The main focus of the event will be on the new features of
+  Firefox across all devices\, how to get involved with Mozilla\, and our l
+ ocal community!  So come a long and share the news!
+URL:https://reps.mozilla.org/e/next-firefox-launch-event/
+SEQUENCE:1
+X-COORDINATES-LAT:53.3440249083
+X-COORDINATES-LON:-6.26440912485
+X-COUNTRY-CODE:ie
+END:VEVENT
+
+END:VCALENDAR

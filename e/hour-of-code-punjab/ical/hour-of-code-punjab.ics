@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4793
+CLASS:PUBLIC
+DTSTAMP:20200423T160154Z
+DTSTART:20151220T043000Z
+DTEND:20151220T113000Z
+LOCATION:Ajit Karam Singh International Public School\, Sector-41/B\,\, Ch
+ andigarh\, India
+SUMMARY:Hour of Code Punjab
+DESCRIPTION:The Hour of Code is a one-hour introduction to computer scienc
+ e\, designed to demystify code and show that anybody can learn the basics.
+ Hour of Code 2015\, a movement to recruit millions to try one hour of comp
+ uter science\, will take place during the second week of December Every st
+ udent should have the opportunity to learn computer science. It helps nurt
+ ure problem-solving skills and creativity.
+URL:https://reps.mozilla.org/e/hour-of-code-punjab/
+SEQUENCE:6
+X-COORDINATES-LAT:30.7349914671
+X-COORDINATES-LON:76.7613407735
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4530
+CLASS:PUBLIC
+DTSTAMP:20200407T174528Z
+DTSTART:20160226T130000Z
+DTEND:20160228T190000Z
+LOCATION:Eurexpo\, Chassieu\, France
+SUMMARY:Salon Primevère 2016 / Espace numérique libre
+DESCRIPTION:It&#39;s a huge fair held near Lyon. 29000 visitors last year.\nTh
+ ere&#39;s a big Free Digital space (Espace numérique libre) [1] where we will
+  have a booth along with other open source and open internet projects: wik
+ imedia\, Libreoffice\, Openstreetmaps for the most famous and other local 
+ communities (that we know from the JDLL).\n\nWe were contacted to hold a b
+ ooth and make demos of Firefox on smartphones and desktop.\n\n[1]: http://
+ salonprimevere.org/salon_espace-categorie_numerique-libre
+URL:https://reps.mozilla.org/e/salon-primevere-espace-numerique-libre-1/
+SEQUENCE:1
+X-COORDINATES-LAT:45.730806224
+X-COORDINATES-LON:4.95029497164
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6616
+CLASS:PUBLIC
+DTSTAMP:20200407T175155Z
+DTSTART:20170603T020000Z
+DTEND:20170603T050000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Mozilla Community Space Jakarta Crew Meeting
+DESCRIPTION:A meeting to reshaping our vision and mission for our new Mozi
+ lla Community Space Jakarta. This meeting will be lead by George Roter\, M
+ ozilla Head of Core Contributors\, Participation. Participants to this mee
+ ting are Mozilla Community Space Jakarta keyholders and crews.
+URL:https://reps.mozilla.org/e/mozilla-community-space-jakarta-crew-meetin
+ g/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.23514132576
+X-COORDINATES-LON:106.820911199
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8429
+CLASS:PUBLIC
+DTSTAMP:20200423T083807Z
+DTSTART:20190317T073000Z
+DTEND:20190317T113000Z
+LOCATION:NIPFP\, New Delhi\, India
+SUMMARY:WebVR @Delhi
+DESCRIPTION:This workshop will introduce participants to VR and WebVR. Spe
+ aker will also introduce various frameworks around WebVR.
+URL:https://reps.mozilla.org/e/webvr-delhi/
+SEQUENCE:2
+X-COORDINATES-LAT:28.6254140021
+X-COORDINATES-LON:77.2116851527
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

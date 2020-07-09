@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6229
+CLASS:PUBLIC
+DTSTAMP:20200407T183723Z
+DTSTART:20170114T110000Z
+DTEND:20170115T000000Z
+LOCATION:Google Belo Horizonte Office\, Belo Horizonte\, Brazil
+SUMMARY:Google Community Summit Brasil
+DESCRIPTION:Gathering with all brazilians software communities leaders.
+URL:https://reps.mozilla.org/e/google-community-summit-brasil/
+SEQUENCE:1
+X-COORDINATES-LAT:-19.9201783
+X-COORDINATES-LON:-43.9218802
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

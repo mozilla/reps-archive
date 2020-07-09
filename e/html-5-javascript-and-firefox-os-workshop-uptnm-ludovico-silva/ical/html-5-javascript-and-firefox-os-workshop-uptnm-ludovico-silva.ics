@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3441
+CLASS:PUBLIC
+DTSTAMP:20200407T175115Z
+DTSTART:20150224T133000Z
+DTEND:20150225T213000Z
+LOCATION:UPTNM Ludovico Silva\, Caripito\, Venezuela
+SUMMARY:HTML 5\, Javascript and Firefox OS Workshop UPTNM Ludovico Silva
+DESCRIPTION:This event is aimed at teachers college with the purpose that 
+ the teachers disseminate their students the knowledge learned in this work
+ shop.The event will as assistant thirty professors of computer engineering
+ . Teachers have about 90 students per classroom.\n\n\nCollege students wan
+ t a Firefox OS app day at this university. But prior training necessary to
+  acquire the necessary knowledge for the event
+URL:https://reps.mozilla.org/e/html-5-javascript-and-firefox-os-workshop-u
+ ptnm-ludovico-silva/
+SEQUENCE:4
+X-COORDINATES-LAT:10.1121671014
+X-COORDINATES-LON:-63.1030905251
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

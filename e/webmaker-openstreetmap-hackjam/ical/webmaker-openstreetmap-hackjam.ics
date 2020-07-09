@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@148
+CLASS:PUBLIC
+DTSTAMP:20200423T225859Z
+DTSTART:20120923T150000Z
+DTEND:20120923T170000Z
+LOCATION:Hackerspace.gr\, Athens\, Greece
+SUMMARY:Webmaker OpenStreetMap HackJam
+DESCRIPTION:Playing with OpenStreetMap &amp; Leaflet JS
+URL:https://reps.mozilla.org/e/webmaker-openstreetmap-hackjam/
+SEQUENCE:0
+X-COORDINATES-LAT:38.01697
+X-COORDINATES-LON:23.7314
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

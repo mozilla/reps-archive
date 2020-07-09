@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3098
+CLASS:PUBLIC
+DTSTAMP:20200407T174938Z
+DTSTART:20141213T110000Z
+DTEND:20141214T190000Z
+LOCATION:Ambiente CoNéctar - Coworking\, Ribeirao Preto\, Brazil
+SUMMARY:Brazilian Community Meetup
+DESCRIPTION:The meetup will be opportunity for the Brazilian Community mee
+ t folks\, learn about what is happening all over the country and plan to a
+ ct in 2015.
+URL:https://reps.mozilla.org/e/brazilian-community-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:-21.1881135405
+X-COORDINATES-LON:-47.8183121682
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

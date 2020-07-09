@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4591
+CLASS:PUBLIC
+DTSTAMP:20200407T180519Z
+DTSTART:20151025T040000Z
+DTEND:20151026T070000Z
+LOCATION:Global Polytechnic Institute\, and Mohanonda Polytechnic Institut
+ e\,Chapainawabganj\,Bangladesh\, Chapainawabganj\, Bangladesh
+SUMMARY:Mozilla Awareness Program &amp; Net Neutrality Maker Party
+DESCRIPTION:I host a Mozilla Awareness Program &amp; Net Neutrality Maker Part
+ y for volunteers\,teachers &amp; students. What is Mozilla and what Mozilla do
+ es describe each projects and products.It is for open source web literacy 
+ to the enhance skills and competencies needed for reading\, writing and pa
+ rticipating on the web.
+URL:https://reps.mozilla.org/e/mozilla-awareness-program-net-neutrality-ma
+ ker-party/
+SEQUENCE:3
+X-COORDINATES-LAT:24.5951355712
+X-COORDINATES-LON:88.2703900346
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

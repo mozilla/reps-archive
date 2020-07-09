@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4330
+CLASS:PUBLIC
+DTSTAMP:20200407T175509Z
+DTSTART:20150916T130000Z
+DTEND:20150918T210000Z
+LOCATION:Facultad de Ciencias y Tecnología\, Universidad Nacional de Cani
+ ndeyu\, Curuguaty\, Paraguay
+SUMMARY:Expociencia 2015 - FACITEC
+DESCRIPTION:Its objective is to &#34;Build academic spaces that promote the ex
+ change of experience and learning in everyday practice of an organizationa
+ l culture focused on scientific production\, with a view to the full integ
+ ration of international academic networks UNICAN institutions higher educa
+ tion&#34;\n\nhttp://facitec.edu.py/index.php?option=com_content&amp;view=article&amp;i
+ d=234:lanzamiento-de-la-expociencia-2015&amp;catid=53:noticias-facitec&amp;Itemid=
+ 134
+URL:https://reps.mozilla.org/e/expociencia-2015-facitec/
+SEQUENCE:0
+X-COORDINATES-LAT:-24.4666461192
+X-COORDINATES-LON:-55.6925454141
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

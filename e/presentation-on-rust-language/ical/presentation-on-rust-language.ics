@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4000
+CLASS:PUBLIC
+DTSTAMP:20200407T180522Z
+DTSTART:20151106T090000Z
+DTEND:20151106T110000Z
+LOCATION:SUST\, Sylhet\, Sylhet\, Bangladesh
+SUMMARY:Presentation on Rust Language
+DESCRIPTION:Participants will be given a presentation on Rust language (ht
+ tp://www.rust-lang.org/)\; \nAfter the event interested participants will 
+ be trained Rust\;\n\nDelaying for the swags to be approved\;
+URL:https://reps.mozilla.org/e/presentation-on-rust-language/
+SEQUENCE:11
+X-COORDINATES-LAT:24.8985821672
+X-COORDINATES-LON:91.876343
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

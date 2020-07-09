@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6809
+CLASS:PUBLIC
+DTSTAMP:20200407T171652Z
+DTSTART:20170819T043000Z
+DTEND:20170819T103000Z
+LOCATION:Northern India Engineering College\, New Delhi\, India
+SUMMARY:Moz Add-ons Day
+DESCRIPTION:The event is more like a workshop on how to create addons and 
+ customize browsers. \nAttendees will get a step by step session to get sta
+ rted with browser extension development using webextension API\nThe sessio
+ n will be preceded by a handson workshop\, where attendees will actually h
+ ack on some addons ideas.
+URL:https://reps.mozilla.org/e/moz-add-ons-day/
+SEQUENCE:8
+X-COORDINATES-LAT:28.7540155694
+X-COORDINATES-LON:77.1034240723
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

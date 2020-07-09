@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@335
+CLASS:PUBLIC
+DTSTAMP:20200423T223237Z
+DTSTART:20121219T173000Z
+DTEND:20121219T200000Z
+LOCATION:Palo Altours\, 30 rue André Theuriet\, Tours\, Tours\, France
+SUMMARY:Mozilla en Touraine
+DESCRIPTION:Presentation of contributors living in Tours area\, their area
+  of contribution\, and french speaking Mozilla community activities. Prese
+ nting upcoming Mozilla products (Firefox OS\, etc.)\, discussion panel bet
+ ween attendees and contributors.\n---\nRencontre avec les contributeurs Mo
+ zilla tourangeaux\, présentations des activités de la communauté franco
+ phone\, des nouveautés en gestation (Firefox OS\, etc.) et échange avec 
+ les contributeurs.
+URL:https://reps.mozilla.org/e/mozilla-en-touraine/
+SEQUENCE:0
+X-COORDINATES-LAT:47.3832704694
+X-COORDINATES-LON:0.697937607765
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

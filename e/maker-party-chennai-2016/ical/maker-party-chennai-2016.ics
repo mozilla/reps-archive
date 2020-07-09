@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5862
+CLASS:PUBLIC
+DTSTAMP:20200407T174130Z
+DTSTART:20160917T033000Z
+DTEND:20160917T103000Z
+LOCATION:SRM university Ramapuram\, Chennai\, India
+SUMMARY:Maker Party Chennai 2016
+DESCRIPTION:The main objective of Maker Party Chennai\, is to acquaint tee
+ nagers/ university students about open source communities\, maker culture 
+ and provide them with a platform to create with their talents of using web
+  in innovative ways to develop solutions for real life problems.
+URL:https://reps.mozilla.org/e/maker-party-chennai-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:13.0536535185
+X-COORDINATES-LON:80.2470055
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

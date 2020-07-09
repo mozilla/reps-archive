@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8734
+CLASS:PUBLIC
+DTSTAMP:20200423T081618Z
+DTSTART:20190810T043000Z
+DTEND:20190810T123000Z
+LOCATION:MNIT College\, Jaipur\, India
+SUMMARY:Mozilla Rajasthan Launch Party
+DESCRIPTION:Mozilla Rajasthan&#39;s Launch Party is a one-day tech conference 
+ event. This Launch Party will be a one-day free conference to motivate dev
+ elopers and designers to contribute more to open-source projects and forth
+ coming technologies. There will be a series of talks and workshops engagin
+ g all kinds of developers and designers. We have prepared a great and quit
+ e an informative line up of the speakers for you all.\n\nJoin in our celeb
+ ration to make it a successful one!
+URL:https://reps.mozilla.org/e/mozilla-rajasthan-launch-party/
+SEQUENCE:1
+X-COORDINATES-LAT:26.8624319901
+X-COORDINATES-LON:75.8124132128
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6490
+CLASS:PUBLIC
+DTSTAMP:20200423T105646Z
+DTSTART:20170701T070000Z
+DTEND:20170707T170000Z
+LOCATION:Antenne Universitaire\, saint Etienne\, France
+SUMMARY:RMLL Rencontres Mondiales du Logiciel Libre 2017
+DESCRIPTION:RMLL or LSM in English (for Libre Software Meeting) is more th
+ an 200 conferences along 5 days made by worldwide speakers. It has been mo
+ re than 10 years since the LSM started to put themselves at the disposal o
+ f Libre communities\, professionals and general public ! Sharing of knowle
+ dge\, freedom of information\, community spirit\, discussions\, technologi
+ cal progress : every year the Libre Software Meeting (LSM) follows the Lib
+ re philosophy.
+URL:https://reps.mozilla.org/e/rmll-rencontres-mondiales-du-logiciel-libre
+ -2017/
+SEQUENCE:4
+X-COORDINATES-LAT:45.4387749234
+X-COORDINATES-LON:4.39791871235
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

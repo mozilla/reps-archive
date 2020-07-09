@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6697
+CLASS:PUBLIC
+DTSTAMP:20200423T110006Z
+DTSTART:20170617T113000Z
+DTEND:20170617T133000Z
+LOCATION:The 1947\, Gandhinagar\, Gandhinagar\, India
+SUMMARY:RainOfRust Camp Gandhinagar\, Gujarat
+DESCRIPTION:An activities and initiative followed by https://reps.mozilla.
+ org/e/rainofrust-campaign/ Rust India community come up with RainOfRust Ca
+ mpaign to spread the awesomeness of Rust language. This event is focused o
+ n introducing and teaching the state of art system programming language Ru
+ st to Students/ Developers and Mozillians around.
+URL:https://reps.mozilla.org/e/rainofrust-camp-gandhinagar-gujarat/
+SEQUENCE:2
+X-COORDINATES-LAT:22.8740665864
+X-COORDINATES-LON:70.7358384132
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

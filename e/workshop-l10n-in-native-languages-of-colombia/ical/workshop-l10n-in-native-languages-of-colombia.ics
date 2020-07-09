@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4555
+CLASS:PUBLIC
+DTSTAMP:20200423T164016Z
+DTSTART:20150918T200000Z
+DTEND:20150918T230000Z
+LOCATION:Caro and Cuervo Institute.\, Bogota\, Colombia
+SUMMARY:Workshop l10n in native languages of Colombia.
+DESCRIPTION:Training l10n process for a group of coordinators. The worksho
+ ps will be implemented on l10n in three native languages of Colombia: Kich
+ wa\, Uitoto and Kamsá.
+URL:https://reps.mozilla.org/e/workshop-l10n-in-native-languages-of-colomb
+ ia/
+SEQUENCE:1
+X-COORDINATES-LAT:4.59599027143
+X-COORDINATES-LON:-74.0738399327
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

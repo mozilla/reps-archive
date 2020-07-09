@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6952
+CLASS:PUBLIC
+DTSTAMP:20200407T182114Z
+DTSTART:20170817T180000Z
+DTEND:20170817T203000Z
+LOCATION:Av. Revolución #1836 Col. San Ángel Del. Álvaro Obregón C.P. 
+ 01000\, Distrito Federal\, Mexico
+SUMMARY:Charlas en Universidad insurgentes
+DESCRIPTION:Fuimos invitados por UI para dar charlas a sus alumnos el 17 d
+ e agosto\, el horario es de las 18:00 a las 20:00. la idea es dar 3-4 char
+ las de 25 minutos cada una sobre diferentes temas Mozilleros
+URL:https://reps.mozilla.org/e/charlas-en-universidad-insurgentes/
+SEQUENCE:1
+X-COORDINATES-LAT:19.3424162487
+X-COORDINATES-LON:-99.1911907194
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

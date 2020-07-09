@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8706
+CLASS:PUBLIC
+DTSTAMP:20200407T181214Z
+DTSTART:20190723T153000Z
+DTEND:20190723T160000Z
+LOCATION:Virtual\, Colombo\, Sri Lanka
+SUMMARY:Mozilla Sri Lanka roadmap meeting
+DESCRIPTION:Mozilla Sri Lanka team would get together to discuss future ev
+ ents and roadmaps.
+URL:https://reps.mozilla.org/e/mozilla-sri-lanka-meeting/
+SEQUENCE:3
+X-COORDINATES-LAT:6.809171265
+X-COORDINATES-LON:79.9159240723
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

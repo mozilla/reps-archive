@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1194
+CLASS:PUBLIC
+DTSTAMP:20200407T182322Z
+DTSTART:20130910T023000Z
+DTEND:20130910T063000Z
+LOCATION:Graha Sawunggaling\, Surabaya Government Building 6th Floor.\, Su
+ rabaya\, Indonesia
+SUMMARY:Maker Party 2013 @ Surabaya - Hive Indonesia
+DESCRIPTION:Based on Hive Pop-Up concept\, this Maker Party 2013 @ Surabay
+ a will have 6 mini workshops from local mentors &amp; communities.\n\nMark Sur
+ man from Mozilla Foundation will join this event. This Hive Indonesia &amp; Hi
+ ve Surabaya 1st event supported by Surabaya Government and local communiti
+ es.
+URL:https://reps.mozilla.org/e/maker-party-2013-surabaya-hive-indonesia/
+SEQUENCE:6
+X-COORDINATES-LAT:-7.28636035796
+X-COORDINATES-LON:112.739810944
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

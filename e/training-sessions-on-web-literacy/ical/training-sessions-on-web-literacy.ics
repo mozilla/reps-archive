@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5036
+CLASS:PUBLIC
+DTSTAMP:20200407T175532Z
+DTSTART:20160119T133000Z
+DTEND:20160121T153000Z
+LOCATION:Nanaware night school\, Wadala\, Mumbai\, India
+SUMMARY:Training Sessions on Web Literacy
+DESCRIPTION:After the introduction to web literacy\, I\, along with other 
+ volunteers\, would train few kids of Nanaware night school for 3 days on W
+ eb Literacy.The training session would include telling kids to search cont
+ ent and media on the web regarding a particular topic. The volunteers woul
+ d suggest them some techniques on search engine and how to remain away fro
+ m inappropriate links and websites.
+URL:https://reps.mozilla.org/e/training-sessions-on-web-literacy/
+SEQUENCE:1
+X-COORDINATES-LAT:18.8924279819
+X-COORDINATES-LON:72.9462897778
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4537
+CLASS:PUBLIC
+DTSTAMP:20200407T175622Z
+DTSTART:20151002T023000Z
+DTEND:20151101T113000Z
+LOCATION:India\, India\, India
+SUMMARY:Grow Firefox download in Indian Languages-Pilot campaign
+DESCRIPTION:To spread Localized Firefox in India\, Mozilla India Localizat
+ ion community is hosting a pan-India campaign for Hindi &amp; Marathi. The cam
+ paign would run from 2nd Oct to 1st Nov. \n\nTo show users that Firefox is
+  available in their language we are creating a campaign that helps fans of
+  Firefox invite the people in their networks to download Firefox. We are c
+ reating unique\, shareable pieces of content that are humorous\, insightfu
+ l and topical to get the conversation and activities started.
+URL:https://reps.mozilla.org/e/grow-firefox-download-campaign-in-indian-la
+ nguages-pilot/
+SEQUENCE:4
+X-COORDINATES-LAT:22.7424126204
+X-COORDINATES-LON:79.7578132153
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

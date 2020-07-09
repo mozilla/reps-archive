@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1423
+CLASS:PUBLIC
+DTSTAMP:20200407T182509Z
+DTSTART:20130919T060000Z
+DTEND:20130919T080000Z
+LOCATION:Beaconhouse National University\, Tarogil Campus\, Lahore\, Pakis
+ tan
+SUMMARY:Firefox OS App Day - Pakistan
+DESCRIPTION:An app development competition to motivate and bring new Firef
+ ox OS app developers on board.
+URL:https://reps.mozilla.org/e/firefox-os-app-day-pakistan/
+SEQUENCE:2
+X-COORDINATES-LAT:29.5352295629
+X-COORDINATES-LON:74.53125
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4981
+CLASS:PUBLIC
+DTSTAMP:20200423T155154Z
+DTSTART:20160130T120000Z
+DTEND:20160130T140000Z
+LOCATION:Arab Academy for Science\, Technology &amp; Maritime Transport\, Alex
+ andria\, Egypt
+SUMMARY:Privacy Month with Mozilla
+DESCRIPTION:This campaign is divided into 2 parts:\n\n1- Online campaign i
+ s to provide a privacy tip a day that an average user could complete in 10
+  minutes or less. Tips will be shared through social media\, such as Faceb
+ ook and Twitter.\n\n2- Offline Event aims to make users and makers of the 
+ web care\, learn\, teach and share about Online Privacy.\n\nAlso we want t
+ o empower the users of the web to protect their privacy and control their 
+ digital footprint.
+URL:https://reps.mozilla.org/e/privacy-month-with-mozilla/
+SEQUENCE:8
+X-COORDINATES-LAT:31.310222573
+X-COORDINATES-LON:30.0646015407
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

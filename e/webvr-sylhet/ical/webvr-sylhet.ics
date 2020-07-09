@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6108
+CLASS:PUBLIC
+DTSTAMP:20200407T180521Z
+DTSTART:20170120T050000Z
+DTEND:20170120T090000Z
+LOCATION:IIUC\, Chittagong\, Bangladesh
+SUMMARY:WebVR @CTG
+DESCRIPTION:Chittagong is a very renowned district of Bangladesh and calle
+ d as second capital for being main sea port area. WebVR is a subtopic of d
+ eveloper engagement and also a part of Mozilla Active Campaign. This event
+  will introduce to the audience with MozVR and A-frame framework to create
+  virtual reality for the first time! Also audience will get the experience
+  of virtual reality as well as will code their first own basic virtual rea
+ lity webpage/graphics using A-frame.
+URL:https://reps.mozilla.org/e/webvr-sylhet/
+SEQUENCE:10
+X-COORDINATES-LAT:24.8906344127
+X-COORDINATES-LON:91.867489813
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

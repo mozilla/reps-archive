@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5223
+CLASS:PUBLIC
+DTSTAMP:20200423T153646Z
+DTSTART:20160401T190000Z
+DTEND:20160401T210000Z
+LOCATION:Nationa University of Colombian \, Bogota\, Colombia\, Bogota\, C
+ olombia
+SUMMARY:Mozilla in the National University of Colombia
+DESCRIPTION:This time we gather to reflect on the use and development of O
+ pen Software\, its influence on the lives of people\, the collective const
+ ruction of knowledge and application in education. Mozilla also present\, 
+ our mission and community.
+URL:https://reps.mozilla.org/e/mozilla-in-the-national-university-of-colom
+ bia-1/
+SEQUENCE:1
+X-COORDINATES-LAT:4.63476532182
+X-COORDINATES-LON:-74.0838289278
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

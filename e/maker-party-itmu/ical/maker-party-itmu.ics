@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2750
+CLASS:PUBLIC
+DTSTAMP:20200423T190612Z
+DTSTART:20140906T030000Z
+DTEND:20140906T080000Z
+LOCATION:ITM university\,Gwalior\,India\, Gwalior\, India
+SUMMARY:Maker Party@ITMU
+DESCRIPTION:This event is intended to newbies who are not a part of Mozill
+ a Webmaker projects but willing to be one of that.This Event is also focus
+ ed To bring out newbies into Mozilla Mission.
+URL:https://reps.mozilla.org/e/maker-party-itmu/
+SEQUENCE:6
+X-COORDINATES-LAT:26.2220142959
+X-COORDINATES-LON:78.176903
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

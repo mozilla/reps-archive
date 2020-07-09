@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@526
+CLASS:PUBLIC
+DTSTAMP:20200423T220724Z
+DTSTART:20130221T150000Z
+DTEND:20130222T000000Z
+LOCATION:Benemérita Universidad Autónoma de Puebla\, Puebla\, Mexico
+SUMMARY:Translathon in Northern Puebla Nahuatl (Feb 21th)
+DESCRIPTION:We proposed Translathon event\, an activitie to make the local
+ ization of Firefox and creation of Wikipedia articles\, in this case in No
+ rthern Puebla Nahuatl. The main objective is form community committed to s
+ upport the localization\, looking for awareness in our society about the i
+ mportance of language preservation and promotion of the use on an importan
+ t issue of digital inclusion of indigenous communities. It calls on key da
+ tes such as February 21\, the International Day of Indigenous languages.
+URL:https://reps.mozilla.org/e/translathon-in-northern-puebla-nahuatl-21th
+ -feb/
+SEQUENCE:0
+X-COORDINATES-LAT:19.0421601378
+X-COORDINATES-LON:-98.1951999664
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

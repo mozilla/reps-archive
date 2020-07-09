@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4497
+CLASS:PUBLIC
+DTSTAMP:20200423T162237Z
+DTSTART:20151026T080000Z
+DTEND:20151028T170000Z
+LOCATION:RAI Amsterdam\, Amsterdam\, Netherlands
+SUMMARY:OSCON EU
+DESCRIPTION:OSCON is a unique gathering where participants find inspiratio
+ n\, confront new challenges\, share their expertise\, renew bonds to commu
+ nity\, make significant connections\, and find ways to give back to the op
+ en source movement. The event has also become one of the most important ve
+ nues to announce groundbreaking open source projects and products.
+URL:https://reps.mozilla.org/e/oscon-eu/
+SEQUENCE:3
+X-COORDINATES-LAT:52.3418921375
+X-COORDINATES-LON:4.8919858929
+X-COUNTRY-CODE:nl
+END:VEVENT
+
+END:VCALENDAR

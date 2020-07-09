@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6489
+CLASS:PUBLIC
+DTSTAMP:20200407T175209Z
+DTSTART:20170628T220000Z
+DTEND:20170701T220000Z
+LOCATION:Médiathèque Louis Aragon\, Choisy le Roi\, France
+SUMMARY:Pas Sage en Seine 2017
+DESCRIPTION:For the 7th edition of the event &#34;Pas Sage In Seine&#34;\, that is
+  associated with another event the &#34;Hacker Space Festival&#34; to introduce a 
+ new dimension of this event. Its purpose is to provide a friendly\, lively
+  and inclusive space to promote a discourse on free solutions\, privacy an
+ d security on the use of digital tools.\nWith this new appointment village
+  associations was launched and was invited Mozilla
+URL:https://reps.mozilla.org/e/pas-sage-en-seine-2017/
+SEQUENCE:3
+X-COORDINATES-LAT:48.7639874757
+X-COORDINATES-LON:2.41871452192
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

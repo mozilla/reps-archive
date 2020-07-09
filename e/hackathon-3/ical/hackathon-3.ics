@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4576
+CLASS:PUBLIC
+DTSTAMP:20200423T161910Z
+DTSTART:20151105T043000Z
+DTEND:20151105T103000Z
+LOCATION:CMR Engineering College\, Hyderabad\, India
+SUMMARY:Hackathon
+DESCRIPTION:A 7 Hour event totally concentrated on Developing and Publishi
+ ng apps for Firefox OS Mobile Platform. This event is meant to Give a Clea
+ r view about Firefox OS Platform and Encourage People to Develop Apps for 
+ Firefox OS and also for the web developers to port their Apps to Firefox O
+ S .
+URL:https://reps.mozilla.org/e/hackathon-3/
+SEQUENCE:3
+X-COORDINATES-LAT:17.5378984434
+X-COORDINATES-LON:78.4354248061
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

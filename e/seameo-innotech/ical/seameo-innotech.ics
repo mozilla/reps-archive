@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@349
+CLASS:PUBLIC
+DTSTAMP:20200423T223716Z
+DTSTART:20121211T040000Z
+DTEND:20121213T040000Z
+LOCATION: EDSA Shangri-La Hotel\, Mandaluyong City\, Philippines
+SUMMARY:SEAMEO INNOTECH
+DESCRIPTION:The Southeast Asian Ministers of Education Organization Region
+ al Center for Educational Innovation &amp; Technology is an authority &amp; provid
+ er of leading-edge education solutions in the Southeast Asian Region &amp; bey
+ ond\, a premier biennial international forum. It sets the venue for educat
+ ion managers\, leaders\, researchers\, education solutions providers\, edu
+ cation policy makers\, supervisors &amp; practitioners to exchange ideas &amp; gro
+ undbreaking experiences in areas of educational innovation &amp; technology.
+URL:https://reps.mozilla.org/e/seameo-innotech/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5799908499
+X-COORDINATES-LON:121.056375504
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

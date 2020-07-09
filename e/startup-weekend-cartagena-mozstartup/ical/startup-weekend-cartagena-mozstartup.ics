@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4519
+CLASS:PUBLIC
+DTSTAMP:20200407T174823Z
+DTSTART:20151009T220000Z
+DTEND:20151011T230000Z
+LOCATION:Universidad Tecnologica de bolivar\, Cartagena\, Colombia
+SUMMARY:Startup weekend Cartagena - MozStartup
+DESCRIPTION:Moz Startup is a program to spread mozilla technologies (thimb
+ le\, popcorn\, firefox Dev\, webmaker\, etc) to young enterpreneurs around
+  Colombia\, we are working together with Startup Weekend to be mentoring i
+ n this kind of events!\n\nSee Itinerary here: http://www.up.co/communities
+ /colombia/cartagena-co/startup-weekend/6837
+URL:https://reps.mozilla.org/e/startup-weekend-cartagena-mozstartup/
+SEQUENCE:4
+X-COORDINATES-LAT:10.4094536551
+X-COORDINATES-LON:-75.4980697576
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

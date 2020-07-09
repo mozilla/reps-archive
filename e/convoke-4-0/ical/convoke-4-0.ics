@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8795
+CLASS:PUBLIC
+DTSTAMP:20200407T170252Z
+DTSTART:20191018T023000Z
+DTEND:20191020T043000Z
+LOCATION:University of Delhi\, New Delhi\, India
+SUMMARY:Convoke 4.0
+DESCRIPTION:Located at the heart of North Campus\, Delhi University\, the 
+ Centre is well known for the prestigious competitions and workshops hosted
+  by it. The most recent edition of CONVOKE was a huge success with over 50
+ 0 participants and 6 events. This time at CONVOKE 4.0 we expect it to be e
+ ven more successful with an estimated footfall of 1000 and 5 tech events.
+URL:https://reps.mozilla.org/e/convoke-4-0/
+SEQUENCE:2
+X-COORDINATES-LAT:28.6925389756
+X-COORDINATES-LON:77.2120113345
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

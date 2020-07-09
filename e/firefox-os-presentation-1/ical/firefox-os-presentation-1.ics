@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5039
+CLASS:PUBLIC
+DTSTAMP:20200423T155543Z
+DTSTART:20160114T033000Z
+DTEND:20160114T113000Z
+LOCATION:Sinhgad Institutes Vadgaon Campus\, Pune\, India
+SUMMARY:Firefox OS Presentation
+DESCRIPTION:This event is focused on presenting Firefox OS to the general 
+ audience at Sinhgad Institutes. The Firefox OS would be explained on a pos
+ ter and Shivraj Kadam\, Tejas Kale\, Prathamesh Chavan and Dhanashri Kadu 
+ would be describing it to the audience.
+URL:https://reps.mozilla.org/e/firefox-os-presentation-1/
+SEQUENCE:2
+X-COORDINATES-LAT:18.4685240564
+X-COORDINATES-LON:73.8359928096
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@817
+CLASS:PUBLIC
+DTSTAMP:20200423T214535Z
+DTSTART:20130510T150000Z
+DTEND:20130510T180000Z
+LOCATION:Podbreznik 15\, Novo mesto\, Novo mesto\, Slovenia
+SUMMARY:StartUP School: WebFWD + Firefox OS
+DESCRIPTION:Topics: \nWe&#39;ll start with brief history of Mozilla. We will a
+ lso talk about Mozilla products\, focusing on Firefox OS. At the end we wi
+ ll present WebFWD.
+URL:https://reps.mozilla.org/e/startup-school-webfwd/
+SEQUENCE:13
+X-COORDINATES-LAT:45.8045
+X-COORDINATES-LON:15.13296
+X-COUNTRY-CODE:si
+END:VEVENT
+
+END:VCALENDAR

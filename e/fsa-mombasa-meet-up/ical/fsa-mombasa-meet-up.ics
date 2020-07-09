@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3482
+CLASS:PUBLIC
+DTSTAMP:20200407T174257Z
+DTSTART:20150211T023000Z
+DTEND:20150211T043000Z
+LOCATION:JKUAT Mombasa\, Mombasa\, Kenya
+SUMMARY:FSA Mombasa Meet-up
+DESCRIPTION:This will be a brief meet-up for all members interested in cre
+ ating Firefox Clubs within their respective institutions as well as to cre
+ ate awareness of Firefox Student Ambassador Program and to mentor individu
+ als on how to get started with the Clubs.
+URL:https://reps.mozilla.org/e/fsa-mombasa-meet-up/
+SEQUENCE:1
+X-COORDINATES-LAT:-3.18634412363
+X-COORDINATES-LON:39.3887060881
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

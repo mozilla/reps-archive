@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2414
+CLASS:PUBLIC
+DTSTAMP:20200423T191449Z
+DTSTART:20140816T000000Z
+DTEND:20140816T090000Z
+LOCATION:Bongabong Municipal Gym\, Bongabong\, Philippines
+SUMMARY:MozTour Innovative College of Science &amp; Technology (Mindoro)
+DESCRIPTION:Team Mozilla Philippines Community\, in cooperation with the I
+ nnovative College of Science and Technology\, and MIndoro IT Organization 
+ will be conducting a half-day MozTour (Roadshow) to cover the following:\n
+ \n    Mozilla in the Philippines\n    Firefox web browser\n    Firefox OS 
+ &amp; Firefox Marketplace\n    Webmaker\n    Women &amp; Mozilla\n    Firefox Stud
+ ent Ambassadors
+URL:https://reps.mozilla.org/e/moztour-innovative-college-of-science-techn
+ ology-mindoro/
+SEQUENCE:3
+X-COORDINATES-LAT:12.7487441006
+X-COORDINATES-LON:121.460082997
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

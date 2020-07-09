@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3569
+CLASS:PUBLIC
+DTSTAMP:20200423T173143Z
+DTSTART:20150418T070000Z
+DTEND:20150418T100000Z
+LOCATION:Óbuda University\, Budapest\, Hungary
+SUMMARY:Firefox OS @ Universities Ceremony
+DESCRIPTION:We agreed with several Universities to have official Firefox O
+ S semester there. Ceremony with certification.\nMozilla official will be B
+ rian King (and others?)\nAfter that we can do round table discussions and 
+ meeting.
+URL:https://reps.mozilla.org/e/firefox-os-universities-ceremony/
+SEQUENCE:2
+X-COORDINATES-LAT:47.53384858
+X-COORDINATES-LON:19.034435034
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

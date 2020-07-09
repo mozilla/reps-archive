@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8203
+CLASS:PUBLIC
+DTSTAMP:20200407T165037Z
+DTSTART:20181103T043000Z
+DTEND:20181104T103000Z
+LOCATION:PESIT South Campus\, Bangalore\, Bangalore\, India
+SUMMARY:Mozilla Booth + Mentorship at inGenius hack 2018
+DESCRIPTION:inGenius\, the flagship event of PESITSouth IEEE Computer Soci
+ ety\, is an annual 24-hour hackathon.\n\nMozilla has partnered with inGeni
+ us in the past as well.
+URL:https://reps.mozilla.org/e/mozilla-booth-mentorship-at-ingenius-hack-2
+ 018/
+SEQUENCE:1
+X-COORDINATES-LAT:12.8632032522
+X-COORDINATES-LON:77.6654355519
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

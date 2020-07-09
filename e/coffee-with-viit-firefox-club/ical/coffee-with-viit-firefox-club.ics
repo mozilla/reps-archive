@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2027
+CLASS:PUBLIC
+DTSTAMP:20200423T200640Z
+DTSTART:20140405T123000Z
+DTEND:20140405T143000Z
+LOCATION:Amanora Park Town\, Hadapsar\, Pune\, Maharashtra 411028\, Pune\,
+  India
+SUMMARY:Coffee with VIIT Firefox Club
+DESCRIPTION:This will be a brief meet up with VIIT Firefox Club members to
+  evaluate on the performance of the VIIT Firefox Club Community\, to deter
+ mine the success factors and challenges faced during the first 3 months of
+  2014. During the meet-up we shall also contribute towards planning for th
+ e second quarter of 2014.
+URL:https://reps.mozilla.org/e/coffee-with-viit-firefox-club/
+SEQUENCE:5
+X-COORDINATES-LAT:18.3675593025
+X-COORDINATES-LON:74.1453552246
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

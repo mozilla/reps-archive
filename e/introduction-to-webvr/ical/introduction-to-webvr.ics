@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8180
+CLASS:PUBLIC
+DTSTAMP:20200407T174610Z
+DTSTART:20181031T123000Z
+DTEND:20181031T140000Z
+LOCATION:Uva Wellassa University\, Badulla\, Sri Lanka
+SUMMARY:Introduction to WebVR
+DESCRIPTION:The event will focus on teaching the participants on how to us
+ e A-Frame and Mozilla WebVR Asset for Unity in order to create VR experien
+ ce on the web.\n\nThis event is organized by the mozilla Campus Club of Uv
+ a Wellassa University of Sri Lanka having Isuru Edirisinghe (Club Captain)
+  as the main organizer under our guidance (mozilla Reps of Sri Lanka)
+URL:https://reps.mozilla.org/e/introduction-to-webvr/
+SEQUENCE:4
+X-COORDINATES-LAT:7.0643048
+X-COORDINATES-LON:80.022346
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4812
+CLASS:PUBLIC
+DTSTAMP:20200407T182429Z
+DTSTART:20151128T100000Z
+DTEND:20151128T160000Z
+LOCATION:Fermentuse Space\, Abidjan\, Ivory Coast
+SUMMARY:Meet of contribution on MDN
+DESCRIPTION:This event take place each last saturday of the month. It&#39;s a 
+ way for Ivory Coast mozilla community to meet and contribute on MDN.\nThis
+  is an url for everyone who want to participate: http://www.meetup.com/fr/
+ MDN-CI/events/226586718/
+URL:https://reps.mozilla.org/e/meet-of-contribution-on-mdn/
+SEQUENCE:1
+X-COORDINATES-LAT:5.39092157983
+X-COORDINATES-LON:-3.96937680314
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

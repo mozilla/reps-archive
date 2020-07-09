@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2475
+CLASS:PUBLIC
+DTSTAMP:20200407T175416Z
+DTSTART:20140701T043000Z
+DTEND:20140831T103000Z
+LOCATION:Multiple Locations\, Kerala\, India
+SUMMARY:Mozilla2School 2014
+DESCRIPTION:With the huge success of last year&#39;s Mozilla2School[http://blo
+ g.mozillakerala.org/2013/11/mozilla2school-webmaker-party/] campaign here 
+ comes yet another chapter of the same. This time we are going bigger with 
+ a campaign that&#39;s gonna last nearly two months covering schools all over K
+ erala.
+URL:https://reps.mozilla.org/e/mozilla2school-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:9.96839978339
+X-COORDINATES-LON:76.4188840985
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5511
+CLASS:PUBLIC
+DTSTAMP:20200423T151639Z
+DTSTART:20160630T020000Z
+DTEND:20160930T150000Z
+LOCATION:TBD\, Urumqi\, China
+SUMMARY:Firefox Tianshan Tour - Mentor training &amp; summer camp
+DESCRIPTION:Train volunteer to be mentors in summer camp\, also introduce 
+ them become Firefox campus ambassador. It&#39;s 2 separating events before sum
+ mer camp.
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-mentor-training-summe
+ r-camp/
+SEQUENCE:2
+X-COORDINATES-LAT:43.8207081836
+X-COORDINATES-LON:2607.69406414
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

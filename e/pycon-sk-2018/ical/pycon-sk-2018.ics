@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7450
+CLASS:PUBLIC
+DTSTAMP:20200407T181218Z
+DTSTART:20180308T230000Z
+DTEND:20180311T225500Z
+LOCATION:Slovak University of Technology in Bratislava\, Faculty of Inform
+ atics and Information Technologies\, Bratislava\, Slovakia
+SUMMARY:PyCon SK 2018
+DESCRIPTION:PyCon SK is an international conference organized by the commu
+ nity of enthusiasts and supporters of the Python programming language. It 
+ is designed for anyone who works professionally and also for anyone who is
+  learning this programming language. Conference is held in English and (Cz
+ ech) Slovak language. If you don&#39;t know any Slovak or Czech\, don&#39;t worry\
+ , there will be stuff for you to do.
+URL:https://reps.mozilla.org/e/pycon-sk-2018/
+SEQUENCE:4
+X-COORDINATES-LAT:48.1536172196
+X-COORDINATES-LON:17.0717868808
+X-COUNTRY-CODE:sk
+END:VEVENT
+
+END:VCALENDAR

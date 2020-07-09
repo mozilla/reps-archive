@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2015
+CLASS:PUBLIC
+DTSTAMP:20200423T200539Z
+DTSTART:20140410T033000Z
+DTEND:20140410T093000Z
+LOCATION:Arya College Of Engineering &amp; IT\, Jaipur\, Jaipur\, India
+SUMMARY:MozExplore @ ACEIT
+DESCRIPTION:Inroducting and awaring students about mozilla and area of con
+ tribution.
+URL:https://reps.mozilla.org/e/mozexplore-aceit/
+SEQUENCE:39
+X-COORDINATES-LAT:26.9054159381
+X-COORDINATES-LON:75.8569331467
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

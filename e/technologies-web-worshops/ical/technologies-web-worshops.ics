@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5838
+CLASS:PUBLIC
+DTSTAMP:20200407T181245Z
+DTSTART:20160912T200000Z
+DTEND:20161017T220000Z
+LOCATION:Santa Ana\, El Congo\, El Salvador
+SUMMARY:Technologies Web worshops
+DESCRIPTION:worshop series\, about web technologies. the objective is enco
+ urage to the children that use the web techlogies and in the future we can
+  contribute the mozilla community. the activity is in 6 worshops by week
+URL:https://reps.mozilla.org/e/technologies-web-worshops/
+SEQUENCE:0
+X-COORDINATES-LAT:13.9047280806
+X-COORDINATES-LON:-89.4985713973
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

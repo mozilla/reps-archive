@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1598
+CLASS:PUBLIC
+DTSTAMP:20200423T203733Z
+DTSTART:20131228T063000Z
+DTEND:20131228T100000Z
+LOCATION:Valero Telepark\, Makati City\, Philippines
+SUMMARY:MozillaPH Zumba Class with Rowe Hoffer
+DESCRIPTION:Experience MozZumba with Ms. Rowe Hoffer [http://rowehoffer.zu
+ mba.com]\, Licensed Zumba Instructor and Mozillian.
+URL:https://reps.mozilla.org/e/mozzumba-class/
+SEQUENCE:4
+X-COORDINATES-LAT:14.5594252591
+X-COORDINATES-LON:121.018779159
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8167
+CLASS:PUBLIC
+DTSTAMP:20200407T171659Z
+DTSTART:20181025T120000Z
+DTEND:20181025T160000Z
+LOCATION:Silales Library\, Vilnius\, Lithuania
+SUMMARY:Introduction to WebVR [Silale]
+DESCRIPTION:This event is intended for the members of the coworking space 
+ of Silale\, who will get the chance to learn more about the applications o
+ f VR\, as well as to get hands-on experience.
+URL:https://reps.mozilla.org/e/introduction-to-webvr-silale/
+SEQUENCE:3
+X-COORDINATES-LAT:55.4912957262
+X-COORDINATES-LON:22.1818363667
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

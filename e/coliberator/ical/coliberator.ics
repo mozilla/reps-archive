@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@893
+CLASS:PUBLIC
+DTSTAMP:20200407T175436Z
+DTSTART:20130601T090000Z
+DTEND:20130602T150000Z
+LOCATION:Faculty of Mathematics and Computer Science\, Bucharest\, Romania
+SUMMARY:Coliberator
+DESCRIPTION:Coliberator is the national conference organized annually by F
+ undația Ceata in Bucharest\, featuring three categories of presentation t
+ opics: Free Software\, Free Culture and Free Hardware.\n\nI was invited to
+  give a talk about Free Software developed by Mozilla. I will speak about 
+ Persona(BrowserID) and also present a demo for developers.
+URL:https://reps.mozilla.org/e/coliberator/
+SEQUENCE:12
+X-COORDINATES-LAT:44.4355418572
+X-COORDINATES-LON:26.0997819901
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

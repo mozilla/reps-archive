@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7118
+CLASS:PUBLIC
+DTSTAMP:20200423T101809Z
+DTSTART:20171112T113000Z
+DTEND:20171112T133000Z
+LOCATION:TBD\, Ahmedabad\, India
+SUMMARY:MozCoffee Ahmedabad\, Gujarat
+DESCRIPTION:This is a small informal meet up with peoples where a report i
+ s given of recent activities and upcoming projects of a community as well 
+ as get ideas and feedback from the general public.
+URL:https://reps.mozilla.org/e/mozcoffee-ahmedabad-gujarat-5/
+SEQUENCE:4
+X-COORDINATES-LAT:22.8740665864
+X-COORDINATES-LON:70.9116196632
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

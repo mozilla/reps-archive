@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8115
+CLASS:PUBLIC
+DTSTAMP:20200422T102621Z
+DTSTART:20180922T090000Z
+DTEND:20180922T130000Z
+LOCATION:TBD\, Douala\, Cameroon
+SUMMARY:Dark Funnel Campaign - Cameroon(Douala -Yagoua)
+DESCRIPTION:The event will engage community members in understanding the s
+ afety concern of Firefox on the Internet. Community Members will use diffe
+ rent combinations of keywords to find non-Mozilla sites that let users dow
+ nload Firefox without going www.mozilla.org first. Secondly\, the communit
+ y members will investigate these websites to find “unofficial Firefox do
+ wnload” buttons. And finally\, the community members will document those
+  sites.
+URL:https://reps.mozilla.org/e/dark-funnel-campaign-cameroon-douala-yagoua
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:4.00939430579
+X-COORDINATES-LON:9.71854448318
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

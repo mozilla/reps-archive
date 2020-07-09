@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7551
+CLASS:PUBLIC
+DTSTAMP:20200423T102106Z
+DTSTART:20171029T070000Z
+DTEND:20171029T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:Vue.js Introduction
+DESCRIPTION:Vue.js (vuejs.org) is a modern front-end Framework for creatin
+ g user interfaces with many interactions. Vue.js carries the tagline &#34;The 
+ Progressive JavaScript Framework&#34; which is lately discussed by front-end d
+ eveloper because it is easy to learn as well as implemented into new and e
+ xisting websites.
+URL:https://reps.mozilla.org/e/vue-js-introduction/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.2350978
+X-COORDINATES-LON:106.8211011
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

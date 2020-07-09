@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5226
+CLASS:PUBLIC
+DTSTAMP:20200423T154142Z
+DTSTART:20160316T043000Z
+DTEND:20160316T113000Z
+LOCATION:ACE Engineering College\, Hyderabad\, India
+SUMMARY:Mozilla Day at ACE Engineering College
+DESCRIPTION:The event aims at introduction to the Mozilla and its communit
+ ies \, the technologies it creates and the way it makes web a productive p
+ lace each and every day.\nA separate session on the recent advancements in
+  Mozilla and tracks on Campus Campaign and Connected Devices.\nCollab Hous
+ e would be the Knowledge and Technology sponsor for the Event.\nFollowed b
+ y Official Club launch at ACE Engineering College
+URL:https://reps.mozilla.org/e/mozilla-day-at-ace-engineering-college/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4450430438
+X-COORDINATES-LON:78.6740452051
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

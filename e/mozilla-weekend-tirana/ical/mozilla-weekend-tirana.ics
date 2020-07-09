@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1482
+CLASS:PUBLIC
+DTSTAMP:20200407T165843Z
+DTSTART:20140208T090000Z
+DTEND:20140209T190000Z
+LOCATION:Tirana Ekspres\, Tirana\, Albania
+SUMMARY:Mozilla Weekend Tirana
+DESCRIPTION:Organized by the Mozilla Albania Community and 2 Reps in Alban
+ ia\, Elio Qoshi and Redon Skikuli\, Mozilla Weekend aims to bring the comm
+ unity closer together by working\, socializing and sharing ideas. It also 
+ aims into bringing interested people into the community and showing them w
+ hat Mozilla is about\, in order to grow the local community even more  \n 
+  \nIt will be held in a well located university in Tirana\, for 2 days\, 6
+  hours a day. Tickets will be free\, but need to be reserved via Eventbrit
+ e
+URL:https://reps.mozilla.org/e/mozilla-weekend-tirana/
+SEQUENCE:20
+X-COORDINATES-LAT:41.3267688202
+X-COORDINATES-LON:19.8246040195
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

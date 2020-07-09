@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2182
+CLASS:PUBLIC
+DTSTAMP:20200423T194227Z
+DTSTART:20140601T043000Z
+DTEND:20140625T063000Z
+LOCATION:Hyderabad\, Hyderabad\, India
+SUMMARY:&#34;Summer safari&#34; on the name of Mozilla ( WebLiteracy )
+DESCRIPTION:Promoting the latest and the cutting edge Firefox 29.\nPromoti
+ ng the Firefox OS with handson experience with Firefox Developer Preview H
+ andsets\nOrganizing awareness sessions in various schools and colleges aro
+ und the city about the Global Non-Profit &#39;Mozilla&#39; and to promote its miss
+ ion\nTo reach out to maximum number of rural schools and to teach internet
+  and the use of computer to unprivileged kids on the name of Mozilla
+URL:https://reps.mozilla.org/e/summer-safari-on-the-name-of-mozilla/
+SEQUENCE:13
+X-COORDINATES-LAT:17.488548375
+X-COORDINATES-LON:78.4194660187
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

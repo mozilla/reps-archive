@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4873
+CLASS:PUBLIC
+DTSTAMP:20200407T174531Z
+DTSTART:20151031T090000Z
+DTEND:20151031T160000Z
+LOCATION:Spielbudenplatz 21/22\, Hamburg\, Germany
+SUMMARY:Mozilla Hamburg Community Stunt and Meetup
+DESCRIPTION:October 31 · 10:00 AM\nSpielbudenplatz 21/22 \n\nWie hilft Fi
+ refox bei der Bewahrung Privatssphäre und des Datenschutzes? Wir sprechen
+  mit Bürgern\, Reisenden und Mozillians im Mozilla-Glashaus direkt auf de
+ m Spielbudenplatz in Hamburg. Wir freuen uns auf euren Besuch!\n\n&#34;Deine D
+ aten gehören Dir und niemand anderem. Übernimm wieder die Kontrolle - mi
+ t Firefox.&#34;
+URL:https://reps.mozilla.org/e/mozilla-hamburg-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:53.5261595696
+X-COORDINATES-LON:10.0620120764
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1909
+CLASS:PUBLIC
+DTSTAMP:20200407T182012Z
+DTSTART:20140304T050000Z
+DTEND:20140304T080000Z
+LOCATION:Balaji Institute of Engineering and Science\, Warangal\, India
+SUMMARY:Mozilla outreach-II
+DESCRIPTION:An outreach program where new contributors will be encouraged 
+ and how to start in mozilla? and the importance of open source and making 
+ them aware of the mission and vision of mozilla.Introducing FSA&#39;s program 
+ to them and introducing various platforms in mozilla where one can contrib
+ ute.
+URL:https://reps.mozilla.org/e/mozilla-outreach-ii/
+SEQUENCE:2
+X-COORDINATES-LAT:17.9935012632
+X-COORDINATES-LON:79.5658835
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

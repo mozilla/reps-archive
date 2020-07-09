@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7937
+CLASS:PUBLIC
+DTSTAMP:20200423T091527Z
+DTSTART:20180721T043000Z
+DTEND:20180722T123000Z
+LOCATION:Gujarat Vidhyapith\, Ahmedabad\, India
+SUMMARY:Mozilla Gujarati L10N Workshop
+DESCRIPTION:Pontoon is a localization tool powered by Mozilla. We will be 
+ doing a full day training on Pontoon and other related QA tools like trans
+ vision ( https://transvision.mozfr.org) Understanding the build cycle. Sty
+ le guide and terminology. This even will be open for all localization love
+ rs irrespective of language.
+URL:https://reps.mozilla.org/e/mozilla-gujarati-l10n-workshop/
+SEQUENCE:0
+X-COORDINATES-LAT:23.0412815618
+X-COORDINATES-LON:72.5690774911
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

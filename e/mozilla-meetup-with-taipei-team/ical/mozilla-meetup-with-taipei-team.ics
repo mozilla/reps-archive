@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7727
+CLASS:PUBLIC
+DTSTAMP:20200423T094120Z
+DTSTART:20180427T130000Z
+DTEND:20180427T150000Z
+LOCATION:Seribu Rasa\, Lotte Shopping Avenue\, Jakarta\, Indonesia
+SUMMARY:Mozilla Meetup with Taipei Team
+DESCRIPTION:A meetup of Mozilla Indonesia Community with Mozilla Taipei Te
+ am whose coming to Jakarta for user research.
+URL:https://reps.mozilla.org/e/mozilla-meetup-with-taipei-team/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.1476491
+X-COORDINATES-LON:106.7431914
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

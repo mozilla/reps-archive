@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2225
+CLASS:PUBLIC
+DTSTAMP:20200423T195425Z
+DTSTART:20140506T050000Z
+DTEND:20140506T080000Z
+LOCATION:Le Meridien Hotel\, Pointe aux Piments\, Mauritius
+SUMMARY:IST-Africa conference 2014 - Living Labs
+DESCRIPTION:This conference is held in Mauritius from 7-9 May\, where seve
+ ral African and European. I am actually participating in the Living Labs w
+ hich is held on 5 May 2014\n\nAs one of the delegates\, representing my in
+ stitution and also a ReMo\, this is an opportunity for me to get involve w
+ ithin this community to promote the mission of Mozilla and network with ot
+ her delegates. \n\nI am also getting this opportunity to promote the New F
+ irefox
+URL:https://reps.mozilla.org/e/ist-africa-conference-2014-living-labs/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.0706263031
+X-COORDINATES-LON:57.5167715545
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

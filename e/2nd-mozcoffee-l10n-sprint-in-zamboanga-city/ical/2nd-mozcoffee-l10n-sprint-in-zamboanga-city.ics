@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@19
+CLASS:PUBLIC
+DTSTAMP:20200423T230510Z
+DTSTART:20120902T010000Z
+DTEND:20120902T040000Z
+LOCATION:Witch Craft Coffee Shop Zamboanga\, Zamboanga City\, Philippines
+SUMMARY:2nd Mozcoffee L10n Sprint in Zamboanga City
+DESCRIPTION:A Mozcoffee event  with Localization Sprint for Chacano Module
+  for Firefox Aurora. Gather volunteers to join and work the L10n project f
+ or chavacano module.
+URL:https://reps.mozilla.org/e/2nd-mozcoffee-l10n-sprint-in-zamboanga-city
+ /
+SEQUENCE:0
+X-COORDINATES-LAT:6.93733286888
+X-COORDINATES-LON:122.063598633
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6686
+CLASS:PUBLIC
+DTSTAMP:20200423T110131Z
+DTSTART:20170612T033000Z
+DTEND:20170612T103000Z
+LOCATION:Dominos\, Assansol\, India
+SUMMARY:Bengal uses Firefox Nightly
+DESCRIPTION:It is a PAN India pilot campaign for Firefox Nightly. This wil
+ l help us in creating strong technical community using and testing Nightly
+  on a regular basis which is a great way to get involved to a Mozilla proj
+ ect. Participants will get aware of Firefox Nightly\,will be installing it
+  on their systems and thus get involved in testing pre-release versions of
+  Firefox.
+URL:https://reps.mozilla.org/e/bengal-uses-firefox-nightly/
+SEQUENCE:5
+X-COORDINATES-LAT:23.6796387994
+X-COORDINATES-LON:86.9573822245
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

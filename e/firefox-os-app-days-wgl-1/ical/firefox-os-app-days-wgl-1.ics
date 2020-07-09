@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1138
+CLASS:PUBLIC
+DTSTAMP:20200407T174427Z
+DTSTART:20130817T023000Z
+DTEND:20130817T113000Z
+LOCATION:NIT Warangal\, Warangal\, India
+SUMMARY:Firefox OS App Days Wgl
+DESCRIPTION:Learn\, Hack and Celebrate the Firefox OS\, Mozilla&#39;s open sou
+ rce operating system for the mobile web. The first Firefox OS App Day in W
+ arangal (India). Technically\, this is an App Day In A Box. The goal of th
+ e App Day is to introduce Firefox OS and Firefox Marketplace\, and share k
+ nowledge about the tools available to help developers get started building
+  apps to submit to the Marketplace.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-wgl-1/
+SEQUENCE:11
+X-COORDINATES-LAT:17.8951143037
+X-COORDINATES-LON:79.6398925781
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

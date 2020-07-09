@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2253
+CLASS:PUBLIC
+DTSTAMP:20200423T194431Z
+DTSTART:20140528T170000Z
+DTEND:20140528T210000Z
+LOCATION:26bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Meetup Paris.JS
+DESCRIPTION:Paris.js is a user group focused on Javascript and related top
+ ics\, hosted in a different company&#39;s office Paris each month. \nFor the f
+ irst time\, Mozilla Paris will have the pleasure to welcome this event. So
+ me members are also members of the Mozilla community. Others will surely b
+ e interested by the demos will give of Firefox OS! More generally\, people
+  will share about JavaScript\, and discover all its recent improvements.
+URL:https://reps.mozilla.org/e/meetup-paris-js/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8720390967
+X-COORDINATES-LON:2.34093403851
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

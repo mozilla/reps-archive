@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4927
+CLASS:PUBLIC
+DTSTAMP:20200407T174242Z
+DTSTART:20160116T073000Z
+DTEND:20160116T130000Z
+LOCATION:ITIS Albert Einstein\, Vimercate\, Italy
+SUMMARY:Einstein loves Firefox OS
+DESCRIPTION:Organized at the high school &#34;ITIS Einstein&#34; by a group of Ita
+ lian contributors. The aim is to spread knowledge about the Web\, from Tim
+  Berners-Lee to the Firefox OS revolution.
+URL:https://reps.mozilla.org/e/mozilla-school/
+SEQUENCE:8
+X-COORDINATES-LAT:45.6164832632
+X-COORDINATES-LON:9.38212716545
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

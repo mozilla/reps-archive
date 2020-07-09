@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8019
+CLASS:PUBLIC
+DTSTAMP:20200423T090415Z
+DTSTART:20180915T070000Z
+DTEND:20180916T160000Z
+LOCATION:Mozilla Paris\, Paris\, France
+SUMMARY:european heritage days / Journée du Patrimoine 2018
+DESCRIPTION:the Paris office is a historic building. It opens again office
+ s to visit this site classified as many people during the weekend. Our vol
+ ontaires engaged with about 20% of them talking about Mozilla\, Firefox...
+ . In addition the arrondissement association &#34;9e Histoire&#34; will make histo
+ ry tours
+URL:https://reps.mozilla.org/e/european-heritage-days-2018/
+SEQUENCE:3
+X-COORDINATES-LAT:48.8097577895
+X-COORDINATES-LON:2.44482278824
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

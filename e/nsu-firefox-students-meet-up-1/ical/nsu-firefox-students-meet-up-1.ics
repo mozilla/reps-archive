@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1600
+CLASS:PUBLIC
+DTSTAMP:20200423T203802Z
+DTSTART:20131225T040000Z
+DTEND:20131225T060000Z
+LOCATION:North South University\, Dhaka\, Bangladesh
+SUMMARY:NSU Firefox Students meet-up &amp; intro to contribution
+DESCRIPTION:All the newbies and old FSA will have a meet-up and know their
+  responsibilities along with getting introduced about contributing to Mozi
+ lla.
+URL:https://reps.mozilla.org/e/nsu-firefox-students-meet-up-1/
+SEQUENCE:19
+X-COORDINATES-LAT:23.8142543021
+X-COORDINATES-LON:90.4254090786
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

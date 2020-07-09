@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5390
+CLASS:PUBLIC
+DTSTAMP:20200423T153133Z
+DTSTART:20160422T170000Z
+DTEND:20160422T180000Z
+LOCATION:Long Moutain\, Long Mountain\, Mauritius
+SUMMARY:Mozilla Africa Biweekly call
+DESCRIPTION:This is the bi-weekly call of the Mozilla Africa where communi
+ ties from Africa meet online to discuss issues and achievements.
+URL:https://reps.mozilla.org/e/mozilla-africa-biweekly-call/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1541161155
+X-COORDINATES-LON:57.5714206661
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

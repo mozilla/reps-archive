@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8600
+CLASS:PUBLIC
+DTSTAMP:20200423T082844Z
+DTSTART:20190521T043000Z
+DTEND:20190521T093000Z
+LOCATION:Sastra University\, Tanjore\, India
+SUMMARY:Let&#39;s beat the heat with cool VR
+DESCRIPTION:A day long talk on introduction to WebVR \, A-frame and its us
+ e cases
+URL:https://reps.mozilla.org/e/let-s-beat-the-heat-with-cool-vr/
+SEQUENCE:1
+X-COORDINATES-LAT:10.7834405997
+X-COORDINATES-LON:79.1379775945
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

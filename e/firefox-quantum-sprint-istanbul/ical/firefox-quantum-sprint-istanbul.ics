@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7130
+CLASS:PUBLIC
+DTSTAMP:20200407T174237Z
+DTSTART:20170929T160000Z
+DTEND:20170929T170000Z
+LOCATION:Abaküs Kitap\, Hobyar Mahallesi\, Cemal Nadir Sk. 24/227\, 34112
+  Fa\, Turkey
+SUMMARY:Firefox Quantum Sprint - Istanbul
+DESCRIPTION:Test local websites to prepare for Firefox 57 launch
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-istanbul/
+SEQUENCE:2
+X-COORDINATES-LAT:41.0131787873
+X-COORDINATES-LON:28.9741237162
+X-COUNTRY-CODE:tr
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8714
+CLASS:PUBLIC
+DTSTAMP:20200423T081820Z
+DTSTART:20190728T070000Z
+DTEND:20190728T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: Basic Automation Using Arduino Uno
+DESCRIPTION:A hands-on workshop about using Arduino Uno to automatically s
+ tart/turn on the water pump with soil moisture sensor motor.
+URL:https://reps.mozilla.org/e/mozbelajar-basic-automation-using-arduino-u
+ no-1/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23478203594
+X-COORDINATES-LON:106.820943117
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

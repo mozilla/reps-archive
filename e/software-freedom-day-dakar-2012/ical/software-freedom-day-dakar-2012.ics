@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@63
+CLASS:PUBLIC
+DTSTAMP:20200423T230155Z
+DTSTART:20120915T090000Z
+DTEND:20120915T180000Z
+LOCATION:Dakar\, Senegal \, Dakar\, Senegal
+SUMMARY:Software Freedom Day Dakar 2012 
+DESCRIPTION:DAKARLUG is an independent community of users and lovers of Li
+ nux and free software and free culture in general living in Dakar and else
+ where (Linux Users Groups - LUG) is considered a member of any registered 
+ person DakarLUG voluntarily open discussion list (at) dakarlug.org\nDuring
+  the day\, Mozilla team will do two presentation and one workshop \nThe tw
+ o presentation will be : \n    - The web : history - get involved \n    - 
+ Documenting the open web: the example of Mozilla
+URL:https://reps.mozilla.org/e/software-freedom-day-dakar-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:14.679711
+X-COORDINATES-LON:-17.467557
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

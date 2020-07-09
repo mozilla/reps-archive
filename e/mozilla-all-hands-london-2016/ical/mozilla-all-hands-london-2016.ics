@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5353
+CLASS:PUBLIC
+DTSTAMP:20200407T170233Z
+DTSTART:20160613T080000Z
+DTEND:20160618T173000Z
+LOCATION:TBD\, London\, United Kingdom
+SUMMARY:Mozilla All Hands London 2016
+DESCRIPTION:A Work Week is a meeting on specific topic where all participa
+ nts want to define and coordinate on the specific topics. It becomes very 
+ useful to quickly coordinate and solve issues without delay and plan proje
+ cts for the year to come.
+URL:https://reps.mozilla.org/e/mozilla-all-hands-london-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:51.5192895825
+X-COORDINATES-LON:-0.169574262109
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

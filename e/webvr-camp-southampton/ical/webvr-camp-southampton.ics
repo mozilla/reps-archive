@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6136
+CLASS:PUBLIC
+DTSTAMP:20200407T170242Z
+DTSTART:20170115T100000Z
+DTEND:20170115T150000Z
+LOCATION:Dominos \, The Avenue\, Southampton\, United Kingdom
+SUMMARY:WebVR Camp @ Southampton
+DESCRIPTION:This event is being organized under the “Developer Engagemen
+ t” functional area for the ‘WebVR’ focused initiative of Activate Mo
+ zilla Campaign. The main goals of the event is to start Mozilla community 
+ activities in UK where there are not much community members but the techni
+ cal group and interested people are there alongwith focus to involving the
+  group in Webvr activities and involving participation around that . Engag
+ ing more and more contributors will help creating soldiers of future web.
+URL:https://reps.mozilla.org/e/webvr-camp-southampton/
+SEQUENCE:4
+X-COORDINATES-LAT:51.4899345235
+X-COORDINATES-LON:359.948501587
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

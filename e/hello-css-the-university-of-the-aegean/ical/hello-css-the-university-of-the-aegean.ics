@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4883
+CLASS:PUBLIC
+DTSTAMP:20200423T161156Z
+DTSTART:20151121T140000Z
+DTEND:20151121T153000Z
+LOCATION:University of the Aegean - Papanikolaou Building\, Karlovasi\, Gr
+ eece
+SUMMARY:/* Hello CSS */ @ the University of the Aegean
+DESCRIPTION:The Free &amp; Open Source Software Community of the University of
+  the Aegean is organizing a series of workshops around web development.\n\
+ nDuring the second lesson\, participants will get to play around with CSS.
+URL:https://reps.mozilla.org/e/hello-css-the-university-of-the-aegean/
+SEQUENCE:1
+X-COORDINATES-LAT:37.7970676711
+X-COORDINATES-LON:26.702099204
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

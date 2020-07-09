@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@70
+CLASS:PUBLIC
+DTSTAMP:20200423T230439Z
+DTSTART:20120908T080000Z
+DTEND:20120909T140000Z
+LOCATION:University of Pristina\, Pristina\, Albania
+SUMMARY:Software Freedom Kosova 2012
+DESCRIPTION:Software Freedom Kosova 2012 Conference is the fourth annual c
+ onference on free and open source software and related developments in kno
+ wledge\, culture and mapping held in Pristina\, Kosovo. It is the largest 
+ conference of its kind in the region. The conference is being organised by
+  Free/Libre Open Source Software Kosova (FLOSSK) and others\n\nSFK12 will 
+ focus on open web technologies that are standards-based and vendor agnosti
+ c such as HTML5\, JavaScript and the like.
+URL:https://reps.mozilla.org/e/software-freedom-kosova-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:42.648398
+X-COORDINATES-LON:21.166898
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

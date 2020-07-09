@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8918
+CLASS:PUBLIC
+DTSTAMP:20200423T080349Z
+DTSTART:20191105T161500Z
+DTEND:20191105T170000Z
+LOCATION:Mozilla Hubs\, Internet\, India
+SUMMARY:ML for Humans on Mozilla Hubs
+DESCRIPTION:Machine Learning is a very hot topic today and the session is 
+ for people who want to get into Machine Learning and want to get their jou
+ rney started. Pratik Parmar will be teaching how to get there!
+URL:https://reps.mozilla.org/e/ml-for-humans-on-mozilla-hubs/
+SEQUENCE:1
+X-COORDINATES-LAT:22.7525437914
+X-COORDINATES-LON:79.3051743507
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

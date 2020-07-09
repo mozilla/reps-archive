@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3886
+CLASS:PUBLIC
+DTSTAMP:20200407T175932Z
+DTSTART:20150612T040000Z
+DTEND:20150613T080000Z
+LOCATION:Shercon Resort and Ecology Park\, Mataasnakahoy\, Philippines
+SUMMARY:FSA Leaders Camp 2015
+DESCRIPTION:The FSA Leaders Camp PH is an event for all FSA Club Leads in 
+ the Philippines for training and development of the future leaders of Mozi
+ lla Philippines. This camp aims to train student leaders to be more famili
+ ar with the Mozillia mission to promote the FSA program in their own campu
+ s\, get more familiar with the Mozilla products\, develop camaraderie with
+  other FSA&#39;s and learn how they can shape the future of the open Web.
+URL:https://reps.mozilla.org/e/fsa-leaders-camp-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:13.9602095852
+X-COORDINATES-LON:121.113252636
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

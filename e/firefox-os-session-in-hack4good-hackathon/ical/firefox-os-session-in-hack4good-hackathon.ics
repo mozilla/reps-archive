@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2823
+CLASS:PUBLIC
+DTSTAMP:20200423T190056Z
+DTSTART:20140913T043000Z
+DTEND:20140913T063000Z
+LOCATION:Red Hat\, IBC Knowledge Park\, Bannerghatta Road\, Bangalore\, In
+ dia
+SUMMARY:Firefox OS Session in Hack4good Hackathon
+DESCRIPTION:A Session on Firefox OS in a hackathon where participants will
+  be hacking with apps. This session will help them in hacking or developin
+ g apps for Firefox OS. They will learn how to develop an in a simpler way 
+ using Firefox OS.
+URL:https://reps.mozilla.org/e/firefox-os-session-in-hack4good-hackathon/
+SEQUENCE:4
+X-COORDINATES-LAT:12.9627325964
+X-COORDINATES-LON:77.7282571775
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

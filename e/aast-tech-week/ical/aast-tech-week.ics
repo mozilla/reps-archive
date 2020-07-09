@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5059
+CLASS:PUBLIC
+DTSTAMP:20200423T154653Z
+DTSTART:20160223T060000Z
+DTEND:20160225T180000Z
+LOCATION:Arab Academy for Science\, Technology &amp; Maritime Transport\, Alex
+ andria\, Egypt
+SUMMARY:AAST Tech week
+DESCRIPTION:A 3 days event hosted by the Arab Academy for Science\, Techno
+ logy &amp; Maritime Transport in collaboration with student clubs (Google stud
+ nt Club\, Microsotoft Student Partners\, etc) and student union to help st
+ udents to be aware of different technology fields.\nThe 3 days will be div
+ ided into parallel sessions for student clubs.\n\nOur team will have about
+  5 sessions (about 2 sessions a day).\n\nBy the end of the day there will 
+ be a competitions between attendees
+URL:https://reps.mozilla.org/e/aast-tech-week/
+SEQUENCE:10
+X-COORDINATES-LAT:31.3109433512
+X-COORDINATES-LON:30.0660173895
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

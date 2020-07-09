@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8010
+CLASS:PUBLIC
+DTSTAMP:20200423T090420Z
+DTSTART:20180915T063000Z
+DTEND:20180915T083000Z
+LOCATION:Sant Singaji Institute of Science and Management\, Harda\, India
+SUMMARY:WebVR - A Day in the V R world
+DESCRIPTION:In this event\, you will learn WebVR development using A-Frame
+  framework (one of emerging future technologies by Mozilla). This event is
+  for participants who already know HTML
+URL:https://reps.mozilla.org/e/webvr-a-day-in-the-v-r-world/
+SEQUENCE:4
+X-COORDINATES-LAT:23.1790804461
+X-COORDINATES-LON:76.9445796311
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

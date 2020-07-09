@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1526
+CLASS:PUBLIC
+DTSTAMP:20200423T203807Z
+DTSTART:20131223T130000Z
+DTEND:20131223T170000Z
+LOCATION:Food Court City Mall\, Mombasa\, Kenya
+SUMMARY:End of year MozCoffee
+DESCRIPTION:This will be a meet up for Mozilla Rep\, FSA&#39;s\, RMA and core 
+ Mozillians within the Mozilla Mombasa community to discuss on the progress
+  made as a community for the year 2013 and specifically creating a local r
+ oad map for the firs quarter of 2014.\n\nAmongst the highlights will be di
+ scussions on events and activities centered around Firefox OS\, Webmaker a
+ nd WoMoz amongst others.
+URL:https://reps.mozilla.org/e/end-of-year-mozcoffee/
+SEQUENCE:3
+X-COORDINATES-LAT:-4.40529065118
+X-COORDINATES-LON:39.8765945435
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

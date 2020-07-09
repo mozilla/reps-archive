@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6451
+CLASS:PUBLIC
+DTSTAMP:20200423T105716Z
+DTSTART:20170627T170000Z
+DTEND:20170627T181500Z
+LOCATION:IRC\, Täby\, Sweden
+SUMMARY:Mozilla Sweden Community IRC Meeting
+DESCRIPTION:IRC Meeting for the Swedish Mozilla Community about https://is
+ oc.se/ stuff\, L10n Hackathon in Berlin Offices and Rust Meetup
+URL:https://reps.mozilla.org/e/mozilla-sweden-community-irc-meeting-1/
+SEQUENCE:2
+X-COORDINATES-LAT:59.4353858
+X-COORDINATES-LON:18.0604902
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

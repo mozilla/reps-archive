@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5455
+CLASS:PUBLIC
+DTSTAMP:20200423T152427Z
+DTSTART:20160521T113000Z
+DTEND:20160521T133000Z
+LOCATION:The Hangouts\, Tirupati\, India
+SUMMARY:MozCafe Meetup
+DESCRIPTION:This event aims to gather all the Mozillians in and around Tir
+ upati to discuss about individual contributions\, brainstorming for new in
+ itiatives and make everyone to work as a team. This event also invites new
+  FSA&#39;s to join the team to get training from co contributors. This is the 
+ great opportunity to meet all the core community members to plan and share
+  the ideas to work on Mozillian projects for this summer.
+URL:https://reps.mozilla.org/e/mozcafe-meetup-1/
+SEQUENCE:2
+X-COORDINATES-LAT:13.597939005
+X-COORDINATES-LON:79.4113469124
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@332
+CLASS:PUBLIC
+DTSTAMP:20200423T223347Z
+DTSTART:20121215T110000Z
+DTEND:20121215T140000Z
+LOCATION:KTO Bekasi\, Ruko Bumi Satria Kencana\, Bekasi\, Indonesia
+SUMMARY:MozKopDarBKS Desember 2012
+DESCRIPTION:Offline Meetup Mozillian in Bekasi\, Jawa Barat\n\nMengenal Le
+ bih Jauh Tentang #FirefoxOS &amp; #FirefoxMarketplace :)
+URL:https://reps.mozilla.org/e/mozkopdarbks-desember-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.2661577472
+X-COORDINATES-LON:106.940917969
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

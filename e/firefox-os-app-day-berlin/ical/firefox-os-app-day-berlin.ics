@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@464
+CLASS:PUBLIC
+DTSTAMP:20200423T221620Z
+DTSTART:20130202T090000Z
+DTEND:20130202T220000Z
+LOCATION:Supermarkt\, Brunnenstr. 64\, Berlin\, Germany
+SUMMARY:Firefox OS App Day Berlin
+DESCRIPTION:Please join us at Supermarkt on Saturday February 2nd\, to lea
+ rn\, hack and celebrate the Firefox OS\, Mozilla&#39;s open source operating s
+ ystem for the mobile web.\n\nIf you&#39;re a web developer\, you’ll be right
+  at home coding apps in HTML5\, JavaScript and CSS for the Firefox OS. We
+ ’ll help you with everything else\, including how to access mobile Web A
+ PIs and how to use the Firefox OS Simulator in your desktop browser to vie
+ w and test your mobile apps.
+URL:https://reps.mozilla.org/e/firefox-os-app-day-berlin/
+SEQUENCE:0
+X-COORDINATES-LAT:52.5403972239
+X-COORDINATES-LON:13.3945441246
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

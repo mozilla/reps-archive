@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8964
+CLASS:PUBLIC
+DTSTAMP:20200407T182914Z
+DTSTART:20191206T033000Z
+DTEND:20191206T080000Z
+LOCATION:Wellawaya Central College\, Wellawaya\, Sri Lanka
+SUMMARY:Mozilla Awareness with Schools - Wellawaya Central College
+DESCRIPTION:Wellawaya Central College requested to do an awareness program
+  on Mozilla\, Privacy and FOSS
+URL:https://reps.mozilla.org/e/mozilla-awareness-with-schools-wellawaya-ce
+ ntral-college/
+SEQUENCE:1
+X-COORDINATES-LAT:6.97401955991
+X-COORDINATES-LON:81.0568199074
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

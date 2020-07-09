@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@309
+CLASS:PUBLIC
+DTSTAMP:20200423T224031Z
+DTSTART:20121204T160000Z
+DTEND:20121206T010000Z
+LOCATION:Av. Illampu\, La Paz\, Bolivia
+SUMMARY:Futuro Móvil 2012
+DESCRIPTION:Futuro Móvil 2012 is an event organized by the Free Software 
+ Community and the Government of Bolivia\, which aims to show the importanc
+ e of mobile technology for the future of the country\, and which is intend
+ ed to teach workshops\, languages ​​and platforms for mobile applicati
+ ons . Mozilla Bolivia has been invited to show the advantages of Firefox O
+ S and give a workshop about developing applications for OS Firefox.
+URL:https://reps.mozilla.org/e/futuro-movil-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:-16.496274749
+X-COORDINATES-LON:-68.1399321556
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

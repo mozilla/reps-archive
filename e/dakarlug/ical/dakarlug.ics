@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1215
+CLASS:PUBLIC
+DTSTAMP:20200423T211736Z
+DTSTART:20130817T130000Z
+DTEND:20130817T180000Z
+LOCATION:Agence Universitaire de la Francophonie - Bureau de l&#39;afrique de 
+ l&#39;ouest\, Dakar\, Senegal
+SUMMARY:DakarLUG :
+DESCRIPTION:DakarLUG therefore offers good wishes expressed to come and di
+ scuss the topic of hosting the &#34;technical infrastructure&#34; this Saturday\, 
+ August 17\, 2013\, from 13 am in the premises of the AUF.
+URL:https://reps.mozilla.org/e/dakarlug/
+SEQUENCE:2
+X-COORDINATES-LAT:14.679508
+X-COORDINATES-LON:-17.467603
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

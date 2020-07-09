@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1450
+CLASS:PUBLIC
+DTSTAMP:20200423T205648Z
+DTSTART:20131026T140000Z
+DTEND:20131026T160000Z
+LOCATION:Calle Independencia\, Villamontes\, Villamontes\, Bolivia
+SUMMARY:Mozilla Thecnology and Philofophy
+DESCRIPTION:This is a presentation of Mozilla and the work on Thecnology a
+ nd all the Philofophy. This will be the first event in Villamonte City in 
+ the south of the country.
+URL:https://reps.mozilla.org/e/mozilla-thecnology-and-philofophy/
+SEQUENCE:1
+X-COORDINATES-LAT:-21.2619009001
+X-COORDINATES-LON:-63.4742188454
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

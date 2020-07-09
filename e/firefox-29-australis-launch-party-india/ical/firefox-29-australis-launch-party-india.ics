@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2173
+CLASS:PUBLIC
+DTSTAMP:20200407T175606Z
+DTSTART:20140510T070000Z
+DTEND:20140510T110000Z
+LOCATION:TBD\, Bangalore\, India
+SUMMARY:Firefox Launch Party India
+DESCRIPTION:To celebrate the launch of new Firefox\, with new UI\, new too
+ ls\, new features and many more customizations!
+URL:https://reps.mozilla.org/e/firefox-29-australis-launch-party-india/
+SEQUENCE:9
+X-COORDINATES-LAT:13.0223982424
+X-COORDINATES-LON:77.6000967622
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5522
+CLASS:PUBLIC
+DTSTAMP:20200423T152133Z
+DTSTART:20160602T110000Z
+DTEND:20160602T133000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Da-an District\, Ta
+ iwan
+SUMMARY:Monthly meetup of NTNU service learning project
+DESCRIPTION:Collaboration between MozTW\, Wikimedia\, OSSACC and NTNU Comp
+ uter Information Club\, we want to recruit students contributing to OSS pr
+ ojects as their school service learning credit.\n\nI will check the progre
+ ss of each students who had signed up to contributing to Mozilla projects.
+URL:https://reps.mozilla.org/e/orientation-talk-of-ntnu-service-learning-p
+ roject-2/
+SEQUENCE:3
+X-COORDINATES-LAT:25.0440021272
+X-COORDINATES-LON:121.5322752
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3043
+CLASS:PUBLIC
+DTSTAMP:20200407T174308Z
+DTSTART:20141110T080000Z
+DTEND:20141110T180000Z
+LOCATION:different places in Berlin\, Ortsteil Mitte\, Germany
+SUMMARY:10 Years Firefox - Tour in Berlin
+DESCRIPTION:We are putting together a photo bus tour (for lack of a\nbette
+ r term) to go from iconic location to iconic location taking\npictures and
+  posting these to #ChooseIndependent and #fx10. We&#39;ll be\nwearing Firefox 
+ shirts and have the Fox around to take pictures and\nrally people to do th
+ e same and share them on Social Media.\n\nSee the wiki for more informatio
+ n. The route could change any time\, so it&#39;s better to have it at one plac
+ e.
+URL:https://reps.mozilla.org/e/10-years-firefox-tour-in-berlin/
+SEQUENCE:5
+X-COORDINATES-LAT:52.5212826399
+X-COORDINATES-LON:13.4114341729
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

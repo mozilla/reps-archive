@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5329
+CLASS:PUBLIC
+DTSTAMP:20200407T174240Z
+DTSTART:20160423T080000Z
+DTEND:20160423T140000Z
+LOCATION:Haus 12\, Voltastr. 5\, 13355 Berlin\, Berlin\, Berlin\, Berlin\,
+  Germany
+SUMMARY:Firefox OS Coding Event
+DESCRIPTION:Mozilla would like to welcome everyone who is interested in th
+ e Firefox OS software stack to come and learn what it takes to port Firefo
+ x OS to new phones or IoT boards. We have no set agenda for this session\,
+  but rather we hope you have ideas. For instance\, do you want to run Fire
+ fox OS on your DragonBoard [1]? Do you want to get bluetooth working on yo
+ ur Fx0 [2]? How about running Firefox OS on your Fairphone [3]? Well\, thi
+ s is the event where you can learn how.
+URL:https://reps.mozilla.org/e/firefox-os-coding-event/
+SEQUENCE:1
+X-COORDINATES-LAT:52.5409578522
+X-COORDINATES-LON:13.3870182036
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

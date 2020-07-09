@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2303
+CLASS:PUBLIC
+DTSTAMP:20200407T180010Z
+DTSTART:20140622T060000Z
+DTEND:20140622T090000Z
+LOCATION:Telkomsel Grapari - Gedung Wahana Bakti Pos 2nd Floor\, Bandung\,
+  Indonesia
+SUMMARY:MozKopDarBDG June 2014
+DESCRIPTION:Small meetup for Mozillians in Bandung to get update about Moz
+ illa latest updates\, new Firefox 29 (Australis)\, Firefox OS\, Web We Wan
+ t\, Firefox Student Ambassadors\, etc.
+URL:https://reps.mozilla.org/e/mozkopdarbdg-june-2014/
+SEQUENCE:8
+X-COORDINATES-LAT:-6.91013302206
+X-COORDINATES-LON:107.617453336
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

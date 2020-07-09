@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4322
+CLASS:PUBLIC
+DTSTAMP:20200407T175312Z
+DTSTART:20150919T020000Z
+DTEND:20150919T100000Z
+LOCATION:Ground Floor\, Information Access Center\, the NIPTICT Building\,
+  National Institute of Posts\, Telecoms and ICT (NIPTICT) No. 41 Russian F
+ ederation Blvd\,\, Phnom Penh\, Cambodia
+SUMMARY:Software Freedom Day 2015 Phnom Penh
+DESCRIPTION:Software Freedom Day is a worldwide celebration of Free and Op
+ en Source Software (FOSS). Our goal in this celebration is to educate the 
+ worldwide public about the benefits of using high quality FOSS in educatio
+ n\, in government\, at home\, and in business -- in short\, everywhere!
+URL:https://reps.mozilla.org/e/software-freedom-day-2015-phnom-penh/
+SEQUENCE:4
+X-COORDINATES-LAT:11.5699415325
+X-COORDINATES-LON:104.909369767
+X-COUNTRY-CODE:kh
+END:VEVENT
+
+END:VCALENDAR

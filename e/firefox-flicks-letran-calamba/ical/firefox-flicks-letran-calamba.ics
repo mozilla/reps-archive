@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1067
+CLASS:PUBLIC
+DTSTAMP:20200423T212925Z
+DTSTART:20130705T050000Z
+DTEND:20130705T070000Z
+LOCATION:Colegio de San Juan de Letran Calamba\, Media Center Hall\, Calam
+ ba\, Philippines
+SUMMARY:Firefox Flicks Letran Calamba
+DESCRIPTION:Screening of Firefox Flicks in Letran Calamba for 2 sections o
+ f film class and film buffs to encourage them to submit to the video conte
+ st.
+URL:https://reps.mozilla.org/e/firefox-flicks-letran-calamba/
+SEQUENCE:1
+X-COORDINATES-LAT:14.1888181672
+X-COORDINATES-LON:121.165680885
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4175
+CLASS:PUBLIC
+DTSTAMP:20200423T163522Z
+DTSTART:20150926T130000Z
+DTEND:20150926T163000Z
+LOCATION:Largo San Francesco\, 1/B\, Biblioteca Multimediale di Fabriano &#34;
+ Romualdo Sassi&#34;\, Fabriano\, Italy
+SUMMARY:Firefox OS/Arduino Workshop Fabriano
+DESCRIPTION:An afternoon to discover Firefox OS and the Web App world with
+  a little introduction to JavaScript combined with Arduino.\n\nControl you
+  Arduino from your Open Web App!
+URL:https://reps.mozilla.org/e/firefox-os-arduino-workshop-fabriano/
+SEQUENCE:8
+X-COORDINATES-LAT:43.3360951322
+X-COORDINATES-LON:12.9056239126
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

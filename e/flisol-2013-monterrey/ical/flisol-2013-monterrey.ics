@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@583
+CLASS:PUBLIC
+DTSTAMP:20200407T182808Z
+DTSTART:20130420T000000Z
+DTEND:20130420T030000Z
+LOCATION:TBD\, Monterrey\, Mexico
+SUMMARY:FLISOL 2013 Monterrey
+DESCRIPTION:The FLISOL (Festival Latin American Free Software Installation
+ ) is the event of dissemination of Free Software in Latin America&#39;s larges
+ t. We carried out since 2005 and its main objective is to promote the use 
+ of free software\, informing the general public philosophy\, scope\, progr
+ ess and development.\n\n
+URL:https://reps.mozilla.org/e/flisol-2013-monterrey/
+SEQUENCE:5
+X-COORDINATES-LAT:25.6703365299
+X-COORDINATES-LON:-100.321977139
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7456
+CLASS:PUBLIC
+DTSTAMP:20200407T181242Z
+DTSTART:20180303T043000Z
+DTEND:20180303T203000Z
+LOCATION:OrangeScape\, Tidel Park\,Chennai\, Chennai\, India
+SUMMARY:TEXUS Hackathon
+DESCRIPTION:TEXUS Hackathon is a 24-hour event that will see participants 
+ going on a journey that started as a small budding idea and will end as a 
+ Minimum Viable Product that is good enough to turn heads.The theme for the
+  Hackathon is to empower participants with the power to solve day to day p
+ roblems pertaining to any field from education to transportation with the 
+ help of technology. Participants can work on the four tracks - AI\, VR/AR\
+ , IoT &amp; Open Source.
+URL:https://reps.mozilla.org/e/texus-hackathon/
+SEQUENCE:1
+X-COORDINATES-LAT:13.0803404419
+X-COORDINATES-LON:80.2761152387
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

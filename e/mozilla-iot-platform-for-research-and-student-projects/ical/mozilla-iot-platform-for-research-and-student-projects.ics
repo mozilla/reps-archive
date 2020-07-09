@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9164
+CLASS:PUBLIC
+DTSTAMP:20200407T170248Z
+DTSTART:20200120T070000Z
+DTEND:20200120T090000Z
+LOCATION:SIT\, Singapore\, Singapore\, Singapore
+SUMMARY:Mozilla IoT platform for research and student projects
+DESCRIPTION:Discussion with academicians on introducing mozilla iot for st
+ udent projects and research .
+URL:https://reps.mozilla.org/e/mozilla-iot-platform-for-research-and-stude
+ nt-projects/
+SEQUENCE:2
+X-COORDINATES-LAT:1.300709
+X-COORDINATES-LON:103.78048
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

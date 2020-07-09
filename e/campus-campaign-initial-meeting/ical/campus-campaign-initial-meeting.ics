@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5110
+CLASS:PUBLIC
+DTSTAMP:20200407T175934Z
+DTSTART:20160212T091500Z
+DTEND:20160212T111500Z
+LOCATION:CLASS Nepal\, Maitighar\, Kathmandu\, Kathmandu\, Nepal
+SUMMARY:Campus Campaign Initial Meeting
+DESCRIPTION:Meeting with student representatives for various college to di
+ scuss about organizing privacy campaign in their colleges.\nStudents from 
+ 7 colleges have shown interest till now\, can increase by a few number by 
+ event date.\n\nA brief introduction about Mozilla and its missions will be
+  given.\nAfter that orientation on Privacy. And finally plans on organizin
+ g events in their respective college will be discussed.\nInterested colleg
+ es:\nSagarmatha College\nACME\nASM\nSwastika\nNCIT\nHCOE\nNIST
+URL:https://reps.mozilla.org/e/campus-campaign-initial-meeting/
+SEQUENCE:2
+X-COORDINATES-LAT:27.6942206507
+X-COORDINATES-LON:85.3197623044
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3046
+CLASS:PUBLIC
+DTSTAMP:20200423T183227Z
+DTSTART:20141113T100000Z
+DTEND:20141115T180000Z
+LOCATION:Instituto Tecnológico de Ciudad Madero\,\, Ciudad Madero\, Mexic
+ o
+SUMMARY:Multidisciplinary Conference Engineering
+DESCRIPTION:Provide a venue to Students\, Professionals and anyone interes
+ ted in staying informed about the actuality of our country and its recent 
+ structural reforms adopted.\n\nIn order to know the voice of experts\; iss
+ ues\, challenges\, solutions and niche opportunities currently facing thes
+ e areas in the world and especially in Mexico.
+URL:https://reps.mozilla.org/e/multidisciplinary-conference-engineering/
+SEQUENCE:3
+X-COORDINATES-LAT:22.245800518
+X-COORDINATES-LON:-97.8381071077
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

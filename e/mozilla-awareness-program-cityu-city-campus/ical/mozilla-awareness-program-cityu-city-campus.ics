@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5028
+CLASS:PUBLIC
+DTSTAMP:20200423T161935Z
+DTSTART:20151103T080000Z
+DTEND:20151103T103000Z
+LOCATION:City University\, Dhaka\, Bangladesh
+SUMMARY:Mozilla Awareness Program @ CityU\, City Campus
+DESCRIPTION:A event organized by Mozilla Bangladesh and City University\, 
+ to aware the university students about Mozilla&#39;s mission\, contribution op
+ portunity and show users\, how they can use Firefox as default browser on 
+ windows 10!
+URL:https://reps.mozilla.org/e/mozilla-awareness-program-cityu-city-campus
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:23.7509459723
+X-COORDINATES-LON:90.388801368
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

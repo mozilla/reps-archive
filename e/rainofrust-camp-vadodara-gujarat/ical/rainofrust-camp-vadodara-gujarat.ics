@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6665
+CLASS:PUBLIC
+DTSTAMP:20200423T110119Z
+DTSTART:20170613T053000Z
+DTEND:20170613T083000Z
+LOCATION:Yuvalay Electronics lab 201 A\, Pancham Icon\, Vasna Road\, Vadod
+ ara\, Gujarat\, India\, Vadodara\, India
+SUMMARY:RainOfRust Camp Vadodara\, Gujarat
+DESCRIPTION:An activities and initiative followed by https://reps.mozilla.
+ org/e/rainofrust-campaign/ Rust India community come up with RainOfRust Ca
+ mpaign to spread the awesomeness of Rust language. This event is focused o
+ n introducing and teaching the state of art system programming language Ru
+ st to Students/ Developers and Mozillians around.
+URL:https://reps.mozilla.org/e/rainofrust-camp-vadodara-gujarat/
+SEQUENCE:1
+X-COORDINATES-LAT:23.0062675943
+X-COORDINATES-LON:72.5363158062
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

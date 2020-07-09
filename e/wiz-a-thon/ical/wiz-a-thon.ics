@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8825
+CLASS:PUBLIC
+DTSTAMP:20200423T080835Z
+DTSTART:20191005T050000Z
+DTEND:20191006T130000Z
+LOCATION:Parul University\, Vadodara\, India
+SUMMARY:Wiz-a-Thon
+DESCRIPTION:Wiz-A-Thon is a stage for truely remarkable magical occurrence
+ . Every year the magic of code changes millions of lives\, by one of the w
+ orld&#39;s most mysterious species. To reach this utopian destination these un
+ ique mammals will instinctively embark on a magical journey from all corne
+ rs of the world. This is the wizardosarous\, or more commonly known\, the 
+ developer.\n\nThe only constraint is time.
+URL:https://reps.mozilla.org/e/wiz-a-thon/
+SEQUENCE:4
+X-COORDINATES-LAT:22.3309167581
+X-COORDINATES-LON:73.366195634
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

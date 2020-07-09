@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8940
+CLASS:PUBLIC
+DTSTAMP:20200407T165007Z
+DTSTART:20191116T033000Z
+DTEND:20191117T123000Z
+LOCATION:PESIT Bangalore South Campus\, Bangalore\, India
+SUMMARY:inGenius and Girlsgeek hackathon
+DESCRIPTION:inGenius\, the flagship event of PESITSouth IEEE Computer Soci
+ ety\, is an annual 24-hour hackathon.After seven successful iterations\, i
+ nGenius 2019 is back! This time around\, our theme is Open Hack. The futur
+ e is data-driven.\nGirlsGeek is to encourage leadership and participation 
+ by young women. It is a 24-hour hackathon with 2-3 rounds of judging. The 
+ top 10 teams will be selected to pitch the idea on the stage to everyone.
+URL:https://reps.mozilla.org/e/ingenius-and-girlsgeek-hackathon/
+SEQUENCE:4
+X-COORDINATES-LAT:12.8939196582
+X-COORDINATES-LON:77.7319326997
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

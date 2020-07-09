@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1475
+CLASS:PUBLIC
+DTSTAMP:20200423T204421Z
+DTSTART:20131204T050000Z
+DTEND:20131206T140000Z
+LOCATION:Port Louis\, Port Louis\, Mauritius
+SUMMARY:Youth Engagement Summit  - YES Africa
+DESCRIPTION:This is a pan-African project run by Extensia in partnership w
+ ith the Ministry of ICT in Mauritius\, who have asked them to organise the
+  first annual Youth Engagement Summit .
+URL:https://reps.mozilla.org/e/youth-engagement-summit-yes-africa/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.2527491885
+X-COORDINATES-LON:57.5874023885
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

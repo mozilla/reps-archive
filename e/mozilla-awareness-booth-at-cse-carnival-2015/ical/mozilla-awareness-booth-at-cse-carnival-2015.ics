@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4462
+CLASS:PUBLIC
+DTSTAMP:20200407T180522Z
+DTSTART:20151127T040000Z
+DTEND:20151128T110000Z
+LOCATION:Shahjalal University of  Science and Technology\,  Sylhet\, Sylhe
+ t\, Bangladesh
+SUMMARY:Mozilla Awareness Booth at CSE Carnival 2015
+DESCRIPTION:An IT carnival of two days will be happening on 27-28th Novemb
+ er 2015\; \nMozilla will get a huge attention there\;\nPlease see the ethe
+ rpad for details\;
+URL:https://reps.mozilla.org/e/mozilla-awareness-booth-at-cse-carnival-201
+ 5/
+SEQUENCE:14
+X-COORDINATES-LAT:24.8996498
+X-COORDINATES-LON:91.8775177002
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

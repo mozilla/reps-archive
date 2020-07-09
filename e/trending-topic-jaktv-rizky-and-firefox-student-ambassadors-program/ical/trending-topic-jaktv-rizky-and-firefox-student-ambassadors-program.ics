@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4868
+CLASS:PUBLIC
+DTSTAMP:20200423T160803Z
+DTSTART:20151130T143000Z
+DTEND:20151130T150000Z
+LOCATION:JakTV\, Jakarta\, Indonesia
+SUMMARY:Trending Topic JakTV - Rizky and Firefox Student Ambassadors Progr
+ am
+DESCRIPTION:This event is interview me (Rizky Ariestiyansyah) as Regional 
+ Lead Ambassador of Firefox Student Ambassador Program.
+URL:https://reps.mozilla.org/e/trending-topic-jaktv-rizky-and-firefox-stud
+ ent-ambassadors-program/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.2436813
+X-COORDINATES-LON:106.6283404
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

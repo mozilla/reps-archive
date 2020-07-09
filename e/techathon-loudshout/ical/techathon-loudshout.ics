@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4495
+CLASS:PUBLIC
+DTSTAMP:20200423T163641Z
+DTSTART:20150925T043000Z
+DTEND:20150927T113000Z
+LOCATION:TTN \, SECTOR 127 \, Noida\, Noida\, India
+SUMMARY:Techathon @ LoudShout
+DESCRIPTION:This is an hack event event\,hosted by loudshout in which atte
+ ndees will be giving certain use cases to the attendees on which they ll h
+ ave to develop the things  . We want to promote Mozilla Project and commun
+ ity in this event and we would be giving a talk and promoting our communit
+ y over here.
+URL:https://reps.mozilla.org/e/techathon-loudshout/
+SEQUENCE:1
+X-COORDINATES-LAT:26.8191685916
+X-COORDINATES-LON:83.3834838751
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

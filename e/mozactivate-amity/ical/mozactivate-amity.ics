@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6248
+CLASS:PUBLIC
+DTSTAMP:20200423T112533Z
+DTSTART:20170305T063000Z
+DTEND:20170305T093000Z
+LOCATION:Amity University\, Noida\, India
+SUMMARY:Mozactivate Amity
+DESCRIPTION:- Introduction to WebVR\n    - Introduction to A-Frame\n    - 
+ Hands-on session on making some demos with WebVR\n    - Practice session (
+ 30 mins.)
+URL:https://reps.mozilla.org/e/mozactivate-amity/
+SEQUENCE:1
+X-COORDINATES-LAT:28.5719971623
+X-COORDINATES-LON:77.3536090879
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

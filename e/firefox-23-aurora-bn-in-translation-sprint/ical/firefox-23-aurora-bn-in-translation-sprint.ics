@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1008
+CLASS:PUBLIC
+DTSTAMP:20200423T213245Z
+DTSTART:20130622T043000Z
+DTEND:20130622T123000Z
+LOCATION:#ankur.org.in\, freenode\, India
+SUMMARY:Firefox 23 (Aurora) bn-IN translation sprint
+DESCRIPTION:we&#39;ll focus on getting the translations for Firefox 23(Aurora)
+  completed and discuss about other mozilla translation projects that may b
+ e of interest.
+URL:https://reps.mozilla.org/e/firefox-23-aurora-bn-in-translation-sprint/
+SEQUENCE:3
+X-COORDINATES-LAT:22.5937260639
+X-COORDINATES-LON:85.78125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

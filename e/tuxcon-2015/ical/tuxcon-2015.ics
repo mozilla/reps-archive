@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3896
+CLASS:PUBLIC
+DTSTAMP:20200407T182327Z
+DTSTART:20150711T060000Z
+DTEND:20150712T150000Z
+LOCATION:TBD\, Plovdiv\, Bulgaria
+SUMMARY:TuxCon 2015
+DESCRIPTION:TuxCon is a free community event about free and open-source so
+ ftware for Internet of Things\, mobile\, embedded and wearable devices. Th
+ e twitter hashtag of the event is #TuxCon.
+URL:https://reps.mozilla.org/e/tuxcon-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:42.1301423708
+X-COORDINATES-LON:24.7371825948
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

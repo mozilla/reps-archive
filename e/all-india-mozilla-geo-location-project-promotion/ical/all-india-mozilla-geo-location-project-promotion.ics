@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4923
+CLASS:PUBLIC
+DTSTAMP:20200407T174245Z
+DTSTART:20151224T103000Z
+DTEND:20160108T103000Z
+LOCATION:India\, New Delhi\, India
+SUMMARY:All India Mozilla Promotion Event
+DESCRIPTION:Promoting Mozilla during Jagriti Yatra - A 15 day train journe
+ y across India ( 8000Km ) in ZERO Budget
+URL:https://reps.mozilla.org/e/all-india-mozilla-geo-location-project-prom
+ otion/
+SEQUENCE:4
+X-COORDINATES-LAT:28.946363
+X-COORDINATES-LON:77.0972641
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3177
+CLASS:PUBLIC
+DTSTAMP:20200423T181441Z
+DTSTART:20141223T040000Z
+DTEND:20141223T060000Z
+LOCATION:Gwalior\, Gwalior\, India
+SUMMARY:Mozcoffee Gwl v1
+DESCRIPTION:This event is focused on meetup with new contributors with cor
+ e members of community\,discussion on different different pathways to cont
+ ribute in Mozilla.
+URL:https://reps.mozilla.org/e/mozcoffee-gwl-v1/
+SEQUENCE:5
+X-COORDINATES-LAT:26.2021672727
+X-COORDINATES-LON:78.1977081019
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

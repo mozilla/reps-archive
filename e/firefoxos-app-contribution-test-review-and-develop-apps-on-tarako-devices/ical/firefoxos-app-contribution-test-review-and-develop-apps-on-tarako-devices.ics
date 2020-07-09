@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3137
+CLASS:PUBLIC
+DTSTAMP:20200423T180508Z
+DTSTART:20150124T063000Z
+DTEND:20150124T113000Z
+LOCATION:VIIT Engg College Pune\, Pune\, India
+SUMMARY:FirefoxOS APP Contribution- Test\, Review and Develop apps on Tara
+ ko Devices
+DESCRIPTION:This event focus on to teach audience: how to create an App us
+ ing Appmaker.  \nIn addition\, this event also aims to introduce Firefox M
+ arketplace to the audience and  teach them how to download and test apps f
+ rom the Firefox Marketplace. Also\, submit Ranking and Reviews of the test
+ ed apps on the Firefox Marketplace.  Teach the audience how to create Teac
+ hing kits.
+URL:https://reps.mozilla.org/e/firefoxos-app-contribution-test-review-and-
+ develop-apps-on-tarako-devices/
+SEQUENCE:5
+X-COORDINATES-LAT:18.3740758201
+X-COORDINATES-LON:73.9867401123
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

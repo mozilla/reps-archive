@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3963
+CLASS:PUBLIC
+DTSTAMP:20200423T171815Z
+DTSTART:20150604T043000Z
+DTEND:20150605T103000Z
+LOCATION:Community common meetup Space\, Jabalpur\, Jabalpur\, India
+SUMMARY:Mozilla Science Global Sprint - Jabalpur
+DESCRIPTION:Join us as we learn to build projects helping researchers leve
+ rage the open web! Registration is now open with our second global sprint 
+ June 4-5\, 2015. We could use your help to make this year&#39;s #mozsprint big
+ ger and better than last.
+URL:https://reps.mozilla.org/e/mozilla-science-global-sprint-jabalpur/
+SEQUENCE:2
+X-COORDINATES-LAT:23.1697103606
+X-COORDINATES-LON:79.941916464
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

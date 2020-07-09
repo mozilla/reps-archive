@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@26
+CLASS:PUBLIC
+DTSTAMP:20200423T230806Z
+DTSTART:20120729T020000Z
+DTEND:20120729T100000Z
+LOCATION:華山藝文中心\, Taipei\, Taiwan
+SUMMARY:Summer Code Party: 夏日的 Web 樂園 (Pop Up)
+DESCRIPTION:Intended to support Mozilla Webmaker project and Summer Coding
+  Party\, IND of NTOU\, MozTW and Mozilla Taiwan (and others inviting) are 
+ working together to hold a Pop Up carnival in Taipei\, Taiwan. All partici
+ pating communities will have one or more &#34;stands&#34; with different subjects.
+  Attandees will join these stands and make their creations on the web\, su
+ ch as making subutitles for videos\, mix up contents/web pages/video\, mak
+ e greeting cards\, and so on. 
+URL:https://reps.mozilla.org/e/summer-code-party/
+SEQUENCE:0
+X-COORDINATES-LAT:25.0436489614
+X-COORDINATES-LON:121.529195309
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

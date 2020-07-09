@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4085
+CLASS:PUBLIC
+DTSTAMP:20200423T165617Z
+DTSTART:20150801T113000Z
+DTEND:20150802T013000Z
+LOCATION:LNMIIT\, Jaipur\, Jaipur\, India
+SUMMARY:MarketPlace Day Jaipur
+DESCRIPTION:While Mozilla India  task force meetup 2015\, we introduced Ma
+ rket Place Taskforce. The primary agenda of this taskforce is to promote m
+ arketplace and add more and more contributors for the same. In this flow R
+ am has already organized a marketplace Day (in Hyderabad) which turned out
+  to a huge success. So we are taking this to next level and willing to org
+ anize marketplace days in various regions of India\, so to start with we a
+ re moving to MCR which comprises of enthusiastic contributors.
+URL:https://reps.mozilla.org/e/marketplace-day-jpr/
+SEQUENCE:16
+X-COORDINATES-LAT:26.9212536582
+X-COORDINATES-LON:75.8291015401
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

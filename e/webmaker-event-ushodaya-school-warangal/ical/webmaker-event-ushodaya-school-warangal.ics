@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2624
+CLASS:PUBLIC
+DTSTAMP:20200407T175021Z
+DTSTART:20140726T060000Z
+DTEND:20140726T071500Z
+LOCATION:Ushodaya School - Narsampet\, Narsampet\, Warangal\, India
+SUMMARY:Webmaker Event @ Ushodaya School - Warangal
+DESCRIPTION:An event to raise complete awareness on Web. This event will f
+ ocused on teaching what a Firefox Browser is\, how the browser renders a w
+ eb page\, versions of Firefox Browser\, teach the web using thimble and po
+ pcorn.
+URL:https://reps.mozilla.org/e/webmaker-event-ushodaya-school-warangal/
+SEQUENCE:1
+X-COORDINATES-LAT:17.97329038
+X-COORDINATES-LON:79.8207091726
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

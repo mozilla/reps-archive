@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3998
+CLASS:PUBLIC
+DTSTAMP:20200423T170910Z
+DTSTART:20150627T050000Z
+DTEND:20150627T110000Z
+LOCATION:Jakarta Digital Valley\, Menara Multimedia\, Jl. Kebon Sirih No.1
+ 0\, Jakarta Pusat\, 10110\, Jakarta\, Indonesia
+SUMMARY:MozBelajar Juni 2015
+DESCRIPTION:A Webmaker introduction event for beginners. Those who are int
+ erested in becoming makers can join this event for free. Belajar means lea
+ rning in Indonesian\, we created this event as a place for learning\, maki
+ ng and sharing together. It&#39;s free and open for everyone!
+URL:https://reps.mozilla.org/e/mozbelajar-juni-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.18334493854
+X-COORDINATES-LON:106.824911177
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

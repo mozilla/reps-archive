@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7480
+CLASS:PUBLIC
+DTSTAMP:20200407T181218Z
+DTSTART:20180428T070000Z
+DTEND:20180428T150000Z
+LOCATION:Výstaviště Praha Holešovice\, Prague\, Czech Republic
+SUMMARY:Jobs Dev 2018
+DESCRIPTION:Second year of a conference/fair for senior developers from at
+ tending companies.
+URL:https://reps.mozilla.org/e/jobs-dev-2018/
+SEQUENCE:0
+X-COORDINATES-LAT:50.1066385377
+X-COORDINATES-LON:14.4298782345
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

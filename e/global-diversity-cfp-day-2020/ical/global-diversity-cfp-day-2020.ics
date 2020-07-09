@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8850
+CLASS:PUBLIC
+DTSTAMP:20200407T173859Z
+DTSTART:20200118T140000Z
+DTEND:20200118T180000Z
+LOCATION:TBD\, Yamoussoukro\, Ivory Coast
+SUMMARY:Global Diversity CFP Day 2020
+DESCRIPTION:Workshops and training for people that want to speak to tech e
+ vent
+URL:https://reps.mozilla.org/e/global-diversity-cfp-day-2020/
+SEQUENCE:2
+X-COORDINATES-LAT:6.78326253745
+X-COORDINATES-LON:-5.23349764757
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

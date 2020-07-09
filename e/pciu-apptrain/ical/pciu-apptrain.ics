@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3275
+CLASS:PUBLIC
+DTSTAMP:20200423T172341Z
+DTSTART:20150516T090000Z
+DTEND:20150516T110000Z
+LOCATION:Port City International University\, Chittagong\, Chittagong\, Ba
+ ngladesh
+SUMMARY:PCIU AppTrain
+DESCRIPTION:This is a 5 days long training event on Firefox OS app develop
+ ment. Each day there will be held 4 hours session. Where participants can 
+ learn about Firefox OS app development. End of the event participants will
+  come up with ideas of apps for Firefox OS. The event is organized by PCIU
+  FX Club.
+URL:https://reps.mozilla.org/e/pciu-apptrain/
+SEQUENCE:6
+X-COORDINATES-LAT:22.2988379953
+X-COORDINATES-LON:91.8392943218
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

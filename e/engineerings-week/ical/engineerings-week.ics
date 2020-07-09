@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5727
+CLASS:PUBLIC
+DTSTAMP:20200423T150604Z
+DTSTART:20160804T160000Z
+DTEND:20160804T230000Z
+LOCATION:Universidad Politecnica de Tlaxcala\, Tlaxcala\, Mexico
+SUMMARY:Engineerings week
+DESCRIPTION:One week of technology conferences and workshops related with 
+ university students.
+URL:https://reps.mozilla.org/e/engineerings-week/
+SEQUENCE:1
+X-COORDINATES-LAT:19.2321199186
+X-COORDINATES-LON:-98.2371483743
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

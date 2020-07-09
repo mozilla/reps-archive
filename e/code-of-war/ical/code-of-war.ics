@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1388
+CLASS:PUBLIC
+DTSTAMP:20200423T205521Z
+DTSTART:20131102T090000Z
+DTEND:20131102T180000Z
+LOCATION:Epitech Bordeaux 85 rue du Jardin Public\, Bordeaux\, France
+SUMMARY:Code of war
+DESCRIPTION:Code of War is a team programming competition\, free and open 
+ to all.\n\nTeams have two or three members at least one of which with prog
+ ramming skills. This competition won&#39;t reward the best coder\, but the bes
+ t strategy.\n\nEach team will code their robot Artificial Intelligence via
+  one of the SDKs available in JavaScript\, TypeScript\, CoffeeScript\, Hax
+ e or Dart.
+URL:https://reps.mozilla.org/e/code-of-war/
+SEQUENCE:5
+X-COORDINATES-LAT:44.8550436055
+X-COORDINATES-LON:-0.57387471199
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

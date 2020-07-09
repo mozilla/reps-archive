@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1061
+CLASS:PUBLIC
+DTSTAMP:20200423T212311Z
+DTSTART:20130727T130000Z
+DTEND:20130727T193000Z
+LOCATION:Cañoto Ave. 1th Ring\, Santa Cruz\, Bolivia
+SUMMARY:Open Source 2013
+DESCRIPTION:The firts event from the Cumbre University\, where we can talk
+  about Mozilla\, Firefox\, WebMaker\, Firefox OS and more! There will be 1
+ 00 people at least!
+URL:https://reps.mozilla.org/e/open-source-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:-17.7786438277
+X-COORDINATES-LON:-63.1888103485
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

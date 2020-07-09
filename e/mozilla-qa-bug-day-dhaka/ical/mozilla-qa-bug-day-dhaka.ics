@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5301
+CLASS:PUBLIC
+DTSTAMP:20200423T155950Z
+DTSTART:20151226T030000Z
+DTEND:20151226T110000Z
+LOCATION:Daffodil International University\, Banani Model Town\, Banglades
+ h
+SUMMARY:Mozilla QA: Bug Day\, Dhaka
+DESCRIPTION:Mozilla QA Bugday Dhaka is a regional event to encourage contr
+ ibutors to contribute in QA. It will be an offsite event to help people to
+  contribute in QA. Participant will be guided from the basic of Bugzilla t
+ o Testing bugs\, Verifying bugs and some other aspects of QA . It is a 2 D
+ ays event and participants will be mentored all the way so that they can b
+ e comfortable with all the basic procedure of QA and can jump in to make F
+ irefox better.
+URL:https://reps.mozilla.org/e/mozilla-qa-bug-day-dhaka/
+SEQUENCE:1
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

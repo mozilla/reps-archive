@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7630
+CLASS:PUBLIC
+DTSTAMP:20200423T093125Z
+DTSTART:20180526T043000Z
+DTEND:20180527T123000Z
+LOCATION:CMR\, Hyderabad\, Hyderabad\, India
+SUMMARY:Rust Hack Series - Week 4
+DESCRIPTION:It is a series of part of the Rust Hack Series\,2018. (https:/
+ /reps.mozilla.org/e/rust-hack-series/)\nThis week would be based on Game D
+ evelopment.  Rust is potentially an ideal language for Game Development.\n
+ \nIts emphasis on low-level memory safe programming promise a better devel
+ opment process\, less debugging time\, and better end result.\n\nWhile the
+  ecosystem is still very young\, you can find enough libraries and game en
+ gines to sink your teeth into doing some slightly experimental gamedev.
+URL:https://reps.mozilla.org/e/rust-hack-series-week-4/
+SEQUENCE:1
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

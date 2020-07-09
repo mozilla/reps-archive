@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8262
+CLASS:PUBLIC
+DTSTAMP:20200407T174123Z
+DTSTART:20181117T033000Z
+DTEND:20181118T033000Z
+LOCATION:Dayanadasagar college of engineering\,Banglore\, Banglore\, India
+SUMMARY:Hackman
+DESCRIPTION:Hackman is an annual 24-hour hackathon. After a successful ite
+ ration of Hackman 2.0\, Hackman 2k18 is back! Our theme is Open Hack. The 
+ future is data-driven. So get your fingers set on the keyboards &amp; hack it 
+ out on the 17th &amp; 18th of November 2018.
+URL:https://reps.mozilla.org/e/hackman/
+SEQUENCE:0
+X-COORDINATES-LAT:12.9711874259
+X-COORDINATES-LON:77.5861930288
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

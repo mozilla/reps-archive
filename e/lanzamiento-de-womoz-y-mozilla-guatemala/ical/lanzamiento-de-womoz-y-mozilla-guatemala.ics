@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9143
+CLASS:PUBLIC
+DTSTAMP:20200407T181226Z
+DTSTART:20200306T150000Z
+DTEND:20200306T190000Z
+LOCATION:zona 1\, Centro cultural España\, Guatemala
+SUMMARY:Lanzamiento de Womoz y Mozilla Guatemala
+DESCRIPTION:¡Te invitamos! a celebrar junto a muchas otras personas el la
+ nzamiento oficial de las comunidades Womoz y Mozilla en Guatemala. Venite 
+ tendremos muchisimas activiades preparadas especialmente para tí. \n\nTod
+ o esto dentro del marco de celbración del #SteamWomendayGT.
+URL:https://reps.mozilla.org/e/lanzamiento-de-womoz-y-mozilla-guatemala/
+SEQUENCE:0
+X-COORDINATES-LAT:14.6440397898
+X-COORDINATES-LON:-90.5138053891
+X-COUNTRY-CODE:gt
+END:VEVENT
+
+END:VCALENDAR

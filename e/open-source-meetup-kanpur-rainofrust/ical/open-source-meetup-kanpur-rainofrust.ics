@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6745
+CLASS:PUBLIC
+DTSTAMP:20200407T171620Z
+DTSTART:20170625T110000Z
+DTEND:20170625T150000Z
+LOCATION:Allies Interactive 18/179\, 3rd Floor\, Ganga Tower\, The Mall\, 
+ Kursawan\, Downtown\, Kanpur\, Uttar Pradesh 208001\, Kanpur\, India
+SUMMARY:Open Source Meetup Kanpur + RainOfRust
+DESCRIPTION:It&#39;s a Mzactivate event and includes first sessions on Open So
+ urce and projects related to Mozilla. It will also include details about p
+ articipation guidelines and exposure with the recent development in Mozill
+ a UP community followed by web development/webcompat + Tech talk by some l
+ eading entrepreneurs from Kanpur zone.
+URL:https://reps.mozilla.org/e/open-source-meetup-kanpur-rainofrust/
+SEQUENCE:0
+X-COORDINATES-LAT:26.3254219584
+X-COORDINATES-LON:79.1249084473
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

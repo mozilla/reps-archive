@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3157
+CLASS:PUBLIC
+DTSTAMP:20200407T182940Z
+DTSTART:20141210T100000Z
+DTEND:20141219T140000Z
+LOCATION:Warsaw Ośrodek Nowolipie\, Warsaw\, Poland
+SUMMARY:Firefox for people aged 60+
+DESCRIPTION:6 meetings for people aged 60+ in order to introduce and prese
+ nt the possibilities of Firefox. Planed 10 participants in each meeting.
+URL:https://reps.mozilla.org/e/firefox-for-people-aged-60/
+SEQUENCE:2
+X-COORDINATES-LAT:52.2418402993
+X-COORDINATES-LON:20.9901312589
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

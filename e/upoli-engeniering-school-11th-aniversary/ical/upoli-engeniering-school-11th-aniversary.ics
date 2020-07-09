@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3459
+CLASS:PUBLIC
+DTSTAMP:20200423T175325Z
+DTSTART:20150221T170000Z
+DTEND:20150221T230000Z
+LOCATION:TBD\, Managua\, Nicaragua
+SUMMARY:UPOLI Engeniering school 11th Aniversary
+DESCRIPTION:The UPOLI  school of engineering is celebrating the 11th anive
+ rsary. And we will give some talks about mozilla and the open web.
+URL:https://reps.mozilla.org/e/upoli-engeniering-school-11th-aniversary/
+SEQUENCE:4
+X-COORDINATES-LAT:12.1377514373
+X-COORDINATES-LON:-86.2203226984
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

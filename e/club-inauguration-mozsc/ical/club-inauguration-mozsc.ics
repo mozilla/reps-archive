@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5902
+CLASS:PUBLIC
+DTSTAMP:20200423T145448Z
+DTSTART:20160921T063000Z
+DTEND:20160923T093000Z
+LOCATION:Sandip University\, Trimbak Road\, Mahiravani\, Nashik\, India
+SUMMARY:Club Inauguration: MozSC
+DESCRIPTION:This will be a 3 day event\, in the same campus\, but 3 differ
+ ent colleges and audience. It will be a Club Inauguration event for the co
+ llege students and also a brief introduction to the Mozilla Campus Clubs. 
+ Agenda for the event will be:\n1. Introduction to Mozilla.\n2. Introductio
+ n to Mozilla Clubs and Mozilla Campus Clubs.\n3. Why is online privacy imp
+ ortant?\n4. How to get involved.
+URL:https://reps.mozilla.org/e/club-inauguration-mozsc/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9504239327
+X-COORDINATES-LON:73.572492596
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

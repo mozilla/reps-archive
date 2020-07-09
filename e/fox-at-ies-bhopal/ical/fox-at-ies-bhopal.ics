@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4575
+CLASS:PUBLIC
+DTSTAMP:20200423T162837Z
+DTSTART:20151015T033000Z
+DTEND:20151030T093000Z
+LOCATION:IES College\, Bhopal\, Bhopal\, India
+SUMMARY:Fox at IES Bhopal
+DESCRIPTION:In support to ongoing Firefox for Windows 10 Campaign and Club
+  launch at IES College\, Ratibad Bhopal we (MozMP-India) is doing this eve
+ nt. It would be closed event with only college students as attendees. \nAg
+ enda can be found on etherpad.\nWe are doing event in two phases\, in phas
+ e one we will give a normal introduction and will try to get more firefox 
+ users(15th October\, 2015) in phase two we will do hands on session of too
+ ls mentioned in agenda (30th October 2015)
+URL:https://reps.mozilla.org/e/fox-at-ies-bhopal/
+SEQUENCE:6
+X-COORDINATES-LAT:23.2410203633
+X-COORDINATES-LON:77.417145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

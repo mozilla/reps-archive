@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8025
+CLASS:PUBLIC
+DTSTAMP:20200407T165042Z
+DTSTART:20180831T033000Z
+DTEND:20180902T113000Z
+LOCATION:IIT BHU\, IIT BHU\, India
+SUMMARY:Codefest 2018\, IIT BHU
+DESCRIPTION:With a plethora of events covering all disciplines of Computer
+  Science\, Codefest has received creditable appreciation and respect in th
+ e past. Events of Codefest have been conceptualized keeping in mind the re
+ cent trends in Machine Learning\, Natural Language Processing\, Computer V
+ ision\, Security in addition to the conventional Competitive Programming a
+ nd Application Development events.
+URL:https://reps.mozilla.org/e/codefest-2018-iit-bhu/
+SEQUENCE:2
+X-COORDINATES-LAT:25.2707779722
+X-COORDINATES-LON:83.0902862549
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

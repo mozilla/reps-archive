@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2099
+CLASS:PUBLIC
+DTSTAMP:20200423T200236Z
+DTSTART:20140412T170000Z
+DTEND:20140413T170000Z
+LOCATION:Centraal\, Zamora 187\, Mexico
+SUMMARY:Mexico City NASA Space Apps Challenge 2014
+DESCRIPTION:The International Space Apps Challenge is a two-day technology
+  development event during which citizens from around the world will work t
+ ogether to address current challenges relevant to both space exploration a
+ nd social need.
+URL:https://reps.mozilla.org/e/mexico-city-nasa-space-apps-challenge-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:19.4122011715
+X-COORDINATES-LON:-99.18060565
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

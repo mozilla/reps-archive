@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8521
+CLASS:PUBLIC
+DTSTAMP:20200423T083605Z
+DTSTART:20190330T033000Z
+DTEND:20190331T113000Z
+LOCATION:COEP Pune\, Pune\, India
+SUMMARY:COEP FOSSMeet&#39;19
+DESCRIPTION:COEP FOSSMeet’18 is the first edition of College of Engineer
+ ing\, Pune’s own Free and Open Source Software event. COEP FOSSMeet&#39;18 i
+ s to be held on 7th and 8th of April (Sat-Sun).
+URL:https://reps.mozilla.org/e/coep-fossmeet-19/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5293434445
+X-COORDINATES-LON:73.8567069545
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

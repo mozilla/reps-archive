@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2216
+CLASS:PUBLIC
+DTSTAMP:20200407T182509Z
+DTSTART:20140506T070000Z
+DTEND:20140506T090000Z
+LOCATION:Beaconhouse National University\, Lahore\, Pakistan
+SUMMARY:Installfest
+DESCRIPTION:Installing and updating firefox in the university
+URL:https://reps.mozilla.org/e/installfest/
+SEQUENCE:2
+X-COORDINATES-LAT:31.3901989319
+X-COORDINATES-LON:74.225163458
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

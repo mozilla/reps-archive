@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7388
+CLASS:PUBLIC
+DTSTAMP:20200423T095953Z
+DTSTART:20180210T043000Z
+DTEND:20180210T103000Z
+LOCATION:Sahyadri College of Engineering &amp; Management\, Mangalore\, India
+SUMMARY:RUSTATHON2K18
+DESCRIPTION:Rustcon2k18 is an event based on RUST programming language org
+ anized by Mozilla community in association with Sahyadri hub of Innovation
+  and Entrepreneurship.\n\nWith your help\, we want more developers to unde
+ rstand\, use and evangelize this language in order to make the web better 
+ and more secure. \n\nSpeakers: Krishna Kumar from ThoughtWorks Inc and Ran
+ veer Aggarwal from Microsoft.
+URL:https://reps.mozilla.org/e/rustcon2k18/
+SEQUENCE:9
+X-COORDINATES-LAT:12.8665772
+X-COORDINATES-LON:74.9253757
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

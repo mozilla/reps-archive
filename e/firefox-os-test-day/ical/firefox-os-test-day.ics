@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4605
+CLASS:PUBLIC
+DTSTAMP:20200407T174234Z
+DTSTART:20151016T040000Z
+DTEND:20151017T035500Z
+LOCATION:online\, Wassaic\, United States
+SUMMARY:Firefox OS Test Day
+DESCRIPTION:We are holding a Firefox OS Test Day online. Our plan is to he
+ lp find as many bugs as possible to help with the release of Firefox OS ve
+ rsion 2.5 on November 5th. The major focus of the event will be testing a 
+ set of features including Pin the Web.\n\nNo previous testing experience i
+ s required so feel free to join us on the #fxosqa IRC channel and our mode
+ rators will make sure you’ve got everything you need to get started.
+URL:https://reps.mozilla.org/e/firefox-os-test-day/
+SEQUENCE:6
+X-COORDINATES-LAT:41.8180982
+X-COORDINATES-LON:-73.5564309
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

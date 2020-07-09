@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2391
+CLASS:PUBLIC
+DTSTAMP:20200407T182507Z
+DTSTART:20140614T043000Z
+DTEND:20140615T123000Z
+LOCATION:TBD\, Pune\, India
+SUMMARY:Online Firefox OS Urdu Localization Hackathon
+DESCRIPTION:All the contributors for Urdu localization teams are collabora
+ ting and will work online for two dedicated days to get the Firefox OS tra
+ nslation done before the strings gets frozen.
+URL:https://reps.mozilla.org/e/online-firefox-os-urdu-localization-hackath
+ on/
+SEQUENCE:2
+X-COORDINATES-LAT:18.4761359544
+X-COORDINATES-LON:74.0756821632
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

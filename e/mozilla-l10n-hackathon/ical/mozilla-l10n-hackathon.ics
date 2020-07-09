@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5130
+CLASS:PUBLIC
+DTSTAMP:20200407T174820Z
+DTSTART:20160319T040000Z
+DTEND:20160319T120000Z
+LOCATION:C-DAC\, Pune\, India
+SUMMARY:Mozilla L10n Hackathon
+DESCRIPTION:An invitation only event hosted by Mozilla l10n Community in P
+ une with active and core contributors to Mozilla l10n for Indic languages.
+  Mozilla Pune will host the Mozilla L10n hackathon\, which will focus on m
+ ultiple l10n activities
+URL:https://reps.mozilla.org/e/mozilla-l10n-hackathon/
+SEQUENCE:4
+X-COORDINATES-LAT:18.5343044537
+X-COORDINATES-LON:73.8864898682
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

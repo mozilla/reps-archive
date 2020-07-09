@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7277
+CLASS:PUBLIC
+DTSTAMP:20200423T100916Z
+DTSTART:20171227T063000Z
+DTEND:20171227T093000Z
+LOCATION:Mowgli Cafe\, Bhopal\, India
+SUMMARY:Add-Ons Development@Bhopal
+DESCRIPTION:With Web Extensions APIs\, it’s easier than ever to create e
+ xtensions that can be easily ported to Firefox\, Chrome\, Edge\, and Opera
+ . This workshop will help more people to learn how to develop add-ons and 
+ ensure that Firefox remains the most customizable browser.
+URL:https://reps.mozilla.org/e/add-ons-development-bhopal/
+SEQUENCE:5
+X-COORDINATES-LAT:23.2507674361
+X-COORDINATES-LON:77.4016106129
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

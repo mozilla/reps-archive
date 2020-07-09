@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7606
+CLASS:PUBLIC
+DTSTAMP:20200407T182125Z
+DTSTART:20180421T140000Z
+DTEND:20180421T230000Z
+LOCATION:Flisol Toluca\, Estado de México\, Mexico
+SUMMARY:Flisol Toluca
+DESCRIPTION:The Latin American Free Software Install Fest will held its 14
+ th edition this year in more than 200 cities across Latin America. The Pol
+ ytechnic University of Altamira will celebrate the festival on April 12th 
+ in Altamira\, Tamaulipas\, MX. A talk about Privacy and a workshop for int
+ roducing people to Rust will be presented during the festival.
+URL:https://reps.mozilla.org/e/flisol-toluca/
+SEQUENCE:0
+X-COORDINATES-LAT:19.2819666901
+X-COORDINATES-LON:-99.6477756504
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

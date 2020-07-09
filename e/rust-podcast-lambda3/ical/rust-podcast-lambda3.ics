@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6957
+CLASS:PUBLIC
+DTSTAMP:20200423T104357Z
+DTSTART:20170901T210000Z
+DTEND:20170901T230000Z
+LOCATION:Lambda3 (Av. Angélica\, 2318 - Conjunto 11) São Paulo/SP\, São
+  Paulo\, Brazil
+SUMMARY:Rust @Lambda3 Podcast
+DESCRIPTION:We&#39;ll get together to talk all about Rust and how Firefox is p
+ owerful with the programming language of the future.
+URL:https://reps.mozilla.org/e/rust-podcast-lambda3/
+SEQUENCE:3
+X-COORDINATES-LAT:-23.5541263178
+X-COORDINATES-LON:-46.6212158091
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

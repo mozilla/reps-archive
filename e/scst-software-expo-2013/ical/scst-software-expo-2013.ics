@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1345
+CLASS:PUBLIC
+DTSTAMP:20200423T210417Z
+DTSTART:20131002T010000Z
+DTEND:20131002T090000Z
+LOCATION:Letran Calamba\, Calamba\, Philippines
+SUMMARY:SCST Software Expo 2013
+DESCRIPTION:Software expo is a yearly event of the School of Computer Stud
+ ies and Technology of Letran Calamba that exhibits students software and h
+ ardware projects for a day.\n\nMozilla Philippines Community will be havin
+ g a booth that will display webmakes and will teach HS students on how to 
+ hack pages via thimble and popcorn js and demo firefox os
+URL:https://reps.mozilla.org/e/scst-software-expo-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:14.1887973641
+X-COORDINATES-LON:121.16563797
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

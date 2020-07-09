@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4842
+CLASS:PUBLIC
+DTSTAMP:20200423T161238Z
+DTSTART:20151121T020000Z
+DTEND:20151121T050000Z
+LOCATION:SMK Telkom Malang\, Malang\, Indonesia
+SUMMARY:MozBelajar WebMaker Android
+DESCRIPTION:We will teach high school student how to use and create conten
+ t on WebMaker for android
+URL:https://reps.mozilla.org/e/mozbelajar-webmaker-android/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.97727827388
+X-COORDINATES-LON:112.658718824
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

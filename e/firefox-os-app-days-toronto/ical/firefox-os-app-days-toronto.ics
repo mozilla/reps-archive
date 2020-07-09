@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@369
+CLASS:PUBLIC
+DTSTAMP:20200407T175108Z
+DTSTART:20130126T150000Z
+DTEND:20130127T020000Z
+LOCATION:Mozilla Office\, 366 Adelaide St W\, Suite 500\, Toronto\, Canada
+SUMMARY:Firefox OS App Days  - Toronto
+DESCRIPTION:The Toronto leg of the global Firefox OS App Days series. Web 
+ and App developers will be introduced to Firefox OS and will be making/hac
+ king Firefox OS apps.\n\nAfter the hacking and making\, folks will have ti
+ me to unwind and discuss their apps over a few drinks.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-toronto/
+SEQUENCE:0
+X-COORDINATES-LAT:43.64712
+X-COORDINATES-LON:-79.3943
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

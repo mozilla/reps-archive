@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@197
+CLASS:PUBLIC
+DTSTAMP:20200407T182702Z
+DTSTART:20121013T050000Z
+DTEND:20121014T050000Z
+LOCATION:UI Library\, Depok\, Indonesia
+SUMMARY:Computer Festival 2012 (COMPFEST)
+DESCRIPTION:Computer Festival (COMPFEST) is annualy &#34;one stop&#34; IT event he
+ ld by Faculty of Computer Sceince\, Universitas Indonesia. CompFest is the
+  real contribution of the Faculty of Computer Science\, Universitas Indone
+ sia to the technology growth in Indonesia. There is Seminar\, IT Exhibitio
+ n\, Competition(Web\, Game Development\, Robotic\, dll) in 2days\n\nJoin U
+ s at http://bit.ly/MozCompFest2012
+URL:https://reps.mozilla.org/e/computer-festival-2012-compfest/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.36464791971
+X-COORDINATES-LON:106.828651428
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

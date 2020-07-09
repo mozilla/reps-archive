@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5869
+CLASS:PUBLIC
+DTSTAMP:20200407T181223Z
+DTSTART:20161105T053000Z
+DTEND:20161105T133000Z
+LOCATION:NITDGP\, Durgapur\, India
+SUMMARY:Web Compatibility Sprint at NITDGP
+DESCRIPTION:Web Compatibility Sprint will be held in NITDGP\, Durgapur wit
+ h bunch of developers students.
+URL:https://reps.mozilla.org/e/web-compatibility-sprint-at-nitdgp/
+SEQUENCE:4
+X-COORDINATES-LAT:23.5167744761
+X-COORDINATES-LON:87.0977210999
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

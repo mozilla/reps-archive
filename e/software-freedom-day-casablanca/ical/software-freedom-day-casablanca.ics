@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@65
+CLASS:PUBLIC
+DTSTAMP:20200407T165805Z
+DTSTART:20120922T080000Z
+DTEND:20120922T180000Z
+LOCATION:Technopark\, Casablanca\, Morocco
+SUMMARY:Software Freedom Day Casablanca
+DESCRIPTION:Software Freedom Day (SFD) is an annual worldwide celebration 
+ of Free Software. SFD is a public education effort with the aim of increas
+ ing awareness of Free Software and its virtues\, and encouraging its use. 
+ For the fourth consecutive year\, this event will be organized in Casablan
+ ca\, Morocco.
+URL:https://reps.mozilla.org/e/software-freedom-day-casablanca/
+SEQUENCE:0
+X-COORDINATES-LAT:33.6026101381
+X-COORDINATES-LON:-7.61009216309
+X-COUNTRY-CODE:ma
+END:VEVENT
+
+END:VCALENDAR

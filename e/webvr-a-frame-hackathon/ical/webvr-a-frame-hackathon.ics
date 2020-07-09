@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6600
+CLASS:PUBLIC
+DTSTAMP:20200423T105225Z
+DTSTART:20170722T080000Z
+DTEND:20170722T180000Z
+LOCATION:Liip\, Rue Etraz 4\, 1003 Lausanne\, Lausanne\, Switzerland
+SUMMARY:WebVR/A-Frame Hackathon
+DESCRIPTION:WebVR is a Web Standard which allows the use of VR devices fro
+ m the browser. In this hackathon we want to explore this APIs as well as s
+ howing demos\, and hacking on our own demos. With A-Frame it is as easy as
+  ever to create your own scenes to look at in VR.
+URL:https://reps.mozilla.org/e/webvr-a-frame-hackathon/
+SEQUENCE:2
+X-COORDINATES-LAT:46.5190374735
+X-COORDINATES-LON:6.63967466346
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

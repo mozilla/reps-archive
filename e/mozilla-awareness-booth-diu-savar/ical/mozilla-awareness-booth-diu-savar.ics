@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5017
+CLASS:PUBLIC
+DTSTAMP:20200423T161606Z
+DTSTART:20151113T030000Z
+DTEND:20151113T110000Z
+LOCATION:Daffodil International University\, Savar\, Bangladesh
+SUMMARY:Mozilla Awareness Booth @ DIU\, Savar
+DESCRIPTION:A event organized by Mozilla Bangladesh and DIU Firefox Club t
+ o aware the university students about Mozilla&#39;s mission\, contribution opp
+ ortunity and show users\, how they can use Firefox as default browser on w
+ indows 10 in their residential Campus!
+URL:https://reps.mozilla.org/e/mozilla-awareness-booth-diu-savar/
+SEQUENCE:1
+X-COORDINATES-LAT:23.8703370428
+X-COORDINATES-LON:90.2594339848
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

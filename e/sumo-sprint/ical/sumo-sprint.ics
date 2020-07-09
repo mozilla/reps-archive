@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5508
+CLASS:PUBLIC
+DTSTAMP:20200423T152042Z
+DTSTART:20160605T070000Z
+DTEND:20160605T100000Z
+LOCATION:Mozilla Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:SUMO Sprint Jakarta
+DESCRIPTION:In this event\, we will doing a SUMO Sprint to translate some 
+ KB articles into Bahasa Indonesia
+URL:https://reps.mozilla.org/e/sumo-sprint/
+SEQUENCE:4
+X-COORDINATES-LAT:-6.14897474097
+X-COORDINATES-LON:106.810546853
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

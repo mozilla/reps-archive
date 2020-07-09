@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8978
+CLASS:PUBLIC
+DTSTAMP:20200407T170215Z
+DTSTART:20191231T183000Z
+DTEND:20200131T182500Z
+LOCATION:Global\, Global\, India
+SUMMARY:Privacy Month Campaign 2020
+DESCRIPTION:January Privacy Month Campaign is a community-led campaign/ini
+ tiative to celebrate International Data Privacy Day. The campaign was orig
+ inated by Mozilla India in 2016 and is intended to be a global campaign ea
+ ch year. It is a campaign where communities from all over the world come t
+ ogether to learn\, share and spread awareness about current trends and fut
+ ure issues for privacy and steps that we can take against privacy infringe
+ ments.
+URL:https://reps.mozilla.org/e/privacy-month-campaign-2020/
+SEQUENCE:0
+X-COORDINATES-LAT:21.1118338778
+X-COORDINATES-LON:74.1503870487
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

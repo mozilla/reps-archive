@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9108
+CLASS:PUBLIC
+DTSTAMP:20200407T170240Z
+DTSTART:20200305T043000Z
+DTEND:20200305T113000Z
+LOCATION:Govt. Engineering College Palakkad\, Mannampatta\, Sreekrishnapur
+ am\, Kerala 679513\, Palakkad\, India
+SUMMARY:VR Camp @  Govt. Engineering College Palakkad
+DESCRIPTION:In this event you will learn WebVR development using A-Frame f
+ ramework (one of emerging future technologies by Mozilla). This event is f
+ or participants who already know HTML
+URL:https://reps.mozilla.org/e/vr-camp-govt-engineering-college-palakkad/
+SEQUENCE:5
+X-COORDINATES-LAT:10.7734322298
+X-COORDINATES-LON:76.6448192624
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

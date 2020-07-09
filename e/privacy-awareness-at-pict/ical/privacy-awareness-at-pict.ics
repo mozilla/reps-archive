@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5001
+CLASS:PUBLIC
+DTSTAMP:20200423T155651Z
+DTSTART:20160109T050000Z
+DTEND:20160109T070000Z
+LOCATION:Pune Institute of Computer Technology\, Pune\, India
+SUMMARY:Privacy Awareness at PICT
+DESCRIPTION:This  event is a part of Mozilla Pune&#39;s initiative of celebrat
+ ing the privacy month. This event is to make the audience aware of the imp
+ ortance of privacy over the Internet and will also highlight Mozilla&#39;s eff
+ orts in safeguarding an individual&#39;s privacy.
+URL:https://reps.mozilla.org/e/privacy-awareness-at-pict/
+SEQUENCE:1
+X-COORDINATES-LAT:18.464138024
+X-COORDINATES-LON:73.8528370849
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

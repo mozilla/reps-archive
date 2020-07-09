@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7100
+CLASS:PUBLIC
+DTSTAMP:20200423T102251Z
+DTSTART:20171021T150000Z
+DTEND:20171021T200000Z
+LOCATION:SENAI Santa Cecília\, São Paulo\, Brazil
+SUMMARY:Dive Into Rust @SENAI Santa Cecilia #4
+DESCRIPTION:The Rust programming language will be important to the future 
+ of the web\, making it safe and great. Join us to understand\, use and eva
+ ngelize this language will advance make the web better and more secure!
+URL:https://reps.mozilla.org/e/dive-into-rust-senai-santa-cecilia-2/
+SEQUENCE:4
+X-COORDINATES-LAT:-23.5346123076
+X-COORDINATES-LON:-46.606933549
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

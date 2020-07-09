@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6933
+CLASS:PUBLIC
+DTSTAMP:20200423T103616Z
+DTSTART:20170925T130000Z
+DTEND:20170925T220000Z
+LOCATION:Council of citizen participation of Ecuador\, Quito\, Ecuador\, E
+ cuador
+SUMMARY:Mozilla Native in Ecuador (2017)
+DESCRIPTION:This event has the objective of advancing the conformation and
+  empowerment of localization tools and processes for communities speaking 
+ the Shuar and Quichua languages. In this event it is announced aspects on 
+ the development\, use and dissemination of Free Software\, and the advanta
+ ges of its implementation for the technological progress of society. There
+  will be talks\, workshops\, tournaments and a free technology hackathon f
+ ocused on l10n.
+URL:https://reps.mozilla.org/e/mozilla-native-in-ecuador-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:-0.24261396519
+X-COORDINATES-LON:-78.4881594032
+X-COUNTRY-CODE:ec
+END:VEVENT
+
+END:VCALENDAR

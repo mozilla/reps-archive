@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2065
+CLASS:PUBLIC
+DTSTAMP:20200423T200154Z
+DTSTART:20140417T040000Z
+DTEND:20140419T140000Z
+LOCATION:RUET\, RU\, Rajshahi Polytechnic\, Rajshahi\, Bangladesh
+SUMMARY:MozTour Rajshahi
+DESCRIPTION:Rajshahi is one of the major city of Bangladesh. We have find 
+ few people who are interested to contribute to mozilla. Now they want to o
+ rganize some event in there institutes. They are very much new to mozilla\
+ , so they don&#39;t have proper idea how to start\, how grow the community. Th
+ is moztour will help them to kick start contributing to mozilla and help t
+ hem to grow the community in future.
+URL:https://reps.mozilla.org/e/moztour-rajshahi/
+SEQUENCE:9
+X-COORDINATES-LAT:24.371700355
+X-COORDINATES-LON:88.6961059459
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

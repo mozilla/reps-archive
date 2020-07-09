@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3291
+CLASS:PUBLIC
+DTSTAMP:20200423T181301Z
+DTSTART:20141231T113000Z
+DTEND:20141231T220000Z
+LOCATION:Mozilla Community Space Taipei\, Da-an District\, Taiwan
+SUMMARY:New Year&#39;s Eve hot-pot party
+DESCRIPTION:Happy new year mozillians! let&#39;s celebrate the new year\, and 
+ gathering together. Maybe translate SUMO during the night
+URL:https://reps.mozilla.org/e/new-years-eve-hot-pot-party/
+SEQUENCE:2
+X-COORDINATES-LAT:25.044113
+X-COORDINATES-LON:121.532295
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

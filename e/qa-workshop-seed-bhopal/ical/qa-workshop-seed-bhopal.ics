@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5499
+CLASS:PUBLIC
+DTSTAMP:20200423T152237Z
+DTSTART:20160530T063000Z
+DTEND:20160530T093000Z
+LOCATION:Seed Infotech Ltd\,\, Bhopal\, India
+SUMMARY:QA Workshop @ Seed Bhopal
+DESCRIPTION:This event is a first QA event in central India\, The aim is t
+ o provide an overview of QA activities inside Mozilla and to attract poten
+ tial contributors from Seed Infotech to Mozilla
+URL:https://reps.mozilla.org/e/qa-workshop-seed-bhopal/
+SEQUENCE:0
+X-COORDINATES-LAT:23.2304096759
+X-COORDINATES-LON:77.4188230187
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

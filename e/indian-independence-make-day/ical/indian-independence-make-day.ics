@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2688
+CLASS:PUBLIC
+DTSTAMP:20200423T191518Z
+DTSTART:20140815T030000Z
+DTEND:20140815T050000Z
+LOCATION:#WebmakerIndia on mozilla[webirc]\, Webmaker India\, India
+SUMMARY:Indian Independence Make Day
+DESCRIPTION:This year on 15th August Mozilla India is hosting an online ma
+ ker party to make\, learn\, teach and share about our Indian culture\, his
+ tory\, diversity and every thing that we are proud of.\n\n# Indian Indepen
+ dence Make Day\n\nDate: 15th August 2014\nTime: 3PM IST\nWhere: #WebmakerI
+ ndia mozilla[webirc]\netherpad: https://etherpad.mozilla.org/indian-indepe
+ ndence-make-day\n\n\nLets Get together on Webmaker Independence Make day.\
+ n(Together.js)
+URL:https://reps.mozilla.org/e/indian-independence-make-day/
+SEQUENCE:8
+X-COORDINATES-LAT:18.4761359544
+X-COORDINATES-LON:73.9526358247
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

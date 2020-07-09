@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@56
+CLASS:PUBLIC
+DTSTAMP:20200407T174936Z
+DTSTART:20120921T100000Z
+DTEND:20120925T100000Z
+LOCATION:Raszyn\, ul. Piasta 1\, Raszyn (10km from Warsaw)\, Poland
+SUMMARY:Aviary.pl bi-annual meeting
+DESCRIPTION:Aviary.pl is meeting every 6 months to sit down\, talk about p
+ lans for next six months. This meeting was planned for 5 days instead of 3
+  (next time we&#39;ll be back to regular 3-day schedule). We&#39;ll try to spend h
+ alf the time working on long-term projects that have backlogged and are pe
+ nding for a while. This meeting also overlaps with OnGame conference in Wa
+ rsaw\, so we&#39;ll try to have a few people attending OnGame to join us as we
+ ll. 
+URL:https://reps.mozilla.org/e/aviary-pl-bi-annual-meeting/
+SEQUENCE:0
+X-COORDINATES-LAT:52.2320050855
+X-COORDINATES-LON:21.0003662109
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6998
+CLASS:PUBLIC
+DTSTAMP:20200407T174232Z
+DTSTART:20171010T070000Z
+DTEND:20171013T170000Z
+LOCATION:Campidoglio\, Rome\, Italy
+SUMMARY:LibreOffice Conference 2017
+DESCRIPTION:The Annual Libre Office Conference. \nThe 2017 edition is to b
+ e held in Rome\, Italy on October 11 to October 13\, 2017. On October 10\,
+  in the afternoon\, there will be community meetings\, and you may be inte
+ rested in those if you are an active contributor
+URL:https://reps.mozilla.org/e/libreoffice-conference-2017/
+SEQUENCE:4
+X-COORDINATES-LAT:41.8920703315
+X-COORDINATES-LON:12.4832757708
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

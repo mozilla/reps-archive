@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7379
+CLASS:PUBLIC
+DTSTAMP:20200423T100353Z
+DTSTART:20180127T053000Z
+DTEND:20180127T113000Z
+LOCATION:Runwal Garden City Club House\, Mumbai\, India
+SUMMARY:Dive into Rust
+DESCRIPTION:Rust is a new systems programming language developed by Mozill
+ a. This event is for (co)learning of Rust Programming Language. Rustacians
+  of all skill levels is welcome. This event is a continuous learning progr
+ am for learnings after ( https://reps.mozilla.org/e/rust-mumbai-meetup/ ) 
+ meetup by Nicholas Cameron to increase the number of rust contributors in 
+ Mumbai.
+URL:https://reps.mozilla.org/e/dive-inro-rust/
+SEQUENCE:1
+X-COORDINATES-LAT:19.2230001
+X-COORDINATES-LON:72.98846
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

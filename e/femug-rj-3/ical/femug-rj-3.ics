@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6252
+CLASS:PUBLIC
+DTSTAMP:20200423T152049Z
+DTSTART:20160604T160000Z
+DTEND:20160605T010000Z
+LOCATION:Amora Labs\, Rio de Janeiro\, Brazil
+SUMMARY:Femug RJ 3
+DESCRIPTION:Femug is a Brazil wide type of event that brings front-end dev
+ elopers together and has no defined format. It is quite like an unconferen
+ ce type of event. Femugs are small\, many Brazilian capitals have monthly 
+ Femug meetings. Femug stands for Front-End Meetup User Group.\n\nAtteendee
+ s are encouraged to give lightning talks and everyone discuss the topic af
+ ter the talks.
+URL:https://reps.mozilla.org/e/femug-rj-3/
+SEQUENCE:0
+X-COORDINATES-LAT:-22.8974196494
+X-COORDINATES-LON:-43.1143112155
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

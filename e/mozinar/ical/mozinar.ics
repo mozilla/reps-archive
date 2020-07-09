@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2721
+CLASS:PUBLIC
+DTSTAMP:20200423T185322Z
+DTSTART:20140927T043000Z
+DTEND:20140927T113000Z
+LOCATION:Techno NJR\, Udaipur\, Udaipur\, India
+SUMMARY:Mozinar
+DESCRIPTION:Introduction to Mozilla &amp; How to get involved\, Technical Talk
+ s/ Workshops\, App Development\, SUMO\, L10n and Community Building.
+URL:https://reps.mozilla.org/e/mozinar/
+SEQUENCE:18
+X-COORDINATES-LAT:24.5462904459
+X-COORDINATES-LON:73.703247048
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

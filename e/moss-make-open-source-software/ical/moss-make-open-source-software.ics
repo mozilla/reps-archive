@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4966
+CLASS:PUBLIC
+DTSTAMP:20200407T175257Z
+DTSTART:20160323T080000Z
+DTEND:20160323T160000Z
+LOCATION:TBA\, Bucharest\, Romania
+SUMMARY:MOSS - Make Open Source Software
+DESCRIPTION:A technical conference dedicated to open source developers wor
+ king on Embedded &amp; Mobile Systems and Cloud Solutions
+URL:https://reps.mozilla.org/e/moss-make-open-source-software/
+SEQUENCE:0
+X-COORDINATES-LAT:44.4411326986
+X-COORDINATES-LON:26.0514299863
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

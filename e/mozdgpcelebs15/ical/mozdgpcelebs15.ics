@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@638
+CLASS:PUBLIC
+DTSTAMP:20200423T215806Z
+DTSTART:20130331T073000Z
+DTEND:20130331T103000Z
+LOCATION:ccd\, Durgapur\, India
+SUMMARY:MozCelebs 15 @ Durgapur
+DESCRIPTION:An Event to Celebrate 15 Years of Mozilla. The another objecti
+ ve of this event is to hold an open discussion with Reps and most committe
+ d contributors identified in MozCafe@Durgapur to be held on 13th Feb in Du
+ rgapur.
+URL:https://reps.mozilla.org/e/mozdgpcelebs15/
+SEQUENCE:0
+X-COORDINATES-LAT:23.5262183622
+X-COORDINATES-LON:87.3083496094
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

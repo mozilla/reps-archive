@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1413
+CLASS:PUBLIC
+DTSTAMP:20200423T205750Z
+DTSTART:20131024T150000Z
+DTEND:20131025T230000Z
+LOCATION:Instituto Tecnológico de Orizaba\, Orizaba\, Mexico
+SUMMARY:Hackthon Orizaba Firefox OS
+DESCRIPTION:The goal of the App Day is to introduce Firefox OS and Firefox
+  Marketplace\, and share knowledge about the tools available to help devel
+ opers get started building apps to submit to the Marketplace. Learn\, Hack
+  and Celebrate the Firefox OS\, Mozilla&#39;s open source operating system for
+  the mobile web The event will be held at the Instituto Tecnologico de Ori
+ zaba.
+URL:https://reps.mozilla.org/e/hackthon-orizaba-firefox-os/
+SEQUENCE:7
+X-COORDINATES-LAT:18.8412325787
+X-COORDINATES-LON:-97.0824050903
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

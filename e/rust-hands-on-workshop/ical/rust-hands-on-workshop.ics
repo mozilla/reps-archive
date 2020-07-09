@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8138
+CLASS:PUBLIC
+DTSTAMP:20200423T090016Z
+DTSTART:20180930T033000Z
+DTEND:20180930T113000Z
+LOCATION:SRM University\, Chennai\, India
+SUMMARY:Rust Hands-on Workshop
+DESCRIPTION:Students will be introduced to Rust programming by Rohit \, Ra
+ vi and Viswaprasath
+URL:https://reps.mozilla.org/e/rust-hands-on-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:12.8171297686
+X-COORDINATES-LON:80.0350685092
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

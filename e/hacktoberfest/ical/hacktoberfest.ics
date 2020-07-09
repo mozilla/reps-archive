@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8870
+CLASS:PUBLIC
+DTSTAMP:20200407T164934Z
+DTSTART:20191006T043000Z
+DTEND:20191006T113000Z
+LOCATION:CoffeeBeans Consulting\, Bangalore\, India
+SUMMARY:Hacktoberfest
+DESCRIPTION:Happy Hacktoberfest everyone!\n\nHacktoberfest® is open to ev
+ eryone in our global community. Whether you’re a developer\, student lea
+ rning to code\, event host\, or company of any size\, you can help drive g
+ rowth of open source and make positive contributions to an ever-growing co
+ mmunity. All backgrounds and skill levels are encouraged to complete the c
+ hallenge.\n\nNote - Bring your hacking gear such as a laptop!
+URL:https://reps.mozilla.org/e/hacktoberfest/
+SEQUENCE:3
+X-COORDINATES-LAT:12.934533
+X-COORDINATES-LON:77.626579
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

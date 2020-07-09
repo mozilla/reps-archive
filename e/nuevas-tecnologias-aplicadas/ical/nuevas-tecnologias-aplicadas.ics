@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@13
+CLASS:PUBLIC
+DTSTAMP:20200423T230736Z
+DTSTART:20120807T230000Z
+DTEND:20120808T010000Z
+LOCATION:Av. Cristo Redentor\, Km 6 1/2 Barrio Entel\, Santa Cruz\, Bolivi
+ a
+SUMMARY:Nuevas Tecnologías Aplicadas
+DESCRIPTION:Presentation in a module of a degree of new technologies for p
+ rofessionals\, and talk about Mozilla and its commitment to free and open 
+ Web\, and the products and activities undertaken to achieve this like: B2G
+ \, Hackasaurus\, Webmaker\, Firefox.
+URL:https://reps.mozilla.org/e/nuevas-tecnologias-aplicadas/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.7220765516
+X-COORDINATES-LON:-63.1604003906
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

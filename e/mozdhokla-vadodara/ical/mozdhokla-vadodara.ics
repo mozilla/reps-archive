@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8527
+CLASS:PUBLIC
+DTSTAMP:20200423T083308Z
+DTSTART:20190415T123000Z
+DTEND:20190415T143000Z
+LOCATION:Times Cafe\, Times Square Building\, Harshadrai Mehta Marg\, Fate
+ hgunj\, Vadodara\, Vadodara\, India
+SUMMARY:MozDhokla - Vadodara
+DESCRIPTION:A Monthly meet-up for technology and the internet. We will wel
+ come a few new Mozillians as a part of this meet-up and plan events and ac
+ tivities for the coming months. We will individually review our positions 
+ in the community as a part of Mozilla\, and plan for the future ahead.
+URL:https://reps.mozilla.org/e/mozdhokla-vadodara/
+SEQUENCE:4
+X-COORDINATES-LAT:22.3234386477
+X-COORDINATES-LON:73.1831853383
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

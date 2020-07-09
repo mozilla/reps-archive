@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3583
+CLASS:PUBLIC
+DTSTAMP:20200407T175755Z
+DTSTART:20150314T200000Z
+DTEND:20150314T220000Z
+LOCATION:Casa de Cultura Digital de Vila Velha\, Vila Velha\, Brazil
+SUMMARY:MozCoffee ES
+DESCRIPTION:This is the first Mozilla project on Espírito Santo\, where o
+ ur main focus is to get the community stronger an recruit new volunteers t
+ o help us on events\, work on our work groups and above all create a bette
+ r web through knowledge sharing.
+URL:https://reps.mozilla.org/e/mozcoffee-es-1/
+SEQUENCE:3
+X-COORDINATES-LAT:-20.3553567364
+X-COORDINATES-LON:-40.3932495229
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3442
+CLASS:PUBLIC
+DTSTAMP:20200407T175757Z
+DTSTART:20150302T030000Z
+DTEND:20150308T030000Z
+LOCATION:Vila Jardim Gaurama Telecentro\, Gaurama\, Brazil
+SUMMARY:Digital inclusion for female peasants workshops week
+DESCRIPTION:The first WoMoz event in BR will happen in a small city on the
+  countryside called Gaurama. It has only 5000 inhabitants and discovered t
+ he importance that learning the web can have on their inhabitants&#39; lives\,
+  and it&#39;s putting a lot of effort on that\, as the revitalization of the c
+ ity&#39;s telecentro on the countryside and the digital baptism of almost 10% 
+ of its population\, focusing on females. This is undoubtedly an event to b
+ e remembered in the city surroundings and maybe even in broader circles
+URL:https://reps.mozilla.org/e/digital-inclusion-for-female-peasants-works
+ hops-week/
+SEQUENCE:1
+X-COORDINATES-LAT:-27.5884831946
+X-COORDINATES-LON:-52.0860686303
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

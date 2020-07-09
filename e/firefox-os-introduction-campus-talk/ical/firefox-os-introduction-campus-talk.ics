@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3219
+CLASS:PUBLIC
+DTSTAMP:20200423T182144Z
+DTSTART:20141202T043000Z
+DTEND:20141202T063000Z
+LOCATION:MIT Alandi\, Pune\, India
+SUMMARY:Firefox OS Introduction Campus Talk
+DESCRIPTION:Introduction to FirefoxOS\, Mozilla Mission\, Firefox Marketpl
+ ace\, etc
+URL:https://reps.mozilla.org/e/firefox-os-introduction-campus-talk/
+SEQUENCE:2
+X-COORDINATES-LAT:18.4092607593
+X-COORDINATES-LON:73.9256286621
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

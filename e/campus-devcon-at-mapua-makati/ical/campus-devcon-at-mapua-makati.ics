@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1116
+CLASS:PUBLIC
+DTSTAMP:20200423T212128Z
+DTSTART:20130803T050000Z
+DTEND:20130803T090000Z
+LOCATION:Mapua Institute of Technology - Makati Campus\, Makati City\, Phi
+ lippines
+SUMMARY:Campus DevCon at Mapua (Makati)
+DESCRIPTION:Campus DevCon at Mapua (Makati) is a gathering in partnership 
+ with Mapua Institute of Technology (Makati) that aims to augment the acade
+ mic learnings of students with up-to-date trends in the IT industry. The e
+ vent converges an average of 200 students taking up Computer Science or ot
+ her IT-related courses.
+URL:https://reps.mozilla.org/e/campus-devcon-at-mapua-makati/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5621515551
+X-COORDINATES-LON:121.021678448
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

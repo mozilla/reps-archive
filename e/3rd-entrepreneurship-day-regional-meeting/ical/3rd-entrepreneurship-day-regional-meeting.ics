@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3127
+CLASS:PUBLIC
+DTSTAMP:20200423T182745Z
+DTSTART:20141121T190000Z
+DTEND:20141121T220000Z
+LOCATION:Bush Avenue\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:3rd Entrepreneurship day Regional Meeting
+DESCRIPTION:Regional event that show tips about how to launch a startup an
+ d entrepreneurship.\nThe event is organized by the postgraduate school of 
+ Science Computer  Engineering of the &#34;Universidad Autónoma Gabriel René 
+ Moreno&#34; in Santa Cruz City.
+URL:https://reps.mozilla.org/e/3rd-entrepreneurship-day-regional-meeting/
+SEQUENCE:2
+X-COORDINATES-LAT:-17.7770721883
+X-COORDINATES-LON:-63.1943564417
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

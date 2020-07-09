@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4980
+CLASS:PUBLIC
+DTSTAMP:20200423T155755Z
+DTSTART:20160102T053000Z
+DTEND:20160102T073000Z
+LOCATION:Indian coffee house\, MI road\, Jaipur\, India
+SUMMARY:Privacy matters v2
+DESCRIPTION:A meet up to spread awareness about online privacy and execute
+  the campaign. And let the people know why privacy matters. And how to ach
+ ieve it with Firefox.
+URL:https://reps.mozilla.org/e/privacy-matters-v2/
+SEQUENCE:1
+X-COORDINATES-LAT:26.3295249749
+X-COORDINATES-LON:76.0971678793
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

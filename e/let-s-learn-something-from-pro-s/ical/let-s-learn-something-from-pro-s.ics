@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6314
+CLASS:PUBLIC
+DTSTAMP:20200407T181627Z
+DTSTART:20170212T020000Z
+DTEND:20170212T023000Z
+LOCATION:Google Hangout\, Pune\, India
+SUMMARY:Let&#39;s learn something from Pro&#39;s
+DESCRIPTION:Learn few localization tips and tricks\, do&#39;s and don&#39;t  from 
+ a pro localizer who is writing in urdu locale from many years.
+URL:https://reps.mozilla.org/e/let-s-learn-something-from-pro-s/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5051959
+X-COORDINATES-LON:73.8347886
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6178
+CLASS:PUBLIC
+DTSTAMP:20200407T174629Z
+DTSTART:20170120T043000Z
+DTEND:20170120T083000Z
+LOCATION:Institute of Engineering and Technology\, DAVV\, Indore\, India
+SUMMARY:MozVR Camp Indore
+DESCRIPTION:In this event you will learn WebVR development using A-Frame f
+ ramework (one of emerging future technologies by Mozilla). This event is f
+ or participants who already know HTML\n(Contact Mradul: 8817892207 for mor
+ e info)
+URL:https://reps.mozilla.org/e/mozvr-camp-indore/
+SEQUENCE:4
+X-COORDINATES-LAT:22.7020618869
+X-COORDINATES-LON:75.6346321036
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

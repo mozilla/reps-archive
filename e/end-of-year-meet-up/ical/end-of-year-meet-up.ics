@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4951
+CLASS:PUBLIC
+DTSTAMP:20200407T174256Z
+DTSTART:20151219T090000Z
+DTEND:20151219T160000Z
+LOCATION:MNK Cafe\, Mombasa\, Kenya
+SUMMARY:End of Year Meet-up
+DESCRIPTION:The end of year meet-up aimed at bringing together volunteers 
+ and organizers to discuss on the achievements made during 2015\, challenge
+ s faced\, possible solutions as well as to plan for the first quarter of 2
+ 016.
+URL:https://reps.mozilla.org/e/end-of-year-meet-up/
+SEQUENCE:1
+X-COORDINATES-LAT:-4.11358790971
+X-COORDINATES-LON:39.8069000244
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

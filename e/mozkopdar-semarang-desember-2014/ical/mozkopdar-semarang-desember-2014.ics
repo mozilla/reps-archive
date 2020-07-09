@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3199
+CLASS:PUBLIC
+DTSTAMP:20200423T181522Z
+DTSTART:20141220T120000Z
+DTEND:20141220T140000Z
+LOCATION:Mom Milk Semarang\, Jl. Muria no 10\, Semarang\, Indonesia
+SUMMARY:MozKopdar Semarang - Desember 2014
+DESCRIPTION:Mozillians meetup in Semarang for December 2014. We will share
+  the latest updates about Mozilla Projects\, the new structure of Firefox 
+ Student Ambassador\, FirefoxOS\, WoMoz and how to contribute. We will also
+  give tips and tricks on using Firefox Browser with add-ons.
+URL:https://reps.mozilla.org/e/mozkopdar-semarang-desember-2014/
+SEQUENCE:5
+X-COORDINATES-LAT:-7.00549065463
+X-COORDINATES-LON:110.415503382
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

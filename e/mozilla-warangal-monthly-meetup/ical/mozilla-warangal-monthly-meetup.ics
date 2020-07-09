@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6941
+CLASS:PUBLIC
+DTSTAMP:20200423T104518Z
+DTSTART:20170827T093000Z
+DTEND:20170827T113000Z
+LOCATION:Online\, Hyderabad\, India
+SUMMARY:Mozilla Warangal Monthly Meetup
+DESCRIPTION:A Monthly Meetup to discuss the plans for the next months to g
+ row the Mozilla Warangal Community and increase Contributions towards diff
+ erent Projects like Rust and WebVR.
+URL:https://reps.mozilla.org/e/mozilla-warangal-monthly-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4928559
+X-COORDINATES-LON:78.3973373
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

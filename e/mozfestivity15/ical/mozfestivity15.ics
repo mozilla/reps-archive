@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@707
+CLASS:PUBLIC
+DTSTAMP:20200423T215840Z
+DTSTART:20130330T073000Z
+DTEND:20130330T113000Z
+LOCATION:Bhopal\, Bhopal\, India
+SUMMARY:MozFestivity&#39;15
+DESCRIPTION:Mozilla has come a long way\, so we are celebrating 15 years o
+ f the foundation&#39;s hard work and the open web.  \nSharing: What it is? How
+  it Begun? What it has Done?  What it Ought and will Do?..  \n\nWe will ho
+ ld a mini-party with fellow Mozillians celebration of Mozilla&#39;s Birthday!.
+ .  \n\nWe&#39;ll prepare a cake to share with all people who comes. Anyone is 
+ welcomed to join with us\, no matter you&#39;re a Mozillian or not :)\nTo cele
+ brate 15 years of Mozilla.!.... &gt;)\n
+URL:https://reps.mozilla.org/e/mozfestivity15/
+SEQUENCE:3
+X-COORDINATES-LAT:23.2604597822
+X-COORDINATES-LON:77.3934406042
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

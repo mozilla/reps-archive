@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6358
+CLASS:PUBLIC
+DTSTAMP:20200423T111823Z
+DTSTART:20170405T133000Z
+DTEND:20170405T180000Z
+LOCATION:Centro de Artes e Esportes Unificados - CEU\, Campinas\, Brazil
+SUMMARY:Productivity Programs @Leão Mozilla Clubs
+DESCRIPTION:Hundreds of software applications are available today. This co
+ urse explores the most common productivity software applications used in s
+ chool\, at work\, and at home. The course teaches you how to choose the ri
+ ght software for your project. You will learn the fundamentals of word pro
+ cessing\, spreadsheets\, presentation software\, and databases.
+URL:https://reps.mozilla.org/e/productivity-programs-leao-mozilla-clubs/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.9
+X-COORDINATES-LON:-47.0833
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6209
+CLASS:PUBLIC
+DTSTAMP:20200423T113346Z
+DTSTART:20170126T043000Z
+DTEND:20170128T103000Z
+LOCATION:B S Abdur Rahman University\, Chennai\, India
+SUMMARY:Mozilla Privacy Talk 4CCon Conference
+DESCRIPTION:4CCon is a national level FOSS conference being organized at C
+ hennai\, India. At this conference - discussions\, seminars and workshops 
+ on a diversity of topics that reflect the key issues around technology and
+  its impact on India. The themes of the conference converge on aim to deve
+ lop new understanding of what technology means in the rapidly evolving glo
+ bal and national contexts.
+URL:https://reps.mozilla.org/e/mozilla-privacy-talk-4ccon-conference/
+SEQUENCE:3
+X-COORDINATES-LAT:13.0536535185
+X-COORDINATES-LON:80.2470055
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

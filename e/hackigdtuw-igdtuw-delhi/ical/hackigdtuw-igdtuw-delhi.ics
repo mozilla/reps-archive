@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8587
+CLASS:PUBLIC
+DTSTAMP:20200423T082629Z
+DTSTART:20190601T053000Z
+DTEND:20190602T053000Z
+LOCATION:IGDTUW\, Kashmere Gate\, New Delhi\, New Delhi\, India
+SUMMARY:HackIGDTUW - IGDTUW\, Delhi
+DESCRIPTION:IGDTUW-Hacks will be held where programmers will come together
+  to innovate and invent\, forging creations at the forefront of technology
+ . Every year\, a lot of enthusiastic students from IGDTUW participate in v
+ arious hackathon organised by different colleges and universities. However
+ \, for the very first time\, IGDTUW-Hacks will provide an opportunity to s
+ tudents at IGDTUW and outside to visit our heritage campus and participate
+  in hackathon.
+URL:https://reps.mozilla.org/e/hackigdtuw-igdtuw-delhi/
+SEQUENCE:3
+X-COORDINATES-LAT:28.6643793337
+X-COORDINATES-LON:77.2328624711
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

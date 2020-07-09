@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2970
+CLASS:PUBLIC
+DTSTAMP:20200423T183648Z
+DTSTART:20141104T063000Z
+DTEND:20141105T123000Z
+LOCATION:DeshBhagat University\, Mandi Punjab\, Mandi\, India
+SUMMARY:Maker Booth to TeachTheWeb
+DESCRIPTION:We have a space reserved for Mozilla at Dehbhagat University o
+ n account of their college technical festival. More than 1000 people visit
+  the place and would be a great place to TeachTheWeb. This would be a make
+ r party for about one and a half days.\n\nWe have a plan to demonstrate Fi
+ refox OS devices and provide handson experience to the crowd.
+URL:https://reps.mozilla.org/e/maker-booth-to-teachtheweb/
+SEQUENCE:5
+X-COORDINATES-LAT:30.7938342432
+X-COORDINATES-LON:76.6969756968
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

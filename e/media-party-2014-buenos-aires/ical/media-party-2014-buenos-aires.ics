@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2718
+CLASS:PUBLIC
+DTSTAMP:20200407T174352Z
+DTSTART:20140828T130000Z
+DTEND:20140830T230000Z
+LOCATION:Ciudad Cultural Konex\, Ciudad de Buenos Aires\, Argentina
+SUMMARY:Media Party 2014 - Buenos Aires
+DESCRIPTION:Media Party is an event organized by HacksHackers chapter in B
+ uenos Aires. Mozilla is supporting this event since the first year through
+  OpenNews partnership. This year\, Media Party is a Maker Party partner.
+URL:https://reps.mozilla.org/e/media-party-2014-buenos-aires/
+SEQUENCE:4
+X-COORDINATES-LAT:-34.6061037251
+X-COORDINATES-LON:-58.4103062149
+X-COUNTRY-CODE:ar
+END:VEVENT
+
+END:VCALENDAR

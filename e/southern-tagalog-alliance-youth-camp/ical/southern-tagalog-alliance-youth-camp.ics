@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@290
+CLASS:PUBLIC
+DTSTAMP:20200423T223014Z
+DTSTART:20121226T040000Z
+DTEND:20121229T040000Z
+LOCATION:*TBD*\, Silang\, Philippines
+SUMMARY:Southern Tagalog Alliance Youth Camp
+DESCRIPTION:Southern Tagalog Alliance Youth (STAY) - a non-profit youth or
+ ganization is organizing it&#39;s annual youth camp. It&#39;s a four day camp prom
+ oting leadership and personal growth. A great event for engaging  Mozilla 
+ products to 300 to 500 youth/students.
+URL:https://reps.mozilla.org/e/southern-tagalog-alliance-youth-camp/
+SEQUENCE:0
+X-COORDINATES-LAT:11.1784018737
+X-COORDINATES-LON:123.046875
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5667
+CLASS:PUBLIC
+DTSTAMP:20200423T151024Z
+DTSTART:20160724T053000Z
+DTEND:20160724T073000Z
+LOCATION:Food Court\, CCM\, Nashik\, India
+SUMMARY:MozCoffee to wrap up July 2016
+DESCRIPTION:This will be a MozCoffee meetup to wrap up and reflect on what
+  activities we did in July\, and also to put a focus on the future. This M
+ ozCoffee will be special\, as we will be having majority of Womoz here. A 
+ planning meetup for upcoming events / workshops to be held in Nashik. Also
+  some updates about the upcoming Mozilla India Community MeetUp.
+URL:https://reps.mozilla.org/e/mozcoffee-to-wrap-up-july-2016/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9905671262
+X-COORDINATES-LON:73.7625432006
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

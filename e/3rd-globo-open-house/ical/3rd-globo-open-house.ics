@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6731
+CLASS:PUBLIC
+DTSTAMP:20200407T174359Z
+DTSTART:20170622T110000Z
+DTEND:20170622T230000Z
+LOCATION:Rua Jardim Botânico 746 - Jardim Botânico - Rio de Janeiro/RJ\,
+  Rio de Janeiro\, Brazil
+SUMMARY:3rd Globo Open House
+DESCRIPTION:Third &#34;Open House&#34; event from Globo\, the major media conglome
+ rate of Brazil. In this event they show prototypes and have activities rel
+ ated to the research that was conducted on the current year.
+URL:https://reps.mozilla.org/e/3rd-globo-open-house/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.556529277
+X-COORDINATES-LON:-42.7045896649
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

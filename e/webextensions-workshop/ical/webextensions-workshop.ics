@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6367
+CLASS:PUBLIC
+DTSTAMP:20200423T112333Z
+DTSTART:20170315T180000Z
+DTEND:20170315T200000Z
+LOCATION:Liip\, Limmatstrasse 183\, Zürich\, Zurich\, Switzerland
+SUMMARY:WebExtensions Workshop
+DESCRIPTION:Add-ons provide a safe\, simple\, and powerful way to personal
+ ize your browsing experience. With WebExtensions APIs\, it’s easier than
+  ever to create extensions that can be easily ported to Firefox\, Chrome\,
+  Edge\, and Opera.\n\nWe will show how to get started and then we&#39;ll help 
+ you to write your first WebExtension.
+URL:https://reps.mozilla.org/e/webextensions-workshop/
+SEQUENCE:2
+X-COORDINATES-LAT:47.3861903734
+X-COORDINATES-LON:8.52931487556
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

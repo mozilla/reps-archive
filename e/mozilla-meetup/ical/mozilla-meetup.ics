@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5052
+CLASS:PUBLIC
+DTSTAMP:20200423T154853Z
+DTSTART:20160213T140000Z
+DTEND:20160213T190000Z
+LOCATION:HUB 170\, San Salvador\, El Salvador
+SUMMARY:MozDevParty
+DESCRIPTION:this event is about mozilla technologies\, the idea is create 
+ space for people know about mozilla project and incentive in participate o
+ r contribute with code\, in this event talk about firefox for developer\, 
+ about the tools for developer and the sources that mozilla developer netwo
+ rk provide at the developers also mozilla El salvador community participat
+ e in the event and teaching with workshops
+URL:https://reps.mozilla.org/e/mozilla-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:13.9198495771
+X-COORDINATES-LON:-89.4448243082
+X-COUNTRY-CODE:sv
+END:VEVENT
+
+END:VCALENDAR

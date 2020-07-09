@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4425
+CLASS:PUBLIC
+DTSTAMP:20200407T182339Z
+DTSTART:20150930T140000Z
+DTEND:20150930T170000Z
+LOCATION:Online on IRC channel #Learn_Web_and_Software_Development\, Covin
+ gton\, United States
+SUMMARY:Web Development
+DESCRIPTION:Teaching and discussion of Web Development to teach the proces
+ ses past just HTML\, CSS\, and JavaScript/of back-end programming.
+URL:https://reps.mozilla.org/e/web-development/
+SEQUENCE:2
+X-COORDINATES-LAT:37.7762327032
+X-COORDINATES-LON:-79.9942474463
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

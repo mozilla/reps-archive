@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1563
+CLASS:PUBLIC
+DTSTAMP:20200423T204337Z
+DTSTART:20131206T000000Z
+DTEND:20131206T030000Z
+LOCATION:Universidad Latina\, San Pedro\, Costa Rica
+SUMMARY:Firefox OS Apps Workshop (U Latina)
+DESCRIPTION:Our now popular Firefox OS Apps Workshop\, now in the Universi
+ dad Latina campus in San Pedro.
+URL:https://reps.mozilla.org/e/firefox-os-apps-workshop-u-latina/
+SEQUENCE:2
+X-COORDINATES-LAT:9.93257214841
+X-COORDINATES-LON:-84.0439009668
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

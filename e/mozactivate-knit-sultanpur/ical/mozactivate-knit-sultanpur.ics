@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6428
+CLASS:PUBLIC
+DTSTAMP:20200407T174137Z
+DTSTART:20170325T150000Z
+DTEND:20170325T183000Z
+LOCATION:Kamla Nehru Institute Of Technology\, Sultanpur\, Sultanpur\, Ind
+ ia
+SUMMARY:MozActivate @ KNIT\, Sultanpur
+DESCRIPTION:This is an introductory event at KNIT. This is the first Mozil
+ la event in Sultanpur\, Uttar Pradesh. After the basic intro to what WebVR
+  is\, we will move on to understand which libraries are their to help buil
+ d the scenes in WebVR. Continuing on this\, an introduction and hands on s
+ ession will be delivered on how to use A-Frame JS to build a VR that can b
+ e loaded up on the web. We will explain webCompat\, webExtensions\, about 
+ campus clubs and other projects of Mozilla.
+URL:https://reps.mozilla.org/e/mozactivate-knit-sultanpur/
+SEQUENCE:0
+X-COORDINATES-LAT:26.2605525222
+X-COORDINATES-LON:82.0809602737
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

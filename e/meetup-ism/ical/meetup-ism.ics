@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@973
+CLASS:PUBLIC
+DTSTAMP:20200407T175531Z
+DTSTART:20130614T170000Z
+DTEND:20130614T190000Z
+LOCATION:ISM Droit &amp; Informatique\, Dakar\, Senegal
+SUMMARY:Meetup ISM
+DESCRIPTION:Under these university tours\, Mozilla Senegal will be at &#34;Le 
+ groupe ISM&#34; the friday\, June 14\, 2013 in Dakar.\nThe first time at this 
+ institute\, Mozilla Senegal will show the priority mission for mozilla and
+  why to contribute in open source projects.
+URL:https://reps.mozilla.org/e/meetup-ism/
+SEQUENCE:2
+X-COORDINATES-LAT:14.695504
+X-COORDINATES-LON:-17.459864
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

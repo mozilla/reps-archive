@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5479
+CLASS:PUBLIC
+DTSTAMP:20200423T150754Z
+DTSTART:20160730T083000Z
+DTEND:20160730T130000Z
+LOCATION:TBD\, Thiruvananthapuram\, India
+SUMMARY:Mozcoffee @ Trivandrum
+DESCRIPTION:Casual Meetup of Volunteers in Kerala. This event will focus o
+ n planning upcoming events of local community and will be a meeting place 
+ for the existing contributes after 3 months. Also\, we are focusing on new
+  WoMoz volunteers this time. Moreover its getting to know better\, build a
+  better relationship between the community members so as to work efficient
+ ly.
+URL:https://reps.mozilla.org/e/mozcoffe-trivandrum/
+SEQUENCE:8
+X-COORDINATES-LAT:8.53394402607
+X-COORDINATES-LON:76.923340559
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

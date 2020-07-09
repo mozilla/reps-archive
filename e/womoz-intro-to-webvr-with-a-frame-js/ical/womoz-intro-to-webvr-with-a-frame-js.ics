@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6814
+CLASS:PUBLIC
+DTSTAMP:20200423T105243Z
+DTSTART:20170722T043000Z
+DTEND:20170723T103000Z
+LOCATION:Stanley College of Engineering and Technology for Women\, Hyderab
+ ad\, India
+SUMMARY:WoMoz: Intro to WebVR with A-frame.js
+DESCRIPTION:Day 1 - morning\nIntro to JS\, DOM - Kishan Raval\nDay 1 - aft
+ ernoon\nA-frame.js basics\nTask: Creating basic VR scene\n\nDay 2\nA-frame
+ .js advanced\nTask: Creating advanced VR scene\, group project\nTBA
+URL:https://reps.mozilla.org/e/womoz-intro-to-webvr-with-a-frame-js/
+SEQUENCE:2
+X-COORDINATES-LAT:17.396443
+X-COORDINATES-LON:78.473767
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

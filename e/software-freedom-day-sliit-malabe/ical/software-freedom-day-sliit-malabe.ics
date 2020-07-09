@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8824
+CLASS:PUBLIC
+DTSTAMP:20200407T181213Z
+DTSTART:20191004T043000Z
+DTEND:20191004T073000Z
+LOCATION:SLIIT Malabe\, Kandy\, Sri Lanka
+SUMMARY:Software Freedom Day - SLIIT Malabe
+DESCRIPTION:SLIIT Malabe is organising a Software Freedom Day event with i
+ ndustry renowned speakers with the help of Mozilla Campus club of SLIIT an
+ d Mozilla Sri Lanka.
+URL:https://reps.mozilla.org/e/software-freedom-day-sliit-malabe/
+SEQUENCE:1
+X-COORDINATES-LAT:6.89643398787
+X-COORDINATES-LON:80.1136779785
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

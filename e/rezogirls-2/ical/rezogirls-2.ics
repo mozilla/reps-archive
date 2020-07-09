@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1930
+CLASS:PUBLIC
+DTSTAMP:20200423T204351Z
+DTSTART:20131205T160000Z
+DTEND:20131205T200000Z
+LOCATION:Chez Thibault 80\, Rue Montesquieu\, 69007\, Lyon\, Lyon-7e Arron
+ dissement\, France
+SUMMARY:Rezogirls #2
+DESCRIPTION:Meeting between women working in IT in Lyon.\nConference and t
+ alks in a Restaurant
+URL:https://reps.mozilla.org/e/rezogirls-2/
+SEQUENCE:1
+X-COORDINATES-LAT:45.7512719284
+X-COORDINATES-LON:4.8450407981
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

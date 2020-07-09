@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4909
+CLASS:PUBLIC
+DTSTAMP:20200423T160237Z
+DTSTART:20151218T053000Z
+DTEND:20151219T113000Z
+LOCATION:Tirupati\, Tirupati\, India
+SUMMARY:Hour Of Code Tirupati
+DESCRIPTION:HourofCode in association with Teach Mozilla is an initiative 
+ to the local schools in Tiruapti to teach about Coding. Students from diff
+ erent schools will be learning about the basics of computer \, open source
+ s and basic web technologies involved in creating webpages and more about 
+ functioning of internet. FSA&#39;s from local community will be guided by seni
+ or FSA&#39;s and webmaker mentors to organize the event.
+URL:https://reps.mozilla.org/e/hour-of-code-tirupati/
+SEQUENCE:6
+X-COORDINATES-LAT:13.6355135313
+X-COORDINATES-LON:79.397934
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

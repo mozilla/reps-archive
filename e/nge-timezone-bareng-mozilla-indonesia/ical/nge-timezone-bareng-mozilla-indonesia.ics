@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5330
+CLASS:PUBLIC
+DTSTAMP:20200423T153502Z
+DTSTART:20160409T020000Z
+DTEND:20160409T060000Z
+LOCATION:Udinus\, Semarang\, Semarang\, Indonesia
+SUMMARY:Nge-Timezone bareng Mozilla Indonesia
+DESCRIPTION:In this event\, an FSA from Udinus Semarang (Diky Arga) will p
+ resent about Mozilla Community. He will also give update about Mozilla pro
+ ducts\, and explain the Firefox Student Ambassador program.
+URL:https://reps.mozilla.org/e/nge-timezone-bareng-mozilla-indonesia/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.99004883937
+X-COORDINATES-LON:110.411063433
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

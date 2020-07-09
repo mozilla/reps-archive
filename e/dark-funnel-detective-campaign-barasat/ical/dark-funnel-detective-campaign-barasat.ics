@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8139
+CLASS:PUBLIC
+DTSTAMP:20200407T174144Z
+DTSTART:20180922T123000Z
+DTEND:20180923T123000Z
+LOCATION:Barasat\, Barasat\, India
+SUMMARY:Dark Funnel Detective Campaign #barasat
+DESCRIPTION:Dark Funnel Campaign will be introduced to the audience. Then 
+ they will be informed about what to do at this event. After that participa
+ nts will start to find the unauthorized download link of Firefox browser a
+ nd they will report those sites. At that time\, swags and snacks will be d
+ istributed among the participants. Finally\, the event will be closed by a
+ n ending speech about the mission and vision of Mozilla.
+URL:https://reps.mozilla.org/e/dark-funnel-detective-campaign-barasat/
+SEQUENCE:2
+X-COORDINATES-LAT:22.5252427744
+X-COORDINATES-LON:88.6740875244
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

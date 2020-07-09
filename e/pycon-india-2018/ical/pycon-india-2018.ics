@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7745
+CLASS:PUBLIC
+DTSTAMP:20200407T171617Z
+DTSTART:20181005T023000Z
+DTEND:20181009T133000Z
+LOCATION:International Convention Centre Hyderabad\, Hyderabad\, India
+SUMMARY:PyCon India 2018
+DESCRIPTION:PyCon India\, the premier conference in India on using and dev
+ eloping the Python programming language is conducted annually by the Pytho
+ n developer community. It attracts the best Python programmers from across
+  the country and abroad.
+URL:https://reps.mozilla.org/e/pycon-india-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:17.3798778748
+X-COORDINATES-LON:78.5301933275
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

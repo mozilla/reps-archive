@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4545
+CLASS:PUBLIC
+DTSTAMP:20200423T162011Z
+DTSTART:20151031T130000Z
+DTEND:20151031T210000Z
+LOCATION:UAGRM Av Bush Computer Lab.\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Firefox for Windows 10 campaing - Santa Cruz
+DESCRIPTION:This event helps to retain Firefox Users on Windows 10. In sup
+ port to Windows 10 Community Activation Campaign we are hosting this event
+ \, inviting lots of students and creating a booth to show and retain users
+ . Also we&#39;ll show some love for Firefox OS Apps.
+URL:https://reps.mozilla.org/e/firefox-for-windows-10-campaing-santa-cruz/
+SEQUENCE:7
+X-COORDINATES-LAT:-17.7762957287
+X-COORDINATES-LON:-63.1957426068
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3047
+CLASS:PUBLIC
+DTSTAMP:20200407T174522Z
+DTSTART:20141104T080000Z
+DTEND:20141107T170000Z
+LOCATION:Slaghuset\, Jörgen Kocksgatan 7a\, Malmo\, Sweden
+SUMMARY:ØREDEV Developer Conference
+DESCRIPTION:A major webdeveloper conference in the Nordic region. We will 
+ be presence with a booth where we plan to reach out to developers about Fi
+ refox\, developer tools and FirefoxOS.
+URL:https://reps.mozilla.org/e/oredev-developer-conference/
+SEQUENCE:5
+X-COORDINATES-LAT:55.6116858062
+X-COORDINATES-LON:13.0017149444
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

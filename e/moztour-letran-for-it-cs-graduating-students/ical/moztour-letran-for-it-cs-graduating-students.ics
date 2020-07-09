@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3323
+CLASS:PUBLIC
+DTSTAMP:20200407T175932Z
+DTSTART:20150131T060000Z
+DTEND:20150131T090000Z
+LOCATION:Colegio de San Juan de Letran - Calamba\, Calamba\, Philippines
+SUMMARY:MozTour Letran for IT/CS Graduating Students
+DESCRIPTION:In cooperation with the Firefox Club in Colegio de San Juan de
+  Letran - Calamba\, the Mozilla Philippines Community will hold a MozTour 
+ for its graduating students. The MozPH will share their insights regarding
+ : Firefox OS\, Webmaker\, Firefox\, and Mozilla Community.
+URL:https://reps.mozilla.org/e/moztour-letran-for-it-cs-graduating-student
+ s/
+SEQUENCE:3
+X-COORDINATES-LAT:14.1862593754
+X-COORDINATES-LON:121.141047478
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2591
+CLASS:PUBLIC
+DTSTAMP:20200423T185910Z
+DTSTART:20140917T063000Z
+DTEND:20140917T113000Z
+LOCATION:VIIT Engg College Pune\, Pune\, India
+SUMMARY:Firefox OS Apps Day and MakerParty
+DESCRIPTION:Introduce Appmaker and Firefox OS app development. Also do som
+ e hacking for Firefox Apps where the participants will develop apps for Fi
+ refox OS and get them Published into the Marketplace. This event is schedu
+ led keeping in view the forthcoming launch of Firefox OS in India and prom
+ ote app development as well as app testing on Firefox OS.
+URL:https://reps.mozilla.org/e/firefox-os-apps-day/
+SEQUENCE:7
+X-COORDINATES-LAT:18.3740758201
+X-COORDINATES-LON:73.9867401123
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@955
+CLASS:PUBLIC
+DTSTAMP:20200423T213648Z
+DTSTART:20130607T100000Z
+DTEND:20130607T120000Z
+LOCATION:Uttara Amontron Restaurant\, Dhaka\, Bangladesh
+SUMMARY:Firefox Student Ambassadors Meetup
+DESCRIPTION:Firefox Student Ambassador program is recently launched &amp; re-b
+ randed under the hood of Mozilla Reps. We found a good number of intereste
+ d persons joining in this program. But unfortunately most of them don&#39;t kn
+ ow much about Mozilla. But they are keen to know. So its time to enrich th
+ em about the awesomeness of Mozilla.
+URL:https://reps.mozilla.org/e/firefox-student-ambassadors-meetup/
+SEQUENCE:23
+X-COORDINATES-LAT:23.8653283642
+X-COORDINATES-LON:90.39894104
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

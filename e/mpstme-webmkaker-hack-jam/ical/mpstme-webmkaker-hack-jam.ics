@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1939
+CLASS:PUBLIC
+DTSTAMP:20200423T202156Z
+DTSTART:20140301T030000Z
+DTEND:20140301T090000Z
+LOCATION:Vile Parle\, Mumbai\, India
+SUMMARY:MPSTME Webmkaker Hack Jam
+DESCRIPTION:This even will be held at MPSTME Mumbai\, This is a first Webm
+ aker Init event for Mumbai community to spread web literacy and to educate
+  people about web.
+URL:https://reps.mozilla.org/e/mpstme-webmkaker-hack-jam/
+SEQUENCE:10
+X-COORDINATES-LAT:19.0998346383
+X-COORDINATES-LON:72.8490722175
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

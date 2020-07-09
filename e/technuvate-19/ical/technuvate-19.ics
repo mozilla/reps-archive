@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8386
+CLASS:PUBLIC
+DTSTAMP:20200423T084203Z
+DTSTART:20190215T033000Z
+DTEND:20190216T123000Z
+LOCATION:Navrachana University\, Vadodara\, India
+SUMMARY:TechNUVate&#39;19
+DESCRIPTION:Mozilla India’s first collaboration with Navrachana Universi
+ ty. Spreading Mozilla Mission more\, in Vadodara. Also spreading awareness
+  for online privacy\, MozActivate campaign. Amongst students from all over
+  Gujarat\, in the Tech Fest hosted by Navrachana University\, Vadodara.
+URL:https://reps.mozilla.org/e/technuvate-19/
+SEQUENCE:1
+X-COORDINATES-LAT:22.3029673414
+X-COORDINATES-LON:73.1993407756
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

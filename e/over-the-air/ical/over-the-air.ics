@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4385
+CLASS:PUBLIC
+DTSTAMP:20200423T163636Z
+DTSTART:20150925T080000Z
+DTEND:20150926T170000Z
+LOCATION:St. John’s Hoxton\, London\, UK\, London\, United Kingdom
+SUMMARY:Over The Air
+DESCRIPTION:It defies easy description. It’s a celebration of creativity
+ . It’s a festival of all things hackable. It’s a place where attendees
+  can learn about technologies\, trends and techniques. It’s a sleep-over
+ . It’s a two day party. It’s an event where practitioners of creative 
+ and technical disciplines can come together to learn from each other.\n\nI
+ t’s an opportunity to build new relationships. It’s a space where you 
+ can build cool stuff and show it off to an appreciative crowd. It’s all 
+ these things.
+URL:https://reps.mozilla.org/e/over-the-air/
+SEQUENCE:1
+X-COORDINATES-LAT:51.3969209809
+X-COORDINATES-LON:0.0673824548721
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

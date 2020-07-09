@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5235
+CLASS:PUBLIC
+DTSTAMP:20200407T175903Z
+DTSTART:20160312T050000Z
+DTEND:20160312T080000Z
+LOCATION:Far Eastern University - Makati\, Makati City\, Philippines
+SUMMARY:FEU-Makati WoMoz Meetup
+DESCRIPTION:Mozillians and Firefox Student Ambassadors from the Far Easter
+ n Univeristy - Makati are organizing a WoMoz Meetup in their campus. The m
+ eetup will be highlighted with talks on women empowerment.
+URL:https://reps.mozilla.org/e/feu-makati-womoz-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5618703169
+X-COORDINATES-LON:121.017129779
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

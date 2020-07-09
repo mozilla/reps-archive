@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5086
+CLASS:PUBLIC
+DTSTAMP:20200407T182127Z
+DTSTART:20160325T130000Z
+DTEND:20160325T220000Z
+LOCATION:UCC Universidad Cooperativa de Colombia\, Armenia\, Colombia
+SUMMARY:Armenia Developer Day
+DESCRIPTION:Armenia Colombia JS - its a 1 day event to develop web and mob
+ ile applications using mozilla tools like Firefox Dev Version\, Thimble an
+ d FIrefoxOS Tools for ecosystem desktop - mobile  - other devices .\n\n- A
+ PI  mobile FirefoxOS Apps SmartTV\n- JS Frameworks\n- Thimble Web Editor \
+ n- Firefox Dev Version
+URL:https://reps.mozilla.org/e/armenia-developer-day/
+SEQUENCE:2
+X-COORDINATES-LAT:4.53190537658
+X-COORDINATES-LON:-75.6838417123
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

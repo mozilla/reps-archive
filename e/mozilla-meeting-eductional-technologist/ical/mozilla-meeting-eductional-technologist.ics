@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4880
+CLASS:PUBLIC
+DTSTAMP:20200423T160711Z
+DTSTART:20151203T100000Z
+DTEND:20151203T110000Z
+LOCATION:Centre for Open and Distance Learning\, Reduit\, Mauritius
+SUMMARY:Mozilla meeting eductional technologist
+DESCRIPTION:Mozilla awareness meeting with educational technologist of the
+  Centre for Open and Distance Learning of the Mauritius Institute of Educa
+ tion. This will be a presentation of Mozilla mission and products with spe
+ cial focus on FirefoxOS and Webmaker to these professionals who work in th
+ e production of educational tools using ICT tools.
+URL:https://reps.mozilla.org/e/mozilla-meeting-eductional-technologist/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.2313014848
+X-COORDINATES-LON:57.500667565
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

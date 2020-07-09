@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5736
+CLASS:PUBLIC
+DTSTAMP:20200423T150443Z
+DTSTART:20160812T090000Z
+DTEND:20160812T110000Z
+LOCATION:TBD\, Nashik\, India
+SUMMARY:Mozilla Club Inauguration : Mozillerzz
+DESCRIPTION:As the title suggests\, this will be an inaugural event for th
+ e first club of this college. This is a Womoz-centric club formed by passi
+ onate mozillians in the community. Agenda for the event will be:\n1. Intro
+ duction to Mozilla Clubs.\n2. Mentoring Club Lead.\n3. Introduction to Moz
+ illa and the communities.\n4. Contribution pathways.\n5. Introduction to C
+ onnected Devices.
+URL:https://reps.mozilla.org/e/mozilla-club-inauguration-mozillerzz/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0098435179
+X-COORDINATES-LON:73.7954592696
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

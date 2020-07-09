@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8005
+CLASS:PUBLIC
+DTSTAMP:20200423T091328Z
+DTSTART:20180730T153000Z
+DTEND:20180730T163000Z
+LOCATION:Online\, Online\, India
+SUMMARY:Mozilla Kerala Community  [Special Meeting]
+DESCRIPTION:This call is to discuss MozillaKerala Upcoming events and prog
+ rams that can be done. To finalize the Devconf team from Mozilla Kerala Co
+ mmunity
+URL:https://reps.mozilla.org/e/mozilla-kerala-community-special-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:9.97217563119
+X-COORDINATES-LON:76.283454881
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

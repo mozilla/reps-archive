@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4628
+CLASS:PUBLIC
+DTSTAMP:20200423T162149Z
+DTSTART:20151029T043000Z
+DTEND:20151029T073000Z
+LOCATION:Lucknow\, Lucknow\, India
+SUMMARY:Localised Firefox_HI-IN_Download Lucknow
+DESCRIPTION:To spread Localized Firefox in India\, Mozilla India Localizat
+ ion community is hosting a pan-India campaign for Hindi &amp; Marathi. The cam
+ paign would run from 2nd Oct to 1st Nov. To show users that Firefox is ava
+ ilable in their language we are creating a campaign that helps fans of Fir
+ efox invite the people in their networks to download Firefox.This Event wi
+ ll be hosted by Vnisha and the Mozilla Uttar Pradesh Community.
+URL:https://reps.mozilla.org/e/localised-firefox-hi-in-download-lucknow/
+SEQUENCE:0
+X-COORDINATES-LAT:26.8400534089
+X-COORDINATES-LON:80.9539945
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

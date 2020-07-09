@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@468
+CLASS:PUBLIC
+DTSTAMP:20200423T220955Z
+DTSTART:20130213T043000Z
+DTEND:20130213T093000Z
+LOCATION: P.G.Building Seminar Hall\, Dr.B.C.Roy Engineering College\, Dur
+ gapur-713206\, India
+SUMMARY:MozCafe@BCREC-Durgapur
+DESCRIPTION:Description:- It is a one day event comprising of l1on and how
+  to contribute to mozilla\, create your own add-ons and learn up HTML5.\n\
+ n
+URL:https://reps.mozilla.org/e/mozcamp-durgapur/
+SEQUENCE:0
+X-COORDINATES-LAT:23.5347172804
+X-COORDINATES-LON:87.3368453979
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

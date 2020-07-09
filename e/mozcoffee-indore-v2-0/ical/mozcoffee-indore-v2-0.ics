@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2542
+CLASS:PUBLIC
+DTSTAMP:20200423T192701Z
+DTSTART:20140713T113000Z
+DTEND:20140713T133000Z
+LOCATION:Plot No 11\, Food Court Treasure Island Mall\, M G Road\, South T
+ ukoganj\,\, Indore\, India
+SUMMARY:MozCoffee Indore v2.0
+DESCRIPTION:Opportunity to talk about Mozilla Indore community future acti
+ ons/activities in and around the city regarding Maker Party series\, Firef
+ oxOS launch and FSA program.
+URL:https://reps.mozilla.org/e/mozcoffee-indore-v2-0/
+SEQUENCE:2
+X-COORDINATES-LAT:22.677170445
+X-COORDINATES-LON:75.9315490164
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

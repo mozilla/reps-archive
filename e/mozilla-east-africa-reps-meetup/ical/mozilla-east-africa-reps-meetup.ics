@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3418
+CLASS:PUBLIC
+DTSTAMP:20200407T165627Z
+DTSTART:20150516T060000Z
+DTEND:20150517T010000Z
+LOCATION:Nairobi\, Nairobi\, Kenya
+SUMMARY:Mozilla Africa Reps Meetup
+DESCRIPTION:Mozilla Reps Meetup will be the first meet-up among African Re
+ ps to discuss on the progress made by independent communities over the pas
+ t years and the challenges faced by each community. It will also be an opp
+ ortunity to discuss on ways of strengthening collaborative efforts and act
+ ivities amongst Mozilla Communities within Africa and the global Mozilla C
+ ommunity.
+URL:https://reps.mozilla.org/e/mozilla-east-africa-reps-meetup/
+SEQUENCE:6
+X-COORDINATES-LAT:-1.34204024165
+X-COORDINATES-LON:36.8818357587
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7934
+CLASS:PUBLIC
+DTSTAMP:20200423T091339Z
+DTSTART:20180729T053000Z
+DTEND:20180729T083000Z
+LOCATION:GIC\, GTU\, Ahmedabad\, India
+SUMMARY:The Hacker&#39;s Meet-Up
+DESCRIPTION:This event is fully focused on Cyber Security research of Inde
+ pendent security researchers. who finds vulnerability\, gain knowledge and
+  try to do something out of the box with his enthusiasm\, hard work and lo
+ ve for security.
+URL:https://reps.mozilla.org/e/the-hacker-s-meet-up-14/
+SEQUENCE:0
+X-COORDINATES-LAT:23.0325141212
+X-COORDINATES-LON:72.5460748666
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

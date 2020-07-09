@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8908
+CLASS:PUBLIC
+DTSTAMP:20200407T181213Z
+DTSTART:20191214T080000Z
+DTEND:20191214T140000Z
+LOCATION:Mookhtabar\, M&#39;sila\, Algeria
+SUMMARY:Mozilla IoT WebThings Workshop - M&#39;sila\, Algeria 2019
+DESCRIPTION:Learn and test a Mozilla Web of Things project with Raspberry 
+ pi and ESP32 boards\, I will talk about (Mozilla\, IoT\, Mozilla web thing
+ s project)\, we will make a simple project for testing Mozilla web of thin
+ gs.
+URL:https://reps.mozilla.org/e/mozilla-web-of-things-m-sila-2019/
+SEQUENCE:9
+X-COORDINATES-LAT:35.6881614334
+X-COORDINATES-LON:4.58312977105
+X-COUNTRY-CODE:dz
+END:VEVENT
+
+END:VCALENDAR

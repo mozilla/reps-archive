@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5332
+CLASS:PUBLIC
+DTSTAMP:20200423T153457Z
+DTSTART:20160409T043000Z
+DTEND:20160409T063000Z
+LOCATION:Jeppiar Institute of Technology\, Sriperumbudur\, India
+SUMMARY:Mozilla session at JIT
+DESCRIPTION:Session about Mozilla Learning Networks and Mozilla Clubs at J
+ IT\, Chennai.
+URL:https://reps.mozilla.org/e/mozilla-session-at-jit/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9677441797
+X-COORDINATES-LON:79.9491462694
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

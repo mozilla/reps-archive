@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3086
+CLASS:PUBLIC
+DTSTAMP:20200407T165740Z
+DTSTART:20141118T110000Z
+DTEND:20141118T180000Z
+LOCATION:National Theatre\, Sarajevo\, Bosnia and Herzegovina
+SUMMARY:Youth Succes [UN Global event]
+DESCRIPTION:Event is organized globally\, and is happening in each country
+  in the world. One of the countries that are joining the movement is Bosni
+ a and Herzegovina. The whole event has goal to present success stories and
+  what&#39;s available for youth to participate and succeed together with whole
+  community.\n\nMore details are going to be added next week when event goe
+ s public.
+URL:https://reps.mozilla.org/e/youth-succes-un-global-event/
+SEQUENCE:4
+X-COORDINATES-LAT:43.8568107872
+X-COORDINATES-LON:18.4207842349
+X-COUNTRY-CODE:ba
+END:VEVENT
+
+END:VCALENDAR

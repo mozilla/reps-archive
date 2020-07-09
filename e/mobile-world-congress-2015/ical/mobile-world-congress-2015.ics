@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3556
+CLASS:PUBLIC
+DTSTAMP:20200407T174458Z
+DTSTART:20150301T230000Z
+DTEND:20150304T230000Z
+LOCATION:Fira Gran Via\, L&#39;Hospitalet de Llobregat\, Spain
+SUMMARY:Mobile World Congress 2015
+DESCRIPTION:Mobile World Congress is the world’s largest annual gatherin
+ g of mobile and related industry C-Level executives.
+URL:https://reps.mozilla.org/e/mobile-world-congress-2015/
+SEQUENCE:0
+X-COORDINATES-LAT:41.3548597562
+X-COORDINATES-LON:2.13102722133
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

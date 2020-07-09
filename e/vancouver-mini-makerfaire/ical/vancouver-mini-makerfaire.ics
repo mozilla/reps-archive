@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1990
+CLASS:PUBLIC
+DTSTAMP:20200423T194028Z
+DTSTART:20140607T140000Z
+DTEND:20140609T010000Z
+LOCATION:PNE Forum\, Vancouver\, Canada
+SUMMARY:Vancouver Mini Makerfaire
+DESCRIPTION:Maker Faire is the Greatest Show (and Tell) on Earth—a famil
+ y-friendly showcase of invention\, creativity and resourcefulness\, and a 
+ celebration of the Maker movement. It’s a place where people show what t
+ hey are making\, and share what they are learning.\n \n\nWe will host a bo
+ oth\, and given a talk on Makers as Mentors
+URL:https://reps.mozilla.org/e/vancouver-mini-makerfaire/
+SEQUENCE:1
+X-COORDINATES-LAT:49.2592534694
+X-COORDINATES-LON:-123.113113409
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

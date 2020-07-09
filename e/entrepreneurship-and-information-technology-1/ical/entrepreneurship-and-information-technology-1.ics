@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1863
+CLASS:PUBLIC
+DTSTAMP:20200407T180628Z
+DTSTART:20140418T080000Z
+DTEND:20140418T110000Z
+LOCATION:Srednja poljoprivredna škola\, Antivari\, Montenegro
+SUMMARY:Entrepreneurship and information technology
+DESCRIPTION:&#34;Entrepreneurship and information technology&#34; is project based
+  on improvements in society. We want to inspire young people\, highschool 
+ students\, to think about everyday things\, as entrepreneurial opportuniti
+ es. If you see something that can be better with some tech solution\, you 
+ can build that solution\, earn\, and create better everyday life. Event is
+  just for the students of high schools in Niksic. And the students will be
+  chosen by their teachers.\n\nWebmaker event.
+URL:https://reps.mozilla.org/e/entrepreneurship-and-information-technology
+ -1/
+SEQUENCE:5
+X-COORDINATES-LAT:42.0979623595
+X-COORDINATES-LON:19.0956830961
+X-COUNTRY-CODE:me
+END:VEVENT
+
+END:VCALENDAR

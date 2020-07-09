@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3367
+CLASS:PUBLIC
+DTSTAMP:20200407T171716Z
+DTSTART:20150124T080000Z
+DTEND:20150124T130000Z
+LOCATION:TBD\, irbid\, Jordan
+SUMMARY:J.U.S.T  Firefox student ambassador training
+DESCRIPTION:This event is an extensive training for the Firefox student am
+ bassador of Jordan university of science and technology on the different s
+ ubjects and projects of Mozilla .\nThe aim is to have ambassadors that are
+  effective and participate in Mozilla projects and also to activate the cl
+ ub in their uni and continue recruiting and working .
+URL:https://reps.mozilla.org/e/j-u-s-t-firefox-student-ambassador-training
+ /
+SEQUENCE:4
+X-COORDINATES-LAT:32.5368613224
+X-COORDINATES-LON:35.8628439895
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

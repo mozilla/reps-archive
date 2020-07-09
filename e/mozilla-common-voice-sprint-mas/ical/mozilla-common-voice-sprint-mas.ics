@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8545
+CLASS:PUBLIC
+DTSTAMP:20200423T083129Z
+DTSTART:20190428T043000Z
+DTEND:20190428T123000Z
+LOCATION:CSC Institute\, Thiruninravur\, India
+SUMMARY:Mozilla Common Voice Sprint - MAS
+DESCRIPTION:Mozilla&#39;s Common Voice is the project that aims to unlock and 
+ open the voice ecosystem. It needs YOUR help to advance English voice coll
+ ection and get to the next level. In order for a language to be usable by 
+ speech recognition engines we need at least 2000 hours of voice collected 
+ from at least 1000 diverse people\, and we think communities are the only 
+ ones that can enable this diversity.
+URL:https://reps.mozilla.org/e/mozilla-common-voice-sprint-mas/
+SEQUENCE:1
+X-COORDINATES-LAT:13.134734315
+X-COORDINATES-LON:79.8978352547
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

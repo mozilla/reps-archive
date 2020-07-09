@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6504
+CLASS:PUBLIC
+DTSTAMP:20200407T171700Z
+DTSTART:20170508T060000Z
+DTEND:20170512T170000Z
+LOCATION:KTU Santakos Slėnis\, Vilnius\, Lithuania
+SUMMARY:KTU Hackathon
+DESCRIPTION:A work-week long Rust hackathon organized by Mozilla with coll
+ aboration with the Kaunas Technology University.
+URL:https://reps.mozilla.org/e/ktu-hackathon/
+SEQUENCE:10
+X-COORDINATES-LAT:54.8996035044
+X-COORDINATES-LON:23.9614525437
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

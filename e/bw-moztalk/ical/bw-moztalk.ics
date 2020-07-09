@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6582
+CLASS:PUBLIC
+DTSTAMP:20200407T183810Z
+DTSTART:20170603T120000Z
+DTEND:20170603T150000Z
+LOCATION:University of Botswana\, Gaborone\, Botswana
+SUMMARY:BW MozTalk
+DESCRIPTION:To give a talk about Mozilla\, what we do and how it benefits 
+ the citizens of the web and how they can join us
+URL:https://reps.mozilla.org/e/bw-moztalk/
+SEQUENCE:1
+X-COORDINATES-LAT:-24.6902795692
+X-COORDINATES-LON:25.7885733247
+X-COUNTRY-CODE:bw
+END:VEVENT
+
+END:VCALENDAR

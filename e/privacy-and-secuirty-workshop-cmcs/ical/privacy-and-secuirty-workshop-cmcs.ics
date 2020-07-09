@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1749
+CLASS:PUBLIC
+DTSTAMP:20200423T202903Z
+DTSTART:20140208T053000Z
+DTEND:20140208T103000Z
+LOCATION:CMCS College Nasik\, Nashik\, India
+SUMMARY:Privacy and secuirty Workshop @ CMCS
+DESCRIPTION:* Mozilla Nasik community is planning a more practical oriente
+ d handson event at CMCS college Nasik for the interested who like to build
+  the web.\n\n* The event is aimed at practical handson and understanding o
+ f the web for the students and Teachers.\n\n*  Creation of  FSA group at t
+ he college for further mozilla activities.\n\n* The procedures we can use 
+ to secure our privacy on the web.
+URL:https://reps.mozilla.org/e/privacy-and-secuirty-workshop-cmcs/
+SEQUENCE:5
+X-COORDINATES-LAT:20.0134290161
+X-COORDINATES-LON:73.7563562376
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

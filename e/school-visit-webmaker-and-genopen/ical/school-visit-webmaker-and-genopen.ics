@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@770
+CLASS:PUBLIC
+DTSTAMP:20200423T215504Z
+DTSTART:20130408T190000Z
+DTEND:20130408T214500Z
+LOCATION:Ecole Poirier Elementry School\, Sooke\, Canada
+SUMMARY:School Visit (Webmaker and GenOpen)
+DESCRIPTION:School Visit\, teaching kids Webmaker tools Popcorn and Thimbl
+ e\, and testing out GenOpen collaborative project hacktivity 
+URL:https://reps.mozilla.org/e/school-visit-webmaker-and-genopen/
+SEQUENCE:1
+X-COORDINATES-LAT:48.3781454698
+X-COORDINATES-LON:-123.723907471
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8689
+CLASS:PUBLIC
+DTSTAMP:20200407T173243Z
+DTSTART:20190824T000000Z
+DTEND:20190825T090000Z
+LOCATION:Iloilo Convention Center\, Iloilo City\, Philippines
+SUMMARY:WordCamp Iloilo 2019
+DESCRIPTION:WordCamp is a conference that focuses on everything WordPress.
+  WordCamps are informal\, community-organized events that are put together
+  by WordPress users like you. Everyone from casual users to core developer
+ s participate\, share ideas\, and get to know each other.
+URL:https://reps.mozilla.org/e/wordcamp-iloilo-2019/
+SEQUENCE:0
+X-COORDINATES-LAT:10.6814696275
+X-COORDINATES-LON:122.564529413
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

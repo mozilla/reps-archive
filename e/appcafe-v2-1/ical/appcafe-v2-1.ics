@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2505
+CLASS:PUBLIC
+DTSTAMP:20200423T192850Z
+DTSTART:20140706T063000Z
+DTEND:20140706T093000Z
+LOCATION:TechnoByte Computer Education\, Jaipur\, India
+SUMMARY:AppCafe v2.1
+DESCRIPTION:MCR (Mozilla Community Rajasthan) has successfully conducted s
+ eries of small App Dev events every Sunday before vacations. First series 
+ of those events was very successful and lot of apps were submitted to Mark
+ etplace.\nNow after vacations\, the series of events is getting started ag
+ ain as version 2. MCR is calling all app developers for first event of v2 
+ of App Cafe :)
+URL:https://reps.mozilla.org/e/appcafe-v2-1/
+SEQUENCE:5
+X-COORDINATES-LAT:26.9137432346
+X-COORDINATES-LON:75.8312986046
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

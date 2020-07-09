@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1050
+CLASS:PUBLIC
+DTSTAMP:20200423T212638Z
+DTSTART:20130715T100000Z
+DTEND:20131015T100000Z
+LOCATION:Hungary / no exact location\, Budapest\, Hungary
+SUMMARY:Hungarian Developer Hub of Firefox OS
+DESCRIPTION:Goal: Provide testing mobile phones to developers for one or t
+ wo weeks\n\nMethod: Using cheap postal service to send phones to the selec
+ ted developers. After testing period the phones go to the next developer.\
+ n\nApply: Google form\, that collecting personal contacting infromation\, 
+ postal address\, link to one or more already started\, developed app to te
+ st.\n\nWe got 30 Geeksphone phones for this.
+URL:https://reps.mozilla.org/e/hungarian-developer-hub-of-firefox-os/
+SEQUENCE:2
+X-COORDINATES-LAT:46.5588603031
+X-COORDINATES-LON:19.51171875
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

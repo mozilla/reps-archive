@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4358
+CLASS:PUBLIC
+DTSTAMP:20200423T163928Z
+DTSTART:20150919T040000Z
+DTEND:20150920T110000Z
+LOCATION:National Institute of Technology(NIT )Calicut\, Kozhikode\, India
+SUMMARY:Two Day FxOs Hackathon @ NIT Calicut
+DESCRIPTION:A two day Hackathon for Mozilla&#39;s new mobile operating system 
+ FirefoxOS. This event will help students to get familiarize with all the a
+ spects of Firefox OS\, Web Apps\, Web APIs. Also it will be a great opport
+ unity for students to create quality apps and submit to marketplace.
+URL:https://reps.mozilla.org/e/two-day-fxos-hackathon-nit-calicut/
+SEQUENCE:10
+X-COORDINATES-LAT:11.2460014347
+X-COORDINATES-LON:75.7806129454
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

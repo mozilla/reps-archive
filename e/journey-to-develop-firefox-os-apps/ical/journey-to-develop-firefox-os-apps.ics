@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3155
+CLASS:PUBLIC
+DTSTAMP:20200407T173411Z
+DTSTART:20141122T040000Z
+DTEND:20141127T110000Z
+LOCATION:Chittagong University of Engineering and Technology (CUET)\, Chit
+ tagong\, Bangladesh
+SUMMARY:Journey to develop Firefox OS apps
+DESCRIPTION:5 teams have been selected in the Firefox OS app Challenge Ban
+ gladesh from Chittagong University of Engineering and Technology (CUET). S
+ o the FSAs of CUET Fx Club are organizing a 6 days workshop to groom thems
+ elves and teach newbies on Firefox OS app development . This six days app 
+ training will be conducted by the FSAs.\n\nSession 1: Start time: 10.30 a.
+ m\nSession 2: Star time: 2.30 p.m
+URL:https://reps.mozilla.org/e/journey-to-develop-firefox-os-apps/
+SEQUENCE:3
+X-COORDINATES-LAT:22.5398036046
+X-COORDINATES-LON:92.0658187859
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

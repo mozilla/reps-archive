@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5788
+CLASS:PUBLIC
+DTSTAMP:20200407T183725Z
+DTSTART:20160909T160000Z
+DTEND:20160909T200000Z
+LOCATION:Campus São Paulo\, Google Space\, São Paulo\, Brazil
+SUMMARY:MozCoffe Google Campus São Paulo Setembro
+DESCRIPTION:Meeting of local community volunteers to discuss future Mozill
+ a Activate campaign activities in the region.
+URL:https://reps.mozilla.org/e/mozcoffe-google-campus-sao-paulo-setembro/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.9404821874
+X-COORDINATES-LON:-47.1933574677
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

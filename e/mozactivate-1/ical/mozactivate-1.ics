@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5986
+CLASS:PUBLIC
+DTSTAMP:20200407T181530Z
+DTSTART:20161112T140000Z
+DTEND:20161112T160000Z
+LOCATION:Indore\, Indore\, India
+SUMMARY:Online Meeup on Mozactivate
+DESCRIPTION:Planing on Mozactivate event will get success in higher side.\
+ nBriefing:\nA campaign for Mozillians around the world to have impact in a
+ reas key to Mozilla’s mission.\nWe are Introducing Activate Mozilla\,  a
+  campaign-\n1. Where you can find what are the focus initiatives that supp
+ ort the current organization goals\, \n2. How to start participating and m
+ obilize your community around clearly defined\nactivities.\n3. What are th
+ e most important things to do to support Mozilla\n4. How to participate.
+URL:https://reps.mozilla.org/e/mozactivate-1/
+SEQUENCE:2
+X-COORDINATES-LAT:22.6916148937
+X-COORDINATES-LON:75.8306579757
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

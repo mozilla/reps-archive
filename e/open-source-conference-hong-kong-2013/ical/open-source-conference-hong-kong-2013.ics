@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1055
+CLASS:PUBLIC
+DTSTAMP:20200423T205948Z
+DTSTART:20131019T010000Z
+DTEND:20131019T100000Z
+LOCATION:Run Run Shaw Creative Media Centre\, City University of Hong Kong
+ \, Hong Kong\, Hong Kong
+SUMMARY:Open Source Conference Hong Kong 2013
+DESCRIPTION:Open Source Conference Hong Kong 2013 is the first annual open
+  source conference in Hong Kong.\n\nRegistration / RSVP: http://hkosc2013.
+ eventbrite.com\nWeb Site: http://opensource.hk/2013\nAgenda: http://bit.ly
+ /hkosc2013-agenda
+URL:https://reps.mozilla.org/e/open-source-conference-hong-kong-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:22.3401128971
+X-COORDINATES-LON:114.168602228
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

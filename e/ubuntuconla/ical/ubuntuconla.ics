@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2629
+CLASS:PUBLIC
+DTSTAMP:20200423T191530Z
+DTSTART:20140814T130000Z
+DTEND:20140816T210000Z
+LOCATION:Universidad Tecnológica de Bolivar\, Cartagena de Indias\, Colom
+ bia\, Cartagena\, Colombia
+SUMMARY:UbuntuConLa
+DESCRIPTION:An annual international event for Latin America whose the goal
+  is to spread the skills and experiences gained in enterprise environments
+  by specialists in IT projects in Latin America and contexts of different 
+ features show the degree of maturity reached by Ubuntu GNU / Linux and pro
+ fessionals working in enterprise environments with open source technologie
+ s.
+URL:https://reps.mozilla.org/e/ubuntuconla/
+SEQUENCE:7
+X-COORDINATES-LAT:10.4085742974
+X-COORDINATES-LON:-75.4955309629
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

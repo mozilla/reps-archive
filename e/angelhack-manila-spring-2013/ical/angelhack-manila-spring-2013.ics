@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@858
+CLASS:PUBLIC
+DTSTAMP:20200423T213629Z
+DTSTART:20130608T010000Z
+DTEND:20130609T080000Z
+LOCATION:12F Anson&#39;s Building \, ADB avenue\, Ortigas Center\, Pasig City\
+ , Philippines
+SUMMARY:AngelHack Manila - Spring 2013
+DESCRIPTION:The AngelHack global hackathon competition is here. Think you 
+ know hack... You don&#39;t know jack. Win at AngelHack and you&#39;ll bin entered 
+ in a Silicon Valley Accelerator program\, be flown to San Francisco\, and 
+ have chances to win $100\,000&#39;s in prizes. And it all starts here!\n\nThis
+  isn’t your typical hackathon\; this is the big leagues.\n\nThis is Ange
+ lHack.
+URL:https://reps.mozilla.org/e/angelhack-manila-spring-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5844556395
+X-COORDINATES-LON:121.06212616
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

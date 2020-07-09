@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8050
+CLASS:PUBLIC
+DTSTAMP:20200407T174121Z
+DTSTART:20180824T021500Z
+DTEND:20180831T041500Z
+LOCATION:Amrit Campus\, Kathmandu\, Nepal
+SUMMARY:Understanding and Using Rest API Effeciently
+DESCRIPTION:There’s a high chance you came across the term “REST API
+ ” if you’ve thought about getting data from another source on the inte
+ rnet\, such as Twitter\,google map\,Github and many more. But what is a RE
+ ST API? What can it do for you? How do you use it?\n\nIn this event\, you
+ ’ll learn everything you need to know about REST APIs and will be able t
+ o work with its documentations and use them effectively.(Note:- Most of th
+ e demos will be on Node.js)
+URL:https://reps.mozilla.org/e/understanding-and-using-rest-api-effecientl
+ y/
+SEQUENCE:1
+X-COORDINATES-LAT:27.7160557303
+X-COORDINATES-LON:85.3129806518
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

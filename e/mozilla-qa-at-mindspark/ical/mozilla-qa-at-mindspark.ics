@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5928
+CLASS:PUBLIC
+DTSTAMP:20200423T145316Z
+DTSTART:20160925T053000Z
+DTEND:20160925T073000Z
+LOCATION:College of Engineering Pune\, Pune\, India
+SUMMARY:Mozilla QA at Mindspark
+DESCRIPTION:Mindspark is the annual technical festival of COEP. COEP has a
+  Mozilla presence and in the Open Source series of workshops\, Mozilla QA 
+ would be explored.
+URL:https://reps.mozilla.org/e/mozilla-qa-at-mindspark/
+SEQUENCE:1
+X-COORDINATES-LAT:18.5294996374
+X-COORDINATES-LON:73.8568711272
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

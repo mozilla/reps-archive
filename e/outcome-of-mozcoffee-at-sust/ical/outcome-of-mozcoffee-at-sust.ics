@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3620
+CLASS:PUBLIC
+DTSTAMP:20200423T173227Z
+DTSTART:20150417T040000Z
+DTEND:20150417T120000Z
+LOCATION:Sotten Bose Bhavan ( A Building )\, SUST\, Sylhet\, Bangladesh\, 
+ Sylhet\, Bangladesh
+SUMMARY:Outcome of &#39;MozCoffee at SUST&#39;
+DESCRIPTION:On this event \, some of the participants of the last &#39;MozCoff
+ ee at SUST&#39; [about 15-17 people] will come and will be given guidelines to
+  create apps for Firefox OS. They will then create applications and upload
+  them to the Marketplace.\n\nDon&#39;t get confused with the event name\;\nIt&#39;
+ s basically an app-day :)\nNamed it as &#39;Outcome of MozCoffee at SUST&#39; only
+  to show a message that the participants are from the last event [MozCoffe
+ e at SUST] only.
+URL:https://reps.mozilla.org/e/outcome-of-mozcoffee-at-sust/
+SEQUENCE:15
+X-COORDINATES-LAT:24.8956237193
+X-COORDINATES-LON:91.8648648262
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

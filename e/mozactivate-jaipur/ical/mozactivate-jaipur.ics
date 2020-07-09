@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6234
+CLASS:PUBLIC
+DTSTAMP:20200423T113400Z
+DTSTART:20170125T043000Z
+DTEND:20170126T113000Z
+LOCATION:OI Amigo Technocrats\,Radha Vihar\,Jaipur\, Jaipur\, India
+SUMMARY:MozActivate Jaipur-MCR Wingdings 3
+DESCRIPTION:Rajasthan&#39;s first WebVR and Rust hands on event to celebrate t
+ he anniversary of glorious 3 Years of Mozilla Community Rajasthan. The the
+ me of the anniversary will be based on MozActivateThe participants will be
+  given experience on Web VR\, Rust and Web Compat.
+URL:https://reps.mozilla.org/e/mozactivate-jaipur/
+SEQUENCE:9
+X-COORDINATES-LAT:26.8526562531
+X-COORDINATES-LON:75.8069783449
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

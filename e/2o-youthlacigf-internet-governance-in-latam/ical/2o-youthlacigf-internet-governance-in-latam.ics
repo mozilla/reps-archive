@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6752
+CLASS:PUBLIC
+DTSTAMP:20200407T170337Z
+DTSTART:20170801T120000Z
+DTEND:20170803T000000Z
+LOCATION:City of Knowledge. Panama city\, Panama City\, Panama
+SUMMARY:2o YouthLACIGF | Internet Governance in Latam.
+DESCRIPTION:The YouthLACIGF is an initiative born from the growing communi
+ ty of Latin American youth interested in issues related to the Internet. G
+ iven the active role that the youth have started taking\, this new space i
+ s created with multi-sectoral characteristics\, as a forum for debate of n
+ ew ideas and perspectives to encourage the creation of lines of discussion
+  that will be taken to other Local LATAM forums.
+URL:https://reps.mozilla.org/e/2o-youthlacigf-internet-governance-in-latam
+ /
+SEQUENCE:0
+X-COORDINATES-LAT:8.99885297318
+X-COORDINATES-LON:-79.5843329444
+X-COUNTRY-CODE:pa
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@765
+CLASS:PUBLIC
+DTSTAMP:20200423T214639Z
+DTSTART:20130429T150000Z
+DTEND:20130430T000000Z
+LOCATION:Av. Rancho Seco s/n.\, Impulsora\, 57130 Ciudad Nezahualcóyotl\,
+  Nezahualcóyotl\, Mexico
+SUMMARY:FLISOL 2013 Aragon
+DESCRIPTION:Flisol is a Free software installation festival organized in L
+ atin America in different cities. I will participate in the Aragon&#39;s editi
+ on\, giving a talk about Firefox and Firefox OS and how to have a better w
+ eb experience with your browser
+URL:https://reps.mozilla.org/e/flisol-2013-aragon/
+SEQUENCE:1
+X-COORDINATES-LAT:19.4747653764
+X-COORDINATES-LON:-99.0432071686
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

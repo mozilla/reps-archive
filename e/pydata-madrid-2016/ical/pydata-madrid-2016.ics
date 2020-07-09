@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5174
+CLASS:PUBLIC
+DTSTAMP:20200423T153517Z
+DTSTART:20160408T070000Z
+DTEND:20160410T160000Z
+LOCATION:Google Campus Madrid\, Madrid\, Spain
+SUMMARY:PyData Madrid 2016
+DESCRIPTION:PyData conferences bring together users and developers of data
+  analysis tools to share ideas and learn from each other. The PyData commu
+ nity gathers to discuss how best to apply Python tools\, as well as tools 
+ using R and Julia\, to meet evolving challenges in data management\, proce
+ ssing\, analytics\, and visualization.
+URL:https://reps.mozilla.org/e/pydata-madrid-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:40.4127683435
+X-COORDINATES-LON:-3.71826553353
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

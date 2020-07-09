@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@605
+CLASS:PUBLIC
+DTSTAMP:20200423T220834Z
+DTSTART:20130216T140000Z
+DTEND:20130216T170000Z
+LOCATION:ITES II PLATEAUX\, Abidjan\, Ivory Coast
+SUMMARY:MozHack Install Party
+DESCRIPTION:Is a game that will allow the participant to know better the e
+ nvironment and Unbuntu firefox.
+URL:https://reps.mozilla.org/e/mozhack-install-party/
+SEQUENCE:0
+X-COORDINATES-LAT:5.35933235565
+X-COORDINATES-LON:-3.98769378662
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

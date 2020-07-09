@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3210
+CLASS:PUBLIC
+DTSTAMP:20200407T175444Z
+DTSTART:20150219T200000Z
+DTEND:20150222T200000Z
+LOCATION:Hilton Los Angeles\, Los Angeles\, United States
+SUMMARY:SCALE 13x
+DESCRIPTION:SCALE 13X – the 13th annual Southern California Linux Expo 
+ – takes place on February 19-22\, 2015\, at the Hilton Los Angeles Airpo
+ rt hotel. As the first-of-the-year Linux/Open Source software expo in Nort
+ h America\, SCALE 12X expects to host more than 100 exhibitors this year\,
+  along with nearly a 80 sessions\, tutorials and special events\n\nSCALE i
+ s a community run open-source and free software conference held annually i
+ n Los Angeles.
+URL:https://reps.mozilla.org/e/scale-13x/
+SEQUENCE:11
+X-COORDINATES-LAT:34.0446944222
+X-COORDINATES-LON:-118.21975708
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1948
+CLASS:PUBLIC
+DTSTAMP:20200423T202030Z
+DTSTART:20140305T230000Z
+DTEND:20140306T003000Z
+LOCATION:Mozilla San Francisco\, San Francisco\, United States
+SUMMARY:Mozilla SF Space tour
+DESCRIPTION:A tour of Mozilla&#39;s San Francisco space
+URL:https://reps.mozilla.org/e/mozilla-sf-space-tour/
+SEQUENCE:1
+X-COORDINATES-LAT:37.7897236003
+X-COORDINATES-LON:-122.388785679
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

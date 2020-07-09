@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7428
+CLASS:PUBLIC
+DTSTAMP:20200423T101037Z
+DTSTART:20171220T070000Z
+DTEND:20180122T220000Z
+LOCATION:Mozilla Cameroon Website (www.mozillacameroon.org)\, Yaounde\, Ca
+ meroon
+SUMMARY:2018 Mozilla Cameroon Call for Volunteers
+DESCRIPTION:Call For Volunteer at @Mozilla #Cameroon!!! The success of our
+  mission depends on participation from people like you. Get involved to he
+ lp make a difference in Cameroon through Mozilla in 2018? Just fill this f
+ orm http://bit.ly/2BmolvF  by January 22nd\, 2018. Be a Mozillian!
+URL:https://reps.mozilla.org/e/2018-mozilla-cameroon-call-for-volunteers/
+SEQUENCE:0
+X-COORDINATES-LAT:3.78313650008
+X-COORDINATES-LON:11.7341306806
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

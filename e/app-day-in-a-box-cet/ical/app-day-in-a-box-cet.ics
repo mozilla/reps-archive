@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4122
+CLASS:PUBLIC
+DTSTAMP:20200423T165914Z
+DTSTART:20150725T043000Z
+DTEND:20150725T133000Z
+LOCATION:College of Engineering and Technology\, Bhubaneswar\, Bhubaneswar
+ \, India
+SUMMARY:App Day in a Box @ CET
+DESCRIPTION:This is a one day event where we will have sessions on Firefox
+  OS. The event will focus in showing how to start contributing to Firefox 
+ OS codebase and also in Firefox OS Marketplace.
+URL:https://reps.mozilla.org/e/app-day-in-a-box-cet/
+SEQUENCE:2
+X-COORDINATES-LAT:20.2873680936
+X-COORDINATES-LON:85.8390541084
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

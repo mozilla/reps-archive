@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3535
+CLASS:PUBLIC
+DTSTAMP:20200423T175338Z
+DTSTART:20150221T090000Z
+DTEND:20150221T130000Z
+LOCATION:Comlabs ITB\, Bandung\, Indonesia
+SUMMARY:#MozBelajar with LPP Salman
+DESCRIPTION:In collaboration with Comlabs Institut Teknologi Bandung ( and
+  LPP Salman ITB\, Mozilla Indonesia Community hold #MozBelajar with LPP Sa
+ lman. Participants are high school teachers who&#39;re interested to use Web t
+ echnology for generating teaching content. We use Webmaker tools for that.
+URL:https://reps.mozilla.org/e/mozbelajar-with-lpp-salman/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.88906506768
+X-COORDINATES-LON:107.610601902
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4736
+CLASS:PUBLIC
+DTSTAMP:20200423T162300Z
+DTSTART:20151025T090000Z
+DTEND:20151025T110000Z
+LOCATION:Surabhi Food Forest \, Near NIT / Kazipet Road\, Warangal\, India
+SUMMARY:SR Firefox Club Kick Start Meet
+DESCRIPTION:Welcoming ! SR Firefox club into Mozilla Community.As a part\,
+  Making  aware of Mozilla Mission\, Projects and FSA hierarchy. Providing 
+ perfect sketch out of establishing a Firefox club and how to conduct futur
+ e events on SuMo\,MDN\,Appmaker and localization will be explained to the 
+ students\,so that the contribution can be increased in the above mentioned
+  areas from the community.
+URL:https://reps.mozilla.org/e/sr-firefox-club-kick-start-meet/
+SEQUENCE:2
+X-COORDINATES-LAT:17.9898348918
+X-COORDINATES-LON:79.5333749054
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2112
+CLASS:PUBLIC
+DTSTAMP:20200423T200206Z
+DTSTART:20140414T160000Z
+DTEND:20140414T170000Z
+LOCATION:Universidad Nacional Mayor de San Marcos\, Lima\, Peru
+SUMMARY:LDS full-day 2014
+DESCRIPTION:An event organized by LDS\, a student association in the Mayor
+  National University of Saint Marcus\, in Lima.\n\nIn the event I will tal
+ k about Firefox OS.
+URL:https://reps.mozilla.org/e/lds-full-day-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.0557955784
+X-COORDINATES-LON:-77.0822961331
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

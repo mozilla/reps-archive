@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8292
+CLASS:PUBLIC
+DTSTAMP:20200407T174125Z
+DTSTART:20181216T053000Z
+DTEND:20181216T113000Z
+LOCATION:Classroom\, Ground floor\, National Institute of Public Finance a
+ nd Policy (NIPFP)\, New Delhi\, India
+SUMMARY:Mozilla Contribution Meetup
+DESCRIPTION:11:00-11:30 - People come in and introductions.\n11:30-01:30 -
+  Building a Debian package of Firefox using Continuous Integration by Raju
+  Devidas.\n01:30-02:30 - Networking Session.\n02:30-04:30 -  How to contri
+ bute to Mozilla by Sanyam Khurana.\n04:30-05:00 - Winding up.
+URL:https://reps.mozilla.org/e/mozilla-contribution-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:28.5239028946
+X-COORDINATES-LON:77.2298982739
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

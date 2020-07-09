@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5652
+CLASS:PUBLIC
+DTSTAMP:20200423T151144Z
+DTSTART:20160718T153000Z
+DTEND:20160718T163000Z
+LOCATION:Google Hangouts\, Chennai\, India
+SUMMARY:Weeks of Contribution 2016 - SUMO
+DESCRIPTION:- Introduction to AOA\n- Introduction to KB\n- Discussion abou
+ t KB articles to be translated\n\n\nSpeaker : Karthickeyan (RAL  - FSA)
+URL:https://reps.mozilla.org/e/weeks-of-contribution-2016-sumo/
+SEQUENCE:2
+X-COORDINATES-LAT:13.065209668
+X-COORDINATES-LON:80.2412116528
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

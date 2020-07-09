@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@996
+CLASS:PUBLIC
+DTSTAMP:20200423T213457Z
+DTSTART:20130615T053000Z
+DTEND:20130615T123000Z
+LOCATION:Symbiosis Institute of Computer Studies and Research\, Pune\, Ind
+ ia
+SUMMARY:MakerParty\, Pune
+DESCRIPTION:Through this event we are planning to mark the start of Webmak
+ er party in Pune\, India.\n\n\nThis event is aimed at introducing the Mozi
+ lla World to the fresh batch of M.Sc(CA) students in Symbiosis Institute o
+ f Computer Studies and Research who are new to the FOSS world and are taki
+ ng their first steps into the Open Source Communities.
+URL:https://reps.mozilla.org/e/makerparty-pune/
+SEQUENCE:39
+X-COORDINATES-LAT:18.5333380759
+X-COORDINATES-LON:73.8335430622
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

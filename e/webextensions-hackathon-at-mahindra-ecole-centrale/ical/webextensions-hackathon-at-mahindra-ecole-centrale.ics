@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8059
+CLASS:PUBLIC
+DTSTAMP:20200423T085411Z
+DTSTART:20181102T043000Z
+DTEND:20181103T043000Z
+LOCATION:Mahindra École Centrale\, Hyderabad\, India
+SUMMARY:WebExtensions Hackathon at Mahindra École Centrale
+DESCRIPTION:Firefox is an open-source web browser that cares about user co
+ ntrol and privacy\, and extensions provide a safe\, simple\, and powerful 
+ way to personalize your browsing experience. From blocking ads to organizi
+ ng tabs\, webextensions help make Firefox your own.
+URL:https://reps.mozilla.org/e/webextensions-hackathon-at-mahindra-ecole-c
+ entrale/
+SEQUENCE:7
+X-COORDINATES-LAT:17.5707580719
+X-COORDINATES-LON:78.4328956611
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

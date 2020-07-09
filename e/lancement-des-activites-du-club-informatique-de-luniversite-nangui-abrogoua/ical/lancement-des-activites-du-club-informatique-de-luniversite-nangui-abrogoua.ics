@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6465
+CLASS:PUBLIC
+DTSTAMP:20200407T181859Z
+DTSTART:20170401T080000Z
+DTEND:20170401T120000Z
+LOCATION:Université Nangui Abrogoua\, ABIDJAN\, Ivory Coast
+SUMMARY:Lancement des activités du Club Informatique de L’université N
+ angui Abrogoua
+DESCRIPTION:Le but de cette activité est de réveiller en tous les partic
+ ipants l’envie d’être dans le domaine des Tics et de promouvoir notre
+  communauté qui œuvre pour apprendre les technologies\, les partager\, e
+ t surtout en créer. \n\nCible : Etudiants dans diffèrent domaine (Inform
+ atique\, Mathématiques\, Physiques\, chimie\, Sciences Naturelles\, Méde
+ cine etc.)\, et profanes.\n\nResponsable de l’évènement: Sablin Xavier
+  Privat Amon \nEmail: wiztrust@gmail.com
+URL:https://reps.mozilla.org/e/lancement-des-activites-du-club-informatiqu
+ e-de-luniversite-nangui-abrogoua/
+SEQUENCE:4
+X-COORDINATES-LAT:5.35189056267
+X-COORDINATES-LON:-4.0223236091
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

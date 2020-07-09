@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5354
+CLASS:PUBLIC
+DTSTAMP:20200407T182115Z
+DTSTART:20160423T140000Z
+DTEND:20160423T230000Z
+LOCATION:Biblioteca Publica Central “Margarita Maza de Juarez&#34; Macedonio
+  Alcalá 200 esquina Morelos\, Centro Histórico\, Oaxaca de Juárez\,\, O
+ axaca de Juarez\, Mexico
+SUMMARY:FLISOL 2016 - Oaxaca
+DESCRIPTION:The Latino Festival of Free Software Installation American - F
+ LISoL is an international event held annually\, which occurs simultaneousl
+ y in several cities in Latin America. The FLISoL is a decentralized event 
+ where different communities organize and perform their festival\, voluntar
+ ily\, with the main objective to promote the use of free software\, presen
+ ting its philosophy\, scope\, progress and development to the general publ
+ ic.
+URL:https://reps.mozilla.org/e/flisol-2016-oaxaca/
+SEQUENCE:0
+X-COORDINATES-LAT:17.0627523344
+X-COORDINATES-LON:-96.7243230347
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

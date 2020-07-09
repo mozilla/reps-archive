@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4511
+CLASS:PUBLIC
+DTSTAMP:20200423T163104Z
+DTSTART:20151008T000000Z
+DTEND:20151009T053000Z
+LOCATION:Hindupat public school\, Raghogarh\, Guna\, India
+SUMMARY:Hour of code Guna(FoxSchool)
+DESCRIPTION:The event is basically to create awareness about Mozilla Missi
+ on\, Firefox Browser among the School students so that they can start cont
+ ributing in the Mozilla&#39;s various projects. Hour of Code initiative has pl
+ ans to target 100 million School students and expose them to computer scie
+ nce! Let&#39;s involve our Guna and inspire students of our city to code.This 
+ is Two days Event.
+URL:https://reps.mozilla.org/e/hour-of-code-guna-foxschool/
+SEQUENCE:3
+X-COORDINATES-LAT:24.0063261988
+X-COORDINATES-LON:78.4094238281
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

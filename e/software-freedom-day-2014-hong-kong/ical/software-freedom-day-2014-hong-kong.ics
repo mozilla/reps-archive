@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2867
+CLASS:PUBLIC
+DTSTAMP:20200423T185648Z
+DTSTART:20140920T060000Z
+DTEND:20140920T093000Z
+LOCATION:Lecture Theatre 9 (LT-9)\, 4/F Academic 1\, City University of Ho
+ ng Kong\, Tat Chee Road\, Kowloon Tong\, Hong Kong.\, Kowloon Tong\, Hong 
+ Kong
+SUMMARY:Software Freedom Day 2014\, Hong Kong
+DESCRIPTION:Software Freedom Day 2014 in Hong Kong will be\nco-organized b
+ y HKCOTA\, HKLUG\, MozillaHK and OSHK.\n\nhttp://wiki.softwarefreedomday.o
+ rg/2014/China/Hong%20Kong/Open%20Source%20Hong%20Kong\n\nWe introduced his
+ tory of Mozilla in Free Software development.
+URL:https://reps.mozilla.org/e/software-freedom-day-2014-hong-kong/
+SEQUENCE:4
+X-COORDINATES-LAT:22.3366974931
+X-COORDINATES-LON:114.173943758
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

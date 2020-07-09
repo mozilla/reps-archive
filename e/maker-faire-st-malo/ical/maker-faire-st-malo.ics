@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3679
+CLASS:PUBLIC
+DTSTAMP:20200423T173350Z
+DTSTART:20150411T080000Z
+DTEND:20150412T160000Z
+LOCATION:quai Duguay-Trouin\, St.-Malo\, France
+SUMMARY:Maker faire St Malo
+DESCRIPTION:We are organizing a webmaker booth during the Mini Maker Faire
+  St Malo (on april 11 and 12)\, we will have enough space to do some works
+ hops (remixing thimble/appmaker projects)\, we will have around 10 laptop.
+ \nThese workshops will be mentored by 4-5 young (13-17 years old) webmaker
+ s\, called &#34;les Petits Hackers&#34;\, it&#39;s a group a teenagers\, passionate ab
+ out electronics and computer science (web dev)\, that are mentored every s
+ aturday afternoon by volunteers of &#34;maison du libre&#34;.
+URL:https://reps.mozilla.org/e/maker-faire-st-malo/
+SEQUENCE:1
+X-COORDINATES-LAT:48.6515365721
+X-COORDINATES-LON:-2.01626873051
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

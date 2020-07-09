@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8364
+CLASS:PUBLIC
+DTSTAMP:20200423T084359Z
+DTSTART:20190129T103000Z
+DTEND:20190129T123000Z
+LOCATION:Lovely Professional University\, Jalandhar\, India
+SUMMARY:Firefox 65 Release Party - Mozillla Punjab
+DESCRIPTION:Our agenda:\n\n1. Firefox fights for you: Puneet Pushkar\n2. M
+ igrating from Chrome to Firefox: Arshdeep Singh\n3. Firefox add-ons for on
+ line privacy: Arshdeep Singh\n4. Women in Mozilla: Jasmine and Sanjana\n5.
+  Contributing to Open Source Projects: Vishal Das\n6. Talking about Mozill
+ a Punjab and Communities: Vishal Das\n7. Firefox Adele Challenge.
+URL:https://reps.mozilla.org/e/firefox-65-release-party-mozillla-punjab/
+SEQUENCE:1
+X-COORDINATES-LAT:31.3110173164
+X-COORDINATES-LON:75.5795286968
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

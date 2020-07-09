@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3104
+CLASS:PUBLIC
+DTSTAMP:20200423T181714Z
+DTSTART:20141213T140000Z
+DTEND:20141213T220000Z
+LOCATION:TBD\, Leon\, Nicaragua
+SUMMARY:Feria de desarrolladores UNAN LEON
+DESCRIPTION:Participate in this event by showing how to develop applicatio
+ ns for OS Firefox also show the same development tools as it is Firefox De
+ veloper Firefox OS simulator WebIde and more
+URL:https://reps.mozilla.org/e/feria-de-desarrolladores-unan-leon/
+SEQUENCE:3
+X-COORDINATES-LAT:12.3365920085
+X-COORDINATES-LON:-86.6829300066
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@811
+CLASS:PUBLIC
+DTSTAMP:20200423T215122Z
+DTSTART:20130419T140000Z
+DTEND:20130420T140000Z
+LOCATION:Teatro Orizaba\, Oriente 6\, Orizaba\, Mexico
+SUMMARY:SILEB 2013
+DESCRIPTION:The International Leadership Seminar in Basic Education is an 
+ academic space for dialogue between basic education educators Mexico and o
+ ther countries\, by which creates the conditions for the exchange of learn
+ ing experiences\, knowledge construction and alternative methodologies\, a
+ nd for the contribution\, in general\, various data from the classrooms an
+ d offices that serve the authorities of inputs for the design of education
+ al policies.
+URL:https://reps.mozilla.org/e/sileb-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:18.8495180006
+X-COORDINATES-LON:-97.0851516724
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

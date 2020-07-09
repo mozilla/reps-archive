@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5772
+CLASS:PUBLIC
+DTSTAMP:20200407T175507Z
+DTSTART:20160920T130000Z
+DTEND:20160922T230000Z
+LOCATION:Universidad Nacional de Asuncion\, San Lorenzo\, Paraguay
+SUMMARY:Etyc 2016 (science faire)
+DESCRIPTION:The exhibition is the largest ETyC technological\, scientific 
+ and cultural place in the National University of Asuncion\, is organized a
+ nnually by the Polytechnic School (FP-UNA) in the month of September\, the
+  anniversary of the founding of the National University of assumption.
+URL:https://reps.mozilla.org/e/etyc-2012-science-faire-1/
+SEQUENCE:4
+X-COORDINATES-LAT:-25.3357273898
+X-COORDINATES-LON:-57.5139312746
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

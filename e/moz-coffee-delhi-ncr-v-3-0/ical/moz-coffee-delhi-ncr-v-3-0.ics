@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3812
+CLASS:PUBLIC
+DTSTAMP:20200423T172257Z
+DTSTART:20150517T053000Z
+DTEND:20150517T093000Z
+LOCATION:Natural Ice Cream\, New Delhi\, India
+SUMMARY:Moz Coffee Delhi NCR V 3.0
+DESCRIPTION:This is the standard Moz Coffee event of Mozilla Delhi Communi
+ ty which would be focused on discussing the growth of community and planni
+ ng the future roadmap of the Mozilla Delhi Community . This event would al
+ so bring up some new contributors to our Community.
+URL:https://reps.mozilla.org/e/moz-coffee-delhi-ncr-v-3-0/
+SEQUENCE:3
+X-COORDINATES-LAT:28.6001972985
+X-COORDINATES-LON:77.2520828247
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

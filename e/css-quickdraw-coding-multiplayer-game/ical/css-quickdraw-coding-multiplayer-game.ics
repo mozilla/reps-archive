@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7719
+CLASS:PUBLIC
+DTSTAMP:20200423T093407Z
+DTSTART:20180517T170000Z
+DTEND:20180517T190000Z
+LOCATION:Mozilla Berlin\, Gebäude 3\, 3. Obergeschoss\, Schlesische Stra
+ ße 27\, Berlin\, Germany\, Berlin\, Germany
+SUMMARY:CSS QuickDraw (coding multiplayer game)
+DESCRIPTION:The Mozilla Community is hosting a game night brought to you b
+ y 21/23 (https://github.com/21-23):\n\nYour CSS is fast\, but are you? Can
+  you survive in the Wild West of front-end? Test your reflexes and stylesh
+ eet skills in a multiplayer game. Compete against your friends and colleag
+ ues to prove you have true CSS grit!\n(Please bring your laptop!)
+URL:https://reps.mozilla.org/e/css-quickdraw-coding-multiplayer-game/
+SEQUENCE:1
+X-COORDINATES-LAT:52.4993426151
+X-COORDINATES-LON:13.4494571679
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

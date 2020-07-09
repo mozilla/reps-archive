@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7382
+CLASS:PUBLIC
+DTSTAMP:20200423T095945Z
+DTSTART:20180211T043000Z
+DTEND:20180211T103000Z
+LOCATION:Center for Open Source\, IIIT  Hyderabad\, Gachibowli\, Hyderabad
+  500032\, Hyderabad\, India
+SUMMARY:Mozilla Mixed Reality Meetup - Hyderabad
+DESCRIPTION:Agenda:\nIntro to Mozilla MR\nVirtual Reality vs Augmented Rea
+ lity vs Mixed Reality\nJourney from WebVR to WebXR\nWebXR(MR/VR/AR)\nIntro
+  to A-frame
+URL:https://reps.mozilla.org/e/mozilla-mixed-reality-meetup-hyderabad/
+SEQUENCE:6
+X-COORDINATES-LAT:17.4456025763
+X-COORDINATES-LON:78.3501977928
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1245
+CLASS:PUBLIC
+DTSTAMP:20200407T175854Z
+DTSTART:20130831T070000Z
+DTEND:20130901T010000Z
+LOCATION:CUEA\, Nairobi\, Kenya
+SUMMARY:CUEA Game Lab
+DESCRIPTION:Basically\, we&#39;ll be training guys on the basics (steps) of ga
+ me development. It will be a practical session involving 2 platforms:\n1. 
+ JavaScript\n2. Unity
+URL:https://reps.mozilla.org/e/cuea-game-lab/
+SEQUENCE:3
+X-COORDINATES-LAT:-2.10889865924
+X-COORDINATES-LON:38.671875
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

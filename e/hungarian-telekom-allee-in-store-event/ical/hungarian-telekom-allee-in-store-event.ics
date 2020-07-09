@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1543
+CLASS:PUBLIC
+DTSTAMP:20200423T205042Z
+DTSTART:20131116T130000Z
+DTEND:20131116T173000Z
+LOCATION:Magyar Telekom Nyrt. ALLEE store\, Budapest\, Hungary
+SUMMARY:Hungarian TELEKOM ALLEE in-store event
+DESCRIPTION:Engage TELEKOM&#39;s customers in a in-shop event.\n\nWe are confi
+ rming that we will go to Allee / Telekom shop on Saturday (11. 16.) from 1
+ 4:00 to 18:30 with Ádám and at least one mobilizer.
+URL:https://reps.mozilla.org/e/hungarian-telekom-allee-in-store-event/
+SEQUENCE:12
+X-COORDINATES-LAT:47.4745096972
+X-COORDINATES-LON:19.0542983974
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

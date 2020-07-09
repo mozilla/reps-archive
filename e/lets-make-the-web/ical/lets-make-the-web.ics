@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4082
+CLASS:PUBLIC
+DTSTAMP:20200423T170815Z
+DTSTART:20150628T123000Z
+DTEND:20150628T143000Z
+LOCATION:jaipur\, Rajasthan\, Jaipur\, India
+SUMMARY:Lets make the web
+DESCRIPTION:This is an online Event which will explain the attendees how t
+ o use the webmaker on their andriod devices. A complete walk through will 
+ be given in this session\n\nMentor : Adit Baradwaj
+URL:https://reps.mozilla.org/e/lets-make-the-web/
+SEQUENCE:1
+X-COORDINATES-LAT:26.7815783301
+X-COORDINATES-LON:75.9873045981
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

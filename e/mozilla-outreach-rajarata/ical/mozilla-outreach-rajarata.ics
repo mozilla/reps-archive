@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8228
+CLASS:PUBLIC
+DTSTAMP:20200423T085110Z
+DTSTART:20181120T033000Z
+DTEND:20181120T063000Z
+LOCATION:Rajarata University of Sri Lanka\, Mihintale\, Sri Lanka
+SUMMARY:Mozilla Outreach Rajarata
+DESCRIPTION:This event is organized by MozillaLK to give awareness about p
+ rivacy and opensource. We plan to conduct the session about Firefox Monito
+ r and Git. We are going to invite new members to join our community.
+URL:https://reps.mozilla.org/e/mozilla-outreach-rajarata/
+SEQUENCE:7
+X-COORDINATES-LAT:8.35415873717
+X-COORDINATES-LON:80.5029916759
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6033
+CLASS:PUBLIC
+DTSTAMP:20200407T174907Z
+DTSTART:20161105T080000Z
+DTEND:20161105T110000Z
+LOCATION:jasmin hall\, Tunis\, Tunisia
+SUMMARY:Mozilla Tunisia Community meeting
+DESCRIPTION:- Post event feedback session\n- Community Q4 schedule and fut
+ ure events\n- What’s next for Mozilla Tunisia ?
+URL:https://reps.mozilla.org/e/mozilla-tunisia-community-meeting/
+SEQUENCE:0
+X-COORDINATES-LAT:36.8472239281
+X-COORDINATES-LON:10.1986134048
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

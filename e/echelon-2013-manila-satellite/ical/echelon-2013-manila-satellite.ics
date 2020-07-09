@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@550
+CLASS:PUBLIC
+DTSTAMP:20200423T215343Z
+DTSTART:20130413T010000Z
+DTEND:20130413T100000Z
+LOCATION:6750 Office Building\, Makati City\, Philippines
+SUMMARY:Echelon 2013 Manila Satellite
+DESCRIPTION:The event is spearheaded by e27.co\, a Singapore-based media o
+ rganization focused on the Asian technology startup industry. The Manila S
+ atellite is a conference and pitching competition that will prelude to e27
+ &#39;s big event in June 4-5 -- Echelon 2013 -- where the &#34;regional&#34; champs ge
+ t to deck it out in Singapore as part of a 2-3 day conference.\n\nThe Mani
+ la leg will be held on Apr 13 (Sat). Expected participants include local a
+ nd foreign Startup Founders\, Investors\, Media and Tech luminaries.
+URL:https://reps.mozilla.org/e/echelon-2013-manila-satellite/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5533871354
+X-COORDINATES-LON:121.025465727
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

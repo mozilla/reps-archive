@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5663
+CLASS:PUBLIC
+DTSTAMP:20200407T174150Z
+DTSTART:20160724T063000Z
+DTEND:20160724T093000Z
+LOCATION:Tonk Phatak\, Rajasthan\, Jaipur\, India
+SUMMARY:Mozilla India Planning Meet-up Updates | Rajasthan
+DESCRIPTION:A follow-up meeting of Mozilla India Planning Meetup 2016. Reg
+ ional community volunteers will meet up to share the insights of Mozilla I
+ ndia Planning meetup updates and also to gather ideas for restructuring th
+ e community.
+URL:https://reps.mozilla.org/e/mozilla-india-planning-meet-up-updates-raja
+ sthan/
+SEQUENCE:2
+X-COORDINATES-LAT:26.9314570633
+X-COORDINATES-LON:75.7915650308
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

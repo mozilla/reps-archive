@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2109
+CLASS:PUBLIC
+DTSTAMP:20200407T181905Z
+DTSTART:20140517T100000Z
+DTEND:20140517T133000Z
+LOCATION:VTŠ Subotica - Visoka tehnička škola strukovnih studija (Colle
+ ge of Applied Sciences)\, Subotica\, Serbia
+SUMMARY:Firefox web browser l10n sprint
+DESCRIPTION:Serbian l10n team is organizing localization sprint at VTŠ Su
+ botica.\nWe will be localizing Serbian version of Firefox web browser.\nIf
+  there is any time left we will localize a project from Verbatim.
+URL:https://reps.mozilla.org/e/firefox-web-browser-l10n-sprint/
+SEQUENCE:9
+X-COORDINATES-LAT:46.0944310546
+X-COORDINATES-LON:19.6618702411
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

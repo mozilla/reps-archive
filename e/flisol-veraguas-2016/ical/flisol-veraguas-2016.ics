@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5108
+CLASS:PUBLIC
+DTSTAMP:20200407T182333Z
+DTSTART:20160423T140000Z
+DTEND:20160423T200000Z
+LOCATION:Universidad Tecnológica de Panamá sede Azuero\, Azuero\, Panama
+SUMMARY:FLISoL Azuero 2016
+DESCRIPTION:FLISoL is the largest broadcast event in Latin America related
+  to Free Software and is focused at all audiences: students\, scholars\, b
+ usinessmen\, workers\, civil servants\, enthusiasts and even people withou
+ t much computer knowledge ..
+URL:https://reps.mozilla.org/e/flisol-veraguas-2016/
+SEQUENCE:12
+X-COORDINATES-LAT:8.11188732494
+X-COORDINATES-LON:-80.9623603849
+X-COUNTRY-CODE:pa
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2585
+CLASS:PUBLIC
+DTSTAMP:20200407T182123Z
+DTSTART:20140821T120000Z
+DTEND:20140821T210000Z
+LOCATION:USP São Carlos\, Sao Carlos\, Brazil
+SUMMARY:Semana da Computação da USP
+DESCRIPTION:A week about technology and computers at the biggest universit
+ y in Brazil. Many companies will be there to showcase their new products\,
+  to recruit new employees and to talk about their news.\n\nHowever\, Mozil
+ la will be there with a different purpose. We aim to bring Web Literacy th
+ rough Webmaker for those who did not had the opportunity to learn yet. We 
+ aim to demonstrate how easy it is to become a Firefox OS developer. We&#39;ll 
+ get our crowd craving for more.
+URL:https://reps.mozilla.org/e/semana-da-computacao-da-usp/
+SEQUENCE:5
+X-COORDINATES-LAT:-22.0029630536
+X-COORDINATES-LON:-47.8984887607
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

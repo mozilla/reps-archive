@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@762
+CLASS:PUBLIC
+DTSTAMP:20200407T182218Z
+DTSTART:20130417T050000Z
+DTEND:20130419T150000Z
+LOCATION:Polyany\, Pansionat\, FGU\, Moscow\, Russian Federation
+SUMMARY:17th Russian Internet Forum
+DESCRIPTION:From 17 to 19 April 2013 at the suburban resort &#34;Polyana&#34; will
+  be held &#34;RIF + KIB 2013&#34; - the main Russian Internet event of spring. Acc
+ ording to the Organizing Committee of the conference this year will be one
+  of the most popular and exciting activities in RuNet.\n\nConference organ
+ izer: RAEC (Russian Association of Electronic Communications)\, co-sponsor
+ s and partners: the leading companies of the Russian Internet industry.
+URL:https://reps.mozilla.org/e/17th-russian-internet-forum/
+SEQUENCE:1
+X-COORDINATES-LAT:55.7058855725
+X-COORDINATES-LON:37.0255565643
+X-COUNTRY-CODE:ru
+END:VEVENT
+
+END:VCALENDAR

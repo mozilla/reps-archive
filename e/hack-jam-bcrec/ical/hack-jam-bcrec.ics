@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1174
+CLASS:PUBLIC
+DTSTAMP:20200407T182303Z
+DTSTART:20130827T053000Z
+DTEND:20130827T110000Z
+LOCATION:Dr. B.C. Roy Engineering College\, Durgapur\, India
+SUMMARY:Hack Jam @ BCREC
+DESCRIPTION:Introduction to Mozilla and it&#39;s other project Introduction to
+  Webmaker project Introduction and Demo on FirefoxOS Paper prototyping - D
+ raw your idea for web/app/popcorn Let&#39;s Party - Hands on session with webm
+ aker tools Remix Websites with the X-Ray Goggles. Hack the Web with Thimbl
+ e End of the party
+URL:https://reps.mozilla.org/e/hack-jam-bcrec/
+SEQUENCE:11
+X-COORDINATES-LAT:23.5337729833
+X-COORDINATES-LON:87.3344421387
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

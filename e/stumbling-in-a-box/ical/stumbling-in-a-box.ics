@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3369
+CLASS:PUBLIC
+DTSTAMP:20200407T180029Z
+DTSTART:20150501T070000Z
+DTEND:20150502T000000Z
+LOCATION:Makerere University Kampala Uganda\, Kampala\, Uganda
+SUMMARY:STUMBLING IN A BOX
+DESCRIPTION:Contribute to Mozilla and free and open projects\n\nintroducti
+ on to stumbling tools that bring knowledge to participants on how to gathe
+ r geolocation information in their cities.. After which\, participants wil
+ l gather information and upload it to the mozilla servers.
+URL:https://reps.mozilla.org/e/stumbling-in-a-box/
+SEQUENCE:2
+X-COORDINATES-LAT:0.233458826651
+X-COORDINATES-LON:32.5998687744
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

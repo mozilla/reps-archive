@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@390
+CLASS:PUBLIC
+DTSTAMP:20200407T173659Z
+DTSTART:20130125T110000Z
+DTEND:20130126T110000Z
+LOCATION:Epitech - 24 Rue Pasteur Le Kremlin-Bicètre \, Paris\, France
+SUMMARY:Paris FirefoxOS Hackathon
+DESCRIPTION:Pendant 2 jours Paris va célébrer le projet le plus enthousi
+ asmant de ces dernières années : Firefox OS. \n\nLe vendredi soir\, dans
+  l&#39;amphithéatre\, nous présenterons le projet.\nLe lendemain verra un ha
+ ckathon ponctué d&#39;ateliers et d&#39;une séance de questions / réponses avec
+  les nombreux employés parisiens de Firefox OS. A la fin de la journée\,
+  les meilleures applications seront récompensées. Et tout se terminera p
+ ar une fête! \n
+URL:https://reps.mozilla.org/e/paris-firefoxos-hackathon/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8154125973
+X-COORDINATES-LON:2.36293494701
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

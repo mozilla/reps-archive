@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@303
+CLASS:PUBLIC
+DTSTAMP:20200423T224516Z
+DTSTART:20121120T010000Z
+DTEND:20121120T070000Z
+LOCATION:CHEDRO Compound \, Zamboanga City\, Philippines
+SUMMARY:1st Region IX I.T.  Exhibit
+DESCRIPTION:1st Region IX I.T. Exhibit and Job fair that will attend by to
+ p universities and colleges in the Region. The event is spearheaded by cou
+ ncils of deans of ICT Education and the Philippine Society of IT Educators
+   Region IX Chapter.
+URL:https://reps.mozilla.org/e/1st-i-t-region-ix-exhibit/
+SEQUENCE:0
+X-COORDINATES-LAT:6.93733286888
+X-COORDINATES-LON:122.069091797
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

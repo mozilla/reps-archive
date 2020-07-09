@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2768
+CLASS:PUBLIC
+DTSTAMP:20200407T173647Z
+DTSTART:20140917T080000Z
+DTEND:20140917T160000Z
+LOCATION:T3LAB - via Sario Bassanelli\, 9/11 - Bologna\, Bologna\, Italy
+SUMMARY:Develop your first app on Firefox OS
+DESCRIPTION:T3LAB organizes\, in collaboration with the Mozilla Italy Asso
+ ciation\, the first event in Emilia-Romagna entirely dedicated to Firefox 
+ OS\, the new mobile operating system for smartphones\, completely open sou
+ rce based on web standards. The event will be divided into two sections: t
+ he morning will be dedicated to technical talks by Mozilla representatives
+ \, while in the afternoon the staff of Mozilla will support participants i
+ n developing their own application for Firefox OS. Free with registration
+URL:https://reps.mozilla.org/e/develop-your-first-app-on-firefox-os/
+SEQUENCE:1
+X-COORDINATES-LAT:44.4961788304
+X-COORDINATES-LON:11.3243407756
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

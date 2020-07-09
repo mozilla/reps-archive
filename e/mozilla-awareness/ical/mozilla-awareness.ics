@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2150
+CLASS:PUBLIC
+DTSTAMP:20200423T195522Z
+DTSTART:20140503T080000Z
+DTEND:20140503T110000Z
+LOCATION:Rose Belle\, Rose Belle\, Mauritius
+SUMMARY:Fx29 (Australis) community launch event
+DESCRIPTION:Fx29 (Australis) community launch event is going to be one of 
+ the biggest event for Mozilla Mauritius. We are very excited to host this 
+ event for the very first time in Mauritius. The event will comprise mainly
+  of presentation\, demo\, launching speech\, recruitment of contributors a
+ nd mini fair. The fair will be about setting up of information points wher
+ e the different Mozilla products will be shown to attendees.
+URL:https://reps.mozilla.org/e/mozilla-awareness/
+SEQUENCE:5
+X-COORDINATES-LAT:-20.4289968231
+X-COORDINATES-LON:57.5799178937
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

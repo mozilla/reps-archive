@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2745
+CLASS:PUBLIC
+DTSTAMP:20200407T181539Z
+DTSTART:20141001T140000Z
+DTEND:20141004T000000Z
+LOCATION:Centro de Convenciones Siglo XXI. Salón Ek-Balam e Izamal\, Mér
+ ida\, Mexico
+SUMMARY:Simposio de Ciencia y Tecnología
+DESCRIPTION:The Symposium is organized by the Autonomous University of Yuc
+ atán. The goal of the symposium is to provide interest about the areas of
+  science and technology on topics of general interest in the areas of comp
+ uting\, open source\, cloud computing\, information technology\, informati
+ on security\, technology-focused entrepreneurship and new technologies.
+URL:https://reps.mozilla.org/e/simposio-de-ciencia-y-tecnologia/
+SEQUENCE:8
+X-COORDINATES-LAT:21.0327949489
+X-COORDINATES-LON:-89.6285777094
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

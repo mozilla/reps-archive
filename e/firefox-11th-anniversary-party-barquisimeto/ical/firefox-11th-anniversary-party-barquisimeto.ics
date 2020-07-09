@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4679
+CLASS:PUBLIC
+DTSTAMP:20200423T161716Z
+DTSTART:20151108T163000Z
+DTEND:20151108T213000Z
+LOCATION:Colegio de Contadores Públicos del Estado Lara\, Barquisimeto\, 
+ Venezuela
+SUMMARY:Firefox 11th Anniversary Party Barquisimeto
+DESCRIPTION:Join us to celebrate the 11th anniversary of our favorite brow
+ ser Firefox!\nThe aim of this event is to bring together all Mozillians of
+  the region where it is held\, showcase Firefox 42 new features\, talk\, c
+ hat\, tell stories\, have some fun\, take the opportunity to contact the M
+ ozilla community of the region and also to meet members of Mozilla Venezue
+ la\, if you are interested in joining the community simply takes this oppo
+ rtunity to do so and meet the most cheerful and pleasant community of all.
+URL:https://reps.mozilla.org/e/firefox-11th-anniversary-party-barquisimeto
+ /
+SEQUENCE:9
+X-COORDINATES-LAT:10.0625325009
+X-COORDINATES-LON:-69.3221894506
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5774
+CLASS:PUBLIC
+DTSTAMP:20200423T145301Z
+DTSTART:20160927T140000Z
+DTEND:20160928T200000Z
+LOCATION:WAYRA México\, Mexico City\, Mexico
+SUMMARY:Mozilla Club Leadership Training for women
+DESCRIPTION:Learners will have the opportunity to practice and learn web l
+ iteracy skills\, and be introduced to information on how to teach others h
+ ow to read\, write\, and participate on the Web.
+URL:https://reps.mozilla.org/e/mozilla-club-leadership-training-for-women/
+SEQUENCE:7
+X-COORDINATES-LAT:19.4128964242
+X-COORDINATES-LON:-99.1642599553
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

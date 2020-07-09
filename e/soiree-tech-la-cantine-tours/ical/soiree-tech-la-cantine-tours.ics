@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2384
+CLASS:PUBLIC
+DTSTAMP:20200423T193304Z
+DTSTART:20140624T170000Z
+DTEND:20140624T190000Z
+LOCATION:La Cantine à Tours\, Tours\, France
+SUMMARY:Soirée Tech @ La Cantine Tours
+DESCRIPTION:Présentation et petit bilan sur Firefox OS un an après le pr
+ emier téléphone lancé : avancées\, améliorations du web.
+URL:https://reps.mozilla.org/e/soiree-tech-la-cantine-tours/
+SEQUENCE:5
+X-COORDINATES-LAT:47.3835263874
+X-COORDINATES-LON:0.698598593517
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

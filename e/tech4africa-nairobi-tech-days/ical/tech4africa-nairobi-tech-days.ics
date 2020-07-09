@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1030
+CLASS:PUBLIC
+DTSTAMP:20200423T212934Z
+DTSTART:20130703T060000Z
+DTEND:20130703T090000Z
+LOCATION:Strathmore iLab &amp; Business School Ole Sangale Road\, Madaraka\, N
+ airobi\, ‪\, Nairobi\, Kenya
+SUMMARY:Tech4Africa Nairobi Tech Days
+DESCRIPTION:Africa is a mobile first and only continent\, so we’re start
+ ing our work in Kenya with a focus on product development\, specifically w
+ ith a mobile context\, and is aimed at anyone planning\, building\, deploy
+ ing\, managing\, and growing a product in Africa\, where the primary user 
+ experience is on a mobile.
+URL:https://reps.mozilla.org/e/tech4africa-nairobi-tech-days/
+SEQUENCE:1
+X-COORDINATES-LAT:-1.40610883544
+X-COORDINATES-LON:36.73828125
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

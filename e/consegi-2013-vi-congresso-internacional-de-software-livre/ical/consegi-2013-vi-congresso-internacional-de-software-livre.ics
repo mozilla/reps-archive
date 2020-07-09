@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1114
+CLASS:PUBLIC
+DTSTAMP:20200407T175539Z
+DTSTART:20130813T120000Z
+DTEND:20130815T210000Z
+LOCATION:ESAF (School of Treasury Administration)\, Brasilia\, Brazil
+SUMMARY:CONSEGI 2013 - VI Congresso Internacional de Software Livre
+DESCRIPTION:The International Congress of Free Software and Electronic Gov
+ ernment (Consegi) presents to government and society solutions developed f
+ or Electronic Government (e-Gov)\, based on free software. Solutions that 
+ can be copied\, modified and distributed for free - basic principles of fr
+ ee software. The congress also offers opportunities for exchange of experi
+ ences on information technology and communication (ICT) to government and 
+ society.
+URL:https://reps.mozilla.org/e/consegi-2013-vi-congresso-internacional-de-
+ software-livre/
+SEQUENCE:3
+X-COORDINATES-LAT:-15.8133957605
+X-COORDINATES-LON:-47.9333496094
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

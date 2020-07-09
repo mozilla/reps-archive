@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8164
+CLASS:PUBLIC
+DTSTAMP:20200423T085506Z
+DTSTART:20181027T070000Z
+DTEND:20181027T160000Z
+LOCATION:Politecnico di Torino\, Benevento\, Italy
+SUMMARY:Linux Day 2018 Torino
+DESCRIPTION:Linux day is an event that spreads across all Italy with the g
+ oal to promote Linux and FLOSS in general in the country. It&#39;s organised b
+ y groups of volunteer and sees the participation of hacker\, IT people and
+  curious citizens that want to enter the Open Source world.
+URL:https://reps.mozilla.org/e/linux-day-2018-torino/
+SEQUENCE:2
+X-COORDINATES-LAT:45.0806397281
+X-COORDINATES-LON:7.67156124028
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

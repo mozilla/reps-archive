@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1393
+CLASS:PUBLIC
+DTSTAMP:20200407T174526Z
+DTSTART:20131109T073000Z
+DTEND:20131109T190000Z
+LOCATION:Co-nnexion - Espace de coworking\, Mons\, Belgium
+SUMMARY:Firefox OS App Days
+DESCRIPTION:Day of presentation of Firefox OS and application development 
+ by teams. First Firefox OS App Days in Belgium
+URL:https://reps.mozilla.org/e/firefox-os-app-days-2/
+SEQUENCE:9
+X-COORDINATES-LAT:50.4541
+X-COORDINATES-LON:3.9523
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

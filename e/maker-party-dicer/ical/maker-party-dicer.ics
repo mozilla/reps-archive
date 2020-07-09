@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1568
+CLASS:PUBLIC
+DTSTAMP:20200423T211952Z
+DTSTART:20130810T043000Z
+DTEND:20130810T103000Z
+LOCATION:DICER\, Pune\, Pune\, India
+SUMMARY:Maker Party @ DICER
+DESCRIPTION:Agenda: \n\n * Introduction to Open Source\, Open Web\, Mozill
+ a and its Projects.\n * Online and offline hands on sessions of Webmaker t
+ ools:\n   * Thimble\n   * Popcorn maker\n   * Xray goggles\n * Brief about
+  Open Source\, Mozilla &amp; its Projects and The open web. \n * Introduction 
+ to Womoz and Firefox Student Ambassadors. \n * Registration is Free as Its
+  the Free Web !!!   \n * Venue: Zeal Institutes\, Dnyanganga Institute of 
+ Career Empowerment and Research\, Narhe\, Pune.
+URL:https://reps.mozilla.org/e/maker-party-dicer/
+SEQUENCE:22
+X-COORDINATES-LAT:18.45045682
+X-COORDINATES-LON:73.8253641111
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

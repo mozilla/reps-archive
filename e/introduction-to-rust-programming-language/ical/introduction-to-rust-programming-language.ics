@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5372
+CLASS:PUBLIC
+DTSTAMP:20200407T175903Z
+DTSTART:20160430T053000Z
+DTEND:20160430T083000Z
+LOCATION:Mozilla Community Space Manila\, Makati City\, Philippines
+SUMMARY:Introduction to Rust (Programming Language)
+DESCRIPTION:The Mozilla Philippines Community (MozillaPH) is spearheading 
+ a Rust (Programming Language) Study Group for interested individuals.
+URL:https://reps.mozilla.org/e/introduction-to-rust-programming-language/
+SEQUENCE:0
+X-COORDINATES-LAT:14.546802342
+X-COORDINATES-LON:121.015885234
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

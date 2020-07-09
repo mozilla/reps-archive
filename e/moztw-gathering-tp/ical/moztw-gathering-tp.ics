@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@382
+CLASS:PUBLIC
+DTSTAMP:20200407T175926Z
+DTSTART:20121209T053000Z
+DTEND:20121209T100000Z
+LOCATION:The Base\, Taipei City\, Taiwan
+SUMMARY:MozTW Gathering @ TP
+DESCRIPTION:Mozilla Taiwan Community monthly gathering to share with local
+  Mozillians\, we&#39;re going to share the experience and information from Moz
+ Camp Asia 2012 this time.
+URL:https://reps.mozilla.org/e/moztw-gathering-tp/
+SEQUENCE:0
+X-COORDINATES-LAT:25.0450194978
+X-COORDINATES-LON:121.513890624
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

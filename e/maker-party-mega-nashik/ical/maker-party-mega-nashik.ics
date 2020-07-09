@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4163
+CLASS:PUBLIC
+DTSTAMP:20200423T165734Z
+DTSTART:20150730T043000Z
+DTEND:20150801T103000Z
+LOCATION:Mahatma Gandhi Vidyamandir&#39;s Institute of Management &amp; Resarch\, 
+ Nashik Mumbai Agra Highway\, Panchavati\, Nashik 422 003.\, Nashik\, India
+SUMMARY:Maker Party Mega\, Nashik
+DESCRIPTION:Maker Party is the season of teaching the web and everything a
+ bout it. With a twist of fun element added\, it it really becomes a &#39;Party
+ &#39;. Nashik is hosting a big Maker Party this season\, and will be reaching 
+ i=out to more and more people.
+URL:https://reps.mozilla.org/e/maker-party-mega-nashik/
+SEQUENCE:2
+X-COORDINATES-LAT:20.0028571075
+X-COORDINATES-LON:73.8042354549
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

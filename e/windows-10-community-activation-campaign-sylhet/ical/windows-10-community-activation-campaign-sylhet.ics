@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4633
+CLASS:PUBLIC
+DTSTAMP:20200407T180522Z
+DTSTART:20151224T100000Z
+DTEND:20151224T130000Z
+LOCATION:Sylhet\, Sylhet\, Bangladesh
+SUMMARY:Windows 10 Community Activation Campaign -- Sylhet
+DESCRIPTION:This event will help the participants to set Firefox as their 
+ default browser on their windows 10 operating system running devices. \nPe
+ ople will also learn about Firefox for Android on this event. \nThey will 
+ be given small swags and we will discuss about the latest features of Fire
+ fox\n\n.
+URL:https://reps.mozilla.org/e/windows-10-community-activation-campaign-sy
+ lhet/
+SEQUENCE:6
+X-COORDINATES-LAT:24.5986740976
+X-COORDINATES-LON:91.7019529591
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

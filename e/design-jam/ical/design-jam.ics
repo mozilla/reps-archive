@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@814
+CLASS:PUBLIC
+DTSTAMP:20200423T214114Z
+DTSTART:20130524T110000Z
+DTEND:20130525T130000Z
+LOCATION:Faculty of Computer Science\, Iasi\, Romania
+SUMMARY:Design Jam
+DESCRIPTION:Design Jam is a two-day design session\, during which people w
+ ill team up to tackle engaging User Experience (UX) challenges and present
+ ations.
+URL:https://reps.mozilla.org/e/design-jam/
+SEQUENCE:56
+X-COORDINATES-LAT:47.1738776364
+X-COORDINATES-LON:27.5747179985
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

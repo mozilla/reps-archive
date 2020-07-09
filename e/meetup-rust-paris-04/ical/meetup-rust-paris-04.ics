@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2196
+CLASS:PUBLIC
+DTSTAMP:20200423T194751Z
+DTSTART:20140519T170000Z
+DTEND:20140519T203000Z
+LOCATION:Mozilla Space\, Paris\, France
+SUMMARY:Meetup Rust Paris 04
+DESCRIPTION:Mozilla and the Rust community are proud to invite you to disc
+ over Rust! Rustaceans of all skill levels are welcome\, or even if you are
+  just curious about the language. We&#39;re looking forward to exploring the w
+ onders of Rust with everybody! The purpose of this Event is to share knowl
+ edge\, learn about Rust and contribute to existing projects or to the Rust
+  project itself.
+URL:https://reps.mozilla.org/e/meetup-rust-paris-04/
+SEQUENCE:3
+X-COORDINATES-LAT:48.871947946
+X-COORDINATES-LON:2.34120190122
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

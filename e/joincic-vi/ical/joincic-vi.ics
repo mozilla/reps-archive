@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@879
+CLASS:PUBLIC
+DTSTAMP:20200423T213744Z
+DTSTART:20130601T123000Z
+DTEND:20130601T203000Z
+LOCATION:Universidad Católica Andrés Bello\, Caracas\, Venezuela
+SUMMARY:JOINCIC VI
+DESCRIPTION:JOINCIC VI (Sexta Jornadas Interuniversitarias de Ciencia de l
+ a Computación)\n\nStudents of the Catholic University &#34;Andrés Bello&#34; (UC
+ AB) organize this event for the exchange of knowledge and innovation in th
+ e area of Computer Science.\n\nhttp://www.joincic.com.ve/home/\nhttps://tw
+ itter.com/joincic
+URL:https://reps.mozilla.org/e/joincic-vi/
+SEQUENCE:4
+X-COORDINATES-LAT:10.464264
+X-COORDINATES-LON:-66.975961
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

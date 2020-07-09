@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6689
+CLASS:PUBLIC
+DTSTAMP:20200423T111203Z
+DTSTART:20170505T020000Z
+DTEND:20170605T020000Z
+LOCATION:Mauritius (online)\, Long Mountain\, Mauritius
+SUMMARY:Reps Regional Coach -Region 7 activity
+DESCRIPTION:This is a short survey  that is being conducted among Reps and
+  Mozillians in three focused countries among the 7 others in the region. T
+ he aim of this survey is to get a better view how the community is doing. 
+ Following this activity\, a group of committed Mozillians and Reps will ge
+ t involve in activities to mobilize other Mozillians and recruit new volun
+ teers.
+URL:https://reps.mozilla.org/e/reps-regional-coach-region-7-activity/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.1555798908
+X-COORDINATES-LON:57.5737953116
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

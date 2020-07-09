@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1006
+CLASS:PUBLIC
+DTSTAMP:20200407T165532Z
+DTSTART:20130812T043000Z
+DTEND:20130812T123000Z
+LOCATION:Punjabi University\, Patiala\, India
+SUMMARY:MozMagnum
+DESCRIPTION:The Main Targets of this Event are:\n1. Recruit Student Ambass
+ adors\n2. Talk about Mozilla Mission &amp; Mozilla Projects.\n3.Talk about Int
+ erest Areas\n4. Make a Live  Webmaker Project.\n5. Talk about WebFwd Proje
+ ct &amp; look for possible Applicants.\n6. Talk about Firefox OS.\n7. Establis
+ h a Firefox Club in the University.\n8. Talk about Open Badges &amp; its benef
+ its.
+URL:https://reps.mozilla.org/e/mozmagnum/
+SEQUENCE:23
+X-COORDINATES-LAT:23.2413461024
+X-COORDINATES-LON:79.453125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

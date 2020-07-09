@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5335
+CLASS:PUBLIC
+DTSTAMP:20200407T180245Z
+DTSTART:20160409T060000Z
+DTEND:20160409T100000Z
+LOCATION:Roof Deck\, Molave Building\, 2231 Chino Roces Ave. (Pasong Tamo)
+ \, Makati City\, Philippines 1233\, Makati City\, Philippines
+SUMMARY:FSAPH Planning Session
+DESCRIPTION:Mozilla PH planning session for the &#34;Take Back the Web&#34; campai
+ gn under the campus campaign initiative. Planning session includes the dif
+ ferent strategies on how to align the campaign with the Philippines to mak
+ e more impact about the program. This event is organized to help us give m
+ ore information about the local situation of the FSA program and how to im
+ prove to help us gain more leaders for the campus campaign.
+URL:https://reps.mozilla.org/e/take-the-web-planning-session/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5467287822
+X-COORDINATES-LON:-238.984336942
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

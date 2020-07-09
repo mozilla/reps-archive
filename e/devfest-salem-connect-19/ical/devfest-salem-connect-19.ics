@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8293
+CLASS:PUBLIC
+DTSTAMP:20200407T165027Z
+DTSTART:20190126T033000Z
+DTEND:20190126T113000Z
+LOCATION:Padmavani College for Women\, Salem\, India
+SUMMARY:DevFest Salem Connect &#39;19
+DESCRIPTION:This is the first time technical meetup/conference happening a
+ round Salem.
+URL:https://reps.mozilla.org/e/devfest-salem-connect-19/
+SEQUENCE:4
+X-COORDINATES-LAT:11.6534693153
+X-COORDINATES-LON:78.1705169566
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

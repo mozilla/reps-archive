@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1531
+CLASS:PUBLIC
+DTSTAMP:20200423T205023Z
+DTSTART:20131116T173000Z
+DTEND:20131116T200000Z
+LOCATION:Triaditsa Str. 5-Б\,  Sofia 1000\,  Bulgaria\, Sofia\, Bulgaria
+SUMMARY:Sofia JavaScript User Group - Meetup
+DESCRIPTION:The main goal of the group e establishing Bulgarian JavaScript
+  community\, in which the exchange of information and thus to raise the le
+ vel of Bulgarian software developers.
+URL:https://reps.mozilla.org/e/sofia-javascript-user-group-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:42.6987429336
+X-COORDINATES-LON:23.3257076739
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

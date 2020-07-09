@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8819
+CLASS:PUBLIC
+DTSTAMP:20200407T165026Z
+DTSTART:20190929T033000Z
+DTEND:20190929T093000Z
+LOCATION:Jeevika Acadamy\,Villupuram\, Villupuram\, India
+SUMMARY:SFD - Villupuram
+DESCRIPTION:Software Freedom Day (SFD) is an annual worldwide celebration 
+ of Free Software Foundation. SFD is a public education effort with the aim
+  of increasing awareness of Free Software and its virtues\, and encouragin
+ g its use.
+URL:https://reps.mozilla.org/e/sfd-villupuram/
+SEQUENCE:1
+X-COORDINATES-LAT:11.9413344795
+X-COORDINATES-LON:79.4943265908
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

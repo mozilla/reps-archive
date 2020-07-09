@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6659
+CLASS:PUBLIC
+DTSTAMP:20200423T110319Z
+DTSTART:20170604T113000Z
+DTEND:20170604T133000Z
+LOCATION:Runwal Garden city\, Club House\, Mumbai\, India
+SUMMARY:Firefox Nightly meetup Mumbai
+DESCRIPTION:Firefox Nightly\, as a pre-release version of Firefox targetin
+ g power-users and core Mozilla contributors\, is a glimpse of what the fut
+ ure of Firefox will be for hundreds of millions of people. Having a health
+ y and strong technical community using and testing Nightly is a great way 
+ to easily get involved in Mozilla by providing a constant feedback loop to
+  developers.
+URL:https://reps.mozilla.org/e/firefox-nightly-meetup-mumbai/
+SEQUENCE:4
+X-COORDINATES-LAT:19.2230001
+X-COORDINATES-LON:72.98846
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

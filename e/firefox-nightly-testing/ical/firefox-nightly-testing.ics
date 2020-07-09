@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6857
+CLASS:PUBLIC
+DTSTAMP:20200407T180051Z
+DTSTART:20170909T053000Z
+DTEND:20170909T120000Z
+LOCATION:Jomo Kenyatta University of Agriculture and Technology\, Mombasa\
+ , Kenya
+SUMMARY:Firefox Nightly Testing
+DESCRIPTION:Every day\, Mozilla developers write code that is merged into 
+ a common code repository (mozilla-central) and every day that code is comp
+ iled so as to create a pre-release version of Firefox based on this code f
+ or testing purposes - this is what we call a Nightly build.\n\nMozilla Mom
+ basa community is hosting testing session on the Firefox Nightly browser. 
+ We will look in to quality testing and automated testing.
+URL:https://reps.mozilla.org/e/firefox-nightly-testing/
+SEQUENCE:1
+X-COORDINATES-LAT:-4.05086574106
+X-COORDINATES-LON:39.6634823084
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

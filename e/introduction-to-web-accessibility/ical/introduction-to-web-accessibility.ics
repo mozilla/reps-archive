@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6612
+CLASS:PUBLIC
+DTSTAMP:20200423T110902Z
+DTSTART:20170518T123000Z
+DTEND:20170518T133000Z
+LOCATION:ComExpo Cyber Security\, 2nd floor\, kundlini complex\, above hon
+ est restaurant opp. lake Vastrapur\, Vastrapur\, Ahmedabad\, Gujarat 38001
+ 5\, Ahmedabad\, India
+SUMMARY:Introduction to Web Accessibility
+DESCRIPTION:Intro session to Web Accessibility. How can we make our websit
+ es more accessible for people with vision and hearing problem. \n\nTarget 
+ Audience: Front-end developers\, HTML designers\, UX designers and anyone 
+ interested can join.
+URL:https://reps.mozilla.org/e/introduction-to-web-accessibility/
+SEQUENCE:1
+X-COORDINATES-LAT:22.8814895027
+X-COORDINATES-LON:71.2192368507
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

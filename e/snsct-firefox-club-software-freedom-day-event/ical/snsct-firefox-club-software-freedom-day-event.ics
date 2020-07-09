@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4375
+CLASS:PUBLIC
+DTSTAMP:20200423T163934Z
+DTSTART:20150919T033000Z
+DTEND:20150919T110000Z
+LOCATION:SNS College Of Technology \,Coimbatore\, Coimbatore\, India
+SUMMARY:SNSCT FIREFOX CLUB SOFTWARE FREEDOM DAY EVENT
+DESCRIPTION:The SNSCT FIREFOX CLUB is organizing a National Level Seminar 
+ on &#34;Open Source Software&#39;s :  Opportunities and Challenges&#34; on  SOFTWARE F
+ REEDOM DAY .          \n\nSoftware Freedom Day (SFD) is an annual worldwid
+ e celebration of Free  Software. SFD is a public education effort with the
+  aim of increasing  awareness of Free Software and its virtues\, and encou
+ raging its use.
+URL:https://reps.mozilla.org/e/snsct-firefox-club-software-freedom-day-eve
+ nt/
+SEQUENCE:2
+X-COORDINATES-LAT:11.0265736249
+X-COORDINATES-LON:76.9771724939
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

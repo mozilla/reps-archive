@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@801
+CLASS:PUBLIC
+DTSTAMP:20200423T214739Z
+DTSTART:20130427T130000Z
+DTEND:20130427T220000Z
+LOCATION:UNIFRANZ Heroes del Acre Street\, La Paz\, Bolivia
+SUMMARY:FLISOL La Paz 2013
+DESCRIPTION:The principal event about free software. Mozilla will be prese
+ nt at this event\, lecturing and helping to install Firefox add-ons\, teac
+ hing tricks and installing Firefox OS Simulator in La Paz city. Our commun
+ ity member Carla Miranda\, as mozillian will be representing us for this i
+ mprtant event in La Paz.
+URL:https://reps.mozilla.org/e/flisol-la-paz-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:-16.5113243632
+X-COORDINATES-LON:-68.1360375881
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

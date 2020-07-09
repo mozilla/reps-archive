@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7462
+CLASS:PUBLIC
+DTSTAMP:20200423T095534Z
+DTSTART:20180305T040500Z
+DTEND:20180305T111500Z
+LOCATION:Web Technology Lab\, Dhirajlal Gandhi College of Technology\, Sal
+ em\, India
+SUMMARY:Womoz Sprint 2018
+DESCRIPTION:This event is focussed to welcome more number of Women Contrib
+ utors into Open Source Technologies.
+URL:https://reps.mozilla.org/e/womoz-sprint-2018/
+SEQUENCE:6
+X-COORDINATES-LAT:11.6386026992
+X-COORDINATES-LON:78.1196594238
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

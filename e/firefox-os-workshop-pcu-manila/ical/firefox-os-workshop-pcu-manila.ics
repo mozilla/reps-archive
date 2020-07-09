@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3239
+CLASS:PUBLIC
+DTSTAMP:20200423T180233Z
+DTSTART:20150131T050000Z
+DTEND:20150131T090000Z
+LOCATION:Philippine Christian University - Manila\, Manila\, Philippines
+SUMMARY:Firefox OS Workshop PCU-Manila
+DESCRIPTION:Team Mozilla Philippines Community will be visiting the Philip
+ pine Christian University (PCU) Manila for the very first time. We will co
+ nduct a half-day hands-on workshop on how to create Firefox OS apps for st
+ udents of the university.\n\nThere is a growing number of FSA population a
+ t this campus.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-pcu-manila/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5720002947
+X-COORDINATES-LON:120.990937829
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

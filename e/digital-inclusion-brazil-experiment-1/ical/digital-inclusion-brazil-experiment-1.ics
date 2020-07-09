@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6290
+CLASS:PUBLIC
+DTSTAMP:20200423T113041Z
+DTSTART:20170208T120000Z
+DTEND:20170208T170000Z
+LOCATION:Centro de Esportes e Artes Unificados Campinas\, Campinas\, Brazi
+ l
+SUMMARY:Digital Inclusion Brazil Experiment #1
+DESCRIPTION:Experiment focused on testing the newest digital inclusion cur
+ riculum developed by Leão Mozilla Clubs\, we are hosting 3 sessions for 2
+  different groups\, our sessions are focused on teaching basic digital and
+  web literacy skills.
+URL:https://reps.mozilla.org/e/digital-inclusion-brazil-experiment-1/
+SEQUENCE:3
+X-COORDINATES-LAT:-22.95
+X-COORDINATES-LON:-47.0167
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

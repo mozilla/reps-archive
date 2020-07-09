@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7317
+CLASS:PUBLIC
+DTSTAMP:20200407T171705Z
+DTSTART:20180117T070000Z
+DTEND:20180119T160000Z
+LOCATION:Faculty of Commerce in Alexandria University\, Al Iskandariyah\, 
+ Egypt
+SUMMARY:ICT in Our Lives #3
+DESCRIPTION:Annual international scientific Conference of the Information 
+ Systems and Computers department\,Faculty of Commerce in Alexandria Univer
+ sity. It&#39;s a three-day conference where the third day is directed towards 
+ a set of workshops for students. http://ictinourlives.alexu.edu.eg/
+URL:https://reps.mozilla.org/e/ict-in-our-lives-2017/
+SEQUENCE:3
+X-COORDINATES-LAT:31.2079442665
+X-COORDINATES-LON:29.9137086875
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

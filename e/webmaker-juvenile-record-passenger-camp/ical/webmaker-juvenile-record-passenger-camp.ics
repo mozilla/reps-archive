@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3869
+CLASS:PUBLIC
+DTSTAMP:20200423T172456Z
+DTSTART:20150514T070000Z
+DTEND:20150514T092000Z
+LOCATION:乌鲁木齐市第十小学\, Urumqi\, China
+SUMMARY:Webmaker juvenile record passenger Camp
+DESCRIPTION:We always defines itself as a computer science education promo
+ tion organization\, the purpose of Firefox Tianshan line activities is onl
+ y one: Let the kids a better knowledge and understanding of computer scien
+ ce\, to understand the vast Internet resources\, recognized not just for t
+ yping computer game to help our children to create an open\, innovative\, 
+ shared\, independent of the Internet space\, through this study\, to impro
+ ve students&#39; active learning\, teamwork and innovation ability!
+URL:https://reps.mozilla.org/e/webmaker-juvenile-record-passenger-camp/
+SEQUENCE:1
+X-COORDINATES-LAT:43.7660381713
+X-COORDINATES-LON:2607.62391186
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

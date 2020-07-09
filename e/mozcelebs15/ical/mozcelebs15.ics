@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@545
+CLASS:PUBLIC
+DTSTAMP:20200423T215818Z
+DTSTART:20130331T050000Z
+DTEND:20130331T070000Z
+LOCATION:Friends Forever\, Civil Lines\, Allahabad\, Allahabad\, India
+SUMMARY:MozCelebs15
+DESCRIPTION: &#34;MozCelebs&#34; An Event to Celebrate 15 Years of Mozilla. The an
+ other objective of this event is to hold an open discussion with Reps and 
+ most committed contributors identified in MozCafe-Allahabd to be held on 3
+ 0th March in Allahabad.
+URL:https://reps.mozilla.org/e/mozcelebs15/
+SEQUENCE:0
+X-COORDINATES-LAT:24.0464639997
+X-COORDINATES-LON:77.51953125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

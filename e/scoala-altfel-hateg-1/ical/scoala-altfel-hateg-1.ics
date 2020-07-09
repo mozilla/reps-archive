@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3743
+CLASS:PUBLIC
+DTSTAMP:20200423T173523Z
+DTSTART:20150406T070000Z
+DTEND:20150410T110000Z
+LOCATION:Colegiul National &#34;I. C. Bratianu&#34; Hateg\, Haţeg\, Romania
+SUMMARY:Scoala Altfel - Hateg
+DESCRIPTION:&#34;Scoala Altfel&#34; (en. Other type of School) is a one week progr
+ am that all schools from Romania are organizing to offer to the young stud
+ ents alternative to formal learning. I will be present in my hometown high
+ school to teach the students Webmaking using our Webmaker tools and WebApp
+ s (Firefox OS ). I&#39;ll be there 6 hours a day\, 5 days a week. Each session
+  will be 3 hours long.\nI&#39;m being helped this year by one of the former st
+ udents that was present at this event last time I organized it here.
+URL:https://reps.mozilla.org/e/scoala-altfel-hateg-1/
+SEQUENCE:0
+X-COORDINATES-LAT:45.6088057696
+X-COORDINATES-LON:22.94913733
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

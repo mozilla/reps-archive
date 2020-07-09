@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3673
+CLASS:PUBLIC
+DTSTAMP:20200423T174016Z
+DTSTART:20150321T050000Z
+DTEND:20150321T233000Z
+LOCATION:Community Innovation and Cocreation Center\, Block -6\, LD Colleg
+ e\,Ahmadabad\, Ahmadabad\, India
+SUMMARY:Mozilla event @ GTU
+DESCRIPTION:Mission is to establish Mozilla Club in Gujarat. So in this 2 
+ day session we will try to cover as many topics as possible.\n1) mozilla i
+ ntro\n2) webmaker (handson)\n3) privacy and security \n4) FxOS (intro + ha
+ ndson)\n5) Browser features (demo+ handson)\n6) spectrogram game\n7) Mozil
+ la Location Service\n8) L10n  intro\n9) Firefox Developer Tools\n10) SuMo 
+  intro\n11) WoMoz  intro\n12) Firefox Hello demo
+URL:https://reps.mozilla.org/e/mozilla-event-gtu/
+SEQUENCE:1
+X-COORDINATES-LAT:22.9925044515
+X-COORDINATES-LON:72.612361901
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

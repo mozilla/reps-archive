@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2543
+CLASS:PUBLIC
+DTSTAMP:20200423T191633Z
+DTSTART:20140810T063000Z
+DTEND:20140810T123000Z
+LOCATION:Collabs House\, Hyderabad\, India
+SUMMARY:Mozilla BootCamp 2.0
+DESCRIPTION:The Event is especially meant to increase the community base a
+ nd to cheer the existing community in Hyderabad.This Event is inteded to t
+ each the Local Community regarding various projects in Mozilla. The Intro 
+ to various projects which was done in 1.0 is carried out with Hands on exp
+ erimental activities in this version.Web Maker project and Firefox OS App 
+ Development are the major branches in it.
+URL:https://reps.mozilla.org/e/mozilla-bootcamp-2-0/
+SEQUENCE:5
+X-COORDINATES-LAT:17.4320710551
+X-COORDINATES-LON:78.456501
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

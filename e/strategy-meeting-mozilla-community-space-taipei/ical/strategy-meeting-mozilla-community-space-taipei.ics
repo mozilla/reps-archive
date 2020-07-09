@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6717
+CLASS:PUBLIC
+DTSTAMP:20200407T174204Z
+DTSTART:20170604T060000Z
+DTEND:20170604T100000Z
+LOCATION:Mozilla Community Space Taipei\, Taipei\, Taiwan
+SUMMARY:Strategy Meeting\, Mozilla Community Space Taipei
+DESCRIPTION:Keyholders meeting with George Roter to discuss about communit
+ y space&#39;s strategy in 2017.
+URL:https://reps.mozilla.org/e/strategy-meeting-mozilla-community-space-ta
+ ipei/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0440681431
+X-COORDINATES-LON:121.532403901
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

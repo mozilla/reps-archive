@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5331
+CLASS:PUBLIC
+DTSTAMP:20200423T153255Z
+DTSTART:20160416T153000Z
+DTEND:20160416T183000Z
+LOCATION:jaipur\, Jaipur\, India
+SUMMARY:Git set go
+DESCRIPTION:An online event to learn and get hands on on git and github. I
+ n order to get started with almost any open source project knowledge of gi
+ t is must. Hence first step to code contribution.
+URL:https://reps.mozilla.org/e/git-set-go/
+SEQUENCE:0
+X-COORDINATES-LAT:26.8420437454
+X-COORDINATES-LON:75.874511674
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

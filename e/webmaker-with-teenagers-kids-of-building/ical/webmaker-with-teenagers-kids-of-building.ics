@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1735
+CLASS:PUBLIC
+DTSTAMP:20200423T193643Z
+DTSTART:20140615T090000Z
+DTEND:20140615T110000Z
+LOCATION:North Dhanmondi\, Dhaka\, Bangladesh
+SUMMARY:WebMaker with teenagers
+DESCRIPTION:Teenagers who just started using internet will have a great se
+ ssion with us.They will learn how the web is made\, and how to remix it. K
+ ids will learn popcorn to make cute stories or thimble to make sweet poste
+ rs.
+URL:https://reps.mozilla.org/e/webmaker-with-teenagers-kids-of-building/
+SEQUENCE:6
+X-COORDINATES-LAT:23.7477168402
+X-COORDINATES-LON:90.3828828334
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

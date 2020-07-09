@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3055
+CLASS:PUBLIC
+DTSTAMP:20200423T183708Z
+DTSTART:20141101T090000Z
+DTEND:20141101T110000Z
+LOCATION:Brama Kumaris Centre\, Koyratty\, Pamplemousses\, Mauritius
+SUMMARY:Mozilla Tour
+DESCRIPTION:Our November event has been scheduled for Saturday 1 November 
+ 2014 at one the Brama Kumaris centres in Mauritius. The sessions will be m
+ ainly a presentation of Mozilla and the second part of the event Maker par
+ ty.
+URL:https://reps.mozilla.org/e/mozilla-tour-1/
+SEQUENCE:3
+X-COORDINATES-LAT:-20.1239713638
+X-COORDINATES-LON:57.5334978086
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

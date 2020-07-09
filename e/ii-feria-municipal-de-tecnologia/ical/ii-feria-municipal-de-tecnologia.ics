@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@837
+CLASS:PUBLIC
+DTSTAMP:20200423T214331Z
+DTSTART:20130517T130000Z
+DTEND:20130519T210000Z
+LOCATION:Mexico strett El Padro Av.\, La Paz\, Bolivia
+SUMMARY:II Feria Municipal de Tecnología
+DESCRIPTION:The Second Municipal Technology Fair is a fair held every year
+  in the city of La Paz\, where several tech companies showed their wares f
+ or the community. As Mozilla\, we will show the benefits be to use our too
+ ls\, but above all show the importance of using Firefox OS and mobile tech
+ nology from Mozilla.
+URL:https://reps.mozilla.org/e/ii-feria-municipal-de-tecnologia/
+SEQUENCE:3
+X-COORDINATES-LAT:-16.5015623067
+X-COORDINATES-LON:-68.133687973
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

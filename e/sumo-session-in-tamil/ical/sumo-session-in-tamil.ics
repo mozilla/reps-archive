@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8078
+CLASS:PUBLIC
+DTSTAMP:20200423T090755Z
+DTSTART:20180825T043000Z
+DTEND:20180825T113000Z
+LOCATION:Vellore Open Space\, Vellore\, India
+SUMMARY:SUMO Session in Tamil
+DESCRIPTION:In this event we teach people how to contribute in SUMO. Also 
+ we will translate kb articles in Tamil. There would be in sumo l10n sprint
+ .
+URL:https://reps.mozilla.org/e/sumo-session-in-tamil/
+SEQUENCE:1
+X-COORDINATES-LAT:12.9501370307
+X-COORDINATES-LON:79.033813253
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2121
+CLASS:PUBLIC
+DTSTAMP:20200407T175056Z
+DTSTART:20141011T070000Z
+DTEND:20141011T190000Z
+LOCATION:TU Berlin\, Marchstr. 23\, Berlin\, Berlin\, Germany
+SUMMARY:Mozilla - Mozilla Hacking Day 2
+DESCRIPTION:Hacking Day #2 in Berlin. This is the follow-up of our first H
+ acking Day this year. This time\, we&#39;ll have pre-defined tables and do all
+  the things regarding this topic there. Like that we can be as specific as
+  needed\, instead of having general talks without much attendee participat
+ ions.\n\nEver wanted to hack on an open source project but didn&#39;t know how
+  to start? At the Mozilla Hacking Day (2nd Edition) we will show you how t
+ o get hands on our projects.
+URL:https://reps.mozilla.org/e/mozilla-mozilla-hacking-day-2/
+SEQUENCE:12
+X-COORDINATES-LAT:52.4950448122
+X-COORDINATES-LON:13.4282226115
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

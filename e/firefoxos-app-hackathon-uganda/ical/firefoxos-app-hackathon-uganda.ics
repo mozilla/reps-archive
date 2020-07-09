@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1041
+CLASS:PUBLIC
+DTSTAMP:20200407T180029Z
+DTSTART:20130921T050000Z
+DTEND:20130921T150000Z
+LOCATION:Uganda Technology and Management University(UTAMU)\, kampala\, Ug
+ anda
+SUMMARY:FirefoxOS App Hackathon Uganda
+DESCRIPTION:FirefoxOS app hackathon in Uganda is to introduce firefoxOS to
+  developers and students who can create or who want to create apps for fir
+ efoxOS. We shall take them through the web technologies to be used(css\,HT
+ ML and Javascript) \, how to package the application\, using the simulator
+ \, installing them on the keon devices and posting on the marketplace.\nIt
+  will be learning\, hacking and celebrating the open web
+URL:https://reps.mozilla.org/e/firefoxos-app-hackathon-uganda/
+SEQUENCE:11
+X-COORDINATES-LAT:-0.703107352436
+X-COORDINATES-LON:33.046875
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

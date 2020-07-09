@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6945
+CLASS:PUBLIC
+DTSTAMP:20200423T104626Z
+DTSTART:20170823T033000Z
+DTEND:20170823T113000Z
+LOCATION:Parul University  P.O.Limda\, Ta.Waghodia - 391760 Dist. Vadodara
+ \, Gujarat(India)\, Vadodara\, India
+SUMMARY:Moz-A-Thon
+DESCRIPTION:The Moz-a-Thon is a 1-day hackathon for the young coders of ha
+ rdware and software.This event is organized by Parul University Mozilla Cl
+ ub\, Tech Venture Club and Profism for the students of the Parul polytechn
+ ic institute\, where we will be providing the platform to the students whe
+ re they can present their ideas and convert it into innovative products.\n
+ \nIn this coding fest\, the maximum limit of an individual team is 4 membe
+ rs in each team\, hence individual team has the coding time of 8 hours.
+URL:https://reps.mozilla.org/e/moz-a-thon/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2785070324
+X-COORDINATES-LON:73.1779173017
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

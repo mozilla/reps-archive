@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6967
+CLASS:PUBLIC
+DTSTAMP:20200423T102820Z
+DTSTART:20171007T060000Z
+DTEND:20171007T090000Z
+LOCATION:TBD\, Hong Kong\, Hong Kong
+SUMMARY:Firefox 57 Sprint HK
+DESCRIPTION:Participants will check the Alexa list of the most famous webs
+ ites in Hong Kong and test with Nightly.
+URL:https://reps.mozilla.org/e/firefox-57-sprint-hk/
+SEQUENCE:3
+X-COORDINATES-LAT:22.2812917688
+X-COORDINATES-LON:114.175576687
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

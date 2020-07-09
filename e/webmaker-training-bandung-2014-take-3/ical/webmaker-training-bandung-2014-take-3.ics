@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3189
+CLASS:PUBLIC
+DTSTAMP:20200423T182025Z
+DTSTART:20141206T020000Z
+DTEND:20141206T080000Z
+LOCATION:Comlabs ITB\, Dago\, Indonesia
+SUMMARY:Webmaker Training Bandung 2014 - Take 3
+DESCRIPTION:This event is the 2nd training for any Mozillians who wants to
+  #TeachTheWeb and become Webmaker Mentor in their campus. We create this e
+ vent to support any Mozillians who want to create their own Maker Party ev
+ ent in their own places. This is our 4rd training after we held first one 
+ in Jakarta on August and 3rd one in Bandung on October.\n\nI hope this sma
+ ll training can support any Maker Party events in Indonesia\, especially i
+ n Bandung
+URL:https://reps.mozilla.org/e/webmaker-training-bandung-2014-take-3/
+SEQUENCE:16
+X-COORDINATES-LAT:-6.88909613425
+X-COORDINATES-LON:107.610567212
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1539
+CLASS:PUBLIC
+DTSTAMP:20200407T182107Z
+DTSTART:20131130T033000Z
+DTEND:20131130T113000Z
+LOCATION:SAP Labs India Pvt. Ltd. Vatika Towers\, 4th Floor Sector 54\, Go
+ lf Course Road Gurgaon\, Haryana – 122002 India\, New Delhi\, India
+SUMMARY:Barcamp Delhi
+DESCRIPTION:Barcamp is a tech oriented unconference which is organized by 
+ the attendees for the attendees. It is an event where people in the tech c
+ ommunity come together to share ideas\, knowledge\, experiences with each 
+ other to benefit from the collective wisdom of peers. There are no attende
+ es and no speakers\, only participants. Everyone contributes in some way o
+ r other.
+URL:https://reps.mozilla.org/e/barcamp-delhi/
+SEQUENCE:4
+X-COORDINATES-LAT:28.4636594826
+X-COORDINATES-LON:77.0280070603
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

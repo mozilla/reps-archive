@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2092
+CLASS:PUBLIC
+DTSTAMP:20200423T195023Z
+DTSTART:20140513T080000Z
+DTEND:20140513T110000Z
+LOCATION:Atrium Royal Plasa Surabaya 1st Floor.\, Surabaya\, Indonesia
+SUMMARY:Pesta Kreatif TIK Pelajar Surabaya 2014
+DESCRIPTION:Event for student who want to learn about web with webmaker to
+ ols and Firefox OS. Student will learn simple html\, css\, and javascript 
+ for make the web and learn about apps/webapps\, and manifest in Firefox OS
+ .
+URL:https://reps.mozilla.org/e/mini-workshop-webmaker-and-firefox-os-at-pe
+ sta-kreatif-tik-pelajar-surabaya-2014/
+SEQUENCE:9
+X-COORDINATES-LAT:-7.30932075273
+X-COORDINATES-LON:112.733710706
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

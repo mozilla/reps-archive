@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2200
+CLASS:PUBLIC
+DTSTAMP:20200423T195656Z
+DTSTART:20140429T010000Z
+DTEND:20140429T080000Z
+LOCATION:國家教育研究院臺北院區\, Da-an District\, Taiwan
+SUMMARY:Free Software Maker: Applications and Promotion
+DESCRIPTION:As part of a whole-day seminar\, Bob Chao will introducing Web
+ maker and Open Badges project to about 110+ K12 teachers. The main goal of
+  the presentation is to find enlarge the Webmaker community in Taiwan\, wi
+ th a few teachers join the study group.
+URL:https://reps.mozilla.org/e/free-software-maker-applications-and-promot
+ ion/
+SEQUENCE:1
+X-COORDINATES-LAT:25.026476268
+X-COORDINATES-LON:121.532238364
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

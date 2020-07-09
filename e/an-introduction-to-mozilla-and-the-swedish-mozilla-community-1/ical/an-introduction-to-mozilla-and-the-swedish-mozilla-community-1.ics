@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1922
+CLASS:PUBLIC
+DTSTAMP:20200423T201441Z
+DTSTART:20140318T110000Z
+DTEND:20140318T120000Z
+LOCATION:Jupiter\, Chalmers University of Technology\, Gothenburg\, Sweden
+SUMMARY:An introduction to Mozilla and the Swedish Mozilla community
+DESCRIPTION:In this lecture\, aimed at engineering students (chalmerister)
+  attending Chalmers University of Technology\, I will introduce the studen
+ ts to what Mozilla are all about\, tell them about our local community and
+  how they can get involved in our projects.
+URL:https://reps.mozilla.org/e/an-introduction-to-mozilla-and-the-swedish-
+ mozilla-community-1/
+SEQUENCE:2
+X-COORDINATES-LAT:57.7107991625
+X-COORDINATES-LON:11.987914592
+X-COUNTRY-CODE:se
+END:VEVENT
+
+END:VCALENDAR

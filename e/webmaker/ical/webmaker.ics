@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@725
+CLASS:PUBLIC
+DTSTAMP:20200423T215339Z
+DTSTART:20130413T050000Z
+DTEND:20130413T070000Z
+LOCATION:Long Mountain\, Long Mountain\, Mauritius
+SUMMARY:Webmaker
+DESCRIPTION:My next event will be a Webmaker for youth and kids of 12-17 y
+ ears. This will be the first of the series of Webmaking event for youth an
+ d kids that I am looking forward to organise through the country. 
+URL:https://reps.mozilla.org/e/webmaker/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.1545861377
+X-COORDINATES-LON:57.571105957
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

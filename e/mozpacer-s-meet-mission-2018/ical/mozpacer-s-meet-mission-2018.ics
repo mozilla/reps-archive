@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7536
+CLASS:PUBLIC
+DTSTAMP:20200407T170242Z
+DTSTART:20180331T020000Z
+DTEND:20180331T060000Z
+LOCATION:SFLC.In New Delhi office Address: Software Freedom Law Center\, I
+ ndia K-9\, Block K\, Jangpura Extension\, New Delhi - 110014\, new delhi\,
+  India
+SUMMARY:MozPacer&#39;s Meet : Mission 2018
+DESCRIPTION:Primarily 3-4 individual SIG teams will be made which will  co
+ ntribute in.  Add-ons\,RUST \,GIT and other tools learning.Aadhaar card Mo
+ zilla (Policy and advocacy)campaign .\nIndividuals Team&#39;s discussion and S
+ ILO making\nSIG Group making and contributor alignments  \nUnderstand the 
+ scope and value of projects and their plan\nteam and their  milestones\, a
+ nd when/how will other contributors play their role in contributing to or 
+ providing feedback on those deliverables?
+URL:https://reps.mozilla.org/e/mozpacer-s-meet-mission-2018/
+SEQUENCE:8
+X-COORDINATES-LAT:25.0
+X-COORDINATES-LON:0.0
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

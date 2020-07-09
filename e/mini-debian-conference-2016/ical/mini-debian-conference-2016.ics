@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5695
+CLASS:PUBLIC
+DTSTAMP:20200423T150812Z
+DTSTART:20160730T033000Z
+DTEND:20160731T123000Z
+LOCATION:COEP\, Pune\, Pune\, India
+SUMMARY:Mini Debian Conference\,2016
+DESCRIPTION:“Debian is the Universal Operating System of the users\, by 
+ the users\, for the users.”\n— Anonymous\nDebConf is the annual Debian
+  conference which is held in a different country every year. DebConf16 wil
+ l be held in Cape Town\, South Africa\, from 2nd to the 9th of July 2016.\
+ nMini-DebConfs are local meetings organized by Debian project members to a
+ chieve similar objectives to those of the DebConf\, but on a regional cont
+ ext.\nRefer website  for more details..
+URL:https://reps.mozilla.org/e/mini-debian-conference-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:18.5217756096
+X-COORDINATES-LON:73.8748570858
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

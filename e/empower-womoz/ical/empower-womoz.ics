@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1774
+CLASS:PUBLIC
+DTSTAMP:20200423T202925Z
+DTSTART:20140208T033000Z
+DTEND:20140208T110000Z
+LOCATION:Central Polytechnic College\, Thiruvananthapuram\, India
+SUMMARY:Empower Womoz!
+DESCRIPTION:The aim of this project is to promote and involve more women i
+ n the FLOSS world in general - and in Mozilla&#39;s teams more particularly - 
+ as well as increase awareness around this issue. Anyone can participate : 
+ women\, men\, united in this common goal.
+URL:https://reps.mozilla.org/e/empower-womoz/
+SEQUENCE:15
+X-COORDINATES-LAT:8.4813590049
+X-COORDINATES-LON:76.9190405
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

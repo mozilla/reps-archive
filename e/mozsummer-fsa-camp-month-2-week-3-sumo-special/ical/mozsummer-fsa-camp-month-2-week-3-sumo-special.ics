@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4028
+CLASS:PUBLIC
+DTSTAMP:20200423T171124Z
+DTSTART:20150620T063000Z
+DTEND:20150620T093000Z
+LOCATION:Sofine colour lab\,Opposite to Sagar sweet&#39;s\,Beside Titan eye pl
+ use\,College Road\, Nashik\, Nashik\, India
+SUMMARY:MozSummer FSA Camp Month 2 Week 3 SUMO Special
+DESCRIPTION:We are here with the 3rd week of 2nd month of MozSummer Camp. 
+ This week\, we will be seeing and trying our hands on Support Mozilla and 
+ its areas\, such as AoA.
+URL:https://reps.mozilla.org/e/mozsummer-fsa-camp-month-2-week-3-sumo-spec
+ ial/
+SEQUENCE:1
+X-COORDINATES-LAT:20.0041576311
+X-COORDINATES-LON:73.7701392165
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

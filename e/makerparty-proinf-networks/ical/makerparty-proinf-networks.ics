@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4128
+CLASS:PUBLIC
+DTSTAMP:20200407T181930Z
+DTSTART:20150808T043000Z
+DTEND:20150808T100000Z
+LOCATION:ProInf Networks 8-2-350/6/2\,2C\,  Jyothi Square\,  Road No:3 Ban
+ jara Hills\, Hyderabad - 500034\, Telangana State\,  India.\, Hyderabad\, 
+ India
+SUMMARY:MakerParty@ Proinf Networks
+DESCRIPTION:We will be exploring WebMaker tools along with promoting WebMa
+ ker App. Will be creating contents from webmaker app in the event.\nThis m
+ aker party helps the new contributors to know about maker party \,how to c
+ onduct maker parties.
+URL:https://reps.mozilla.org/e/makerparty-proinf-networks/
+SEQUENCE:6
+X-COORDINATES-LAT:17.4296995898
+X-COORDINATES-LON:78.4182912111
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

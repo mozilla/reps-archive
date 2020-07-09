@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3294
+CLASS:PUBLIC
+DTSTAMP:20200423T181400Z
+DTSTART:20141227T053000Z
+DTEND:20141227T143000Z
+LOCATION:CIty Center Mall\, Nashik\, Nashik\, India
+SUMMARY:Firefox OS education booth Contribution Challange
+DESCRIPTION:The event is aimed at educating masses about Firefox OS the ne
+ xt open web technology on board. A booth will be set up one of the crowded
+  shopping malls in Nasik city for the outreach and education on Firefox OS
+  for the general public.  \nWe will be showcasing the latest Firefox OS de
+ vices launched in India and let people try their hands on it.
+URL:https://reps.mozilla.org/e/firefox-os-education-booth-contribution-cha
+ llange/
+SEQUENCE:3
+X-COORDINATES-LAT:20.0094705146
+X-COORDINATES-LON:73.7911720283
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

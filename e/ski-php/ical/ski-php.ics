@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1715
+CLASS:PUBLIC
+DTSTAMP:20200423T203501Z
+DTSTART:20140117T160000Z
+DTEND:20140118T223000Z
+LOCATION:Salt Lake Community College\, Taylorsville\, United States
+SUMMARY:Ski PHP
+DESCRIPTION:For a while\, several members of the Utah PHP Users Group have
+  been discussing the need for a PHP conference in the western United State
+ s. The greater Salt Lake area is home to many large tech companies that re
+ ly on PHP for their core business\, and it seemed like a great place to ha
+ ve a conference. \n\nMozilla is a Bronze Sponsor of the event and will hav
+ e a booth for both days.
+URL:https://reps.mozilla.org/e/ski-php/
+SEQUENCE:2
+X-COORDINATES-LAT:40.6721052519
+X-COORDINATES-LON:-111.941883088
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

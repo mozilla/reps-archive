@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@351
+CLASS:PUBLIC
+DTSTAMP:20200423T224241Z
+DTSTART:20121201T040000Z
+DTEND:20121201T060000Z
+LOCATION:E-Learning Centre Inc.\, Zamboanga City\, Philippines
+SUMMARY:Mozilla Zamboanga Community Meetup
+DESCRIPTION:Monthly Meetup of a small community of Mozilla Zamboanga where
+ in they collaborate to share ideas for the upcoming event in the region an
+ d contribution to some projects.
+URL:https://reps.mozilla.org/e/mozilla-zamboanga-community-meetup-1/
+SEQUENCE:0
+X-COORDINATES-LAT:6.92097374155
+X-COORDINATES-LON:122.052612305
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

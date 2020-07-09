@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@514
+CLASS:PUBLIC
+DTSTAMP:20200407T182701Z
+DTSTART:20130412T020000Z
+DTEND:20130414T140000Z
+LOCATION:Jakarta Convention Center\, Jakarta Pusat\, Indonesia
+SUMMARY:Traceroute Party
+DESCRIPTION:Begining with the idea of gathering internet related companies
+  such as ISPs\, Telcos\, and Content Providers in one fun-filled event\, T
+ raceroute Party was born. It will also be a showcase of the strong develop
+ ment and growth of the Indonesian Internet which was not built by a group 
+ of giant conglomerates\, but rather by hundreds of companies with talented
+  people working alongside the heterogenous internet communities in Indones
+ ia.
+URL:https://reps.mozilla.org/e/traceroute-party/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.21387659144
+X-COORDINATES-LON:106.806946993
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

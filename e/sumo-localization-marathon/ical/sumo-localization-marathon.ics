@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@782
+CLASS:PUBLIC
+DTSTAMP:20200407T180507Z
+DTSTART:20130427T080000Z
+DTEND:20130427T110000Z
+LOCATION: VTŠ Subotica - Visoka tehnička škola strukovnih studija (Coll
+ ege of Applied Sciences) \, Subotica\, Serbia
+SUMMARY:SUMO localization marathon
+DESCRIPTION:Serbian SUMO team is organizing localization marathon at VTŠ 
+ Subotica\, where we will try to localize as much as we can in 3 hours. \nW
+ e are going to localize Firefox articles. Since we have new contributors\,
+  at the start\, me and Dejan will give a little guidance on how to transla
+ te articles so that reviewers have minimal work.
+URL:https://reps.mozilla.org/e/sumo-localization-marathon/
+SEQUENCE:3
+X-COORDINATES-LAT:46.094305192
+X-COORDINATES-LON:19.6617507935
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

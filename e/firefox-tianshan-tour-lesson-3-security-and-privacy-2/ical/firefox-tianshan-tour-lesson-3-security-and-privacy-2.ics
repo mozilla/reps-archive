@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4742
+CLASS:PUBLIC
+DTSTAMP:20200423T162210Z
+DTSTART:20151028T080000Z
+DTEND:20151028T101000Z
+LOCATION:Urumqi tenth Primary school\, urumqi\, China
+SUMMARY:Firefox Tianshan tour--  Lesson 2- Security and Privacy 1
+DESCRIPTION:Network security and personal privacy
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-lesson-3-security-and
+ -privacy-2/
+SEQUENCE:5
+X-COORDINATES-LAT:43.7712616779
+X-COORDINATES-LON:2607.62439752
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

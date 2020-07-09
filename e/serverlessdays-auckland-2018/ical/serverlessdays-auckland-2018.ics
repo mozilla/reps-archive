@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7888
+CLASS:PUBLIC
+DTSTAMP:20200423T092621Z
+DTSTART:20180605T090000Z
+DTEND:20180605T173000Z
+LOCATION:ASB Waterfront Theatre\, Auckland\, New Zealand
+SUMMARY:ServerlessDays Auckland 2018
+DESCRIPTION:Serverless is a recent addition to the long list of technologi
+ es that promise to accelerate software delivery\, reduce the cost of solut
+ ions ownership and provide unicorns and rainbows for all. And like all ind
+ ustry buzzwords\, it generates enthusiasm and scepticism in equal measure.
+URL:https://reps.mozilla.org/e/serverlessdays-auckland-2018/
+SEQUENCE:1
+X-COORDINATES-LAT:-36.9528181689
+X-COORDINATES-LON:174.622557163
+X-COUNTRY-CODE:nz
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2569
+CLASS:PUBLIC
+DTSTAMP:20200423T192004Z
+DTSTART:20140802T010000Z
+DTEND:20140914T100000Z
+LOCATION:Collab House\, Bangalore\, Bangalore\, India
+SUMMARY:Maker Party Bangalore - 2014
+DESCRIPTION:From Jul 15 - Sep 15\, Mozilla Foundation is hosting a Global 
+ Maker Party campaign\,  with small to large Webmaking events happening eve
+ rywhere. As part of the Maker Party\, we will be hosting Maker Party event
+ s with different themes around the Web. Goal is to increase the number of 
+ Web literates through events\, grow networks\, and to weave together a glo
+ bal story about Maker Party.
+URL:https://reps.mozilla.org/e/maker-party-bangalore-2014/
+SEQUENCE:4
+X-COORDINATES-LAT:12.9367532148
+X-COORDINATES-LON:77.5122061372
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

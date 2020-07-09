@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@173
+CLASS:PUBLIC
+DTSTAMP:20200423T225924Z
+DTSTART:20120922T090000Z
+DTEND:20120923T170000Z
+LOCATION:Casa de cultură a studenților \, Cluj Napoca\, Romania
+SUMMARY:Closing Code Party 
+DESCRIPTION:After a succeful event in the opening weekend for Summer Campa
+ ign we&#39;ll organize an event to mark the ending of the first Summer Campaig
+ n
+URL:https://reps.mozilla.org/e/closing-code-party/
+SEQUENCE:0
+X-COORDINATES-LAT:46.7666872319
+X-COORDINATES-LON:23.5863107443
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

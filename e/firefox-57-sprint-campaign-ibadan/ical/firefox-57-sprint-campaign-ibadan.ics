@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7081
+CLASS:PUBLIC
+DTSTAMP:20200423T102747Z
+DTSTART:20171007T090000Z
+DTEND:20171007T120000Z
+LOCATION:ART Department University of Ibadan (OKIRO Building)\, IBADAN\, N
+ igeria
+SUMMARY:Firefox 57 Sprint Campaign Ibadan
+DESCRIPTION:Localization and Testing of New Firefox Release 57\nThe Event 
+ Detail is stated below:\nDATE: 7th of October\, 2017\nVENUE: ART Departmen
+ t University of Ibadan (OKIRO BUILDING).\nTIME: 10:00 AM - 1:00 PM.
+URL:https://reps.mozilla.org/e/firefox-57-sprint-campaign-ibadan/
+SEQUENCE:1
+X-COORDINATES-LAT:7.3977938
+X-COORDINATES-LON:3.9077621
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

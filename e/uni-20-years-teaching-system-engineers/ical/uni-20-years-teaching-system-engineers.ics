@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3969
+CLASS:PUBLIC
+DTSTAMP:20200423T170622Z
+DTSTART:20150704T080000Z
+DTEND:20150704T143000Z
+LOCATION:Uni Rupap\, Managua\, Nicaragua
+SUMMARY:Uni 20 years teaching system engineers
+DESCRIPTION:National University of Engineering is celebrating 20 years of 
+ offering career in systems engineering\, this being the first university t
+ o give this career\, we mozilla community were invited to give workshops a
+ nd lectures on development and network security\, plus we will be judges a
+ t the show of technology and innovation this event is two days
+URL:https://reps.mozilla.org/e/uni-20-years-teaching-system-engineers/
+SEQUENCE:3
+X-COORDINATES-LAT:12.1364954868
+X-COORDINATES-LON:-86.2240064889
+X-COUNTRY-CODE:ni
+END:VEVENT
+
+END:VCALENDAR

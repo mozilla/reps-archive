@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@579
+CLASS:PUBLIC
+DTSTAMP:20200423T215458Z
+DTSTART:20130409T050000Z
+DTEND:20130409T100000Z
+LOCATION:The Coffee Bean &amp; Tea Leaf (CBTL) Two E-Com Center\, Pasay City\,
+  Philippines
+SUMMARY:Tagalog Firefox Translation Marathon 1Q2013
+DESCRIPTION:Will be kicking off this quarter&#39;s translation efforts for Fir
+ efox Aurora in Tagalog (currently 42% completed) with a Translation Marath
+ on. Setup for this event will be like a MozCoffee.\n\n09 APR 2013 (Tue) is
+  a non-working holiday in the Philippines.
+URL:https://reps.mozilla.org/e/tagalog-firefox-translation-marathon-1q2013
+ /
+SEQUENCE:0
+X-COORDINATES-LAT:14.5392636416
+X-COORDINATES-LON:120.981123447
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

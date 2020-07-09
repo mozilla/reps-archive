@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1716
+CLASS:PUBLIC
+DTSTAMP:20200423T200745Z
+DTSTART:20140404T150000Z
+DTEND:20140406T000000Z
+LOCATION:Technological Institute of Ciudad Madero\, Ciudad Madero\, Mexico
+SUMMARY:Festival of Latin American Free Software Installation 2014-Technol
+ ogical Institute of Ciudad Madero
+DESCRIPTION:The Latin American Festival of Free Software Installation (FLI
+ SoL)\, is the largest broadcast event Free Software held since 2005 in dif
+ ferent countries throughout Latin America simultaneously. In 2012 involved
+  more than 290 cities in 20 countries in Latin America.
+URL:https://reps.mozilla.org/e/festival-of-latin-american-free-software-in
+ stallation-2014-technological-institute-of-ciudad-madero/
+SEQUENCE:5
+X-COORDINATES-LAT:22.2556940274
+X-COORDINATES-LON:-97.8477988247
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

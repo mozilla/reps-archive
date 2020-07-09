@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1514
+CLASS:PUBLIC
+DTSTAMP:20200407T174959Z
+DTSTART:20140125T060000Z
+DTEND:20140126T060000Z
+LOCATION:TBD\, Kolkata\, India
+SUMMARY:South Asia Meetup 2014
+DESCRIPTION:Mozilla South Asia Meetup is the annual assembly of the region
+ al community leadership to discuss the past operations &amp; future roadmap. T
+ his event also serves as a great platform for inter-community collaboratio
+ ns between the South Asian Mozilla communities.
+URL:https://reps.mozilla.org/e/south-asia-meetup-2014/
+SEQUENCE:7
+X-COORDINATES-LAT:22.3466889683
+X-COORDINATES-LON:88.4941408038
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

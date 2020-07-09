@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5071
+CLASS:PUBLIC
+DTSTAMP:20200423T180337Z
+DTSTART:20150129T140000Z
+DTEND:20150129T150000Z
+LOCATION:Ibis Brussels Centre Sainte Catherine\, Bruxelles\, Belgium
+SUMMARY:FLOSS Community Metrics meeting
+DESCRIPTION:This meeting is intended to be an open venue for community man
+ agers\, DevRel managers\, and FLOSS community experts to present ideas\, t
+ ools\, and analysis that the FLOSS community is already doing with FLOSS p
+ latforms. It is open to discuss about collaboration\, synergies\, etc. It 
+ will be organized to foster discussion\, but will also focus on developmen
+ t of new tools\, improvement of existing ones\, and how to spread the know
+ ledge about what is being done and can be done in this area.
+URL:https://reps.mozilla.org/e/floss-community-metrics-meeting/
+SEQUENCE:2
+X-COORDINATES-LAT:50.8862862879
+X-COORDINATES-LON:4.35992429964
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7344
+CLASS:PUBLIC
+DTSTAMP:20200423T100131Z
+DTSTART:20180203T113000Z
+DTEND:20180203T133000Z
+LOCATION:Collab House\, Hyderabad\, India
+SUMMARY:Global diversity CFP day
+DESCRIPTION:Have you always wanted to become a tech conference speaker? Le
+ t 2018 be the year that you make that dream a reality! Save the date - Sat
+ urday 3rd February 2018
+URL:https://reps.mozilla.org/e/global-diversity-cfp-day/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4268641339
+X-COORDINATES-LON:78.4231433272
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

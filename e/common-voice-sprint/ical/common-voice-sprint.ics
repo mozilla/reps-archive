@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8544
+CLASS:PUBLIC
+DTSTAMP:20200407T165008Z
+DTSTART:20190422T120000Z
+DTEND:20190422T143000Z
+LOCATION:An-Najah National University\, Nablus\, Occupied Palestinian Terr
+ itory
+SUMMARY:Common Voice sprint
+DESCRIPTION:A common voice sprint organized by palestenian Mozilla communi
+ ty in Palestine - Nablus
+URL:https://reps.mozilla.org/e/common-voice-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:32.2241228948
+X-COORDINATES-LON:35.2437658282
+X-COUNTRY-CODE:ps
+END:VEVENT
+
+END:VCALENDAR

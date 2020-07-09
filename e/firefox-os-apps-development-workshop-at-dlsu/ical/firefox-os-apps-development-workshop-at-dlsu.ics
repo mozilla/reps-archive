@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@933
+CLASS:PUBLIC
+DTSTAMP:20200407T180301Z
+DTSTART:20130706T050000Z
+DTEND:20130706T090000Z
+LOCATION:De La Salle University - Manila\, Manila\, Philippines
+SUMMARY:Firefox OS Apps Development Workshop at DLSU
+DESCRIPTION:Team MozillaPH will conduct Firefox OS Apps Development Worksh
+ op to Computer Science students of the De La Salle University (Manila).\n\
+ nAttendees will be taught on how to tap the Firefox OS&#39; full potential in 
+ creating mobile apps using tools readily available to them.
+URL:https://reps.mozilla.org/e/firefox-os-apps-development-workshop-at-dls
+ u/
+SEQUENCE:2
+X-COORDINATES-LAT:14.5669905287
+X-COORDINATES-LON:120.992946625
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

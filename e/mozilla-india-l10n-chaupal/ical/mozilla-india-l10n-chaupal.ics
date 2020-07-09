@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@921
+CLASS:PUBLIC
+DTSTAMP:20200407T165610Z
+DTSTART:20130611T103000Z
+DTEND:20130611T123000Z
+LOCATION:Red Hat Software Service\, Tower 10\, 1st Floor\, Magarpatta City
+ \, Pune-411013\, Pune\, India
+SUMMARY:Mozilla India L10N Chaupal
+DESCRIPTION:A small get together in Pune for localizers of Mozilla Communi
+ ty to discuss in general regarding localization and its community in India
+ .
+URL:https://reps.mozilla.org/e/mozilla-india-l10n-chaupal/
+SEQUENCE:9
+X-COORDINATES-LAT:18.5169
+X-COORDINATES-LON:73.9272
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

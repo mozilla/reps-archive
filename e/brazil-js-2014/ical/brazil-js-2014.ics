@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2645
+CLASS:PUBLIC
+DTSTAMP:20200407T181954Z
+DTSTART:20140821T120000Z
+DTEND:20140822T210000Z
+LOCATION:Teatro Bourbon Country\, Porto Alegre\, Brazil
+SUMMARY:Brazil JS 2014
+DESCRIPTION:The largest Javascript conference in the world. BrazilJS attra
+ cts people from all over the world in its two days tour de force of the fa
+ vorite programming language of the web.
+URL:https://reps.mozilla.org/e/brazil-js-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:-30.1482937709
+X-COORDINATES-LON:-51.1640623212
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

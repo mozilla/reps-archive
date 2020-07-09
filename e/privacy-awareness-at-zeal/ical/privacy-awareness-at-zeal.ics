@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5051
+CLASS:PUBLIC
+DTSTAMP:20200423T155214Z
+DTSTART:20160130T083000Z
+DTEND:20160130T103000Z
+LOCATION:Zeal Education Society&#39;s Zeal College of Engg and Research\, Narh
+ e\, Pune\, India
+SUMMARY:Privacy Awareness at Zeal
+DESCRIPTION:This is a Privacy awareness workshop for the students. This ev
+ ent comes under the global #PrivacyMonth . Agenda is simple making student
+ s and staff aware about the rich Privacy Features of Firefox desktop and M
+ obile. http://mzl.la/JanuaryPrivacyMonthCampaign\nEvent organizer : Dhanes
+ h Sabane and Team.
+URL:https://reps.mozilla.org/e/privacy-awareness-at-zeal/
+SEQUENCE:4
+X-COORDINATES-LAT:18.4486689895
+X-COORDINATES-LON:73.8250708571
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

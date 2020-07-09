@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8046
+CLASS:PUBLIC
+DTSTAMP:20200407T175101Z
+DTSTART:20180817T060000Z
+DTEND:20180818T140000Z
+LOCATION:Amman Rotana\, Amman\, Jordan
+SUMMARY:Mozilla l10n Arabic community meetup
+DESCRIPTION:localization community workshop . The purpose of this workshop
+  is to help establish specific leadership and localization practices withi
+ n the Arabic community that are in accordance with the Community Participa
+ tion Guidelines\, Mozilla leadership agreements\, responsibilities and exp
+ ectations of localizers in each role\, and localization best practices. di
+ scuss the community’s current status and future and how the l10n-drivers
+  can be more actively involved in helping the community.
+URL:https://reps.mozilla.org/e/mozilla-l10n-arabic-community-meetup/
+SEQUENCE:0
+X-COORDINATES-LAT:31.9670896992
+X-COORDINATES-LON:35.9043055771
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

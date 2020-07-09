@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2334
+CLASS:PUBLIC
+DTSTAMP:20200423T195313Z
+DTSTART:20140509T083000Z
+DTEND:20140509T190000Z
+LOCATION:Botho University - Botho Education Park &amp; Buttlers Restuarant\, G
+ aborone\, Botswana
+SUMMARY:Mozilla Australis Launch Party - Mozilla Botswana
+DESCRIPTION:Mozilla released Firefox version 29 a week ago. And by the loo
+ k of things\, the new Firefox is gentle on the eyes and hot on speed. The 
+ new Firefox has brought along major interface changes and matchless custom
+ ization options to all Firefox users making it the kind of web browser we
+ ’d love to use.
+URL:https://reps.mozilla.org/e/mozilla-australis-launch-party-mozilla-bots
+ wana/
+SEQUENCE:1
+X-COORDINATES-LAT:-24.660759346
+X-COORDINATES-LON:25.8990726457
+X-COUNTRY-CODE:bw
+END:VEVENT
+
+END:VCALENDAR

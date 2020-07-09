@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1513
+CLASS:PUBLIC
+DTSTAMP:20200423T204252Z
+DTSTART:20131207T070000Z
+DTEND:20131207T100000Z
+LOCATION:好雪片片\, Hong Kong\, Hong Kong
+SUMMARY:MozCafe Hong Kong 2013.12
+DESCRIPTION:a casual meetup of Mozillians and Open Source users/contributo
+ rs in Hong Kong. We will discuss possibilities of creating Hong Kong local
+ e / edition of Firefox web browser.
+URL:https://reps.mozilla.org/e/mozcafe-hong-kong-2013-12/
+SEQUENCE:4
+X-COORDINATES-LAT:22.3249877282
+X-COORDINATES-LON:114.170559526
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

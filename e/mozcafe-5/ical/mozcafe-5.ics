@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5154
+CLASS:PUBLIC
+DTSTAMP:20200423T154529Z
+DTSTART:20160227T150000Z
+DTEND:20160227T170000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:MozCafe Tirana #5
+DESCRIPTION:The 5th edition of MozCafe in Tirana. We will focus on:\n- pre
+ sence of Mozilla Albania at Open Source Conference Albania\;\n- more info 
+ about connected devices. \n- any other issue proposed from everyone that w
+ ill join us.
+URL:https://reps.mozilla.org/e/mozcafe-5/
+SEQUENCE:2
+X-COORDINATES-LAT:41.3159598548
+X-COORDINATES-LON:19.8151245131
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

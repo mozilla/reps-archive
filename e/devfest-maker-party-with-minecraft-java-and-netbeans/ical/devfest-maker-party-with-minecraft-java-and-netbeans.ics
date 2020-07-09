@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3123
+CLASS:PUBLIC
+DTSTAMP:20200407T175659Z
+DTSTART:20141206T110000Z
+DTEND:20141206T150000Z
+LOCATION:Bağlarbaşı Kongre ve Kültür Merkezi\, Üsküdar\, Turkey
+SUMMARY:DevFest Maker Party with Minecraft\, Java and NetBeans
+DESCRIPTION:Are you or your kids into Minecraft? Did you know you can lear
+ n to mod it with Java and NetBeans IDE? \n\nCome join us to explore creati
+ ng your own exploding arrows to sheep that explode when they eat grass\, j
+ oin us to discover how Minecraft can be used to help your kids explore cod
+ ing through something they want to use without us parents having to ask.\n
+ \nThe event is organized by EPIK (http://epik.org.uk).
+URL:https://reps.mozilla.org/e/devfest-maker-party-with-minecraft-java-and
+ -netbeans/
+SEQUENCE:2
+X-COORDINATES-LAT:41.0270102477
+X-COORDINATES-LON:29.0331802145
+X-COUNTRY-CODE:tr
+END:VEVENT
+
+END:VCALENDAR

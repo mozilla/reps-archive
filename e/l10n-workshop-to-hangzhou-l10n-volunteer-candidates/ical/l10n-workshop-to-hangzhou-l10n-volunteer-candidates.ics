@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1549
+CLASS:PUBLIC
+DTSTAMP:20200407T180625Z
+DTSTART:20131123T053000Z
+DTEND:20131123T100000Z
+LOCATION:1F LongXi Boss Gang\, 4281 NanHuan Rd. Binjiang\, Hangzhou\, Zhej
+ iang\, China\, 310053\, Hangzhou\, China
+SUMMARY:l10n workshop to Hangzhou l10n volunteer candidates
+DESCRIPTION:There are several volunteer candidates here in Hangzhou\, afte
+ r I introduced Mozilla/Firefox and community to my colleagues\, some of th
+ em showed interests.\n\nSo I would like to organize one workshops to help 
+ those candidates to get familiar with Mozilla&amp;Community WoW.
+URL:https://reps.mozilla.org/e/l10n-workshop-to-hangzhou-l10n-volunteer-ca
+ ndidates/
+SEQUENCE:20
+X-COORDINATES-LAT:30.1816279035
+X-COORDINATES-LON:120.146448254
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3173
+CLASS:PUBLIC
+DTSTAMP:20200407T165831Z
+DTSTART:20141206T140000Z
+DTEND:20141207T060000Z
+LOCATION:Institute of Diploma Engineers\, Bangladesh (IDEB)\, Tejgaon\, Ba
+ ngladesh
+SUMMARY:National Hackathon 2014 (Bangladesh)
+DESCRIPTION:A gathering where programmers collaboratively code in an extre
+ me manner over a short period of time. Developers\, innovators and designe
+ rs joins in a team of 5 people generally to build innovative prototype to 
+ solve some given problem sets. Organized by National Mobile Application De
+ velopment &amp; Capacity Building Program\, ICT Division\, Ministry of Post an
+ d Telecommunication Bangladesh.
+URL:https://reps.mozilla.org/e/national-hackathon-2014-bangladesh/
+SEQUENCE:2
+X-COORDINATES-LAT:23.7567529273
+X-COORDINATES-LON:90.3692865249
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

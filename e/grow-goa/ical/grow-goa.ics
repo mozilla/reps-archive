@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2932
+CLASS:PUBLIC
+DTSTAMP:20200407T175042Z
+DTSTART:20141227T033000Z
+DTEND:20141228T103000Z
+LOCATION:Goa\, TBD\, Madgaon\, India
+SUMMARY:Grow Goa
+DESCRIPTION:A 2 day event aimed at building and reinforcing a community in
+  Goa.\nThe event will help Mozillians gain and improve their skills in lea
+ dership\, collaboration\, community building and contribution\, all while 
+ helping to expand the Mozilla community.\nThe event will be a new session 
+ type which would be based on dividing the lot into small interest based gr
+ oups.
+URL:https://reps.mozilla.org/e/grow-goa/
+SEQUENCE:4
+X-COORDINATES-LAT:15.3358007754
+X-COORDINATES-LON:73.99505639
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

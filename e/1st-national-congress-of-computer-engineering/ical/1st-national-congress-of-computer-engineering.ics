@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@896
+CLASS:PUBLIC
+DTSTAMP:20200423T214032Z
+DTSTART:20130525T130000Z
+DTEND:20130526T230000Z
+LOCATION:Pando Street\, Integración Ave.\, Villa Tunari\, Bolivia
+SUMMARY:1st National Congress of Computer Engineering
+DESCRIPTION:National Congress with topics about Free Software\, Mobile App
+ lication Development and more. Mozilla has been invited to show Firefox OS
+  and how to develop an application\, this conference will have at least 20
+ 0 participants from all over Bolivia.
+URL:https://reps.mozilla.org/e/1st-national-congress-of-computer-engineeri
+ ng/
+SEQUENCE:6
+X-COORDINATES-LAT:-16.971345447
+X-COORDINATES-LON:-65.4175758362
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

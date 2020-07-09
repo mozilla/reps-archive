@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2989
+CLASS:PUBLIC
+DTSTAMP:20200423T183318Z
+DTSTART:20141112T100000Z
+DTEND:20141115T220000Z
+LOCATION:Secretaria de Cultura\, Carapicuíba\, Brazil
+SUMMARY:Upgrade Robotics
+DESCRIPTION:Biggest event on robotics in Brazil.\n\nWe&#39;ll have a Firefox O
+ S talk and a Firefox OS workshop there.
+URL:https://reps.mozilla.org/e/upgrade-robotics/
+SEQUENCE:4
+X-COORDINATES-LAT:-23.530281812
+X-COORDINATES-LON:-46.7899707556
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

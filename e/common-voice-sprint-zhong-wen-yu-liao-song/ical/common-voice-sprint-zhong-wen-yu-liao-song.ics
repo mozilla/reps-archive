@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7784
+CLASS:PUBLIC
+DTSTAMP:20200423T093515Z
+DTSTART:20180512T050000Z
+DTEND:20180512T090000Z
+LOCATION:摩茲工寮 Mozilla Community Space Taipei\, Taipei\, Taiwan
+SUMMARY:Common Voice Sprint 中文語料松
+DESCRIPTION:Mozilla 的自由語音資料收集計劃「Common Voice」即
+ 將釋出中文版了！這一個下午的衝刺，我們將與 Common Voi
+ ce 開發成員遠距連線，一同努力收集整理出公領域的語
+ 料庫。
+URL:https://reps.mozilla.org/e/common-voice-sprint-zhong-wen-yu-liao-song/
+SEQUENCE:2
+X-COORDINATES-LAT:25.0440223775
+X-COORDINATES-LON:121.532300592
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

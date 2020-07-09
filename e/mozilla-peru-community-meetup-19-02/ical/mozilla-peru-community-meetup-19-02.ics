@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8379
+CLASS:PUBLIC
+DTSTAMP:20200423T084032Z
+DTSTART:20190301T000000Z
+DTEND:20190301T030000Z
+LOCATION:Av. Almirante Miguel Grau 629\, Barranco\, Peru
+SUMMARY:Mozilla Perú Community Meetup 19.02
+DESCRIPTION:Monthly meetup with the Mozilla Perú community to talk about 
+ local projects and news from Mozilla.\n\nAgenda in process
+URL:https://reps.mozilla.org/e/mozilla-peru-community-meetup-19-02/
+SEQUENCE:2
+X-COORDINATES-LAT:-12.1455099
+X-COORDINATES-LON:-77.0223798
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

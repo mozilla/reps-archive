@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5501
+CLASS:PUBLIC
+DTSTAMP:20200423T152058Z
+DTSTART:20160604T081000Z
+DTEND:20160604T150000Z
+LOCATION:NANGUI ABROGOUA UNIVERSITY\, Williamsville\, Ivory Coast
+SUMMARY:Genius HED DAY
+DESCRIPTION:DIVISION Genius is a students community passionate of techolog
+ ies in Ivory Coast  .\nGenius is organizing a training day on various fiel
+ ds of computer sciences like (Coding\, Hack\, data protection\, social med
+ ia ...)\nSeveral communities will be there.\nOur local Mozilla community h
+ as also been invited to this event ...\nI will introduce other communities
+  on Mozilla\, his mission and alls fields of contribution \, Particularly 
+ SUMO ...
+URL:https://reps.mozilla.org/e/genius-hed-day/
+SEQUENCE:3
+X-COORDINATES-LAT:5.35304778508
+X-COORDINATES-LON:-4.01993894586
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

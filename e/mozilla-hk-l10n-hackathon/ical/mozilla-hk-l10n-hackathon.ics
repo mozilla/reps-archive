@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4500
+CLASS:PUBLIC
+DTSTAMP:20200423T162429Z
+DTSTART:20151024T060000Z
+DTEND:20151024T100000Z
+LOCATION:The Loft Co-working Space\, Blk A\, 4/F Lee King Ind Bldg\, 12 Ng
+  Fong Street\, Hong Kong
+SUMMARY:Mozilla HK L10N Hackathon
+DESCRIPTION:Firstly\, we introduce current status of zh-hk locale and tool
+ s in general open source community and projects\, then we will discuss pot
+ ential zh-hk locale process\, from develop &amp; use of software tools to manu
+ al translation &amp; test.
+URL:https://reps.mozilla.org/e/mozilla-hk-l10n-hackathon/
+SEQUENCE:6
+X-COORDINATES-LAT:22.3377097185
+X-COORDINATES-LON:114.200467586
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

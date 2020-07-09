@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3604
+CLASS:PUBLIC
+DTSTAMP:20200423T173818Z
+DTSTART:20150327T000000Z
+DTEND:20150327T020000Z
+LOCATION:Atom House\, Bogota\, Colombia
+SUMMARY:Firefox OS &lt;3 Node.js - BogotaJS
+DESCRIPTION:Review of the Node.js modules used daily during the Firefox OS
+  development. Introduction to node-firefox (https://hacks.mozilla.org/2015
+ /02/introducing-node-firefox/) and app development with Node.js\, also the
+  compilation of io.js for Firefox OS (It will work on Android too) as bina
+ ry in the system and how to take approach of it.
+URL:https://reps.mozilla.org/e/firefox-os-3-node-js-bogotajs/
+SEQUENCE:6
+X-COORDINATES-LAT:4.73346172359
+X-COORDINATES-LON:-74.0756492643
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

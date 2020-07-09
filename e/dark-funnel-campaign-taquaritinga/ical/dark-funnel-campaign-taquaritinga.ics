@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8097
+CLASS:PUBLIC
+DTSTAMP:20200423T090311Z
+DTSTART:20180920T130000Z
+DTEND:20180920T160000Z
+LOCATION:Fatec Taquaritinga\, Taquaritinga\, Brazil
+SUMMARY:Dark Funnel Campaign - Taquaritinga
+DESCRIPTION:The event will engage community members in understanding the s
+ afety concern of Firefox on the Internet. \nCommunity Members will use dif
+ ferent combinations of keywords to find non-Mozilla sites that let users d
+ ownload Firefox without going www.mozilla.org first. Secondly\, the commun
+ ity members will investigate these websites to find “unofficial Firefox 
+ download” buttons. And finally\, the community members will document tho
+ se sites.
+URL:https://reps.mozilla.org/e/dark-funnel-campaign-taquaritinga/
+SEQUENCE:2
+X-COORDINATES-LAT:-21.4293627583
+X-COORDINATES-LON:-48.5147380833
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2237
+CLASS:PUBLIC
+DTSTAMP:20200423T194323Z
+DTSTART:20140531T063000Z
+DTEND:20140531T123000Z
+LOCATION:Oriental university Opp.Revati Range Gate No.1\,\, Sanwer Road\,J
+ akhya\,\, Indore\, Madhya Pradesh 453555\, Indore\, India
+SUMMARY:MozMaker
+DESCRIPTION:1) Introduction of Mozilla\,Its Mission and Contribution---Fai
+ sal 30 Min\n\n2) How to Join FSA &amp; mozillian--Deep 30 Min\n\n3) Webmaker t
+ ools ( Main contribution on that day )---Faisal and Deep 1 Hr Session\n+1 
+ Hour Handons\n\n4) Firefox OS Apps- Deep 30 min\n\n5) Localization --Faisa
+ l Aziz 1 Hour Session + 1 Hour Handson\n\n6) Launching of Firefox 29 (Luan
+ ch and Cake Cutting)
+URL:https://reps.mozilla.org/e/mozmaker/
+SEQUENCE:5
+X-COORDINATES-LAT:22.7182138352
+X-COORDINATES-LON:75.8574485709
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

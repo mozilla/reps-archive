@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1810
+CLASS:PUBLIC
+DTSTAMP:20200423T203104Z
+DTSTART:20140128T180000Z
+DTEND:20140128T210000Z
+LOCATION:iseeQ\, Budapest\, Hungary
+SUMMARY:Firefox OS Workshop 2014/1
+DESCRIPTION:Happy hours of hacking after regular work time. With help og G
+ ergő\, Mián and KAMI. Our first activity will show you how to send your 
+ app from the Simulator to the Geeksphone Keon Firefox OS Developer Preview
+  device. Help to do the first steps.
+URL:https://reps.mozilla.org/e/firefox-os-workshop-2014-1/
+SEQUENCE:10
+X-COORDINATES-LAT:47.4982887566
+X-COORDINATES-LON:19.0590687991
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

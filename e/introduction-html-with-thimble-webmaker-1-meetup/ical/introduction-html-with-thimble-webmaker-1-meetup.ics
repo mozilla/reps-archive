@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3798
+CLASS:PUBLIC
+DTSTAMP:20200407T180637Z
+DTSTART:20150422T050000Z
+DTEND:20150422T070000Z
+LOCATION:Aula SMAN 5 Surabaya\, Surabaya\, Indonesia
+SUMMARY:Introduction HTML with thimble webmaker #1 Meetup
+DESCRIPTION:This event specially for student at SMAN 5 Surabaya who want t
+ o learn about basic of HTML with webmaker tools.
+URL:https://reps.mozilla.org/e/introduction-html-with-thimble-webmaker-1-m
+ eetup/
+SEQUENCE:0
+X-COORDINATES-LAT:-7.26362937868
+X-COORDINATES-LON:112.747825383
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

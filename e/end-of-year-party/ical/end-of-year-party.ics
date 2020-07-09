@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8961
+CLASS:PUBLIC
+DTSTAMP:20200407T170243Z
+DTSTART:20191222T043000Z
+DTEND:20191222T113000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:MozCoffee @ New Delhi
+DESCRIPTION:MozCoffee meetup where we talk about the past ups and downs in
+  the community. Making the final impact where we can showcase what we have
+  done as individuals and as a whole group. It takes a lot from us.\n\nAnot
+ her point is that\, people who have been busy with their work. In the wint
+ er break\, they come to contribute in Open source projects.
+URL:https://reps.mozilla.org/e/end-of-year-party/
+SEQUENCE:2
+X-COORDINATES-LAT:28.5330574428
+X-COORDINATES-LON:77.217772007
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

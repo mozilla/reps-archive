@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2040
+CLASS:PUBLIC
+DTSTAMP:20200423T201224Z
+DTSTART:20140324T180000Z
+DTEND:20140324T210000Z
+LOCATION:16 bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Meetup Mozilla Appmaker
+DESCRIPTION:David Ascher\, from the Mozilla Appmaker team\, is in France f
+ or a while : he is very appreciated by the French-speaking community becau
+ se he is really talented and because... he speaks French ! \n\nSo he propo
+ sed to ran our first Appmaker meetup\, and we are more than happy to welco
+ me him and discover what Appmaker is !
+URL:https://reps.mozilla.org/e/meetup-mozilla-appmaker/
+SEQUENCE:10
+X-COORDINATES-LAT:48.8943489432
+X-COORDINATES-LON:2.33445525137
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

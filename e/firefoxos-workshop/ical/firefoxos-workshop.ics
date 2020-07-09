@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@860
+CLASS:PUBLIC
+DTSTAMP:20200407T173646Z
+DTSTART:20130621T070000Z
+DTEND:20130621T160000Z
+LOCATION:Università degli Studi dell&#39;Aquila\, Coppito\, Italy
+SUMMARY:FirefoxOS Workshop
+DESCRIPTION:A Firefox OS hands on day\, with talks and pure hacking with I
+ T students. We&#39;re going to give them background over the WebAPIs technolog
+ y some time before the event and give them topics to hack the apps on\, bu
+ t not too narrow to give the chance to invent.\nAs explained in the metric
+ s\, we plan to produce at least 3 working applications.
+URL:https://reps.mozilla.org/e/firefoxos-workshop/
+SEQUENCE:8
+X-COORDINATES-LAT:42.369
+X-COORDINATES-LON:13.34841
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

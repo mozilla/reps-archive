@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3310
+CLASS:PUBLIC
+DTSTAMP:20200407T175054Z
+DTSTART:20150106T030000Z
+DTEND:20150106T050000Z
+LOCATION:Spazio Hall\, Spazio Lt. 1\, Jl. Mayjend. Yono Soewoyo Kav. 3\, S
+ urabaya Barat\, Surabaya\, Indonesia
+SUMMARY:Opening Ceremony Start Surabaya
+DESCRIPTION:The event that create startup bussines
+URL:https://reps.mozilla.org/e/opening-ceremony-start-surabaya/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.27609052014
+X-COORDINATES-LON:112.748021185
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

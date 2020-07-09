@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1882
+CLASS:PUBLIC
+DTSTAMP:20200407T180225Z
+DTSTART:20140311T033000Z
+DTEND:20140312T063000Z
+LOCATION:Guru Nanak Institute of Technology\, Mullana\, Ambala\, India
+SUMMARY:MozLounge
+DESCRIPTION:MozLounge will be a 2 day event which will make students aware
+  of Open Source\, Mozilla and it&#39;s mission. It&#39;ll also enroll participants
+  for the FSA Program.
+URL:https://reps.mozilla.org/e/mozlounge/
+SEQUENCE:2
+X-COORDINATES-LAT:30.3829453906
+X-COORDINATES-LON:76.7798955
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

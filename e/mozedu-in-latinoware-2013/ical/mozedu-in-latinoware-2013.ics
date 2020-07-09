@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1401
+CLASS:PUBLIC
+DTSTAMP:20200423T210019Z
+DTSTART:20131018T140000Z
+DTEND:20131018T170000Z
+LOCATION:Parque Tecnologico de Itaipú\, Fóz do Iguaçú\, Brazil
+SUMMARY:MozEdu in Latinoware 2013
+DESCRIPTION:Mozilla Education: Firefox\, an educative focus. alk about all
+  the different stuff people from Mozilla Hispano in Latin America are doin
+ g on the education front.
+URL:https://reps.mozilla.org/e/mozedu-in-latinoware-2013/
+SEQUENCE:1
+X-COORDINATES-LAT:-25.4339735258
+X-COORDINATES-LON:-54.5831680298
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

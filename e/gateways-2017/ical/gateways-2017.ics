@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6935
+CLASS:PUBLIC
+DTSTAMP:20200423T104259Z
+DTSTART:20170905T183000Z
+DTEND:20170906T183000Z
+LOCATION:Christ University  Hosur Road\, Bangalore\, India
+SUMMARY:GATEWAYS 2017
+DESCRIPTION:Gateways is the national level inter-collegiate post graduate 
+ IT fest organized by the Department of Computer Science\, Christ Universit
+ y. It provides the much-needed exposure which is a prerequisite to survive
+  in the IT industry. Participants compete in numerous technical and non-te
+ chnical events that are both entertaining and intellectually challenging. 
+ We are proud to present the 21st version of Gateways\, with which we conti
+ nue our tradition to benefit the students in
+URL:https://reps.mozilla.org/e/gateways-2017/
+SEQUENCE:6
+X-COORDINATES-LAT:12.939032071
+X-COORDINATES-LON:77.6087784022
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

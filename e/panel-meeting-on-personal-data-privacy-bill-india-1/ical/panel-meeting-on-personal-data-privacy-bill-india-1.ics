@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8690
+CLASS:PUBLIC
+DTSTAMP:20200423T082030Z
+DTSTART:20190713T090000Z
+DTEND:20190713T120000Z
+LOCATION:DevX\, Ahmedabad\, India
+SUMMARY:Panel Meeting on &#34;Personal Data Privacy Bill - India&#34;
+DESCRIPTION:Mozilla Global Policy Head Jochai Ben-Avie and Policy Fellow A
+ mba Kak will be visiting Ahmedabad to communicate the updates on privacyfi
+ rst.in campaign and Mozilla campaign on India&#39;s Personal Data Privacy Prot
+ ection Bill.\n\nDiscussing Privacy and taking suggestions on the action pl
+ an for the future.
+URL:https://reps.mozilla.org/e/panel-meeting-on-personal-data-privacy-bill
+ -india-1/
+SEQUENCE:1
+X-COORDINATES-LAT:23.0309629751
+X-COORDINATES-LON:72.5299279683
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

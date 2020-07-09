@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4030
+CLASS:PUBLIC
+DTSTAMP:20200423T170427Z
+DTSTART:20150710T033000Z
+DTEND:20150710T093000Z
+LOCATION:S.NO 39\, Dhayari Road\, Narhe\, 411041\, Pune\, India
+SUMMARY:Club launch at ZEs&#39;DCOER and Firefox for android awareness
+DESCRIPTION:This event is the inauguration and club launch of the Firefox 
+ Club at Dnyanganga College of Engineering &amp; Research\, Pune and also\, mai
+ nly\, spreading awareness of Firefox for Android.
+URL:https://reps.mozilla.org/e/club-launch-dnyanganga-college-firefox-for-
+ android-awareness/
+SEQUENCE:6
+X-COORDINATES-LAT:18.5111108306
+X-COORDINATES-LON:73.857563
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

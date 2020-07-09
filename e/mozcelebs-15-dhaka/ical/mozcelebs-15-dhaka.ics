@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@697
+CLASS:PUBLIC
+DTSTAMP:20200423T215757Z
+DTSTART:20130331T100000Z
+DTEND:20130331T120000Z
+LOCATION:Star Restaurant\, Dhanmondi\, Dhaka (Near City College)\, Dhaka\,
+  Bangladesh
+SUMMARY:MozCelebs 15 @ Dhaka
+DESCRIPTION:is the birthday of the Mozilla community. Will discuss about M
+ ozilla history\, why Mozilla was created. General discussion between commu
+ nity members.
+URL:https://reps.mozilla.org/e/mozcelebs-15-dhaka/
+SEQUENCE:13
+X-COORDINATES-LAT:23.7393905124
+X-COORDINATES-LON:90.3813242912
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

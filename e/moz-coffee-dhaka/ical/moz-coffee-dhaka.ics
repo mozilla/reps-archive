@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3934
+CLASS:PUBLIC
+DTSTAMP:20200423T171314Z
+DTSTART:20150617T043000Z
+DTEND:20150617T070000Z
+LOCATION:Stamford University Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Moz Coffee @ Stamford University
+DESCRIPTION:MozCoffee will be an event to support the Spring Campaign
+URL:https://reps.mozilla.org/e/moz-coffee-dhaka/
+SEQUENCE:6
+X-COORDINATES-LAT:24.2194143934
+X-COORDINATES-LON:89.7727203369
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

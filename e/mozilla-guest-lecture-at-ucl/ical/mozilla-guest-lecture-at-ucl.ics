@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6244
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20170131T120000Z
+DTEND:20170131T140000Z
+LOCATION:Anatomy Building\, UCL\, London\, United Kingdom
+SUMMARY:Mozilla guest lecture at UCL
+DESCRIPTION:Mozilla speakers will be giving a lecture at University Colleg
+ e London. The talk will include various it topics:\n- Firefox Developer To
+ ols (Alex Lakatos)\;\n- Web language possibilities: PhoneGap (Alex Lakatos
+ )\;\n- Building and launching a website (Petras Slekys)\;\n- Modern DevOps
+  architecture for big corporations (Petras Slekys)\;\n- The limitless HTML
+  (Jean-Yves Perrier).
+URL:https://reps.mozilla.org/e/mozilla-guest-lecture-at-ucl/
+SEQUENCE:2
+X-COORDINATES-LAT:51.5235172605
+X-COORDINATES-LON:-0.133468687709
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

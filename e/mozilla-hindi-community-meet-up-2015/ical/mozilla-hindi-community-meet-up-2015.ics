@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4045
+CLASS:PUBLIC
+DTSTAMP:20200407T174820Z
+DTSTART:20150905T033000Z
+DTEND:20150906T113000Z
+LOCATION:Centre for the study of developing societies\, New Delhi\, India
+SUMMARY:Mozilla Hindi Community Meet-up 2015
+DESCRIPTION:An invitation only event hosted by Mozilla l10n Community in I
+ ndia with active and new contributors.  \n\nThis event will mainly focus o
+ n increasing the download of Firefox for Desktop and Firefox for Android b
+ y  reviewing important projects\, translating more projects\, reviewing  t
+ ranslated projects and training new localizers.
+URL:https://reps.mozilla.org/e/mozilla-hindi-community-meet-up-2015/
+SEQUENCE:8
+X-COORDINATES-LAT:28.5539678211
+X-COORDINATES-LON:77.2895506024
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4756
+CLASS:PUBLIC
+DTSTAMP:20200407T174925Z
+DTSTART:20151017T060000Z
+DTEND:20151018T140000Z
+LOCATION:commundo\, Leipzig\, Leipzig\, Germany
+SUMMARY:Developer Open Space 2015
+DESCRIPTION:This is an uncoference event and Michael Schloh von Bennewitz 
+ will participate holding Firefox OS workshops
+URL:https://reps.mozilla.org/e/developer-open-space-2015/
+SEQUENCE:1
+X-COORDINATES-LAT:51.3451785934
+X-COORDINATES-LON:12.378341672
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8595
+CLASS:PUBLIC
+DTSTAMP:20200407T174113Z
+DTSTART:20190622T130000Z
+DTEND:20190622T190000Z
+LOCATION:TBD\, Santiago\, Chile
+SUMMARY:Beta Bughuntathon Chile
+DESCRIPTION:Become a Beta Testing BugHunter\nMay \n15\n - \nJune \n18\n\nM
+ ozilla is launching a NEW Android web browser and we need your help to get
+  it ready for the free and open web. We’re asking YOU to become a fearle
+ ss beta tester and BUG HUNTER to gather with friends and family\, install 
+ this brand new browser and test it until you can test no more!\n\n\nRSVP f
+ or this campaign and help us get 500 installs\, 200 bugs filed\, and 100 d
+ aily users. Are you ready to become a BugHunter?
+URL:https://reps.mozilla.org/e/bughuntathon-chile/
+SEQUENCE:10
+X-COORDINATES-LAT:-33.4711626207
+X-COORDINATES-LON:-70.4560545087
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

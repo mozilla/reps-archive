@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8405
+CLASS:PUBLIC
+DTSTAMP:20200407T165027Z
+DTSTART:20190323T033000Z
+DTEND:20190324T113000Z
+LOCATION:Lovely Professional University\, Jalandhar\, India
+SUMMARY:Dive Into Open Source
+DESCRIPTION:In order to promote Open Source and the misson of Mozilla\, Mo
+ zilla Punjab is organising a two day event on Open Source Technologies. Th
+ e event is open to all and is aimed towards increasing advocacy about Open
+  Source and encouraging students to contribute to Open Source.
+URL:https://reps.mozilla.org/e/dive-into-open-source-1/
+SEQUENCE:2
+X-COORDINATES-LAT:31.2211572041
+X-COORDINATES-LON:75.7680416072
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

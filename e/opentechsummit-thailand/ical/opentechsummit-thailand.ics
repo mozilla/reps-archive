@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8849
+CLASS:PUBLIC
+DTSTAMP:20200407T170241Z
+DTSTART:20191001T023000Z
+DTEND:20191002T123000Z
+LOCATION:The Knowledge Exchange: KX Thanon Krung Thon Buri\, Bangkok\, Ban
+ gkok\, Thailand
+SUMMARY:OpenTechSummit Thailand
+DESCRIPTION:OpenTechSummits are premier Free and Open Source technology ev
+ ents for developers\, start-ups\, and contributors. Projects at the event 
+ range from open hardware\, to design\, graphics and software. The first Op
+ enTechSummit was established in 2009. Previous events took place in Vietna
+ m\, Germany\, Thailand\, Cambodia\, China\, and India.
+URL:https://reps.mozilla.org/e/opentechsummit-thailand/
+SEQUENCE:1
+X-COORDINATES-LAT:13.6832393877
+X-COORDINATES-LON:100.569580067
+X-COUNTRY-CODE:th
+END:VEVENT
+
+END:VCALENDAR

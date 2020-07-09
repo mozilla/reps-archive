@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6908
+CLASS:PUBLIC
+DTSTAMP:20200423T104846Z
+DTSTART:20170811T030000Z
+DTEND:20170814T030000Z
+LOCATION:Universidad Nacional de Asunción\, Asunción\, Paraguay
+SUMMARY:L10n - 2017 Asuncion Workshop
+DESCRIPTION:Core focus:\n* Rebuilding communities\n* Evangelizing localize
+ d products\n* Quality\n* Training on tooling changes
+URL:https://reps.mozilla.org/e/l10n-2017-asuncion-workshop/
+SEQUENCE:1
+X-COORDINATES-LAT:-25.3375076
+X-COORDINATES-LON:-57.5224504
+X-COUNTRY-CODE:py
+END:VEVENT
+
+END:VCALENDAR

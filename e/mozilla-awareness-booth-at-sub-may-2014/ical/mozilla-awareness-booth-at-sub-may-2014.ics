@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2221
+CLASS:PUBLIC
+DTSTAMP:20200423T195030Z
+DTSTART:20140513T050000Z
+DTEND:20140514T100000Z
+LOCATION:TBD\, Wari\, Bangladesh
+SUMMARY:Mozilla Awareness Booth at SUB\, May 2014
+DESCRIPTION:Firefox Club of SUB has decided to let the students of their u
+ niversity know about them through a Awareness Booth. They plan to organize
+  frequent events all through rest of the year starting off with this Aware
+ ness Booth.
+URL:https://reps.mozilla.org/e/mozilla-awareness-booth-at-sub-may-2014/
+SEQUENCE:9
+X-COORDINATES-LAT:23.7453206408
+X-COORDINATES-LON:90.4087285995
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

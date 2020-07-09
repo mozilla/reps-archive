@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5778
+CLASS:PUBLIC
+DTSTAMP:20200407T175506Z
+DTSTART:20161019T120000Z
+DTEND:20161021T210000Z
+LOCATION:Parque Tecnológico Itaipu\, Foz do Iguacu\, Brazil
+SUMMARY:13ª Conferência Latino-americana de Software Livre
+DESCRIPTION:Latinoware opens up space for discussion and reflection on the
+  deployment of open source software in Latin America. The public consist a
+ mong students\, professionals and specialists from the area and also inter
+ national celebrities and representatives from public and private agencies 
+ of different countries of Latin America. In the last edition\, the event h
+ ad 4.259 participants and 230 speakers in activities related the world of 
+ I.T. and free software.
+URL:https://reps.mozilla.org/e/13a-conferencia-latino-americana-de-softwar
+ e-livre/
+SEQUENCE:23
+X-COORDINATES-LAT:-25.5263840583
+X-COORDINATES-LON:-54.5742187556
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

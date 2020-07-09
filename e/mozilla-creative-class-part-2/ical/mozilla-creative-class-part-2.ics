@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2158
+CLASS:PUBLIC
+DTSTAMP:20200407T175915Z
+DTSTART:20140506T020000Z
+DTEND:20140506T050000Z
+LOCATION:Universitas Dian Nuswantoro\, Semarang\, Indonesia
+SUMMARY:Mozilla Creative Class (Part 2)
+DESCRIPTION:Mini seminar and workshop from Universitas Dian Nuswantoro tha
+ t held by Udinus Firefox Club. Topic : Get to know more about Firefox OS. 
+ Content : Introduction to Firefox Student Ambassador program and Udinus Fi
+ refox Club\, Introduction to Firefox OS (Update from MWC)\, Introductiom t
+ o Mozilla Project. This event also helped by Dinus Open Source Community\,
+  an open source community from the university.
+URL:https://reps.mozilla.org/e/mozilla-creative-class-part-2/
+SEQUENCE:7
+X-COORDINATES-LAT:-6.98125438151
+X-COORDINATES-LON:110.409632921
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7812
+CLASS:PUBLIC
+DTSTAMP:20200423T093141Z
+DTSTART:20180526T033000Z
+DTEND:20180526T123000Z
+LOCATION:ISDI ACE\, Mumbai\, Mumbai\, India
+SUMMARY:Moz Stall @ ReactFoo Mumbai
+DESCRIPTION:The Mumbai edition will focus on the following topics:\nSucces
+ s and failure stories of implementing React and React Native for your use-
+ case.Your experiences with alternatives to React – such as Angular\, Vue
+ \, and other frameworks – why these worked/did not work for your use-cas
+ e.Front-end architecture patterns and approaches with React.Mobile enginee
+ ring with React Native or alternatives.\n\nReactFoo Mumbai is an event for
+  JavaScript and front-end engineers\, cross-platform developers.
+URL:https://reps.mozilla.org/e/moz-stall-reactfoo-mumbai/
+SEQUENCE:3
+X-COORDINATES-LAT:19.2272561
+X-COORDINATES-LON:72.988165
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

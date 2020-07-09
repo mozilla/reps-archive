@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5167
+CLASS:PUBLIC
+DTSTAMP:20200423T154506Z
+DTSTART:20160228T120000Z
+DTEND:20160228T170000Z
+LOCATION:Rosmerta Technologies Ltd. 101\, Ground Floor\, Anuja Apartment- 
+ 2\, Tilak Marg\, Dalibagh\, Lucknow\, India
+SUMMARY:Hindi L10n Training &amp; Sprint
+DESCRIPTION:First we will start the session by telling the newbies about l
+ 10n. There will be a localization sprint in the end so that new contributo
+ rs can have a hand on experience on the L10n projects. This event include 
+ a one day hackathon on Mozilla Localization. A great chance for newbies to
+  start contributing to as Mozilla Localization.
+URL:https://reps.mozilla.org/e/hindi-l10n-training-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:26.8214154688
+X-COORDINATES-LON:80.8644103445
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

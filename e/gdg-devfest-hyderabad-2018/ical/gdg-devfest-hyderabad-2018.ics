@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8189
+CLASS:PUBLIC
+DTSTAMP:20200407T181213Z
+DTSTART:20181027T043000Z
+DTEND:20181028T123000Z
+LOCATION:Google Office\, Survey No. 13\, DivyaSree Omega\, Kondapur Villag
+ e\, Kothaguda\, Hyderabad\, Telangana 500084\, Hyderabad\, India
+SUMMARY:GDG DevFest Hyderabad 2018
+DESCRIPTION:4 Mozillians are speaking at GDG DevFest Hyderabad 2018
+URL:https://reps.mozilla.org/e/gdg-devfest-hyderabad-2018/
+SEQUENCE:0
+X-COORDINATES-LAT:17.4581523661
+X-COORDINATES-LON:78.3726911538
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

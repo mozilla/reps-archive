@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7862
+CLASS:PUBLIC
+DTSTAMP:20200407T174120Z
+DTSTART:20180510T080000Z
+DTEND:20180512T160000Z
+LOCATION:Cambdrige\,UK\, Cambridge\, United Kingdom
+SUMMARY:eLife Innovation Sprint / Mozilla Global Sprint
+DESCRIPTION:This was an in-person event in Cambridge\, UK. The plan was to
+  ensure projects are worked on openly during the event\, such that it shou
+ ld be possible to follow online and contribute virtually. In particular\, 
+ the eLife Innovation Sprint was an Associate Event to the Mozilla Global S
+ print\, an annual global collaborative event to hack and build projects fo
+ r a healthy internet.
+URL:https://reps.mozilla.org/e/elife-innovation-sprint/
+SEQUENCE:1
+X-COORDINATES-LAT:51.4517249757
+X-COORDINATES-LON:0.0322267413139
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

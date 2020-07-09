@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1353
+CLASS:PUBLIC
+DTSTAMP:20200423T205654Z
+DTSTART:20131026T140000Z
+DTEND:20131026T180000Z
+LOCATION:Universidad Católica\, San José\, Costa Rica
+SUMMARY:Firefox Add-on Workshop - Costa Rica
+DESCRIPTION:Learn how to create Firefox add-ons. We will show you how to c
+ reate simple userscripts and where to learn about more advanced add-on dev
+ elopment. We will reward those participants who show us the best demos by 
+ the end.
+URL:https://reps.mozilla.org/e/firefox-add-on-workshop/
+SEQUENCE:4
+X-COORDINATES-LAT:9.96281688009
+X-COORDINATES-LON:-84.0396487713
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

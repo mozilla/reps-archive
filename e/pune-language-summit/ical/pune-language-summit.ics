@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@281
+CLASS:PUBLIC
+DTSTAMP:20200407T165852Z
+DTSTART:20121106T033000Z
+DTEND:20121107T143000Z
+LOCATION:Red Hat\, Pune\, India
+SUMMARY:Pune Language Summit
+DESCRIPTION:A meeting of representatives of different software companies a
+ nd communities\, mostly from the Free Software world\, to discuss major i1
+ 8n issues and challenges.
+URL:https://reps.mozilla.org/e/pune-language-summit/
+SEQUENCE:0
+X-COORDINATES-LAT:18.515729
+X-COORDINATES-LON:73.927195
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

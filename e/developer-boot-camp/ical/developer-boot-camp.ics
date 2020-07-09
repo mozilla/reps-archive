@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2471
+CLASS:PUBLIC
+DTSTAMP:20200407T175416Z
+DTSTART:20140808T103000Z
+DTEND:20140810T123000Z
+LOCATION:TBD\, Cochin\, India
+SUMMARY:Developer Boot Camp
+DESCRIPTION:Developer Camp is an event to introduce existing programmers a
+ nd geeks working with code to the open  source projects and community with
+  it bring more code contributers to Mozilla Projects.
+URL:https://reps.mozilla.org/e/developer-boot-camp/
+SEQUENCE:13
+X-COORDINATES-LAT:10.0918761742
+X-COORDINATES-LON:76.3448753353
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

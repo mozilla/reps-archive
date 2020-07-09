@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7116
+CLASS:PUBLIC
+DTSTAMP:20200407T174125Z
+DTSTART:20170910T080000Z
+DTEND:20170911T160000Z
+LOCATION:Auditori AXA\, Barcelona\, Spain
+SUMMARY:Speaking @ FullStack Fest 2017
+DESCRIPTION:A week-long full stack development conference with a focus on 
+ solving current problems with new &amp; inspiring perspectives.\n\nWe&#39;re putti
+ ng the languages aside to put a strong focus on the technologies behind th
+ em and the problems they&#39;re trying to solve. At its core\, the conference 
+ retains its soul: A single-track\, curated\, deeply technical event featur
+ ing the best speakers and industry leaders worldwide.
+URL:https://reps.mozilla.org/e/speaking-fullstack-fest-2017/
+SEQUENCE:2
+X-COORDINATES-LAT:41.4200746738
+X-COORDINATES-LON:2.13684082031
+X-COUNTRY-CODE:es
+END:VEVENT
+
+END:VCALENDAR

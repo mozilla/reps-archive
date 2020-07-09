@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@673
+CLASS:PUBLIC
+DTSTAMP:20200423T214846Z
+DTSTART:20130427T020000Z
+DTEND:20130427T060000Z
+LOCATION:SMA Muhammadiyah 1 Bangkalan &amp; SMAN 4 Bangkalan\, Bangkalan - Mad
+ ura\, Indonesia
+SUMMARY:MozSekolah Madura
+DESCRIPTION:We will visit 2 senior high schools in Madura (SMA Muhammadiya
+ h 1 Bangkalan &amp; SMAN 4 Bangkalan) and talk/teach about Mozilla and Mozilla
+  Webmaker. This event will be a pilot project for Webmaker/HIVE event in I
+ ndonesia (Hive Surabaya/Hive Indonesia) to create generation of webmaker i
+ n Indonesia.
+URL:https://reps.mozilla.org/e/mozsekolah-madura/
+SEQUENCE:3
+X-COORDINATES-LAT:-7.09135326451
+X-COORDINATES-LON:112.760925293
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

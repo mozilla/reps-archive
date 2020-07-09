@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4674
+CLASS:PUBLIC
+DTSTAMP:20200423T184318Z
+DTSTART:20141020T140000Z
+DTEND:20141022T000000Z
+LOCATION:AV. GENERAL RAMON CORONA 2514\, NUEVO MÉXICO\, Zapopan\, Mexico
+SUMMARY:INTEL SOFTWARE DAY GUADALAJARA
+DESCRIPTION:An event focused on technology\, innovation and a lot of softw
+ are development\, which aims to approach a new Mexican ecosystem through l
+ ectures\, techniques and demonstrations on topics like Internet\, Cloud\, 
+ Open Source and more
+URL:https://reps.mozilla.org/e/intel-software-day-guadalajara/
+SEQUENCE:0
+X-COORDINATES-LAT:20.722053026
+X-COORDINATES-LON:-103.39125824
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4090
+CLASS:PUBLIC
+DTSTAMP:20200423T165956Z
+DTSTART:20150724T050000Z
+DTEND:20150724T070000Z
+LOCATION:La Consolacion College Bacolod\, Bacolod City\, Philippines
+SUMMARY:Webmaker Party for College Freshmen Students @ LCC Bacolod
+DESCRIPTION:This Mozilla Club event will discuss about Webmaker tools (App
+ maker\, Thimble\, Xray Goggles\, Popcorn Maker) to Freshmen Students of La
+  Consolacion College\, Bacolod City
+URL:https://reps.mozilla.org/e/webmaker-party-for-college-freshmen-student
+ s-lcc-bacolod/
+SEQUENCE:3
+X-COORDINATES-LAT:10.6870696284
+X-COORDINATES-LON:122.957910061
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

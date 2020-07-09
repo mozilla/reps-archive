@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@52
+CLASS:PUBLIC
+DTSTAMP:20200423T230130Z
+DTSTART:20120915T130000Z
+DTEND:20120915T230000Z
+LOCATION: Instituto Técnico Central de la Salle\, Bogotá\, Colombia
+SUMMARY:Software Freedom Day - Bogotá 2012
+DESCRIPTION:SFD is a yearly celebration for Software Freedom. Every year t
+ here are thousands teams organizing Software Freedom Day in different coun
+ tries and cities.  In Colombia there are a lot of cities that are organizi
+ ng the event. Mozilla Colombia wants that Mozilla becomes sponsor of this 
+ event and ofcourse we will have our community members as speakers 
+URL:https://reps.mozilla.org/e/software-freedom-day-bogota-2012/
+SEQUENCE:0
+X-COORDINATES-LAT:4.60531054825
+X-COORDINATES-LON:-74.0811431408
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2753
+CLASS:PUBLIC
+DTSTAMP:20200423T190119Z
+DTSTART:20140913T043000Z
+DTEND:20140913T123000Z
+LOCATION:Colour Box\, Building no: 25\, 90 Feet Road\, Dharavi\, Mumbai\, 
+ INDIA 400 017\, Mumbai\, India
+SUMMARY:Dharavi Makerparty (COMIC BOOK CREATION IN MUMBAI)
+DESCRIPTION:There will be students participating for the 4 day workshop. F
+ or the first part\, they will be sketching and creating comic book panels 
+ focused on social issues in their community. All of the artwork would have
+  been sketched and scanned as JPGs into the computers. Then everyone would
+  love to learn how to make GIF files using Mozilla Popcorn
+URL:https://reps.mozilla.org/e/dharavi-makerparty-comic-book-creation-in-m
+ umbai/
+SEQUENCE:7
+X-COORDINATES-LAT:19.0003979651
+X-COORDINATES-LON:72.8583297506
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

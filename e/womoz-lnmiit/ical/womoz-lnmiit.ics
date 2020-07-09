@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4690
+CLASS:PUBLIC
+DTSTAMP:20200423T162442Z
+DTSTART:20151024T053000Z
+DTEND:20151024T093000Z
+LOCATION:LNMIIT\, Jaipur\, India
+SUMMARY:Womoz @ LNMIIT
+DESCRIPTION:This event is aiming at bringing more female contributors in t
+ he community. The students will have opportunity to get trained by current
+  contributors and will be explained why and how to contribute to opensourc
+ e.
+URL:https://reps.mozilla.org/e/womoz-lnmiit/
+SEQUENCE:1
+X-COORDINATES-LAT:26.8991089917
+X-COORDINATES-LON:75.8480644226
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

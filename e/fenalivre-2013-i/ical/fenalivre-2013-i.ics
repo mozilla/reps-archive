@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@591
+CLASS:PUBLIC
+DTSTAMP:20200407T181121Z
+DTSTART:20130525T110000Z
+DTEND:20130525T200000Z
+LOCATION:Rua Senador Pinheiro\, 304\, Passo Fundo\, Brazil
+SUMMARY:FENALIVRE 2013 I
+DESCRIPTION:The Nacional Festival of Free Culture (FENALIVRE in pt-BR) hap
+ pens every six months and it&#39;s organized by the open source community of P
+ asso Fundo. It aims to spread the open source culture to everyone\, engagi
+ ng people to create a collaborative way of working around Passo Fundo.\n\n
+ This semester\, we&#39;ll have lots of open-source technologies presentations.
+ .. like:\n\n- FirefoxOS\n- Ubuntu Phone\n- Android\n- Red Hat\n- Arduino
+URL:https://reps.mozilla.org/e/fenalivre-2013-i/
+SEQUENCE:1
+X-COORDINATES-LAT:-28.2653894539
+X-COORDINATES-LON:-52.3971140385
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

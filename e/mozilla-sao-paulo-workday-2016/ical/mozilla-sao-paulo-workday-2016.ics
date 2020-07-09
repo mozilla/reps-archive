@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5326
+CLASS:PUBLIC
+DTSTAMP:20200423T152411Z
+DTSTART:20160521T160000Z
+DTEND:20160521T210000Z
+LOCATION:Faculdade Impacta Tecnologia\, Sao Paulo\, Brazil
+SUMMARY:Mozilla São Paulo Workday 2016
+DESCRIPTION:Mozilla São Paulo Workday is a meeting Mozillians of São Pau
+ lo and Region to welcome the new mozillians\, present the activities that 
+ are being developed in the region\, present new Mozilla programs and how v
+ olunteers can get involved\, perform use training the Mozilla tools and cr
+ eate an activity plan for the region.
+URL:https://reps.mozilla.org/e/mozilla-sao-paulo-workday-2016/
+SEQUENCE:22
+X-COORDINATES-LAT:-23.5299235904
+X-COORDINATES-LON:-46.6773433692
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

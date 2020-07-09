@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8475
+CLASS:PUBLIC
+DTSTAMP:20200423T082755Z
+DTSTART:20190525T010000Z
+DTEND:20190525T050000Z
+LOCATION:TBD\, Surulere\, Nigeria
+SUMMARY:Intro To Rust
+DESCRIPTION:This event aims at providing an introduction to Rust Programmi
+ ng Language to beginners here in Lagos\, Nigeria.
+URL:https://reps.mozilla.org/e/intro-to-rust/
+SEQUENCE:3
+X-COORDINATES-LAT:6.5038863
+X-COORDINATES-LON:3.37446
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

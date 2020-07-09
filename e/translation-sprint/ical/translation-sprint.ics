@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2880
+CLASS:PUBLIC
+DTSTAMP:20200407T175313Z
+DTSTART:20150430T110000Z
+DTEND:20150504T120000Z
+LOCATION:Welcome Centre\, Lagos\, Lagos\, Nigeria
+SUMMARY:Firefox &amp; FirefoxOS Translation Sprint
+DESCRIPTION:Firefox and FirefoxOS translations into Yoruba &amp; Igbo Language
+  have received a significant push from the local communities in Nigeria\, 
+ South Africa and the other parts of the world in the last few months. With
+  FirefoxOS translation into Yoruba at 25% and Firefox at 15%\, we will be 
+ meeting face-to-face for the first time to push the translations to comple
+ tion.   \n\nThis event is a meetup featuring the active members and intere
+ sted persons and will focus on the Yoruba &amp; Igbo translations.
+URL:https://reps.mozilla.org/e/translation-sprint/
+SEQUENCE:9
+X-COORDINATES-LAT:6.45240159536
+X-COORDINATES-LON:3.39452361921
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

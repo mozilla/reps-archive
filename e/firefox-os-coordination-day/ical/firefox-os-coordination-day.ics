@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1299
+CLASS:PUBLIC
+DTSTAMP:20200407T180506Z
+DTSTART:20130918T133000Z
+DTEND:20130918T183000Z
+LOCATION:Balans Studio - Coworking Subotica\, Subotica\, Serbia
+SUMMARY:Firefox OS coordination day
+DESCRIPTION:Serbian Firefox OS core team is going to meet with Brian King 
+ at Balans Studio - Coworking Subotica\, where we will talk about our plans
+  for launching Firefox OS in Serbia. \n\nBeside Firefox OS core team\, Moz
+ illians who have contributed in last 3 months will also join the meeting w
+ here they will talk about their plans in community\, how to make their wor
+ k better\, and how can we improve our community. \n\nSerbian community is 
+ also meeting due to founding NGO - Mozilla Serbia.
+URL:https://reps.mozilla.org/e/firefox-os-coordination-day/
+SEQUENCE:3
+X-COORDINATES-LAT:46.0998478347
+X-COORDINATES-LON:19.6533179283
+X-COUNTRY-CODE:rs
+END:VEVENT
+
+END:VCALENDAR

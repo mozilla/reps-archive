@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2202
+CLASS:PUBLIC
+DTSTAMP:20200407T173720Z
+DTSTART:20140621T070000Z
+DTEND:20140622T170000Z
+LOCATION:16bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Mozilla Paris Bugs Squashing Party
+DESCRIPTION:A whole week-end to find and resolve bugs through Bugzilla and
+  Github.\nLearn what Bugzilla and Github are\, and how it works\, and then
+ \, enjoy thanks to some specialists ! There will be some specialists for e
+ very language Mozilla is using. \nGuest star : Josh Matthews\, the creator
+  of Bugs Ahoy!
+URL:https://reps.mozilla.org/e/paris-bugzilla-squashing-party/
+SEQUENCE:13
+X-COORDINATES-LAT:48.8720152799
+X-COORDINATES-LON:2.340783298
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

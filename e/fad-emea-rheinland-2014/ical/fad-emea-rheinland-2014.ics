@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3260
+CLASS:PUBLIC
+DTSTAMP:20200423T182034Z
+DTSTART:20141205T160000Z
+DTEND:20141207T160000Z
+LOCATION:Open Sky Seminarhouse\, Stadtteil Neuss\, Germany
+SUMMARY:FAD EMEA Rheinland 2014
+DESCRIPTION:The Fedora Activity Day (FAD) is a regional event (either one-
+ day or a multi-day) that allows Fedora contributors to gather together in 
+ order to work on specific tasks related to the Fedora Project.
+URL:https://reps.mozilla.org/e/fad-emea-rheinland-2014/
+SEQUENCE:2
+X-COORDINATES-LAT:51.1864358518
+X-COORDINATES-LON:6.76955795148
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8656
+CLASS:PUBLIC
+DTSTAMP:20200423T082322Z
+DTSTART:20190622T053000Z
+DTEND:20190622T103000Z
+LOCATION:IGDTUW\, Kashmere Gate\, New Delhi\, New Delhi\, India
+SUMMARY:Talks at IGDTUW - IGDTUW\, Delhi - 2019/06/22
+DESCRIPTION:Some of my community members and students are organising a tal
+ ks session in which some talks will be presented. Still\, I will be there 
+ to facilitate and give feedback at the event so that they can grow and bui
+ ld communities on their own.
+URL:https://reps.mozilla.org/e/talks-at-igdtuw-igdtuw-delhi-2019-06-22/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6644373864
+X-COORDINATES-LON:77.2329647539
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

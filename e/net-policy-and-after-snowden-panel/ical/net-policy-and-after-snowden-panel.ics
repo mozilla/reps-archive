@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2550
+CLASS:PUBLIC
+DTSTAMP:20200407T182527Z
+DTSTART:20140923T200000Z
+DTEND:20140923T213000Z
+LOCATION:Université du Montréal\, Montreal\, Canada
+SUMMARY:Net policy and after Snowden Panel
+DESCRIPTION:Panel in French language with Jérémie Zimmermann (Internatio
+ nal guest presented by Mozilla\, La Quadrature du Net co-founder)\, Vincen
+ t Gautrais (http://www.gautrais.com) and Fredy Rouge (RedPaTodos co-founde
+ r and Mozilla Volunteer.\n\nThe final go is the Invitation to create a loc
+ al netpolicy group.
+URL:https://reps.mozilla.org/e/net-policy-and-after-snowden-panel/
+SEQUENCE:5
+X-COORDINATES-LAT:45.5039501392
+X-COORDINATES-LON:-73.6141309887
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

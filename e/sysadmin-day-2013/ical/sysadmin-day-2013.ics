@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1052
+CLASS:PUBLIC
+DTSTAMP:20200423T212403Z
+DTSTART:20130726T130000Z
+DTEND:20130726T200000Z
+LOCATION:TBD\, Budapest\, Hungary
+SUMMARY:Sysadmin Day 2013
+DESCRIPTION:Yearly meeting of System administrators and other techies.\n* 
+ Representing communities and programs: Mozilla\, LibreOffice\, Ubuntu and 
+ Fedora\n# Program\n* Introduce Firefox OS\n* Fill QUIZ with visitors\n* Ho
+ w to contribute to Mozilla\n* Recruit new members to Firefox OS Mobilizers
+URL:https://reps.mozilla.org/e/sysadmin-day-2013/
+SEQUENCE:9
+X-COORDINATES-LAT:47.5245040784
+X-COORDINATES-LON:19.0484046936
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

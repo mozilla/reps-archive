@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7170
+CLASS:PUBLIC
+DTSTAMP:20200407T180021Z
+DTSTART:20171020T170000Z
+DTEND:20171021T170000Z
+LOCATION:Chofu\, Tokyo\, Japan
+SUMMARY:OpenSUSE Asia Summit 2017
+DESCRIPTION:openSUSE.Asia Summit is one of the great events for openSUSE c
+ ommunity (i.e.\, both contributors\, and users) in Asia. Those who usually
+  communicate online can get together from all over the world\, talk face t
+ o face\, and have fun. Members of the community will share their most rece
+ nt knowledge\, experiences\, and learn FLOSS technologies surrounding open
+ SUSE.
+URL:https://reps.mozilla.org/e/opensuse-asia-summit-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:35.7806388332
+X-COORDINATES-LON:139.6357584
+X-COUNTRY-CODE:jp
+END:VEVENT
+
+END:VCALENDAR

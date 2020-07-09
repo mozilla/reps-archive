@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@675
+CLASS:PUBLIC
+DTSTAMP:20200423T215851Z
+DTSTART:20130329T113000Z
+DTEND:20130329T140000Z
+LOCATION:慶隆商務俱樂部 Ching Long Business Club\, Taipei City\, Ta
+ iwan
+SUMMARY:Mozilla 15th Anniversary Mini-party
+DESCRIPTION:Mozilla turns 15 on 3/31. MozTW will hold a mini-party during 
+ the weekly MozTW Lab (a MozCafe-like event) time with fellow Mozillians in
+  celebration of Mozilla&#39;s birthday!\n\nWe&#39;ll prepare a cake to share with 
+ all people who comes. Anyone is welcomed to join with us\, no matter you&#39;r
+ e a Mozillian or not :)
+URL:https://reps.mozilla.org/e/mozilla-15-years-mini-party/
+SEQUENCE:6
+X-COORDINATES-LAT:25.0344387539
+X-COORDINATES-LON:121.543979645
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1738
+CLASS:PUBLIC
+DTSTAMP:20200423T202109Z
+DTSTART:20140303T060000Z
+DTEND:20140303T080000Z
+LOCATION:North South University\, Ariful Haque Chowdhury Road\, Dhaka\, Dh
+ aka Division\, Bangladesh\, Banani Model Town\, Bangladesh
+SUMMARY:SUMO Day with NSUFSA
+DESCRIPTION:NSUFSA has been contributing to SUMO in an awesome way!They wi
+ ll host a SUMO Day where they will answer questions\, reply Firefox users 
+ around the globe\,localize SUMO articles.
+URL:https://reps.mozilla.org/e/sumo-day-with-nsufsa/
+SEQUENCE:9
+X-COORDINATES-LAT:23.8151851236
+X-COORDINATES-LON:90.4267208576
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

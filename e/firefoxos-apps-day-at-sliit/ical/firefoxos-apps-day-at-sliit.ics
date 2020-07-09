@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2375
+CLASS:PUBLIC
+DTSTAMP:20200407T180229Z
+DTSTART:20140726T033000Z
+DTEND:20140727T113000Z
+LOCATION:Sri Lanka Institute of Information Technology\, Malambe\, Sri Lan
+ ka
+SUMMARY:FirefoxOS Apps Day at SLIIT
+DESCRIPTION:. We are expecting around 50 students to participate. \n\nDay 
+ 1: HTML5 / Javascript / CSS3 \n\nBowser API Best practises Frameworks for 
+ WebApps \nHow to use the FirefoxOS simulator? \nHow to deploy an App throu
+ gh the App Manager? \nHow to submit an App the Mozilla Marketplace? \nHow 
+ convert FirefoxOS App to other OS \n\nDay 2 : FirefoxOS Application Develo
+ pment \n\n* There will be 5-6 FirefoxOS Developer (Keon) phones available
+URL:https://reps.mozilla.org/e/firefoxos-apps-day-at-sliit/
+SEQUENCE:3
+X-COORDINATES-LAT:6.9148779757
+X-COORDINATES-LON:79.9741015433
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

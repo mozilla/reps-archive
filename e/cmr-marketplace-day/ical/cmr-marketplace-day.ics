@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4916
+CLASS:PUBLIC
+DTSTAMP:20200423T160225Z
+DTSTART:20151219T033000Z
+DTEND:20151219T103000Z
+LOCATION:CMR Institute Of Technology\, Hyderabad\, Hyderabad\, India
+SUMMARY:CMR Marketplace Day
+DESCRIPTION:The main agenda is to cover concepts which are pre-requisite f
+ or code-base contribution to open source projects. So if you are looking f
+ or getting started with code-base contribution\, this is a good chance :)
+URL:https://reps.mozilla.org/e/cmr-marketplace-day/
+SEQUENCE:2
+X-COORDINATES-LAT:17.4380882
+X-COORDINATES-LON:78.3900414
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

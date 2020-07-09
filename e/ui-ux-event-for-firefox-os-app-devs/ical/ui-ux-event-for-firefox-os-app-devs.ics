@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2998
+CLASS:PUBLIC
+DTSTAMP:20200407T180532Z
+DTSTART:20141121T090000Z
+DTEND:20141121T120000Z
+LOCATION:Bishwo Shahitto Kendro (BSK)\, 14 Kazi Nazrul Islam Avenue\, Bang
+ lamotor\, Bangladesh
+SUMMARY:UI/UX event for Firefox OS app Devs
+DESCRIPTION:Firefox OS successfully lunched in Bangladesh. Already lots of
+  local apps and content available at Firefox Marketplace. And the number o
+ f apps are growing. But we noticed the available apps does not looks good 
+ and attractive because of bad UI/UX design of the apps. The main reason is
+ \, lack of enough knowledge and capacity of UI/UX design of the developers
+ . To increase the awareness and capacity of developers on UI/UX for Firefo
+ x OS apps we planned this event.
+URL:https://reps.mozilla.org/e/ui-ux-event-for-firefox-os-app-devs/
+SEQUENCE:5
+X-COORDINATES-LAT:23.7449670995
+X-COORDINATES-LON:90.3928306104
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

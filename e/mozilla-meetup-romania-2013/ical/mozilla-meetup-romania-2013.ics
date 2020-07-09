@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@376
+CLASS:PUBLIC
+DTSTAMP:20200407T165720Z
+DTSTART:20130412T170000Z
+DTEND:20130414T130000Z
+LOCATION:Cluj Cowork\, str. Emil Isac\, Cluj-Napoca\, Romania
+SUMMARY:Mozilla Meetup Romania 2013
+DESCRIPTION:Mozilla is organizing Mozilla Meetup Romania 2013. This meetin
+ g will gather Romanian contributors to Mozilla from all over Romania and R
+ epublic of Moldova. The schedule will consist of talks\, open discussions 
+ and social events.
+URL:https://reps.mozilla.org/e/mozilla-meetup-romania-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:46.7710413027
+X-COORDINATES-LON:23.5845297575
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

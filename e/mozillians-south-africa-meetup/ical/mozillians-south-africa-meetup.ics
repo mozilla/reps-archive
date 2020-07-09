@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3370
+CLASS:PUBLIC
+DTSTAMP:20200407T182403Z
+DTSTART:20150131T080000Z
+DTEND:20150131T140000Z
+LOCATION:Jozihub\, 44 Stanley Avenue\, Milpark\, Johannesburg\, Johannesbu
+ rg\, South Africa
+SUMMARY:Mozillians South Africa Meetup
+DESCRIPTION:Join other Mozillians in a day talking about community buildin
+ g\, web development\, Firefox OS development and hacking together on exist
+ ing projects or\, start something brand new.\n\nThere will be food and dri
+ nks and generally good times. You are not going to find a much better way 
+ to spend a Saturday than this \;)
+URL:https://reps.mozilla.org/e/mozillians-south-africa-meetup/
+SEQUENCE:4
+X-COORDINATES-LAT:-26.2950565014
+X-COORDINATES-LON:28.4465331584
+X-COUNTRY-CODE:za
+END:VEVENT
+
+END:VCALENDAR

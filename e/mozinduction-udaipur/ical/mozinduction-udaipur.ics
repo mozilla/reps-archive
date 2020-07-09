@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3108
+CLASS:PUBLIC
+DTSTAMP:20200423T183104Z
+DTSTART:20141115T103000Z
+DTEND:20141115T123000Z
+LOCATION:Shikshantar\, Udaipur\, India
+SUMMARY:MozInduction @ Udaipur
+DESCRIPTION:We have number of enthusiastic volunteers in Udaipur. This Eve
+ nt will be responsible for giving them an insight of all mozilla projects 
+ and how to start contribution to those projects. This event will let start
+  the individual contributions.
+URL:https://reps.mozilla.org/e/mozinduction-udaipur/
+SEQUENCE:2
+X-COORDINATES-LAT:25.6757741466
+X-COORDINATES-LON:75.8267210796
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

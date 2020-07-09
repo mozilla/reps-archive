@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4535
+CLASS:PUBLIC
+DTSTAMP:20200423T162814Z
+DTSTART:20151015T220000Z
+DTEND:20151017T220000Z
+LOCATION:DigitalOcean HQ\, 101 Avenue of the Americas\, New York\, NY 1001
+ 3\, New York\, United States
+SUMMARY:jQuery Open Source Developer Summit
+DESCRIPTION:A joint event by jQuery Foundation &amp; DigitalOcean for encourag
+ ing Open Source contributions and diversity in the tech scene. I&#39;ll be ( r
+ epresenting the Tessel open-source prototyping microcontroller project and
+  Mozilla.
+URL:https://reps.mozilla.org/e/jquery-open-source-developer-summit/
+SEQUENCE:3
+X-COORDINATES-LAT:40.7229816188
+X-COORDINATES-LON:-74.0044185
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

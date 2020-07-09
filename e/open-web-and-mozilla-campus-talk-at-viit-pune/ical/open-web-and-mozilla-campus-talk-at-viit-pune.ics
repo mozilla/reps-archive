@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1528
+CLASS:PUBLIC
+DTSTAMP:20200423T203627Z
+DTSTART:20140107T033000Z
+DTEND:20140107T053000Z
+LOCATION:Vishwakarma Institute of Information Technology (VIIT)\, Pune\, P
+ une\, India
+SUMMARY:Open Web and Mozilla Campus Talk at VIIT Pune
+DESCRIPTION:What is Open Web\, FOSS\, Introduction to Mozilla Foundation\,
+  Mission of Mozilla\, and Mozilla Products
+URL:https://reps.mozilla.org/e/open-web-and-mozilla-campus-talk-at-viit-pu
+ ne/
+SEQUENCE:6
+X-COORDINATES-LAT:18.4602268
+X-COORDINATES-LON:73.8836447
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

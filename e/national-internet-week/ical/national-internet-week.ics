@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3938
+CLASS:PUBLIC
+DTSTAMP:20200407T180124Z
+DTSTART:20150623T090000Z
+DTEND:20150627T210000Z
+LOCATION:Pavillon Arc-en-ciel  du SIAO\, Ouagadougou\, Burkina Faso
+SUMMARY:National Internet Week
+DESCRIPTION:The National Week of the Internet and other information and co
+ mmunications technology is an annual event which was established by the go
+ vernment since 2003. The overall aim is to promote and popularize the Inte
+ rnet and other information and communications technology. Mozilla Burkina 
+ community will have a presence at this event by opening a Booth\, launchin
+ g our localisation project and starting our support project to the cyber c
+ afé.
+URL:https://reps.mozilla.org/e/national-internet-week/
+SEQUENCE:4
+X-COORDINATES-LAT:12.3492135657
+X-COORDINATES-LON:-1.49094414694
+X-COUNTRY-CODE:bf
+END:VEVENT
+
+END:VCALENDAR

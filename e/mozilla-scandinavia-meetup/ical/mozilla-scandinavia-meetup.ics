@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1107
+CLASS:PUBLIC
+DTSTAMP:20200423T211756Z
+DTSTART:20130817T070000Z
+DTEND:20130817T150000Z
+LOCATION:Gfish ApS Trommesalen 5\, 1. sal 1614 Copenhagen\, Copenhagen\, D
+ enmark
+SUMMARY:Mozilla Scandinavia Meetup
+DESCRIPTION:Community building meetup for all Mozillians and anyone else i
+ nterested in the open web! We&#39;ll be focusing on localization\, how to get 
+ involved\, and community organization.
+URL:https://reps.mozilla.org/e/mozilla-scandinavia-meetup/
+SEQUENCE:14
+X-COORDINATES-LAT:55.6737730747
+X-COORDINATES-LON:12.5608921051
+X-COUNTRY-CODE:dk
+END:VEVENT
+
+END:VCALENDAR

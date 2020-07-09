@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6511
+CLASS:PUBLIC
+DTSTAMP:20200423T111457Z
+DTSTART:20170422T043000Z
+DTEND:20170422T103000Z
+LOCATION:T-Hub Hyderabad\, Hyderabad\, India
+SUMMARY:NASA Space Apps Challenge 2017
+DESCRIPTION:WebVR India Community to present Virtual Reality session at Sp
+ ace Apps Challenge\, an incubator innovation program of NASA.
+URL:https://reps.mozilla.org/e/nasa-space-apps-challenge-2017/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4537318
+X-COORDINATES-LON:78.3663983
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

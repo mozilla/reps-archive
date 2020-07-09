@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1943
+CLASS:PUBLIC
+DTSTAMP:20200423T201426Z
+DTSTART:20140320T030000Z
+DTEND:20140323T030000Z
+LOCATION:Bangalore\, India\, Bangalore\, India
+SUMMARY:Construkt Festival Bangalore 2014
+DESCRIPTION:Construkt Festival theme exactly matches with Hive India initi
+ atives. \n\nHive India will collaborate and lead the Maker + hacker tent a
+ t the festival. Also\, promoting experiential learning through the interes
+ ts of young people and the creative use of digital media. \n\nAbout Constr
+ ukt Festival:\n\nThey&#39;re working to create social\, digital and physical s
+ paces for creative communities to thrive. These spaces are built using the
+  Unstoppable DNA: learning\, sharing\, creating &amp; celebrating.
+URL:https://reps.mozilla.org/e/construkt-festival-bangalore-2013/
+SEQUENCE:8
+X-COORDINATES-LAT:12.977348877
+X-COORDINATES-LON:77.6202391461
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

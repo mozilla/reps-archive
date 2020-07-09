@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@185
+CLASS:PUBLIC
+DTSTAMP:20200423T224849Z
+DTSTART:20121105T160000Z
+DTEND:20121105T191000Z
+LOCATION:Casa de Cultură a Studenților\, Cluj Napoca\, Romania
+SUMMARY:Open Web\, Open Business
+DESCRIPTION:A meet-up about WebFWD and the start up status in Cluj Napoca.
+  \nMain guest: Diane Bisgeier \, Brian King (hopefully he will confirm) an
+ d other 3 local entrepreneurs. 
+URL:https://reps.mozilla.org/e/open-web-open-business/
+SEQUENCE:1
+X-COORDINATES-LAT:46.7668525828
+X-COORDINATES-LON:23.586230278
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

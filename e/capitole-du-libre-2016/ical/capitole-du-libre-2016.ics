@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5983
+CLASS:PUBLIC
+DTSTAMP:20200423T114513Z
+DTSTART:20161118T230000Z
+DTEND:20161119T230000Z
+LOCATION:École Nationale Supérieure d&#39;Électrotechnique\, d&#39;Électroniqu
+ e\, d&#39;Informatique\, d&#39;Hydraulique et des Télécommunications\, Toulouse\
+ , France
+SUMMARY:Capitole du Libre 2016
+DESCRIPTION:&#34;Capitole du Libre&#34; is an event in Toulouse\, France about fre
+ e software. This event is free and open to everyone. We&#39;ll manage a booth 
+ on Saturday/Sunday to give out swag\, make some Firefox demo\, answer ques
+ tions\, etc.
+URL:https://reps.mozilla.org/e/capitole-du-libre-2016/
+SEQUENCE:10
+X-COORDINATES-LAT:43.6011956412
+X-COORDINATES-LON:1.44062804058
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

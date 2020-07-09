@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7298
+CLASS:PUBLIC
+DTSTAMP:20200423T101253Z
+DTSTART:20171206T113000Z
+DTEND:20171208T133000Z
+LOCATION:Jaypee University of Engineering and Technology\, Guna\, India
+SUMMARY:Hour of Code - JUET\, Guna
+DESCRIPTION:The Hour of Code is a one-hour introduction to computer scienc
+ e\, designed to demystify code and show that anybody can learn the basics.
+ Hour of Code 2017\, a movement to recruit millions to try one hour of comp
+ uter science\, will take place during the second week of December every st
+ udent should have the opportunity to learn computer science. It helps nurt
+ ure problem-solving skills and creativity.
+URL:https://reps.mozilla.org/e/hour-of-code-juet-guna/
+SEQUENCE:4
+X-COORDINATES-LAT:24.6326493085
+X-COORDINATES-LON:77.3066425289
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

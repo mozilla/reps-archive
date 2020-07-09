@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5200
+CLASS:PUBLIC
+DTSTAMP:20200407T182309Z
+DTSTART:20160309T043000Z
+DTEND:20160310T123000Z
+LOCATION:Narnarayan Shastri Institute of Technology\, Jetalpur\,Ahmedabad\
+ , Ahmadabad\, India
+SUMMARY:Connected devices IOT - Avishkar 2016
+DESCRIPTION:AVISHKAR is a Tech Festival which is being organized by Narnar
+ ayan Shastri Institute of Technology since last 4 years. This is the first
+  time Mozilla will participate with them - Thanks to Mozilla Gujarat Commu
+ nity!  The tech fest will involve students and tech enthusiasts from all o
+ ver the city and state.
+URL:https://reps.mozilla.org/e/hive-india-avishkar-2016/
+SEQUENCE:3
+X-COORDINATES-LAT:23.0021698993
+X-COORDINATES-LON:72.5634098053
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

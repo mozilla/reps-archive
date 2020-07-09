@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4968
+CLASS:PUBLIC
+DTSTAMP:20200423T160101Z
+DTSTART:20151223T080000Z
+DTEND:20151223T093000Z
+LOCATION:Urumqi tenth primary school\, Urumqi\, China
+SUMMARY:Firefox Tianshan tour-  goggles do it is to look cool？
+DESCRIPTION:goggles cool is to be born\, he let creators have great sense 
+ of accomplishment! Causing great interest to learn html\, css!\n\n goggles
+ 就是为酷而生，他让创作者有很大的成就感！从而引起
+ 极大的兴趣去学习html ，css ！
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-gogglesshi-wei-liao-s
+ hua-ku-ma/
+SEQUENCE:4
+X-COORDINATES-LAT:43.7697250964
+X-COORDINATES-LON:2607.62735081
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

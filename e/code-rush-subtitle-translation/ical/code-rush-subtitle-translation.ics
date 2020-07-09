@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@27
+CLASS:PUBLIC
+DTSTAMP:20200407T175926Z
+DTSTART:20120804T060000Z
+DTEND:20120805T100000Z
+LOCATION:Mozilla Space\, Taipei\, Taiwan\, Taipei\, Taiwan
+SUMMARY:Code Rush Subtitle Translation
+DESCRIPTION:We organized the event to translating Code Rush subtitle into 
+ Trad. Chinese\, there&#39;re 13 people join the event altogether in the weeken
+ d\, and we successful reach the translate level to 100%.\n\nThere are 3 re
+ ps join in the event include thomasy\, and the event were hold by bobchao 
+ and irvin.
+URL:https://reps.mozilla.org/e/code-rush-subtitle-translation/
+SEQUENCE:0
+X-COORDINATES-LAT:25.0323584636
+X-COORDINATES-LON:121.567625999
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

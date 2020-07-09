@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3965
+CLASS:PUBLIC
+DTSTAMP:20200407T174223Z
+DTSTART:20150919T160000Z
+DTEND:20150920T010000Z
+LOCATION:BitCenter\, BitCenter\, Mexico
+SUMMARY:Software Freedom Day Tijuana 2015
+DESCRIPTION:Every year the &#34;Grupo de Usuarios GNU/Linux de Tijuana&#34; (Tijua
+ na GNU/Linux Users Group) organizes the Software Freedom Day\, which is th
+ e biggest FLOSS event in the region. It is a full day of talks\, workshops
+  and hackatons.
+URL:https://reps.mozilla.org/e/software-freedom-day-tijuana-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:32.5082554443
+X-COORDINATES-LON:-116.989559412
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

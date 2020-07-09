@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3770
+CLASS:PUBLIC
+DTSTAMP:20200407T174241Z
+DTSTART:20150416T213000Z
+DTEND:20150416T220000Z
+LOCATION:Instituto Tecnológico de Costa Rica\, Sede San José\, Calle Bla
+ ncos\, Costa Rica
+SUMMARY:5 Maneras de Colaborar con Mozilla y Firefox
+DESCRIPTION:Charla como parte del evento Semana Compu.\n\n5 Ways to Contri
+ bute to Mozilla and Firefox. Short talk\, part of Semana Compu (Computer W
+ eek).
+URL:https://reps.mozilla.org/e/5-maneras-de-colaborar-con-mozilla-y-firefo
+ x/
+SEQUENCE:0
+X-COORDINATES-LAT:9.93791424199
+X-COORDINATES-LON:-84.0752463343
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

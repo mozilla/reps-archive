@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2990
+CLASS:PUBLIC
+DTSTAMP:20200423T182616Z
+DTSTART:20141122T160000Z
+DTEND:20141122T200000Z
+LOCATION:Raul Hacker Club\, orla do Rio Vermelho\, Rua da Paciência\, nº
+  257\, Salvador\, Brazil
+SUMMARY:Moz Localizathon
+DESCRIPTION:The Moz Localizathon is a monthly gathering that always happen
+ s on the third Sunday of each month\, aiming to present the Mozilla\, the 
+ process of locating a product\, and finally make a sprint location of the 
+ chosen tool.
+URL:https://reps.mozilla.org/e/moz-localizathon/
+SEQUENCE:2
+X-COORDINATES-LAT:-12.9938808378
+X-COORDINATES-LON:-38.4797401435
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

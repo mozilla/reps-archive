@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@475
+CLASS:PUBLIC
+DTSTAMP:20200423T221650Z
+DTSTART:20130201T160000Z
+DTEND:20130202T023000Z
+LOCATION:Universidad Católica\, San José\, Costa Rica
+SUMMARY:BarCamp Costa Rica
+DESCRIPTION:The first BarCamp being organized in Costa Rica\, this is an e
+ vent that gathers technology enthusiasts from many walks of life. It&#39;s an 
+ &#34;unconference&#34; that is informally scheduled by its attendees.
+URL:https://reps.mozilla.org/e/barcamp-costa-rica/
+SEQUENCE:0
+X-COORDINATES-LAT:9.96286971533
+X-COORDINATES-LON:-84.0395092964
+X-COUNTRY-CODE:cr
+END:VEVENT
+
+END:VCALENDAR

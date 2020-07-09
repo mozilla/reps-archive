@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1033
+CLASS:PUBLIC
+DTSTAMP:20200423T213140Z
+DTSTART:20130625T130000Z
+DTEND:20130626T210000Z
+LOCATION:NYU Washington DC\, Washington\, United States
+SUMMARY:Open Source Summit v3
+DESCRIPTION:This year&#39;s Open Source Summit will explain how to build\, eng
+ age with\, and maintain open source communities -- and when we say open so
+ urce\, we don&#39;t just mean software\, we also mean hardware and data.
+URL:https://reps.mozilla.org/e/open-source-summit-v3/
+SEQUENCE:1
+X-COORDINATES-LAT:38.9039084348
+X-COORDINATES-LON:-77.0305967331
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

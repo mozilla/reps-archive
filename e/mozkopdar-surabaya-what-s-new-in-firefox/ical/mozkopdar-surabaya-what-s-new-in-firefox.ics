@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5998
+CLASS:PUBLIC
+DTSTAMP:20200423T115018Z
+DTSTART:20161023T110000Z
+DTEND:20161023T140000Z
+LOCATION:Stillrod Cafe\, Surabaya\, Indonesia
+SUMMARY:MozKopdar Surabaya - What&#39;s new in Firefox?
+DESCRIPTION:In this Moz Coffee\, we will give update about new things in F
+ irefox\, like e10s\, Test Pilot Program. Also\, I&#39;m planning to give intro
+ duction talk about Rust &amp; Servo.
+URL:https://reps.mozilla.org/e/mozkopdar-surabaya-what-s-new-in-firefox/
+SEQUENCE:5
+X-COORDINATES-LAT:-7.36609854544
+X-COORDINATES-LON:112.765136361
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

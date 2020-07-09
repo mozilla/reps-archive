@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@692
+CLASS:PUBLIC
+DTSTAMP:20200407T165704Z
+DTSTART:20130404T100000Z
+DTEND:20130404T120000Z
+LOCATION:Hackerspace SG\, Singapore\, Singapore
+SUMMARY:First Singapore Firefox OS Meetup
+DESCRIPTION:First Singapore Firefox Meetup \,Since Firefox OS is so new fo
+ r most of us\, see the sessions as a way to lower the learning curve for e
+ veryone through sharing and discussion.
+URL:https://reps.mozilla.org/e/first-singapore-firefox-os-meetup/
+SEQUENCE:4
+X-COORDINATES-LAT:1.30133882922
+X-COORDINATES-LON:103.860003948
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

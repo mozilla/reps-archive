@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@993
+CLASS:PUBLIC
+DTSTAMP:20200407T175828Z
+DTSTART:20130614T130000Z
+DTEND:20130614T143000Z
+LOCATION:Cafe Coffee Day\, Park Street\, Kolkata\, India
+SUMMARY:MozCafe@CCD\, Kolkata
+DESCRIPTION:Regular meet up of all open-source enthusiasts and developer c
+ ommunity in and around Kolkata\, where we will plan for events hosted by M
+ ozilla Kolkata Community in near future and search for new potential venue
+ s and contributors to further strengthen the community.
+URL:https://reps.mozilla.org/e/mozcafe-ccd-kolkata/
+SEQUENCE:10
+X-COORDINATES-LAT:22.4719545077
+X-COORDINATES-LON:88.2861328125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

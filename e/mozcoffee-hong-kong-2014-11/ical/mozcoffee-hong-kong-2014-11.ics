@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3146
+CLASS:PUBLIC
+DTSTAMP:20200423T182527Z
+DTSTART:20141125T120000Z
+DTEND:20141125T140000Z
+LOCATION:Starbucks Coffee\, Hong Kong Cultural Centre\, Tsim Sha Tsui\, Ts
+ im Sha Tsui\, Hong Kong
+SUMMARY:MozCoffee Hong Kong 2014.11
+DESCRIPTION:Meetup of Mozillians in Hong Kong
+URL:https://reps.mozilla.org/e/mozcoffee-hong-kong-2014-11/
+SEQUENCE:2
+X-COORDINATES-LAT:22.2937517834
+X-COORDINATES-LON:114.170375347
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

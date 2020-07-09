@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3756
+CLASS:PUBLIC
+DTSTAMP:20200423T173506Z
+DTSTART:20150407T160000Z
+DTEND:20150407T200000Z
+LOCATION:Bern\, Berne\, Switzerland
+SUMMARY:Spontaneous Meetup Bern
+DESCRIPTION:Spontaneous meetup with Martin in Bern. This is just for track
+ ing purposes :)
+URL:https://reps.mozilla.org/e/spontaneous-meetup-bern/
+SEQUENCE:1
+X-COORDINATES-LAT:46.947945412
+X-COORDINATES-LON:7.44759464229
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1859
+CLASS:PUBLIC
+DTSTAMP:20200423T202354Z
+DTSTART:20140223T040000Z
+DTEND:20140223T080000Z
+LOCATION:University of Liberal Arts Bangladesh\, Campus A lobby\, Dhaka\, 
+ Bangladesh
+SUMMARY:Mozilla Awareness Booth @ ULAB
+DESCRIPTION:Mozilla Bangladesh is setting up a Mozilla Awareness Booth at 
+ ULAB campus to let people know about Mozilla. They will be talking to the 
+ interested people about Mozilla and it&#39;s philosophy\, Firefox Student Amba
+ ssadors and how to get connected to Mozilla Bangladesh community.
+URL:https://reps.mozilla.org/e/mozilla-awareness-booth-ulab/
+SEQUENCE:3
+X-COORDINATES-LAT:23.7406443243
+X-COORDINATES-LON:90.3750643729
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

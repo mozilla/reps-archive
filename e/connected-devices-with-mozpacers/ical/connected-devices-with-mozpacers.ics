@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5352
+CLASS:PUBLIC
+DTSTAMP:20200407T170242Z
+DTSTART:20160507T043000Z
+DTEND:20160507T103000Z
+LOCATION:YMCA\, Gurgaon\, India
+SUMMARY:Connected Devices with Mozpacers
+DESCRIPTION:Introduction to FOSS and Mozilla.\nContribution Pathways in Mo
+ zilla\nHow and who can contribute in Mozilla\nGit Session**(Importantly re
+ quired because this would be new to them)\nSession on IOT and Connected De
+ vices\nBugBash and OneAndDone Challenge: Making accounts on bugzilla.mozil
+ la.org and filing of the bugs by everyone.The one who files most bugs awar
+ ded with the swags.
+URL:https://reps.mozilla.org/e/connected-devices-with-mozpacers/
+SEQUENCE:3
+X-COORDINATES-LAT:28.8891717482
+X-COORDINATES-LON:75.8897781372
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

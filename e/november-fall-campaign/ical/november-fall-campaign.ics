@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4593
+CLASS:PUBLIC
+DTSTAMP:20200407T181530Z
+DTSTART:20151115T033000Z
+DTEND:20151115T113000Z
+LOCATION:Indore\, Indore\, India
+SUMMARY:November Fall Campaign
+DESCRIPTION:in support to mozilla&#39;s november fall campaign
+URL:https://reps.mozilla.org/e/november-fall-campaign/
+SEQUENCE:3
+X-COORDINATES-LAT:22.7172509015
+X-COORDINATES-LON:75.8660125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

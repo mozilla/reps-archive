@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1687
+CLASS:PUBLIC
+DTSTAMP:20200407T180027Z
+DTSTART:20140331T070000Z
+DTEND:20140404T170000Z
+LOCATION:Department of Computer &amp; Information Systems\, Osun State Univers
+ ity &amp; Redeemers University\, Ede/Ikire and Lagos\, Nigeria
+SUMMARY:POSSE NIGERIA
+DESCRIPTION:POSSE is a bootcamp sponsored by Open Source organizations (su
+ ch as Red Hat and Mozilla) designed to immerse computer science instructor
+ s in open source projects\, with the commitment that each participating in
+ structor bring their classes into open source project participation over t
+ he next school year. More details on the program are available at http://t
+ eachingopensource.org/index.php/POSSE.
+URL:https://reps.mozilla.org/e/posse-nigeria/
+SEQUENCE:6
+X-COORDINATES-LAT:6.43449106137
+X-COORDINATES-LON:3.39074704796
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

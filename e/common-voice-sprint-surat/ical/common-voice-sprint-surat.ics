@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8552
+CLASS:PUBLIC
+DTSTAMP:20200422T072527Z
+DTSTART:20190429T043000Z
+DTEND:20190429T103000Z
+LOCATION:Adajan\, Surat\, India
+SUMMARY:Common Voice Sprint #Surat
+DESCRIPTION:Mozilla&#39;s Common Voice is the project that aims to unlock and 
+ open the voice ecosystem. It needs your help to advance English voice coll
+ ection and get to the next level. In order for a language to be usable by 
+ speech recognition engines we need at least 2000 hours of voice collected 
+ from at least 1000 diverse people\, and we think communities are the only 
+ ones that can enable this diversity.
+URL:https://reps.mozilla.org/e/common-voice-sprint-surat/
+SEQUENCE:0
+X-COORDINATES-LAT:21.1852655221
+X-COORDINATES-LON:72.7258296311
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

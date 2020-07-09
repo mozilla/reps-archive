@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7697
+CLASS:PUBLIC
+DTSTAMP:20200423T094228Z
+DTSTART:20180425T043000Z
+DTEND:20180425T083000Z
+LOCATION:Deloitte\, Hyderabad\, Hyderabad\, India
+SUMMARY:Let&#39;s Rust II
+DESCRIPTION:Rust is a new systems programming language sponsored by Mozill
+ a. This event is to train programmers on Rust. It will a deep dive session
+  with advanced concepts.
+URL:https://reps.mozilla.org/e/let-s-rust-3/
+SEQUENCE:3
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

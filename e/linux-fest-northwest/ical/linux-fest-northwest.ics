@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@589
+CLASS:PUBLIC
+DTSTAMP:20200423T214722Z
+DTSTART:20130427T163000Z
+DTEND:20130429T000000Z
+LOCATION:Bellingham Technical College\, Bellingham\, United States
+SUMMARY:Linux Fest Northwest
+DESCRIPTION:Linux Fest Northwest is a medium-sized regional open source ev
+ ent held in Bellingham\, WA just outside of Seattle. Mozilla will be parit
+ icipating in the event by hosting an event and potentially promoting Firef
+ ox OS.
+URL:https://reps.mozilla.org/e/linux-fest-northwest/
+SEQUENCE:0
+X-COORDINATES-LAT:48.7471343254
+X-COORDINATES-LON:-122.459106445
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

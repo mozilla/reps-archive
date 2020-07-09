@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7320
+CLASS:PUBLIC
+DTSTAMP:20200407T165055Z
+DTSTART:20180203T080000Z
+DTEND:20180204T190000Z
+LOCATION:ULB Campus Solbosch\, Brussels\, Belgium
+SUMMARY:FOSDEM 2018
+DESCRIPTION:FOSDEM (Free and Open Source Software Developers&#39; European Mee
+ ting) is a free event offering open source communities a place to meet\, s
+ hare ideas and collaborate. It is renowned for being highly developer-orie
+ nted and brings together 5000+ geeks from all over the world. No registrat
+ ion necessary.
+URL:https://reps.mozilla.org/e/fosdem-2018/
+SEQUENCE:2
+X-COORDINATES-LAT:50.8130611746
+X-COORDINATES-LON:4.38178682292
+X-COUNTRY-CODE:be
+END:VEVENT
+
+END:VCALENDAR

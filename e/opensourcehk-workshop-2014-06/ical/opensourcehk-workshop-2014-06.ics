@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2266
+CLASS:PUBLIC
+DTSTAMP:20200423T194045Z
+DTSTART:20140607T060000Z
+DTEND:20140607T093000Z
+LOCATION:Classroom G5-215\, 5/F Academic 1\, City Univerisity of Hong Kong
+ \, Kowloon Tong.\, Kowloon Tong\, Hong Kong
+SUMMARY:OpenSourceHK Workshop 2014.06
+DESCRIPTION:Mozilla Hong Kong calls for everyone who are interested to wor
+ k on zh-HK for Mozilla projects to join our discussion and works at Open S
+ ource Workshop.
+URL:https://reps.mozilla.org/e/opensourcehk-workshop-2014-06/
+SEQUENCE:1
+X-COORDINATES-LAT:22.3351005769
+X-COORDINATES-LON:114.179164052
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

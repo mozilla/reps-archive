@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2516
+CLASS:PUBLIC
+DTSTAMP:20200407T175450Z
+DTSTART:20140830T020000Z
+DTEND:20140831T090000Z
+LOCATION:iTrain\, Kuala Lumpur\, Malaysia
+SUMMARY:Webmaker Training Days Kuala Lumpur 2014
+DESCRIPTION:Mozilla Malaysia Community and Hive Learning Network Malaysia 
+ will be hosting an event called &#34;Webmaker Training Days Kuala Lumpur&#34; on t
+ he 30th and 31st of August 2014. This event is a 2-day session for develop
+ ing new mentor and providing teaching skills  especially those who are pas
+ sionate to teach and also to educate other people about the Web! This spec
+ ific individuals will expand their network as a part of upcoming project -
+  Hive Learning Network Malaysia [http://hive.mozilla.my].
+URL:https://reps.mozilla.org/e/webmaker-training-days-kuala-lumpur-2014/
+SEQUENCE:11
+X-COORDINATES-LAT:3.16091114415
+X-COORDINATES-LON:101.716743707
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

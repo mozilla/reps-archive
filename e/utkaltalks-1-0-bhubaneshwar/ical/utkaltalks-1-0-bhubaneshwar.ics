@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8415
+CLASS:PUBLIC
+DTSTAMP:20200423T083841Z
+DTSTART:20190314T183000Z
+DTEND:20190316T183000Z
+LOCATION:Cuttak\, Bubhaneshwar\, Odisha\, India.\, bhubaneshwar\, India
+SUMMARY:UtkalTalks 1.0 - Bhubaneshwar
+DESCRIPTION:There are a lot of Hackathons being hosted every now and then.
+  A lot of Developers and Designers get together and build cool stuffs. But
+  the problem here is\, it still sound scary and not so welcoming for the b
+ eginners yet! Even those who make it to the finals with some great prototy
+ pes\, they also fail because their prototypes remains prototype\, and the 
+ story ends there.
+URL:https://reps.mozilla.org/e/utkaltalks-1-0-bhubaneshwar/
+SEQUENCE:0
+X-COORDINATES-LAT:20.4620509936
+X-COORDINATES-LON:85.8808593743
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

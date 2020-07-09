@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1384
+CLASS:PUBLIC
+DTSTAMP:20200407T175154Z
+DTSTART:20131109T090000Z
+DTEND:20131109T180000Z
+LOCATION:Maison pour tous Salle des Rancy\, Lyon\, France
+SUMMARY:Firefox OS App days and webmaker party
+DESCRIPTION:There is an &#34;Expériences numériques&#34; (Digital experiment) he
+ ld in Lyon in a public digital space. It&#39;s generally oriented towards a no
+ vice audience\, but the organizer asked me if we could set up something fo
+ r developers.\nI agreed and promised that we would organize a Firefox OS A
+ pp days in addition to the webmaker party event (which fits better to the 
+ expected audience). I also gathered a few developers who promised to come 
+ and develop apps.
+URL:https://reps.mozilla.org/e/firefox-os-app-days-and-webmaker-party/
+SEQUENCE:3
+X-COORDINATES-LAT:45.7558539852
+X-COORDINATES-LON:4.84772801399
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

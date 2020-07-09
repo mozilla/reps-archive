@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4963
+CLASS:PUBLIC
+DTSTAMP:20200407T174142Z
+DTSTART:20151231T183000Z
+DTEND:20160130T183000Z
+LOCATION:Global\, Global\, India
+SUMMARY:Privacy Month Campaign
+DESCRIPTION:This is a community led campaign to celebrate International Da
+ ta Privacy Day. There are two parts - an online campaign with daily conten
+ t combined with a series of in-person privacy events.\n\nA campaign to mak
+ e users and makers of the web care\, learn\, teach and share about Online 
+ Privacy.\n\nSupport the campaign wear the privacy graphics: http://bit.ly/
+ 1mUDCYI
+URL:https://reps.mozilla.org/e/privacy-month-campaign/
+SEQUENCE:5
+X-COORDINATES-LAT:22.6444324812
+X-COORDINATES-LON:79.0713500977
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

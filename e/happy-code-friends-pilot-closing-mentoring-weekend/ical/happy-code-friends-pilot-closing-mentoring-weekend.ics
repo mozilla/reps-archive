@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5371
+CLASS:PUBLIC
+DTSTAMP:20200407T171706Z
+DTSTART:20160507T080000Z
+DTEND:20160507T140000Z
+LOCATION:Cheppers HQ\, Budapest\, Hungary
+SUMMARY:Happy Code Friends (pilot) — closing mentoring weekend &amp; present
+ ations
+DESCRIPTION:Happy Code Friends is a program incorporating learnings and in
+ spired by formats like Mozilla WebMaker\, OpenTechSchool or NodeSchool and
+  several others to create a free\, introductory course to web development 
+ for anyone\, but with a focus on increasing the field&#39;s diversity\, mentor
+ ed by seasoned web developmers and trainers.
+URL:https://reps.mozilla.org/e/happy-code-friends-pilot-closing-mentoring-
+ weekend/
+SEQUENCE:1
+X-COORDINATES-LAT:47.4962896359
+X-COORDINATES-LON:19.0558776841
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

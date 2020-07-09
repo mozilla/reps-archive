@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@686
+CLASS:PUBLIC
+DTSTAMP:20200407T175540Z
+DTSTART:20130427T120000Z
+DTEND:20130427T213000Z
+LOCATION:CEFET Maracanã - Rio de Janeiro\, Rio de Janeiro\, Brazil
+SUMMARY:FLISOL Rio de Janeiro
+DESCRIPTION:The FLISOL is the biggest event in Latin America dissemination
+  of Free Software. It&#39;s held since 2005\, and since 2008 its realization h
+ appens on the fourth Saturday of April each year.\n\nIts main purpose is t
+ o promote the use of Free Software\, showing the public its philosophy\, s
+ cope\, progress and development.
+URL:https://reps.mozilla.org/e/flisol-rio-de-janeiro/
+SEQUENCE:3
+X-COORDINATES-LAT:-22.911361
+X-COORDINATES-LON:-43.225558
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

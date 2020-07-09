@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8556
+CLASS:PUBLIC
+DTSTAMP:20200423T083007Z
+DTSTART:20190504T063000Z
+DTEND:20190504T113000Z
+LOCATION:Yuvalay eLab\, Surat\, India
+SUMMARY:Common Voice Sprint - Vadodara
+DESCRIPTION:Mozilla&#39;s Common Voice is the project that aims to unlock and 
+ open the voice ecosystem. It needs YOUR help to advance English voice coll
+ ection and get to the next level. In order for a language to be usable by 
+ speech recognition engines we need at least 2000 hours of voice collected 
+ from at least 1000 diverse people\, and we think communities are the only 
+ ones that can enable this diversity.\n\nDoing our bit as a Community by ho
+ sting and Contributing during this Sprint.
+URL:https://reps.mozilla.org/e/common-voice-sprint-1/
+SEQUENCE:3
+X-COORDINATES-LAT:22.29495
+X-COORDINATES-LON:73.15427
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

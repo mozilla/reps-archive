@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3861
+CLASS:PUBLIC
+DTSTAMP:20200407T175901Z
+DTSTART:20150514T100000Z
+DTEND:20150514T120000Z
+LOCATION:Technopole Dakar\, Dakar\, Senegal
+SUMMARY:Orange SN Formations
+DESCRIPTION:Dans le cadre du lancement de Firefox OS\, Orange SN organise 
+ une formation de 2heures sur les technologies web.
+URL:https://reps.mozilla.org/e/orange-sn-formations/
+SEQUENCE:0
+X-COORDINATES-LAT:14.7645042
+X-COORDINATES-LON:-17.3660286
+X-COUNTRY-CODE:sn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3397
+CLASS:PUBLIC
+DTSTAMP:20200407T175054Z
+DTSTART:20150226T120000Z
+DTEND:20150226T140000Z
+LOCATION:OLDe Coffee and More ||  Jl. Polisi istimewa 28\, Surabaya\, Sura
+ baya\, Indonesia
+SUMMARY:MozKopdarSUB February 2015
+DESCRIPTION:This is a monthly meeting and happened once for 3-4 month in S
+ urabaya. All attendees enter their name in attendees list and get Mozilla 
+ swag (stickers/buttons). Attendees (Mozillians) will get information about
+  Mozilla activities in Surabaya\, Fiferox Hello\, Webmaker\, Firefox OS\, 
+ how to contribute in Mozilla event in Surabaya\, and how to make event wit
+ h Mozilla. There is a Q&amp;A and game\, Reps will give 6 questions. the winne
+ r will get special Mozilla swag (3 t-shirts and 3 lanyards).
+URL:https://reps.mozilla.org/e/mozkopdarsub-february-2015/
+SEQUENCE:7
+X-COORDINATES-LAT:-7.28015103635
+X-COORDINATES-LON:112.742320597
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

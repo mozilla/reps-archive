@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4145
+CLASS:PUBLIC
+DTSTAMP:20200423T163652Z
+DTSTART:20150925T000000Z
+DTEND:20150926T090000Z
+LOCATION:University of the Philippines\, Quezon City\, Philippines
+SUMMARY:University of the Philippines Hack UP
+DESCRIPTION:Hack UP is an inter-collegiate hackathon that aims to foster a
+ n innovative culture in different universities for the progress of the soc
+ iety. There will be 30 teams of student software developers\, programmers 
+ &amp; problem solvers in the competition under the theme &#34;Innovation for the N
+ ation&#34;.
+URL:https://reps.mozilla.org/e/university-of-the-philippines-hack-up/
+SEQUENCE:0
+X-COORDINATES-LAT:14.6538385846
+X-COORDINATES-LON:121.069467544
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

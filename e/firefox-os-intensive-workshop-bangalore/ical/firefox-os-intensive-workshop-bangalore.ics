@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3090
+CLASS:PUBLIC
+DTSTAMP:20200407T174112Z
+DTSTART:20141115T040000Z
+DTEND:20141116T113000Z
+LOCATION:Collab House\, Bangalore\, India
+SUMMARY:Firefox OS Intensive Workshop - Bangalore
+DESCRIPTION:Deep-dive into app development for Firefox OS. A place for int
+ ermediate developers to become experts.
+URL:https://reps.mozilla.org/e/firefox-os-intensive-workshop-bangalore/
+SEQUENCE:4
+X-COORDINATES-LAT:12.9632928319
+X-COORDINATES-LON:77.6141771078
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

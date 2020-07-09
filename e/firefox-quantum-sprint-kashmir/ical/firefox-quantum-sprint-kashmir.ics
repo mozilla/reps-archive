@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7114
+CLASS:PUBLIC
+DTSTAMP:20200423T102756Z
+DTSTART:20171007T073000Z
+DTEND:20171007T103000Z
+LOCATION:Sri Pratap College\, Srinagar\, India
+SUMMARY:Firefox Quantum Sprint - Kashmir
+DESCRIPTION:Firefox Quantum is soon to be launched and this is our opportu
+ nity to make Firefox rise again. Participate in the Firefox Quantum Sprint
+  and make a difference by ensuring that Firefox runs smoothly in your regi
+ on.
+URL:https://reps.mozilla.org/e/firefox-quantum-sprint-kashmir/
+SEQUENCE:4
+X-COORDINATES-LAT:34.0769642649
+X-COORDINATES-LON:74.814680703
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

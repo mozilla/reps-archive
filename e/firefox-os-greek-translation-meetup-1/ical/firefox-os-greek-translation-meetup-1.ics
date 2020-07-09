@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@916
+CLASS:PUBLIC
+DTSTAMP:20200423T214123Z
+DTSTART:20130523T150000Z
+DTEND:20130523T180000Z
+LOCATION:Hackerspace.gr\, Athens\, Greece
+SUMMARY:Firefox OS Greek Translation Meetup
+DESCRIPTION:Meetup for completing Gaia Greek translation
+URL:https://reps.mozilla.org/e/firefox-os-greek-translation-meetup-1/
+SEQUENCE:2
+X-COORDINATES-LAT:38.0168826643
+X-COORDINATES-LON:23.7312734127
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

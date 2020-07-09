@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8270
+CLASS:PUBLIC
+DTSTAMP:20200423T085220Z
+DTSTART:20181112T100000Z
+DTEND:20181115T000000Z
+LOCATION:Fatec Presidente Prudente\, Jaboticabal\, Brazil
+SUMMARY:10th SETEC - Presidente Prudente
+DESCRIPTION:10th edition of the the SETEC technology week at Fatec Preside
+ nte Prudente. 3 days of talks\, workshops\, and competitions. We did a tal
+ k about &#34;Firefox Reality and A-frame&#34;.
+URL:https://reps.mozilla.org/e/10th-setec-presidente-prudente/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.1251687344
+X-COORDINATES-LON:-51.389611247
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

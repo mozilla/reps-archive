@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6533
+CLASS:PUBLIC
+DTSTAMP:20200407T183723Z
+DTSTART:20170609T080000Z
+DTEND:20170609T190000Z
+LOCATION:Microsoft Office São Paulo\, São Paulo\, Brazil
+SUMMARY:Full Stack Experience
+DESCRIPTION:The Web is increasingly present in the day to day of developer
+ s and companies. Our focus is to explore the Open Source technologies and 
+ practices behind outstanding projects.\n\nWe&#39;ll connect you to developers 
+ and influencers from diverse backgrounds in a learning and knowledge shari
+ ng environment.
+URL:https://reps.mozilla.org/e/full-stack-experience/
+SEQUENCE:0
+X-COORDINATES-LAT:-23.6319435432
+X-COORDINATES-LON:-46.5284729004
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

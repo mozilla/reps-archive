@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6010
+CLASS:PUBLIC
+DTSTAMP:20200407T174124Z
+DTSTART:20170318T043000Z
+DTEND:20170319T113000Z
+LOCATION:Collab House \, Jublee Hills \, Hyderabad\, Hyderabad\, India
+SUMMARY:Moz Deccan
+DESCRIPTION:A 2 day event completely focused on mozilla contribution and n
+ etworking\, contributors from different place\,towns and cities all over T
+ elangana &amp; Andhra Pradesh Moz Deccan is annual event with clear ambition t
+ o unite our efforts to build a better community\, Since last year\, we hav
+ e grown tremendously and had some very successful and productive events fo
+ r almost all Mozilla Projects.As education hub we still have lots of oppor
+ tunities to grow ourselves and to find good sustainable contributors
+URL:https://reps.mozilla.org/e/moz-deccan-1/
+SEQUENCE:4
+X-COORDINATES-LAT:17.4226295812
+X-COORDINATES-LON:78.4075243631
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

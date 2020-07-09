@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1950
+CLASS:PUBLIC
+DTSTAMP:20200423T200841Z
+DTSTART:20140403T040000Z
+DTEND:20140403T110000Z
+LOCATION:Campus 4\, AIUB\, Banani\, Banani Model Town\, Bangladesh
+SUMMARY:Firefox OS App Training Day at AIUB\, Spring 2014
+DESCRIPTION:A day long event on developing apps for Firefox OS. Firefox St
+ udent Ambassadors of AIUB will learn to create Firefox OS apps from scratc
+ h with the help of Mozillians. Later they will be introduced to the monthl
+ y app competition for Firefox OS Marketplace. This is the first major Mozi
+ lla event at AIUB in Spring 2014 semester.
+URL:https://reps.mozilla.org/e/fireofx-os-app-training-day-at-aiub-spring-
+ 2014/
+SEQUENCE:5
+X-COORDINATES-LAT:23.7946611314
+X-COORDINATES-LON:90.4058730305
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

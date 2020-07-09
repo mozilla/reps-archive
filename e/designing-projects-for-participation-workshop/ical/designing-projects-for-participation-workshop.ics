@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1587
+CLASS:PUBLIC
+DTSTAMP:20200423T204700Z
+DTSTART:20131129T090000Z
+DTEND:20131129T100000Z
+LOCATION:Vancouver Mozilla Office\, Vancouver\, Canada
+SUMMARY:Designing projects for participation -  Workshop
+DESCRIPTION:Delivering a David Eave&#39;s community workshop on working with c
+ ommunity to Vancouver Mozilla Office with David.
+URL:https://reps.mozilla.org/e/designing-projects-for-participation-worksh
+ op/
+SEQUENCE:1
+X-COORDINATES-LAT:49.2487586282
+X-COORDINATES-LON:-123.13785553
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

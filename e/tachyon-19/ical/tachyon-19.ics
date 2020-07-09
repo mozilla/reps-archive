@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8472
+CLASS:PUBLIC
+DTSTAMP:20200407T165133Z
+DTSTART:20190420T033000Z
+DTEND:20190421T143000Z
+LOCATION:Jaypee University of Engineering and Technology\, Guna\, India
+SUMMARY:Tachyon&#39;19
+DESCRIPTION:It is the Annual technical festival of Jaypee University of en
+ gineering and technology. The two-day extravaganza is filled with numerous
+  workshops and a 24-hour hackathon.
+URL:https://reps.mozilla.org/e/tachyon-19/
+SEQUENCE:2
+X-COORDINATES-LAT:24.4348
+X-COORDINATES-LON:77.1606
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

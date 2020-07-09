@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4544
+CLASS:PUBLIC
+DTSTAMP:20200423T163352Z
+DTSTART:20151002T030000Z
+DTEND:20151002T050000Z
+LOCATION:SMK Negeri 1 Surabaya\, Surabaya\, Indonesia
+SUMMARY:#MozBelajar SMK Negeri 1 Surabaya
+DESCRIPTION:An event to introduce the newly launched Webmaker App to vocat
+ ional high school students in SMK Negeri 1 Surabaya. There will be Webmake
+ r App downloading session and hands on workshop in making projects using t
+ he app. This event is organized as part of Webmaker App Launch initiatives
+  in Indonesia.
+URL:https://reps.mozilla.org/e/mozbelajar-smk-negeri-1-surabaya/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.24841577254
+X-COORDINATES-LON:112.735359189
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1760
+CLASS:PUBLIC
+DTSTAMP:20200423T203122Z
+DTSTART:20140127T090000Z
+DTEND:20140127T110000Z
+LOCATION:Capricorn&#39;s World(Bashundhara City)\, Panthopoth\, Bangladesh
+SUMMARY:Geek Girls Hangout @DHK
+DESCRIPTION:Getting introduced with the Tech loving ladies around the city
+ .\nDoing some fun brain storming on crazy tech ideas.\nDiscussing about up
+ coming events of woMoz
+URL:https://reps.mozilla.org/e/geek-girls-hangout-dhk/
+SEQUENCE:6
+X-COORDINATES-LAT:23.709921
+X-COORDINATES-LON:90.407143
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

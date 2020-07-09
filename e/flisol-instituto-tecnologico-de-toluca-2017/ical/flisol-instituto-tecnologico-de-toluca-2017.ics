@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6399
+CLASS:PUBLIC
+DTSTAMP:20200423T111846Z
+DTSTART:20170401T150000Z
+DTEND:20170401T230000Z
+LOCATION:Instituto Tecnológico de Toluca\, Mexico City\, Mexico
+SUMMARY:FLISol Instituto Tecnologico de Toluca. 2017
+DESCRIPTION:Es el evento de difusión de Software Libre más grande de Lat
+ inoamérica\, su principal objetivo es promover el uso de software libre a
+  través de tu filosofía\, alcance\, desarrollo\, innovación y sobre tod
+ o las ventajas que tiene respecto a la competencia en toda su gama de expr
+ esiones: artística\, académica\, empresarial y social.
+URL:https://reps.mozilla.org/e/flisol-instituto-tecnologico-de-toluca-2017
+ /
+SEQUENCE:2
+X-COORDINATES-LAT:19.2607391203
+X-COORDINATES-LON:-99.5877113356
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

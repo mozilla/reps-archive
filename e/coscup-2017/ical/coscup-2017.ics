@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6884
+CLASS:PUBLIC
+DTSTAMP:20200407T175113Z
+DTSTART:20170805T010000Z
+DTEND:20170806T100000Z
+LOCATION:College of Social Sciences Building\, National Taiwan University\
+ , Taipei City\, Taiwan
+SUMMARY:COSCUP 2017
+DESCRIPTION:COSCUP is the largest annual FLOSS conference in Asia\,  organ
+ ized by local communities in Taiwan. \n\nThe conference has sessions for n
+ ew users\, enthusiastic promoters\, coders or anyone who is interested in 
+ cutting-edge FLOSS technologies. \n\nThe goal is to create a friendly and 
+ informative environment for people from different communities to make frie
+ nds\, learn new technologies and inspire each other. \n\nA few Mozillians 
+ are the staff of the conference\, include :bobchao
+URL:https://reps.mozilla.org/e/coscup-2017/
+SEQUENCE:4
+X-COORDINATES-LAT:25.0208823308
+X-COORDINATES-LON:121.542266652
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7303
+CLASS:PUBLIC
+DTSTAMP:20200423T101243Z
+DTSTART:20171208T040000Z
+DTEND:20171209T160000Z
+LOCATION:TBD\, Dhaka\, Bangladesh
+SUMMARY:Firefox 58 Beta 10 Test Day
+DESCRIPTION:Welcome to Today&#39;s Test-day! Today we will be hosting Firefox 
+ 58 Beta 10 Test Day. We will be focusing our testing on Media Recorder Ref
+ actor\, Tabbed Browser\, Bug Verification and Bug Triage. No previous test
+ ing experience is required. No previous testing experience is required\, L
+ ets Make Firefox Better!
+URL:https://reps.mozilla.org/e/firefox-58-beta-10-test-day/
+SEQUENCE:1
+X-COORDINATES-LAT:23.810332
+X-COORDINATES-LON:90.4125181
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

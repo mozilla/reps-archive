@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2683
+CLASS:PUBLIC
+DTSTAMP:20200423T190440Z
+DTSTART:20140907T043000Z
+DTEND:20140907T103000Z
+LOCATION:College of Engineering and Management\,\, Kolaghat\, India
+SUMMARY:Moz Setup @ CEM
+DESCRIPTION:Description The event will start with Inauguration of Firefox 
+ Club @ CET\, moving on to Mozilla mission and Mozilla&#39;s Innovation. Studen
+ ts will be encouraged to contribute in FOSS. Talk session will be based on
+  Webmaker\, Localization\, Firefox OS etc.
+URL:https://reps.mozilla.org/e/moz-setup-cem/
+SEQUENCE:7
+X-COORDINATES-LAT:22.917079726
+X-COORDINATES-LON:87.114257589
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

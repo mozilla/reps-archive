@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6573
+CLASS:PUBLIC
+DTSTAMP:20200407T173911Z
+DTSTART:20170708T130000Z
+DTEND:20170708T200000Z
+LOCATION:UAGRM - Bush Ave.\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:WebExtension Workshop
+DESCRIPTION:This Workshop will help to create new WebExtensions for Firefo
+ x and Firefox for Android. We are planing 2 Workshop and launch 4 Add-ons 
+ to solve real problems in the local university.
+URL:https://reps.mozilla.org/e/webextension-workshop-1/
+SEQUENCE:3
+X-COORDINATES-LAT:-17.7761820691
+X-COORDINATES-LON:-63.1950886847
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

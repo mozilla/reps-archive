@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5074
+CLASS:PUBLIC
+DTSTAMP:20200423T154953Z
+DTSTART:20160209T180000Z
+DTEND:20160209T200000Z
+LOCATION:Liip\, Limmatstrasse 188\, Zürich\, Zurich\, Switzerland
+SUMMARY:Firefox OS and Connected Devices
+DESCRIPTION:In December 2015 Mozilla announced that it&#39;s focus on Firefox 
+ OS will pivot into the direction of Connected Devices (Web of Things). Ima
+ gine what could be done with an open web platform on small devices\, conne
+ cted to each other. Firefox OS on your fridge? Who knows? Michael will sho
+ w the latest development and experiments that Mozilla has been working on.
+URL:https://reps.mozilla.org/e/firefox-os-and-connected-devices/
+SEQUENCE:3
+X-COORDINATES-LAT:47.2767446255
+X-COORDINATES-LON:8.38183611631
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

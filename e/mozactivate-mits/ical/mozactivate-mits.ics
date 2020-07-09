@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6221
+CLASS:PUBLIC
+DTSTAMP:20200423T111733Z
+DTSTART:20170409T043000Z
+DTEND:20170409T073000Z
+LOCATION:MITS \, Laxmangarh\, Rajasthan\, Laxmangarh\, India
+SUMMARY:MozActivate – MITS
+DESCRIPTION:The main agenda of the event is to shift the focus of MITS Fir
+ efox Club to work on functional areas and contribution pathways in Mozilla
+ . Also to make them aware about the privacy tips and how to be secure on t
+ his vulnerable web.
+URL:https://reps.mozilla.org/e/mozactivate-mits/
+SEQUENCE:5
+X-COORDINATES-LAT:26.6670958011
+X-COORDINATES-LON:73.8720703125
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

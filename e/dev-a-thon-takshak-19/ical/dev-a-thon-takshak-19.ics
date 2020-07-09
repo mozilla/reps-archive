@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8838
+CLASS:PUBLIC
+DTSTAMP:20200407T170232Z
+DTSTART:20191011T073000Z
+DTEND:20191012T130000Z
+LOCATION:Mar Athanasius College of Engineering\,College Junction Road\, Ko
+ thamangalam\, Kerala 686666\, Kothamangalam\, India
+SUMMARY:Dev-a-thon Takshak 19
+DESCRIPTION:Dev-a-thon is a 24-hour hackathon\, to be conducted as part of
+  Takshak- the techfest of Mar Athanasius College Of Engineering\, Kothaman
+ galam which is open to all kinds of students.
+URL:https://reps.mozilla.org/e/dev-a-thon-takshak-19/
+SEQUENCE:2
+X-COORDINATES-LAT:10.0405620423
+X-COORDINATES-LON:76.6230583121
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

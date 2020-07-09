@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8491
+CLASS:PUBLIC
+DTSTAMP:20200423T083139Z
+DTSTART:20190427T130000Z
+DTEND:20190427T230000Z
+LOCATION:Francisco Jose de Caldas District University\, Bogota\, Colombia
+SUMMARY:FLISoL Bogotá 2019
+DESCRIPTION:FLISoL is the largest Free Software dissemination event in Lat
+ in America and is aimed at all kinds of audiences: students\, academics\, 
+ entrepreneurs\, workers\, public officials\, enthusiasts and even people w
+ ho do not have much computer knowledge.
+URL:https://reps.mozilla.org/e/flisol-bogota-2019/
+SEQUENCE:3
+X-COORDINATES-LAT:4.62805094929
+X-COORDINATES-LON:-74.0658034087
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@339
+CLASS:PUBLIC
+DTSTAMP:20200423T224315Z
+DTSTART:20121127T163000Z
+DTEND:20121127T190000Z
+LOCATION:Aristotle University of Thessaloniki\, Thessaloniki\, Greece
+SUMMARY:How can Open Source apply in research
+DESCRIPTION:We want to prove that open source philosophy/software  is a mo
+ re efficient and can help in all kind of problems. From the personal side 
+ of life till the academic one. We want to present a lot of FOSS projects w
+ hich are used in academic research\, well known project which were a resul
+ t of academic research and generally the idea that Free/Open Source softwa
+ re is the future (pre/post/ graduate – research).
+URL:https://reps.mozilla.org/e/how-can-open-source-apply-in-research/
+SEQUENCE:0
+X-COORDINATES-LAT:40.6324376643
+X-COORDINATES-LON:22.9558253288
+X-COUNTRY-CODE:gr
+END:VEVENT
+
+END:VCALENDAR

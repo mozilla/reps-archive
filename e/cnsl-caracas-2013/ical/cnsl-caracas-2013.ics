@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@952
+CLASS:PUBLIC
+DTSTAMP:20200423T213056Z
+DTSTART:20130628T123000Z
+DTEND:20130629T213000Z
+LOCATION:Auditorio de la UCV\, Caracas\, Venezuela
+SUMMARY:CNSL  Caracas 2013
+DESCRIPTION:The National Congress of Free Software (CNSL) is an ordered se
+ ries of events organized by GNU Project Venezuela every year visiting a ci
+ ty for week for three months of talks\, workshops and related activities r
+ anging from meetings to cultural shows. With the CNSL is preparing the gro
+ und and drive local and national initiatives related to Free Technology\, 
+ with full community of developers and developers\, users\, and users who w
+ ant to share knowledge and improve professionally.
+URL:https://reps.mozilla.org/e/cnsl-caracas-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:10.4884870555
+X-COORDINATES-LON:-66.9144630432
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

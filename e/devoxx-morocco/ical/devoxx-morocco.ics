@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8926
+CLASS:PUBLIC
+DTSTAMP:20200407T170239Z
+DTSTART:20191111T183000Z
+DTEND:20191113T183000Z
+LOCATION:Agadir Royal Atlas Agadir\, Agadir\, Morocco
+SUMMARY:Devoxx Morocco
+DESCRIPTION:A tech-focussed conference by the developers and for the devel
+ opers in the city of Agadir\, Morocco
+URL:https://reps.mozilla.org/e/devoxx-morocco/
+SEQUENCE:1
+X-COORDINATES-LAT:30.4092027391
+X-COORDINATES-LON:-9.50463831425
+X-COUNTRY-CODE:ma
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1705
+CLASS:PUBLIC
+DTSTAMP:20200423T202954Z
+DTSTART:20140202T043000Z
+DTEND:20140202T113000Z
+LOCATION:Orange Computer Institute\, Perundurai\, India
+SUMMARY:FSA Meetup Erode
+DESCRIPTION:The event will be a gathering of FSA&#39;s who are  *interested to
+  contribute* as well as *interested to Share* things about Mozilla . Mostl
+ y FSA&#39;s in and around of Erode will be joining the event. It is expected t
+ o have 30 + FSA&#39;s at the event. The event mainly aims to educate FSA&#39;s cle
+ arly with the much needed \, &#34; What is Mozilla \, it&#39;s Mission \, and it&#39;s
+  various products \, projects and initiatives &#34; . The event will be a perf
+ ect kick start for FSA&#39;s to spread the word and to contribute.
+URL:https://reps.mozilla.org/e/fsa-meetup-erode/
+SEQUENCE:3
+X-COORDINATES-LAT:11.2748386039
+X-COORDINATES-LON:77.5832310319
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1045
+CLASS:PUBLIC
+DTSTAMP:20200423T212533Z
+DTSTART:20130718T170000Z
+DTEND:20130718T190000Z
+LOCATION:Universidad de Antioquia\, Medellin\, Colombia
+SUMMARY:Quiubo pues Mozilla!
+DESCRIPTION:Talking about Mozilla philosopy\, community and products: Fire
+ fox\, FirefoxOS WebMaker. Medellin is the second city in Colombia\, there 
+ are alot of developers and mobile entusiats but we have not Mozillians the
+ re. This is a big opportunity to show what Mozilla is and what Mozilla can
+  offers to developers and users.
+URL:https://reps.mozilla.org/e/quiubo-pues-mozilla/
+SEQUENCE:10
+X-COORDINATES-LAT:6.26743751415
+X-COORDINATES-LON:-75.5685138702
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

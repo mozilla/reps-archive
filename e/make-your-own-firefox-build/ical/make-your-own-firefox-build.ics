@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@275
+CLASS:PUBLIC
+DTSTAMP:20200407T165845Z
+DTSTART:20121109T003000Z
+DTEND:20121109T033000Z
+LOCATION:LVL1 Hackerspace (814 East Broadway)\, Louisville\, United States
+SUMMARY:Make your own Firefox Build
+DESCRIPTION:Mozilla Louisville Community is working on setting up this eve
+ nt which will basically be a Community monthly meeting\, small workshop\, 
+ updates on mozilla\, and socializing (all in one).
+URL:https://reps.mozilla.org/e/make-your-own-firefox-build/
+SEQUENCE:0
+X-COORDINATES-LAT:38.244257
+X-COORDINATES-LON:-85.738805
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

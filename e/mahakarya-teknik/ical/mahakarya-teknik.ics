@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@937
+CLASS:PUBLIC
+DTSTAMP:20200423T213126Z
+DTSTART:20130626T010000Z
+DTEND:20130626T120000Z
+LOCATION:Laboratorium Fakultas Teknik dan Gedung Cakra\, Universitas Truno
+ joyo\, Bangkalan\, Madura\, Indonesia
+SUMMARY:Mahakarya Teknik
+DESCRIPTION:The event will held on June 17-27\, 2013. It has three main ac
+ tivities: E-Training\, E-Competition\, and E-Day for 10 days. \n\nMozilla 
+ invited to give a speak (about Mozilla\, Mozilla WebFWD\, Webmaker\, Firef
+ ox OS\, Firefox Marketplace) on June 26\, 2013. \n\nOrganized by BEM Fakul
+ tas Teknik - Universitas Trunojoyo\, Bangkalan\, Madura.
+URL:https://reps.mozilla.org/e/mahakarya-teknik/
+SEQUENCE:8
+X-COORDINATES-LAT:-7.06648174678
+X-COORDINATES-LON:112.794570923
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8409
+CLASS:PUBLIC
+DTSTAMP:20200423T084426Z
+DTSTART:20190127T070000Z
+DTEND:20190127T130000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar : Bermain Database Firestore dengan Membuat Aplikasi Se
+ derhana Sejenis OLX
+DESCRIPTION:This MozBelajar is a workshop about the Firestore database and
+  will create a simple application (like OLX) using the Firestore database 
+ in the backend. In this simple app will contain ads upload feature\, profi
+ le\, and ads for its product in the profile
+URL:https://reps.mozilla.org/e/mozbelajar-bermain-database-firestore-denga
+ n-membuat-aplikasi-sederhana-sejenis-olx/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23479758964
+X-COORDINATES-LON:106.820854425
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

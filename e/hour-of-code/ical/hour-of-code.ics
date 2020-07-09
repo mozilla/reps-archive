@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3158
+CLASS:PUBLIC
+DTSTAMP:20200423T181911Z
+DTSTART:20141208T090000Z
+DTEND:20141214T100000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, India
+SUMMARY:Hour of Code
+DESCRIPTION:The Hour of Code is a global movement reaching tens of million
+ s of students in 180+ countries. We plan to organize this for an hour dail
+ y in the evening at the community space\, Bangalore. Also\, Webmaker is pa
+ rtnering with Code.org on their global Hour of Code campaign.
+URL:https://reps.mozilla.org/e/hour-of-code/
+SEQUENCE:3
+X-COORDINATES-LAT:12.8957044274
+X-COORDINATES-LON:77.6630857587
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

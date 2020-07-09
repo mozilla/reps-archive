@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8051
+CLASS:PUBLIC
+DTSTAMP:20200423T090820Z
+DTSTART:20180822T150000Z
+DTEND:20180822T163000Z
+LOCATION:Online\, Online\, India
+SUMMARY:Mozilla Kerala Community Weekly Call 22-08-2018
+DESCRIPTION:This call is to discuss MozillaKerala Upcoming events and prog
+ rams that can be done. Kerala Flood status
+URL:https://reps.mozilla.org/e/mozilla-kerala-community-weekly-call-22-08-
+ 2018/
+SEQUENCE:2
+X-COORDINATES-LAT:9.58508518167
+X-COORDINATES-LON:76.5271081925
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1934
+CLASS:PUBLIC
+DTSTAMP:20200423T200533Z
+DTSTART:20140410T070000Z
+DTEND:20140411T200000Z
+LOCATION:Laisvės pr. 5\, Litexpo\, Vilnius\, Lithuania
+SUMMARY:Login 2014
+DESCRIPTION:LOGIN is the biggest tech community gathering in the Baltic st
+ ates\, attracting more than 80 speakers and 3500 visitors from all over th
+ e world. It&#39;s more than a conference! Through our additional activities\, 
+ creative workshops and competitions we adress mega trends for the upcoming
+  year. It&#39;s number one destination for updating your tech knowledge and me
+ eting minds alike!
+URL:https://reps.mozilla.org/e/login-2014/
+SEQUENCE:6
+X-COORDINATES-LAT:54.6793806061
+X-COORDINATES-LON:25.2254254371
+X-COUNTRY-CODE:lt
+END:VEVENT
+
+END:VCALENDAR

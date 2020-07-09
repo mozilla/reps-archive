@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6605
+CLASS:PUBLIC
+DTSTAMP:20200423T110136Z
+DTSTART:20170611T073000Z
+DTEND:20170611T103000Z
+LOCATION:Workcave\, SCO 224\, Level 2\, Sector 37-C\, Chandigarh\, Chandig
+ arh\, India
+SUMMARY:Punjab uses Firefox Nightly -2
+DESCRIPTION:Part of India uses Firefox Nightly campaign\, an initiative to
+  run a pilot campaign for Firefox Nightly throughout India. Through this e
+ vent the local devs will be using and testing Nightly on a regular basic w
+ hich is a great way to get involved to a Mozilla project. \nThey will be i
+ nstalling Firefox Nightly and will learn about QA.
+URL:https://reps.mozilla.org/e/punjab-uses-firefox-nightly-2/
+SEQUENCE:1
+X-COORDINATES-LAT:30.738415
+X-COORDINATES-LON:76.74865
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

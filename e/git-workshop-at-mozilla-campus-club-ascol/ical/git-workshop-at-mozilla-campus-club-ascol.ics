@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6977
+CLASS:PUBLIC
+DTSTAMP:20200423T104137Z
+DTSTART:20170910T011500Z
+DTEND:20170910T031500Z
+LOCATION:Amrit Science Campus (ASCOL)\, Kathmandu\, Nepal
+SUMMARY:Git Workshop at Mozilla Campus Club ASCOL
+DESCRIPTION:This git workshop is a campus event and will last few hours wi
+ th some intensive git commands and example and also speaker&#39;s journey as a
+  developer with git. This event is \nmainly focused for beginners who had 
+ just dived into the coding world. After this event they will get knowledge
+  on how to use version control to manage their day to day works. \n\nThis 
+ event will also help them on future when they start working professionally
+ .\n\nOrganized by Mozilla Campus Club ASCOL led by Nirmal Rijal
+URL:https://reps.mozilla.org/e/git-workshop-at-mozilla-campus-club-ascol/
+SEQUENCE:1
+X-COORDINATES-LAT:27.717845
+X-COORDINATES-LON:85.312921
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

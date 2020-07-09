@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2178
+CLASS:PUBLIC
+DTSTAMP:20200407T181611Z
+DTSTART:20140421T180000Z
+DTEND:20140421T220000Z
+LOCATION:TBD\, irbid\, Jordan
+SUMMARY:Mozilla-Jordan.org Creation Meetup
+DESCRIPTION:Mohammed dirar and Mohammed Migdadi having a Meetup to Work on
+  the website to make it real so our Arabic community stay up to date about
+  our News and Events.\n\nhttp://mozilla-jordan.org/ Mozilla Jordan Communi
+ ty
+URL:https://reps.mozilla.org/e/mozilla-jordan-org-creation-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:32.5397911
+X-COORDINATES-LON:35.8688821
+X-COUNTRY-CODE:jo
+END:VEVENT
+
+END:VCALENDAR

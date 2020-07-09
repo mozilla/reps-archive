@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7176
+CLASS:PUBLIC
+DTSTAMP:20200407T165146Z
+DTSTART:20171115T200000Z
+DTEND:20171116T015500Z
+LOCATION:SUMO video Room\, Online\, Brazil
+SUMMARY:MozPizza Hackathon SUMO Brazil 2017
+DESCRIPTION:Last year we had our first MozPizza Hackathon and it was a gre
+ at success. We achieved all goals that were established and had a wonderfu
+ l time together as a team and a group of friends. With the upcoming launch
+  of Quantum we plan to repeat this event.
+URL:https://reps.mozilla.org/e/mozpizza-hackathon-sumo-brazil-2017/
+SEQUENCE:6
+X-COORDINATES-LAT:-23.5541263178
+X-COORDINATES-LON:-46.6382446513
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

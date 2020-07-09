@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1091
+CLASS:PUBLIC
+DTSTAMP:20200423T212443Z
+DTSTART:20130723T113000Z
+DTEND:20130726T220000Z
+LOCATION:Centro de Convenções de Maceió (&lt;http://www.centrodeconvencoes
+ .al.gov.br/&gt;)\, Maceió\, Brazil
+SUMMARY:XXXII Jornadas de Atualização em Informática - XXXIII Congresso
+  da Sociedade Brasileira de Computaçã
+DESCRIPTION:JAI (English: Informatics Self-Improvement Journeys - a really
+  bad translation by myself\, I&#39;d say) is one of the most important scienti
+ fic and technological self-improvement academic events inside Brazilian CS
+  community. Workshops are given by senior researchers\, and offer a unique
+  opportunity for academics and IT professionals to update themselves in se
+ veral different areas with top researchers from Brazil.
+URL:https://reps.mozilla.org/e/xxxii-jornadas-de-atualizacao-em-informatic
+ a-xxxiii-congresso-da-sociedade-brasileira-de-computaca/
+SEQUENCE:2
+X-COORDINATES-LAT:-9.669324
+X-COORDINATES-LON:-35.723789
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

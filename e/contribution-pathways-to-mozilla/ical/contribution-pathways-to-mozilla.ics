@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7519
+CLASS:PUBLIC
+DTSTAMP:20200423T095035Z
+DTSTART:20180326T043000Z
+DTEND:20180327T123000Z
+LOCATION:TBD\, New Delhi\, India
+SUMMARY:Contribution pathways to Mozilla
+DESCRIPTION:The event will focus on various contribution pathways to Mozil
+ la. Moreover there will be a basic introductory session on Github.
+URL:https://reps.mozilla.org/e/contribution-pathways-to-mozilla/
+SEQUENCE:6
+X-COORDINATES-LAT:28.6287292806
+X-COORDINATES-LON:77.4111928046
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

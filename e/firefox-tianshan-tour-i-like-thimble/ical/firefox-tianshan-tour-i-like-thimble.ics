@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4901
+CLASS:PUBLIC
+DTSTAMP:20200423T160323Z
+DTSTART:20151214T084000Z
+DTEND:20151214T101000Z
+LOCATION:Urumqi fortieth high school\, Urumqi\, China
+SUMMARY:Firefox Tianshan tour-     Eight--I like thimble
+DESCRIPTION:How to use Firefox learn a foreign language with Webmaker\n\nD
+ escription\nGuide students use Webmaker Thimble\, understand HTML\, CSS an
+ d how to create webpage.
+URL:https://reps.mozilla.org/e/firefox-tianshan-tour-i-like-thimble/
+SEQUENCE:6
+X-COORDINATES-LAT:43.671339919
+X-COORDINATES-LON:2607.57527912
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

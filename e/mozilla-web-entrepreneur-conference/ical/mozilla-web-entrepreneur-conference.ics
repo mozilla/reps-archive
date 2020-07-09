@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2410
+CLASS:PUBLIC
+DTSTAMP:20200407T173720Z
+DTSTART:20140619T120000Z
+DTEND:20140619T180000Z
+LOCATION:16bis Boulevard Montmartre\, Paris\, France
+SUMMARY:Mozilla Web Entrepreneur Conference
+DESCRIPTION:Dans le cadre du Festival de la French Tech\, Mozilla Paris te
+ nait à marquer son attachement et son soutien aux startups françaises : 
+ aussi\, que vous soyez entrepreneurs\, développeurs\, designers ou encore
+  étudiants porteurs de projets\, venez découvrir comment faire du Web vo
+ tre outil de croissance !
+URL:https://reps.mozilla.org/e/mozilla-web-entrepreneur-conference/
+SEQUENCE:1
+X-COORDINATES-LAT:48.8719261875
+X-COORDINATES-LON:2.34142756497
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

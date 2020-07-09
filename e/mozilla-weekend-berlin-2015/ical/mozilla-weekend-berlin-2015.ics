@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3816
+CLASS:PUBLIC
+DTSTAMP:20200407T175634Z
+DTSTART:20150711T080000Z
+DTEND:20150712T150000Z
+LOCATION:Wikimedia\, Tempelhofer Ufer 23-24\, Berlin (Saturday) / Mozilla 
+ Office\, Voltastrasse 5\, Berlin (Sunday)\, Berlin\, Germany
+SUMMARY:Mozilla Weekend Berlin 2015
+DESCRIPTION:Mozilla Weekend will be the first of its kind in Germany. We w
+ ill have talks on Saturday and workshops to go in depth on Sunday. We will
+  focus on coders as well as non-coders. This means that everybody will fin
+ d something interesting and will be able to work on something in the works
+ hops.
+URL:https://reps.mozilla.org/e/mozilla-weekend-berlin-2015/
+SEQUENCE:10
+X-COORDINATES-LAT:52.4983269706
+X-COORDINATES-LON:13.3805007933
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

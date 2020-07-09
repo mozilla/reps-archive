@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1690
+CLASS:PUBLIC
+DTSTAMP:20200423T203704Z
+DTSTART:20140103T023000Z
+DTEND:20140103T040000Z
+LOCATION:Taipei Milk King - Taipei City Hall Store\, Da-an District\, Taiw
+ an
+SUMMARY:Meeting on FSA program with MKTG team staff of Mozilla Taiwan offi
+ ce
+DESCRIPTION:Community meeting with Estela &amp; Michael from Taipei office tog
+ ether previewing the plan of revised Firefox Student Ambassador program of
+  Taipei office\, discussing about several possible problem and issues to b
+ e further discuss on the community mailing list.
+URL:https://reps.mozilla.org/e/meeting-on-fsa-program-with-mktg-team-staff
+ -of-mozilla-taiwan-office/
+SEQUENCE:5
+X-COORDINATES-LAT:25.041249676
+X-COORDINATES-LON:121.568260431
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@571
+CLASS:PUBLIC
+DTSTAMP:20200423T220008Z
+DTSTART:20130323T120000Z
+DTEND:20130323T150000Z
+LOCATION:O&#39;Shore\, Faculty of I.T\, Makerere University\, KAMPALA\, Uganda
+SUMMARY:MozCafe Kampala
+DESCRIPTION:A meet up of mozillians\,volunteers and individuals who are ea
+ ger to know about Mozilla\, its mission and knowledge on open source proje
+ cts
+URL:https://reps.mozilla.org/e/mozcafe-kampala/
+SEQUENCE:1
+X-COORDINATES-LAT:-1.40610883544
+X-COORDINATES-LON:33.75
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

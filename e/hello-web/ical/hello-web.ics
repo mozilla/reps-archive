@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5728
+CLASS:PUBLIC
+DTSTAMP:20200407T171705Z
+DTSTART:20161025T100000Z
+DTEND:20161120T140000Z
+LOCATION:Almakan Cowork space\, Al Iskandariyah\, Egypt
+SUMMARY:Hello Web
+DESCRIPTION:It is web designing event which aims to learning the web and d
+ esigning it. We are giving the attendee sessions about what is the web and
+  how it works then start giving them the technical skills needed to design
+  the web through session and workshops then Forming teams of average five 
+ people and select ideas. Then letting them develop their web site with our
+  mentors and start judging the web sites to position it.
+URL:https://reps.mozilla.org/e/hello-web/
+SEQUENCE:7
+X-COORDINATES-LAT:31.2127011358
+X-COORDINATES-LON:29.9370546348
+X-COUNTRY-CODE:eg
+END:VEVENT
+
+END:VCALENDAR

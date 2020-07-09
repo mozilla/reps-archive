@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4052
+CLASS:PUBLIC
+DTSTAMP:20200407T174143Z
+DTSTART:20150711T053000Z
+DTEND:20150712T120000Z
+LOCATION:Mozilla Community Space\, Bangalore\, India
+SUMMARY:Tech Evangelism Workshop (July 2015)
+DESCRIPTION:2 day workshop on Tech Evangelism\, covering topics like prepa
+ ring for public speaking\, breaking the ice\, researching\, preparing reus
+ able materials\, pitching and hands-on exercises.
+URL:https://reps.mozilla.org/e/tech-evangelism-workshop-july-2015/
+SEQUENCE:20
+X-COORDINATES-LAT:12.9632614657
+X-COORDINATES-LON:77.6142479182
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

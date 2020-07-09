@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4364
+CLASS:PUBLIC
+DTSTAMP:20200407T174941Z
+DTSTART:20150903T220000Z
+DTEND:20150904T000000Z
+LOCATION:Mozilla Office - 366 Adelaide St W\, Toronto\, ON\, Toronto\, Can
+ ada
+SUMMARY:Mozilla Toronto Meetup: Pitch Competition + Networking
+DESCRIPTION:It&#39;s all about pitching and web apps for this edition of the M
+ ozilla Toronto Community meetup.\n\nAfter a brief talk about Mozilla devel
+ opment tools\, we&#39;ll have a pitch competition where the winner gets to tak
+ e home $100!\n\nIt&#39;s going to be fun\, but also get to practice your pitch
+ \, get feedback on your app\, and gain credibility!\n\nThere will be plent
+ y of chances to network and talk about the web\, Mozilla\, and your web ap
+ p idea/startup.\n\nNote: this event was cancelled.
+URL:https://reps.mozilla.org/e/mozilla-toronto-meetup-pitch-competition-ne
+ tworking/
+SEQUENCE:4
+X-COORDINATES-LAT:43.6471720589
+X-COORDINATES-LON:-79.3940936029
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

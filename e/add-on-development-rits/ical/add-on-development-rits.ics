@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8322
+CLASS:PUBLIC
+DTSTAMP:20200407T171652Z
+DTSTART:20190210T053000Z
+DTEND:20190210T103000Z
+LOCATION:RGI GROUP OF INSTITUTIONS\, Bhopal\, India
+SUMMARY:Add-on development @ RITS
+DESCRIPTION:A one-day workshop fully packed with building add-on for Firef
+ ox Browser. This will encourage participants to build their own add-on and
+  publish it on addons.mozilla.org
+URL:https://reps.mozilla.org/e/add-on-development-rits/
+SEQUENCE:5
+X-COORDINATES-LAT:23.2507674361
+X-COORDINATES-LON:77.4016106129
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

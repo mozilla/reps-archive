@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7683
+CLASS:PUBLIC
+DTSTAMP:20200407T171703Z
+DTSTART:20180519T180000Z
+DTEND:20180520T181500Z
+LOCATION:PUC-SP - Campus Consolação\, Campinas\, Brazil
+SUMMARY:Dive Into Rust @BSidesSP2018
+DESCRIPTION:BSidesSP is a free conference organized by professionals invol
+ ved with the information security market. The main objective of BSidesSP i
+ s to enable innovation\, discussion and knowledge sharing about informatio
+ n security and hacker culture\, in a relaxed atmosphere and within an appr
+ oach where these disciplines complement each other.
+URL:https://reps.mozilla.org/e/dive-into-rust-bsidessp2018/
+SEQUENCE:2
+X-COORDINATES-LAT:-22.9156039413
+X-COORDINATES-LON:-47.065063566
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

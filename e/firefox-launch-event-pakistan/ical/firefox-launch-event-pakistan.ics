@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2255
+CLASS:PUBLIC
+DTSTAMP:20200407T182507Z
+DTSTART:20140510T060000Z
+DTEND:20140510T110000Z
+LOCATION:Beaconhouse National University\, Tarogil Campus\, Lahore\, Lahor
+ e\, Pakistan
+SUMMARY:Firefox launch event - Pakistan
+DESCRIPTION:A celebration of the release of the latest version of Firefox 
+ with the revamped UI.
+URL:https://reps.mozilla.org/e/firefox-launch-event-pakistan/
+SEQUENCE:1
+X-COORDINATES-LAT:31.5502576387
+X-COORDINATES-LON:74.2945861258
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

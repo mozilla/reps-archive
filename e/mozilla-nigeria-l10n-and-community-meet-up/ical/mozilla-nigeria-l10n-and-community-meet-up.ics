@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5242
+CLASS:PUBLIC
+DTSTAMP:20200407T175311Z
+DTSTART:20160809T100000Z
+DTEND:20160809T170000Z
+LOCATION:Bayero University Kano (BUK)\, Gwarzo\, Nigeria
+SUMMARY:Mozilla Nigeria L10n and Community Meet-up
+DESCRIPTION:This event will bring together over 200 Nigeria youth service 
+ corp members (NYSC)\, graduates and students to translate Firefox to Hausa
+ \, learn more about Mozilla and have Firefox and Firefox add-on&#39;s installe
+ d for them.\n\nThrough this event\, we will strengthen the Mozilla contrib
+ utor base in Nigeria. Attendees will be leave knowledgeable about Mozilla 
+ and even more importantly how to start contributing to Mozilla.\n\nGuest: 
+ Arky R and Olumide Olaniyan\nOrganizer: Adeyeye Samuel
+URL:https://reps.mozilla.org/e/mozilla-nigeria-l10n-and-community-meet-up/
+SEQUENCE:6
+X-COORDINATES-LAT:11.9496547067
+X-COORDINATES-LON:8.50247383118
+X-COUNTRY-CODE:ng
+END:VEVENT
+
+END:VCALENDAR

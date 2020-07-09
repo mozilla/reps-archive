@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7354
+CLASS:PUBLIC
+DTSTAMP:20200407T171518Z
+DTSTART:20180217T030000Z
+DTEND:20180218T100000Z
+LOCATION:SRKR\, Bheemavaram\, India
+SUMMARY:Activate Mozilla @ SRKR
+DESCRIPTION:This event aims to help students to get involved with mozactiv
+ ate areas- specifically focused on web VR and Web Extension development. S
+ tudent organizer inovled:  Amardeep
+URL:https://reps.mozilla.org/e/activate-mozilla-srkr/
+SEQUENCE:5
+X-COORDINATES-LAT:16.5421640094
+X-COORDINATES-LON:81.5259218198
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

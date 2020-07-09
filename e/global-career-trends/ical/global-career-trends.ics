@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1734
+CLASS:PUBLIC
+DTSTAMP:20200423T203254Z
+DTSTART:20140123T000000Z
+DTEND:20140123T020000Z
+LOCATION:San Sebastian College-Recoletos Canlubang\, Calamba\, Philippines
+SUMMARY:Global Career Trends
+DESCRIPTION:Explore career opportunities for high school graduating studen
+ ts by sharing expertise in order to give ideas about field of specializati
+ on like technology
+URL:https://reps.mozilla.org/e/global-career-trends/
+SEQUENCE:2
+X-COORDINATES-LAT:14.1977147777
+X-COORDINATES-LON:121.15946956
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

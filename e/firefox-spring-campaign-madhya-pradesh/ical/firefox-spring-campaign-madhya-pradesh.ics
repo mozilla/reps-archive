@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3926
+CLASS:PUBLIC
+DTSTAMP:20200423T170916Z
+DTSTART:20150627T023000Z
+DTEND:20150627T123000Z
+LOCATION:Bhopal\, Bhopal\, India
+SUMMARY:Firefox Spring Campaign\, Madhya Pradesh
+DESCRIPTION:A mozcoffee event in Bhopal &amp; Indore to spread the words about
+  Firefox under Firefox Spring Campaign
+URL:https://reps.mozilla.org/e/firefox-spring-campaign-madhya-pradesh/
+SEQUENCE:3
+X-COORDINATES-LAT:23.2598520483
+X-COORDINATES-LON:77.4455565959
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5207
+CLASS:PUBLIC
+DTSTAMP:20200407T181900Z
+DTSTART:20161029T100000Z
+DTEND:20161030T223000Z
+LOCATION:RESIDENCE NIABLE PRESTIGE\, 8ème Tranche\, Abidjan\, Ivory Coast
+SUMMARY:LOCAL COMMUNITY MEETUP COTE D&#39;IVOIRE
+DESCRIPTION:we organize a community meetup Côte d&#39;Ivoire to in order to r
+ esolve certain conflicts of Leadership\, try to activate some inactive Rep
+ s\, expose the difficulties of each plan future activities together to mov
+ e the community and have more impact in the next six months.\n It is also 
+ an opportunity to meet some key contributors around a working session to m
+ entor the volunteer process.
+URL:https://reps.mozilla.org/e/local-community-mettup-cote-divoire/
+SEQUENCE:13
+X-COORDINATES-LAT:5.3382173666
+X-COORDINATES-LON:-4.000239374
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

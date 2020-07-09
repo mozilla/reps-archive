@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2945
+CLASS:PUBLIC
+DTSTAMP:20200423T184606Z
+DTSTART:20141012T080000Z
+DTEND:20141012T140000Z
+LOCATION:Em-Bar\, Gabriel-Max-Straße 17\, Berlin (Map on this page not ac
+ curate)\, Berlin\, Germany
+SUMMARY:Mozilla Brunch Berlin
+DESCRIPTION:Let&#39;s have a &#34;fashionable&#34; brunch with Berlin designers\, make
+ rs and fashion hackers at Em-Bar in Friedrichshain. After the Mozilla Hack
+ ing Day at MeshCon we will meet up to have a relaxed brunch together and e
+ njoy good conversations with all the interesting devs and contributors who
+  are still here in Berlin.
+URL:https://reps.mozilla.org/e/mozilla-brunch-berlin/
+SEQUENCE:3
+X-COORDINATES-LAT:52.5113979258
+X-COORDINATES-LON:13.4473800589
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

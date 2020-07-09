@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7265
+CLASS:PUBLIC
+DTSTAMP:20200407T174559Z
+DTSTART:20171118T100000Z
+DTEND:20171118T193000Z
+LOCATION:CAE - Centro de Aulas das Engenharias UFG\, Goiânia\, Brazil
+SUMMARY:XIV Fórum Goiano de Software Livre
+DESCRIPTION:Created in 2003 by the Free Software Community of the State of
+  Goiás\, the FGSL - Goias Free Software Forum involves since its first ed
+ ition the theme &#34;Socially FAIR economically VIABLE\, technologically SUSTA
+ INABLE&#34;\, discussing the issues that permeate the use\, production and the
+  spread of free software (SL) throughout the state of Goias.
+URL:https://reps.mozilla.org/e/xiv-forum-goiano-de-software-livre/
+SEQUENCE:1
+X-COORDINATES-LAT:-16.6836099081
+X-COORDINATES-LON:-49.2547760066
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

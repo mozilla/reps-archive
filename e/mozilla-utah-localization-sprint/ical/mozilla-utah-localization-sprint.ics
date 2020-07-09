@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2923
+CLASS:PUBLIC
+DTSTAMP:20200407T182503Z
+DTSTART:20141025T200000Z
+DTEND:20141025T230000Z
+LOCATION:2420 WILK Brigham Young University\, Provo\, United States
+SUMMARY:Mozilla Utah Localization Sprint
+DESCRIPTION:Mozillians in Utah and around the world will gather together t
+ o collaboratively translate strings for Firefox 35\, Firefox OS\, and othe
+ r Mozilla projects. All languages are welcome to participate\, but there i
+ s a unique focus on bringing in speakers of the following languages:\n- Pe
+ rsian\n- Brazilian Portuguese\n- Sinhala\n- Greek\n- Maithili\n- Hindi\n- 
+ Vietnamese\n- Ukranian\n- Shoshone\n- Navajo
+URL:https://reps.mozilla.org/e/mozilla-utah-localization-sprint/
+SEQUENCE:4
+X-COORDINATES-LAT:40.2489545219
+X-COORDINATES-LON:-111.647196293
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

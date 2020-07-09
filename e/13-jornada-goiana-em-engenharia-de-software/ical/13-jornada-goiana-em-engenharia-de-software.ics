@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1347
+CLASS:PUBLIC
+DTSTAMP:20200423T210531Z
+DTSTART:20130927T120000Z
+DTEND:20130928T210000Z
+LOCATION:Auditório João Alves de Queiroz (Auditório da TV Serra Dourada
+ )\, Goiania\, Brazil
+SUMMARY:13 Jornada Goiana em Engenharia de Software
+DESCRIPTION:A tech event in the city of Goiania\, one of the largest. This
+  years theme is mobility and how it impacts the industry.
+URL:https://reps.mozilla.org/e/13-jornada-goiana-em-engenharia-de-software
+ /
+SEQUENCE:1
+X-COORDINATES-LAT:-8.0592296272
+X-COORDINATES-LON:-54.228515625
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

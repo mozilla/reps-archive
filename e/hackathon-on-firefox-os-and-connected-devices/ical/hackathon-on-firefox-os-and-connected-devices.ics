@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5206
+CLASS:PUBLIC
+DTSTAMP:20200423T153552Z
+DTSTART:20160403T110000Z
+DTEND:20160403T180000Z
+LOCATION:CETPA Infotech 401 A\, 4th Floor\, Lekhraj Khazana\, Faizabad Roa
+ d\, Indira Nagar\, Lucknow\, India
+SUMMARY:Hackathon on Firefox OS And Connected Devices
+DESCRIPTION:Its a 7 hours event being organized by BBD Firefox Club focusi
+ ng on Firefox OS and learning Web Technologies - HTML\, CSS and JavaScript
+  wherein attendees will get to know about FOSS &amp;  Mozilla&#39;s mission along 
+ with getting hands-on experience. Creating awareness about open web and ho
+ w can one contribute in that area\, is one of the goals of this event.
+URL:https://reps.mozilla.org/e/hackathon-on-firefox-os-and-connected-devic
+ es/
+SEQUENCE:2
+X-COORDINATES-LAT:26.8248367278
+X-COORDINATES-LON:80.8946084976
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

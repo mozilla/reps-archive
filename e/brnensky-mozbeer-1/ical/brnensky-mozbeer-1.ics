@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6725
+CLASS:PUBLIC
+DTSTAMP:20200407T181219Z
+DTSTART:20170623T160000Z
+DTEND:20170623T200000Z
+LOCATION:TBD\, Brno\, Czech Republic
+SUMMARY:Brněnský MozBeer #1
+DESCRIPTION:This will be the our first MozBeer\, where we will discuss var
+ ious IT related and totally unrelated topics. Come and join us for one or 
+ two beers :)\n--\nPrvní MozBeer v Brně! Přijďte si s námi nad škopke
+ m piva popovídat o webu\, technologiích\, svobodě na internetu a dalš
+ ích zajímavých tématech!
+URL:https://reps.mozilla.org/e/brnensky-mozbeer-1/
+SEQUENCE:1
+X-COORDINATES-LAT:49.1912995044
+X-COORDINATES-LON:16.612460196
+X-COUNTRY-CODE:cz
+END:VEVENT
+
+END:VCALENDAR

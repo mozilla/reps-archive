@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5618
+CLASS:PUBLIC
+DTSTAMP:20200423T151408Z
+DTSTART:20160709T050000Z
+DTEND:20160709T073000Z
+LOCATION:Long Mountain\, Long Mountain\, Mauritius
+SUMMARY:Mozilla Knowledge Series: Introduction to HTML
+DESCRIPTION:Mozilla Knowledge Series continues and this will be the third 
+ sessions will deal with an Introduction to HTML. The Mozilla Learning Curr
+ iculum will be used for this purposeSeries of presentations on different t
+ opics which will target kids . In addition to this\, the series will also 
+ comprise of the following topics: Security and privacy on the Net\, Firefo
+ x\, webmaking\, web literacy\, coding and other topics that are related to
+  Connected Devices.
+URL:https://reps.mozilla.org/e/mozilla-knowledge-series-introduction-to-ht
+ ml/
+SEQUENCE:2
+X-COORDINATES-LAT:-20.1548574066
+X-COORDINATES-LON:57.5697298057
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

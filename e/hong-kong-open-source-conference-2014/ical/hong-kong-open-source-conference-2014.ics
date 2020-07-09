@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1512
+CLASS:PUBLIC
+DTSTAMP:20200407T175332Z
+DTSTART:20140329T020000Z
+DTEND:20140329T100000Z
+LOCATION:Hong Kong Science Park\, Shatin\, Hong Kong\, Hong Kong
+SUMMARY:Hong Kong Open Source Conference 2014
+DESCRIPTION:Annual International Open Source Conference in Hong Kong. \n\n
+ MozTW and Mozilla Hong Kong are starting to develop large region  Chinese 
+ community (TW\, HK\, CN)\, and organize a 1-hr long Chinese Mozilla forum 
+ and a booth at Hong Kong Open Source Conference 2014. We encourage and rec
+ ruit more contributors and students in Hong Kong and China to join Mozilla
+  community\, to exchange community-building experience and grow Mozillians
+  in Greater China region.
+URL:https://reps.mozilla.org/e/hong-kong-open-source-conference-2014/
+SEQUENCE:11
+X-COORDINATES-LAT:22.4257253313
+X-COORDINATES-LON:114.211880923
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

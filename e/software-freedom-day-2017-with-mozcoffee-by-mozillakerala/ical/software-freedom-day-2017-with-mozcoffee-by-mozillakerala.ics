@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6960
+CLASS:PUBLIC
+DTSTAMP:20200423T103817Z
+DTSTART:20170917T090000Z
+DTEND:20170917T130000Z
+LOCATION:MozSpace Kottayam\, 13/1117\, MG Rd\, Eerayil Kadavu\, Kottayam\,
+  Kerala 686001\, Kottayam\, India
+SUMMARY:Software Freedom Day 2017 with MozCoffee by MozillaKerala
+DESCRIPTION:Software Freedom Day (SFD) is a celebration that takes place s
+ imultaneously around the world and brings together the community to educat
+ e the public about free software\, with the aim of publicizing it and enco
+ uraging its use. \n\nThis is a small informal meet up with peoples where a
+  report is given of recent activities and upcoming projects of a community
+  as well as get ideas and feedback from the general public.
+URL:https://reps.mozilla.org/e/software-freedom-day-2017-with-mozcoffee-by
+ -mozillakerala/
+SEQUENCE:4
+X-COORDINATES-LAT:9.58526167562
+X-COORDINATES-LON:76.5269941089
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

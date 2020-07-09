@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5846
+CLASS:PUBLIC
+DTSTAMP:20200423T115155Z
+DTSTART:20161020T170000Z
+DTEND:20161020T190000Z
+LOCATION:sektor5\, Siebenbrunnengasse 44\, 1050 Wien\, Vienna\, Austria
+SUMMARY:Mozilla Vienna Meetup - HTTP/2 &amp; more
+DESCRIPTION:We&#39;re gathering for another Mozilla Meetup in sektor5 - this t
+ ime with a focus on HTTP/2!
+URL:https://reps.mozilla.org/e/mozilla-vienna-meetup-http-2-more/
+SEQUENCE:2
+X-COORDINATES-LAT:48.1860998555
+X-COORDINATES-LON:16.3552571833
+X-COUNTRY-CODE:at
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1348
+CLASS:PUBLIC
+DTSTAMP:20200423T210215Z
+DTSTART:20131010T063000Z
+DTEND:20131011T063000Z
+LOCATION:NIMHANS Convention Centre\, Bangalore\,\, India
+SUMMARY:Mobile Developers&#39; Summit\, Bangalore 2013
+DESCRIPTION:Mobile Developer Summit (MODS) is the biggest and definitive m
+ ulti-platform conference and expo series for India&#39;s mobile developer ecos
+ ystem.
+URL:https://reps.mozilla.org/e/mobile-developers-summit-bangalore-2013/
+SEQUENCE:4
+X-COORDINATES-LAT:12.941
+X-COORDINATES-LON:77.596
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

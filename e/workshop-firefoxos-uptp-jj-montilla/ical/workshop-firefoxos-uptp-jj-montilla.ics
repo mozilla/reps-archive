@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2009
+CLASS:PUBLIC
+DTSTAMP:20200423T201431Z
+DTSTART:20140319T183000Z
+DTEND:20140319T223000Z
+LOCATION:TBD\, Acarigua\, Venezuela
+SUMMARY:Workshop FirefoxOs UPTP JJ Montilla
+DESCRIPTION:In this workshop I will be giving a talk ons development\, int
+ egrating new partners for mozilla\, application developers with local cont
+ ent for the platform firefoxos\, disseminate new web technologies for an o
+ pen web\, this university still has not been given any event mozilla and t
+ here are students with good potential
+URL:https://reps.mozilla.org/e/workshop-firefoxos-uptp-jj-montilla/
+SEQUENCE:8
+X-COORDINATES-LAT:9.55807992348
+X-COORDINATES-LON:-69.2037988454
+X-COUNTRY-CODE:ve
+END:VEVENT
+
+END:VCALENDAR

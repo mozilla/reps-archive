@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1755
+CLASS:PUBLIC
+DTSTAMP:20200423T202459Z
+DTSTART:20140222T043000Z
+DTEND:20140222T083000Z
+LOCATION:KKS Mani Polytechnic college\, Vellore\, India
+SUMMARY:Mozignite
+DESCRIPTION:Mozignite is a one day event to introduce FOSS\, Mozilla and F
+ SA Program to the students of KKS Mani Polytechnic college. Expected parti
+ cipants around 75 and more.
+URL:https://reps.mozilla.org/e/mozignite/
+SEQUENCE:4
+X-COORDINATES-LAT:12.7811221775
+X-COORDINATES-LON:79.1446294781
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

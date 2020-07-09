@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2850
+CLASS:PUBLIC
+DTSTAMP:20200423T185443Z
+DTSTART:20140925T043000Z
+DTEND:20140925T083000Z
+LOCATION:NDMVP College of Engeneering\, Gangapur Road\, Nashik\, India
+SUMMARY:MozCraft
+DESCRIPTION:This session is mainly focused on Mozilla Crafting Community a
+ ctivities to bring in more diverse people into Mozilla who love art and cr
+ aft as well as the web.\nAlso Womoz will be a sub session of this event.
+URL:https://reps.mozilla.org/e/mozcraft/
+SEQUENCE:3
+X-COORDINATES-LAT:19.9724883764
+X-COORDINATES-LON:73.8131103292
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

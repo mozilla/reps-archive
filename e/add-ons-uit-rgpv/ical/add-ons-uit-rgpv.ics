@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7378
+CLASS:PUBLIC
+DTSTAMP:20200407T165247Z
+DTSTART:20180322T043000Z
+DTEND:20180322T093000Z
+LOCATION:Rajiv Gandhi Proudyogiki Vishwavidyalaya\, Bhopal\, India
+SUMMARY:Add-ons @UIT-RGPV
+DESCRIPTION:With Web Extensions APIs\, it’s easier than ever to create e
+ xtensions that can be easily ported to Firefox\, Chrome\, Edge\, and Opera
+ . This workshop will help more people to learn how to develop add-ons and 
+ ensure that Firefox remains the most customizable browser In this event\, 
+ you will learn Add-ons development. This event is for participants who alr
+ eady know HTML and JavaScript. The targeted attendee will be first taught 
+ with the basics of add-on development.
+URL:https://reps.mozilla.org/e/add-ons-uit-rgpv/
+SEQUENCE:17
+X-COORDINATES-LAT:23.3102731
+X-COORDINATES-LON:77.3619186
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

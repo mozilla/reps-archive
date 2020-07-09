@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1914
+CLASS:PUBLIC
+DTSTAMP:20200407T175237Z
+DTSTART:20140426T070000Z
+DTEND:20140426T200000Z
+LOCATION:co.up\, Adalbertstraße 8\, 10999 Berlin\, Berlin\, Germany
+SUMMARY:Mozilla Hacking Day Germany
+DESCRIPTION:Join us for a &#34;Mozilla Hacking&#34; Day in Berlin. Regardless whet
+ her you&#39;ve already hacked on Mozilla Projects or not\, we will give talks 
+ and tutorials how to hack on the different Mozilla Projects&#39; code. Firefox
+  Core\, Firefox OS\, Firefox for Android\, Testing Infrastructure\, Webmak
+ er\, and more!\n\nHappy hacking!
+URL:https://reps.mozilla.org/e/mozilla-hacking-day-germany/
+SEQUENCE:4
+X-COORDINATES-LAT:52.5001808033
+X-COORDINATES-LON:13.4197626113
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

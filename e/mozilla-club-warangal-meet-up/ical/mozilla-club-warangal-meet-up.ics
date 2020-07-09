@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2520
+CLASS:PUBLIC
+DTSTAMP:20200407T175021Z
+DTSTART:20140706T083000Z
+DTEND:20140706T103000Z
+LOCATION:BITS &amp; BYTES Institute\,Hanamkonda\,Warangal\, Warangal - AP\, In
+ dia
+SUMMARY:Mozilla Club Warangal Meet Up
+DESCRIPTION:Mozilla Club Warangal Meet up is being organized to know the s
+ tatus of current Mozilla Activities being carried out and also discuss the
+  upcoming activities.
+URL:https://reps.mozilla.org/e/mozilla-club-warangal-meet-up/
+SEQUENCE:1
+X-COORDINATES-LAT:17.9787330956
+X-COORDINATES-LON:80.2404780686
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

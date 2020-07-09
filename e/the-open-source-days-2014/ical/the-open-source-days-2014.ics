@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2072
+CLASS:PUBLIC
+DTSTAMP:20200407T182520Z
+DTSTART:20140328T140000Z
+DTEND:20140330T130000Z
+LOCATION:Akademia Techniczno-Humanistyczna in Bielsko-Biała\, Bielsko-Bia
+ ła\, Poland
+SUMMARY:The Open Source Days 2014
+DESCRIPTION:The conference about open source software for developers but n
+ ot only. Presentations and workshops.
+URL:https://reps.mozilla.org/e/the-open-source-days-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:49.7838814994
+X-COORDINATES-LON:19.0581600659
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

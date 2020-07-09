@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5475
+CLASS:PUBLIC
+DTSTAMP:20200423T151620Z
+DTSTART:20160630T110000Z
+DTEND:20160630T123000Z
+LOCATION:Xinjiang Normal University\, Urumqi\, China
+SUMMARY:We are from Xinjiang Firefox community-- Students volunteer traini
+ ng
+DESCRIPTION:Students volunteer training What is mozilla? What is Web Liter
+ acy? Why do we have to organize this event? Description The goal of this a
+ ctivity is to let parents\, teachers\, and students to understand the sign
+ ificance of Firefox Tianshan tour activities\, and recognize that through 
+ our joint efforts\, the students will gain what? How to improve the level 
+ of computer applications?
+URL:https://reps.mozilla.org/e/we-are-from-xinjiang-firefox-community-stud
+ ents-volunteer-training/
+SEQUENCE:0
+X-COORDINATES-LAT:43.8231904004
+X-COORDINATES-LON:2607.69610119
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

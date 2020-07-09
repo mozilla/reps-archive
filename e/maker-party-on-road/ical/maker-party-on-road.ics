@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4249
+CLASS:PUBLIC
+DTSTAMP:20200423T165753Z
+DTSTART:20150729T073000Z
+DTEND:20150729T103000Z
+LOCATION:Sector v road\, Kolkata\, India
+SUMMARY:Maker Party on Road
+DESCRIPTION:In road we teach people about web. Also we play some offline g
+ ames with people to teach the web.
+URL:https://reps.mozilla.org/e/maker-party-on-road/
+SEQUENCE:1
+X-COORDINATES-LAT:22.5463833229
+X-COORDINATES-LON:88.378418237
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

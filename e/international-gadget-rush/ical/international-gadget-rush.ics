@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2949
+CLASS:PUBLIC
+DTSTAMP:20200407T174450Z
+DTSTART:20141031T043000Z
+DTEND:20141102T143000Z
+LOCATION:JRC Conventions &amp; Trade Fairs\, Hyderabad\, India
+SUMMARY:International Gadget Rush
+DESCRIPTION:The first of its kind in India\, “IGR” will host nearly 20
+ 0 companies introducing their latest products\, technologies\, tools and i
+ nventions. Apart from shows and displays\, “IGR” will also be the venu
+ e for buying the newest gadgets. It aspires to meet the demands of the tec
+ h-savvy crowd both in INDIA and abroad\, and set a new standard for consum
+ er electronics and the gadget market in the world.
+URL:https://reps.mozilla.org/e/international-gadget-rush/
+SEQUENCE:7
+X-COORDINATES-LAT:17.385044
+X-COORDINATES-LON:78.486671
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

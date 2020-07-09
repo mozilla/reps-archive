@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3394
+CLASS:PUBLIC
+DTSTAMP:20200407T175757Z
+DTSTART:20150124T160000Z
+DTEND:20150124T200000Z
+LOCATION:Garoa Hacker Clube\, Sao Paulo\, Brazil
+SUMMARY:I Mozilla Meetup São Paulo
+DESCRIPTION:Talks and conversation about Mozilla&#39;s products and mission.\n
+ \nWe&#39;ll have 3 talks with 3 different focuses:\n\n* Get involved\n* Firefo
+ x OS\n* Webmaker
+URL:https://reps.mozilla.org/e/i-mozilla-meetup-sao-paulo/
+SEQUENCE:1
+X-COORDINATES-LAT:-23.5692991298
+X-COORDINATES-LON:-46.6914346215
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

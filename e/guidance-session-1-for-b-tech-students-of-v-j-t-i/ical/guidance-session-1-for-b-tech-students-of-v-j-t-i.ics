@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3646
+CLASS:PUBLIC
+DTSTAMP:20200423T174214Z
+DTSTART:20150316T043000Z
+DTEND:20150316T063000Z
+LOCATION:V.J.T.I.\, Mumbai\, India
+SUMMARY:Guidance Session #1 (for B.Tech Students of V.J.T.I.)
+DESCRIPTION:Many students demonstrated their interest after my Introductor
+ y talk at  V.J.T.I. Some of them wanted to get started with Mozilla Codeba
+ se. So\, I would met them during some free time and introduce them to code
+ base. So\, this is first session of this kind where students would meet me
+  in bits and pieces and I would help them getting started.
+URL:https://reps.mozilla.org/e/guidance-session-1-for-b-tech-students-of-v
+ -j-t-i/
+SEQUENCE:1
+X-COORDINATES-LAT:24.6436888515
+X-COORDINATES-LON:76.6772451997
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

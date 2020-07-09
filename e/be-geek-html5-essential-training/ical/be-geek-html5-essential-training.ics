@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@650
+CLASS:PUBLIC
+DTSTAMP:20200407T173714Z
+DTSTART:20130317T090000Z
+DTEND:20130317T160000Z
+LOCATION:Club Jeune Science \, Beja\, Tunisia
+SUMMARY:Be Geek : HTML5 Essential Training
+DESCRIPTION:During this event at &#34;Youngs &amp; Sciences Center&#34; we will initia
+ te young web lovers to the basics of HTML5 &amp; CSS3 using Mozilla Webmaker t
+ ools. After the training session\, it will be a coding session so the part
+ icipants will feel free to practice what they have been learning and try t
+ o create a website using the new techniques that they have learned.
+URL:https://reps.mozilla.org/e/be-geek-html5-essential-training/
+SEQUENCE:0
+X-COORDINATES-LAT:36.6353661199
+X-COORDINATES-LON:9.62951660156
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8893
+CLASS:PUBLIC
+DTSTAMP:20200423T080642Z
+DTSTART:20191017T110000Z
+DTEND:20191017T200000Z
+LOCATION:Fatec Taquaritinga\, Taquaritinga\, Brazil
+SUMMARY:Hacktoberfest Taquaritinga
+DESCRIPTION:Hacktoberfest is a month-long celebration of open source softw
+ are run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our 
+ global community. To participate\, four pull requests must be submitted to
+  public GitHub repositories.
+URL:https://reps.mozilla.org/e/hacktoberfest-taquaritinga/
+SEQUENCE:0
+X-COORDINATES-LAT:-21.430581184
+X-COORDINATES-LON:-48.5153603558
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

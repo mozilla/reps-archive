@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5853
+CLASS:PUBLIC
+DTSTAMP:20200407T181952Z
+DTSTART:20160918T010000Z
+DTEND:20160918T030000Z
+LOCATION:Hangout Air\, Kanpur\, India
+SUMMARY:Introduction to Mozilla Science Lab
+DESCRIPTION:The Mozilla Science Lab is an initiative of the Mozilla Founda
+ tion exploring how the power of open source can change the way science is 
+ done on the web. Mozilla Science Lab is an initiative dedicated to using t
+ he power of the web to change the way we do science and is helping a globa
+ l network of researchers\, tool developers\, librarians and publishers col
+ laborate to further science on the web. It facilitate learning around open
+  source\, open data and furthering research on the web.
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-science-lab/
+SEQUENCE:1
+X-COORDINATES-LAT:26.4041706119
+X-COORDINATES-LON:79.7840881348
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

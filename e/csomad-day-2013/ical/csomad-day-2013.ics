@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1014
+CLASS:PUBLIC
+DTSTAMP:20200423T213226Z
+DTSTART:20130622T080000Z
+DTEND:20130622T150000Z
+LOCATION:Field\, Csomád\, Hungary
+SUMMARY:Csomád day 2013
+DESCRIPTION:The Csomad Day is an Event with a broad Scope at Users\, Begin
+ ners. It features Expose\, Spreading\, Education\, and a trade-show as wel
+ l. \nWe will have booth here.\nIntroducing Mozilla\, Firefox\, Firefox OS\
+ nAs usual I bring QUIZ\, answer to questions.\nI found only the last year&#39;
+ s eventpage.
+URL:https://reps.mozilla.org/e/csomad-day-2013/
+SEQUENCE:3
+X-COORDINATES-LAT:47.6519174109
+X-COORDINATES-LON:19.2343997955
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3331
+CLASS:PUBLIC
+DTSTAMP:20200407T174427Z
+DTSTART:20150207T000000Z
+DTEND:20150207T100000Z
+LOCATION:Mozilla Community Space Bangalore\, Bangalore\, India
+SUMMARY:FirefoxOS &amp; The Bachchao Project Hack Day
+DESCRIPTION:Developers from The Bachchao Project will be collaborating wit
+ h Mozillians in porting/developing apps for FirefoxOS.\n\nThe Bachchao Pro
+ ject (thebachchaoproject.org) is a community effort to build Open Source T
+ echnologies with the following aims:\n\n1. Personal Safety with focus on w
+ omen.\n2. Empowering prevention of Gender Based Violence.\n3. Enabling fig
+ ht against Gender Based Violence.
+URL:https://reps.mozilla.org/e/firefoxos-the-bachchao-project-hack-day/
+SEQUENCE:8
+X-COORDINATES-LAT:12.9367532148
+X-COORDINATES-LON:77.6000967622
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

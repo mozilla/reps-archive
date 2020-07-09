@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7933
+CLASS:PUBLIC
+DTSTAMP:20200423T091344Z
+DTSTART:20180729T053000Z
+DTEND:20180729T083000Z
+LOCATION:L.D. College of Engineering\, Ahmedabad\, India
+SUMMARY:Internet Health Report 2018
+DESCRIPTION:Viral Parmar will speak about an Internet Health Report 2018 i
+ n details with audience to inform them\, engage discussions on the Interne
+ t Health key issues and get feedback for the Internet Health Report.
+URL:https://reps.mozilla.org/e/internet-health-report-2018-1/
+SEQUENCE:0
+X-COORDINATES-LAT:23.0334178784
+X-COORDINATES-LON:72.5465884205
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

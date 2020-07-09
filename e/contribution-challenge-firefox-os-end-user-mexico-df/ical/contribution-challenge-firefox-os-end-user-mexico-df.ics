@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3254
+CLASS:PUBLIC
+DTSTAMP:20200407T173753Z
+DTSTART:20150103T150000Z
+DTEND:20150103T230000Z
+LOCATION:TBD\, Mexico City\, Mexico
+SUMMARY:Contribution Challenge Firefox OS End User- Mexico DF
+DESCRIPTION:As part of Contribution Challenges\, we are planning an event 
+ to reach at Firefox end users in Mexico City. The event will consist in an
+  booth in a public space where community members will demo phones and show
+ s advantages of the system to the future users.
+URL:https://reps.mozilla.org/e/contribution-challenge-firefox-os-end-user-
+ mexico-df/
+SEQUENCE:2
+X-COORDINATES-LAT:19.4320610833
+X-COORDINATES-LON:-99.121581316
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2394
+CLASS:PUBLIC
+DTSTAMP:20200423T192633Z
+DTSTART:20140715T100000Z
+DTEND:20140715T150000Z
+LOCATION:DB Mall Bhopal Madhya Pradesh\, Bhopal\, India
+SUMMARY:MozCafe @ DB Bhopal
+DESCRIPTION:Introduction of Community Bhopal\n\n    About Community\n\n   
+  To introduce new Mozillians\n\n    Explain the area of contributions\n\n 
+    Get  interaction  from them\n\n    FSA club formation\n\n    Event plan
+ ning (will be held in July )\n\n    PPTs and other material sharing\n\n   
+  Leaders/Mentors of India introduction \n\n_______________________________
+ ____
+URL:https://reps.mozilla.org/e/mozcafe-db-bhopal/
+SEQUENCE:3
+X-COORDINATES-LAT:21.7765048164
+X-COORDINATES-LON:77.9956045747
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

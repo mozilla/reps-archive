@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4072
+CLASS:PUBLIC
+DTSTAMP:20200423T170733Z
+DTSTART:20150701T160000Z
+DTEND:20150701T180000Z
+LOCATION:ABIDJAN\,Marcory\, Ecole de Spécialité Multimédia d&#39;Abidjan\, 
+ Abidjan\, Ivory Coast
+SUMMARY:FIRST MDN WEDNESDAY DOC IVORY COAST
+DESCRIPTION:In order to get new contributors to get involved in MDN and SU
+ MO.
+URL:https://reps.mozilla.org/e/first-mdn-wednesday-doc-ivory-coast/
+SEQUENCE:3
+X-COORDINATES-LAT:5.314722576
+X-COORDINATES-LON:-4.0018555
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

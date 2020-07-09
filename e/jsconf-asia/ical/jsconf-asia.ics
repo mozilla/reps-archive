@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1426
+CLASS:PUBLIC
+DTSTAMP:20200423T204732Z
+DTSTART:20131128T000000Z
+DTEND:20131129T120000Z
+LOCATION:H20 Hotel\, Luneta\, Manila\, Philippines
+SUMMARY:JSConf.Asia 2013
+DESCRIPTION:JSConf.Asia is a yearly conference about JavaScript\, Web\, an
+ d Mobile. They aim to inform people about what’s going on the tech world
+ \, particularly web and mobile in Asia. The two-day conference is set to t
+ ake place in Manila and is happening on November 28-29\, 2013. About 300 p
+ articipants are expected to attend.
+URL:https://reps.mozilla.org/e/jsconf-asia/
+SEQUENCE:4
+X-COORDINATES-LAT:14.590146
+X-COORDINATES-LON:120.983849
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1255
+CLASS:PUBLIC
+DTSTAMP:20200423T210621Z
+DTSTART:20130926T000000Z
+DTEND:20130928T080000Z
+LOCATION:Ambon Trade Center Building\, Ambon\, Indonesia
+SUMMARY:STIFest 2013
+DESCRIPTION:A big event from School of Computer Science Ambon (STIKOM\nAMB
+ ON)\, named STIFEST2013! \n\nSTIFEST 2013 stands for STIKOM IT FESTIVAL\, 
+ is the first and biggest festival in the city of Ambon.\nOpen concept fest
+ ival with a series of talk shows\, workshops\, exhibitions IT and non-IT p
+ roduct and new student orientation STIKOM Ambon.\n\nMozilla were invited t
+ o give a talk in 2 sessions in this event.
+URL:https://reps.mozilla.org/e/stifest-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:-3.69682082343
+X-COORDINATES-LON:128.178777695
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

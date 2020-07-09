@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6164
+CLASS:PUBLIC
+DTSTAMP:20200423T114013Z
+DTSTART:20161217T053000Z
+DTEND:20161217T133000Z
+LOCATION:CSDS\, 29\, Rajpur Road\, New Delhi\, New Delhi\, India
+SUMMARY:FOSS un-conference
+DESCRIPTION:This is a large gathering of all Free and Open Source Software
+  Organization all over Delhi.\n\nThere will be representative from each co
+ mmunity and we&#39;ll be discussing about how every community works.
+URL:https://reps.mozilla.org/e/foss-un-conference/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6772537005
+X-COORDINATES-LON:77.2210149758
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

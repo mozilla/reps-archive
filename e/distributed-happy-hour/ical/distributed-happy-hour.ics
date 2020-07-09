@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7672
+CLASS:PUBLIC
+DTSTAMP:20200407T174358Z
+DTSTART:20180412T220000Z
+DTEND:20180413T000000Z
+LOCATION:The Internet\, Niterói\, Brazil
+SUMMARY:Distributed Happy Hour
+DESCRIPTION:The distributed happy hour is an online unconference organized
+  by the hacker collective which manages the hacker bus in Brazil. I will b
+ e speaking about decentralization\, web and the Scuttlebutt platform.
+URL:https://reps.mozilla.org/e/distributed-happy-hour/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.8808142596
+X-COORDINATES-LON:-43.2758787274
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

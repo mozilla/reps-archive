@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1202
+CLASS:PUBLIC
+DTSTAMP:20200423T205002Z
+DTSTART:20131119T000000Z
+DTEND:20131122T090000Z
+LOCATION:West Visayas State University – Iloilo Campus\, Iloilo City\, P
+ hilippines
+SUMMARY:Animahenasyon 2013
+DESCRIPTION:Animahenasyon serves as a venue for Filipino animators to pres
+ ent their world-class ideas\, to open doors of opportunities\, and a chanc
+ e for them to meet and be inspired by the finest names in the industry.
+URL:https://reps.mozilla.org/e/animahenasyon-2013/
+SEQUENCE:2
+X-COORDINATES-LAT:10.684899573
+X-COORDINATES-LON:122.579956055
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

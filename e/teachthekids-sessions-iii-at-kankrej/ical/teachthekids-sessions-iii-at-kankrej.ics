@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5852
+CLASS:PUBLIC
+DTSTAMP:20200423T145723Z
+DTSTART:20160911T043000Z
+DTEND:20160911T073000Z
+LOCATION:Kankrej\,Daskroi\, Ahmedabad\, Gujarat\, Ahmedabad\, India
+SUMMARY:TeachTheKids Sessions-III at Kankrej
+DESCRIPTION:We will teach kids of kankrej village which is near by Ahmedab
+ ad. We are planning to go every weekend for approximate three hours.This i
+ nitiative is organized by #MMozillaClub. We are trying to teach the kids i
+ n constant way so that those kids who are really interested in topic\, we 
+ can help them in better way.
+URL:https://reps.mozilla.org/e/teachthekids-sessions-iii-at-kankrej/
+SEQUENCE:1
+X-COORDINATES-LAT:23.6411696801
+X-COORDINATES-LON:71.8124999106
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

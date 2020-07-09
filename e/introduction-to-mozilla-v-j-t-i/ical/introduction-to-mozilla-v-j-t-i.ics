@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2792
+CLASS:PUBLIC
+DTSTAMP:20200423T185058Z
+DTSTART:20141001T093000Z
+DTEND:20141001T113000Z
+LOCATION:V.J.T.I.\, Mumbai\, India
+SUMMARY:Introduction to Mozilla @ V.J.T.I.
+DESCRIPTION:The event will consist of talks\, focused on introducing the w
+ orld of FOSS and Mozilla to the students. The students will gain insights 
+ into Mozilla&#39;s mission to keep the power of the Web in people hands and al
+ so the numerous projects which Mozilla is working on. The students will be
+  introduced to Mozilla&#39;s new mobile operating system - Firefox OS\, ahead 
+ of its forthcoming launch in India. The students will also be guided on th
+ e different ways of contributing to the Mozilla projects like Firefox.
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-v-j-t-i/
+SEQUENCE:11
+X-COORDINATES-LAT:18.8543103619
+X-COORDINATES-LON:72.6416015625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

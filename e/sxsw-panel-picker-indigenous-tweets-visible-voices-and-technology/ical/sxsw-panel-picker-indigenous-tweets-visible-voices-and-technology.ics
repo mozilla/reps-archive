@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@552
+CLASS:PUBLIC
+DTSTAMP:20200423T220237Z
+DTSTART:20130309T160000Z
+DTEND:20130309T170000Z
+LOCATION:Austin Convention Center\, Austin\, United States
+SUMMARY:SXSW Panel Picker: Indigenous Tweets\, Visible Voices and Technolo
+ gy
+DESCRIPTION:The Mozilla&#39;s Firefox localizations in Mexican indigenous lang
+ uages\, have been of great interest for the organization of SXSW Panel\, w
+ hich want to release that topic.\n\nOn the current Panel\, speakers are pa
+ rticipating with initiatives to preserve indigenous languages using the In
+ ternet.
+URL:https://reps.mozilla.org/e/sxsw-panel-picker-indigenous-tweets-visible
+ -voices-and-technology/
+SEQUENCE:0
+X-COORDINATES-LAT:30.2632929072
+X-COORDINATES-LON:-97.7394390106
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

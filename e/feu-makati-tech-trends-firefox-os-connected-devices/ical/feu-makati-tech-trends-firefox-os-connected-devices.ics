@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5115
+CLASS:PUBLIC
+DTSTAMP:20200423T155005Z
+DTSTART:20160209T103000Z
+DTEND:20160209T113000Z
+LOCATION:Far Eastern University - Makati\, Makati City\, Philippines
+SUMMARY:FEU-Makati Tech Trends (Firefox OS &amp; Connected Devices)
+DESCRIPTION:I was invited to give a talk about Firefox OS and Connected De
+ vices for the Tech Trends subject of the graduating batch of Information T
+ echnology students from the Far Eastern University - Makati Campus through
+  one of their Firefox Student Ambassadors (FSA).\n\nWill be giving an over
+ view of Mozilla as a mission-based organization\, Firefox\, Firefox OS and
+  Connected Devices (IoT) from Mozilla&#39;s point-of-view.
+URL:https://reps.mozilla.org/e/feu-makati-tech-trends-firefox-os-connected
+ -devices/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5618183959
+X-COORDINATES-LON:121.017060041
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

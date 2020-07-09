@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7174
+CLASS:PUBLIC
+DTSTAMP:20200423T102323Z
+DTSTART:20171020T110000Z
+DTEND:20171022T200000Z
+LOCATION:São Carlos / Campinas\, Campinas\, Brazil
+SUMMARY:Livre Jam
+DESCRIPTION:FoG and Gamux\, in partnership with LivreCamp and sancaLUG\, b
+ rings the first edition of Livre Jam to the interior of São Paulo! Gather
+  your team\, put together a ton of snacks\, refill your coffee bottles\, a
+ nd face a 48-hour-long gameplay by developing a game and sharing experienc
+ es with other developers\; all\, of course\, using as much free software a
+ nd technologies as possible :)
+URL:https://reps.mozilla.org/e/livre-jam/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.9095
+X-COORDINATES-LON:-47.0674
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

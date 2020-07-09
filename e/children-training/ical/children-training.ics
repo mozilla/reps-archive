@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2795
+CLASS:PUBLIC
+DTSTAMP:20200423T190424Z
+DTSTART:20140907T080000Z
+DTEND:20140907T140000Z
+LOCATION:Science Club Al-Warithoun\, Tunis\, Tunisia
+SUMMARY:Children Training
+DESCRIPTION:This event dedicated to a special skill level of children want
+  to learn more about the Web and the Web technologies\nThis club is named 
+ &#34;Science Club Al-Warithoun&#34;\, the team of this Club know coding with HTML 
+ and CSS. we know all the children use the Internet so we will ask them How
+  they see the Web in Tunisia and what opportunities he created.
+URL:https://reps.mozilla.org/e/children-training/
+SEQUENCE:1
+X-COORDINATES-LAT:36.8080935692
+X-COORDINATES-LON:10.1611633273
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

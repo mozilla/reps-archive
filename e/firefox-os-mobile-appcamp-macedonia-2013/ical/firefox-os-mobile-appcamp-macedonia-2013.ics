@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1454
+CLASS:PUBLIC
+DTSTAMP:20200407T182331Z
+DTSTART:20131026T100000Z
+DTEND:20131027T163000Z
+LOCATION:Skopje Fair 2\, Skopje\, Macedonia\, Skopje\, Macedonia\, F.Y.R. 
+ of
+SUMMARY:Firefox OS @ Mobile AppCamp Macedonia 2013
+DESCRIPTION:Mobile AppCamp Macedonia is the biggest Mobile Technology even
+ t in the Balkans where mobile start-ups and developers exhibit their mobil
+ e applications\, schedule b2b meetings with their peers\, try to impress i
+ nvestors with the innovations and have a lot of fun.
+URL:https://reps.mozilla.org/e/firefox-os-mobile-appcamp-macedonia-2013/
+SEQUENCE:9
+X-COORDINATES-LAT:41.99735
+X-COORDINATES-LON:21.428
+X-COUNTRY-CODE:mk
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8913
+CLASS:PUBLIC
+DTSTAMP:20200407T170213Z
+DTSTART:20200104T060000Z
+DTEND:20200107T040000Z
+LOCATION:The Royale Chulan Hotel\, Kaula Lumpur\, Malaysia
+SUMMARY:Mozilla L10n Urdu Meetup
+DESCRIPTION:This L10n Meetup will have active contributors from both India
+  and Pakistan attending to discuss the future programs and initiatives. Th
+ e main aim of this event is to prepare a style guide for Urdu Locale\, res
+ olve issues with respect to localization and communication\, formulate the
+  plan and goals to improve localisation quality\, onboard new contributors
+  and promote localised mozilla products.
+URL:https://reps.mozilla.org/e/mozilla-l10n-urdu-meetup/
+SEQUENCE:3
+X-COORDINATES-LAT:3.16931150591
+X-COORDINATES-LON:108.475227356
+X-COUNTRY-CODE:my
+END:VEVENT
+
+END:VCALENDAR

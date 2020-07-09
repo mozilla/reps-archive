@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2877
+CLASS:PUBLIC
+DTSTAMP:20200423T182652Z
+DTSTART:20141122T080000Z
+DTEND:20141122T170000Z
+LOCATION:Hotel Cult\, Frankfurt am Main\, Frankfurt\, Germany
+SUMMARY:Firefox OS App Day Frankfurt 2014
+DESCRIPTION:Firefox OS App Day in Frankfurt. We will begin with some intro
+ ductory talks in the morning (What is Mozilla?\, What is Firefox OS?\, How
+  do I develop Firefox OS Apps?) and continue with Hacking our own Firefox 
+ OS apps.\n\n\nDevelop HTML5 Web Apps for an open marketplace!
+URL:https://reps.mozilla.org/e/firefox-os-app-day-frankfurt-2014/
+SEQUENCE:9
+X-COORDINATES-LAT:50.1065886506
+X-COORDINATES-LON:8.6627426144
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

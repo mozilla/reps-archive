@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4515
+CLASS:PUBLIC
+DTSTAMP:20200423T162948Z
+DTSTART:20151010T043000Z
+DTEND:20151011T053000Z
+LOCATION:BITS Hyderabad\, Hyderabad\, India
+SUMMARY:Firefox OS Midnight Appathon
+DESCRIPTION:A 24 Hr Overnight Hackathon at one of the Top Educational Inst
+ itute in India
+URL:https://reps.mozilla.org/e/fx-os-hackathon-bits-hyderabad/
+SEQUENCE:6
+X-COORDINATES-LAT:17.4320710551
+X-COORDINATES-LON:78.456501
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

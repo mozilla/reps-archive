@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7625
+CLASS:PUBLIC
+DTSTAMP:20200423T094619Z
+DTSTART:20180406T000000Z
+DTEND:20180406T020000Z
+LOCATION:Station houston\, Houston\, United States
+SUMMARY:Houston VR - A-frame Wrap Up
+DESCRIPTION:From the first steps to the most advanced\, we&#39;re looking to g
+ et together with every Houstonian who is interested in development of Virt
+ ual / Augmented / Mixed Reality. Coders\, designers\, artists\, thinkers\,
+  join in with us.\nOur final A-Frame meetup where we will talk more about 
+ the potential future of WebXR and it&#39;s impact on the industry. Join us for
+  our deep dive\, discussion\, and a presentation by Rabimba from Mozilla f
+ or a behind the scenes talk about developing A-Frame.
+URL:https://reps.mozilla.org/e/houston-vr-a-frame-wrap-up/
+SEQUENCE:2
+X-COORDINATES-LAT:29.7535357
+X-COORDINATES-LON:-95.3679601
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

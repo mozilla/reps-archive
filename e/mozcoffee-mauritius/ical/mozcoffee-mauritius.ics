@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6651
+CLASS:PUBLIC
+DTSTAMP:20200423T110604Z
+DTSTART:20170529T110000Z
+DTEND:20170529T140000Z
+LOCATION:Mozillian home venue\, St Paul\, Mauritius
+SUMMARY:MozCoffee Mauritius
+DESCRIPTION:This will be small group meeting among mozillians to focus on 
+ Activate Mozilla and its components. It will be also a meeting on about th
+ e near future events and activities to be schedule  for the next 6 months
+URL:https://reps.mozilla.org/e/mozcoffee-mauritius/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.5127843275
+X-COORDINATES-LON:57.1655264497
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

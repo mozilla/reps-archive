@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4521
+CLASS:PUBLIC
+DTSTAMP:20200423T163950Z
+DTSTART:20150919T020000Z
+DTEND:20150919T050000Z
+LOCATION:MAN Cililin\, Bandung\, Indonesia
+SUMMARY:#MozBelajar MAN Cililin
+DESCRIPTION:An event to introduce the newly launched Webmaker App to vocat
+ ional high school students in MAN Cililin\, Bandung. There will be Webmake
+ r App downloading session and hands on workshop in making projects using t
+ he app. This event is organized as part of Webmaker App Launch initiatives
+  in Indonesia.
+URL:https://reps.mozilla.org/e/mozbelajar-man-cililin/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.76786718707
+X-COORDINATES-LON:107.380376458
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

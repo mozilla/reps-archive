@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6261
+CLASS:PUBLIC
+DTSTAMP:20200407T170254Z
+DTSTART:20170128T140000Z
+DTEND:20170128T190000Z
+LOCATION:Mozilla Space London - Metal Box Factory\, London\, United Kingdo
+ m
+SUMMARY:London Privacy Lab - International Data Privacy Day
+DESCRIPTION:This Saturday (28/01/2017) we are holding a special event to\n
+ commemorate International Data Privacy Day.\n\nEva Blum-Dumontet &#39;Women &amp; 
+ Minorities in the Age of Data Exploitation&#39;\n\nLukasz Olejnik and Gosia Ry
+ bakowska - &#39;Privacy for the Modern Web&#39;\n\nVasilis Mavroudis &#39;Talking Behi
+ nd Your Back - On the Privacy of  the Ultrasound Ecosystem&#39;
+URL:https://reps.mozilla.org/e/london-privacy-lab-international-data-priva
+ cy-day/
+SEQUENCE:1
+X-COORDINATES-LAT:51.5045885388
+X-COORDINATES-LON:-0.0972009300312
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

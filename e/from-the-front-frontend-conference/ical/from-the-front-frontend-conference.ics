@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2861
+CLASS:PUBLIC
+DTSTAMP:20200423T185828Z
+DTSTART:20140918T080000Z
+DTEND:20140919T160000Z
+LOCATION:Theatro Duse\, Bologna\, Bologna\, Italy
+SUMMARY:From The Front - Frontend Conference
+DESCRIPTION:Frontend Conference\, see website
+URL:https://reps.mozilla.org/e/from-the-front-frontend-conference/
+SEQUENCE:3
+X-COORDINATES-LAT:44.4880509191
+X-COORDINATES-LON:11.348888397
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

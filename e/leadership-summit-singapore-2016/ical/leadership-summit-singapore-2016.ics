@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4908
+CLASS:PUBLIC
+DTSTAMP:20200407T171711Z
+DTSTART:20160123T020000Z
+DTEND:20160124T100000Z
+LOCATION:Scape\, Singapore\, Singapore
+SUMMARY:Leadership Summit Singapore 2016
+DESCRIPTION:Developing and being accountable for specific plans in 2016 to
+  recruit and organize contributors in order grow the size and impact of my
+  community. This is all about motivating\, recruiting and organizing Mozil
+ lians (new and old) to have more impact on our mission
+URL:https://reps.mozilla.org/e/leadership-summit-singapore-2016/
+SEQUENCE:2
+X-COORDINATES-LAT:1.30087671443
+X-COORDINATES-LON:103.835698128
+X-COUNTRY-CODE:sg
+END:VEVENT
+
+END:VCALENDAR

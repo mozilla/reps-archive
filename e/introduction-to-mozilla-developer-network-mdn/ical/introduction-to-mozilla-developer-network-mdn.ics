@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5294
+CLASS:PUBLIC
+DTSTAMP:20200423T153715Z
+DTSTART:20160331T040000Z
+DTEND:20160331T080000Z
+LOCATION:Campus - 1\, Auditorium\, American International University-Bnagl
+ desh\, Banani Model Town\, Bangladesh
+SUMMARY:Introduction to Mozilla Developer Network(MDN)
+DESCRIPTION:This is going to be an introductory event on Mozilla developer
+  Network where the targeted audience will be mostly University students bu
+ t still open for anyone to join who are interested regardless students or 
+ professionals or anyone.
+URL:https://reps.mozilla.org/e/introduction-to-mozilla-developer-network-m
+ dn/
+SEQUENCE:2
+X-COORDINATES-LAT:23.8082504272
+X-COORDINATES-LON:90.414608001
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

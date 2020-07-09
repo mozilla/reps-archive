@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2546
+CLASS:PUBLIC
+DTSTAMP:20200407T173739Z
+DTSTART:20140823T090000Z
+DTEND:20140824T000000Z
+LOCATION:Hacker Space Bangalore\, Collab House Hyderabad)\, IIT (Mumbai &amp; 
+ Kharagpur)\, ThoughtWorks (Delhi)\, Bangalore\, India
+SUMMARY:MozBoot India
+DESCRIPTION:Inspired by the combination of 2 words Mozilla + Bootstrap - t
+ o bootstrap developer contribution to Mozilla. A overnight code contributi
+ on sprint simultaneously in Bangalore\, Hyderabad\, Mumbai\, Kolkata &amp; Del
+ hi. Code contribution on Mozilla Projects. 10 participants at each locatio
+ n to hack on projects and produce patches at the end of the hackathon!
+URL:https://reps.mozilla.org/e/mozboot-india/
+SEQUENCE:15
+X-COORDINATES-LAT:12.9633246337
+X-COORDINATES-LON:77.6142697334
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

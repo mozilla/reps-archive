@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5190
+CLASS:PUBLIC
+DTSTAMP:20200423T154552Z
+DTSTART:20160227T003000Z
+DTEND:20160227T100000Z
+LOCATION:International Conference Hall\, Academia Sinica\, Taipei City\, T
+ aiwan
+SUMMARY:MozTW booth at SITCON 2016
+DESCRIPTION:SITCON is the annual information conference organised by local
+  students in Taiwan. There will be more then a thousand students join the 
+ conference and give talks\, share knowledge and inspire each other. \n\nWe
+  will host a Mozilla booth at the conference and promote our service learn
+ ing project to recruit colldge students. We&#39;ll also give out FoxYeah stick
+ ers and promote our telegram channel to connect with new participates.
+URL:https://reps.mozilla.org/e/moztw-booth-at-sitcon-2016/
+SEQUENCE:4
+X-COORDINATES-LAT:25.0411638127
+X-COORDINATES-LON:121.61166215
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

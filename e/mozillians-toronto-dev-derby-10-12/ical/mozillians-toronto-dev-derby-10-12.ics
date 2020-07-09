@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@249
+CLASS:PUBLIC
+DTSTAMP:20200423T225419Z
+DTSTART:20121013T140000Z
+DTEND:20121013T210000Z
+LOCATION:Mozilla Toronto Space\, Toronto\, Canada
+SUMMARY:Mozillians Toronto Dev Derby 10/12
+DESCRIPTION:Workshop for MDN Dev Derby topic of the month\, CSS Media Quer
+ ies. Starts with a presentation about the monthly topic\, followed by a ha
+ ck\, work alone or in a team\, but get help from our presenter and each ot
+ her.
+URL:https://reps.mozilla.org/e/mozillians-toronto-dev-derby-10-12/
+SEQUENCE:0
+X-COORDINATES-LAT:43.647317623
+X-COORDINATES-LON:-79.3930435181
+X-COUNTRY-CODE:ca
+END:VEVENT
+
+END:VCALENDAR

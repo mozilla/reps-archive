@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8304
+CLASS:PUBLIC
+DTSTAMP:20200407T165028Z
+DTSTART:20190112T030000Z
+DTEND:20190112T080000Z
+LOCATION:Cummins College of Engineering for Women\, Pune\, India
+SUMMARY:Rust and add-ons at Cummins
+DESCRIPTION:Speakers - Jayesh Katta Ramalingaiah &amp; Viswaprasath \n\nOrgani
+ zer - Shriya Bhat
+URL:https://reps.mozilla.org/e/rust-and-add-ons-at-cummins/
+SEQUENCE:8
+X-COORDINATES-LAT:18.491069
+X-COORDINATES-LON:73.818479
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

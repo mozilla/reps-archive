@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3638
+CLASS:PUBLIC
+DTSTAMP:20200407T182354Z
+DTSTART:20150403T083000Z
+DTEND:20150403T123000Z
+LOCATION:Hotel Gokulam Park\, Kochin\, Kochi\, India
+SUMMARY:MozCoffee@Kochi
+DESCRIPTION:Casual Meetup of Volunteers in Kerala. This event will focus o
+ n planning upcoming events of local community and will be a meeting place 
+ for the existing contributes after 3 months. \n\nAlso\, we are focusing on
+  new WoMoz volunteers this time. \n\nMoreover its getting to know better\,
+  build a better relationship between the community members so as to work e
+ fficiently.
+URL:https://reps.mozilla.org/e/mozcoffee-kochi-1/
+SEQUENCE:2
+X-COORDINATES-LAT:9.99463605338
+X-COORDINATES-LON:76.2900485694
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

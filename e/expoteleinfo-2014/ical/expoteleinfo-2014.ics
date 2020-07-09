@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1838
+CLASS:PUBLIC
+DTSTAMP:20200423T201659Z
+DTSTART:20140314T120000Z
+DTEND:20140318T030000Z
+LOCATION:Roca y Corona Ave. - Expocruz\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:ExpoTeleinfo 2014
+DESCRIPTION:EXPOTELEINFO\, is the most important IT and Telecommunications
+  Exhibition in Latin America. Also EXPOTELEINFO is the main meeting point 
+ for businesses in Latin America\, which has surpassed twenty-three million
+  dollars in business intentions. Has a share of about 50 companies in the 
+ IT and Telecomunication sector. Mozilla Bolivia now has the oportunity to 
+ participate and reach more than 3000 people around the country and Latin A
+ merica.
+URL:https://reps.mozilla.org/e/expoteleinfo-2014/
+SEQUENCE:3
+X-COORDINATES-LAT:-17.7848212745
+X-COORDINATES-LON:-63.208668709
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

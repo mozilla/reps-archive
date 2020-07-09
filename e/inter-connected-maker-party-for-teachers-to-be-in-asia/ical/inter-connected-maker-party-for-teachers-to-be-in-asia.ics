@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1630
+CLASS:PUBLIC
+DTSTAMP:20200407T180020Z
+DTSTART:20131207T020000Z
+DTEND:20131207T050000Z
+LOCATION:Institut Teknologi Bandung\, Dago\, Indonesia
+SUMMARY:“Inter-connected” Maker Party for &#34;Teachers-To-Be&#34; in Asia
+DESCRIPTION:This workshop is designed for teachers-to-be who want to intro
+ duce ICT to children in a unique way. Participants will learn various ways
+  of having fun with children through “web-making” activities\, acquire
+  a wider view on ICT\, and create their own lesson plan as a “Class-Reci
+ pe”. Anyone who is involved in teaching ICT related topics to people aro
+ und them are welcome to the party!!
+URL:https://reps.mozilla.org/e/inter-connected-maker-party-for-teachers-to
+ -be-in-asia/
+SEQUENCE:25
+X-COORDINATES-LAT:-6.88897985666
+X-COORDINATES-LON:107.610801458
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

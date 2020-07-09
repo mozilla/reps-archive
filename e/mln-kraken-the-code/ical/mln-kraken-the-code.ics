@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5451
+CLASS:PUBLIC
+DTSTAMP:20200423T152513Z
+DTSTART:20160518T130000Z
+DTEND:20160518T143000Z
+LOCATION:CEU Florence - Centro de Esportes Unificados Jardim Florence\, Ca
+ mpinas\, Brazil
+SUMMARY:MLN: Kraken the Code
+DESCRIPTION:Learners will use the Internet to solve the mystery of The Kra
+ ken\, a legendary sea creature\, while also learning about search terms\, 
+ keywords\, and how to assess the validity and relevance of web sources.
+URL:https://reps.mozilla.org/e/mln-kraken-the-code/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.8935848248
+X-COORDINATES-LON:-47.0519657107
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

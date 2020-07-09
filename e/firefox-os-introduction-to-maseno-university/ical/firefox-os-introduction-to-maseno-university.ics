@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4095
+CLASS:PUBLIC
+DTSTAMP:20200407T175919Z
+DTSTART:20150731T060000Z
+DTEND:20150731T140000Z
+LOCATION:Maseno\, Kenya\, Kisumu\, Kenya
+SUMMARY:Firefox OS introduction to Maseno University
+DESCRIPTION:Following the recent launch of Firefox OS in Kenya we have a p
+ lan to run a series of events geared towards introducing upcoming develope
+ rs to Firefox OS platform and web app development for the same.\n\nThis is
+  an FSA event and will be one on the facilitators in the the spirit of gro
+ wing the community.
+URL:https://reps.mozilla.org/e/firefox-os-introduction-to-maseno-universit
+ y/
+SEQUENCE:3
+X-COORDINATES-LAT:-0.0660323880655
+X-COORDINATES-LON:34.78358455
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

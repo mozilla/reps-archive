@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6354
+CLASS:PUBLIC
+DTSTAMP:20200423T112500Z
+DTSTART:20170308T133000Z
+DTEND:20170308T180000Z
+LOCATION:Centro de Artes e Esportes Unificados - CEU\, Campinas\, Brazil
+SUMMARY:Computer Basics II @Leão Mozilla Clubs
+DESCRIPTION:Computing is an important part of everyday life in the twenty-
+ first century. From music and photos to banking and communicating\, comput
+ ers have changed the way we work and live. This course introduces you to t
+ he fundamentals of computing\, explains the components of a computer\, exp
+ lores operating system basics\, and shows you how to use a mouse and a key
+ board.
+URL:https://reps.mozilla.org/e/computer-basics-ii-leao-mozilla-clubs/
+SEQUENCE:1
+X-COORDINATES-LAT:-22.9
+X-COORDINATES-LON:-47.0833
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

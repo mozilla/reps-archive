@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5057
+CLASS:PUBLIC
+DTSTAMP:20200407T180519Z
+DTSTART:20160123T220000Z
+DTEND:20160124T000000Z
+LOCATION:Chapai Nawabganj\, Chapai Nawabganj\, Bangladesh
+SUMMARY:MakerParty Chapai Nawabganj
+DESCRIPTION:A webmaker event which would create awareness about the variou
+ s tools of webmaker project for the students and they can understand the i
+ mportance of these tools\,so that they can build and create web rather tha
+ n simply using it!
+URL:https://reps.mozilla.org/e/makerparty-chapai-nawabganj/
+SEQUENCE:0
+X-COORDINATES-LAT:24.6237083848
+X-COORDINATES-LON:88.1998744011
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

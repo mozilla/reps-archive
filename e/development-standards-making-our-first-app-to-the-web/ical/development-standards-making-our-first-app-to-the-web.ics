@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4589
+CLASS:PUBLIC
+DTSTAMP:20200407T175721Z
+DTSTART:20151006T200000Z
+DTEND:20151006T213000Z
+LOCATION:FATEC Rubens Lara - Baixada Santista\, Av. Bartolomeu de Gusmão\
+ , 110 - Aparecida\, Santos\, Brazil
+SUMMARY:Development Standards &amp; Making our first app to the web
+DESCRIPTION:This is going to happen during my college presentation class.I
+ &#39;ll talk about Open Web and show how to take it into Firefox OS.
+URL:https://reps.mozilla.org/e/development-standards-making-our-first-app-
+ to-the-web/
+SEQUENCE:2
+X-COORDINATES-LAT:-23.9799744653
+X-COORDINATES-LON:-46.3101741673
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

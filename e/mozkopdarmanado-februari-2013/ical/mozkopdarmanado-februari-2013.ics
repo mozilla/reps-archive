@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@329
+CLASS:PUBLIC
+DTSTAMP:20200407T182702Z
+DTSTART:20130223T100000Z
+DTEND:20130223T130000Z
+LOCATION:Black Canyon Coffee MTC\, Manado\, Indonesia
+SUMMARY:MozKopDarManado Februari 2013
+DESCRIPTION:MozKopDar Manado #MozKopDarMDC : Kopi Darat Mozillians di kota
+  Manado\, Sulawesi Utara yang pertama.\n\nKita bicara-bicara santai mengen
+ ai proyek-proyek Mozilla seperti : Browser Firefox\, Mobile OS : Firefox O
+ S dll
+URL:https://reps.mozilla.org/e/mozkopdarmanado-februari-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:1.40610883544
+X-COORDINATES-LON:125.15625
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

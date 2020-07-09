@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@216
+CLASS:PUBLIC
+DTSTAMP:20200407T175130Z
+DTSTART:20120919T130000Z
+DTEND:20120919T150000Z
+LOCATION:University of Kent\, Canterbury\, United Kingdom
+SUMMARY:Freshers Week - Mozilla Talk
+DESCRIPTION:An hour long talk on what Mozilla is\, who it is\, and why it 
+ is\, followed by Q+A
+URL:https://reps.mozilla.org/e/freshers-week-mozilla-talk/
+SEQUENCE:0
+X-COORDINATES-LAT:51.2969603742
+X-COORDINATES-LON:1.07144594193
+X-COUNTRY-CODE:gb
+END:VEVENT
+
+END:VCALENDAR

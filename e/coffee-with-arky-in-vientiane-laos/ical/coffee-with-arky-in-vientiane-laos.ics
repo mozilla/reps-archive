@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@153
+CLASS:PUBLIC
+DTSTAMP:20200423T225833Z
+DTSTART:20120925T100000Z
+DTEND:20120925T120000Z
+LOCATION:Vientiane\, Laos\, Vientiane\, Laos
+SUMMARY:Coffee With Arky (Vientiane\, Laos)
+DESCRIPTION:Arky&#39;s visit Vientiane\, Laos to meet local universities\, ICT
+  teams. If you are from the region\, come have a cup of coffee and learn a
+ bout the Mozilla project. 
+URL:https://reps.mozilla.org/e/coffee-with-arky-in-vientiane-laos/
+SEQUENCE:0
+X-COORDINATES-LAT:19.642587534
+X-COORDINATES-LON:103.095703125
+X-COUNTRY-CODE:la
+END:VEVENT
+
+END:VCALENDAR

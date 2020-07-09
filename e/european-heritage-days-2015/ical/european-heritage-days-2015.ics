@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4394
+CLASS:PUBLIC
+DTSTAMP:20200423T163906Z
+DTSTART:20150919T070000Z
+DTEND:20150920T160000Z
+LOCATION:Mozilla space Paris\, Paris\, France
+SUMMARY:European heritage days 2015
+DESCRIPTION:The paris office being an historical building\, it will be vis
+ ited by a lot of people during the week-end.\nLast year there were 1852 pe
+ rsons visiting the office\, our volunteers engaged with about 20% of them 
+ talking about mozilla\, Firefox\, demonstrating Firefox OS.
+URL:https://reps.mozilla.org/e/european-heritage-days-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:48.8716941936
+X-COORDINATES-LON:2.3424822091
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

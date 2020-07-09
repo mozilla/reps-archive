@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3150
+CLASS:PUBLIC
+DTSTAMP:20200423T182623Z
+DTSTART:20141122T150000Z
+DTEND:20141122T173000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:Webmacademy #1 at Open Labs
+DESCRIPTION:The first meetup of Webmacademy project at Open Labs Hackerspa
+ ce\, where participants learn the web using Webmaker. \n\nOrganized by Moz
+ illians Aleksander Koko\, Kristi Progri\, Elio Qoshi and myself this first
+  generated interest from more than 35 participants that were introduced to
+  Webmaker and html basics.
+URL:https://reps.mozilla.org/e/webmacademy-1-at-open-labs/
+SEQUENCE:1
+X-COORDINATES-LAT:41.3222973331
+X-COORDINATES-LON:19.8157725338
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

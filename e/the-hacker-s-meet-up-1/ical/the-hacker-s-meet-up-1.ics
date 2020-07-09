@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7204
+CLASS:PUBLIC
+DTSTAMP:20200423T102434Z
+DTSTART:20171015T113000Z
+DTEND:20171015T133000Z
+LOCATION:ComExpo Cyber Security\, 2nd floor\, Kundlini Complex\, Opp. Vast
+ rapur Lake\, Vastrapur\, Ahmedabad\, Ahmedabad\, India
+SUMMARY:The Hacker&#39;s Meet-Up
+DESCRIPTION:This event is fully focused on Cyber Security research of Inde
+ pendent security researchers. who finds vulnerability\, gain knowledge and
+  try to do something out of the box with his enthusiasm\, hard work and lo
+ ve for security.
+URL:https://reps.mozilla.org/e/the-hacker-s-meet-up-1/
+SEQUENCE:2
+X-COORDINATES-LAT:23.0376571218
+X-COORDINATES-LON:72.5275057107
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

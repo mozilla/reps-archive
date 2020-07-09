@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8403
+CLASS:PUBLIC
+DTSTAMP:20200407T170217Z
+DTSTART:20190327T083000Z
+DTEND:20190327T103000Z
+LOCATION:Dr. Ambedkar Institute Of Technology for Handicapped\, Kanpur\, I
+ ndia
+SUMMARY:WebVR @ AITH
+DESCRIPTION:In this event\, attendees will learn about WebVR development u
+ sing A-Frame framework (one of emerging future technologies by Mozilla). T
+ his event is for participants who already know HTML.
+URL:https://reps.mozilla.org/e/webvr-aith/
+SEQUENCE:6
+X-COORDINATES-LAT:26.502533
+X-COORDINATES-LON:80.27656
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3302
+CLASS:PUBLIC
+DTSTAMP:20200423T181040Z
+DTSTART:20150110T040000Z
+DTEND:20150110T113000Z
+LOCATION:MKSSS’s Cummins College of Engineering for Women\, Pune\, Pune\
+ , India
+SUMMARY:Womoz Makerparty Pune
+DESCRIPTION:This event comprises of both talk session and hands on session
+ . Throughout the course of events various discussions will take place that
+  will help women in understanding on how they can contribute towards open 
+ source. \n\n1. Students will be made aware of WoMoz and importance of wome
+ n in Open Source technologies.\n\n2. They can get opportunities to dive in
+ to the Web and works with millions of Mozillians across the globe.
+URL:https://reps.mozilla.org/e/womoz-makerparty-pune/
+SEQUENCE:5
+X-COORDINATES-LAT:18.5111108306
+X-COORDINATES-LON:73.857563
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

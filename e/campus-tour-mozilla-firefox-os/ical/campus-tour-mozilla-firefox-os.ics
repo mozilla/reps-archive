@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@261
+CLASS:PUBLIC
+DTSTAMP:20200407T175926Z
+DTSTART:20121023T052000Z
+DTEND:20121023T071000Z
+LOCATION:National Chiao Tung University\, Hsin-chu\, Taiwan
+SUMMARY:Campus Tour: Mozilla &amp; Firefox OS
+DESCRIPTION:As part of Mozilla Taiwan&#39;s Campus Tour\, we are going to talk
+  about Mozilla\, Firefox &amp; Firefox OS to students major in CS area.\n\nThe
+  venue will be at 工程四館\, though I&#39;m not sure about which room yet.
+  After that\, we might have a community meets up right in NCTU.
+URL:https://reps.mozilla.org/e/campus-tour-mozilla-firefox-os/
+SEQUENCE:0
+X-COORDINATES-LAT:24.7870072739
+X-COORDINATES-LON:120.996733904
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@614
+CLASS:PUBLIC
+DTSTAMP:20200423T215026Z
+DTSTART:20130420T090000Z
+DTEND:20130420T120000Z
+LOCATION:State University of Bangladesh\, 77 Satmasjid Road\, Dhanmondi\, 
+ Dhaka 1205\, Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Mozilla@SUB
+DESCRIPTION:Mozilla Bangladesh and State University of Bangladesh (SUB) is
+  co-organizing a Mozilla Awareness Event to spread the Mozilla mission. An
+  exciting opportunity for State University of Bangladesh students to share
+  and brainstorm their open source ideas.\n\n
+URL:https://reps.mozilla.org/e/mozilla-sub/
+SEQUENCE:4
+X-COORDINATES-LAT:23.7516809475
+X-COORDINATES-LON:90.3674894571
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

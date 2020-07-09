@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1615
+CLASS:PUBLIC
+DTSTAMP:20200423T203609Z
+DTSTART:20140111T050000Z
+DTEND:20140111T090000Z
+LOCATION:STI College Novaliches\, Quezon City\, Philippines
+SUMMARY:Firefox OS App Development Workshop at STI - Novaliches
+DESCRIPTION:Team MozillaPH will conduct Firefox OS Apps Development Worksh
+ op to students of the STI Novaliches. Attendees will be taught on how to t
+ ap the Firefox OS&#39; full potential in creating mobile apps using tools read
+ ily available to them.
+URL:https://reps.mozilla.org/e/firefox-os-app-development-workshop-at-sti-
+ novaliches/
+SEQUENCE:6
+X-COORDINATES-LAT:14.6294169043
+X-COORDINATES-LON:121.038751599
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6471
+CLASS:PUBLIC
+DTSTAMP:20200423T111640Z
+DTSTART:20170415T053000Z
+DTEND:20170415T093000Z
+LOCATION:Sofine digital Photo Lab\, college Road opposite takle jewelers  
+ Nashik - 422005\, Nashik\, India
+SUMMARY:WebVR Camp at Nashik
+DESCRIPTION:WebVR Workshop is to increase the VR promotion as well as VR d
+ evelopment. In this event participants will learn WebVR development using 
+ A-Frame framework (one of emerging future technologies by Mozilla). Activi
+ ties followed by : https://public.etherpad-mozilla.org/p/AFrameHackNightIn
+ dia
+URL:https://reps.mozilla.org/e/webvr-camp-at-nashik/
+SEQUENCE:3
+X-COORDINATES-LAT:20.0034620555
+X-COORDINATES-LON:73.6483150721
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

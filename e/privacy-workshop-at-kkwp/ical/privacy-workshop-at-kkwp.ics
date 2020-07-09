@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6222
+CLASS:PUBLIC
+DTSTAMP:20200423T113513Z
+DTSTART:20170120T083000Z
+DTEND:20170120T113000Z
+LOCATION:K.K.Wagh college if engineering \,Nashik.\, Nashik\, India
+SUMMARY:Advocacy 4 Privacy at KKWP
+DESCRIPTION:Privacy awareness workshop for the polytechnic students. This 
+ event comes under the global #PrivacyMonth . Agenda is simple making stude
+ nts and staff aware about the rich Privacy Features of Firefox desktop and
+  Mobile. https://wiki.mozilla.org/India/task_force/Policy_and_Advocacy/Jan
+ uary_Privacy_Month_Campaign
+URL:https://reps.mozilla.org/e/privacy-workshop-at-kkwp/
+SEQUENCE:3
+X-COORDINATES-LAT:20.0094301922
+X-COORDINATES-LON:73.8016433828
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

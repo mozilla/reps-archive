@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@219
+CLASS:PUBLIC
+DTSTAMP:20200423T225913Z
+DTSTART:20120922T170000Z
+DTEND:20121202T180000Z
+LOCATION:Rancho La Campana\, Mexico\, D.F.\, Mexico
+SUMMARY:Firefox Team of American Football Tocho
+DESCRIPTION:In order to promote the sport among the community of Mozilla M
+ exico\, has created a team of American futboll (Tocho)\, this is made up o
+ f community members Mozilla Mexico\, \, collaborator\, supporters and enth
+ usiasts.
+URL:https://reps.mozilla.org/e/firefox-team-of-american-futbol-tocho/
+SEQUENCE:0
+X-COORDINATES-LAT:19.2533790468
+X-COORDINATES-LON:-99.2461538315
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

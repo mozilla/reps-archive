@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1395
+CLASS:PUBLIC
+DTSTAMP:20200423T210142Z
+DTSTART:20131012T070000Z
+DTEND:20131012T110000Z
+LOCATION:University Politehnica of Bucharest - Faculty of Automation and C
+ omputer Sciences\, Bucharest\, Romania
+SUMMARY:Teaching HTML and CSS at Webdev Rosedu.
+DESCRIPTION:Webdev is an annual web development course organized at Univer
+ sity Politehnica Bucharest by Rosedu. I was invited to hold the first cour
+ se about HTML and CSS.
+URL:https://reps.mozilla.org/e/teaching-html-and-css-at-webdev-rosedu/
+SEQUENCE:2
+X-COORDINATES-LAT:44.4358559492
+X-COORDINATES-LON:26.0474842787
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

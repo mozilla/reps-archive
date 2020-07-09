@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@540
+CLASS:PUBLIC
+DTSTAMP:20200423T221221Z
+DTSTART:20130207T053000Z
+DTEND:20130207T070000Z
+LOCATION:Union park Govvt school\,                Union park Govt school\,
+  Mauritius
+SUMMARY:Webmaking for kids
+DESCRIPTION:The is the 1st Webmaking event for kids in Mauritius. We are h
+ olding the first  webmaker for the kids  in a primary school found in the 
+ south of Mauritius. The event will be mainly an introduction to Webmaking 
+ to students and teachers before launching competition through the country.
+URL:https://reps.mozilla.org/e/webmaking-for-kids/
+SEQUENCE:0
+X-COORDINATES-LAT:-20.4289432048
+X-COORDINATES-LON:57.6150512695
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

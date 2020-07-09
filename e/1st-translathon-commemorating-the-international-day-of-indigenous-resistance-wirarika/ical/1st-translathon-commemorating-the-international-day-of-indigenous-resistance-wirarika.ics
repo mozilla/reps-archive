@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@311
+CLASS:PUBLIC
+DTSTAMP:20200423T225506Z
+DTSTART:20121012T140000Z
+DTEND:20121012T220000Z
+LOCATION:Centro Universitario del Norte\, Colotlán\, Mexico
+SUMMARY:1st-translathon-commemorating-the-international-day-of-indigenous-
+ resistance-wirarika
+DESCRIPTION:Wirarika translations Marathon held in Colotlán Jalisco.\n\nh
+ ttp://mozilla.locamotion.org/hch/\n\nhttp://www.flickr.com/photos/odinm/se
+ ts/72157631786268912/\n\nhttp://translathon.org/
+URL:https://reps.mozilla.org/e/1st-translathon-commemorating-the-internati
+ onal-day-of-indigenous-resistance-wirarika/
+SEQUENCE:0
+X-COORDINATES-LAT:22.111645
+X-COORDINATES-LON:-103.263525
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

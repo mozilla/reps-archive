@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3605
+CLASS:PUBLIC
+DTSTAMP:20200423T174746Z
+DTSTART:20150302T043000Z
+DTEND:20150302T113000Z
+LOCATION:VNR VJIET\, Secunderabad\, India
+SUMMARY:App Sprint @ VNR VJIET
+DESCRIPTION:A day totally concentrated on Developing and Publishing apps f
+ or Firefox OS Mobile Platform. with hands- on sessions for This event is m
+ eant to Give a Clear view about Firefox OS Platform and how easily we can 
+ develop native applications for Firefox OS and Encourage People to Develop
+  Apps for Firefox OS and also for the web developers to port their Apps to
+  Firefox OS.
+URL:https://reps.mozilla.org/e/app-sprint-vnr-vjiet/
+SEQUENCE:1
+X-COORDINATES-LAT:17.4294949
+X-COORDINATES-LON:78.5039847
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

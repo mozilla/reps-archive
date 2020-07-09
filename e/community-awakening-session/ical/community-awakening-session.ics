@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7800
+CLASS:PUBLIC
+DTSTAMP:20200407T170324Z
+DTSTART:20180611T043000Z
+DTEND:20180611T063000Z
+LOCATION:Jaipur\, Jaipur\, India
+SUMMARY:Community Awakening Session
+DESCRIPTION:Group sessions with various representatives in Mozilla Communi
+ ty located in Rajasthan to figure out the reasons for inactivity and resol
+ ve the same. This shall also include a session at a nearby institute about
+  add-on development to ensure new and active participation.
+URL:https://reps.mozilla.org/e/community-awakening-session/
+SEQUENCE:3
+X-COORDINATES-LAT:26.9147229289
+X-COORDINATES-LON:75.8290100098
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

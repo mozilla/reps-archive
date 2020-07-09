@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2610
+CLASS:PUBLIC
+DTSTAMP:20200407T174821Z
+DTSTART:20141227T093000Z
+DTEND:20141227T123000Z
+LOCATION:Hotel Patliputra Ashok\, Beerchand Patel Path\, Patna – 800 001
+  (Bihar)\, India\, Patna\, India
+SUMMARY:Community Launch Event to celebrate “Firefox for Android” Laun
+ ch in Maithili
+DESCRIPTION:Firefox for Android Mobile is now available in Maithili. Firef
+ ox for mobile (codenamed Fennec)\, or (Mozilla) Firefox for Android\, is t
+ he build of the Mozilla Firefox web browser for devices such as smartphone
+ s and tablet computers. The release of Firefox browser in Maithili languag
+ e is very important because this is the first browser which is available i
+ n Mathili language.
+URL:https://reps.mozilla.org/e/fennec-launch-maithili-india/
+SEQUENCE:17
+X-COORDINATES-LAT:25.5407894609
+X-COORDINATES-LON:85.2392573655
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

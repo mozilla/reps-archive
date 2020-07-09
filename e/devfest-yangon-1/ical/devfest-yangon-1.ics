@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8972
+CLASS:PUBLIC
+DTSTAMP:20200407T170239Z
+DTSTART:20191208T023000Z
+DTEND:20191208T123000Z
+LOCATION:Taw Win Garden Hotel\, Yangon\, India
+SUMMARY:Devfest Yangon
+DESCRIPTION:DevFest Yangon 2019 tech conference is coming back from the an
+ nual Google Developer Group Yangon. This is the fifth year this year.\n\nD
+ evFest Yangon 2019 offers a full day of Android\, Web and Cloud technology
+  locally and locally. Experts from abroad can give talks\, The workshop wi
+ ll include practical workshops. The purpose of this technology is to creat
+ e new technologies and technologies. Attendees will be able to immediately
+  reuse or bring them into the workplace.
+URL:https://reps.mozilla.org/e/devfest-yangon-1/
+SEQUENCE:2
+X-COORDINATES-LAT:16.8027883129
+X-COORDINATES-LON:96.1420896649
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

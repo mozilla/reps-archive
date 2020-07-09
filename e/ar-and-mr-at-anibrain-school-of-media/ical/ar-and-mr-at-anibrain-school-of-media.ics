@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7688
+CLASS:PUBLIC
+DTSTAMP:20200423T094852Z
+DTSTART:20180331T043000Z
+DTEND:20180331T063000Z
+LOCATION:Anibrain School of Media Design\, Pune\, India
+SUMMARY:AR and MR at Anibrain School of Media
+DESCRIPTION:The event agenda includes workshop on AR app development using
+  A-Frame.
+URL:https://reps.mozilla.org/e/ar-and-mr-at-anibrain-school-of-media/
+SEQUENCE:0
+X-COORDINATES-LAT:18.5746365258
+X-COORDINATES-LON:73.9091949351
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

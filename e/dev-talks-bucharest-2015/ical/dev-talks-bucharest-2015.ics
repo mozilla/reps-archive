@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3734
+CLASS:PUBLIC
+DTSTAMP:20200407T175300Z
+DTSTART:20150611T070000Z
+DTEND:20150611T130000Z
+LOCATION:Romexpo\, C1\, Bucharest\, Romania
+SUMMARY:Dev Talks Bucharest 2015
+DESCRIPTION:This is a big event held in Bucharest. We intend to have a boo
+ th in the &#34;fun corner&#34; demo Firefox OS devices\, and hand out swag.\n\nTal
+ k about Firefox OS will be at 10:00 AM on the Mobile and IoT track.\n\nBoo
+ th will be located in the &#34;Fun corner&#34;
+URL:https://reps.mozilla.org/e/dev-talks-bucharest-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:44.4776051958
+X-COORDINATES-LON:26.065232277
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

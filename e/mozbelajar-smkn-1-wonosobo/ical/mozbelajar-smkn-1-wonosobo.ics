@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4241
+CLASS:PUBLIC
+DTSTAMP:20200423T164556Z
+DTSTART:20150905T020000Z
+DTEND:20150905T060000Z
+LOCATION:SMKN 1 Wonosobo\, Wonosobo\, Indonesia
+SUMMARY:#MozBelajar SMKN 1 Wonosobo
+DESCRIPTION:An event to introduce the newly launched Webmaker App to stude
+ nts in SMKN 1 Wonosobo. There will be Webmaker App downloading session and
+  hands on workshop in making projects using the app. This event is organiz
+ ed as part of Webmaker App Launch initiatives in Indonesia.
+URL:https://reps.mozilla.org/e/mozbelajar-smkn-1-wonosobo/
+SEQUENCE:2
+X-COORDINATES-LAT:-7.36099849063
+X-COORDINATES-LON:109.904077649
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

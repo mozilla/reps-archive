@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7675
+CLASS:PUBLIC
+DTSTAMP:20200423T095251Z
+DTSTART:20180317T040000Z
+DTEND:20180317T110000Z
+LOCATION:Toc H Institute of Science and Technology\,Arakkunnam\, Kerala 68
+ 2313\, Ernakulam\, India
+SUMMARY:A-Frame VR Demo @ CSI Student Summit
+DESCRIPTION:All Kerala CSI Student Summit was an amazing event which took\
+ nplace at Toc H Institute of Science and Technology on 17th March 2018\,\n
+ providing space for aspiring minds to showcase their skills on various\nfi
+ elds.
+URL:https://reps.mozilla.org/e/a-frame-vr-demo-csi-student-summit/
+SEQUENCE:1
+X-COORDINATES-LAT:9.93180816813
+X-COORDINATES-LON:76.4291095699
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

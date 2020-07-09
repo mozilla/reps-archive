@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1809
+CLASS:PUBLIC
+DTSTAMP:20200407T175321Z
+DTSTART:20140222T100000Z
+DTEND:20140222T130000Z
+LOCATION:Starbucks\, Grand Metropolitan Mall\, Bekasi\, Indonesia
+SUMMARY:MozKopdarBKS Februari 2014
+DESCRIPTION:MozKopDarBKS = Mozilla Kopi Darat Bekasi (MozCoffee - Mozillia
+ n Meetup)
+URL:https://reps.mozilla.org/e/mozkopdarbks-februari-2014/
+SEQUENCE:10
+X-COORDINATES-LAT:-6.24887081002
+X-COORDINATES-LON:106.984482765
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

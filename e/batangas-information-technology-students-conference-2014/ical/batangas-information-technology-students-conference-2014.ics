@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1770
+CLASS:PUBLIC
+DTSTAMP:20200423T203215Z
+DTSTART:20140125T000000Z
+DTEND:20140125T080000Z
+LOCATION:Batagas City Convention Center\, Batangas City\, Lipa City\, Phil
+ ippines
+SUMMARY:Batangas Information Technology Students&#39; Conference 2014
+DESCRIPTION:Establish a corporation whose purposes are: to serve as educat
+ ion venue in issues regarding IT\, to protect and preserve solidarity and 
+ to embody the ideas of the organization in promoting academic excellence. 
+ To strive create and maintain an optional level of professional performanc
+ e of its members based on the profession principles. To provide a continui
+ ng programs of professional education for its members and its clientele\,a
+ nd support meaningful basic research.
+URL:https://reps.mozilla.org/e/batangas-information-technology-students-co
+ nference-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:13.9398845752
+X-COORDINATES-LON:121.156167981
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

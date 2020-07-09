@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@578
+CLASS:PUBLIC
+DTSTAMP:20200423T220439Z
+DTSTART:20130303T043000Z
+DTEND:20130303T113000Z
+LOCATION:http://mozilla.locamotion.org/hi_IN/\, #india on irc.mozilla.org\
+ , India
+SUMMARY:Firefox Hindi Localization Sprint
+DESCRIPTION:By seeing the great success of Firefox OS localization sprint\
+ ,  we would like to announce the another Hindi Localization Sprint virtual
+ ly on 02nd March\, 2013 for the translations of the different Modules of F
+ irefox and Mozilla_lang. \n\nVirtual Places:- #india on irc.mozilla.org an
+ d #indlinux on\nirc.freenode.net servers\n\n\nOrganizing Contact: Chandan 
+ Kumar &lt;chandankumar.093047@gmail.com&gt;
+URL:https://reps.mozilla.org/e/firefox-hindi-localization-sprint/
+SEQUENCE:0
+X-COORDINATES-LAT:22.4313401564
+X-COORDINATES-LON:87.890625
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1159
+CLASS:PUBLIC
+DTSTAMP:20200423T211840Z
+DTSTART:20130814T170000Z
+DTEND:20130814T200000Z
+LOCATION:Magnolia International\, St Johanns-Vorstadt 38\, Basel\, Basel\,
+  Switzerland
+SUMMARY:basel.js - Introduction to Firefox OS
+DESCRIPTION:In this months meetup Max Gfeller from Cyon hosting (http://ww
+ w.cyon.ch/) will introduce us to the Firefox OS. He&#39;ll show us how to writ
+ e apps for the OS\, and demo an app that he has written.\n\nAlso there wil
+ l be at least one testable device at the meetup! So if somebody has writte
+ n an app prior to the event they can test it on an actual firefox OS devic
+ e.
+URL:https://reps.mozilla.org/e/basej-js-introduction-to-firefox-os/
+SEQUENCE:3
+X-COORDINATES-LAT:47.557993859
+X-COORDINATES-LON:7.58949279785
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3918
+CLASS:PUBLIC
+DTSTAMP:20200423T172035Z
+DTSTART:20150524T120000Z
+DTEND:20150531T140000Z
+LOCATION:University of Yaounde I\, Yaounde\, Cameroon
+SUMMARY:Firefox OS Launch (Orange Klif) at Universities Games in Cameroon
+DESCRIPTION:Presentation of Orange Klif (Firefox OS) to academic actors wi
+ thin the Universities Games in Cameroon. The event will target all Cameroo
+ nian Universities and Professional Schools.
+URL:https://reps.mozilla.org/e/firefox-os-launch-orange-klif-at-universiti
+ es-games-in-cameroon/
+SEQUENCE:3
+X-COORDINATES-LAT:3.68520083665
+X-COORDINATES-LON:11.6689449549
+X-COUNTRY-CODE:cm
+END:VEVENT
+
+END:VCALENDAR

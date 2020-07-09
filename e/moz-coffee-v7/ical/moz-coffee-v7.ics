@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6227
+CLASS:PUBLIC
+DTSTAMP:20200423T112708Z
+DTSTART:20170226T063000Z
+DTEND:20170226T103000Z
+LOCATION:Spring House\, New Delhi\, India
+SUMMARY:Moz Coffee Delhi v7
+DESCRIPTION:Sessions to be covered\n\n\nMozilla Community\n   - What is FO
+ SS\n   - What is Mozilla\n   - Tell about Mozilla Mozpacers (local communi
+ ty)\n   - How to contribute in Open Source\n   - Discussion about various 
+ Tech/Non-tech contributions\n   - How can you be part of the community.
+URL:https://reps.mozilla.org/e/moz-coffee-v7/
+SEQUENCE:4
+X-COORDINATES-LAT:28.513399
+X-COORDINATES-LON:77.155999
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

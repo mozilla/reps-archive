@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2324
+CLASS:PUBLIC
+DTSTAMP:20200407T182522Z
+DTSTART:20140611T100000Z
+DTEND:20140613T100000Z
+LOCATION:University of Warsaw\, Warsaw\, Poland\, Warsaw\, Poland
+SUMMARY:Revitalizing Endangered Languages
+DESCRIPTION:The conference seeks to explore new approaches to language rev
+ italization\, such as the development of research models based on close co
+ llaboration between scholars and the native speakers of endangered languag
+ es as well as their communities. The plan is to bring together and foster 
+ vital networking among field researchers in language revitalization and do
+ cumentation with members of speech communities.\n\nFirefox in 34 native la
+ nguages:\nhttp://mozilla-mexico.org/firefox-en-lenguas-indigenas
+URL:https://reps.mozilla.org/e/revitalizing-endangered-languages/
+SEQUENCE:8
+X-COORDINATES-LAT:52.2401239616
+X-COORDINATES-LON:21.0189414016
+X-COUNTRY-CODE:pl
+END:VEVENT
+
+END:VCALENDAR

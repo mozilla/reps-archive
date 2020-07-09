@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3432
+CLASS:PUBLIC
+DTSTAMP:20200407T174834Z
+DTSTART:20150208T053000Z
+DTEND:20150208T160000Z
+LOCATION:Global Towers Hotel\, Colombo\, Sri Lanka
+SUMMARY:Sinhalese Language Mozilla Hackathon
+DESCRIPTION:A meetup of Sinhalese language localizers with Mozilla localiz
+ ation drivers to bring existing l10n projects up-to-date\, discuss localiz
+ ation sustainability for each locale\, and the local community&#39;s goals for
+  localization in 2015.
+URL:https://reps.mozilla.org/e/sinhalese-language-mozilla-hackathon/
+SEQUENCE:2
+X-COORDINATES-LAT:6.91924123304
+X-COORDINATES-LON:79.8481292697
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

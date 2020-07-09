@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6677
+CLASS:PUBLIC
+DTSTAMP:20200407T174137Z
+DTSTART:20170601T170000Z
+DTEND:20170601T173000Z
+LOCATION:Reps vidyo room\, Bengaluru\, India
+SUMMARY:RainOfRust Campaign Call 01/06/2017
+DESCRIPTION:Weekly campaign update call\n\nIntroduction to the campaign an
+ d Ask me anything session for regional coordinators\n \n- Intro to campaig
+ n\n- Resource materials discussion\n- Event plan updates\n- AMA session\n\
+ nOnline call setup details : https://wiki.mozilla.org/Vidyo
+URL:https://reps.mozilla.org/e/rainofrust-campaign-call-01-06-2017/
+SEQUENCE:2
+X-COORDINATES-LAT:12.8680372789
+X-COORDINATES-LON:77.7447509766
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

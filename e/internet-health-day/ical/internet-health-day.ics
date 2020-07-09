@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8999
+CLASS:PUBLIC
+DTSTAMP:20200407T165029Z
+DTSTART:20200118T073000Z
+DTEND:20200118T113000Z
+LOCATION:Lovely Professional University\, Phagwara\, India
+SUMMARY:Internet Health Day
+DESCRIPTION:Mozilla Punjab is turning one and what better way to celebrate
+  it than by talking about the most important invention of all time\, the I
+ nternet!\n\nInternet Health\, Mental Health\, Inclusion and Diversity\, an
+ d Internet Governance are few among the core values that make Mozilla and 
+ it&#39;s communities what it is. As we start a fresh new year with new dawns a
+ nd dusks\, it&#39;s time we give equal importance to these topics as we&#39;ve giv
+ en to every other in our daily life.
+URL:https://reps.mozilla.org/e/internet-health-day/
+SEQUENCE:1
+X-COORDINATES-LAT:31.2621116871
+X-COORDINATES-LON:75.7015199633
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

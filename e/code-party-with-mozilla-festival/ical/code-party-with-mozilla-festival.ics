@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@178
+CLASS:PUBLIC
+DTSTAMP:20200423T225955Z
+DTSTART:20120922T020000Z
+DTEND:20120922T080000Z
+LOCATION:Comlabs\, Institut Teknologi Bandung\, Bandung\, Indonesia
+SUMMARY:Code Party with Mozilla Festival
+DESCRIPTION:SUMMER CODE PARTY is a new web making workshop. Do not worry i
+ f you are not familiar with HTML code nor web deign. Beginners are Welcome
+ ! ITB FSL(Free IT Saturday Lesson) collaborates with one of the most famou
+ s non-profit organization. “Mozilla” folks to engage web technology wi
+ th you!
+URL:https://reps.mozilla.org/e/code-party-with-mozilla-festival/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.88927632004
+X-COORDINATES-LON:107.610569
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

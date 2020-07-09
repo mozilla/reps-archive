@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8611
+CLASS:PUBLIC
+DTSTAMP:20200423T082750Z
+DTSTART:20190525T053000Z
+DTEND:20190525T073000Z
+LOCATION:Connaught Place\, New Delhi\, India
+SUMMARY:Mozilla Community\, Delhi Meetup
+DESCRIPTION:To discuss about the future plan and an upcoming event next mo
+ nth.
+URL:https://reps.mozilla.org/e/mozilla-community-delhi-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:28.6430319405
+X-COORDINATES-LON:77.1971740667
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

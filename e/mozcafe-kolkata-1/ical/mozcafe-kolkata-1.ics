@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5631
+CLASS:PUBLIC
+DTSTAMP:20200423T151154Z
+DTSTART:20160717T103000Z
+DTEND:20160717T123000Z
+LOCATION:An Idea cafe\, Dum Dum\, India
+SUMMARY:MozCafe@Kolkata
+DESCRIPTION:Agenda:\n1. Report Sharing from Mozilla India Planning meetup 
+ 16.\n2. Future of Mozilla India.\n3. More updates on Mozilla India Communi
+ ty Gathering 16 | Pune | 26-28 August\, 2016. \n4. Current direction of Mo
+ zilla.
+URL:https://reps.mozilla.org/e/mozcafe-kolkata-1/
+SEQUENCE:2
+X-COORDINATES-LAT:22.6342926938
+X-COORDINATES-LON:88.41796875
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

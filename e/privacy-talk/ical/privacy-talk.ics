@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4950
+CLASS:PUBLIC
+DTSTAMP:20200423T155410Z
+DTSTART:20160122T043000Z
+DTEND:20160122T123000Z
+LOCATION:Patiala\,Punjab\, Patiala\, India
+SUMMARY:Privacy Talk
+DESCRIPTION:As a part of the January Privacy month we are conducting a pri
+ vacy workshop and tell people about how mozilla values the user&#39;s privacy\
+ ,Different tools and features we have in Firefox to protect privacy of the
+  user.
+URL:https://reps.mozilla.org/e/privacy-talk/
+SEQUENCE:1
+X-COORDINATES-LAT:30.3217917171
+X-COORDINATES-LON:76.397724
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

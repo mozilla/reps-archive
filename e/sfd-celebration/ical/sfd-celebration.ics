@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@35
+CLASS:PUBLIC
+DTSTAMP:20200423T230201Z
+DTSTART:20120915T090000Z
+DTEND:20120916T090000Z
+LOCATION:Jomo Kenyatta University\, Thika\, Kenya
+SUMMARY:SFD Celebration
+DESCRIPTION:Celebration of software freedom day.\n\nMozilla reps shall tak
+ e the day and they will give several talks regarding the summer of code\, 
+ B2G and html5.\nIdeas they get from Mozcamp Europe.\n\n
+URL:https://reps.mozilla.org/e/sfd-celebration/
+SEQUENCE:0
+X-COORDINATES-LAT:-1.08809605847
+X-COORDINATES-LON:37.009677887
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

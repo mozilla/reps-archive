@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1867
+CLASS:PUBLIC
+DTSTAMP:20200407T182328Z
+DTSTART:20140405T060000Z
+DTEND:20140405T150000Z
+LOCATION:Inter Expo Center\, 147\, Tsarigradsko shose blvd\, Sofia\, Bulga
+ ria\, Sofia\, Bulgaria
+SUMMARY:MobCon BG 2014
+DESCRIPTION:MobCon BG is a high demand Conference that has a necessary foc
+ us on all facets of mobile development and technologies: iOS\, Android\, W
+ indows Phone\, Hybrid and Mobile Web Development\, Wearables\, Monetizatio
+ n &amp; App discovery\, Mobile Testing\, UI/UX\, Mobile Data Security\, Archit
+ ecture &amp; Infrastructure.\n\nMobCon BG is the annual one-day premier mobile
+  conference for mobile developers and enthusiasts. Attendees will learn an
+ d share ideas around how mobile technologies are transforming the IT world
+ .
+URL:https://reps.mozilla.org/e/mobcon-bg-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:42.6490837954
+X-COORDINATES-LON:23.3952276706
+X-COUNTRY-CODE:bg
+END:VEVENT
+
+END:VCALENDAR

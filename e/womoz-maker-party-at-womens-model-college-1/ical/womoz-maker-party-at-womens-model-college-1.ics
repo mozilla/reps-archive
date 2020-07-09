@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3820
+CLASS:PUBLIC
+DTSTAMP:20200407T180523Z
+DTSTART:20150608T060000Z
+DTEND:20150608T090000Z
+LOCATION:Women&#39;s MODEL College\, Sylhet\, Sylhet\, Bangladesh
+SUMMARY:WoMoz Maker Party at Women&#39;s MODEL College
+DESCRIPTION:On this event the participants will be thought about using htt
+ ps://apps.webmaker.org/en-US/designer to create webmaker apps\; \nStudents
+  of this college will participate on this event\; \nThey&#39;ll create webmake
+ r accounts\, create apps ant may submit \;\nwebmaker url:  https://events.
+ webmaker.org/events/7046
+URL:https://reps.mozilla.org/e/womoz-maker-party-at-womens-model-college-1
+ /
+SEQUENCE:10
+X-COORDINATES-LAT:24.3821241811
+X-COORDINATES-LON:90.7134246826
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

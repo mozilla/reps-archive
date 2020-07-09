@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@820
+CLASS:PUBLIC
+DTSTAMP:20200423T214315Z
+DTSTART:20130518T023000Z
+DTEND:20130625T143000Z
+LOCATION:Hyderabad\, Hyderabad\, India
+SUMMARY:Mozilla Summer Code in Hyderabad
+DESCRIPTION:Series of events by Mozilla Reps now in the Hyderabad. \nEduca
+ tional Institutions to be targeted basically. Helps in spreading the word 
+ as well as recruiting contributors.\nAdding up interest to the students by
+  letting them know why OpenSource software is important. \n\nMozBooth\,  i
+ n few shopping malls in Hyderabad where all the day fun events are conduct
+ ed which includes few quiz questions about the Web\, about Mozilla and Ope
+ nSource Communities.
+URL:https://reps.mozilla.org/e/mozilla-summer-code-in-hyderabad/
+SEQUENCE:21
+X-COORDINATES-LAT:17.3925792711
+X-COORDINATES-LON:78.5083007812
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

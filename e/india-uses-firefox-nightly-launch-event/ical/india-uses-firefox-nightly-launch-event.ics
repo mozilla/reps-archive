@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6564
+CLASS:PUBLIC
+DTSTAMP:20200423T111248Z
+DTSTART:20170501T053000Z
+DTEND:20170501T083000Z
+LOCATION:SMIT\, SMIT\, India
+SUMMARY:India Uses Firefox Nightly - Launch event
+DESCRIPTION:As part of firefox Nightly campaign\, As we all know we have a
+  great Mozilla community around India. We have a large number of dedicated
+  students\, developers and evangelists who are really passionate about Moz
+ illa. We have seen that very few people in India actually know about Firef
+ ox Nightly.
+URL:https://reps.mozilla.org/e/india-uses-firefox-nightly-launch-event/
+SEQUENCE:1
+X-COORDINATES-LAT:26.1915908272
+X-COORDINATES-LON:86.6528311372
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

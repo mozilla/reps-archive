@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7635
+CLASS:PUBLIC
+DTSTAMP:20200423T093351Z
+DTSTART:20180519T043000Z
+DTEND:20180519T123000Z
+LOCATION:CMR\, Hyderabad\, Hyderabad\, India
+SUMMARY:Rust Hack Series - Day 5
+DESCRIPTION:It is a series of part of the Rust Hack Series\,2018. (https:/
+ /reps.mozilla.org/e/rust-hack-series/)\nThis week we would be based on Cra
+ tes.
+URL:https://reps.mozilla.org/e/rust-hack-series-day-5/
+SEQUENCE:2
+X-COORDINATES-LAT:17.3753
+X-COORDINATES-LON:78.4744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

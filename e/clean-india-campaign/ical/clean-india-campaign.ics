@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3169
+CLASS:PUBLIC
+DTSTAMP:20200423T182308Z
+DTSTART:20141129T043000Z
+DTEND:20141129T103000Z
+LOCATION:TBD\, Nashik\, India
+SUMMARY:Clean India campaign
+DESCRIPTION:This is a social awareness program. All the Mozillians of Nash
+ ik City will take part in a &#34;Clean India Campaign&#34;. The moto is to build t
+ eam building and spirit and work together to clean our beautiful city
+URL:https://reps.mozilla.org/e/clean-india-campaign/
+SEQUENCE:1
+X-COORDINATES-LAT:19.9562765
+X-COORDINATES-LON:73.7417523
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

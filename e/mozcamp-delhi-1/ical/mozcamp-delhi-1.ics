@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@466
+CLASS:PUBLIC
+DTSTAMP:20200407T175837Z
+DTSTART:20130119T033000Z
+DTEND:20130119T113000Z
+LOCATION:Amity University\, Noida\, India
+SUMMARY:MozCamp Delhi
+DESCRIPTION:MozCamp Delhi is organized by Mozilla India community to promo
+ te Open-Source software and technologies.
+URL:https://reps.mozilla.org/e/mozcamp-delhi-1/
+SEQUENCE:0
+X-COORDINATES-LAT:28.5559529971
+X-COORDINATES-LON:77.3300600052
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4924
+CLASS:PUBLIC
+DTSTAMP:20200407T174245Z
+DTSTART:20151224T103000Z
+DTEND:20160108T103000Z
+LOCATION:Sonipat\, Delhi\, India
+SUMMARY:All India Mozilla Geo Location Project Promotion
+DESCRIPTION:Contributing to Mozilla Geo location project during Jagriti Ya
+ tra - A 15 day journey across India ( 8\,000 Km ) in ZERO Budget
+URL:https://reps.mozilla.org/e/all-india-mozilla-geo-location-project-prom
+ otion-1/
+SEQUENCE:1
+X-COORDINATES-LAT:28.9464118
+X-COORDINATES-LON:77.0971987
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

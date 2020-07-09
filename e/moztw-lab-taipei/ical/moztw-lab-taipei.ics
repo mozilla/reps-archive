@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@929
+CLASS:PUBLIC
+DTSTAMP:20200423T214136Z
+DTSTART:20130523T110000Z
+DTEND:20130523T140000Z
+LOCATION:咖啡銅號 台北市中山區民生東路二段114號\, Taipei 
+ City\, Taiwan
+SUMMARY:MozTW Lab\, Taipei - May 23/2013
+DESCRIPTION:A weekly MozCafe in Taipei. Anyone can bring his own works/tas
+ ks/fun to attend this event and sharing.\n\nThe main topic of this week is
+ : Firefox OS Phone - Keon and Peak. There&#39;re total 4 Keon and 2 Peak to ge
+ t together for demo/flash/testing.
+URL:https://reps.mozilla.org/e/moztw-lab-taipei/
+SEQUENCE:4
+X-COORDINATES-LAT:25.0576792249
+X-COORDINATES-LON:121.531233788
+X-COUNTRY-CODE:tw
+END:VEVENT
+
+END:VCALENDAR

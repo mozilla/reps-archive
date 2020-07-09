@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6753
+CLASS:PUBLIC
+DTSTAMP:20200423T105712Z
+DTSTART:20170628T050000Z
+DTEND:20170630T120000Z
+LOCATION:Holiday Inn\, Mon Tresor\, Mauritius
+SUMMARY:Developing the ICT ecosystem to harness Internet-of-Things
+DESCRIPTION:The workshop is organized by ITU Regional Office for Africa in
+  partnership with the National Computer Board of Mauritius who are hosting
+  the event.\n\nThis year&#39;s theme is &#34;Developing the ICT ecosystem to harne
+ ss Internet-of-Things&#34; and aims to provide an opportunity for the particip
+ ants to express their views and experiences on the following:
+URL:https://reps.mozilla.org/e/developing-the-ict-ecosystem-to-harness-int
+ ernet-of-things/
+SEQUENCE:1
+X-COORDINATES-LAT:-20.4323347343
+X-COORDINATES-LON:57.6674652065
+X-COUNTRY-CODE:mu
+END:VEVENT
+
+END:VCALENDAR

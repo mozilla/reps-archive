@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4465
+CLASS:PUBLIC
+DTSTAMP:20200407T175023Z
+DTSTART:20151107T053000Z
+DTEND:20151107T083000Z
+LOCATION:TBD\, Navi Mumbai\, India
+SUMMARY:WoMoz Tech
+DESCRIPTION:WoMoz Tech event will be held in G.M.Momim Women&#39;s College. It
+  will help and support with an initiative to train more women in technolog
+ y.
+URL:https://reps.mozilla.org/e/womoz-tech/
+SEQUENCE:1
+X-COORDINATES-LAT:19.0335597189
+X-COORDINATES-LON:73.0295562744
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

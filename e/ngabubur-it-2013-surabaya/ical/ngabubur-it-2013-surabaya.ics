@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1165
+CLASS:PUBLIC
+DTSTAMP:20200423T212221Z
+DTSTART:20130731T083000Z
+DTEND:20130731T120000Z
+LOCATION:Dapur Desa\, Surabaya\, Indonesia
+SUMMARY:Ngabubur-IT 2013 - Surabaya
+DESCRIPTION:Talk show\, communities gathering\, &amp; break fast organized by 
+ ICT Watch. Mozilla Indonesia invited to attend the event.
+URL:https://reps.mozilla.org/e/ngabubur-it-2013-surabaya/
+SEQUENCE:1
+X-COORDINATES-LAT:-7.24804681347
+X-COORDINATES-LON:112.74307251
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

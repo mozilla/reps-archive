@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1754
+CLASS:PUBLIC
+DTSTAMP:20200423T194704Z
+DTSTART:20140522T070000Z
+DTEND:20140522T090000Z
+LOCATION:Dhaka University\, Dhaka\, Bangladesh
+SUMMARY:DU Firefox Students meet-up &amp; intro to contribution
+DESCRIPTION:All the newbies and old FSAs will have a meet-up and know thei
+ r responsibilities along with getting introduced about contributing to Moz
+ illa.\nThis event will be organized by the club lead of DU fx club-Tarek B
+ in Zahid.\nSign up at : http://goo.gl/AQ2z1m
+URL:https://reps.mozilla.org/e/du-firefox-students-meet-up-intro-to-contri
+ bution/
+SEQUENCE:13
+X-COORDINATES-LAT:23.709921
+X-COORDINATES-LON:90.407143
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4040
+CLASS:PUBLIC
+DTSTAMP:20200423T165354Z
+DTSTART:20150811T130000Z
+DTEND:20150811T140000Z
+LOCATION:TBD\, Rajshahi\, Bangladesh
+SUMMARY:MozIftar Rajshahi 2015
+DESCRIPTION:Iftar is a religious culture for Muslim society. In Bangladesh
+  it has a huge potentiality for different communities. For sharing ideas &amp;
+  discuss different issues Iftar is a great way to communicate. For last th
+ ree years we were arranging MozIftar in Dhaka\,Chittagong &amp; Rajshahi. In t
+ his type of event we meet many new people.
+URL:https://reps.mozilla.org/e/moziftar-rajshahi-2015/
+SEQUENCE:4
+X-COORDINATES-LAT:24.3682457942
+X-COORDINATES-LON:88.6066245
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

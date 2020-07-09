@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3050
+CLASS:PUBLIC
+DTSTAMP:20200423T182850Z
+DTSTART:20141120T090000Z
+DTEND:20141120T170000Z
+LOCATION:6722 Szeged\, Kálvária sgt. 23\, Budapest\, Hungary
+SUMMARY:Softver Freedom Day 2014 Szeged\, Hungary
+DESCRIPTION:* Booth\n* Quiz\n* Introduce Firefox OS phones\n* Promote our 
+ developer phone lean program (Krisztián)\n* Firefox OS talk by KAMI\n* Ca
+ ke
+URL:https://reps.mozilla.org/e/softver-freedom-day-2014-szeged-hungary/
+SEQUENCE:8
+X-COORDINATES-LAT:46.2728569091
+X-COORDINATES-LON:20.154876681
+X-COUNTRY-CODE:hu
+END:VEVENT
+
+END:VCALENDAR

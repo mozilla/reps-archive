@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4540
+CLASS:PUBLIC
+DTSTAMP:20200407T174822Z
+DTSTART:20151105T230000Z
+DTEND:20151106T020000Z
+LOCATION:National University of Colombia\, Bogota\, Colombia
+SUMMARY:Workshops tools Mozilla and l10n
+DESCRIPTION:Workshops tools Mozilla on Study Group Yauda\n- Thimble\n- Loc
+ amotion
+URL:https://reps.mozilla.org/e/workshops-tools-mozilla-and-l10n/
+SEQUENCE:3
+X-COORDINATES-LAT:4.63401653548
+X-COORDINATES-LON:-74.0865952335
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

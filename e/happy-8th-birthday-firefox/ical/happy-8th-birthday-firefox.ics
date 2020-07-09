@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@298
+CLASS:PUBLIC
+DTSTAMP:20200423T224704Z
+DTSTART:20121109T170000Z
+DTEND:20121109T200000Z
+LOCATION:ActiveWatch (Calea Plevnei nr. 98\, bl. 10C)\, Bucharest\, Romani
+ a
+SUMMARY:Bucharest: Happy 8th birthday\, Firefox!
+DESCRIPTION:Fundația Ceata is organizing a Firefox Birthday Party in Buch
+ arest to celebrate 8 years of free\, safe and enriched Internet browsing e
+ xperience with Firefox.
+URL:https://reps.mozilla.org/e/happy-8th-birthday-firefox/
+SEQUENCE:0
+X-COORDINATES-LAT:44.439831749
+X-COORDINATES-LON:26.073936224
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6159
+CLASS:PUBLIC
+DTSTAMP:20200407T174232Z
+DTSTART:20161217T110000Z
+DTEND:20161217T150000Z
+LOCATION:Open Labs Hackerspace\, Tirana\, Albania
+SUMMARY:Tech Speakers - Tirana Training #2
+DESCRIPTION:Mozilla Tech Speakers aims to increase developer awareness and
+  adoption of the Web\, Firefox\, and Mozilla through a strong community-dr
+ iven speaker development program.\n\nNow we are bringing Tech Speaker less
+ ons\, mentors and Mozillians to the local community\, offering great insig
+ ht and experiences to newcomers and late arrivals. The workshop will consi
+ st of short lightning talk sessions\, followed by feedback\, tips on how t
+ o stand\, non verbal communication\, slides creation and much more.
+URL:https://reps.mozilla.org/e/tech-speakers-tirana-training-2/
+SEQUENCE:1
+X-COORDINATES-LAT:41.3214424002
+X-COORDINATES-LON:19.8276524841
+X-COUNTRY-CODE:al
+END:VEVENT
+
+END:VCALENDAR

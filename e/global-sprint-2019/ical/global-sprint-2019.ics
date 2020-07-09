@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8477
+CLASS:PUBLIC
+DTSTAMP:20200423T083523Z
+DTSTART:20190401T043000Z
+DTEND:20190401T113000Z
+LOCATION:Sai Bhuvaneswari Vidyala N&amp;P school\, Salem\, India
+SUMMARY:Global sprint 2019
+DESCRIPTION:As a part of Open Leaders program I am taking forward my proje
+ ct - Farmer&#39;s Gear which needs initially some issues to be resolve. Also i
+ nviting webpage and game developers for the same.
+URL:https://reps.mozilla.org/e/global-sprint-2019/
+SEQUENCE:2
+X-COORDINATES-LAT:11.631074506
+X-COORDINATES-LON:78.1734008342
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

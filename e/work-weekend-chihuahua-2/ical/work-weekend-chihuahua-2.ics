@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3048
+CLASS:PUBLIC
+DTSTAMP:20200407T181539Z
+DTSTART:20141027T160000Z
+DTEND:20141029T190000Z
+LOCATION:Instituto Tecnologico de Chihuahua II\, Chihuahua\, Mexico
+SUMMARY:Work Weekend Chihuahua 2
+DESCRIPTION:&#34;One city\, one topic\, one weekend&#34;\n\nOn October\, we&#39;ll wor
+ k to build a better open web.\nFirefox\, Webmaker\, Firefox OS\, FSA and M
+ ozilla Nativo are some topics. Organized by Instituto Tecnologico de Chihu
+ ahua 2 and Mozilla Hispano
+URL:https://reps.mozilla.org/e/work-weekend-chihuahua-2/
+SEQUENCE:7
+X-COORDINATES-LAT:28.7436148742
+X-COORDINATES-LON:-106.120778561
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

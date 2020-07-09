@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8376
+CLASS:PUBLIC
+DTSTAMP:20200423T084620Z
+DTSTART:20190112T070000Z
+DTEND:20190112T100000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar: Basic Automation Using Arduino Uno
+DESCRIPTION:This is a workshop about basic automation using Arduino Uno to
+  turn on the pump with soil moist censor.
+URL:https://reps.mozilla.org/e/mozbelajar-basic-automation-using-arduino-u
+ no/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.31893818968
+X-COORDINATES-LON:106.942382455
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

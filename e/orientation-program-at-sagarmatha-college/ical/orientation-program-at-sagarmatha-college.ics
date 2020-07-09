@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6969
+CLASS:PUBLIC
+DTSTAMP:20200423T104239Z
+DTSTART:20170908T021500Z
+DTEND:20170908T041500Z
+LOCATION:Sagarmatha College of Science and Technology\, Patan\, Nepal
+SUMMARY:Orientation Program at Sagarmatha College
+DESCRIPTION:This is a first campus event at Sagarmatha College of Science 
+ and Technology based on Patan\, Nepal. The event will be focused on provid
+ ing enough information about campus clubs to the club members followed by 
+ brief information about local community in Nepal. \nThis is a part of rebu
+ ilding the Mozilla Nepal Community.
+URL:https://reps.mozilla.org/e/orientation-program-at-sagarmatha-college/
+SEQUENCE:1
+X-COORDINATES-LAT:27.688314
+X-COORDINATES-LON:85.302561
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

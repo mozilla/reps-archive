@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4200
+CLASS:PUBLIC
+DTSTAMP:20200407T180259Z
+DTSTART:20150815T050000Z
+DTEND:20150815T090000Z
+LOCATION:Far Eastern University Diliman\, Quezon City\, Philippines
+SUMMARY:MozTour FEU Diliman
+DESCRIPTION:MozTour at Far Eastern University- Diliman to talk about Mozil
+ la\, its products and community and to recruit student contributors. \nThi
+ s will be the first time of the Mozilla Philippines Community to visit FEU
+  Diliman.
+URL:https://reps.mozilla.org/e/moztour-feu-diliman/
+SEQUENCE:7
+X-COORDINATES-LAT:14.6889611702
+X-COORDINATES-LON:121.072548868
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

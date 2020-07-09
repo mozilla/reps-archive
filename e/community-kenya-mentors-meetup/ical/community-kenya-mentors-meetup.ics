@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1163
+CLASS:PUBLIC
+DTSTAMP:20200407T182627Z
+DTSTART:20130817T080000Z
+DTEND:20130817T130000Z
+LOCATION:iHub\, Nairobi\, Kenya
+SUMMARY:Community Kenya Mentors Meetup
+DESCRIPTION:Meetup and identify all local community leaders and exchange k
+ nowledge that we deem is important for each one of us to know e.g. webmaki
+ ng tools\, general info about Mozilla projects etc and perform activities 
+ that require some collective effort e.g a mini-localization sprint among o
+ thers
+URL:https://reps.mozilla.org/e/community-kenya-mentors-meetup/
+SEQUENCE:2
+X-COORDINATES-LAT:-1.2988342909
+X-COORDINATES-LON:36.7910456657
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

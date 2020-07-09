@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3174
+CLASS:PUBLIC
+DTSTAMP:20200423T182200Z
+DTSTART:20141130T123000Z
+DTEND:20141130T133000Z
+LOCATION:New Delhi\, New Delhi\, India
+SUMMARY:Moz meetup Delhi
+DESCRIPTION:This would be an online meetup just to attempt in making the D
+ elhi Community even more active.
+URL:https://reps.mozilla.org/e/moz-meetup-delhi/
+SEQUENCE:3
+X-COORDINATES-LAT:28.6504238779
+X-COORDINATES-LON:77.2258300334
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

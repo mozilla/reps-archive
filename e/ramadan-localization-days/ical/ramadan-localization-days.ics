@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2538
+CLASS:PUBLIC
+DTSTAMP:20200407T174817Z
+DTSTART:20140630T120000Z
+DTEND:20140727T230000Z
+LOCATION:Tunis\, Hammam al Anf\, Tunisia
+SUMMARY:Ramadan Localization Days
+DESCRIPTION:The Mozilla Tunisia Community is very pleased to invite you to
+  join its initiative &#34;Ramadan Localization Days&#34; during this Month\nThis p
+ roject will be on localize to Arabic fourth Mozilla project that we have i
+ dentified during the Ramadan evenings. In  order to give everyone the chan
+ ce to participate\, the event will be  &#34;online&#34; and an assistance on the M
+ ozilla IRC channel of arabic  #arabicmozilla. And the unfloding is in the 
+ pad
+URL:https://reps.mozilla.org/e/ramadan-localization-days/
+SEQUENCE:1
+X-COORDINATES-LAT:36.7359495433
+X-COORDINATES-LON:10.3330077231
+X-COUNTRY-CODE:tn
+END:VEVENT
+
+END:VCALENDAR

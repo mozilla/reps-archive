@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1776
+CLASS:PUBLIC
+DTSTAMP:20200423T202019Z
+DTSTART:20140306T103000Z
+DTEND:20140306T133000Z
+LOCATION:NIT Trichy\, Thuvakudi\, India
+SUMMARY:Trichy FSA-RMA-ReMo Meetup
+DESCRIPTION:Mozilla community in and around NIT Trichy meeting together. R
+ eMo\, RMA &amp; FSAs gonna discuss about past and future activities.
+URL:https://reps.mozilla.org/e/trichy-fsa-rma-remo-meetup/
+SEQUENCE:12
+X-COORDINATES-LAT:10.762695566
+X-COORDINATES-LON:78.8158035243
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

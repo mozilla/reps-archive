@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3924
+CLASS:PUBLIC
+DTSTAMP:20200423T171231Z
+DTSTART:20150618T183000Z
+DTEND:20150711T183000Z
+LOCATION:Collab House\, Hyderabad.\, Hyderabad\, India
+SUMMARY:Securing Web @ZAP
+DESCRIPTION:“Securing Web @ZAP” is aimed at students and security enth
+ usiasts to bring awareness about the different threats possessed by a web 
+ application. It involves in training the students how to detect these thre
+ ats by performing security attacks and start contributing to ZAP security 
+ tool.
+URL:https://reps.mozilla.org/e/securing-web-zap/
+SEQUENCE:22
+X-COORDINATES-LAT:17.3216584
+X-COORDINATES-LON:78.5603958
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

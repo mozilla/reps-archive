@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5456
+CLASS:PUBLIC
+DTSTAMP:20200423T152405Z
+DTSTART:20160522T050000Z
+DTEND:20160522T070000Z
+LOCATION:Janeshwar Mishra Park\, Gomti Nagar\, Lucknow\, India
+SUMMARY:MozUP Community Meetup
+DESCRIPTION:The objective of this meetup is to gather all the community me
+ mbers of MozUP. This meetup will focus on community involvement\, engageme
+ nt\,orientation for some new members and planning the roadmap of MozUP for
+  next 4 months.
+URL:https://reps.mozilla.org/e/mozup-community-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:26.8089550526
+X-COORDINATES-LON:80.9133910015
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5987
+CLASS:PUBLIC
+DTSTAMP:20200407T175210Z
+DTSTART:20161111T230000Z
+DTEND:20161112T230000Z
+LOCATION:Cité des Sciences et de l&#39;Industrie\, Paris\, France
+SUMMARY:Ubuntu party 1610
+DESCRIPTION:It&#39;s a very important Parisian event about Ubuntu where the Fr
+ ench community traditionnaly held a booth.\nWe&#39;ll conducted demos of Firef
+ ox Nightly\, talk about privacy\, security\, news topics\nBesides many con
+ ferences are being validations pending the publication of the program
+URL:https://reps.mozilla.org/e/ubuntu-party-1610/
+SEQUENCE:10
+X-COORDINATES-LAT:48.894480619
+X-COORDINATES-LON:2.3559036199
+X-COUNTRY-CODE:fr
+END:VEVENT
+
+END:VCALENDAR

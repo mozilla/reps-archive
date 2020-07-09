@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1594
+CLASS:PUBLIC
+DTSTAMP:20200423T204453Z
+DTSTART:20131201T083000Z
+DTEND:20131201T110000Z
+LOCATION:FSMK Office\, Bangalore\, Bangalore\, India
+SUMMARY:Sunday School on Firefox DevTools at FSMK\, Bangalore
+DESCRIPTION:A small gathering of FOSS enthusiasts will be introduced to Fi
+ refox DevTools. They will be shown how to use Firefox DevTools for their d
+ aily development needs. The participants will be also introduced to Firefo
+ x Nightly and will be encouraged to test latest builds of Firefox on their
+  computers.
+URL:https://reps.mozilla.org/e/sunday-school-on-firefox-devtools-at-fsmk-b
+ angalore/
+SEQUENCE:5
+X-COORDINATES-LAT:12.9468119609
+X-COORDINATES-LON:77.5996034145
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1494
+CLASS:PUBLIC
+DTSTAMP:20200407T175852Z
+DTSTART:20140130T060000Z
+DTEND:20140131T120000Z
+LOCATION:Kampabits\, Kampala\, Uganda
+SUMMARY:Webmaking at Kampabits
+DESCRIPTION:We now would like to have a web making event at Kampabits (htt
+ p://www.kampabits.org/) which is a sister project of Nairobits http://www.
+ nairobits.com. In this kind of events since we deal with upcoming web deve
+ lopers we show them how to use Mozilla developer tools to make their work 
+ easier and also for testing. We also show them how to build web apps and d
+ eploying them to the Firefox OS market place.
+URL:https://reps.mozilla.org/e/webmaking-at-kampabits/
+SEQUENCE:5
+X-COORDINATES-LAT:0.305806138993
+X-COORDINATES-LON:32.5617284747
+X-COUNTRY-CODE:ug
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3317
+CLASS:PUBLIC
+DTSTAMP:20200407T174256Z
+DTSTART:20150314T080000Z
+DTEND:20150314T170000Z
+LOCATION:Lotus Hotel Mombasa\, Mombasa\, Kenya
+SUMMARY:Firefox OS Conference &amp; Exhibition
+DESCRIPTION:The Firefox OS Conference &amp; Exhibition is an event targeted to
+  bring together all enthusiast Mobile and Web developers as well as potent
+ ial investors and business minds under one roof for an educative and excit
+ ing experience where Professional speakers will deliver talks on Firefox O
+ S &amp; Developing for the Web &amp; Mobile and students and developers will get a
+  chance to showcase some of their greatest talents to a related audience. 
+ The winning team will be awarded with a trophy.
+URL:https://reps.mozilla.org/e/firefox-os-conference-exhibition/
+SEQUENCE:5
+X-COORDINATES-LAT:-3.93824048695
+X-COORDINATES-LON:39.7231292725
+X-COUNTRY-CODE:ke
+END:VEVENT
+
+END:VCALENDAR

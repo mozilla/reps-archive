@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@999
+CLASS:PUBLIC
+DTSTAMP:20200423T212855Z
+DTSTART:20130706T033000Z
+DTEND:20130905T233000Z
+LOCATION:Erode\, Erode\, India
+SUMMARY:Maker Parties @ Erode
+DESCRIPTION:Maker Parties @ Erode will be a series of Mozilla events ( mor
+ e focused on webmaker ) which will happen in Home \, School \, College \, 
+ Garden \, Cybercafes i.e Whereever possible. Similar to last year \, this 
+ year also the focus will be more on youth inorder to  build not only next 
+ generation of webmakers and also future of our community.  Even though \, 
+ these events is more focused on Webmaker it also includes few SuMo related
+  events in cybercafes.
+URL:https://reps.mozilla.org/e/maker-parties-erode/
+SEQUENCE:19
+X-COORDINATES-LAT:11.2646122125
+X-COORDINATES-LON:77.5854492188
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2146
+CLASS:PUBLIC
+DTSTAMP:20200423T195458Z
+DTSTART:20140504T041500Z
+DTEND:20140504T101500Z
+LOCATION:Kathmandu University\, Kavre\, Nepal
+SUMMARY:Mozilla Workshop at Kathmandu University
+DESCRIPTION:A startup event in Kathmandu University. Kathmandu University 
+ (KU) is one of the biggest and finest university in Nepal. The University 
+ offers various undergraduate\, graduate and postgraduate\n\nThere is a pre
+ sence of Open source club named KU Open Source Club (KUOSC) who will assis
+ t us in organizing the event. The event will be focusing on various ways o
+ f contribution to mozilla. We will end the program by conducting workshops
+  on different contribution tools.
+URL:https://reps.mozilla.org/e/mozilla-workshop-at-kathmandu-university/
+SEQUENCE:14
+X-COORDINATES-LAT:27.60242577
+X-COORDINATES-LON:85.4399415851
+X-COUNTRY-CODE:np
+END:VEVENT
+
+END:VCALENDAR

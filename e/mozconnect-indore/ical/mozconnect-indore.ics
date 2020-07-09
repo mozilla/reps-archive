@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3481
+CLASS:PUBLIC
+DTSTAMP:20200407T175025Z
+DTSTART:20150313T033000Z
+DTEND:20150314T113000Z
+LOCATION:IIST\, Indore\, India
+SUMMARY:MozConnect 2015  Indore
+DESCRIPTION:Greetings\, We have been missing Moz Connect Event for this ye
+ ar. MozConnect is our annual event to collaborate in central India region 
+ with the clear ambition to unite our efforts to build a better community\,
+  Since last year\, we have grown tremendously and had some very successful
+  and productive events for almost all Mozilla Projects.As education hub we
+  still have lots of opportunities to grow ourselves and to find good susta
+ inable contributors.
+URL:https://reps.mozilla.org/e/mozconnect-indore/
+SEQUENCE:4
+X-COORDINATES-LAT:23.2510199574
+X-COORDINATES-LON:77.3829345591
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

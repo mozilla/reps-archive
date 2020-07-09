@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7397
+CLASS:PUBLIC
+DTSTAMP:20200423T100156Z
+DTSTART:20180203T020000Z
+DTEND:20180203T033000Z
+LOCATION:MIT College of Engineering\, Pune\, India
+SUMMARY:Logout Cyber Security Awareness MITCOE
+DESCRIPTION:Online Privacy and Cyber Security Awareness Workshop at MIT Co
+ llege of Engineering\, Pune
+URL:https://reps.mozilla.org/e/logout-cyber-security-awareness-mitcoe/
+SEQUENCE:3
+X-COORDINATES-LAT:18.518532
+X-COORDINATES-LON:73.814709
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

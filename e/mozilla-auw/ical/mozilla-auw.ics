@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1456
+CLASS:PUBLIC
+DTSTAMP:20200423T205724Z
+DTSTART:20131026T050000Z
+DTEND:20131026T070000Z
+LOCATION:Asian University for Women\, 20/A M.M. Ali Road\, Chittagong\, Ba
+ ngladesh
+SUMMARY:Mozilla@AUW
+DESCRIPTION:Mozilla Bangladesh and Asian University for Women (AUW) is co-
+ organizing a Mozilla Awareness event to spread the Mozilla mission. It wil
+ l help to increase the number of women to promote the goal of open source 
+ community being united subsides with men.
+URL:https://reps.mozilla.org/e/mozilla-auw/
+SEQUENCE:18
+X-COORDINATES-LAT:22.3578207149
+X-COORDINATES-LON:91.8234415053
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

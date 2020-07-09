@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3395
+CLASS:PUBLIC
+DTSTAMP:20200407T174833Z
+DTSTART:20150221T190000Z
+DTEND:20150222T000000Z
+LOCATION:UVU Business Resource Center  -  815 West 1250 South\, Orem\, UT\
+ , Orem\, United States
+SUMMARY:Mozilla Utah - Two Year Anniversary
+DESCRIPTION:To honor the two year anniversary of the Mozilla Utah communit
+ y we will be having an all-day celebration. \n\nAttendees will divide into
+  two groups:\n\nApp day - have a demo of a current FirefoxOS app\, then di
+ vide into groups by app choice and start coding.\n\nLocalization sprint - 
+ divide by teams and localize 750+ strings and finish two language packs: N
+ avajo and Shoshone.\n\nWe will conclude with a dinner and celebrate each a
+ ttendee&#39;s impact from the days event.
+URL:https://reps.mozilla.org/e/mozilla-utah-two-year-anniversary/
+SEQUENCE:3
+X-COORDINATES-LAT:40.2751588182
+X-COORDINATES-LON:-111.714517772
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

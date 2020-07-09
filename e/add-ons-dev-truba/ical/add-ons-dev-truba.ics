@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6994
+CLASS:PUBLIC
+DTSTAMP:20200423T103808Z
+DTSTART:20170918T053000Z
+DTEND:20170918T083000Z
+LOCATION:Truba College Of Science &amp; Technology\, Bhopal\, India
+SUMMARY:Add-Ons Dev @Truba
+DESCRIPTION:With WebExtensions APIs\, it’s easier than ever to create ex
+ tensions that can be easily ported to Firefox\, Chrome\, Edge\, and Opera.
+  This workshop will help more people to learn how to develop add-ons and e
+ nsure that Firefox remains the most customizable browser.\nContact Kuldeep
+  Verma for more details.\n[Telegram : @kuver]
+URL:https://reps.mozilla.org/e/add-ons-dev-truba/
+SEQUENCE:2
+X-COORDINATES-LAT:23.29496064
+X-COORDINATES-LON:77.3420262328
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

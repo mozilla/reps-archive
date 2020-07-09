@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5089
+CLASS:PUBLIC
+DTSTAMP:20200423T154925Z
+DTSTART:20160212T043000Z
+DTEND:20160213T103000Z
+LOCATION:JIET\,Jodhpur\, Lab-2\, Jodhpur\, India
+SUMMARY:Let The Code Flow
+DESCRIPTION:This time we will focus on Add-Ons  development followed by ap
+ p development .This event is for the students keen to learn new technologi
+ es\, and Most important thing is to develop a together-learning culture.\n
+ The participants will get to know about what we can do on web by using sim
+ ple tools. Learn about the open api&#39;s to interact with the device. We will
+  also tell participants about how to develop add ons and how to contribute
+  in codebase.
+URL:https://reps.mozilla.org/e/let-the-code-flow/
+SEQUENCE:2
+X-COORDINATES-LAT:26.2523676221
+X-COORDINATES-LON:73.062011674
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

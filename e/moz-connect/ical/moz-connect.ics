@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@359
+CLASS:PUBLIC
+DTSTAMP:20200407T165611Z
+DTSTART:20121222T063000Z
+DTEND:20121222T113000Z
+LOCATION:Acropolis Engineering College\, Bhopal\, India
+SUMMARY:Moz Connect 
+DESCRIPTION:1: Introducing WebMaker Project.\n2: Looking for contributors 
+ in our SuMo Project\n3: Firefox for Mobile would also be discussed.\n4: St
+ udent Rep recruitment.
+URL:https://reps.mozilla.org/e/moz-connect/
+SEQUENCE:0
+X-COORDINATES-LAT:23.2413461024
+X-COORDINATES-LON:75.9375
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

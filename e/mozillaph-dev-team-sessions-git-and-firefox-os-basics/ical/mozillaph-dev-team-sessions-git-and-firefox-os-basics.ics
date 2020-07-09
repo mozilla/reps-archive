@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@932
+CLASS:PUBLIC
+DTSTAMP:20200423T213250Z
+DTSTART:20130621T170000Z
+DTEND:20130621T210000Z
+LOCATION:Globe Corporate Showroom Valero Telepark\, 111 Valero Street\, Ma
+ kati\, Philippines
+SUMMARY:MozillaPH Dev Team Sessions: Git Basics and Firefox OS Development
+DESCRIPTION:The event aims to teach Git distributed version control system
+  that is very vital for contributing code for future MozillaPH Dev Team pr
+ ojects and other open source technologies. It also aims to teach Firefox O
+ S development basics and porting existing HTML5 apps.
+URL:https://reps.mozilla.org/e/mozillaph-dev-team-sessions-git-and-firefox
+ -os-basics/
+SEQUENCE:11
+X-COORDINATES-LAT:14.5594828054
+X-COORDINATES-LON:121.018760204
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

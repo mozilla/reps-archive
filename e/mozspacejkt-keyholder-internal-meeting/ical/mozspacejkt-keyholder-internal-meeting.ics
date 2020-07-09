@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7552
+CLASS:PUBLIC
+DTSTAMP:20200407T180025Z
+DTSTART:20180304T030000Z
+DTEND:20180304T090000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozSpaceJKT Keyholder Internal Meeting
+DESCRIPTION:Briefing meeting with new onboarding Mozilla Community Space J
+ akarta Keyholders.
+URL:https://reps.mozilla.org/e/mozspacejkt-keyholder-internal-meeting/
+SEQUENCE:0
+X-COORDINATES-LAT:-6.2341856632
+X-COORDINATES-LON:106.821045399
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

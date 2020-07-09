@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2149
+CLASS:PUBLIC
+DTSTAMP:20200423T200027Z
+DTSTART:20140420T150000Z
+DTEND:20140420T170000Z
+LOCATION:Central Plaza\, Zürich\, Zurich\, Switzerland
+SUMMARY:Mozilla Easter Get-Together
+DESCRIPTION:Just a small get-together at the Central Plaza (Restaurant). L
+ et&#39;s talk about Mozilla topics and have a good time (no presentations\, ju
+ st amazing discussions).
+URL:https://reps.mozilla.org/e/mozilla-easter-get-together/
+SEQUENCE:2
+X-COORDINATES-LAT:47.3790472641
+X-COORDINATES-LON:8.54262399669
+X-COUNTRY-CODE:ch
+END:VEVENT
+
+END:VCALENDAR

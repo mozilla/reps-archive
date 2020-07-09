@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@104
+CLASS:PUBLIC
+DTSTAMP:20200407T183129Z
+DTSTART:20120908T050000Z
+DTEND:20120908T100000Z
+LOCATION:Colegio de San Juan de Letran Calamba\, Calamba\, Laguna\, Philip
+ pines
+SUMMARY:Mozilla Day Conference at Letran Calamba
+DESCRIPTION:With invitation from the Letran Calamba Graduate School&#39;s Info
+ rmation Technology Management students\, fellow ReMo Eusebio &#34;Jun&#34; Barrun\
+ , Jr. and I will be giving talks about Mozilla in the country and the soon
+  to be released Firefox OS.
+URL:https://reps.mozilla.org/e/mozilla-day-conference-at-letran-calamba/
+SEQUENCE:0
+X-COORDINATES-LAT:14.1978257163
+X-COORDINATES-LON:121.150360107
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

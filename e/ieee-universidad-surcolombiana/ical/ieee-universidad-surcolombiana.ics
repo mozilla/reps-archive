@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2633
+CLASS:PUBLIC
+DTSTAMP:20200407T173724Z
+DTSTART:20140920T170000Z
+DTEND:20140921T140000Z
+LOCATION:Carrera 3  1-31\, Neiva\, Colombia
+SUMMARY:IEEE Universidad SurColombiana
+DESCRIPTION:Researchers enrolled in the IEEE Colombia will meet in Neiva i
+ n order to discuss current issues in engineering and they have invited the
+  Mozilla Colombia community to work and train members in the latest Mozill
+ a technologies.
+URL:https://reps.mozilla.org/e/ieee-universidad-surcolombiana/
+SEQUENCE:8
+X-COORDINATES-LAT:2.92576513209
+X-COORDINATES-LON:-75.2892580033
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

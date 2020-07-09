@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@235
+CLASS:PUBLIC
+DTSTAMP:20200423T223647Z
+DTSTART:20121212T200000Z
+DTEND:20121212T210000Z
+LOCATION:TBD\, Portland\, United States
+SUMMARY:PDX MozCoffee
+DESCRIPTION:Meet local Mozilla Developers (MoCo) and discuss Boot2Gecko an
+ d other Mozilla Projects with Local Users.\n\n
+URL:https://reps.mozilla.org/e/pdx-mozcoffee/
+SEQUENCE:0
+X-COORDINATES-LAT:45.4755402716
+X-COORDINATES-LON:-122.662353516
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7705
+CLASS:PUBLIC
+DTSTAMP:20200423T093607Z
+DTSTART:20180511T033000Z
+DTEND:20180512T113000Z
+LOCATION:University of Liberal Arts Bangladesh\, Dhaka\, Bangladesh
+SUMMARY:Firefox Triage Day\, Dhaka
+DESCRIPTION:A two day event focused on Bug Triage
+URL:https://reps.mozilla.org/e/firefox-triage-day-dhaka/
+SEQUENCE:0
+X-COORDINATES-LAT:23.7949656581
+X-COORDINATES-LON:90.3677845001
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

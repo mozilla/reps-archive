@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6500
+CLASS:PUBLIC
+DTSTAMP:20200407T174628Z
+DTSTART:20170416T003000Z
+DTEND:20170416T020000Z
+LOCATION:The Chai Bar\, Indore\, India
+SUMMARY:MozCoffee April month
+DESCRIPTION:Discussion about future events and gathering for new contribut
+ ors\, will explain the contribution part to new contributors.
+URL:https://reps.mozilla.org/e/mozcoffee-indore-1/
+SEQUENCE:2
+X-COORDINATES-LAT:22.7240586636
+X-COORDINATES-LON:75.8846253455
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

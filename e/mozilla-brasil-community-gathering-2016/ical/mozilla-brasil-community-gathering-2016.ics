@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5527
+CLASS:PUBLIC
+DTSTAMP:20200407T173751Z
+DTSTART:20160528T110000Z
+DTEND:20160529T210000Z
+LOCATION:Mútua Coworking\, Sao Paulo\, Brazil
+SUMMARY:Mozilla Brasil Community Gathering 2016
+DESCRIPTION:Encontro da Comunidade Mozilla no Brasil\, com o objetivo de r
+ esolver problemas e traçar metas e ações para os próximos 6 meses.
+URL:https://reps.mozilla.org/e/mozilla-brasil-community-gathering-2016/
+SEQUENCE:0
+X-COORDINATES-LAT:-23.5590043677
+X-COORDINATES-LON:-46.6104354872
+X-COUNTRY-CODE:br
+END:VEVENT
+
+END:VCALENDAR

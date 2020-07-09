@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1170
+CLASS:PUBLIC
+DTSTAMP:20200423T212411Z
+DTSTART:20130726T100000Z
+DTEND:20130804T140000Z
+LOCATION:Cultural Center of the Philippines\, Roxas Boulevard\, Pasay City
+ \, Philippines
+SUMMARY:Firefox Flicks in Cinemalaya 9
+DESCRIPTION:The Cinemalaya Philippine Independent Film Festival is a film 
+ competition and festival that aims to encourage the creation of new cinema
+ tic works by Filipino filmmakers. http://www.cinemalaya.org/
+URL:https://reps.mozilla.org/e/firefox-flicks-in-cinemalaya-9/
+SEQUENCE:3
+X-COORDINATES-LAT:14.5582366856
+X-COORDINATES-LON:120.985661745
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

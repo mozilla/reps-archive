@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@457
+CLASS:PUBLIC
+DTSTAMP:20200423T221210Z
+DTSTART:20130207T110000Z
+DTEND:20130207T140000Z
+LOCATION:BIT Linux Center Padang\, Padang\, Indonesia
+SUMMARY:MozKopdar Padang
+DESCRIPTION:First official meetup for mozillians in Padang\, West Sumatra\
+ , Indonesia. 
+URL:https://reps.mozilla.org/e/mozkopdar-padang/
+SEQUENCE:0
+X-COORDINATES-LAT:-0.85690164744
+X-COORDINATES-LON:100.34362793
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

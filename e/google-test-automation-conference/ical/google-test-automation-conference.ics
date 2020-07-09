@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@669
+CLASS:PUBLIC
+DTSTAMP:20200407T183320Z
+DTSTART:20130424T120000Z
+DTEND:20130425T210000Z
+LOCATION:Google Offices - New York City\, New York \, United States
+SUMMARY:Google Test Automation Conference
+DESCRIPTION:Conference gathering a group of test automation experts and di
+ scussing what they have been working on for the last while. This is an inv
+ ite only conference
+URL:https://reps.mozilla.org/e/google-test-automation-conference/
+SEQUENCE:0
+X-COORDINATES-LAT:40.6473035625
+X-COORDINATES-LON:-73.9709472656
+X-COUNTRY-CODE:us
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2562
+CLASS:PUBLIC
+DTSTAMP:20200423T190155Z
+DTSTART:20140913T010000Z
+DTEND:20140913T040000Z
+LOCATION:Aula Wisma Hawai\, Sinjai\, Indonesia
+SUMMARY:Indonesian Linux Conference
+DESCRIPTION:Indonesian Linux Conference in national event held every year 
+ to discuss about linux and and open source usage within government and pri
+ vate entity in Indonesia.\n\nWe will held Firefox OS workshop in one of th
+ e workshop slot
+URL:https://reps.mozilla.org/e/workshop-firefox-os-pada-workshop-media-sos
+ ial-untuk-perubahan-1/
+SEQUENCE:6
+X-COORDINATES-LAT:-5.2002289858
+X-COORDINATES-LON:120.131520599
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

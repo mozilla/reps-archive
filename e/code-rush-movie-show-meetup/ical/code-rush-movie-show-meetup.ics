@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1368
+CLASS:PUBLIC
+DTSTAMP:20200423T204331Z
+DTSTART:20131206T100000Z
+DTEND:20131206T130000Z
+LOCATION:TBD\, Dhaka\, Bangladesh
+SUMMARY:Code Rush movie show meetup
+DESCRIPTION:This is Mozilla Bangladesh community meetup and movie show of 
+ Bangla subtitled version of the movie &#34;Netscape Mozilla Documentary 1998 -
+  2000 Project Code Rush&#34; to the local Mozillians\, Reps and others partici
+ pants.
+URL:https://reps.mozilla.org/e/code-rush-movie-show-meetup/
+SEQUENCE:12
+X-COORDINATES-LAT:23.7328691874
+X-COORDINATES-LON:90.4078674316
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

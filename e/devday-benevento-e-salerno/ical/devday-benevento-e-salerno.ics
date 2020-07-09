@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7306
+CLASS:PUBLIC
+DTSTAMP:20200423T100553Z
+DTSTART:20180119T160000Z
+DTEND:20180120T160000Z
+LOCATION:Università di Benevento\, Rieti\, Italy
+SUMMARY:DevDay Benevento e Salerno
+DESCRIPTION:DevDay is a regional community in Campania with different dev 
+ meetups in different cities.
+URL:https://reps.mozilla.org/e/devday-benevento-e-salerno/
+SEQUENCE:6
+X-COORDINATES-LAT:41.1289997987
+X-COORDINATES-LON:14.7833862319
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

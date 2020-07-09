@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@6119
+CLASS:PUBLIC
+DTSTAMP:20200407T181952Z
+DTSTART:20161203T073000Z
+DTEND:20161203T133000Z
+LOCATION:ITH Technologies Pvt. LTD.\, 501\,502\,503\, 5th Floor\, Ratan Es
+ quire\, Chunniganj\, Kanpur\, Uttar Pradesh\, India\, Kanpur\, India
+SUMMARY:Local Hack Day
+DESCRIPTION:Organising a Hands-on-hackathon on Web Technologies\, Django &amp;
+  Git
+URL:https://reps.mozilla.org/e/local-hack-day/
+SEQUENCE:3
+X-COORDINATES-LAT:25.0
+X-COORDINATES-LON:0.0
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

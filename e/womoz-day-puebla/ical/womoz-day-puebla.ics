@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5751
+CLASS:PUBLIC
+DTSTAMP:20200423T150256Z
+DTSTART:20160820T150000Z
+DTEND:20160820T230000Z
+LOCATION:Inventoteca\, Puebla\, Mexico
+SUMMARY:WoMoz Day Puebla
+DESCRIPTION:En este evento buscamos incentivar una mayor participación de
+  las mujeres en el área de la tecnología desde una perspectiva incluyent
+ e. Las y los organizadores ya son parte activa de la comunidad Mozilla-WoM
+ oz que buscan compartir su conocimiento y aprender de las experiencias de 
+ quienes asistan a este WoMoz Day.\n\nEl objetivo es engrandecer a la comun
+ idad brindando confianza para una participación abierta e inclusiva con b
+ eneficios para todas y todos.
+URL:https://reps.mozilla.org/e/womoz-day-puebla/
+SEQUENCE:1
+X-COORDINATES-LAT:19.041335275
+X-COORDINATES-LON:-98.2078971877
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

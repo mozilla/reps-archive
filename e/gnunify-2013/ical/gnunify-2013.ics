@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@341
+CLASS:PUBLIC
+DTSTAMP:20200407T165611Z
+DTSTART:20130215T063000Z
+DTEND:20130217T063000Z
+LOCATION:Pune\, Pune\, India
+SUMMARY:GNUNify 2013
+DESCRIPTION:GNUnify is a premier Open Source Evangelicalism Event of Symbi
+ osis Institute of Computer Studies &amp; Research\, Pune India
+URL:https://reps.mozilla.org/e/gnunify-2013/
+SEQUENCE:0
+X-COORDINATES-LAT:18.533246524
+X-COORDINATES-LON:73.8336181641
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

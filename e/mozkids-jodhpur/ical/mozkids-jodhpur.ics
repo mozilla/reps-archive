@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4407
+CLASS:PUBLIC
+DTSTAMP:20200423T164042Z
+DTSTART:20150918T053000Z
+DTEND:20150918T073000Z
+LOCATION:Modern Public School Upper primary School Mogra\, Jodhpur\, India
+SUMMARY:MozKids @ Jodhpur
+DESCRIPTION:An Interactive event to help children know more about the Worl
+ d Wide Web and to teach them what is web and how it works.They will be tau
+ ght about webmaking and how to get involved in it also will be Introduced 
+ to webmaker tools.
+URL:https://reps.mozilla.org/e/mozkids-jodhpur/
+SEQUENCE:2
+X-COORDINATES-LAT:26.292594247
+X-COORDINATES-LON:73.0715331808
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

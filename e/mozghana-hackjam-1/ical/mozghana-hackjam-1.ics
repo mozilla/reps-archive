@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1900
+CLASS:PUBLIC
+DTSTAMP:20200407T182553Z
+DTSTART:20140308T110000Z
+DTEND:20140309T060000Z
+LOCATION:SMU Kumasi Campus\, Kumasi\, Ghana
+SUMMARY:MozGhana HackJAM
+DESCRIPTION:After success of our start up event now Mozilla Ghana is ready
+  to Hack the Web.\n\nThis event is going to give you more technical knowle
+ dge about web and Mozilla tools.\n\nCome and Let&#39;s Hack the web!
+URL:https://reps.mozilla.org/e/mozghana-hackjam-1/
+SEQUENCE:10
+X-COORDINATES-LAT:6.68706995545
+X-COORDINATES-LON:-1.619539
+X-COUNTRY-CODE:gh
+END:VEVENT
+
+END:VCALENDAR

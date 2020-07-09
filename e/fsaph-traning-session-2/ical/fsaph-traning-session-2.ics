@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5470
+CLASS:PUBLIC
+DTSTAMP:20200407T180244Z
+DTSTART:20160513T050000Z
+DTEND:20160513T090000Z
+LOCATION:Mozilla Philippines Community Space Manila\, Makati City\, Philip
+ pines
+SUMMARY:FSAPH Traning Session 2
+DESCRIPTION:Training session for FSA&#39;s to help them learn more about the c
+ ontent creation and photography to properly document and share their event
+ s online to make the presence of their event more effective. This session 
+ also includes a personal storytelling session where students will know mor
+ e about how they could share their personal experiences to make an impact 
+ and encourage more volunteers.
+URL:https://reps.mozilla.org/e/fsaph-traning-session-2/
+SEQUENCE:1
+X-COORDINATES-LAT:14.5469992
+X-COORDINATES-LON:121.0152693
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

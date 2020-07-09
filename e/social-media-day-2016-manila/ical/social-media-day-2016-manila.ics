@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5584
+CLASS:PUBLIC
+DTSTAMP:20200423T151627Z
+DTSTART:20160630T100000Z
+DTEND:20160630T140000Z
+LOCATION:SM Aura Premier Samsung Hall\, Taguig City\, Philippines
+SUMMARY:Social Media Day 2016 Manila
+DESCRIPTION:Join us as we celebrate the 5th Social Media Day together with
+  our online communities from North Luzon\, Manila\, and other cities in th
+ e Philippines. \n\nWe’re celebrating how social media is more powerful t
+ han ever – it can empower. It can move. It can bridge.
+URL:https://reps.mozilla.org/e/social-media-day-2016-manila/
+SEQUENCE:0
+X-COORDINATES-LAT:14.5481722791
+X-COORDINATES-LON:121.054605961
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

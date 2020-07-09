@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4409
+CLASS:PUBLIC
+DTSTAMP:20200423T163609Z
+DTSTART:20150926T023000Z
+DTEND:20150926T103000Z
+LOCATION:SATI\, Vidisha\, India
+SUMMARY:App Days in a Box cum Maker Party at SATI Vidisha\, MP
+DESCRIPTION:Agenda \n10:00 -  Introduction\n10:30 - About Community and Co
+ ntribution\n11:00 - Webmaker / talk on web literacy\n11:30 -  demonstratio
+ n of tools (light beam)+ talk on net neutrality\n12:00 - Application Devel
+ opment\n02:00 - lunch break\n02:30 - sprint resume\n04:00 - Ice break sess
+ ion\n05:00 - end of sprint / awarding top 3 best app developed\n05:15 - Su
+ bmission of apps on app-store\n05:30 - FSA Program and recruiting FSA\n06:
+ 00 - Inaugurating club / cake cutting / end of event
+URL:https://reps.mozilla.org/e/app-days-in-a-box-cum-maker-party-at-sati-v
+ idisha-mp/
+SEQUENCE:2
+X-COORDINATES-LAT:23.5098283155
+X-COORDINATES-LON:77.789467
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

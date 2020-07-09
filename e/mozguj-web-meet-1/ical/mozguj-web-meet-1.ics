@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8741
+CLASS:PUBLIC
+DTSTAMP:20200423T081831Z
+DTSTART:20190727T163000Z
+DTEND:20190727T173000Z
+LOCATION:Zoom\, Surat\, India
+SUMMARY:MozGuj Web Meet
+DESCRIPTION:Regular Meetup with Volunteers from Vadodara\, Gujarat. This M
+ eetup was online since we couldn&#39;t meet in-person.
+URL:https://reps.mozilla.org/e/mozguj-web-meet-1/
+SEQUENCE:1
+X-COORDINATES-LAT:21.1524728364
+X-COORDINATES-LON:72.7989993081
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

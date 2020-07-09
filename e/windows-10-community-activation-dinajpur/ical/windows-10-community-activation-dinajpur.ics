@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4424
+CLASS:PUBLIC
+DTSTAMP:20200407T165911Z
+DTSTART:20150914T040000Z
+DTEND:20150914T080000Z
+LOCATION:HSTU\, Dinajpur\, Bangladesh
+SUMMARY:Windows 10 community activation Dinajpur
+DESCRIPTION:Windows 10 community activation Dinajpur
+URL:https://reps.mozilla.org/e/windows-10-community-activation-dinajpur/
+SEQUENCE:2
+X-COORDINATES-LAT:25.6304223553
+X-COORDINATES-LON:88.6400105
+X-COUNTRY-CODE:bd
+END:VEVENT
+
+END:VCALENDAR

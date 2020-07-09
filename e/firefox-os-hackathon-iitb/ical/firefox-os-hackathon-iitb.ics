@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2361
+CLASS:PUBLIC
+DTSTAMP:20200407T175610Z
+DTSTART:20140625T073000Z
+DTEND:20140626T103000Z
+LOCATION:IIT Bombay\, Mumbai\, India
+SUMMARY:Firefox OS Hackathon @ IITB
+DESCRIPTION:The hackathon are informal workshops bringing together compete
+ nt and enthusiastic software developers to build cool projects within a da
+ y or two. The hackathon will be promoted heavily across the IIT Bombay loc
+ al technology community and Summer Interns 2014.  During the hackathon the
+ re will be educational talks\, demos on the Firefox native APIs\, developm
+ ent of apps\, porting B2G\, etc.
+URL:https://reps.mozilla.org/e/firefox-os-hackathon-iitb/
+SEQUENCE:19
+X-COORDINATES-LAT:19.1250732698
+X-COORDINATES-LON:72.9165216386
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

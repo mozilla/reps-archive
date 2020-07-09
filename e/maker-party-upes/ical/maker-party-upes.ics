@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3304
+CLASS:PUBLIC
+DTSTAMP:20200423T175511Z
+DTSTART:20150220T033000Z
+DTEND:20150220T113000Z
+LOCATION:University of Petroleum &amp; Energy Studies\, Dehradun\, Dehradun\, 
+ India
+SUMMARY:Maker Party UPES
+DESCRIPTION:This maker party will be part of the technical fest of the col
+ lege. In which we will be targeting students from different colleges. The 
+ event will be covering wide range of topis from Mozilla mission to FSA and
+  from Contribution areas to webmaker.This maker party is going to be organ
+ izing in order to spread awareness about Mozilla mission and its various p
+ rojects.
+URL:https://reps.mozilla.org/e/maker-party-upes/
+SEQUENCE:12
+X-COORDINATES-LAT:30.3230757656
+X-COORDINATES-LON:78.044345855
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

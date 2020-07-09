@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2976
+CLASS:PUBLIC
+DTSTAMP:20200407T175042Z
+DTSTART:20150123T033000Z
+DTEND:20150125T063000Z
+LOCATION:Muffakham Jah College of Engineering and Technology\, Hyderabad\,
+  India
+SUMMARY:Hackathon
+DESCRIPTION:Apps for Firefox OS demoed and submitted on marketplace.
+URL:https://reps.mozilla.org/e/hackathon-1/
+SEQUENCE:6
+X-COORDINATES-LAT:17.3571922738
+X-COORDINATES-LON:78.5199737549
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

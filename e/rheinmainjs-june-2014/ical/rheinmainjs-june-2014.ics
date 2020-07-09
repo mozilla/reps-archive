@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@2308
+CLASS:PUBLIC
+DTSTAMP:20200407T183608Z
+DTSTART:20140605T163000Z
+DTEND:20140605T203000Z
+LOCATION:UDG Rhein-Main\, Mayence\, Mayence\, Germany
+SUMMARY:RheinMainJS June 2014
+DESCRIPTION:RheinMainJS is a Javascript Usergroup for the Rhein-Main Area 
+ in Germany. It&#39;s a get together of Javascript Developers with at least 2 o
+ r 3 Talks and time to network with attendees.
+URL:https://reps.mozilla.org/e/rheinmainjs-june-2014/
+SEQUENCE:1
+X-COORDINATES-LAT:50.0143924729
+X-COORDINATES-LON:8.26199769974
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

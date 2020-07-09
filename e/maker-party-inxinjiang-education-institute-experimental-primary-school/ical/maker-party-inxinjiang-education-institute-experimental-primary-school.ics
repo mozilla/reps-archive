@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4069
+CLASS:PUBLIC
+DTSTAMP:20200423T171335Z
+DTSTART:20150616T092000Z
+DTEND:20150616T110000Z
+LOCATION:inXinjiang Education Institute Experimental Primary School\, wlmq
+ \, China
+SUMMARY:Maker Party  inXinjiang Education Institute Experimental Primary S
+ chool
+DESCRIPTION:Firefox Tianshan line -webmaker juvenile record passenger lear
+ ning camp program co-sponsored by the Firefox community in Xinjiang\,  Xin
+ jiang Education Experimental Primary School\, Urumqi tenth primary\, 40 se
+ condary schools in Urumqi\, the ultimate goal of this event is to make our
+  children get knowledge\, gain experience\, so that children realize the i
+ mportance of networking\, computer applications in the future life to help
+  our children to create an open\, innovative\, sharing\, free Internet spa
+ ce.
+URL:https://reps.mozilla.org/e/maker-party-inxinjiang-education-institute-
+ experimental-primary-school/
+SEQUENCE:0
+X-COORDINATES-LAT:43.801244231
+X-COORDINATES-LON:2607.61423194
+X-COUNTRY-CODE:cn
+END:VEVENT
+
+END:VCALENDAR

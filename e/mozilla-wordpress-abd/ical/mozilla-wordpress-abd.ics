@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7667
+CLASS:PUBLIC
+DTSTAMP:20200407T181226Z
+DTSTART:20180527T053000Z
+DTEND:20180527T073000Z
+LOCATION:TBD\, Ahmedabad\, India
+SUMMARY:mozilla @ wordpress ABD
+DESCRIPTION:mozwp is initiative to collaborate  with wp community And cele
+ brate WP 15th Birthday  where participants and wp developers can learn how
+  to contribute in mozilla projects using Wordpress as Web Development Skil
+ l And wishing  wp a very Happy birthday
+URL:https://reps.mozilla.org/e/mozilla-wordpress-abd/
+SEQUENCE:8
+X-COORDINATES-LAT:23.0225
+X-COORDINATES-LON:72.5714
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

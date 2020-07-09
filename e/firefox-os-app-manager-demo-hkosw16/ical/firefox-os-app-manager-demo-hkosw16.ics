@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1467
+CLASS:PUBLIC
+DTSTAMP:20200423T205535Z
+DTSTART:20131102T063000Z
+DTEND:20131102T093000Z
+LOCATION:Classroom Y5-306\, 5/F Academic 1\, City University of Hong Kong\
+ , Kowloon Tong.\, Hong Kong\, Hong Kong
+SUMMARY:Firefox OS App Manager demo @ HKOSW16
+DESCRIPTION:Gary Kwong is security engineer at Mozilla Mountain View offic
+ e and he will demonstrate Firefox OS App Manager at his trip in Hong Kong.
+  This event is also known as Open Source Workshop #16.
+URL:https://reps.mozilla.org/e/firefox-os-app-manager-demo-hkosw16/
+SEQUENCE:1
+X-COORDINATES-LAT:22.336255883
+X-COORDINATES-LON:114.176310541
+X-COUNTRY-CODE:hk
+END:VEVENT
+
+END:VCALENDAR

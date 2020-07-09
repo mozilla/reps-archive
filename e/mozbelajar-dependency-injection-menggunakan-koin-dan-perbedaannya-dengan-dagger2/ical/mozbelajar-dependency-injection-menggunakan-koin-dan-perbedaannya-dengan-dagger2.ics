@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8417
+CLASS:PUBLIC
+DTSTAMP:20200423T084142Z
+DTSTART:20190217T070000Z
+DTEND:20190217T110000Z
+LOCATION:Mozilla Community Space Jakarta\, Jakarta\, Indonesia
+SUMMARY:MozBelajar : Dependency Injection menggunakan Koin dan perbedaanny
+ a dengan Dagger2
+DESCRIPTION:It is one of a workshop that initiates by android enthusiast J
+ akarta community that collaborate with Mozilla Indonesia. The workshop is 
+ about dependency injection using Koin and the differences with Dagger that
+  will be implemented in a simple app call Football Club.
+URL:https://reps.mozilla.org/e/mozbelajar-dependency-injection-menggunakan
+ -koin-dan-perbedaannya-dengan-dagger2/
+SEQUENCE:1
+X-COORDINATES-LAT:-6.23469671292
+X-COORDINATES-LON:106.820889473
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

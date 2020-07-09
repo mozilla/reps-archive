@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8122
+CLASS:PUBLIC
+DTSTAMP:20200407T171653Z
+DTSTART:20180923T000000Z
+DTEND:20180929T235500Z
+LOCATION:Onine\, Berlin\, Germany
+SUMMARY:Reps Council Elections Fall 2018 - Nominees
+DESCRIPTION:If you are eligible\, interested and committed to fulfill the 
+ Reps Council responsibilities\, and want to run for the Reps Council Fall 
+ 2018 elections\, please mark yourself as attending on this event page. Ple
+ ase read the Council Wiki Page (https://wiki.mozilla.org/Reps/Council) in 
+ full to know about responsibilities and accountability before doing so.\n\
+ nAdditionally\, we ask you to update your reports on the Reps Portal to ma
+ ke sure everything is up to date once voters will look at your profile.
+URL:https://reps.mozilla.org/e/reps-council-elections-fall-2018-nominees/
+SEQUENCE:2
+X-COORDINATES-LAT:52.4993447921
+X-COORDINATES-LON:13.44943428
+X-COUNTRY-CODE:de
+END:VEVENT
+
+END:VCALENDAR

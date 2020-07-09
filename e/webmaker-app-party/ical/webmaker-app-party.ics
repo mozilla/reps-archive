@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@4542
+CLASS:PUBLIC
+DTSTAMP:20200407T165857Z
+DTSTART:20150929T110000Z
+DTEND:20150929T140000Z
+LOCATION:ARTOTEL\, Jakarta\, Indonesia
+SUMMARY:Webmaker App Party
+DESCRIPTION:Webmaker App Party is a big celebration of series of activitie
+ s events of Webmaker App Launch which has lasted throughout the month of A
+ ugust to September 2015 in 13 cities across Indonesia.
+URL:https://reps.mozilla.org/e/webmaker-app-party/
+SEQUENCE:2
+X-COORDINATES-LAT:-6.18887713661
+X-COORDINATES-LON:106.82444644
+X-COUNTRY-CODE:id
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3489
+CLASS:PUBLIC
+DTSTAMP:20200423T174550Z
+DTSTART:20150307T210000Z
+DTEND:20150307T230000Z
+LOCATION:Teniente Coronel Sanchez Street\, Camiri\, Bolivia
+SUMMARY:MozCoffee Camiri 2015
+DESCRIPTION:Camiri is a growing city at southern Bolivia\, this city has a
+  large college students population\, where we can create a new Mozilla com
+ munity in Bolivia\, for projects like WebMaker\, Firefrox OS Workshop and 
+ more. For this\, we are organizing a MozCoffee\, the first in this city\, 
+ to organize a team and to define the goals and projects this year.
+URL:https://reps.mozilla.org/e/mozcoffee-camiri-2015/
+SEQUENCE:3
+X-COORDINATES-LAT:-20.0396053776
+X-COORDINATES-LON:-63.5193221571
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

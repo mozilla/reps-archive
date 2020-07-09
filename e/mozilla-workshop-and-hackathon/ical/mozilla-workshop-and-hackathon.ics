@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3318
+CLASS:PUBLIC
+DTSTAMP:20200423T175411Z
+DTSTART:20150221T033000Z
+DTEND:20150222T120000Z
+LOCATION:Jawaharlal Nehru Technological University-Kakinada\,  Kakinada\, 
+ Andhra Pradesh\, 533003. India.\, Kakinada\, India
+SUMMARY:Mozilla Workshop and Hackathon
+DESCRIPTION:A 2 day event totally concentrated on Developing and Publishin
+ g apps for Firefox OS Mobile Platform. This event is meant to Give a Clear
+  view about Firefox OS Platform and Encourage People to Develop Apps for F
+ irefox OS and also for the web developers to port their Apps to Firefox OS
+  .
+URL:https://reps.mozilla.org/e/mozilla-workshop-and-hackathon/
+SEQUENCE:10
+X-COORDINATES-LAT:16.144663068
+X-COORDINATES-LON:79.1230316134
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

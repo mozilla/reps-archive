@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8796
+CLASS:PUBLIC
+DTSTAMP:20200407T170252Z
+DTSTART:20190928T043000Z
+DTEND:20190928T143000Z
+LOCATION:Punjab\, India\, Chandigarh\, India
+SUMMARY:DevFest Punjab 2019
+DESCRIPTION:DevFest Punjab 2019 is an annual all-day developer conference 
+ that offers speaker sessions. I am speaking aboout the Addons and Privacy 
+ Campiagn that Mozilla has led. One more thing is that\, Punjabi contributo
+ rs have declined in Pontoon Project\, I wish to make it grow again in this
+  event as I will be giving 2-3 talks on Addons\, Pontoon\, and Privacy Cam
+ paign
+URL:https://reps.mozilla.org/e/devfest-punjab-2019/
+SEQUENCE:6
+X-COORDINATES-LAT:30.7129013596
+X-COORDINATES-LON:76.8260421697
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

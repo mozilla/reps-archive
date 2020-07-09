@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@8844
+CLASS:PUBLIC
+DTSTAMP:20200407T173910Z
+DTSTART:20191012T180000Z
+DTEND:20191012T210000Z
+LOCATION:Av. 3 Pasos al Frente\, Santa Cruz\, Bolivia\, Santa Cruz de la S
+ ierra\, Bolivia
+SUMMARY:Mozilla and the Web Security
+DESCRIPTION:This event will be the opportunity to show the dangers in the 
+ internet network. How to prevent them\, measures offered by Mozilla and Fi
+ refox\, raise awareness about the privacy and importance of it.
+URL:https://reps.mozilla.org/e/mozilla-and-the-web-security/
+SEQUENCE:3
+X-COORDINATES-LAT:-17.8016655665
+X-COORDINATES-LON:-63.1355919242
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

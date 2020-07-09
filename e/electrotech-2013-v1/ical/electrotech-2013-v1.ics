@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@749
+CLASS:PUBLIC
+DTSTAMP:20200423T215513Z
+DTSTART:20130408T110000Z
+DTEND:20130408T120000Z
+LOCATION:Universitatea Tehnica Cluj Napoca\, Cluj Napoca\, Romania
+SUMMARY:ElectroTech 2013 v1
+DESCRIPTION:ElectroTech is an biannual event hosted by OSUT - Students Org
+ anization from Technical University - in the university class rooms and au
+ ditoriums\, being the biggest event of this kind from Technical University
+  of Cluj Napoca The project had its first edition back in 2006\, and since
+  then\, the biggest companies (from Romania and not only ) joined the even
+ t. ElectroTech consists in companies presentation - 45 min presentation + 
+ Q&amp;A. Also wețll have a both made in the University&#39;s hall. 
+URL:https://reps.mozilla.org/e/electrotech-2013-v1/
+SEQUENCE:15
+X-COORDINATES-LAT:46.7725697369
+X-COORDINATES-LON:23.5854792595
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

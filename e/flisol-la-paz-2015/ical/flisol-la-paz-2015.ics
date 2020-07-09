@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3676
+CLASS:PUBLIC
+DTSTAMP:20200423T172847Z
+DTSTART:20150425T140000Z
+DTEND:20150425T220000Z
+LOCATION:Av. Villazón 1995 Monoblock Central\, La Paz\, Bolivia
+SUMMARY:FLISOL La Paz 2015
+DESCRIPTION:Latin America Festival of Free Software Installation where all
+  the local Communties participate showing everything about Free Source and
+  Free Software. Mozilla Bolivia Community will be showing all about Mozill
+ a. The event will be held in Mayor de San Andrés University of La Paz Cit
+ y.
+URL:https://reps.mozilla.org/e/flisol-la-paz-2015/
+SEQUENCE:2
+X-COORDINATES-LAT:-16.5044872034
+X-COORDINATES-LON:-68.1295666698
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

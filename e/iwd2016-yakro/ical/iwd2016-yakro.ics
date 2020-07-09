@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@5291
+CLASS:PUBLIC
+DTSTAMP:20200423T154014Z
+DTSTART:20160319T090000Z
+DTEND:20160319T180000Z
+LOCATION:ISCAE Yamoussoukro\, Yamoussoukro\, Ivory Coast
+SUMMARY:IWD2016  Yakro
+DESCRIPTION:Saturday\, March 19  in Yamoussoukro my hometown\, I participa
+ te as a speaker and organizer with the Tech community of Yamoussoukro city
+  a meetup in connection with the International Women Day. As speaker\, i i
+ ntroduce  the Mozilla and womoz program and also the importance and the pl
+ ace of women in tech.
+URL:https://reps.mozilla.org/e/iwd2016-yakro/
+SEQUENCE:1
+X-COORDINATES-LAT:6.81453978046
+X-COORDINATES-LON:-5.2773855
+X-COUNTRY-CODE:ci
+END:VEVENT
+
+END:VCALENDAR

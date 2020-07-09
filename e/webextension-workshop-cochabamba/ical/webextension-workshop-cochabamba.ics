@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@7008
+CLASS:PUBLIC
+DTSTAMP:20200407T173911Z
+DTSTART:20171028T130000Z
+DTEND:20171028T220000Z
+LOCATION:Oquendo Avenue\, Cochabamba\, Bolivia
+SUMMARY:WebExtension Workshop Cochabamba
+DESCRIPTION:This Workshop will help to create new WebExtensions for Firefo
+ x and Firefox for Android. Will be the first time that we show to our Coch
+ abamba users how create Web Extensions whit a workshop.\nAlso we want to s
+ tablish a community with 2 new mozillians and 1 new Reps\, whos will work 
+ with the Cochabamba Community.
+URL:https://reps.mozilla.org/e/webextension-workshop-cochabamba/
+SEQUENCE:3
+X-COORDINATES-LAT:-17.3934614693
+X-COORDINATES-LON:-66.145960093
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

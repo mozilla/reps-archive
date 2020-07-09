@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@495
+CLASS:PUBLIC
+DTSTAMP:20200423T215726Z
+DTSTART:20130401T060000Z
+DTEND:20130401T080000Z
+LOCATION:Liceul teoretic &#34;Petru Maior&#34;\, Ocna Mures\, Romania
+SUMMARY:Scoala Altfel - Ocna Mureș
+DESCRIPTION:&#34;Scoala Altfel&#34; (en. Other type of School) is a one week progr
+ am that all schools from Romania are organizing to offer to the young stud
+ ents alternative to formal learning. \nI will be present in a highschool t
+ o introduce Webmaker tools and WebApps (Firefox OS ).
+URL:https://reps.mozilla.org/e/scoala-altfel-aiud/
+SEQUENCE:11
+X-COORDINATES-LAT:46.3916416006
+X-COORDINATES-LON:23.8540649414
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR

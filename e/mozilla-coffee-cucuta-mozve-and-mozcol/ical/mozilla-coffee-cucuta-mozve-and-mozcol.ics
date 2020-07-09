@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@1795
+CLASS:PUBLIC
+DTSTAMP:20200407T173724Z
+DTSTART:20140209T230000Z
+DTEND:20140210T010000Z
+LOCATION:Calles 10 y 11. entre Av. 0 y Diagonal Santander - Local 1-17 - C
+ .C. Ventura Plaza\, Cúcuta\, Norte de Santander\, Cucuta\, Colombia
+SUMMARY:Mozilla Coffee Cúcuta - MozVe and MozCol
+DESCRIPTION:A meeting of Mozillians around Colombia and Venezuela to catch
+  up\, talk about Mozilla Hispano and Mozilla products\, and discuss ways o
+ f getting more Mozillians.\n\nSchedule:\n\n6:00 Introduction/presentation\
+ n6:30. How to create a WebMaker seance for the event?\n7:20- How to build 
+ Firefox OS apps? (talk a little bit about tools and the market place) \n7:
+ 40 Start to planing the event (Budget\, place\, audience...)
+URL:https://reps.mozilla.org/e/mozilla-coffee-cucuta-mozve-and-mozcol/
+SEQUENCE:4
+X-COORDINATES-LAT:8.31384268999
+X-COORDINATES-LON:-72.4664640427
+X-COUNTRY-CODE:co
+END:VEVENT
+
+END:VCALENDAR

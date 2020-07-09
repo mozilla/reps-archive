@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@3793
+CLASS:PUBLIC
+DTSTAMP:20200423T171045Z
+DTSTART:20150621T080000Z
+DTEND:20150621T130000Z
+LOCATION:Domino&#39;s Avinashi Road\, Coimbatore\, India
+SUMMARY:MozCoffee Coimbatore
+DESCRIPTION:Meetup of new Mozilla enthusiasts\, volunteers\,FSA&#39;s in Coimb
+ atore. This event will focus on planning upcoming events of local communit
+ y\,community development and other related areas.
+URL:https://reps.mozilla.org/e/mozcoffee-coimbatore/
+SEQUENCE:12
+X-COORDINATES-LAT:10.8166701464
+X-COORDINATES-LON:76.8308715709
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@708
+CLASS:PUBLIC
+DTSTAMP:20200423T215418Z
+DTSTART:20130411T090000Z
+DTEND:20130411T130000Z
+LOCATION:Hotel Cismigiu\, Cervantes Institute Amphitheatre\, Bucharest\, B
+ ucharest\, Romania
+SUMMARY:IT is Business - Level Up
+DESCRIPTION:This is an student event targeting students interested in havi
+ ng a start-up or a business. The event&#39;s topic is game development.\n\nIt 
+ will feature a presentation about WebFWD\, followed by a presentation by G
+ ameleon (one of the projects in WebFWD)\n\nAbout 130 people are estimated 
+ to attend this event.
+URL:https://reps.mozilla.org/e/it-is-business-level-up/
+SEQUENCE:3
+X-COORDINATES-LAT:44.4345459444
+X-COORDINATES-LON:26.0945731401
+X-COUNTRY-CODE:ro
+END:VEVENT
+
+END:VCALENDAR
