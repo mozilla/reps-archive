@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9228
+CLASS:PUBLIC
+DTSTAMP:20200730T082239Z
+DTSTART:20200509T133000Z
+DTEND:20200509T150000Z
+LOCATION:Sri Lanka\, Kandy\, Sri Lanka
+SUMMARY:Hunt from Home - Phase 2 Sri Lanka
+DESCRIPTION:Description\n\nThe phase one of the Hunt from Home campaign ha
+ s ended\, and phase two 2 has started!\n\nDuring phase one we asked you to
+  tell us about the tools you’re using to collaborate\, socialize\, strea
+ m\, and learn during the COVID crisis. Thanks to you\, we now have a bette
+ r understanding of the websites that need our immediate attention.\n\nBut 
+ we still need your help!
+URL:https://reps.mozilla.org/e/hunt-from-home-phase-2-sri-lanka/
+SEQUENCE:1
+X-COORDINATES-LAT:6.79189885184
+X-COORDINATES-LON:80.0258785486
+X-COUNTRY-CODE:lk
+END:VEVENT
+
+END:VCALENDAR

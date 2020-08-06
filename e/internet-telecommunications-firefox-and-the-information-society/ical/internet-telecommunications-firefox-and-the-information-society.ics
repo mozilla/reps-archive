@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9232
+CLASS:PUBLIC
+DTSTAMP:20200730T075218Z
+DTSTART:20200517T230000Z
+DTEND:20200518T000000Z
+LOCATION:Bush Av\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Internet\, telecommunications\, Firefox and the information societ
+ y.
+DESCRIPTION:We will celebrate the international day of the Internet with a
+  webinar talking about the state of the Internet\, telecommunications\, Fi
+ refox and the information society
+URL:https://reps.mozilla.org/e/internet-telecommunications-firefox-and-the
+ -information-society/
+SEQUENCE:0
+X-COORDINATES-LAT:-17.7853048343
+X-COORDINATES-LON:-63.1792831333
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

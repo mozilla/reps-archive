@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9172
+CLASS:PUBLIC
+DTSTAMP:20200730T075218Z
+DTSTART:20200411T140000Z
+DTEND:20200411T150000Z
+LOCATION:Bush av.\, Santa Cruz de la Sierra\, Bolivia
+SUMMARY:Security\, Firefox in telework
+DESCRIPTION:We have seen how the way of working and how cyber criminals ta
+ ke advantage of infecting rasomware changed in this covid-19 pandemic\, th
+ erefore many made the decision to work from home. \nTeleworking through th
+ is event we want to teach you some of the tools with the one we have in fi
+ refox that can help us to have safe work at home environments in these tim
+ es.\n\nWill participate as main exponent our MozBO member Nector Antonio C
+ arita
+URL:https://reps.mozilla.org/e/security-firefox-in-telework/
+SEQUENCE:1
+X-COORDINATES-LAT:-17.7761722781
+X-COORDINATES-LON:-63.1950670483
+X-COUNTRY-CODE:bo
+END:VEVENT
+
+END:VCALENDAR

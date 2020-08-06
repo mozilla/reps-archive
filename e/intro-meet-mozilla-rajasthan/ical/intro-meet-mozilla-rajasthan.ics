@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9238
+CLASS:PUBLIC
+DTSTAMP:20200730T032731Z
+DTSTART:20200602T043000Z
+DTEND:20200602T053000Z
+LOCATION:Jaipur - Online\, Jaipur\, India
+SUMMARY:Intro Meet Mozilla Rajasthan
+DESCRIPTION:A online discussion with few new contributors to guide them fo
+ r the journey of open source\, more around how to start contributing.
+URL:https://reps.mozilla.org/e/intro-meet-mozilla-rajasthan/
+SEQUENCE:0
+X-COORDINATES-LAT:26.7971061368
+X-COORDINATES-LON:75.9079742432
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9241
+CLASS:PUBLIC
+DTSTAMP:20200730T063322Z
+DTSTART:20200416T110000Z
+DTEND:20200416T120000Z
+LOCATION:MozillaPH Slack\, Makati City\, Philippines
+SUMMARY:MozillaPH L10n Team Meeting for Apr 2020
+DESCRIPTION:Monthly meeting of the Mozilla Philippines Community (MozillaP
+ H) Localization (L10n) Team. The meeting happens online via Slack. If you 
+ need access to the MozillaPH Slack\, please go to https://www.mozillaphili
+ ppines.org/slack/
+URL:https://reps.mozilla.org/e/mozillaph-l10n-team-meeting-for-apr-2020/
+SEQUENCE:0
+X-COORDINATES-LAT:14.4976218302
+X-COORDINATES-LON:120.97631827
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

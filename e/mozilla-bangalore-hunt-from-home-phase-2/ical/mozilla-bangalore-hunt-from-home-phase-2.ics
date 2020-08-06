@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9231
+CLASS:PUBLIC
+DTSTAMP:20200730T032906Z
+DTSTART:20200516T000000Z
+DTEND:20200516T010000Z
+LOCATION:https://meet.google.com/rrc-hfrr-imq\, Bangalore\, India
+SUMMARY:Mozilla Bangalore: Hunt from Home Phase 2
+DESCRIPTION:Join the Mozilla Bangalore community in this event where we ex
+ plain how the Gecko engine works and how you can hunt web rendering bugs t
+ o help the Mozilla project.\n\nAgenda:  \n1. Explanation of hunting UI bug
+ s for Gecko rendering engine  \n2. Live demonstration of bug hunting  \n3.
+  How ninjas find bugs effectively  \n4. How can YOU find and report bugs
+URL:https://reps.mozilla.org/e/mozilla-bangalore-hunt-from-home-phase-2/
+SEQUENCE:3
+X-COORDINATES-LAT:12.9610514588
+X-COORDINATES-LON:77.5964122452
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

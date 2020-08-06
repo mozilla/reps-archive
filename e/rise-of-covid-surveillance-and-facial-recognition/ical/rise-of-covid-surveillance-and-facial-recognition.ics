@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9237
+CLASS:PUBLIC
+DTSTAMP:20200730T032725Z
+DTSTART:20200521T123000Z
+DTEND:20200521T140000Z
+LOCATION:online\, New Delhi\, India
+SUMMARY:Rise of Covid Surveillance and Facial Recognition
+DESCRIPTION:The COVID-19 pandemic has resulted in several global systems f
+ ailing\, systems originally built to handle emergencies. This emergency is
+  being used as a chance to experiment with new forms of technology to unde
+ rstand how diseases spread. In this session the speakers will discuss the 
+ rise of facial recognition surveillance technologies in India and the impl
+ ications for privacy protection\, while also looking at the effectiveness 
+ of these technologies.
+URL:https://reps.mozilla.org/e/rise-of-covid-surveillance-and-facial-recog
+ nition/
+SEQUENCE:0
+X-COORDINATES-LAT:34.0611925187
+X-COORDINATES-LON:74.8392105103
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR
