@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9243
+CLASS:PUBLIC
+DTSTAMP:20200730T082237Z
+DTSTART:20200515T140000Z
+DTEND:20200516T220000Z
+LOCATION:TUA (Virtual)\, Aguascalientes\, Mexico
+SUMMARY:FLISoL Aguascalientes 2020
+DESCRIPTION:The Latin American Free Software Install Fest (FLISoL) is an e
+ vent across Latin America and the biggest one in the region\, celebrated i
+ n more than 200 cities\, that aims to promote Free Software. Aguascaliente
+ s\, a city in Mexico\, will held an online event on May 15th and May 16th.
+  At this event I will present the talk &#34;From Zero to Production with Rust\
+ , Python and GitLab&#34; (in Spanish).
+URL:https://reps.mozilla.org/e/flisol-aguascalientes-2020/
+SEQUENCE:1
+X-COORDINATES-LAT:21.8805889033
+X-COORDINATES-LON:-102.295921328
+X-COUNTRY-CODE:mx
+END:VEVENT
+
+END:VCALENDAR

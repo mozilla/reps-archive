@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9249
+CLASS:PUBLIC
+DTSTAMP:20200730T032611Z
+DTSTART:20200722T163000Z
+DTEND:20200722T183000Z
+LOCATION:online\, Turin\, Italy
+SUMMARY:Common Voice sprint in italiano!
+DESCRIPTION:Event dedicated to know and contribute to the Common Voice pro
+ ject in Italian.\nWe&#39;ll meet 6:30pm in the Zoom https://mozilla.zoom.us/j/
+ 843843961
+URL:https://reps.mozilla.org/e/common-voice-sprint-in-italiano-1/
+SEQUENCE:0
+X-COORDINATES-LAT:45.0502623775
+X-COORDINATES-LON:7.66943907729
+X-COUNTRY-CODE:it
+END:VEVENT
+
+END:VCALENDAR

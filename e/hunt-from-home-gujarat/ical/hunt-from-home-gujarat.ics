@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9222
+CLASS:PUBLIC
+DTSTAMP:20200729T165522Z
+DTSTART:20200503T113000Z
+DTEND:20200503T133000Z
+LOCATION:Vadodara\, Vadodara\, India
+SUMMARY:Hunt From Home: Gujarat
+DESCRIPTION:During this lockdown\, contribute to make the Internet a bette
+ r place and become a BugHunter. In this event join the fellow BugHunters t
+ o test websites on Firefox Nightly or Firefox Beta. You can choose what yo
+ u want to test\, find the bugs\, and file them!
+URL:https://reps.mozilla.org/e/hunt-from-home-gujarat/
+SEQUENCE:2
+X-COORDINATES-LAT:22.3052754866
+X-COORDINATES-LON:73.1951293722
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR

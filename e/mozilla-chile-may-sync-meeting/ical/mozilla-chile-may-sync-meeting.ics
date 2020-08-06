@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9233
+CLASS:PUBLIC
+DTSTAMP:20200730T070100Z
+DTSTART:20200516T230000Z
+DTEND:20200518T000000Z
+LOCATION:Sabt\, Comuna de La Florida\, Chile
+SUMMARY:Mozilla Chile May Sync Meeting
+DESCRIPTION:This is an online-only event
+URL:https://reps.mozilla.org/e/mozilla-chile-may-sync-meeting/
+SEQUENCE:1
+X-COORDINATES-LAT:-33.4344972927
+X-COORDINATES-LON:-70.6845706701
+X-COUNTRY-CODE:cl
+END:VEVENT
+
+END:VCALENDAR

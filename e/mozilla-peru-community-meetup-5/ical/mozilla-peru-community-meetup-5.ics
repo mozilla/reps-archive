@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9247
+CLASS:PUBLIC
+DTSTAMP:20200730T032620Z
+DTSTART:20200626T000000Z
+DTEND:20200626T020000Z
+LOCATION:Online event\, Lima\, Peru
+SUMMARY:Mozilla Peru Community Meetup
+DESCRIPTION:The monthly community meeting\, to talk about local projects a
+ nd Mozilla projects/technologies
+URL:https://reps.mozilla.org/e/mozilla-peru-community-meetup-5/
+SEQUENCE:1
+X-COORDINATES-LAT:-12.0459948028
+X-COORDINATES-LON:-77.0305716994
+X-COUNTRY-CODE:pe
+END:VEVENT
+
+END:VCALENDAR

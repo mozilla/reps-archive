@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9219
+CLASS:PUBLIC
+DTSTAMP:20200730T063319Z
+DTSTART:20200425T060000Z
+DTEND:20200425T100000Z
+LOCATION:Online\, Makati City\, Philippines
+SUMMARY:MozillaPH Monthly Meetup (APR 2020) &amp; Localization Sprint (ONLINE)
+DESCRIPTION:In support of the government&#39;s call to &#34;Stay at Home&#34; and &#34;Wor
+ k from Home&#34;\, the Mozilla Philippines Community (MozillaPH) will be hosti
+ ng this month&#39;s meetup for Pinoy Mozillians online.\n\nFor the very first 
+ time\, we are having a MozillaPH Online Tambayan session this coming Satur
+ day\, 25 April 2020 from 2PM to 6PM (MNL time) via YouTube Live.
+URL:https://reps.mozilla.org/e/mozillaph-monthly-meetup-apr-2020-localizat
+ ion-sprint-online/
+SEQUENCE:0
+X-COORDINATES-LAT:14.3820084166
+X-COORDINATES-LON:121.006347612
+X-COUNTRY-CODE:ph
+END:VEVENT
+
+END:VCALENDAR

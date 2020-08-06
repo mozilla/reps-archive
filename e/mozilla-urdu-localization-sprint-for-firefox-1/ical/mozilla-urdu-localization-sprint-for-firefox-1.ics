@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9175
+CLASS:PUBLIC
+DTSTAMP:20200730T032725Z
+DTSTART:20200412T110000Z
+DTEND:20200412T150000Z
+LOCATION:Online\, Nowshera\, Pakistan
+SUMMARY:Mozilla Urdu Localization Sprint For Firefox
+DESCRIPTION:The event will be organized Online. After the great success of
+  Mozilla L10N Hackathon Kualalumpur\, We got the translation rights for th
+ e Firefox and our team started contributing to localization. Goals:. To in
+ vite and motivate more contributors in and around the region to come forwa
+ rd for Urdu localization.
+URL:https://reps.mozilla.org/e/mozilla-urdu-localization-sprint-for-firefo
+ x-1/
+SEQUENCE:6
+X-COORDINATES-LAT:34.0083952
+X-COORDINATES-LON:72.0038498
+X-COUNTRY-CODE:pk
+END:VEVENT
+
+END:VCALENDAR

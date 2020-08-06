@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//reps.mozilla.com Events//
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:https://reps.mozilla.org@9230
+CLASS:PUBLIC
+DTSTAMP:20200729T165521Z
+DTSTART:20200516T103000Z
+DTEND:20200516T123000Z
+LOCATION:Navrachana University\, Vadodara\, India
+SUMMARY:MozNUV Online Meetup
+DESCRIPTION:MozNUV\, Campus Club from Navrachana University\, will be hold
+ ing its first meetup to mobilize Mozilla&#39;s Mission\, Open Source\, and Con
+ tribution. Pranshu Khanna\, a Rep from Mozilla Gujarat will be sharing his
+  experience with Mozilla.
+URL:https://reps.mozilla.org/e/moznuv-online-meetup/
+SEQUENCE:1
+X-COORDINATES-LAT:22.2577494845
+X-COORDINATES-LON:73.2297362387
+X-COUNTRY-CODE:in
+END:VEVENT
+
+END:VCALENDAR
